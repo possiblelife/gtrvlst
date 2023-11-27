@@ -584,7 +584,7 @@ https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0021/1925/brand.gif?itok=1cN-mqCa" tvg-website="https://www.tv5monde.com/" ,TV5 Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="https://seeklogo.com/images/B/bbc-news-global-logo-AAC6CDF27E-seeklogo.com.png" tvg-website="https://www.bbc.com/news/world" ,BBC World News
-https://1292072398.rsc.cdn77.org/tXnGOved3swW5zXp4Ww3ag==,1696553122/1292072398/tracks-v1a1/mono.m3u8
+https://1292072398.rsc.cdn77.org/R6-_OjDfQjVkEjEvwBuDDA==,1701096319/1292072398/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="https://seeklogo.com/images/B/bbc-news-global-logo-AAC6CDF27E-seeklogo.com.png" tvg-website="https://www.bbc.com/news/world" ,BBC World News (Backup)
 https://www.livenewsmag.com/bbc-world-news-live-stream/|webdig
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="https://www.open-live.org/it/wp-content/uploads/2017/08/RaiNews-1.png" tvg-website="https://www.rainews.it/" ,Rai News 24
