@@ -366,12 +366,6 @@ https://live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8
 https://infopatra.gr/?page_id=56514|webdig
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/3yrTWp2/pro-news.png" tvg-website="https://www.pronews.gr/" ,PRONEWS tv 
 https://di-8j1efme9.leasewebultracdn.com/p/3403/live/prolive.m3u8
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://static.wixstatic.com/media/ed2185_6064e4eff0df4291b52073f656012700~mv2.png/v1/fill/w_189,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/BCI%20NEWS.png" tvg-website="https://www.bcimediainc.com/" ,BCI News
-https://eu1.vectromdigital.com:1936/bci24news/bci24news/playlist.m3u8
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://static.wixstatic.com/media/ed2185_b7fdbb8511284919b417cd525d5f4901~mv2.png/v1/fill/w_188,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/BCI%20TRAVEL%20(2).png" tvg-website="https://www.bcimediainc.com/" ,BCI Travel
-https://eu1.vectromdigital.com:1936/bcitravel/bcitravel/playlist.m3u8
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://static.wixstatic.com/media/ed2185_fbc7b60276a248e48244ca3edcddb306~mv2.png/v1/fill/w_108,h_23,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/BCI%20DOCUMENTARY.png" tvg-website="https://www.bcimediainc.com/" ,BCI Documentary
-https://eu1.vectromdigital.com:1936/bcidocumentary/bcidocumentary/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/yQ997v6/konitsa-tv.jpg" tvg-website="https://konitsa-tv7.webnode.gr/" ,KONITSA TV
 https://konitsa-tv7.webnode.gr/|webdig
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" ,X TV
@@ -430,12 +424,6 @@ https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="http://netmaxtv.com/wp-content/uploads/2020/07/forweb.png" ,Netmax TV
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="https://i.ibb.co/VWLDMPp/bci.jpg" tvg-website="https://www.bcimediainc.com/" ,BCI Cinema
-https://eu1.vectromdigital.com:1936/bcicinema/bcicinema/playlist.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://static.wixstatic.com/media/ed2185_1f082aa6bfbc4209bb0266cdde878260~mv2.png/v1/fill/w_189,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/BCI%20GREEK.png" tvg-website="https://www.bcimediainc.com/" ,BCI GREEK
-https://eu1.vectromdigital.com:1936/bcigreek/bcigreek/playlist.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ibb.co/gwwjT9k/bciclassic.png" tvg-website="https://www.bcimediainc.com/" ,BCI Classic
-https://eu1.vectromdigital.com:1936/bciclassic/bciclassic/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="https://i.ibb.co/GQw16hx/STyrob9.jpg" ,Cinema Classics
 https://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="https://www.cycinema.live/templates/itravel/images/logo.png" ,Κυπριακές Ταινίες
@@ -493,8 +481,6 @@ https://vod.streams.ovh:3528/stream/play.m3u8
 https://vod.streams.ovh:3876/stream/play.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.ibb.co/w7WtThP/euro.jpg" ,Eurodance 90
 https://eurodance90.catcast.tv/content/36987/index.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://static.wixstatic.com/media/ed2185_1568b7d633d042da88d76a07870c532f~mv2.png/v1/fill/w_189,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/BCI%20MUSIC%20(1).png" tvg-website="https://www.bcimediainc.com/" ,BCI Music
-https://eu1.vectromdigital.com:1936/bcimusic/bcimusic/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://klikfm.com.cy/template/img/logos/klikfmlogo.png" tvg-website="https://klikfm.com.cy/" ,Klik FM
 https://cdns.istoikona.com/klikfmcy/klikfmcyprus/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://nasostvradio.gr/wp-content/uploads/nasos-tv-radio.png" tvg-website="https://nasostvradio.gr/" ,Nasos TV  Radio
@@ -510,8 +496,6 @@ http://.....
 http://65.108.62.57:8080/live/kidshd.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-id="smile"  tvg-logo="https://yt3.ggpht.com/-HQamnwjhf6M/AAAAAAAAAAI/AAAAAAAAAAA/RR0l9Otdjl4/s100-mo-c-c0xffffffff-rj-k-no/photo.jpg" tvg-website="https://www.smiletvcyprus.com/" ,Smile
 https://s1.cystream.net/live/smile/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://static.wixstatic.com/media/ed2185_f37f51a228e645c4aa427a3dfa6e62bc~mv2.png/v1/fill/w_108,h_23,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/BCIKIDS%20(2).png" tvg-website="https://www.bcimediainc.com/" ,BCI KIDS
-https://eu1.vectromdigital.com:1936/bcikids/bcikids/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="http://tv.10dailythings.com/images/channels/GR/wb-kids/normal.png" ,WB KIDS
 http://ythls.onrender.com/channel/UCniI-BQk7qAtXNmmz40LSdg.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="http://tv.10dailythings.com/images/channels/GR/wb-kids/normal.png" ,WB KIDS (Youtube)
