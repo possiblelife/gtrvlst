@@ -17971,7 +17971,7 @@
     <title lang="el">VOLCANO</title>
     <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
   </programme>
-  <programme start="20240102013500 +0200" stop="20240102033500 +0200" channel="ert1">
+   <programme start="20240102013500 +0200" stop="20240102033500 +0200" channel="ert1">
     <title lang="el">Πρωίαν Σε Είδον (Ε)</title>
    <desc lang="el">Η Πρωτοχρονιά είναι η πιο αισιόδοξη ημέρα του έτους και γίνεται πιο όμορφη με την παρέα του Φώτη Σεργουλόπουλου και της Τζένης Μελιτά.</desc>
    <icon src="https://www.cosmotetv.gr/portal/documents/33201/2253519/040038710412000800.jpg/f5cc771d-8330-16c0-94e4-d277be73a102?version=1.0&amp;t=1693415598963"/>
@@ -31173,6 +31173,1089 @@ The leading news stories of the moment.</desc>
     <desc lang="el">The leading news stories of the moment.
 The leading news stories of the moment.</desc>
   </programme>
+  <programme start="20240102064500 +0200" stop="20240102093000 +0200" channel="rik1">
+    <title lang="el">Πρώτη Ενημέρωση</title>
+   <desc lang="el">Καθημερινή, ζωντανή,ενημερωτική εκπομπή που καλύπτει την τοπική και διεθνή ειδησεογραφία με φιλοξενούμενους στο στούντιο, δελτίο ειδήσεων, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις.
+Παρουσίαση: Σταύρος Κυπριανού, Σταυριανή Κωνσταντίνου
+Παρουσίαση Δελτίου Ειδήσεων: Ευγενία Σέργη
+Παραγωγή – Σκηνοθεσία: Πανίκος Νικολάου
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/PROTH_ENHMEROSH_S.82131f7d.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240102093000 +0200" stop="20240102110000 +0200" channel="rik1">
+    <title lang="el">Όμορφη Μέρα </title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240102110000 +0200" stop="20240102120000 +0200" channel="rik1">
+    <title lang="el">Κουζίνα σε Ρόδες</title>
+   <desc lang="el">Τι κάνουν μαζί ένας chef, μια ηθοποιός και μια κινητή κουζίνα?
+Μία διαφορετική εκπομπή μαγειρικής, εκτός στούντιο, έχοντας για σκηνικό φυσικά τοπία, χωριά, πόλεις, σημεία θέας. Επιπρόσθετα μια ‘ιδιαίτερη’ βοηθός κουζίνας, προσθέτει μια ευχάριστη νότα ενώ έξτρα συμβουλές και μυστικά που εμφανίζονται περίτεχνα δίνουν μια πιο μοντέρνα προσέγγιση της δομής, του μοντάζ και της σκηνοθεσίας της εκπομπής.
+Σκηνοθεσία: Πέτρος Σολωμού
+Έκτέλεση Παραγωγής: Drama Queen Productions
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOUZINA_SE_RODES_Portrait.2e16d0ba.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240102120000 +0200" stop="20240102140000 +0200" channel="rik1">
+    <title lang="el">Από Μέρα σε Μέρα</title>
+   <desc lang="el">Μεσημβρινή, ζωντανή, ενημερωτική εκπομπή που παρουσιάζει και αναλύει όλη την επικαιρότητα της ημέρας. Με συζητήσεις στο στούντιο, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις, η εκπομπή μεταφέρει τον παλμό της επικαιρότητας εξελίξεις τόσο από τον τοπικό, όσο και από τον διεθνή χώρο, με σοβαρότητα και υπευθυνότητα.
+Παρουσίαση: Κατερίνα Χαραλάμπους, Τάσος Χριστοδούλου
+Παραγωγή – Σκηνοθεσία: Μαρία Χαρή, Άντρεα Αγγελίδου, Άντρη Κωνσταντίνου
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/APO_MERA_S.6984bfb0.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240102140000 +0200" stop="20240102143000 +0200" channel="rik1">
+    <title lang="el">Ειδήσεις</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240102143000 +0200" stop="20240102153000 +0200" channel="rik1">
+    <title lang="el">Εμείς κι ο Κόσμος μας</title>
+   <desc lang="el">Για 6η χρονιά, ο Λουκάς Χάματσος στο καθημερινό τηλεοπτικό ραντεβού, φιλοξενεί ξεχωριστούς καλεσμένους και παρουσιάζει ενδιαφέροντα θέματα απ’ όλη την Κύπρο και τον κόσμο μας.
+Δημοσιογραφική Επιμέλεια - Παρουσίαση: Λουκάς Χάματσος
+
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/EMEIS_KI_O_KOSMOS_S.05a7e0c6.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240102153000 +0200" stop="20240102163000 +0200" channel="rik1">
+    <title lang="el">Καμώματα τζι Αρώματα</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240102163000 +0200" stop="20240102180000 +0200" channel="rik1">
+    <title lang="el">Επικοινωνία</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240102180000 +0200" stop="20240102183000 +0200" channel="rik1">
+    <title lang="el">Ειδήσεις στις 18:00</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240102183000 +0200" stop="20240102193000 +0200" channel="rik1">
+    <title lang="el">Κουζίνα σε Ρόδες</title>
+   <desc lang="el">Τι κάνουν μαζί ένας chef, μια ηθοποιός και μια κινητή κουζίνα?
+Μία διαφορετική εκπομπή μαγειρικής, εκτός στούντιο, έχοντας για σκηνικό φυσικά τοπία, χωριά, πόλεις, σημεία θέας. Επιπρόσθετα μια ‘ιδιαίτερη’ βοηθός κουζίνας, προσθέτει μια ευχάριστη νότα ενώ έξτρα συμβουλές και μυστικά που εμφανίζονται περίτεχνα δίνουν μια πιο μοντέρνα προσέγγιση της δομής, του μοντάζ και της σκηνοθεσίας της εκπομπής.
+Σκηνοθεσία: Πέτρος Σολωμού
+Έκτέλεση Παραγωγής: Drama Queen Productions
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOUZINA_SE_RODES_Portrait.2e16d0ba.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240102193000 +0200" stop="20240102200000 +0200" channel="rik1">
+    <title lang="el">Περικλής και Εριέττα</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240102200000 +0200" stop="20240102210000 +0200" channel="rik1">
+    <title lang="el">Ειδήσεις στις 20:00</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240102210000 +0200" stop="20240102220000 +0200" channel="rik1">
+    <title lang="el">Στα Όρια</title>
+   <desc lang="el">Θύτης ή θύμα; Αθώος ή ένοχος;
+Σε ένα ανακριτικό γραφείο, στοίβες με ερωτήματα που περιμένουν να απαντηθούν.
+Άλυτες αστυνομικές υποθέσεις που ψάχνουν λύσεις. Άνθρωποι που έφτασαν…«Στα Όρια»
+Τρείς ανακριτές προσπαθούν να ρίξουν φως στο σκοτάδι αφού «Δεν υπάρχει το τέλειο έγκλημα».
+Ο Χριστόδουλος Μαρτάς, η Μαργαρίτα Ζαχαρίου και ο Γρηγόρης Γεωργίου, σε μια σειρά αυτοτελών επεισοδίων βασισμένη σε πραγματικά γεγονότα.
+Σκηνοθεσία: Σταύρος Ποταμάρης
+Παραγωγή: Arts and Films Productions
+
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/STA_ORIA_S.2e16d0ba.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240102220000 +0200" stop="20240102230000 +0200" channel="rik1">
+    <title lang="el">Αποτυπώματα</title>
+   <desc lang="el">Ερευνούμε, αναζητούμε, ανακαλύπτουμε, αποκαλύπτουμε.
+Ανθρώπινες ιστορίες, ιστορικά γεγονότα που άφησαν για πάντα τα αποτυπώματα τους. Στο φως άγνωστες πτυχές της ιστορίας του τόπου μας.
+Προβλήματα της κοινωνίας τα οποία αναμένουν την ταυτοποίηση τους.
+;Έρευνα - Δημοσιογραφική επιμέλεια – Παρουσίαση: Χριστόδουλος Χριστοδούλου
+Έρευνα – Σύμβουλος εκπομπής: Χρίστος Ιακώβου
+Επιμέλεια παραγωγής – Σκηνοθεσία: Έλλη Χατζηπαρασκευά
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/APOTIPOMATA_S.e8c5827a.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240102230000 +0200" stop="20240102003000 +0200" channel="rik1">
+    <title lang="el">Σε Ξένα Χέρια</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240102063000 +0200" stop="20240102072000 +0200" channel="rik2">
+    <title lang="el">Little House on the Prairie</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240102072000 +0200" stop="20240102080000 +0200" channel="rik2">
+    <title lang="el">Eight is Enough</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240102080000 +0200" stop="20240102153000 +0200" channel="rik2">
+    <title lang="el">Παιδική Ζώνη</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240102153000 +0200" stop="20240102162000 +0200" channel="rik2">
+    <title lang="el">Eight is Enough</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240102162000 +0200" stop="20240102170000 +0200" channel="rik2">
+    <title lang="el">All Creatures Great and Small</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240102170000 +0200" stop="20240102180000 +0200" channel="rik2">
+    <title lang="el">Little House on the Prairie</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240102180000 +0200" stop="20240102183000 +0200" channel="rik2">
+    <title lang="el">Full House</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240102183000 +0200" stop="20240102190000 +0200" channel="rik2">
+    <title lang="el">Step by Step</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240102190000 +0200" stop="20240102191000 +0200" channel="rik2">
+    <title lang="el">Κοίτα με στα Μάτια</title>
+   <desc lang="el">Εκπομπή με θέμα την ευημερία των ζώων και τη δυνατή σχέση ανάμεσα στους ανθρώπους και τους τετράποδους φίλους τους. Στόχος η ανάδειξη των αδυναμιών της κοινωνίας στην αντιμετώπιση των αναγκών των ζώων και η ευαισθητοποίηση και η βελτίωση της κουλτούρας μας στο συγκεκριμένο θέμα.
+ εκπομπή γίνεται σε συνεργασία με το Υπουργείο Γεωργίας, Αγροτικής Ανάπτυξης και Περιβάλλοντος.
+Σκηνοθεσία: Μιχάλης Γεωργιάδης
+Κείμενα - Aφήγηση: Γιώργος Πήττας
+Εκτέλεση Παραγωγής: Michaelangelo Cinematographic Services LTD
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOITAME_ESTA_MATIA_S.2e16d0ba.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240102191000 +0200" stop="20240102194000 +0200" channel="rik2">
+    <title lang="el">Farming for the Planet</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240102194000 +0200" stop="20240102195000 +0200" channel="rik2">
+    <title lang="el">English News</title>
+   <desc lang="el">Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώσσα. Daily news bulletin in english.
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/ENGLISH_NEWS_RIK2.2e16d0ba.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240102195000 +0200" stop="20240102200000 +0200" channel="rik2">
+    <title lang="el">Haberler</title>
+   <desc lang="el">Καθημερινό δελτίο ειδήσεων στην τουρκική γλώσσα.
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/HABERLER_RIK2.2e16d0ba.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240102200000 +0200" stop="20240102210000 +0200" channel="rik2">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων στη Νοηματική</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240102210000 +0200" stop="20240102220000 +0200" channel="rik2">
+    <title lang="el">Roadkill</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240102220000 +0200" stop="20240102225000 +0200" channel="rik2">
+    <title lang="el">The Miniaturist</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240102225000 +0200" stop="20240102003000 +0200" channel="rik2">
+    <title lang="el">Flying Objects:A State Secret</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240102064500 +0200" stop="20240102093000 +0200" channel="riksat">
+    <title lang="el">Πρώτη Ενημέρωση</title>
+   <desc lang="el">Καθημερινή, ζωντανή,ενημερωτική εκπομπή που καλύπτει την τοπική και διεθνή ειδησεογραφία με φιλοξενούμενους στο στούντιο, δελτίο ειδήσεων, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις.
+Παρουσίαση: Σταύρος Κυπριανού, Σταυριανή Κωνσταντίνου
+Παρουσίαση Δελτίου Ειδήσεων: Ευγενία Σέργη
+Παραγωγή – Σκηνοθεσία: Πανίκος Νικολάου
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/PROTH_ENHMEROSH_S.82131f7d.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240102093000 +0200" stop="20240102110000 +0200" channel="riksat">
+    <title lang="el">Όμορφη Μέρα </title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240102110000 +0200" stop="20240102120000 +0200" channel="riksat">
+    <title lang="el">Κουζίνα σε Ρόδες</title>
+   <desc lang="el">Τι κάνουν μαζί ένας chef, μια ηθοποιός και μια κινητή κουζίνα?
+Μία διαφορετική εκπομπή μαγειρικής, εκτός στούντιο, έχοντας για σκηνικό φυσικά τοπία, χωριά, πόλεις, σημεία θέας. Επιπρόσθετα μια ‘ιδιαίτερη’ βοηθός κουζίνας, προσθέτει μια ευχάριστη νότα ενώ έξτρα συμβουλές και μυστικά που εμφανίζονται περίτεχνα δίνουν μια πιο μοντέρνα προσέγγιση της δομής, του μοντάζ και της σκηνοθεσίας της εκπομπής.
+Σκηνοθεσία: Πέτρος Σολωμού
+Έκτέλεση Παραγωγής: Drama Queen Productions
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOUZINA_SE_RODES_Portrait.2e16d0ba.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240102120000 +0200" stop="20240102140000 +0200" channel="riksat">
+    <title lang="el">Από Μέρα σε Μέρα</title>
+   <desc lang="el">Μεσημβρινή, ζωντανή, ενημερωτική εκπομπή που παρουσιάζει και αναλύει όλη την επικαιρότητα της ημέρας. Με συζητήσεις στο στούντιο, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις, η εκπομπή μεταφέρει τον παλμό της επικαιρότητας εξελίξεις τόσο από τον τοπικό, όσο και από τον διεθνή χώρο, με σοβαρότητα και υπευθυνότητα.
+Παρουσίαση: Κατερίνα Χαραλάμπους, Τάσος Χριστοδούλου
+Παραγωγή – Σκηνοθεσία: Μαρία Χαρή, Άντρεα Αγγελίδου, Άντρη Κωνσταντίνου
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/APO_MERA_S.6984bfb0.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240102140000 +0200" stop="20240102143000 +0200" channel="riksat">
+    <title lang="el">Ειδήσεις</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240102143000 +0200" stop="20240102153000 +0200" channel="riksat">
+    <title lang="el">Εμείς κι ο Κόσμος μας</title>
+   <desc lang="el">Για 6η χρονιά, ο Λουκάς Χάματσος στο καθημερινό τηλεοπτικό ραντεβού, φιλοξενεί ξεχωριστούς καλεσμένους και παρουσιάζει ενδιαφέροντα θέματα απ’ όλη την Κύπρο και τον κόσμο μας.
+Δημοσιογραφική Επιμέλεια - Παρουσίαση: Λουκάς Χάματσος
+
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/EMEIS_KI_O_KOSMOS_S.05a7e0c6.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240102153000 +0200" stop="20240102163000 +0200" channel="riksat">
+    <title lang="el">Καμώματα τζι Αρώματα</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240102163000 +0200" stop="20240102180000 +0200" channel="riksat">
+    <title lang="el">Επικοινωνία</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240102180000 +0200" stop="20240102183000 +0200" channel="riksat">
+    <title lang="el">Ειδήσεις στις 18:00</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240102183000 +0200" stop="20240102193000 +0200" channel="riksat">
+    <title lang="el">Κουζίνα σε Ρόδες</title>
+   <desc lang="el">Τι κάνουν μαζί ένας chef, μια ηθοποιός και μια κινητή κουζίνα?
+Μία διαφορετική εκπομπή μαγειρικής, εκτός στούντιο, έχοντας για σκηνικό φυσικά τοπία, χωριά, πόλεις, σημεία θέας. Επιπρόσθετα μια ‘ιδιαίτερη’ βοηθός κουζίνας, προσθέτει μια ευχάριστη νότα ενώ έξτρα συμβουλές και μυστικά που εμφανίζονται περίτεχνα δίνουν μια πιο μοντέρνα προσέγγιση της δομής, του μοντάζ και της σκηνοθεσίας της εκπομπής.
+Σκηνοθεσία: Πέτρος Σολωμού
+Έκτέλεση Παραγωγής: Drama Queen Productions
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOUZINA_SE_RODES_Portrait.2e16d0ba.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240102193000 +0200" stop="20240102200000 +0200" channel="riksat">
+    <title lang="el">Περικλής και Εριέττα</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240102200000 +0200" stop="20240102210000 +0200" channel="riksat">
+    <title lang="el">Ειδήσεις στις 20:00</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240102210000 +0200" stop="20240102220000 +0200" channel="riksat">
+    <title lang="el">Στα Όρια</title>
+   <desc lang="el">Θύτης ή θύμα; Αθώος ή ένοχος;
+Σε ένα ανακριτικό γραφείο, στοίβες με ερωτήματα που περιμένουν να απαντηθούν.
+Άλυτες αστυνομικές υποθέσεις που ψάχνουν λύσεις. Άνθρωποι που έφτασαν…«Στα Όρια»
+Τρείς ανακριτές προσπαθούν να ρίξουν φως στο σκοτάδι αφού «Δεν υπάρχει το τέλειο έγκλημα».
+Ο Χριστόδουλος Μαρτάς, η Μαργαρίτα Ζαχαρίου και ο Γρηγόρης Γεωργίου, σε μια σειρά αυτοτελών επεισοδίων βασισμένη σε πραγματικά γεγονότα.
+Σκηνοθεσία: Σταύρος Ποταμάρης
+Παραγωγή: Arts and Films Productions
+
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/STA_ORIA_S.2e16d0ba.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240102220000 +0200" stop="20240102230000 +0200" channel="riksat">
+    <title lang="el">Αποτυπώματα</title>
+   <desc lang="el">Ερευνούμε, αναζητούμε, ανακαλύπτουμε, αποκαλύπτουμε.
+Ανθρώπινες ιστορίες, ιστορικά γεγονότα που άφησαν για πάντα τα αποτυπώματα τους. Στο φως άγνωστες πτυχές της ιστορίας του τόπου μας.
+Προβλήματα της κοινωνίας τα οποία αναμένουν την ταυτοποίηση τους.
+;Έρευνα - Δημοσιογραφική επιμέλεια – Παρουσίαση: Χριστόδουλος Χριστοδούλου
+Έρευνα – Σύμβουλος εκπομπής: Χρίστος Ιακώβου
+Επιμέλεια παραγωγής – Σκηνοθεσία: Έλλη Χατζηπαρασκευά
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/APOTIPOMATA_S.e8c5827a.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240102230000 +0200" stop="20240102003000 +0200" channel="riksat">
+    <title lang="el">Ειδήσεις στην Αγγλική και Τουρκική</title>
+   <desc lang="el"></desc>
+   <icon src="/static/img/logos/rik-logo.png"/>
+  </programme>
+  <programme start="20240103064500 +0200" stop="20240103093000 +0200" channel="rik1">
+    <title lang="el">Πρώτη Ενημέρωση</title>
+   <desc lang="el">Καθημερινή, ζωντανή,ενημερωτική εκπομπή που καλύπτει την τοπική και διεθνή ειδησεογραφία με φιλοξενούμενους στο στούντιο, δελτίο ειδήσεων, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις.
+Παρουσίαση: Σταύρος Κυπριανού, Σταυριανή Κωνσταντίνου
+Παρουσίαση Δελτίου Ειδήσεων: Ευγενία Σέργη
+Παραγωγή – Σκηνοθεσία: Πανίκος Νικολάου
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/PROTH_ENHMEROSH_S.82131f7d.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240103093000 +0200" stop="20240103110000 +0200" channel="rik1">
+    <title lang="el">Όμορφη Μέρα </title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240103110000 +0200" stop="20240103120000 +0200" channel="rik1">
+    <title lang="el">Κουζίνα σε Ρόδες</title>
+   <desc lang="el">Τι κάνουν μαζί ένας chef, μια ηθοποιός και μια κινητή κουζίνα?
+Μία διαφορετική εκπομπή μαγειρικής, εκτός στούντιο, έχοντας για σκηνικό φυσικά τοπία, χωριά, πόλεις, σημεία θέας. Επιπρόσθετα μια ‘ιδιαίτερη’ βοηθός κουζίνας, προσθέτει μια ευχάριστη νότα ενώ έξτρα συμβουλές και μυστικά που εμφανίζονται περίτεχνα δίνουν μια πιο μοντέρνα προσέγγιση της δομής, του μοντάζ και της σκηνοθεσίας της εκπομπής.
+Σκηνοθεσία: Πέτρος Σολωμού
+Έκτέλεση Παραγωγής: Drama Queen Productions
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOUZINA_SE_RODES_Portrait.2e16d0ba.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240103120000 +0200" stop="20240103140000 +0200" channel="rik1">
+    <title lang="el">Από Μέρα σε Μέρα</title>
+   <desc lang="el">Μεσημβρινή, ζωντανή, ενημερωτική εκπομπή που παρουσιάζει και αναλύει όλη την επικαιρότητα της ημέρας. Με συζητήσεις στο στούντιο, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις, η εκπομπή μεταφέρει τον παλμό της επικαιρότητας εξελίξεις τόσο από τον τοπικό, όσο και από τον διεθνή χώρο, με σοβαρότητα και υπευθυνότητα.
+Παρουσίαση: Κατερίνα Χαραλάμπους, Τάσος Χριστοδούλου
+Παραγωγή – Σκηνοθεσία: Μαρία Χαρή, Άντρεα Αγγελίδου, Άντρη Κωνσταντίνου
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/APO_MERA_S.6984bfb0.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240103140000 +0200" stop="20240103143000 +0200" channel="rik1">
+    <title lang="el">Ειδήσεις</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240103143000 +0200" stop="20240103153000 +0200" channel="rik1">
+    <title lang="el">Εμείς κι ο Κόσμος μας</title>
+   <desc lang="el">Για 6η χρονιά, ο Λουκάς Χάματσος στο καθημερινό τηλεοπτικό ραντεβού, φιλοξενεί ξεχωριστούς καλεσμένους και παρουσιάζει ενδιαφέροντα θέματα απ’ όλη την Κύπρο και τον κόσμο μας.
+Δημοσιογραφική Επιμέλεια - Παρουσίαση: Λουκάς Χάματσος
+
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/EMEIS_KI_O_KOSMOS_S.05a7e0c6.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240103153000 +0200" stop="20240103163000 +0200" channel="rik1">
+    <title lang="el">Καμώματα τζι Αρώματα</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240103163000 +0200" stop="20240103180000 +0200" channel="rik1">
+    <title lang="el">Επικοινωνία</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240103180000 +0200" stop="20240103183000 +0200" channel="rik1">
+    <title lang="el">Ειδήσεις στις 18:00</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240103183000 +0200" stop="20240103193000 +0200" channel="rik1">
+    <title lang="el">Κουζίνα σε Ρόδες</title>
+   <desc lang="el">Τι κάνουν μαζί ένας chef, μια ηθοποιός και μια κινητή κουζίνα?
+Μία διαφορετική εκπομπή μαγειρικής, εκτός στούντιο, έχοντας για σκηνικό φυσικά τοπία, χωριά, πόλεις, σημεία θέας. Επιπρόσθετα μια ‘ιδιαίτερη’ βοηθός κουζίνας, προσθέτει μια ευχάριστη νότα ενώ έξτρα συμβουλές και μυστικά που εμφανίζονται περίτεχνα δίνουν μια πιο μοντέρνα προσέγγιση της δομής, του μοντάζ και της σκηνοθεσίας της εκπομπής.
+Σκηνοθεσία: Πέτρος Σολωμού
+Έκτέλεση Παραγωγής: Drama Queen Productions
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOUZINA_SE_RODES_Portrait.2e16d0ba.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240103193000 +0200" stop="20240103200000 +0200" channel="rik1">
+    <title lang="el">Περικλής και Εριέττα</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240103200000 +0200" stop="20240103210000 +0200" channel="rik1">
+    <title lang="el">Ειδήσεις στις 20:00</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240103210000 +0200" stop="20240103220000 +0200" channel="rik1">
+    <title lang="el">Τρικυμία</title>
+   <desc lang="el">Κύπρος 1878. Η θάλασσα φουσκώνει για μια νέα μεγάλη Τρικυμία στον 2ο κύκλο της σειράς. Ο πόλεμος ανάμεσα στην Οθωμανική Αυτοκρατορία και τον Ορθόδοξο Συνασπισμό με επικεφαλής τη Ρωσία τελειώνει με ήττα των Οθωμανών. Οι Τούρκοι αναγκάζονται να παραχωρήσουν την Κύπρο στη Βρετανική Αυτοκρατορία και ένα νέο κεφάλαιο ανοίγεται στην ιστορία του τόπου μας. Νέοι κατακτητές, νέοι αγώνες και μια συνεχής μάχη των προγόνων μας για επιβίωση. Αυτή η συγκλονιστική εποχή σκιαγραφείται μέσα από τη δραματική σειρά εποχής Τρικυμία η οποία επιστρέφει ανανεωμένη με τους αγαπημένους σας ήρωες σε νέες συγκλονιστικές ιστορίες και περιπέτειες.
+Ηθοποιοί: Αντρέας Τσουρής, Αντρούλα Ηρακλέους, Νεοκλής Νεοκλέους, Κύνθια Παυλίδου, Σίμος Τσιάκκας, Γιώργος Αναγιωτός, Αθηνά Σάββα, Βάσια Αδάμου.
+Φετινές προσθήκες στο κάστ αποτελούν οι ηθοποιοί Στέφανος Μιχαήλ, Ανδρέας Κουτσόφτας, Ειρήνη Σαλάτα ,Παμπίνα Γεωργίου, Πανίκος Πιλάλης, Μαρίνος Χατζηβασιλείου, Δένα Ιωάννου, Χρίστος Κυριάκου - Παλώδιας και Γιάννης Φωτεινός.
+Σενάριο: Σοφία Σοφοκλέους, Ανδρέας Νικολαίδης,Δημήτρης Τοκαρής
+Σκηνοθεσία: Κώστας Χριστοφόρου
+Έκτέλεση Παραγωγής: Galinis Production Studio
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/TRYKIMIA_S.eccd178c.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240103220000 +0200" stop="20240103230000 +0200" channel="rik1">
+    <title lang="el">Καθρέφτης</title>
+   <desc lang="el">Θέματα πίσω απ’ τις ειδήσεις.
+Πρόσωπα που έχουν κάτι να πουν.
+Ιστορίες που πρέπει ν’ ακουστούν.
+Με τη δημοσιογραφική ματιά του Παναγιώτη Δημόπουλου.
+Έρευνα-Παρουσίαση: Παναγιώτης Δημόπουλος
+Εκτέλεση παραγωγής: ΝΙΚΑΝΩΡ ΛΤΔ
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KATHREFTHS_S.af5570cf.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240103230000 +0200" stop="20240103003000 +0200" channel="rik1">
+    <title lang="el">Σε Ξένα Χέρια</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240103063000 +0200" stop="20240103072000 +0200" channel="rik2">
+    <title lang="el">Little House on the Prairie</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240103072000 +0200" stop="20240103080000 +0200" channel="rik2">
+    <title lang="el">Eight is Enough</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240103080000 +0200" stop="20240103153000 +0200" channel="rik2">
+    <title lang="el">Παιδική Ζώνη</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240103153000 +0200" stop="20240103162000 +0200" channel="rik2">
+    <title lang="el">Eight is Enough</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240103162000 +0200" stop="20240103170500 +0200" channel="rik2">
+    <title lang="el">All Creatures Great and Small</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240103170500 +0200" stop="20240103180000 +0200" channel="rik2">
+    <title lang="el">Little House on the Prairie</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240103180000 +0200" stop="20240103183000 +0200" channel="rik2">
+    <title lang="el">Full House</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240103183000 +0200" stop="20240103190000 +0200" channel="rik2">
+    <title lang="el">Step by Step</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240103190000 +0200" stop="20240103191000 +0200" channel="rik2">
+    <title lang="el">Κοίτα με στα Μάτια</title>
+   <desc lang="el">Εκπομπή με θέμα την ευημερία των ζώων και τη δυνατή σχέση ανάμεσα στους ανθρώπους και τους τετράποδους φίλους τους. Στόχος η ανάδειξη των αδυναμιών της κοινωνίας στην αντιμετώπιση των αναγκών των ζώων και η ευαισθητοποίηση και η βελτίωση της κουλτούρας μας στο συγκεκριμένο θέμα.
+ εκπομπή γίνεται σε συνεργασία με το Υπουργείο Γεωργίας, Αγροτικής Ανάπτυξης και Περιβάλλοντος.
+Σκηνοθεσία: Μιχάλης Γεωργιάδης
+Κείμενα - Aφήγηση: Γιώργος Πήττας
+Εκτέλεση Παραγωγής: Michaelangelo Cinematographic Services LTD
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOITAME_ESTA_MATIA_S.2e16d0ba.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240103191000 +0200" stop="20240103194000 +0200" channel="rik2">
+    <title lang="el">Farming for the Planet</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240103194000 +0200" stop="20240103195000 +0200" channel="rik2">
+    <title lang="el">English News</title>
+   <desc lang="el">Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώσσα. Daily news bulletin in english.
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/ENGLISH_NEWS_RIK2.2e16d0ba.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240103195000 +0200" stop="20240103200000 +0200" channel="rik2">
+    <title lang="el">Haberler</title>
+   <desc lang="el">Καθημερινό δελτίο ειδήσεων στην τουρκική γλώσσα.
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/HABERLER_RIK2.2e16d0ba.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240103200000 +0200" stop="20240103210000 +0200" channel="rik2">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων στη Νοηματική</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240103210000 +0200" stop="20240103220000 +0200" channel="rik2">
+    <title lang="el">Roadkill</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240103220000 +0200" stop="20240103225000 +0200" channel="rik2">
+    <title lang="el">The Miniaturist</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240103225000 +0200" stop="20240103003000 +0200" channel="rik2">
+    <title lang="el">The Underwater Volcano</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240103064500 +0200" stop="20240103093000 +0200" channel="riksat">
+    <title lang="el">Πρώτη Ενημέρωση</title>
+   <desc lang="el">Καθημερινή, ζωντανή,ενημερωτική εκπομπή που καλύπτει την τοπική και διεθνή ειδησεογραφία με φιλοξενούμενους στο στούντιο, δελτίο ειδήσεων, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις.
+Παρουσίαση: Σταύρος Κυπριανού, Σταυριανή Κωνσταντίνου
+Παρουσίαση Δελτίου Ειδήσεων: Ευγενία Σέργη
+Παραγωγή – Σκηνοθεσία: Πανίκος Νικολάου
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/PROTH_ENHMEROSH_S.82131f7d.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240103093000 +0200" stop="20240103110000 +0200" channel="riksat">
+    <title lang="el">Όμορφη Μέρα </title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240103110000 +0200" stop="20240103120000 +0200" channel="riksat">
+    <title lang="el">Κουζίνα σε Ρόδες</title>
+   <desc lang="el">Τι κάνουν μαζί ένας chef, μια ηθοποιός και μια κινητή κουζίνα?
+Μία διαφορετική εκπομπή μαγειρικής, εκτός στούντιο, έχοντας για σκηνικό φυσικά τοπία, χωριά, πόλεις, σημεία θέας. Επιπρόσθετα μια ‘ιδιαίτερη’ βοηθός κουζίνας, προσθέτει μια ευχάριστη νότα ενώ έξτρα συμβουλές και μυστικά που εμφανίζονται περίτεχνα δίνουν μια πιο μοντέρνα προσέγγιση της δομής, του μοντάζ και της σκηνοθεσίας της εκπομπής.
+Σκηνοθεσία: Πέτρος Σολωμού
+Έκτέλεση Παραγωγής: Drama Queen Productions
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOUZINA_SE_RODES_Portrait.2e16d0ba.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240103120000 +0200" stop="20240103140000 +0200" channel="riksat">
+    <title lang="el">Από Μέρα σε Μέρα</title>
+   <desc lang="el">Μεσημβρινή, ζωντανή, ενημερωτική εκπομπή που παρουσιάζει και αναλύει όλη την επικαιρότητα της ημέρας. Με συζητήσεις στο στούντιο, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις, η εκπομπή μεταφέρει τον παλμό της επικαιρότητας εξελίξεις τόσο από τον τοπικό, όσο και από τον διεθνή χώρο, με σοβαρότητα και υπευθυνότητα.
+Παρουσίαση: Κατερίνα Χαραλάμπους, Τάσος Χριστοδούλου
+Παραγωγή – Σκηνοθεσία: Μαρία Χαρή, Άντρεα Αγγελίδου, Άντρη Κωνσταντίνου
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/APO_MERA_S.6984bfb0.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240103140000 +0200" stop="20240103143000 +0200" channel="riksat">
+    <title lang="el">Ειδήσεις</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240103143000 +0200" stop="20240103153000 +0200" channel="riksat">
+    <title lang="el">Εμείς κι ο Κόσμος μας</title>
+   <desc lang="el">Για 6η χρονιά, ο Λουκάς Χάματσος στο καθημερινό τηλεοπτικό ραντεβού, φιλοξενεί ξεχωριστούς καλεσμένους και παρουσιάζει ενδιαφέροντα θέματα απ’ όλη την Κύπρο και τον κόσμο μας.
+Δημοσιογραφική Επιμέλεια - Παρουσίαση: Λουκάς Χάματσος
+
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/EMEIS_KI_O_KOSMOS_S.05a7e0c6.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240103153000 +0200" stop="20240103163000 +0200" channel="riksat">
+    <title lang="el">Καμώματα τζι Αρώματα</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240103163000 +0200" stop="20240103180000 +0200" channel="riksat">
+    <title lang="el">Επικοινωνία</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240103180000 +0200" stop="20240103183000 +0200" channel="riksat">
+    <title lang="el">Ειδήσεις στις 18:00</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240103183000 +0200" stop="20240103193000 +0200" channel="riksat">
+    <title lang="el">Κουζίνα σε Ρόδες</title>
+   <desc lang="el">Τι κάνουν μαζί ένας chef, μια ηθοποιός και μια κινητή κουζίνα?
+Μία διαφορετική εκπομπή μαγειρικής, εκτός στούντιο, έχοντας για σκηνικό φυσικά τοπία, χωριά, πόλεις, σημεία θέας. Επιπρόσθετα μια ‘ιδιαίτερη’ βοηθός κουζίνας, προσθέτει μια ευχάριστη νότα ενώ έξτρα συμβουλές και μυστικά που εμφανίζονται περίτεχνα δίνουν μια πιο μοντέρνα προσέγγιση της δομής, του μοντάζ και της σκηνοθεσίας της εκπομπής.
+Σκηνοθεσία: Πέτρος Σολωμού
+Έκτέλεση Παραγωγής: Drama Queen Productions
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOUZINA_SE_RODES_Portrait.2e16d0ba.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240103193000 +0200" stop="20240103200000 +0200" channel="RIK HD">
+    <title lang="el">Περικλής και Εριέττα</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240103200000 +0200" stop="20240103210000 +0200" channel="RIK HD">
+    <title lang="el">Ειδήσεις στις 20:00</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240103210000 +0200" stop="20240103220000 +0200" channel="RIK HD">
+    <title lang="el">Τρικυμία</title>
+   <desc lang="el">Κύπρος 1878. Η θάλασσα φουσκώνει για μια νέα μεγάλη Τρικυμία στον 2ο κύκλο της σειράς. Ο πόλεμος ανάμεσα στην Οθωμανική Αυτοκρατορία και τον Ορθόδοξο Συνασπισμό με επικεφαλής τη Ρωσία τελειώνει με ήττα των Οθωμανών. Οι Τούρκοι αναγκάζονται να παραχωρήσουν την Κύπρο στη Βρετανική Αυτοκρατορία και ένα νέο κεφάλαιο ανοίγεται στην ιστορία του τόπου μας. Νέοι κατακτητές, νέοι αγώνες και μια συνεχής μάχη των προγόνων μας για επιβίωση. Αυτή η συγκλονιστική εποχή σκιαγραφείται μέσα από τη δραματική σειρά εποχής Τρικυμία η οποία επιστρέφει ανανεωμένη με τους αγαπημένους σας ήρωες σε νέες συγκλονιστικές ιστορίες και περιπέτειες.
+Ηθοποιοί: Αντρέας Τσουρής, Αντρούλα Ηρακλέους, Νεοκλής Νεοκλέους, Κύνθια Παυλίδου, Σίμος Τσιάκκας, Γιώργος Αναγιωτός, Αθηνά Σάββα, Βάσια Αδάμου.
+Φετινές προσθήκες στο κάστ αποτελούν οι ηθοποιοί Στέφανος Μιχαήλ, Ανδρέας Κουτσόφτας, Ειρήνη Σαλάτα ,Παμπίνα Γεωργίου, Πανίκος Πιλάλης, Μαρίνος Χατζηβασιλείου, Δένα Ιωάννου, Χρίστος Κυριάκου - Παλώδιας και Γιάννης Φωτεινός.
+Σενάριο: Σοφία Σοφοκλέους, Ανδρέας Νικολαίδης,Δημήτρης Τοκαρής
+Σκηνοθεσία: Κώστας Χριστοφόρου
+Έκτέλεση Παραγωγής: Galinis Production Studio
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/TRYKIMIA_S.eccd178c.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240103220000 +0200" stop="20240103230000 +0200" channel="RIK HD">
+    <title lang="el">Καθρέφτης</title>
+   <desc lang="el">Θέματα πίσω απ’ τις ειδήσεις.
+Πρόσωπα που έχουν κάτι να πουν.
+Ιστορίες που πρέπει ν’ ακουστούν.
+Με τη δημοσιογραφική ματιά του Παναγιώτη Δημόπουλου.
+Έρευνα-Παρουσίαση: Παναγιώτης Δημόπουλος
+Εκτέλεση παραγωγής: ΝΙΚΑΝΩΡ ΛΤΔ
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KATHREFTHS_S.af5570cf.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240103230000 +0200" stop="20240103003000 +0200" channel="RIK HD">
+    <title lang="el">Ειδήσεις στην Αγγλική και Τουρκική</title>
+   <desc lang="el"></desc>
+   <icon src="/static/img/logos/rik-logo.png"/>
+  </programme>
+  <programme start="20240104064500 +0200" stop="20240104093000 +0200" channel="rik1">
+    <title lang="el">Πρώτη Ενημέρωση</title>
+   <desc lang="el">Καθημερινή, ζωντανή,ενημερωτική εκπομπή που καλύπτει την τοπική και διεθνή ειδησεογραφία με φιλοξενούμενους στο στούντιο, δελτίο ειδήσεων, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις.
+Παρουσίαση: Σταύρος Κυπριανού, Σταυριανή Κωνσταντίνου
+Παρουσίαση Δελτίου Ειδήσεων: Ευγενία Σέργη
+Παραγωγή – Σκηνοθεσία: Πανίκος Νικολάου
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/PROTH_ENHMEROSH_S.82131f7d.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240104093000 +0200" stop="20240104110000 +0200" channel="rik1">
+    <title lang="el">Όμορφη Μέρα </title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240104110000 +0200" stop="20240104120000 +0200" channel="rik1">
+    <title lang="el">Κουζίνα σε Ρόδες</title>
+   <desc lang="el">Τι κάνουν μαζί ένας chef, μια ηθοποιός και μια κινητή κουζίνα?
+Μία διαφορετική εκπομπή μαγειρικής, εκτός στούντιο, έχοντας για σκηνικό φυσικά τοπία, χωριά, πόλεις, σημεία θέας. Επιπρόσθετα μια ‘ιδιαίτερη’ βοηθός κουζίνας, προσθέτει μια ευχάριστη νότα ενώ έξτρα συμβουλές και μυστικά που εμφανίζονται περίτεχνα δίνουν μια πιο μοντέρνα προσέγγιση της δομής, του μοντάζ και της σκηνοθεσίας της εκπομπής.
+Σκηνοθεσία: Πέτρος Σολωμού
+Έκτέλεση Παραγωγής: Drama Queen Productions
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOUZINA_SE_RODES_Portrait.2e16d0ba.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240104120000 +0200" stop="20240104140000 +0200" channel="rik1">
+    <title lang="el">Από Μέρα σε Μέρα</title>
+   <desc lang="el">Μεσημβρινή, ζωντανή, ενημερωτική εκπομπή που παρουσιάζει και αναλύει όλη την επικαιρότητα της ημέρας. Με συζητήσεις στο στούντιο, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις, η εκπομπή μεταφέρει τον παλμό της επικαιρότητας εξελίξεις τόσο από τον τοπικό, όσο και από τον διεθνή χώρο, με σοβαρότητα και υπευθυνότητα.
+Παρουσίαση: Κατερίνα Χαραλάμπους, Τάσος Χριστοδούλου
+Παραγωγή – Σκηνοθεσία: Μαρία Χαρή, Άντρεα Αγγελίδου, Άντρη Κωνσταντίνου
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/APO_MERA_S.6984bfb0.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240104140000 +0200" stop="20240104143000 +0200" channel="rik1">
+    <title lang="el">Ειδήσεις</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240104143000 +0200" stop="20240104153000 +0200" channel="rik1">
+    <title lang="el">Εμείς κι ο Κόσμος μας</title>
+   <desc lang="el">Για 6η χρονιά, ο Λουκάς Χάματσος στο καθημερινό τηλεοπτικό ραντεβού, φιλοξενεί ξεχωριστούς καλεσμένους και παρουσιάζει ενδιαφέροντα θέματα απ’ όλη την Κύπρο και τον κόσμο μας.
+Δημοσιογραφική Επιμέλεια - Παρουσίαση: Λουκάς Χάματσος
+
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/EMEIS_KI_O_KOSMOS_S.05a7e0c6.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240104153000 +0200" stop="20240104163000 +0200" channel="rik1">
+    <title lang="el">Καμώματα τζι Αρώματα</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240104163000 +0200" stop="20240104180000 +0200" channel="rik1">
+    <title lang="el">Επικοινωνία</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240104180000 +0200" stop="20240104183000 +0200" channel="rik1">
+    <title lang="el">Ειδήσεις στις 18:00</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240104183000 +0200" stop="20240104193000 +0200" channel="rik1">
+    <title lang="el">Κουζίνα σε Ρόδες</title>
+   <desc lang="el">Τι κάνουν μαζί ένας chef, μια ηθοποιός και μια κινητή κουζίνα?
+Μία διαφορετική εκπομπή μαγειρικής, εκτός στούντιο, έχοντας για σκηνικό φυσικά τοπία, χωριά, πόλεις, σημεία θέας. Επιπρόσθετα μια ‘ιδιαίτερη’ βοηθός κουζίνας, προσθέτει μια ευχάριστη νότα ενώ έξτρα συμβουλές και μυστικά που εμφανίζονται περίτεχνα δίνουν μια πιο μοντέρνα προσέγγιση της δομής, του μοντάζ και της σκηνοθεσίας της εκπομπής.
+Σκηνοθεσία: Πέτρος Σολωμού
+Έκτέλεση Παραγωγής: Drama Queen Productions
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOUZINA_SE_RODES_Portrait.2e16d0ba.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240104193000 +0200" stop="20240104200000 +0200" channel="rik1">
+    <title lang="el">Ειρήνη Πάσι</title>
+   <desc lang="el">Η κωμική σειρά εποχής που αγαπήσατε επιστρέφει για 3η χρονιά για να χαρίσει ακόμη περισσότερες στιγμές γέλιου. Σημείο αναφοράς παραμένει η κόντρα ανάμεσα στον ιερέα και τον μουχτάρη του χωριού και συνεχίζονται τα μπερδέματα, οι παρεξηγήσεις, οι έρωτες, οι τσακωμοί και οι ίντριγκες στο πιο τρελό χωριό!
+Ξανασμίγουν και πάλι, ύστερα από χρόνια με τον Κώστα Δημητρίου οι: Σταύρος Λούρας, Ζωή Κυπριανού, Ηράκλης Γιωργαλλή, Σώτος Σταυράκη,Μόνικα Μελέκκη, Αντρέας Βούλγαρης, Μιχάλης Χρίστου ,ενώ συνεχίζει το μόνιμο καστ με τους Κρίστοφερ Γκρέκο, Μιχάλη Μουστάκα, Λουκία Μ. Μουσουλιώτη, Βαλεντίνα Σοφοκλέους, Αντρέα Μελέκκη, Κωνσταντίνο Αλκιβιάδη, Μαρία Μεσαρίτη, Εύρο Βασιλείου, Άντρεα Δημητρίου, Βαλεντίνα Νικολάου, Γεωργία Κωνσταντίνου, Μάριο Στυλιανού, Θεοδώρα Βήχα και Έλενα Παπαδοπούλου.
+Τα γυρίσματα της σειράς πραγματοποιούνται στο χωριό Κάτω Δρυς της επαρχίας Λάρνακας.
+Σενάριο: Μιχάλης Τερζής, Μαρίνα Φραγκεσκίδου
+Σκηνοθεσία: Χρήστος Νικολάου
+Παραγωγή: D.D. MEDIA STUDIOS
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/EIRHNH_PASI_S.48e03a4c.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240104200000 +0200" stop="20240104210000 +0200" channel="rik1">
+    <title lang="el">Ειδήσεις στις 20:00</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240104210000 +0200" stop="20240104220000 +0200" channel="rik1">
+    <title lang="el">Τρικυμία</title>
+   <desc lang="el">Κύπρος 1878. Η θάλασσα φουσκώνει για μια νέα μεγάλη Τρικυμία στον 2ο κύκλο της σειράς. Ο πόλεμος ανάμεσα στην Οθωμανική Αυτοκρατορία και τον Ορθόδοξο Συνασπισμό με επικεφαλής τη Ρωσία τελειώνει με ήττα των Οθωμανών. Οι Τούρκοι αναγκάζονται να παραχωρήσουν την Κύπρο στη Βρετανική Αυτοκρατορία και ένα νέο κεφάλαιο ανοίγεται στην ιστορία του τόπου μας. Νέοι κατακτητές, νέοι αγώνες και μια συνεχής μάχη των προγόνων μας για επιβίωση. Αυτή η συγκλονιστική εποχή σκιαγραφείται μέσα από τη δραματική σειρά εποχής Τρικυμία η οποία επιστρέφει ανανεωμένη με τους αγαπημένους σας ήρωες σε νέες συγκλονιστικές ιστορίες και περιπέτειες.
+Ηθοποιοί: Αντρέας Τσουρής, Αντρούλα Ηρακλέους, Νεοκλής Νεοκλέους, Κύνθια Παυλίδου, Σίμος Τσιάκκας, Γιώργος Αναγιωτός, Αθηνά Σάββα, Βάσια Αδάμου.
+Φετινές προσθήκες στο κάστ αποτελούν οι ηθοποιοί Στέφανος Μιχαήλ, Ανδρέας Κουτσόφτας, Ειρήνη Σαλάτα ,Παμπίνα Γεωργίου, Πανίκος Πιλάλης, Μαρίνος Χατζηβασιλείου, Δένα Ιωάννου, Χρίστος Κυριάκου - Παλώδιας και Γιάννης Φωτεινός.
+Σενάριο: Σοφία Σοφοκλέους, Ανδρέας Νικολαίδης,Δημήτρης Τοκαρής
+Σκηνοθεσία: Κώστας Χριστοφόρου
+Έκτέλεση Παραγωγής: Galinis Production Studio
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/TRYKIMIA_S.eccd178c.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240104220000 +0200" stop="20240104230000 +0200" channel="rik1">
+    <title lang="el">Προκλήσεις</title>
+   <desc lang="el">Επικαιρική εκπομπή με επίκεντρο τις πολιτικές εξελίξεις στην Κύπρο αλλά και διεθνώς. Στόχος η ουσιαστική ανάλυση των θεμάτων της επικαιρότητας από πολιτικούς, ακαδημαϊκούς και κυρίως τους ίδιους τους πρωταγωνιστές.
+Δημοσιογραφική Επιμέλεια - Παρουσίαση: Αντρέας Κημήτρης
+Επιμέλεια παραγωγής – Σκηνοθεσία: Λιάνα Κωνσταντίνου
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/PROKLHSEIS_S.da355e88.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240104230000 +0200" stop="20240104003000 +0200" channel="rik1">
+    <title lang="el">Σε Ξένα Χέρια</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240104063000 +0200" stop="20240104072000 +0200" channel="rik2">
+    <title lang="el">Little House on the Prairie</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240104072000 +0200" stop="20240104080000 +0200" channel="rik2">
+    <title lang="el">Eight is Enough</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240104080000 +0200" stop="20240104153000 +0200" channel="rik2">
+    <title lang="el">Παιδική Ζώνη</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240104153000 +0200" stop="20240104162000 +0200" channel="rik2">
+    <title lang="el">Eight is Enough</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240104162000 +0200" stop="20240104170000 +0200" channel="rik2">
+    <title lang="el">All Creatures Great and Small</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240104170000 +0200" stop="20240104180000 +0200" channel="rik2">
+    <title lang="el">Little House on the Prairie</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240104180000 +0200" stop="20240104183000 +0200" channel="riksat">
+    <title lang="el">Full House</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240104183000 +0200" stop="20240104190000 +0200" channel="riksat">
+    <title lang="el">Step by Step</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240104190000 +0200" stop="20240104191000 +0200" channel="riksat">
+    <title lang="el">Κοίτα με στα Μάτια</title>
+   <desc lang="el">Εκπομπή με θέμα την ευημερία των ζώων και τη δυνατή σχέση ανάμεσα στους ανθρώπους και τους τετράποδους φίλους τους. Στόχος η ανάδειξη των αδυναμιών της κοινωνίας στην αντιμετώπιση των αναγκών των ζώων και η ευαισθητοποίηση και η βελτίωση της κουλτούρας μας στο συγκεκριμένο θέμα.
+ εκπομπή γίνεται σε συνεργασία με το Υπουργείο Γεωργίας, Αγροτικής Ανάπτυξης και Περιβάλλοντος.
+Σκηνοθεσία: Μιχάλης Γεωργιάδης
+Κείμενα - Aφήγηση: Γιώργος Πήττας
+Εκτέλεση Παραγωγής: Michaelangelo Cinematographic Services LTD
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOITAME_ESTA_MATIA_S.2e16d0ba.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240104191000 +0200" stop="20240104194000 +0200" channel="riksat">
+    <title lang="el">Farming for the Planet</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240104194000 +0200" stop="20240104195000 +0200" channel="riksat">
+    <title lang="el">English News</title>
+   <desc lang="el">Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώσσα. Daily news bulletin in english.
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/ENGLISH_NEWS_RIK2.2e16d0ba.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240104195000 +0200" stop="20240104200000 +0200" channel="riksat">
+    <title lang="el">Haberler</title>
+   <desc lang="el">Καθημερινό δελτίο ειδήσεων στην τουρκική γλώσσα.
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/HABERLER_RIK2.2e16d0ba.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240104200000 +0200" stop="20240104210000 +0200" channel="riksat">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων στη Νοηματική</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240104210000 +0200" stop="20240104220000 +0200" channel="riksat">
+    <title lang="el">Roadkill</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240104220000 +0200" stop="20240104000000 +0200" channel="riksat">
+    <title lang="el">Ταινία/The Spy Who Dumped Me</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240104064500 +0200" stop="20240104093000 +0200" channel="RIK HD">
+    <title lang="el">Πρώτη Ενημέρωση</title>
+   <desc lang="el">Καθημερινή, ζωντανή,ενημερωτική εκπομπή που καλύπτει την τοπική και διεθνή ειδησεογραφία με φιλοξενούμενους στο στούντιο, δελτίο ειδήσεων, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις.
+Παρουσίαση: Σταύρος Κυπριανού, Σταυριανή Κωνσταντίνου
+Παρουσίαση Δελτίου Ειδήσεων: Ευγενία Σέργη
+Παραγωγή – Σκηνοθεσία: Πανίκος Νικολάου
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/PROTH_ENHMEROSH_S.82131f7d.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240104093000 +0200" stop="20240104110000 +0200" channel="RIK HD">
+    <title lang="el">Όμορφη Μέρα </title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240104110000 +0200" stop="20240104120000 +0200" channel="RIK HD">
+    <title lang="el">Κουζίνα σε Ρόδες</title>
+   <desc lang="el">Τι κάνουν μαζί ένας chef, μια ηθοποιός και μια κινητή κουζίνα?
+Μία διαφορετική εκπομπή μαγειρικής, εκτός στούντιο, έχοντας για σκηνικό φυσικά τοπία, χωριά, πόλεις, σημεία θέας. Επιπρόσθετα μια ‘ιδιαίτερη’ βοηθός κουζίνας, προσθέτει μια ευχάριστη νότα ενώ έξτρα συμβουλές και μυστικά που εμφανίζονται περίτεχνα δίνουν μια πιο μοντέρνα προσέγγιση της δομής, του μοντάζ και της σκηνοθεσίας της εκπομπής.
+Σκηνοθεσία: Πέτρος Σολωμού
+Έκτέλεση Παραγωγής: Drama Queen Productions
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOUZINA_SE_RODES_Portrait.2e16d0ba.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240104120000 +0200" stop="20240104140000 +0200" channel="RIK HD">
+    <title lang="el">Από Μέρα σε Μέρα</title>
+   <desc lang="el">Μεσημβρινή, ζωντανή, ενημερωτική εκπομπή που παρουσιάζει και αναλύει όλη την επικαιρότητα της ημέρας. Με συζητήσεις στο στούντιο, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις, η εκπομπή μεταφέρει τον παλμό της επικαιρότητας εξελίξεις τόσο από τον τοπικό, όσο και από τον διεθνή χώρο, με σοβαρότητα και υπευθυνότητα.
+Παρουσίαση: Κατερίνα Χαραλάμπους, Τάσος Χριστοδούλου
+Παραγωγή – Σκηνοθεσία: Μαρία Χαρή, Άντρεα Αγγελίδου, Άντρη Κωνσταντίνου
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/APO_MERA_S.6984bfb0.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240104140000 +0200" stop="20240104143000 +0200" channel="RIK HD">
+    <title lang="el">Ειδήσεις</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240104143000 +0200" stop="20240104153000 +0200" channel="RIK HD">
+    <title lang="el">Εμείς κι ο Κόσμος μας</title>
+   <desc lang="el">Για 6η χρονιά, ο Λουκάς Χάματσος στο καθημερινό τηλεοπτικό ραντεβού, φιλοξενεί ξεχωριστούς καλεσμένους και παρουσιάζει ενδιαφέροντα θέματα απ’ όλη την Κύπρο και τον κόσμο μας.
+Δημοσιογραφική Επιμέλεια - Παρουσίαση: Λουκάς Χάματσος
+
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/EMEIS_KI_O_KOSMOS_S.05a7e0c6.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240104153000 +0200" stop="20240104163000 +0200" channel="RIK HD">
+    <title lang="el">Καμώματα τζι Αρώματα</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240104163000 +0200" stop="20240104180000 +0200" channel="RIK HD">
+    <title lang="el">Επικοινωνία</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240104180000 +0200" stop="20240104183000 +0200" channel="RIK HD">
+    <title lang="el">Ειδήσεις στις 18:00</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240104183000 +0200" stop="20240104193000 +0200" channel="RIK HD">
+    <title lang="el">Κουζίνα σε Ρόδες</title>
+   <desc lang="el">Τι κάνουν μαζί ένας chef, μια ηθοποιός και μια κινητή κουζίνα?
+Μία διαφορετική εκπομπή μαγειρικής, εκτός στούντιο, έχοντας για σκηνικό φυσικά τοπία, χωριά, πόλεις, σημεία θέας. Επιπρόσθετα μια ‘ιδιαίτερη’ βοηθός κουζίνας, προσθέτει μια ευχάριστη νότα ενώ έξτρα συμβουλές και μυστικά που εμφανίζονται περίτεχνα δίνουν μια πιο μοντέρνα προσέγγιση της δομής, του μοντάζ και της σκηνοθεσίας της εκπομπής.
+Σκηνοθεσία: Πέτρος Σολωμού
+Έκτέλεση Παραγωγής: Drama Queen Productions
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOUZINA_SE_RODES_Portrait.2e16d0ba.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240104193000 +0200" stop="20240104200000 +0200" channel="RIK HD">
+    <title lang="el">Ειρήνη Πάσι</title>
+   <desc lang="el">Η κωμική σειρά εποχής που αγαπήσατε επιστρέφει για 3η χρονιά για να χαρίσει ακόμη περισσότερες στιγμές γέλιου. Σημείο αναφοράς παραμένει η κόντρα ανάμεσα στον ιερέα και τον μουχτάρη του χωριού και συνεχίζονται τα μπερδέματα, οι παρεξηγήσεις, οι έρωτες, οι τσακωμοί και οι ίντριγκες στο πιο τρελό χωριό!
+Ξανασμίγουν και πάλι, ύστερα από χρόνια με τον Κώστα Δημητρίου οι: Σταύρος Λούρας, Ζωή Κυπριανού, Ηράκλης Γιωργαλλή, Σώτος Σταυράκη,Μόνικα Μελέκκη, Αντρέας Βούλγαρης, Μιχάλης Χρίστου ,ενώ συνεχίζει το μόνιμο καστ με τους Κρίστοφερ Γκρέκο, Μιχάλη Μουστάκα, Λουκία Μ. Μουσουλιώτη, Βαλεντίνα Σοφοκλέους, Αντρέα Μελέκκη, Κωνσταντίνο Αλκιβιάδη, Μαρία Μεσαρίτη, Εύρο Βασιλείου, Άντρεα Δημητρίου, Βαλεντίνα Νικολάου, Γεωργία Κωνσταντίνου, Μάριο Στυλιανού, Θεοδώρα Βήχα και Έλενα Παπαδοπούλου.
+Τα γυρίσματα της σειράς πραγματοποιούνται στο χωριό Κάτω Δρυς της επαρχίας Λάρνακας.
+Σενάριο: Μιχάλης Τερζής, Μαρίνα Φραγκεσκίδου
+Σκηνοθεσία: Χρήστος Νικολάου
+Παραγωγή: D.D. MEDIA STUDIOS
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/EIRHNH_PASI_S.48e03a4c.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240104200000 +0200" stop="20240104210000 +0200" channel="RIK HD">
+    <title lang="el">Ειδήσεις στις 20:00</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240104210000 +0200" stop="20240104220000 +0200" channel="RIK HD">
+    <title lang="el">Τρικυμία</title>
+   <desc lang="el">Κύπρος 1878. Η θάλασσα φουσκώνει για μια νέα μεγάλη Τρικυμία στον 2ο κύκλο της σειράς. Ο πόλεμος ανάμεσα στην Οθωμανική Αυτοκρατορία και τον Ορθόδοξο Συνασπισμό με επικεφαλής τη Ρωσία τελειώνει με ήττα των Οθωμανών. Οι Τούρκοι αναγκάζονται να παραχωρήσουν την Κύπρο στη Βρετανική Αυτοκρατορία και ένα νέο κεφάλαιο ανοίγεται στην ιστορία του τόπου μας. Νέοι κατακτητές, νέοι αγώνες και μια συνεχής μάχη των προγόνων μας για επιβίωση. Αυτή η συγκλονιστική εποχή σκιαγραφείται μέσα από τη δραματική σειρά εποχής Τρικυμία η οποία επιστρέφει ανανεωμένη με τους αγαπημένους σας ήρωες σε νέες συγκλονιστικές ιστορίες και περιπέτειες.
+Ηθοποιοί: Αντρέας Τσουρής, Αντρούλα Ηρακλέους, Νεοκλής Νεοκλέους, Κύνθια Παυλίδου, Σίμος Τσιάκκας, Γιώργος Αναγιωτός, Αθηνά Σάββα, Βάσια Αδάμου.
+Φετινές προσθήκες στο κάστ αποτελούν οι ηθοποιοί Στέφανος Μιχαήλ, Ανδρέας Κουτσόφτας, Ειρήνη Σαλάτα ,Παμπίνα Γεωργίου, Πανίκος Πιλάλης, Μαρίνος Χατζηβασιλείου, Δένα Ιωάννου, Χρίστος Κυριάκου - Παλώδιας και Γιάννης Φωτεινός.
+Σενάριο: Σοφία Σοφοκλέους, Ανδρέας Νικολαίδης,Δημήτρης Τοκαρής
+Σκηνοθεσία: Κώστας Χριστοφόρου
+Έκτέλεση Παραγωγής: Galinis Production Studio
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/TRYKIMIA_S.eccd178c.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240104220000 +0200" stop="20240104230000 +0200" channel="RIK HD">
+    <title lang="el">Προκλήσεις</title>
+   <desc lang="el">Επικαιρική εκπομπή με επίκεντρο τις πολιτικές εξελίξεις στην Κύπρο αλλά και διεθνώς. Στόχος η ουσιαστική ανάλυση των θεμάτων της επικαιρότητας από πολιτικούς, ακαδημαϊκούς και κυρίως τους ίδιους τους πρωταγωνιστές.
+Δημοσιογραφική Επιμέλεια - Παρουσίαση: Αντρέας Κημήτρης
+Επιμέλεια παραγωγής – Σκηνοθεσία: Λιάνα Κωνσταντίνου
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/PROKLHSEIS_S.da355e88.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240104230000 +0200" stop="20240104003000 +0200" channel="RIK HD">
+    <title lang="el">Ειδήσεις στην Αγγλική και Τουρκική</title>
+   <desc lang="el"></desc>
+   <icon src="/static/img/logos/rik-logo.png"/>
+  </programme>
+  <programme start="20240105064500 +0200" stop="20240105093000 +0200" channel="rik1">
+    <title lang="el">Πρώτη Ενημέρωση</title>
+   <desc lang="el">Καθημερινή, ζωντανή,ενημερωτική εκπομπή που καλύπτει την τοπική και διεθνή ειδησεογραφία με φιλοξενούμενους στο στούντιο, δελτίο ειδήσεων, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις.
+Παρουσίαση: Σταύρος Κυπριανού, Σταυριανή Κωνσταντίνου
+Παρουσίαση Δελτίου Ειδήσεων: Ευγενία Σέργη
+Παραγωγή – Σκηνοθεσία: Πανίκος Νικολάου
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/PROTH_ENHMEROSH_S.82131f7d.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240105093000 +0200" stop="20240105110000 +0200" channel="rik1">
+    <title lang="el">Όμορφη Μέρα</title>
+   <desc lang="el">Ζωντανή, καθημερινή, ενημερωτική, ψυχαγωγική εκπομπή, που κρατά συντροφιά στους τηλεθεατές με μεγάλη ποικιλία θεμάτων.<br/>Ενημέρωση σε τοπικά και διεθνή θέματα, συνεντεύξεις επωνύμων από τον πολιτιστικό και πολιτικό χώρο.Καθημερινή παρουσίαση συνταγών μαγειρικής και συνεντεύξεις συμβουλευτικού χαρακτήρα στον τομέα της ιατρικής, διατροφής, ψυχολογίας είναι μόνο κάποια από τα θέματα που γεμίζουν ευχάριστα την πρωινή καθημερινότητα.
+Παρουσίαση: Ελπίδα Ιακωβίδου<br/>Δημοσιογραφική επιμέλεια: Χριστιάνα Αντωνίου<br/>Παραγωγή – Σκηνοθεσία: Σόνια Δημητρίου και Ανδρέας Γ. Ανδρέου
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/OMORFH_MERA_S.598a4d19.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240105110000 +0200" stop="20240105120000 +0200" channel="rik1">
+    <title lang="el">Κουζίνα σε Ρόδες</title>
+   <desc lang="el">Τι κάνουν μαζί ένας chef, μια ηθοποιός και μια κινητή κουζίνα?
+Μία διαφορετική εκπομπή μαγειρικής, εκτός στούντιο, έχοντας για σκηνικό φυσικά τοπία, χωριά, πόλεις, σημεία θέας. Επιπρόσθετα μια ‘ιδιαίτερη’ βοηθός κουζίνας, προσθέτει μια ευχάριστη νότα ενώ έξτρα συμβουλές και μυστικά που εμφανίζονται περίτεχνα δίνουν μια πιο μοντέρνα προσέγγιση της δομής, του μοντάζ και της σκηνοθεσίας της εκπομπής.
+Σκηνοθεσία: Πέτρος Σολωμού
+Έκτέλεση Παραγωγής: Drama Queen Productions
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOUZINA_SE_RODES_Portrait.2e16d0ba.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240105120000 +0200" stop="20240105140000 +0200" channel="rik1">
+    <title lang="el">Από Μέρα σε Μέρα</title>
+   <desc lang="el">Μεσημβρινή, ζωντανή, ενημερωτική εκπομπή που παρουσιάζει και αναλύει όλη την επικαιρότητα της ημέρας. Με συζητήσεις στο στούντιο, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις, η εκπομπή μεταφέρει τον παλμό της επικαιρότητας εξελίξεις τόσο από τον τοπικό, όσο και από τον διεθνή χώρο, με σοβαρότητα και υπευθυνότητα.
+Παρουσίαση: Κατερίνα Χαραλάμπους, Τάσος Χριστοδούλου
+Παραγωγή – Σκηνοθεσία: Μαρία Χαρή, Άντρεα Αγγελίδου, Άντρη Κωνσταντίνου
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/APO_MERA_S.6984bfb0.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240105140000 +0200" stop="20240105143000 +0200" channel="rik1">
+    <title lang="el">Ειδήσεις</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240105143000 +0200" stop="20240105153000 +0200" channel="rik1">
+    <title lang="el">Εμείς κι ο Κόσμος μας</title>
+   <desc lang="el">Για 6η χρονιά, ο Λουκάς Χάματσος στο καθημερινό τηλεοπτικό ραντεβού, φιλοξενεί ξεχωριστούς καλεσμένους και παρουσιάζει ενδιαφέροντα θέματα απ’ όλη την Κύπρο και τον κόσμο μας.
+Δημοσιογραφική Επιμέλεια - Παρουσίαση: Λουκάς Χάματσος
+
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/EMEIS_KI_O_KOSMOS_S.05a7e0c6.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240105153000 +0200" stop="20240105163000 +0200" channel="rik1">
+    <title lang="el">Καμώματα τζι Αρώματα</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240105163000 +0200" stop="20240105180000 +0200" channel="rik1">
+    <title lang="el">Επικοινωνία</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240105180000 +0200" stop="20240105183000 +0200" channel="rik1">
+    <title lang="el">Ειδήσεις στις 18:00</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240105183000 +0200" stop="20240105193000 +0200" channel="rik1">
+    <title lang="el">Κουζίνα σε Ρόδες</title>
+   <desc lang="el">Τι κάνουν μαζί ένας chef, μια ηθοποιός και μια κινητή κουζίνα?
+Μία διαφορετική εκπομπή μαγειρικής, εκτός στούντιο, έχοντας για σκηνικό φυσικά τοπία, χωριά, πόλεις, σημεία θέας. Επιπρόσθετα μια ‘ιδιαίτερη’ βοηθός κουζίνας, προσθέτει μια ευχάριστη νότα ενώ έξτρα συμβουλές και μυστικά που εμφανίζονται περίτεχνα δίνουν μια πιο μοντέρνα προσέγγιση της δομής, του μοντάζ και της σκηνοθεσίας της εκπομπής.
+Σκηνοθεσία: Πέτρος Σολωμού
+Έκτέλεση Παραγωγής: Drama Queen Productions
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOUZINA_SE_RODES_Portrait.2e16d0ba.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240105193000 +0200" stop="20240105200000 +0200" channel="rik2">
+    <title lang="el">Ειρήνη Πάσι</title>
+   <desc lang="el">Η κωμική σειρά εποχής που αγαπήσατε επιστρέφει για 3η χρονιά για να χαρίσει ακόμη περισσότερες στιγμές γέλιου. Σημείο αναφοράς παραμένει η κόντρα ανάμεσα στον ιερέα και τον μουχτάρη του χωριού και συνεχίζονται τα μπερδέματα, οι παρεξηγήσεις, οι έρωτες, οι τσακωμοί και οι ίντριγκες στο πιο τρελό χωριό!
+Ξανασμίγουν και πάλι, ύστερα από χρόνια με τον Κώστα Δημητρίου οι: Σταύρος Λούρας, Ζωή Κυπριανού, Ηράκλης Γιωργαλλή, Σώτος Σταυράκη,Μόνικα Μελέκκη, Αντρέας Βούλγαρης, Μιχάλης Χρίστου ,ενώ συνεχίζει το μόνιμο καστ με τους Κρίστοφερ Γκρέκο, Μιχάλη Μουστάκα, Λουκία Μ. Μουσουλιώτη, Βαλεντίνα Σοφοκλέους, Αντρέα Μελέκκη, Κωνσταντίνο Αλκιβιάδη, Μαρία Μεσαρίτη, Εύρο Βασιλείου, Άντρεα Δημητρίου, Βαλεντίνα Νικολάου, Γεωργία Κωνσταντίνου, Μάριο Στυλιανού, Θεοδώρα Βήχα και Έλενα Παπαδοπούλου.
+Τα γυρίσματα της σειράς πραγματοποιούνται στο χωριό Κάτω Δρυς της επαρχίας Λάρνακας.
+Σενάριο: Μιχάλης Τερζής, Μαρίνα Φραγκεσκίδου
+Σκηνοθεσία: Χρήστος Νικολάου
+Παραγωγή: D.D. MEDIA STUDIOS
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/EIRHNH_PASI_S.48e03a4c.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240105200000 +0200" stop="20240105210000 +0200" channel="rik2">
+    <title lang="el">Ειδήσεις</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240105210000 +0200" stop="20240105220000 +0200" channel="rik2">
+    <title lang="el">Τρικυμία</title>
+   <desc lang="el">Κύπρος 1878. Η θάλασσα φουσκώνει για μια νέα μεγάλη Τρικυμία στον 2ο κύκλο της σειράς. Ο πόλεμος ανάμεσα στην Οθωμανική Αυτοκρατορία και τον Ορθόδοξο Συνασπισμό με επικεφαλής τη Ρωσία τελειώνει με ήττα των Οθωμανών. Οι Τούρκοι αναγκάζονται να παραχωρήσουν την Κύπρο στη Βρετανική Αυτοκρατορία και ένα νέο κεφάλαιο ανοίγεται στην ιστορία του τόπου μας. Νέοι κατακτητές, νέοι αγώνες και μια συνεχής μάχη των προγόνων μας για επιβίωση. Αυτή η συγκλονιστική εποχή σκιαγραφείται μέσα από τη δραματική σειρά εποχής Τρικυμία η οποία επιστρέφει ανανεωμένη με τους αγαπημένους σας ήρωες σε νέες συγκλονιστικές ιστορίες και περιπέτειες.
+Ηθοποιοί: Αντρέας Τσουρής, Αντρούλα Ηρακλέους, Νεοκλής Νεοκλέους, Κύνθια Παυλίδου, Σίμος Τσιάκκας, Γιώργος Αναγιωτός, Αθηνά Σάββα, Βάσια Αδάμου.
+Φετινές προσθήκες στο κάστ αποτελούν οι ηθοποιοί Στέφανος Μιχαήλ, Ανδρέας Κουτσόφτας, Ειρήνη Σαλάτα ,Παμπίνα Γεωργίου, Πανίκος Πιλάλης, Μαρίνος Χατζηβασιλείου, Δένα Ιωάννου, Χρίστος Κυριάκου - Παλώδιας και Γιάννης Φωτεινός.
+Σενάριο: Σοφία Σοφοκλέους, Ανδρέας Νικολαίδης,Δημήτρης Τοκαρής
+Σκηνοθεσία: Κώστας Χριστοφόρου
+Έκτέλεση Παραγωγής: Galinis Production Studio
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/TRYKIMIA_S.eccd178c.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240105220000 +0200" stop="20240105000000 +0200" channel="rik2">
+    <title lang="el">Συναυλία/Διάσταση Κώστας Κακογιάννης</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240105000000 +0200" stop="20240105013000 +0200" channel="rik2">
+    <title lang="el">Προσωπογραφίες</title>
+   <desc lang="el">Πρόσωπα από τον χώρο των γραμμάτων και των τεχνών διηγούνται στη Μαρία Αγγελίδου τη δική τους ιστορία. Αποκαλύπτουν άγνωστες πτυχές της ζωής και του έργου τους. Και…«ποζάρουν» για να φτιαχτεί η δική τους τηλεοπτική προσωπογραφία. Με εικόνες, λέξεις και συναισθήματα.
+Έρευνα - Παρουσίαση:  Μαρία Αγγελίδου
+Σκηνοθεσία:  Ζωή Σοφού
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/PROSOPOGRAFIES_S.d3fdadfb.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240105063000 +0200" stop="20240105072000 +0200" channel="riksat">
+    <title lang="el">Little House on the Prairie</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240105072000 +0200" stop="20240105080000 +0200" channel="riksat">
+    <title lang="el">Eight is Enough</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240105080000 +0200" stop="20240105153000 +0200" channel="riksat">
+    <title lang="el">Παιδική Ζώνη</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240105153000 +0200" stop="20240105162000 +0200" channel="riksat">
+    <title lang="el">Eight is Enough</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240105162000 +0200" stop="20240105170000 +0200" channel="riksat">
+    <title lang="el">All Creatures Great and Small</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240105170000 +0200" stop="20240105180000 +0200" channel="riksat">
+    <title lang="el">Little House on the Prairie</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240105180000 +0200" stop="20240105183000 +0200" channel="riksat">
+    <title lang="el">Full House</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240105183000 +0200" stop="20240105190000 +0200" channel="riksat">
+    <title lang="el">Step by Step</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240105190000 +0200" stop="20240105191000 +0200" channel="riksat">
+    <title lang="el">Κοίτα με στα Μάτια</title>
+   <desc lang="el">Εκπομπή με θέμα την ευημερία των ζώων και τη δυνατή σχέση ανάμεσα στους ανθρώπους και τους τετράποδους φίλους τους. Στόχος η ανάδειξη των αδυναμιών της κοινωνίας στην αντιμετώπιση των αναγκών των ζώων και η ευαισθητοποίηση και η βελτίωση της κουλτούρας μας στο συγκεκριμένο θέμα.
+ εκπομπή γίνεται σε συνεργασία με το Υπουργείο Γεωργίας, Αγροτικής Ανάπτυξης και Περιβάλλοντος.
+Σκηνοθεσία: Μιχάλης Γεωργιάδης
+Κείμενα - Aφήγηση: Γιώργος Πήττας
+Εκτέλεση Παραγωγής: Michaelangelo Cinematographic Services LTD
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOITAME_ESTA_MATIA_S.2e16d0ba.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240105191000 +0200" stop="20240105194000 +0200" channel="riksat">
+    <title lang="el">Farming for the Planet</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240105194000 +0200" stop="20240105195000 +0200" channel="riksat">
+    <title lang="el">English News</title>
+   <desc lang="el">Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώσσα. Daily news bulletin in english.
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/ENGLISH_NEWS_RIK2.2e16d0ba.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240105195000 +0200" stop="20240105200000 +0200" channel="riksat">
+    <title lang="el">Haberler</title>
+   <desc lang="el">Καθημερινό δελτίο ειδήσεων στην τουρκική γλώσσα.
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/HABERLER_RIK2.2e16d0ba.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240105200000 +0200" stop="20240105210000 +0200" channel="riksat">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων στη Νοηματική</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240105210000 +0200" stop="20240105222000 +0200" channel="riksat">
+    <title lang="el">Ταινία/A Gingerbread Christmas</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240105222000 +0200" stop="20240105000000 +0200" channel="riksat">
+    <title lang="el">Ταινία/Ι Feel Pretty</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240105064500 +0200" stop="20240105093000 +0200" channel="RIK HD">
+    <title lang="el">Πρώτη Ενημέρωση</title>
+   <desc lang="el">Καθημερινή, ζωντανή,ενημερωτική εκπομπή που καλύπτει την τοπική και διεθνή ειδησεογραφία με φιλοξενούμενους στο στούντιο, δελτίο ειδήσεων, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις.
+Παρουσίαση: Σταύρος Κυπριανού, Σταυριανή Κωνσταντίνου
+Παρουσίαση Δελτίου Ειδήσεων: Ευγενία Σέργη
+Παραγωγή – Σκηνοθεσία: Πανίκος Νικολάου
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/PROTH_ENHMEROSH_S.82131f7d.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240105093000 +0200" stop="20240105110000 +0200" channel="RIK HD">
+    <title lang="el">Όμορφη Μέρα </title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240105110000 +0200" stop="20240105120000 +0200" channel="RIK HD">
+    <title lang="el">Κουζίνα σε Ρόδες</title>
+   <desc lang="el">Τι κάνουν μαζί ένας chef, μια ηθοποιός και μια κινητή κουζίνα?
+Μία διαφορετική εκπομπή μαγειρικής, εκτός στούντιο, έχοντας για σκηνικό φυσικά τοπία, χωριά, πόλεις, σημεία θέας. Επιπρόσθετα μια ‘ιδιαίτερη’ βοηθός κουζίνας, προσθέτει μια ευχάριστη νότα ενώ έξτρα συμβουλές και μυστικά που εμφανίζονται περίτεχνα δίνουν μια πιο μοντέρνα προσέγγιση της δομής, του μοντάζ και της σκηνοθεσίας της εκπομπής.
+Σκηνοθεσία: Πέτρος Σολωμού
+Έκτέλεση Παραγωγής: Drama Queen Productions
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOUZINA_SE_RODES_Portrait.2e16d0ba.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240105120000 +0200" stop="20240105140000 +0200" channel="RIK HD">
+    <title lang="el">Από Μέρα σε Μέρα</title>
+   <desc lang="el">Μεσημβρινή, ζωντανή, ενημερωτική εκπομπή που παρουσιάζει και αναλύει όλη την επικαιρότητα της ημέρας. Με συζητήσεις στο στούντιο, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις, η εκπομπή μεταφέρει τον παλμό της επικαιρότητας εξελίξεις τόσο από τον τοπικό, όσο και από τον διεθνή χώρο, με σοβαρότητα και υπευθυνότητα.
+Παρουσίαση: Κατερίνα Χαραλάμπους, Τάσος Χριστοδούλου
+Παραγωγή – Σκηνοθεσία: Μαρία Χαρή, Άντρεα Αγγελίδου, Άντρη Κωνσταντίνου
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/APO_MERA_S.6984bfb0.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240105140000 +0200" stop="20240105143000 +0200" channel="RIK HD">
+    <title lang="el">Ειδήσεις</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240105143000 +0200" stop="20240105153000 +0200" channel="RIK HD">
+    <title lang="el">Εμείς κι ο Κόσμος μας</title>
+   <desc lang="el">Για 6η χρονιά, ο Λουκάς Χάματσος στο καθημερινό τηλεοπτικό ραντεβού, φιλοξενεί ξεχωριστούς καλεσμένους και παρουσιάζει ενδιαφέροντα θέματα απ’ όλη την Κύπρο και τον κόσμο μας.
+Δημοσιογραφική Επιμέλεια - Παρουσίαση: Λουκάς Χάματσος
+
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/EMEIS_KI_O_KOSMOS_S.05a7e0c6.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240105153000 +0200" stop="20240105163000 +0200" channel="RIK HD">
+    <title lang="el">Καμώματα τζι Αρώματα</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240105163000 +0200" stop="20240105180000 +0200" channel="RIK HD">
+    <title lang="el">Επικοινωνία</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240105180000 +0200" stop="20240105183000 +0200" channel="RIK HD">
+    <title lang="el">Ειδήσεις στις 18:00</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240105183000 +0200" stop="20240105193000 +0200" channel="RIK HD">
+    <title lang="el">Κουζίνα σε Ρόδες</title>
+   <desc lang="el">Τι κάνουν μαζί ένας chef, μια ηθοποιός και μια κινητή κουζίνα?
+Μία διαφορετική εκπομπή μαγειρικής, εκτός στούντιο, έχοντας για σκηνικό φυσικά τοπία, χωριά, πόλεις, σημεία θέας. Επιπρόσθετα μια ‘ιδιαίτερη’ βοηθός κουζίνας, προσθέτει μια ευχάριστη νότα ενώ έξτρα συμβουλές και μυστικά που εμφανίζονται περίτεχνα δίνουν μια πιο μοντέρνα προσέγγιση της δομής, του μοντάζ και της σκηνοθεσίας της εκπομπής.
+Σκηνοθεσία: Πέτρος Σολωμού
+Έκτέλεση Παραγωγής: Drama Queen Productions
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOUZINA_SE_RODES_Portrait.2e16d0ba.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240105193000 +0200" stop="20240105200000 +0200" channel="RIK HD">
+    <title lang="el">Ειρήνη Πάσι</title>
+   <desc lang="el">Η κωμική σειρά εποχής που αγαπήσατε επιστρέφει για 3η χρονιά για να χαρίσει ακόμη περισσότερες στιγμές γέλιου. Σημείο αναφοράς παραμένει η κόντρα ανάμεσα στον ιερέα και τον μουχτάρη του χωριού και συνεχίζονται τα μπερδέματα, οι παρεξηγήσεις, οι έρωτες, οι τσακωμοί και οι ίντριγκες στο πιο τρελό χωριό!
+Ξανασμίγουν και πάλι, ύστερα από χρόνια με τον Κώστα Δημητρίου οι: Σταύρος Λούρας, Ζωή Κυπριανού, Ηράκλης Γιωργαλλή, Σώτος Σταυράκη,Μόνικα Μελέκκη, Αντρέας Βούλγαρης, Μιχάλης Χρίστου ,ενώ συνεχίζει το μόνιμο καστ με τους Κρίστοφερ Γκρέκο, Μιχάλη Μουστάκα, Λουκία Μ. Μουσουλιώτη, Βαλεντίνα Σοφοκλέους, Αντρέα Μελέκκη, Κωνσταντίνο Αλκιβιάδη, Μαρία Μεσαρίτη, Εύρο Βασιλείου, Άντρεα Δημητρίου, Βαλεντίνα Νικολάου, Γεωργία Κωνσταντίνου, Μάριο Στυλιανού, Θεοδώρα Βήχα και Έλενα Παπαδοπούλου.
+Τα γυρίσματα της σειράς πραγματοποιούνται στο χωριό Κάτω Δρυς της επαρχίας Λάρνακας.
+Σενάριο: Μιχάλης Τερζής, Μαρίνα Φραγκεσκίδου
+Σκηνοθεσία: Χρήστος Νικολάου
+Παραγωγή: D.D. MEDIA STUDIOS
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/EIRHNH_PASI_S.48e03a4c.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240105200000 +0200" stop="20240105210000 +0200" channel="RIK HD">
+    <title lang="el">Ειδήσεις στις 20:00</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20240105210000 +0200" stop="20240105220000 +0200" channel="RIK HD">
+    <title lang="el">Τρικυμία</title>
+   <desc lang="el">Κύπρος 1878. Η θάλασσα φουσκώνει για μια νέα μεγάλη Τρικυμία στον 2ο κύκλο της σειράς. Ο πόλεμος ανάμεσα στην Οθωμανική Αυτοκρατορία και τον Ορθόδοξο Συνασπισμό με επικεφαλής τη Ρωσία τελειώνει με ήττα των Οθωμανών. Οι Τούρκοι αναγκάζονται να παραχωρήσουν την Κύπρο στη Βρετανική Αυτοκρατορία και ένα νέο κεφάλαιο ανοίγεται στην ιστορία του τόπου μας. Νέοι κατακτητές, νέοι αγώνες και μια συνεχής μάχη των προγόνων μας για επιβίωση. Αυτή η συγκλονιστική εποχή σκιαγραφείται μέσα από τη δραματική σειρά εποχής Τρικυμία η οποία επιστρέφει ανανεωμένη με τους αγαπημένους σας ήρωες σε νέες συγκλονιστικές ιστορίες και περιπέτειες.
+Ηθοποιοί: Αντρέας Τσουρής, Αντρούλα Ηρακλέους, Νεοκλής Νεοκλέους, Κύνθια Παυλίδου, Σίμος Τσιάκκας, Γιώργος Αναγιωτός, Αθηνά Σάββα, Βάσια Αδάμου.
+Φετινές προσθήκες στο κάστ αποτελούν οι ηθοποιοί Στέφανος Μιχαήλ, Ανδρέας Κουτσόφτας, Ειρήνη Σαλάτα ,Παμπίνα Γεωργίου, Πανίκος Πιλάλης, Μαρίνος Χατζηβασιλείου, Δένα Ιωάννου, Χρίστος Κυριάκου - Παλώδιας και Γιάννης Φωτεινός.
+Σενάριο: Σοφία Σοφοκλέους, Ανδρέας Νικολαίδης,Δημήτρης Τοκαρής
+Σκηνοθεσία: Κώστας Χριστοφόρου
+Έκτέλεση Παραγωγής: Galinis Production Studio
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/TRYKIMIA_S.eccd178c.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20240105220000 +0200" stop="20240105000000 +0200" channel="RIK HD">
+    <title lang="el">Συναυλία </title>
+   <desc lang="el"></desc>
+   <icon src="/static/img/logos/rik-logo.png"/>
+  </programme>
   <programme start="20240102080000 +0200" stop="20240102090000 +0200" channel="EGNATIA">
     <title lang="el">ΔΟΞΑ ΣΟΙ Ο ΘΕΟΣ</title>
    <icon src="https://www.egnatia.tv/sites/default/files/styles/fullscreen_gallery_l/public/2017-10/%CE%94%CE%BF%CE%BE%CE%B1-%CF%83%CE%BF%CE%B9-%CE%BF-%CE%98%CE%B5%CE%BF%CF%82.jpg?itok=ErUORETH"/>
@@ -31769,1088 +32852,5 @@ The leading news stories of the moment.</desc>
   </programme>
   <programme start="20240106030000 +0200" stop="20240106063000 +0200" channel="ANT1 EUROPE">
     <title lang="el">ΤΟ ΠΡΩΙΝΟ </title>
-  </programme>
-  <programme start="20240102064500 +0200" stop="20240102093000 +0200" channel="rik1">
-    <title lang="el">Πρώτη Ενημέρωση</title>
-   <desc lang="el">Καθημερινή, ζωντανή,ενημερωτική εκπομπή που καλύπτει την τοπική και διεθνή ειδησεογραφία με φιλοξενούμενους στο στούντιο, δελτίο ειδήσεων, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις.
-Παρουσίαση: Σταύρος Κυπριανού, Σταυριανή Κωνσταντίνου
-Παρουσίαση Δελτίου Ειδήσεων: Ευγενία Σέργη
-Παραγωγή – Σκηνοθεσία: Πανίκος Νικολάου
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/PROTH_ENHMEROSH_S.82131f7d.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240102093000 +0200" stop="20240102110000 +0200" channel="rik1">
-    <title lang="el">Όμορφη Μέρα </title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240102110000 +0200" stop="20240102120000 +0200" channel="rik1">
-    <title lang="el">Κουζίνα σε Ρόδες</title>
-   <desc lang="el">Τι κάνουν μαζί ένας chef, μια ηθοποιός και μια κινητή κουζίνα?
-Μία διαφορετική εκπομπή μαγειρικής, εκτός στούντιο, έχοντας για σκηνικό φυσικά τοπία, χωριά, πόλεις, σημεία θέας. Επιπρόσθετα μια ‘ιδιαίτερη’ βοηθός κουζίνας, προσθέτει μια ευχάριστη νότα ενώ έξτρα συμβουλές και μυστικά που εμφανίζονται περίτεχνα δίνουν μια πιο μοντέρνα προσέγγιση της δομής, του μοντάζ και της σκηνοθεσίας της εκπομπής.
-Σκηνοθεσία: Πέτρος Σολωμού
-Έκτέλεση Παραγωγής: Drama Queen Productions
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOUZINA_SE_RODES_Portrait.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240102120000 +0200" stop="20240102140000 +0200" channel="rik1">
-    <title lang="el">Από Μέρα σε Μέρα</title>
-   <desc lang="el">Μεσημβρινή, ζωντανή, ενημερωτική εκπομπή που παρουσιάζει και αναλύει όλη την επικαιρότητα της ημέρας. Με συζητήσεις στο στούντιο, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις, η εκπομπή μεταφέρει τον παλμό της επικαιρότητας εξελίξεις τόσο από τον τοπικό, όσο και από τον διεθνή χώρο, με σοβαρότητα και υπευθυνότητα.
-Παρουσίαση: Κατερίνα Χαραλάμπους, Τάσος Χριστοδούλου
-Παραγωγή – Σκηνοθεσία: Μαρία Χαρή, Άντρεα Αγγελίδου, Άντρη Κωνσταντίνου
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/APO_MERA_S.6984bfb0.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240102140000 +0200" stop="20240102143000 +0200" channel="rik1">
-    <title lang="el">Ειδήσεις</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240102143000 +0200" stop="20240102153000 +0200" channel="rik1">
-    <title lang="el">Εμείς κι ο Κόσμος μας</title>
-   <desc lang="el">Για 6η χρονιά, ο Λουκάς Χάματσος στο καθημερινό τηλεοπτικό ραντεβού, φιλοξενεί ξεχωριστούς καλεσμένους και παρουσιάζει ενδιαφέροντα θέματα απ’ όλη την Κύπρο και τον κόσμο μας.
-Δημοσιογραφική Επιμέλεια - Παρουσίαση: Λουκάς Χάματσος
-
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/EMEIS_KI_O_KOSMOS_S.05a7e0c6.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240102153000 +0200" stop="20240102163000 +0200" channel="rik1">
-    <title lang="el">Καμώματα τζι Αρώματα</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240102163000 +0200" stop="20240102180000 +0200" channel="rik1">
-    <title lang="el">Επικοινωνία</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240102180000 +0200" stop="20240102183000 +0200" channel="rik1">
-    <title lang="el">Ειδήσεις στις 18:00</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240102183000 +0200" stop="20240102193000 +0200" channel="rik1">
-    <title lang="el">Κουζίνα σε Ρόδες</title>
-   <desc lang="el">Τι κάνουν μαζί ένας chef, μια ηθοποιός και μια κινητή κουζίνα?
-Μία διαφορετική εκπομπή μαγειρικής, εκτός στούντιο, έχοντας για σκηνικό φυσικά τοπία, χωριά, πόλεις, σημεία θέας. Επιπρόσθετα μια ‘ιδιαίτερη’ βοηθός κουζίνας, προσθέτει μια ευχάριστη νότα ενώ έξτρα συμβουλές και μυστικά που εμφανίζονται περίτεχνα δίνουν μια πιο μοντέρνα προσέγγιση της δομής, του μοντάζ και της σκηνοθεσίας της εκπομπής.
-Σκηνοθεσία: Πέτρος Σολωμού
-Έκτέλεση Παραγωγής: Drama Queen Productions
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOUZINA_SE_RODES_Portrait.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240102193000 +0200" stop="20240102200000 +0200" channel="rik1">
-    <title lang="el">Περικλής και Εριέττα</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240102200000 +0200" stop="20240102210000 +0200" channel="rik1">
-    <title lang="el">Ειδήσεις στις 20:00</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240102210000 +0200" stop="20240102220000 +0200" channel="rik1">
-    <title lang="el">Στα Όρια</title>
-   <desc lang="el">Θύτης ή θύμα; Αθώος ή ένοχος;
-Σε ένα ανακριτικό γραφείο, στοίβες με ερωτήματα που περιμένουν να απαντηθούν.
-Άλυτες αστυνομικές υποθέσεις που ψάχνουν λύσεις. Άνθρωποι που έφτασαν…«Στα Όρια»
-Τρείς ανακριτές προσπαθούν να ρίξουν φως στο σκοτάδι αφού «Δεν υπάρχει το τέλειο έγκλημα».
-Ο Χριστόδουλος Μαρτάς, η Μαργαρίτα Ζαχαρίου και ο Γρηγόρης Γεωργίου, σε μια σειρά αυτοτελών επεισοδίων βασισμένη σε πραγματικά γεγονότα.
-Σκηνοθεσία: Σταύρος Ποταμάρης
-Παραγωγή: Arts and Films Productions
-
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/STA_ORIA_S.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240102220000 +0200" stop="20240102230000 +0200" channel="rik1">
-    <title lang="el">Αποτυπώματα</title>
-   <desc lang="el">Ερευνούμε, αναζητούμε, ανακαλύπτουμε, αποκαλύπτουμε.
-Ανθρώπινες ιστορίες, ιστορικά γεγονότα που άφησαν για πάντα τα αποτυπώματα τους. Στο φως άγνωστες πτυχές της ιστορίας του τόπου μας.
-Προβλήματα της κοινωνίας τα οποία αναμένουν την ταυτοποίηση τους.
-;Έρευνα - Δημοσιογραφική επιμέλεια – Παρουσίαση: Χριστόδουλος Χριστοδούλου
-Έρευνα – Σύμβουλος εκπομπής: Χρίστος Ιακώβου
-Επιμέλεια παραγωγής – Σκηνοθεσία: Έλλη Χατζηπαρασκευά
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/APOTIPOMATA_S.e8c5827a.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240102230000 +0200" stop="20240102003000 +0200" channel="rik1">
-    <title lang="el">Σε Ξένα Χέρια</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240102063000 +0200" stop="20240102072000 +0200" channel="rik2">
-    <title lang="el">Little House on the Prairie</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240102072000 +0200" stop="20240102080000 +0200" channel="rik2">
-    <title lang="el">Eight is Enough</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240102080000 +0200" stop="20240102153000 +0200" channel="rik2">
-    <title lang="el">Παιδική Ζώνη</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240102153000 +0200" stop="20240102162000 +0200" channel="rik2">
-    <title lang="el">Eight is Enough</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240102162000 +0200" stop="20240102170000 +0200" channel="rik2">
-    <title lang="el">All Creatures Great and Small</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240102170000 +0200" stop="20240102180000 +0200" channel="rik2">
-    <title lang="el">Little House on the Prairie</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240102180000 +0200" stop="20240102183000 +0200" channel="rik2">
-    <title lang="el">Full House</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240102183000 +0200" stop="20240102190000 +0200" channel="rik2">
-    <title lang="el">Step by Step</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240102190000 +0200" stop="20240102191000 +0200" channel="rik2">
-    <title lang="el">Κοίτα με στα Μάτια</title>
-   <desc lang="el">Εκπομπή με θέμα την ευημερία των ζώων και τη δυνατή σχέση ανάμεσα στους ανθρώπους και τους τετράποδους φίλους τους. Στόχος η ανάδειξη των αδυναμιών της κοινωνίας στην αντιμετώπιση των αναγκών των ζώων και η ευαισθητοποίηση και η βελτίωση της κουλτούρας μας στο συγκεκριμένο θέμα.
- εκπομπή γίνεται σε συνεργασία με το Υπουργείο Γεωργίας, Αγροτικής Ανάπτυξης και Περιβάλλοντος.
-Σκηνοθεσία: Μιχάλης Γεωργιάδης
-Κείμενα - Aφήγηση: Γιώργος Πήττας
-Εκτέλεση Παραγωγής: Michaelangelo Cinematographic Services LTD
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOITAME_ESTA_MATIA_S.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240102191000 +0200" stop="20240102194000 +0200" channel="rik2">
-    <title lang="el">Farming for the Planet</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240102194000 +0200" stop="20240102195000 +0200" channel="rik2">
-    <title lang="el">English News</title>
-   <desc lang="el">Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώσσα. Daily news bulletin in english.
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/ENGLISH_NEWS_RIK2.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240102195000 +0200" stop="20240102200000 +0200" channel="rik2">
-    <title lang="el">Haberler</title>
-   <desc lang="el">Καθημερινό δελτίο ειδήσεων στην τουρκική γλώσσα.
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/HABERLER_RIK2.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240102200000 +0200" stop="20240102210000 +0200" channel="rik2">
-    <title lang="el">Κεντρικό Δελτίο Ειδήσεων στη Νοηματική</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240102210000 +0200" stop="20240102220000 +0200" channel="rik2">
-    <title lang="el">Roadkill</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240102220000 +0200" stop="20240102225000 +0200" channel="rik2">
-    <title lang="el">The Miniaturist</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240102225000 +0200" stop="20240102003000 +0200" channel="rik2">
-    <title lang="el">Flying Objects:A State Secret</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240102064500 +0200" stop="20240102093000 +0200" channel="riksat">
-    <title lang="el">Πρώτη Ενημέρωση</title>
-   <desc lang="el">Καθημερινή, ζωντανή,ενημερωτική εκπομπή που καλύπτει την τοπική και διεθνή ειδησεογραφία με φιλοξενούμενους στο στούντιο, δελτίο ειδήσεων, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις.
-Παρουσίαση: Σταύρος Κυπριανού, Σταυριανή Κωνσταντίνου
-Παρουσίαση Δελτίου Ειδήσεων: Ευγενία Σέργη
-Παραγωγή – Σκηνοθεσία: Πανίκος Νικολάου
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/PROTH_ENHMEROSH_S.82131f7d.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240102093000 +0200" stop="20240102110000 +0200" channel="riksat">
-    <title lang="el">Όμορφη Μέρα </title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240102110000 +0200" stop="20240102120000 +0200" channel="riksat">
-    <title lang="el">Κουζίνα σε Ρόδες</title>
-   <desc lang="el">Τι κάνουν μαζί ένας chef, μια ηθοποιός και μια κινητή κουζίνα?
-Μία διαφορετική εκπομπή μαγειρικής, εκτός στούντιο, έχοντας για σκηνικό φυσικά τοπία, χωριά, πόλεις, σημεία θέας. Επιπρόσθετα μια ‘ιδιαίτερη’ βοηθός κουζίνας, προσθέτει μια ευχάριστη νότα ενώ έξτρα συμβουλές και μυστικά που εμφανίζονται περίτεχνα δίνουν μια πιο μοντέρνα προσέγγιση της δομής, του μοντάζ και της σκηνοθεσίας της εκπομπής.
-Σκηνοθεσία: Πέτρος Σολωμού
-Έκτέλεση Παραγωγής: Drama Queen Productions
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOUZINA_SE_RODES_Portrait.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240102120000 +0200" stop="20240102140000 +0200" channel="riksat">
-    <title lang="el">Από Μέρα σε Μέρα</title>
-   <desc lang="el">Μεσημβρινή, ζωντανή, ενημερωτική εκπομπή που παρουσιάζει και αναλύει όλη την επικαιρότητα της ημέρας. Με συζητήσεις στο στούντιο, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις, η εκπομπή μεταφέρει τον παλμό της επικαιρότητας εξελίξεις τόσο από τον τοπικό, όσο και από τον διεθνή χώρο, με σοβαρότητα και υπευθυνότητα.
-Παρουσίαση: Κατερίνα Χαραλάμπους, Τάσος Χριστοδούλου
-Παραγωγή – Σκηνοθεσία: Μαρία Χαρή, Άντρεα Αγγελίδου, Άντρη Κωνσταντίνου
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/APO_MERA_S.6984bfb0.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240102140000 +0200" stop="20240102143000 +0200" channel="riksat">
-    <title lang="el">Ειδήσεις</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240102143000 +0200" stop="20240102153000 +0200" channel="riksat">
-    <title lang="el">Εμείς κι ο Κόσμος μας</title>
-   <desc lang="el">Για 6η χρονιά, ο Λουκάς Χάματσος στο καθημερινό τηλεοπτικό ραντεβού, φιλοξενεί ξεχωριστούς καλεσμένους και παρουσιάζει ενδιαφέροντα θέματα απ’ όλη την Κύπρο και τον κόσμο μας.
-Δημοσιογραφική Επιμέλεια - Παρουσίαση: Λουκάς Χάματσος
-
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/EMEIS_KI_O_KOSMOS_S.05a7e0c6.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240102153000 +0200" stop="20240102163000 +0200" channel="riksat">
-    <title lang="el">Καμώματα τζι Αρώματα</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240102163000 +0200" stop="20240102180000 +0200" channel="riksat">
-    <title lang="el">Επικοινωνία</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240102180000 +0200" stop="20240102183000 +0200" channel="riksat">
-    <title lang="el">Ειδήσεις στις 18:00</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240102183000 +0200" stop="20240102193000 +0200" channel="riksat">
-    <title lang="el">Κουζίνα σε Ρόδες</title>
-   <desc lang="el">Τι κάνουν μαζί ένας chef, μια ηθοποιός και μια κινητή κουζίνα?
-Μία διαφορετική εκπομπή μαγειρικής, εκτός στούντιο, έχοντας για σκηνικό φυσικά τοπία, χωριά, πόλεις, σημεία θέας. Επιπρόσθετα μια ‘ιδιαίτερη’ βοηθός κουζίνας, προσθέτει μια ευχάριστη νότα ενώ έξτρα συμβουλές και μυστικά που εμφανίζονται περίτεχνα δίνουν μια πιο μοντέρνα προσέγγιση της δομής, του μοντάζ και της σκηνοθεσίας της εκπομπής.
-Σκηνοθεσία: Πέτρος Σολωμού
-Έκτέλεση Παραγωγής: Drama Queen Productions
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOUZINA_SE_RODES_Portrait.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240102193000 +0200" stop="20240102200000 +0200" channel="riksat">
-    <title lang="el">Περικλής και Εριέττα</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240102200000 +0200" stop="20240102210000 +0200" channel="riksat">
-    <title lang="el">Ειδήσεις στις 20:00</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240102210000 +0200" stop="20240102220000 +0200" channel="riksat">
-    <title lang="el">Στα Όρια</title>
-   <desc lang="el">Θύτης ή θύμα; Αθώος ή ένοχος;
-Σε ένα ανακριτικό γραφείο, στοίβες με ερωτήματα που περιμένουν να απαντηθούν.
-Άλυτες αστυνομικές υποθέσεις που ψάχνουν λύσεις. Άνθρωποι που έφτασαν…«Στα Όρια»
-Τρείς ανακριτές προσπαθούν να ρίξουν φως στο σκοτάδι αφού «Δεν υπάρχει το τέλειο έγκλημα».
-Ο Χριστόδουλος Μαρτάς, η Μαργαρίτα Ζαχαρίου και ο Γρηγόρης Γεωργίου, σε μια σειρά αυτοτελών επεισοδίων βασισμένη σε πραγματικά γεγονότα.
-Σκηνοθεσία: Σταύρος Ποταμάρης
-Παραγωγή: Arts and Films Productions
-
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/STA_ORIA_S.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240102220000 +0200" stop="20240102230000 +0200" channel="riksat">
-    <title lang="el">Αποτυπώματα</title>
-   <desc lang="el">Ερευνούμε, αναζητούμε, ανακαλύπτουμε, αποκαλύπτουμε.
-Ανθρώπινες ιστορίες, ιστορικά γεγονότα που άφησαν για πάντα τα αποτυπώματα τους. Στο φως άγνωστες πτυχές της ιστορίας του τόπου μας.
-Προβλήματα της κοινωνίας τα οποία αναμένουν την ταυτοποίηση τους.
-;Έρευνα - Δημοσιογραφική επιμέλεια – Παρουσίαση: Χριστόδουλος Χριστοδούλου
-Έρευνα – Σύμβουλος εκπομπής: Χρίστος Ιακώβου
-Επιμέλεια παραγωγής – Σκηνοθεσία: Έλλη Χατζηπαρασκευά
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/APOTIPOMATA_S.e8c5827a.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240102230000 +0200" stop="20240102003000 +0200" channel="riksat">
-    <title lang="el">Ειδήσεις στην Αγγλική και Τουρκική</title>
-   <desc lang="el"></desc>
-   <icon src=/static/img/logos/rik-logo.png/>
-  </programme>
-  <programme start="20240103064500 +0200" stop="20240103093000 +0200" channel="rik1">
-    <title lang="el">Πρώτη Ενημέρωση</title>
-   <desc lang="el">Καθημερινή, ζωντανή,ενημερωτική εκπομπή που καλύπτει την τοπική και διεθνή ειδησεογραφία με φιλοξενούμενους στο στούντιο, δελτίο ειδήσεων, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις.
-Παρουσίαση: Σταύρος Κυπριανού, Σταυριανή Κωνσταντίνου
-Παρουσίαση Δελτίου Ειδήσεων: Ευγενία Σέργη
-Παραγωγή – Σκηνοθεσία: Πανίκος Νικολάου
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/PROTH_ENHMEROSH_S.82131f7d.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240103093000 +0200" stop="20240103110000 +0200" channel="rik1">
-    <title lang="el">Όμορφη Μέρα </title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240103110000 +0200" stop="20240103120000 +0200" channel="rik1">
-    <title lang="el">Κουζίνα σε Ρόδες</title>
-   <desc lang="el">Τι κάνουν μαζί ένας chef, μια ηθοποιός και μια κινητή κουζίνα?
-Μία διαφορετική εκπομπή μαγειρικής, εκτός στούντιο, έχοντας για σκηνικό φυσικά τοπία, χωριά, πόλεις, σημεία θέας. Επιπρόσθετα μια ‘ιδιαίτερη’ βοηθός κουζίνας, προσθέτει μια ευχάριστη νότα ενώ έξτρα συμβουλές και μυστικά που εμφανίζονται περίτεχνα δίνουν μια πιο μοντέρνα προσέγγιση της δομής, του μοντάζ και της σκηνοθεσίας της εκπομπής.
-Σκηνοθεσία: Πέτρος Σολωμού
-Έκτέλεση Παραγωγής: Drama Queen Productions
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOUZINA_SE_RODES_Portrait.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240103120000 +0200" stop="20240103140000 +0200" channel="rik1">
-    <title lang="el">Από Μέρα σε Μέρα</title>
-   <desc lang="el">Μεσημβρινή, ζωντανή, ενημερωτική εκπομπή που παρουσιάζει και αναλύει όλη την επικαιρότητα της ημέρας. Με συζητήσεις στο στούντιο, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις, η εκπομπή μεταφέρει τον παλμό της επικαιρότητας εξελίξεις τόσο από τον τοπικό, όσο και από τον διεθνή χώρο, με σοβαρότητα και υπευθυνότητα.
-Παρουσίαση: Κατερίνα Χαραλάμπους, Τάσος Χριστοδούλου
-Παραγωγή – Σκηνοθεσία: Μαρία Χαρή, Άντρεα Αγγελίδου, Άντρη Κωνσταντίνου
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/APO_MERA_S.6984bfb0.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240103140000 +0200" stop="20240103143000 +0200" channel="rik1">
-    <title lang="el">Ειδήσεις</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240103143000 +0200" stop="20240103153000 +0200" channel="rik1">
-    <title lang="el">Εμείς κι ο Κόσμος μας</title>
-   <desc lang="el">Για 6η χρονιά, ο Λουκάς Χάματσος στο καθημερινό τηλεοπτικό ραντεβού, φιλοξενεί ξεχωριστούς καλεσμένους και παρουσιάζει ενδιαφέροντα θέματα απ’ όλη την Κύπρο και τον κόσμο μας.
-Δημοσιογραφική Επιμέλεια - Παρουσίαση: Λουκάς Χάματσος
-
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/EMEIS_KI_O_KOSMOS_S.05a7e0c6.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240103153000 +0200" stop="20240103163000 +0200" channel="rik1">
-    <title lang="el">Καμώματα τζι Αρώματα</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240103163000 +0200" stop="20240103180000 +0200" channel="rik1">
-    <title lang="el">Επικοινωνία</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240103180000 +0200" stop="20240103183000 +0200" channel="rik1">
-    <title lang="el">Ειδήσεις στις 18:00</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240103183000 +0200" stop="20240103193000 +0200" channel="rik1">
-    <title lang="el">Κουζίνα σε Ρόδες</title>
-   <desc lang="el">Τι κάνουν μαζί ένας chef, μια ηθοποιός και μια κινητή κουζίνα?
-Μία διαφορετική εκπομπή μαγειρικής, εκτός στούντιο, έχοντας για σκηνικό φυσικά τοπία, χωριά, πόλεις, σημεία θέας. Επιπρόσθετα μια ‘ιδιαίτερη’ βοηθός κουζίνας, προσθέτει μια ευχάριστη νότα ενώ έξτρα συμβουλές και μυστικά που εμφανίζονται περίτεχνα δίνουν μια πιο μοντέρνα προσέγγιση της δομής, του μοντάζ και της σκηνοθεσίας της εκπομπής.
-Σκηνοθεσία: Πέτρος Σολωμού
-Έκτέλεση Παραγωγής: Drama Queen Productions
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOUZINA_SE_RODES_Portrait.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240103193000 +0200" stop="20240103200000 +0200" channel="rik1">
-    <title lang="el">Περικλής και Εριέττα</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240103200000 +0200" stop="20240103210000 +0200" channel="rik1">
-    <title lang="el">Ειδήσεις στις 20:00</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240103210000 +0200" stop="20240103220000 +0200" channel="rik1">
-    <title lang="el">Τρικυμία</title>
-   <desc lang="el">Κύπρος 1878. Η θάλασσα φουσκώνει για μια νέα μεγάλη Τρικυμία στον 2ο κύκλο της σειράς. Ο πόλεμος ανάμεσα στην Οθωμανική Αυτοκρατορία και τον Ορθόδοξο Συνασπισμό με επικεφαλής τη Ρωσία τελειώνει με ήττα των Οθωμανών. Οι Τούρκοι αναγκάζονται να παραχωρήσουν την Κύπρο στη Βρετανική Αυτοκρατορία και ένα νέο κεφάλαιο ανοίγεται στην ιστορία του τόπου μας. Νέοι κατακτητές, νέοι αγώνες και μια συνεχής μάχη των προγόνων μας για επιβίωση. Αυτή η συγκλονιστική εποχή σκιαγραφείται μέσα από τη δραματική σειρά εποχής Τρικυμία η οποία επιστρέφει ανανεωμένη με τους αγαπημένους σας ήρωες σε νέες συγκλονιστικές ιστορίες και περιπέτειες.
-Ηθοποιοί: Αντρέας Τσουρής, Αντρούλα Ηρακλέους, Νεοκλής Νεοκλέους, Κύνθια Παυλίδου, Σίμος Τσιάκκας, Γιώργος Αναγιωτός, Αθηνά Σάββα, Βάσια Αδάμου.
-Φετινές προσθήκες στο κάστ αποτελούν οι ηθοποιοί Στέφανος Μιχαήλ, Ανδρέας Κουτσόφτας, Ειρήνη Σαλάτα ,Παμπίνα Γεωργίου, Πανίκος Πιλάλης, Μαρίνος Χατζηβασιλείου, Δένα Ιωάννου, Χρίστος Κυριάκου - Παλώδιας και Γιάννης Φωτεινός.
-Σενάριο: Σοφία Σοφοκλέους, Ανδρέας Νικολαίδης,Δημήτρης Τοκαρής
-Σκηνοθεσία: Κώστας Χριστοφόρου
-Έκτέλεση Παραγωγής: Galinis Production Studio
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/TRYKIMIA_S.eccd178c.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240103220000 +0200" stop="20240103230000 +0200" channel="rik1">
-    <title lang="el">Καθρέφτης</title>
-   <desc lang="el">Θέματα πίσω απ’ τις ειδήσεις.
-Πρόσωπα που έχουν κάτι να πουν.
-Ιστορίες που πρέπει ν’ ακουστούν.
-Με τη δημοσιογραφική ματιά του Παναγιώτη Δημόπουλου.
-Έρευνα-Παρουσίαση: Παναγιώτης Δημόπουλος
-Εκτέλεση παραγωγής: ΝΙΚΑΝΩΡ ΛΤΔ
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KATHREFTHS_S.af5570cf.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240103230000 +0200" stop="20240103003000 +0200" channel="rik1">
-    <title lang="el">Σε Ξένα Χέρια</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240103063000 +0200" stop="20240103072000 +0200" channel="rik2">
-    <title lang="el">Little House on the Prairie</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240103072000 +0200" stop="20240103080000 +0200" channel="rik2">
-    <title lang="el">Eight is Enough</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240103080000 +0200" stop="20240103153000 +0200" channel="rik2">
-    <title lang="el">Παιδική Ζώνη</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240103153000 +0200" stop="20240103162000 +0200" channel="rik2">
-    <title lang="el">Eight is Enough</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240103162000 +0200" stop="20240103170500 +0200" channel="rik2">
-    <title lang="el">All Creatures Great and Small</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240103170500 +0200" stop="20240103180000 +0200" channel="rik2">
-    <title lang="el">Little House on the Prairie</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240103180000 +0200" stop="20240103183000 +0200" channel="rik2">
-    <title lang="el">Full House</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240103183000 +0200" stop="20240103190000 +0200" channel="rik2">
-    <title lang="el">Step by Step</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240103190000 +0200" stop="20240103191000 +0200" channel="rik2">
-    <title lang="el">Κοίτα με στα Μάτια</title>
-   <desc lang="el">Εκπομπή με θέμα την ευημερία των ζώων και τη δυνατή σχέση ανάμεσα στους ανθρώπους και τους τετράποδους φίλους τους. Στόχος η ανάδειξη των αδυναμιών της κοινωνίας στην αντιμετώπιση των αναγκών των ζώων και η ευαισθητοποίηση και η βελτίωση της κουλτούρας μας στο συγκεκριμένο θέμα.
- εκπομπή γίνεται σε συνεργασία με το Υπουργείο Γεωργίας, Αγροτικής Ανάπτυξης και Περιβάλλοντος.
-Σκηνοθεσία: Μιχάλης Γεωργιάδης
-Κείμενα - Aφήγηση: Γιώργος Πήττας
-Εκτέλεση Παραγωγής: Michaelangelo Cinematographic Services LTD
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOITAME_ESTA_MATIA_S.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240103191000 +0200" stop="20240103194000 +0200" channel="rik2">
-    <title lang="el">Farming for the Planet</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240103194000 +0200" stop="20240103195000 +0200" channel="rik2">
-    <title lang="el">English News</title>
-   <desc lang="el">Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώσσα. Daily news bulletin in english.
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/ENGLISH_NEWS_RIK2.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240103195000 +0200" stop="20240103200000 +0200" channel="rik2">
-    <title lang="el">Haberler</title>
-   <desc lang="el">Καθημερινό δελτίο ειδήσεων στην τουρκική γλώσσα.
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/HABERLER_RIK2.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240103200000 +0200" stop="20240103210000 +0200" channel="rik2">
-    <title lang="el">Κεντρικό Δελτίο Ειδήσεων στη Νοηματική</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240103210000 +0200" stop="20240103220000 +0200" channel="rik2">
-    <title lang="el">Roadkill</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240103220000 +0200" stop="20240103225000 +0200" channel="rik2">
-    <title lang="el">The Miniaturist</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240103225000 +0200" stop="20240103003000 +0200" channel="rik2">
-    <title lang="el">The Underwater Volcano</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240103064500 +0200" stop="20240103093000 +0200" channel="riksat">
-    <title lang="el">Πρώτη Ενημέρωση</title>
-   <desc lang="el">Καθημερινή, ζωντανή,ενημερωτική εκπομπή που καλύπτει την τοπική και διεθνή ειδησεογραφία με φιλοξενούμενους στο στούντιο, δελτίο ειδήσεων, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις.
-Παρουσίαση: Σταύρος Κυπριανού, Σταυριανή Κωνσταντίνου
-Παρουσίαση Δελτίου Ειδήσεων: Ευγενία Σέργη
-Παραγωγή – Σκηνοθεσία: Πανίκος Νικολάου
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/PROTH_ENHMEROSH_S.82131f7d.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240103093000 +0200" stop="20240103110000 +0200" channel="riksat">
-    <title lang="el">Όμορφη Μέρα </title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240103110000 +0200" stop="20240103120000 +0200" channel="riksat">
-    <title lang="el">Κουζίνα σε Ρόδες</title>
-   <desc lang="el">Τι κάνουν μαζί ένας chef, μια ηθοποιός και μια κινητή κουζίνα?
-Μία διαφορετική εκπομπή μαγειρικής, εκτός στούντιο, έχοντας για σκηνικό φυσικά τοπία, χωριά, πόλεις, σημεία θέας. Επιπρόσθετα μια ‘ιδιαίτερη’ βοηθός κουζίνας, προσθέτει μια ευχάριστη νότα ενώ έξτρα συμβουλές και μυστικά που εμφανίζονται περίτεχνα δίνουν μια πιο μοντέρνα προσέγγιση της δομής, του μοντάζ και της σκηνοθεσίας της εκπομπής.
-Σκηνοθεσία: Πέτρος Σολωμού
-Έκτέλεση Παραγωγής: Drama Queen Productions
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOUZINA_SE_RODES_Portrait.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240103120000 +0200" stop="20240103140000 +0200" channel="riksat">
-    <title lang="el">Από Μέρα σε Μέρα</title>
-   <desc lang="el">Μεσημβρινή, ζωντανή, ενημερωτική εκπομπή που παρουσιάζει και αναλύει όλη την επικαιρότητα της ημέρας. Με συζητήσεις στο στούντιο, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις, η εκπομπή μεταφέρει τον παλμό της επικαιρότητας εξελίξεις τόσο από τον τοπικό, όσο και από τον διεθνή χώρο, με σοβαρότητα και υπευθυνότητα.
-Παρουσίαση: Κατερίνα Χαραλάμπους, Τάσος Χριστοδούλου
-Παραγωγή – Σκηνοθεσία: Μαρία Χαρή, Άντρεα Αγγελίδου, Άντρη Κωνσταντίνου
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/APO_MERA_S.6984bfb0.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240103140000 +0200" stop="20240103143000 +0200" channel="riksat">
-    <title lang="el">Ειδήσεις</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240103143000 +0200" stop="20240103153000 +0200" channel="riksat">
-    <title lang="el">Εμείς κι ο Κόσμος μας</title>
-   <desc lang="el">Για 6η χρονιά, ο Λουκάς Χάματσος στο καθημερινό τηλεοπτικό ραντεβού, φιλοξενεί ξεχωριστούς καλεσμένους και παρουσιάζει ενδιαφέροντα θέματα απ’ όλη την Κύπρο και τον κόσμο μας.
-Δημοσιογραφική Επιμέλεια - Παρουσίαση: Λουκάς Χάματσος
-
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/EMEIS_KI_O_KOSMOS_S.05a7e0c6.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240103153000 +0200" stop="20240103163000 +0200" channel="riksat">
-    <title lang="el">Καμώματα τζι Αρώματα</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240103163000 +0200" stop="20240103180000 +0200" channel="riksat">
-    <title lang="el">Επικοινωνία</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240103180000 +0200" stop="20240103183000 +0200" channel="riksat">
-    <title lang="el">Ειδήσεις στις 18:00</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240103183000 +0200" stop="20240103193000 +0200" channel="riksat">
-    <title lang="el">Κουζίνα σε Ρόδες</title>
-   <desc lang="el">Τι κάνουν μαζί ένας chef, μια ηθοποιός και μια κινητή κουζίνα?
-Μία διαφορετική εκπομπή μαγειρικής, εκτός στούντιο, έχοντας για σκηνικό φυσικά τοπία, χωριά, πόλεις, σημεία θέας. Επιπρόσθετα μια ‘ιδιαίτερη’ βοηθός κουζίνας, προσθέτει μια ευχάριστη νότα ενώ έξτρα συμβουλές και μυστικά που εμφανίζονται περίτεχνα δίνουν μια πιο μοντέρνα προσέγγιση της δομής, του μοντάζ και της σκηνοθεσίας της εκπομπής.
-Σκηνοθεσία: Πέτρος Σολωμού
-Έκτέλεση Παραγωγής: Drama Queen Productions
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOUZINA_SE_RODES_Portrait.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240103193000 +0200" stop="20240103200000 +0200" channel="12500">
-    <title lang="el">Περικλής και Εριέττα</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240103200000 +0200" stop="20240103210000 +0200" channel="12501">
-    <title lang="el">Ειδήσεις στις 20:00</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240103210000 +0200" stop="20240103220000 +0200" channel="12502">
-    <title lang="el">Τρικυμία</title>
-   <desc lang="el">Κύπρος 1878. Η θάλασσα φουσκώνει για μια νέα μεγάλη Τρικυμία στον 2ο κύκλο της σειράς. Ο πόλεμος ανάμεσα στην Οθωμανική Αυτοκρατορία και τον Ορθόδοξο Συνασπισμό με επικεφαλής τη Ρωσία τελειώνει με ήττα των Οθωμανών. Οι Τούρκοι αναγκάζονται να παραχωρήσουν την Κύπρο στη Βρετανική Αυτοκρατορία και ένα νέο κεφάλαιο ανοίγεται στην ιστορία του τόπου μας. Νέοι κατακτητές, νέοι αγώνες και μια συνεχής μάχη των προγόνων μας για επιβίωση. Αυτή η συγκλονιστική εποχή σκιαγραφείται μέσα από τη δραματική σειρά εποχής Τρικυμία η οποία επιστρέφει ανανεωμένη με τους αγαπημένους σας ήρωες σε νέες συγκλονιστικές ιστορίες και περιπέτειες.
-Ηθοποιοί: Αντρέας Τσουρής, Αντρούλα Ηρακλέους, Νεοκλής Νεοκλέους, Κύνθια Παυλίδου, Σίμος Τσιάκκας, Γιώργος Αναγιωτός, Αθηνά Σάββα, Βάσια Αδάμου.
-Φετινές προσθήκες στο κάστ αποτελούν οι ηθοποιοί Στέφανος Μιχαήλ, Ανδρέας Κουτσόφτας, Ειρήνη Σαλάτα ,Παμπίνα Γεωργίου, Πανίκος Πιλάλης, Μαρίνος Χατζηβασιλείου, Δένα Ιωάννου, Χρίστος Κυριάκου - Παλώδιας και Γιάννης Φωτεινός.
-Σενάριο: Σοφία Σοφοκλέους, Ανδρέας Νικολαίδης,Δημήτρης Τοκαρής
-Σκηνοθεσία: Κώστας Χριστοφόρου
-Έκτέλεση Παραγωγής: Galinis Production Studio
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/TRYKIMIA_S.eccd178c.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240103220000 +0200" stop="20240103230000 +0200" channel="12503">
-    <title lang="el">Καθρέφτης</title>
-   <desc lang="el">Θέματα πίσω απ’ τις ειδήσεις.
-Πρόσωπα που έχουν κάτι να πουν.
-Ιστορίες που πρέπει ν’ ακουστούν.
-Με τη δημοσιογραφική ματιά του Παναγιώτη Δημόπουλου.
-Έρευνα-Παρουσίαση: Παναγιώτης Δημόπουλος
-Εκτέλεση παραγωγής: ΝΙΚΑΝΩΡ ΛΤΔ
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KATHREFTHS_S.af5570cf.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240103230000 +0200" stop="20240103003000 +0200" channel="12504">
-    <title lang="el">Ειδήσεις στην Αγγλική και Τουρκική</title>
-   <desc lang="el"></desc>
-   <icon src=/static/img/logos/rik-logo.png/>
-  </programme>
-  <programme start="20240104064500 +0200" stop="20240104093000 +0200" channel="rik1">
-    <title lang="el">Πρώτη Ενημέρωση</title>
-   <desc lang="el">Καθημερινή, ζωντανή,ενημερωτική εκπομπή που καλύπτει την τοπική και διεθνή ειδησεογραφία με φιλοξενούμενους στο στούντιο, δελτίο ειδήσεων, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις.
-Παρουσίαση: Σταύρος Κυπριανού, Σταυριανή Κωνσταντίνου
-Παρουσίαση Δελτίου Ειδήσεων: Ευγενία Σέργη
-Παραγωγή – Σκηνοθεσία: Πανίκος Νικολάου
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/PROTH_ENHMEROSH_S.82131f7d.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240104093000 +0200" stop="20240104110000 +0200" channel="rik1">
-    <title lang="el">Όμορφη Μέρα </title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240104110000 +0200" stop="20240104120000 +0200" channel="rik1">
-    <title lang="el">Κουζίνα σε Ρόδες</title>
-   <desc lang="el">Τι κάνουν μαζί ένας chef, μια ηθοποιός και μια κινητή κουζίνα?
-Μία διαφορετική εκπομπή μαγειρικής, εκτός στούντιο, έχοντας για σκηνικό φυσικά τοπία, χωριά, πόλεις, σημεία θέας. Επιπρόσθετα μια ‘ιδιαίτερη’ βοηθός κουζίνας, προσθέτει μια ευχάριστη νότα ενώ έξτρα συμβουλές και μυστικά που εμφανίζονται περίτεχνα δίνουν μια πιο μοντέρνα προσέγγιση της δομής, του μοντάζ και της σκηνοθεσίας της εκπομπής.
-Σκηνοθεσία: Πέτρος Σολωμού
-Έκτέλεση Παραγωγής: Drama Queen Productions
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOUZINA_SE_RODES_Portrait.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240104120000 +0200" stop="20240104140000 +0200" channel="rik1">
-    <title lang="el">Από Μέρα σε Μέρα</title>
-   <desc lang="el">Μεσημβρινή, ζωντανή, ενημερωτική εκπομπή που παρουσιάζει και αναλύει όλη την επικαιρότητα της ημέρας. Με συζητήσεις στο στούντιο, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις, η εκπομπή μεταφέρει τον παλμό της επικαιρότητας εξελίξεις τόσο από τον τοπικό, όσο και από τον διεθνή χώρο, με σοβαρότητα και υπευθυνότητα.
-Παρουσίαση: Κατερίνα Χαραλάμπους, Τάσος Χριστοδούλου
-Παραγωγή – Σκηνοθεσία: Μαρία Χαρή, Άντρεα Αγγελίδου, Άντρη Κωνσταντίνου
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/APO_MERA_S.6984bfb0.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240104140000 +0200" stop="20240104143000 +0200" channel="rik1">
-    <title lang="el">Ειδήσεις</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240104143000 +0200" stop="20240104153000 +0200" channel="rik1">
-    <title lang="el">Εμείς κι ο Κόσμος μας</title>
-   <desc lang="el">Για 6η χρονιά, ο Λουκάς Χάματσος στο καθημερινό τηλεοπτικό ραντεβού, φιλοξενεί ξεχωριστούς καλεσμένους και παρουσιάζει ενδιαφέροντα θέματα απ’ όλη την Κύπρο και τον κόσμο μας.
-Δημοσιογραφική Επιμέλεια - Παρουσίαση: Λουκάς Χάματσος
-
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/EMEIS_KI_O_KOSMOS_S.05a7e0c6.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240104153000 +0200" stop="20240104163000 +0200" channel="rik1">
-    <title lang="el">Καμώματα τζι Αρώματα</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240104163000 +0200" stop="20240104180000 +0200" channel="rik1">
-    <title lang="el">Επικοινωνία</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240104180000 +0200" stop="20240104183000 +0200" channel="rik1">
-    <title lang="el">Ειδήσεις στις 18:00</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240104183000 +0200" stop="20240104193000 +0200" channel="rik1">
-    <title lang="el">Κουζίνα σε Ρόδες</title>
-   <desc lang="el">Τι κάνουν μαζί ένας chef, μια ηθοποιός και μια κινητή κουζίνα?
-Μία διαφορετική εκπομπή μαγειρικής, εκτός στούντιο, έχοντας για σκηνικό φυσικά τοπία, χωριά, πόλεις, σημεία θέας. Επιπρόσθετα μια ‘ιδιαίτερη’ βοηθός κουζίνας, προσθέτει μια ευχάριστη νότα ενώ έξτρα συμβουλές και μυστικά που εμφανίζονται περίτεχνα δίνουν μια πιο μοντέρνα προσέγγιση της δομής, του μοντάζ και της σκηνοθεσίας της εκπομπής.
-Σκηνοθεσία: Πέτρος Σολωμού
-Έκτέλεση Παραγωγής: Drama Queen Productions
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOUZINA_SE_RODES_Portrait.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240104193000 +0200" stop="20240104200000 +0200" channel="rik1">
-    <title lang="el">Ειρήνη Πάσι</title>
-   <desc lang="el">Η κωμική σειρά εποχής που αγαπήσατε επιστρέφει για 3η χρονιά για να χαρίσει ακόμη περισσότερες στιγμές γέλιου. Σημείο αναφοράς παραμένει η κόντρα ανάμεσα στον ιερέα και τον μουχτάρη του χωριού και συνεχίζονται τα μπερδέματα, οι παρεξηγήσεις, οι έρωτες, οι τσακωμοί και οι ίντριγκες στο πιο τρελό χωριό!
-Ξανασμίγουν και πάλι, ύστερα από χρόνια με τον Κώστα Δημητρίου οι: Σταύρος Λούρας, Ζωή Κυπριανού, Ηράκλης Γιωργαλλή, Σώτος Σταυράκη,Μόνικα Μελέκκη, Αντρέας Βούλγαρης, Μιχάλης Χρίστου ,ενώ συνεχίζει το μόνιμο καστ με τους Κρίστοφερ Γκρέκο, Μιχάλη Μουστάκα, Λουκία Μ. Μουσουλιώτη, Βαλεντίνα Σοφοκλέους, Αντρέα Μελέκκη, Κωνσταντίνο Αλκιβιάδη, Μαρία Μεσαρίτη, Εύρο Βασιλείου, Άντρεα Δημητρίου, Βαλεντίνα Νικολάου, Γεωργία Κωνσταντίνου, Μάριο Στυλιανού, Θεοδώρα Βήχα και Έλενα Παπαδοπούλου.
-Τα γυρίσματα της σειράς πραγματοποιούνται στο χωριό Κάτω Δρυς της επαρχίας Λάρνακας.
-Σενάριο: Μιχάλης Τερζής, Μαρίνα Φραγκεσκίδου
-Σκηνοθεσία: Χρήστος Νικολάου
-Παραγωγή: D.D. MEDIA STUDIOS
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/EIRHNH_PASI_S.48e03a4c.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240104200000 +0200" stop="20240104210000 +0200" channel="rik1">
-    <title lang="el">Ειδήσεις στις 20:00</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240104210000 +0200" stop="20240104220000 +0200" channel="rik1">
-    <title lang="el">Τρικυμία</title>
-   <desc lang="el">Κύπρος 1878. Η θάλασσα φουσκώνει για μια νέα μεγάλη Τρικυμία στον 2ο κύκλο της σειράς. Ο πόλεμος ανάμεσα στην Οθωμανική Αυτοκρατορία και τον Ορθόδοξο Συνασπισμό με επικεφαλής τη Ρωσία τελειώνει με ήττα των Οθωμανών. Οι Τούρκοι αναγκάζονται να παραχωρήσουν την Κύπρο στη Βρετανική Αυτοκρατορία και ένα νέο κεφάλαιο ανοίγεται στην ιστορία του τόπου μας. Νέοι κατακτητές, νέοι αγώνες και μια συνεχής μάχη των προγόνων μας για επιβίωση. Αυτή η συγκλονιστική εποχή σκιαγραφείται μέσα από τη δραματική σειρά εποχής Τρικυμία η οποία επιστρέφει ανανεωμένη με τους αγαπημένους σας ήρωες σε νέες συγκλονιστικές ιστορίες και περιπέτειες.
-Ηθοποιοί: Αντρέας Τσουρής, Αντρούλα Ηρακλέους, Νεοκλής Νεοκλέους, Κύνθια Παυλίδου, Σίμος Τσιάκκας, Γιώργος Αναγιωτός, Αθηνά Σάββα, Βάσια Αδάμου.
-Φετινές προσθήκες στο κάστ αποτελούν οι ηθοποιοί Στέφανος Μιχαήλ, Ανδρέας Κουτσόφτας, Ειρήνη Σαλάτα ,Παμπίνα Γεωργίου, Πανίκος Πιλάλης, Μαρίνος Χατζηβασιλείου, Δένα Ιωάννου, Χρίστος Κυριάκου - Παλώδιας και Γιάννης Φωτεινός.
-Σενάριο: Σοφία Σοφοκλέους, Ανδρέας Νικολαίδης,Δημήτρης Τοκαρής
-Σκηνοθεσία: Κώστας Χριστοφόρου
-Έκτέλεση Παραγωγής: Galinis Production Studio
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/TRYKIMIA_S.eccd178c.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240104220000 +0200" stop="20240104230000 +0200" channel="rik1">
-    <title lang="el">Προκλήσεις</title>
-   <desc lang="el">Επικαιρική εκπομπή με επίκεντρο τις πολιτικές εξελίξεις στην Κύπρο αλλά και διεθνώς. Στόχος η ουσιαστική ανάλυση των θεμάτων της επικαιρότητας από πολιτικούς, ακαδημαϊκούς και κυρίως τους ίδιους τους πρωταγωνιστές.
-Δημοσιογραφική Επιμέλεια - Παρουσίαση: Αντρέας Κημήτρης
-Επιμέλεια παραγωγής – Σκηνοθεσία: Λιάνα Κωνσταντίνου
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/PROKLHSEIS_S.da355e88.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240104230000 +0200" stop="20240104003000 +0200" channel="rik1">
-    <title lang="el">Σε Ξένα Χέρια</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240104063000 +0200" stop="20240104072000 +0200" channel="rik2">
-    <title lang="el">Little House on the Prairie</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240104072000 +0200" stop="20240104080000 +0200" channel="rik2">
-    <title lang="el">Eight is Enough</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240104080000 +0200" stop="20240104153000 +0200" channel="rik2">
-    <title lang="el">Παιδική Ζώνη</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240104153000 +0200" stop="20240104162000 +0200" channel="rik2">
-    <title lang="el">Eight is Enough</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240104162000 +0200" stop="20240104170000 +0200" channel="rik2">
-    <title lang="el">All Creatures Great and Small</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240104170000 +0200" stop="20240104180000 +0200" channel="rik2">
-    <title lang="el">Little House on the Prairie</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240104180000 +0200" stop="20240104183000 +0200" channel="riksat">
-    <title lang="el">Full House</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240104183000 +0200" stop="20240104190000 +0200" channel="riksat">
-    <title lang="el">Step by Step</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240104190000 +0200" stop="20240104191000 +0200" channel="riksat">
-    <title lang="el">Κοίτα με στα Μάτια</title>
-   <desc lang="el">Εκπομπή με θέμα την ευημερία των ζώων και τη δυνατή σχέση ανάμεσα στους ανθρώπους και τους τετράποδους φίλους τους. Στόχος η ανάδειξη των αδυναμιών της κοινωνίας στην αντιμετώπιση των αναγκών των ζώων και η ευαισθητοποίηση και η βελτίωση της κουλτούρας μας στο συγκεκριμένο θέμα.
- εκπομπή γίνεται σε συνεργασία με το Υπουργείο Γεωργίας, Αγροτικής Ανάπτυξης και Περιβάλλοντος.
-Σκηνοθεσία: Μιχάλης Γεωργιάδης
-Κείμενα - Aφήγηση: Γιώργος Πήττας
-Εκτέλεση Παραγωγής: Michaelangelo Cinematographic Services LTD
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOITAME_ESTA_MATIA_S.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240104191000 +0200" stop="20240104194000 +0200" channel="riksat">
-    <title lang="el">Farming for the Planet</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240104194000 +0200" stop="20240104195000 +0200" channel="riksat">
-    <title lang="el">English News</title>
-   <desc lang="el">Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώσσα. Daily news bulletin in english.
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/ENGLISH_NEWS_RIK2.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240104195000 +0200" stop="20240104200000 +0200" channel="riksat">
-    <title lang="el">Haberler</title>
-   <desc lang="el">Καθημερινό δελτίο ειδήσεων στην τουρκική γλώσσα.
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/HABERLER_RIK2.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240104200000 +0200" stop="20240104210000 +0200" channel="riksat">
-    <title lang="el">Κεντρικό Δελτίο Ειδήσεων στη Νοηματική</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240104210000 +0200" stop="20240104220000 +0200" channel="riksat">
-    <title lang="el">Roadkill</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240104220000 +0200" stop="20240104000000 +0200" channel="riksat">
-    <title lang="el">Ταινία/The Spy Who Dumped Me</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240104064500 +0200" stop="20240104093000 +0200" channel="12506">
-    <title lang="el">Πρώτη Ενημέρωση</title>
-   <desc lang="el">Καθημερινή, ζωντανή,ενημερωτική εκπομπή που καλύπτει την τοπική και διεθνή ειδησεογραφία με φιλοξενούμενους στο στούντιο, δελτίο ειδήσεων, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις.
-Παρουσίαση: Σταύρος Κυπριανού, Σταυριανή Κωνσταντίνου
-Παρουσίαση Δελτίου Ειδήσεων: Ευγενία Σέργη
-Παραγωγή – Σκηνοθεσία: Πανίκος Νικολάου
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/PROTH_ENHMEROSH_S.82131f7d.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240104093000 +0200" stop="20240104110000 +0200" channel="12507">
-    <title lang="el">Όμορφη Μέρα </title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240104110000 +0200" stop="20240104120000 +0200" channel="12508">
-    <title lang="el">Κουζίνα σε Ρόδες</title>
-   <desc lang="el">Τι κάνουν μαζί ένας chef, μια ηθοποιός και μια κινητή κουζίνα?
-Μία διαφορετική εκπομπή μαγειρικής, εκτός στούντιο, έχοντας για σκηνικό φυσικά τοπία, χωριά, πόλεις, σημεία θέας. Επιπρόσθετα μια ‘ιδιαίτερη’ βοηθός κουζίνας, προσθέτει μια ευχάριστη νότα ενώ έξτρα συμβουλές και μυστικά που εμφανίζονται περίτεχνα δίνουν μια πιο μοντέρνα προσέγγιση της δομής, του μοντάζ και της σκηνοθεσίας της εκπομπής.
-Σκηνοθεσία: Πέτρος Σολωμού
-Έκτέλεση Παραγωγής: Drama Queen Productions
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOUZINA_SE_RODES_Portrait.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240104120000 +0200" stop="20240104140000 +0200" channel="12509">
-    <title lang="el">Από Μέρα σε Μέρα</title>
-   <desc lang="el">Μεσημβρινή, ζωντανή, ενημερωτική εκπομπή που παρουσιάζει και αναλύει όλη την επικαιρότητα της ημέρας. Με συζητήσεις στο στούντιο, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις, η εκπομπή μεταφέρει τον παλμό της επικαιρότητας εξελίξεις τόσο από τον τοπικό, όσο και από τον διεθνή χώρο, με σοβαρότητα και υπευθυνότητα.
-Παρουσίαση: Κατερίνα Χαραλάμπους, Τάσος Χριστοδούλου
-Παραγωγή – Σκηνοθεσία: Μαρία Χαρή, Άντρεα Αγγελίδου, Άντρη Κωνσταντίνου
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/APO_MERA_S.6984bfb0.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240104140000 +0200" stop="20240104143000 +0200" channel="12510">
-    <title lang="el">Ειδήσεις</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240104143000 +0200" stop="20240104153000 +0200" channel="12511">
-    <title lang="el">Εμείς κι ο Κόσμος μας</title>
-   <desc lang="el">Για 6η χρονιά, ο Λουκάς Χάματσος στο καθημερινό τηλεοπτικό ραντεβού, φιλοξενεί ξεχωριστούς καλεσμένους και παρουσιάζει ενδιαφέροντα θέματα απ’ όλη την Κύπρο και τον κόσμο μας.
-Δημοσιογραφική Επιμέλεια - Παρουσίαση: Λουκάς Χάματσος
-
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/EMEIS_KI_O_KOSMOS_S.05a7e0c6.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240104153000 +0200" stop="20240104163000 +0200" channel="12512">
-    <title lang="el">Καμώματα τζι Αρώματα</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240104163000 +0200" stop="20240104180000 +0200" channel="12513">
-    <title lang="el">Επικοινωνία</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240104180000 +0200" stop="20240104183000 +0200" channel="12514">
-    <title lang="el">Ειδήσεις στις 18:00</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240104183000 +0200" stop="20240104193000 +0200" channel="12515">
-    <title lang="el">Κουζίνα σε Ρόδες</title>
-   <desc lang="el">Τι κάνουν μαζί ένας chef, μια ηθοποιός και μια κινητή κουζίνα?
-Μία διαφορετική εκπομπή μαγειρικής, εκτός στούντιο, έχοντας για σκηνικό φυσικά τοπία, χωριά, πόλεις, σημεία θέας. Επιπρόσθετα μια ‘ιδιαίτερη’ βοηθός κουζίνας, προσθέτει μια ευχάριστη νότα ενώ έξτρα συμβουλές και μυστικά που εμφανίζονται περίτεχνα δίνουν μια πιο μοντέρνα προσέγγιση της δομής, του μοντάζ και της σκηνοθεσίας της εκπομπής.
-Σκηνοθεσία: Πέτρος Σολωμού
-Έκτέλεση Παραγωγής: Drama Queen Productions
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOUZINA_SE_RODES_Portrait.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240104193000 +0200" stop="20240104200000 +0200" channel="12516">
-    <title lang="el">Ειρήνη Πάσι</title>
-   <desc lang="el">Η κωμική σειρά εποχής που αγαπήσατε επιστρέφει για 3η χρονιά για να χαρίσει ακόμη περισσότερες στιγμές γέλιου. Σημείο αναφοράς παραμένει η κόντρα ανάμεσα στον ιερέα και τον μουχτάρη του χωριού και συνεχίζονται τα μπερδέματα, οι παρεξηγήσεις, οι έρωτες, οι τσακωμοί και οι ίντριγκες στο πιο τρελό χωριό!
-Ξανασμίγουν και πάλι, ύστερα από χρόνια με τον Κώστα Δημητρίου οι: Σταύρος Λούρας, Ζωή Κυπριανού, Ηράκλης Γιωργαλλή, Σώτος Σταυράκη,Μόνικα Μελέκκη, Αντρέας Βούλγαρης, Μιχάλης Χρίστου ,ενώ συνεχίζει το μόνιμο καστ με τους Κρίστοφερ Γκρέκο, Μιχάλη Μουστάκα, Λουκία Μ. Μουσουλιώτη, Βαλεντίνα Σοφοκλέους, Αντρέα Μελέκκη, Κωνσταντίνο Αλκιβιάδη, Μαρία Μεσαρίτη, Εύρο Βασιλείου, Άντρεα Δημητρίου, Βαλεντίνα Νικολάου, Γεωργία Κωνσταντίνου, Μάριο Στυλιανού, Θεοδώρα Βήχα και Έλενα Παπαδοπούλου.
-Τα γυρίσματα της σειράς πραγματοποιούνται στο χωριό Κάτω Δρυς της επαρχίας Λάρνακας.
-Σενάριο: Μιχάλης Τερζής, Μαρίνα Φραγκεσκίδου
-Σκηνοθεσία: Χρήστος Νικολάου
-Παραγωγή: D.D. MEDIA STUDIOS
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/EIRHNH_PASI_S.48e03a4c.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240104200000 +0200" stop="20240104210000 +0200" channel="12517">
-    <title lang="el">Ειδήσεις στις 20:00</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240104210000 +0200" stop="20240104220000 +0200" channel="12518">
-    <title lang="el">Τρικυμία</title>
-   <desc lang="el">Κύπρος 1878. Η θάλασσα φουσκώνει για μια νέα μεγάλη Τρικυμία στον 2ο κύκλο της σειράς. Ο πόλεμος ανάμεσα στην Οθωμανική Αυτοκρατορία και τον Ορθόδοξο Συνασπισμό με επικεφαλής τη Ρωσία τελειώνει με ήττα των Οθωμανών. Οι Τούρκοι αναγκάζονται να παραχωρήσουν την Κύπρο στη Βρετανική Αυτοκρατορία και ένα νέο κεφάλαιο ανοίγεται στην ιστορία του τόπου μας. Νέοι κατακτητές, νέοι αγώνες και μια συνεχής μάχη των προγόνων μας για επιβίωση. Αυτή η συγκλονιστική εποχή σκιαγραφείται μέσα από τη δραματική σειρά εποχής Τρικυμία η οποία επιστρέφει ανανεωμένη με τους αγαπημένους σας ήρωες σε νέες συγκλονιστικές ιστορίες και περιπέτειες.
-Ηθοποιοί: Αντρέας Τσουρής, Αντρούλα Ηρακλέους, Νεοκλής Νεοκλέους, Κύνθια Παυλίδου, Σίμος Τσιάκκας, Γιώργος Αναγιωτός, Αθηνά Σάββα, Βάσια Αδάμου.
-Φετινές προσθήκες στο κάστ αποτελούν οι ηθοποιοί Στέφανος Μιχαήλ, Ανδρέας Κουτσόφτας, Ειρήνη Σαλάτα ,Παμπίνα Γεωργίου, Πανίκος Πιλάλης, Μαρίνος Χατζηβασιλείου, Δένα Ιωάννου, Χρίστος Κυριάκου - Παλώδιας και Γιάννης Φωτεινός.
-Σενάριο: Σοφία Σοφοκλέους, Ανδρέας Νικολαίδης,Δημήτρης Τοκαρής
-Σκηνοθεσία: Κώστας Χριστοφόρου
-Έκτέλεση Παραγωγής: Galinis Production Studio
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/TRYKIMIA_S.eccd178c.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240104220000 +0200" stop="20240104230000 +0200" channel="12519">
-    <title lang="el">Προκλήσεις</title>
-   <desc lang="el">Επικαιρική εκπομπή με επίκεντρο τις πολιτικές εξελίξεις στην Κύπρο αλλά και διεθνώς. Στόχος η ουσιαστική ανάλυση των θεμάτων της επικαιρότητας από πολιτικούς, ακαδημαϊκούς και κυρίως τους ίδιους τους πρωταγωνιστές.
-Δημοσιογραφική Επιμέλεια - Παρουσίαση: Αντρέας Κημήτρης
-Επιμέλεια παραγωγής – Σκηνοθεσία: Λιάνα Κωνσταντίνου
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/PROKLHSEIS_S.da355e88.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240104230000 +0200" stop="20240104003000 +0200" channel="12520">
-    <title lang="el">Ειδήσεις στην Αγγλική και Τουρκική</title>
-   <desc lang="el"></desc>
-   <icon src=/static/img/logos/rik-logo.png/>
-  </programme>
-  <programme start="20240105064500 +0200" stop="20240105093000 +0200" channel="rik1">
-    <title lang="el">Πρώτη Ενημέρωση</title>
-   <desc lang="el">Καθημερινή, ζωντανή,ενημερωτική εκπομπή που καλύπτει την τοπική και διεθνή ειδησεογραφία με φιλοξενούμενους στο στούντιο, δελτίο ειδήσεων, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις.
-Παρουσίαση: Σταύρος Κυπριανού, Σταυριανή Κωνσταντίνου
-Παρουσίαση Δελτίου Ειδήσεων: Ευγενία Σέργη
-Παραγωγή – Σκηνοθεσία: Πανίκος Νικολάου
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/PROTH_ENHMEROSH_S.82131f7d.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240105093000 +0200" stop="20240105110000 +0200" channel="rik1">
-    <title lang="el">Όμορφη Μέρα</title>
-   <desc lang="el">Ζωντανή, καθημερινή, ενημερωτική, ψυχαγωγική εκπομπή, που κρατά συντροφιά στους τηλεθεατές με μεγάλη ποικιλία θεμάτων.<br/>Ενημέρωση σε τοπικά και διεθνή θέματα, συνεντεύξεις επωνύμων από τον πολιτιστικό και πολιτικό χώρο.Καθημερινή παρουσίαση συνταγών μαγειρικής και συνεντεύξεις συμβουλευτικού χαρακτήρα στον τομέα της ιατρικής, διατροφής, ψυχολογίας είναι μόνο κάποια από τα θέματα που γεμίζουν ευχάριστα την πρωινή καθημερινότητα.
-Παρουσίαση: Ελπίδα Ιακωβίδου<br/>Δημοσιογραφική επιμέλεια: Χριστιάνα Αντωνίου<br/>Παραγωγή – Σκηνοθεσία: Σόνια Δημητρίου και Ανδρέας Γ. Ανδρέου
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/OMORFH_MERA_S.598a4d19.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240105110000 +0200" stop="20240105120000 +0200" channel="rik1">
-    <title lang="el">Κουζίνα σε Ρόδες</title>
-   <desc lang="el">Τι κάνουν μαζί ένας chef, μια ηθοποιός και μια κινητή κουζίνα?
-Μία διαφορετική εκπομπή μαγειρικής, εκτός στούντιο, έχοντας για σκηνικό φυσικά τοπία, χωριά, πόλεις, σημεία θέας. Επιπρόσθετα μια ‘ιδιαίτερη’ βοηθός κουζίνας, προσθέτει μια ευχάριστη νότα ενώ έξτρα συμβουλές και μυστικά που εμφανίζονται περίτεχνα δίνουν μια πιο μοντέρνα προσέγγιση της δομής, του μοντάζ και της σκηνοθεσίας της εκπομπής.
-Σκηνοθεσία: Πέτρος Σολωμού
-Έκτέλεση Παραγωγής: Drama Queen Productions
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOUZINA_SE_RODES_Portrait.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240105120000 +0200" stop="20240105140000 +0200" channel="rik1">
-    <title lang="el">Από Μέρα σε Μέρα</title>
-   <desc lang="el">Μεσημβρινή, ζωντανή, ενημερωτική εκπομπή που παρουσιάζει και αναλύει όλη την επικαιρότητα της ημέρας. Με συζητήσεις στο στούντιο, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις, η εκπομπή μεταφέρει τον παλμό της επικαιρότητας εξελίξεις τόσο από τον τοπικό, όσο και από τον διεθνή χώρο, με σοβαρότητα και υπευθυνότητα.
-Παρουσίαση: Κατερίνα Χαραλάμπους, Τάσος Χριστοδούλου
-Παραγωγή – Σκηνοθεσία: Μαρία Χαρή, Άντρεα Αγγελίδου, Άντρη Κωνσταντίνου
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/APO_MERA_S.6984bfb0.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240105140000 +0200" stop="20240105143000 +0200" channel="rik1">
-    <title lang="el">Ειδήσεις</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240105143000 +0200" stop="20240105153000 +0200" channel="rik1">
-    <title lang="el">Εμείς κι ο Κόσμος μας</title>
-   <desc lang="el">Για 6η χρονιά, ο Λουκάς Χάματσος στο καθημερινό τηλεοπτικό ραντεβού, φιλοξενεί ξεχωριστούς καλεσμένους και παρουσιάζει ενδιαφέροντα θέματα απ’ όλη την Κύπρο και τον κόσμο μας.
-Δημοσιογραφική Επιμέλεια - Παρουσίαση: Λουκάς Χάματσος
-
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/EMEIS_KI_O_KOSMOS_S.05a7e0c6.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240105153000 +0200" stop="20240105163000 +0200" channel="rik1">
-    <title lang="el">Καμώματα τζι Αρώματα</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240105163000 +0200" stop="20240105180000 +0200" channel="rik1">
-    <title lang="el">Επικοινωνία</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240105180000 +0200" stop="20240105183000 +0200" channel="rik1">
-    <title lang="el">Ειδήσεις στις 18:00</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240105183000 +0200" stop="20240105193000 +0200" channel="rik1">
-    <title lang="el">Κουζίνα σε Ρόδες</title>
-   <desc lang="el">Τι κάνουν μαζί ένας chef, μια ηθοποιός και μια κινητή κουζίνα?
-Μία διαφορετική εκπομπή μαγειρικής, εκτός στούντιο, έχοντας για σκηνικό φυσικά τοπία, χωριά, πόλεις, σημεία θέας. Επιπρόσθετα μια ‘ιδιαίτερη’ βοηθός κουζίνας, προσθέτει μια ευχάριστη νότα ενώ έξτρα συμβουλές και μυστικά που εμφανίζονται περίτεχνα δίνουν μια πιο μοντέρνα προσέγγιση της δομής, του μοντάζ και της σκηνοθεσίας της εκπομπής.
-Σκηνοθεσία: Πέτρος Σολωμού
-Έκτέλεση Παραγωγής: Drama Queen Productions
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOUZINA_SE_RODES_Portrait.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240105193000 +0200" stop="20240105200000 +0200" channel="rik2">
-    <title lang="el">Ειρήνη Πάσι</title>
-   <desc lang="el">Η κωμική σειρά εποχής που αγαπήσατε επιστρέφει για 3η χρονιά για να χαρίσει ακόμη περισσότερες στιγμές γέλιου. Σημείο αναφοράς παραμένει η κόντρα ανάμεσα στον ιερέα και τον μουχτάρη του χωριού και συνεχίζονται τα μπερδέματα, οι παρεξηγήσεις, οι έρωτες, οι τσακωμοί και οι ίντριγκες στο πιο τρελό χωριό!
-Ξανασμίγουν και πάλι, ύστερα από χρόνια με τον Κώστα Δημητρίου οι: Σταύρος Λούρας, Ζωή Κυπριανού, Ηράκλης Γιωργαλλή, Σώτος Σταυράκη,Μόνικα Μελέκκη, Αντρέας Βούλγαρης, Μιχάλης Χρίστου ,ενώ συνεχίζει το μόνιμο καστ με τους Κρίστοφερ Γκρέκο, Μιχάλη Μουστάκα, Λουκία Μ. Μουσουλιώτη, Βαλεντίνα Σοφοκλέους, Αντρέα Μελέκκη, Κωνσταντίνο Αλκιβιάδη, Μαρία Μεσαρίτη, Εύρο Βασιλείου, Άντρεα Δημητρίου, Βαλεντίνα Νικολάου, Γεωργία Κωνσταντίνου, Μάριο Στυλιανού, Θεοδώρα Βήχα και Έλενα Παπαδοπούλου.
-Τα γυρίσματα της σειράς πραγματοποιούνται στο χωριό Κάτω Δρυς της επαρχίας Λάρνακας.
-Σενάριο: Μιχάλης Τερζής, Μαρίνα Φραγκεσκίδου
-Σκηνοθεσία: Χρήστος Νικολάου
-Παραγωγή: D.D. MEDIA STUDIOS
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/EIRHNH_PASI_S.48e03a4c.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240105200000 +0200" stop="20240105210000 +0200" channel="rik2">
-    <title lang="el">Ειδήσεις</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240105210000 +0200" stop="20240105220000 +0200" channel="rik2">
-    <title lang="el">Τρικυμία</title>
-   <desc lang="el">Κύπρος 1878. Η θάλασσα φουσκώνει για μια νέα μεγάλη Τρικυμία στον 2ο κύκλο της σειράς. Ο πόλεμος ανάμεσα στην Οθωμανική Αυτοκρατορία και τον Ορθόδοξο Συνασπισμό με επικεφαλής τη Ρωσία τελειώνει με ήττα των Οθωμανών. Οι Τούρκοι αναγκάζονται να παραχωρήσουν την Κύπρο στη Βρετανική Αυτοκρατορία και ένα νέο κεφάλαιο ανοίγεται στην ιστορία του τόπου μας. Νέοι κατακτητές, νέοι αγώνες και μια συνεχής μάχη των προγόνων μας για επιβίωση. Αυτή η συγκλονιστική εποχή σκιαγραφείται μέσα από τη δραματική σειρά εποχής Τρικυμία η οποία επιστρέφει ανανεωμένη με τους αγαπημένους σας ήρωες σε νέες συγκλονιστικές ιστορίες και περιπέτειες.
-Ηθοποιοί: Αντρέας Τσουρής, Αντρούλα Ηρακλέους, Νεοκλής Νεοκλέους, Κύνθια Παυλίδου, Σίμος Τσιάκκας, Γιώργος Αναγιωτός, Αθηνά Σάββα, Βάσια Αδάμου.
-Φετινές προσθήκες στο κάστ αποτελούν οι ηθοποιοί Στέφανος Μιχαήλ, Ανδρέας Κουτσόφτας, Ειρήνη Σαλάτα ,Παμπίνα Γεωργίου, Πανίκος Πιλάλης, Μαρίνος Χατζηβασιλείου, Δένα Ιωάννου, Χρίστος Κυριάκου - Παλώδιας και Γιάννης Φωτεινός.
-Σενάριο: Σοφία Σοφοκλέους, Ανδρέας Νικολαίδης,Δημήτρης Τοκαρής
-Σκηνοθεσία: Κώστας Χριστοφόρου
-Έκτέλεση Παραγωγής: Galinis Production Studio
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/TRYKIMIA_S.eccd178c.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240105220000 +0200" stop="20240105000000 +0200" channel="rik2">
-    <title lang="el">Συναυλία/Διάσταση Κώστας Κακογιάννης</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240105000000 +0200" stop="20240105013000 +0200" channel="rik2">
-    <title lang="el">Προσωπογραφίες</title>
-   <desc lang="el">Πρόσωπα από τον χώρο των γραμμάτων και των τεχνών διηγούνται στη Μαρία Αγγελίδου τη δική τους ιστορία. Αποκαλύπτουν άγνωστες πτυχές της ζωής και του έργου τους. Και…«ποζάρουν» για να φτιαχτεί η δική τους τηλεοπτική προσωπογραφία. Με εικόνες, λέξεις και συναισθήματα.
-Έρευνα - Παρουσίαση:  Μαρία Αγγελίδου
-Σκηνοθεσία:  Ζωή Σοφού
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/PROSOPOGRAFIES_S.d3fdadfb.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240105063000 +0200" stop="20240105072000 +0200" channel="riksat">
-    <title lang="el">Little House on the Prairie</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240105072000 +0200" stop="20240105080000 +0200" channel="riksat">
-    <title lang="el">Eight is Enough</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240105080000 +0200" stop="20240105153000 +0200" channel="riksat">
-    <title lang="el">Παιδική Ζώνη</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240105153000 +0200" stop="20240105162000 +0200" channel="riksat">
-    <title lang="el">Eight is Enough</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240105162000 +0200" stop="20240105170000 +0200" channel="riksat">
-    <title lang="el">All Creatures Great and Small</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240105170000 +0200" stop="20240105180000 +0200" channel="riksat">
-    <title lang="el">Little House on the Prairie</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240105180000 +0200" stop="20240105183000 +0200" channel="riksat">
-    <title lang="el">Full House</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240105183000 +0200" stop="20240105190000 +0200" channel="riksat">
-    <title lang="el">Step by Step</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240105190000 +0200" stop="20240105191000 +0200" channel="riksat">
-    <title lang="el">Κοίτα με στα Μάτια</title>
-   <desc lang="el">Εκπομπή με θέμα την ευημερία των ζώων και τη δυνατή σχέση ανάμεσα στους ανθρώπους και τους τετράποδους φίλους τους. Στόχος η ανάδειξη των αδυναμιών της κοινωνίας στην αντιμετώπιση των αναγκών των ζώων και η ευαισθητοποίηση και η βελτίωση της κουλτούρας μας στο συγκεκριμένο θέμα.
- εκπομπή γίνεται σε συνεργασία με το Υπουργείο Γεωργίας, Αγροτικής Ανάπτυξης και Περιβάλλοντος.
-Σκηνοθεσία: Μιχάλης Γεωργιάδης
-Κείμενα - Aφήγηση: Γιώργος Πήττας
-Εκτέλεση Παραγωγής: Michaelangelo Cinematographic Services LTD
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOITAME_ESTA_MATIA_S.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240105191000 +0200" stop="20240105194000 +0200" channel="riksat">
-    <title lang="el">Farming for the Planet</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240105194000 +0200" stop="20240105195000 +0200" channel="riksat">
-    <title lang="el">English News</title>
-   <desc lang="el">Kαθημερινό δελτίο ειδήσεων στην αγγλική γλώσσα. Daily news bulletin in english.
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/ENGLISH_NEWS_RIK2.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240105195000 +0200" stop="20240105200000 +0200" channel="riksat">
-    <title lang="el">Haberler</title>
-   <desc lang="el">Καθημερινό δελτίο ειδήσεων στην τουρκική γλώσσα.
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/HABERLER_RIK2.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240105200000 +0200" stop="20240105210000 +0200" channel="riksat">
-    <title lang="el">Κεντρικό Δελτίο Ειδήσεων στη Νοηματική</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240105210000 +0200" stop="20240105222000 +0200" channel="riksat">
-    <title lang="el">Ταινία/A Gingerbread Christmas</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240105222000 +0200" stop="20240105000000 +0200" channel="riksat">
-    <title lang="el">Ταινία/Ι Feel Pretty</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240105064500 +0200" stop="20240105093000 +0200" channel="12522">
-    <title lang="el">Πρώτη Ενημέρωση</title>
-   <desc lang="el">Καθημερινή, ζωντανή,ενημερωτική εκπομπή που καλύπτει την τοπική και διεθνή ειδησεογραφία με φιλοξενούμενους στο στούντιο, δελτίο ειδήσεων, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις.
-Παρουσίαση: Σταύρος Κυπριανού, Σταυριανή Κωνσταντίνου
-Παρουσίαση Δελτίου Ειδήσεων: Ευγενία Σέργη
-Παραγωγή – Σκηνοθεσία: Πανίκος Νικολάου
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/PROTH_ENHMEROSH_S.82131f7d.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240105093000 +0200" stop="20240105110000 +0200" channel="12523">
-    <title lang="el">Όμορφη Μέρα </title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240105110000 +0200" stop="20240105120000 +0200" channel="12524">
-    <title lang="el">Κουζίνα σε Ρόδες</title>
-   <desc lang="el">Τι κάνουν μαζί ένας chef, μια ηθοποιός και μια κινητή κουζίνα?
-Μία διαφορετική εκπομπή μαγειρικής, εκτός στούντιο, έχοντας για σκηνικό φυσικά τοπία, χωριά, πόλεις, σημεία θέας. Επιπρόσθετα μια ‘ιδιαίτερη’ βοηθός κουζίνας, προσθέτει μια ευχάριστη νότα ενώ έξτρα συμβουλές και μυστικά που εμφανίζονται περίτεχνα δίνουν μια πιο μοντέρνα προσέγγιση της δομής, του μοντάζ και της σκηνοθεσίας της εκπομπής.
-Σκηνοθεσία: Πέτρος Σολωμού
-Έκτέλεση Παραγωγής: Drama Queen Productions
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOUZINA_SE_RODES_Portrait.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240105120000 +0200" stop="20240105140000 +0200" channel="12525">
-    <title lang="el">Από Μέρα σε Μέρα</title>
-   <desc lang="el">Μεσημβρινή, ζωντανή, ενημερωτική εκπομπή που παρουσιάζει και αναλύει όλη την επικαιρότητα της ημέρας. Με συζητήσεις στο στούντιο, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις, η εκπομπή μεταφέρει τον παλμό της επικαιρότητας εξελίξεις τόσο από τον τοπικό, όσο και από τον διεθνή χώρο, με σοβαρότητα και υπευθυνότητα.
-Παρουσίαση: Κατερίνα Χαραλάμπους, Τάσος Χριστοδούλου
-Παραγωγή – Σκηνοθεσία: Μαρία Χαρή, Άντρεα Αγγελίδου, Άντρη Κωνσταντίνου
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/APO_MERA_S.6984bfb0.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240105140000 +0200" stop="20240105143000 +0200" channel="12526">
-    <title lang="el">Ειδήσεις</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240105143000 +0200" stop="20240105153000 +0200" channel="12527">
-    <title lang="el">Εμείς κι ο Κόσμος μας</title>
-   <desc lang="el">Για 6η χρονιά, ο Λουκάς Χάματσος στο καθημερινό τηλεοπτικό ραντεβού, φιλοξενεί ξεχωριστούς καλεσμένους και παρουσιάζει ενδιαφέροντα θέματα απ’ όλη την Κύπρο και τον κόσμο μας.
-Δημοσιογραφική Επιμέλεια - Παρουσίαση: Λουκάς Χάματσος
-
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/EMEIS_KI_O_KOSMOS_S.05a7e0c6.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240105153000 +0200" stop="20240105163000 +0200" channel="12528">
-    <title lang="el">Καμώματα τζι Αρώματα</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240105163000 +0200" stop="20240105180000 +0200" channel="12529">
-    <title lang="el">Επικοινωνία</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240105180000 +0200" stop="20240105183000 +0200" channel="12530">
-    <title lang="el">Ειδήσεις στις 18:00</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240105183000 +0200" stop="20240105193000 +0200" channel="12531">
-    <title lang="el">Κουζίνα σε Ρόδες</title>
-   <desc lang="el">Τι κάνουν μαζί ένας chef, μια ηθοποιός και μια κινητή κουζίνα?
-Μία διαφορετική εκπομπή μαγειρικής, εκτός στούντιο, έχοντας για σκηνικό φυσικά τοπία, χωριά, πόλεις, σημεία θέας. Επιπρόσθετα μια ‘ιδιαίτερη’ βοηθός κουζίνας, προσθέτει μια ευχάριστη νότα ενώ έξτρα συμβουλές και μυστικά που εμφανίζονται περίτεχνα δίνουν μια πιο μοντέρνα προσέγγιση της δομής, του μοντάζ και της σκηνοθεσίας της εκπομπής.
-Σκηνοθεσία: Πέτρος Σολωμού
-Έκτέλεση Παραγωγής: Drama Queen Productions
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOUZINA_SE_RODES_Portrait.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240105193000 +0200" stop="20240105200000 +0200" channel="12532">
-    <title lang="el">Ειρήνη Πάσι</title>
-   <desc lang="el">Η κωμική σειρά εποχής που αγαπήσατε επιστρέφει για 3η χρονιά για να χαρίσει ακόμη περισσότερες στιγμές γέλιου. Σημείο αναφοράς παραμένει η κόντρα ανάμεσα στον ιερέα και τον μουχτάρη του χωριού και συνεχίζονται τα μπερδέματα, οι παρεξηγήσεις, οι έρωτες, οι τσακωμοί και οι ίντριγκες στο πιο τρελό χωριό!
-Ξανασμίγουν και πάλι, ύστερα από χρόνια με τον Κώστα Δημητρίου οι: Σταύρος Λούρας, Ζωή Κυπριανού, Ηράκλης Γιωργαλλή, Σώτος Σταυράκη,Μόνικα Μελέκκη, Αντρέας Βούλγαρης, Μιχάλης Χρίστου ,ενώ συνεχίζει το μόνιμο καστ με τους Κρίστοφερ Γκρέκο, Μιχάλη Μουστάκα, Λουκία Μ. Μουσουλιώτη, Βαλεντίνα Σοφοκλέους, Αντρέα Μελέκκη, Κωνσταντίνο Αλκιβιάδη, Μαρία Μεσαρίτη, Εύρο Βασιλείου, Άντρεα Δημητρίου, Βαλεντίνα Νικολάου, Γεωργία Κωνσταντίνου, Μάριο Στυλιανού, Θεοδώρα Βήχα και Έλενα Παπαδοπούλου.
-Τα γυρίσματα της σειράς πραγματοποιούνται στο χωριό Κάτω Δρυς της επαρχίας Λάρνακας.
-Σενάριο: Μιχάλης Τερζής, Μαρίνα Φραγκεσκίδου
-Σκηνοθεσία: Χρήστος Νικολάου
-Παραγωγή: D.D. MEDIA STUDIOS
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/EIRHNH_PASI_S.48e03a4c.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240105200000 +0200" stop="20240105210000 +0200" channel="12533">
-    <title lang="el">Ειδήσεις στις 20:00</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20240105210000 +0200" stop="20240105220000 +0200" channel="12534">
-    <title lang="el">Τρικυμία</title>
-   <desc lang="el">Κύπρος 1878. Η θάλασσα φουσκώνει για μια νέα μεγάλη Τρικυμία στον 2ο κύκλο της σειράς. Ο πόλεμος ανάμεσα στην Οθωμανική Αυτοκρατορία και τον Ορθόδοξο Συνασπισμό με επικεφαλής τη Ρωσία τελειώνει με ήττα των Οθωμανών. Οι Τούρκοι αναγκάζονται να παραχωρήσουν την Κύπρο στη Βρετανική Αυτοκρατορία και ένα νέο κεφάλαιο ανοίγεται στην ιστορία του τόπου μας. Νέοι κατακτητές, νέοι αγώνες και μια συνεχής μάχη των προγόνων μας για επιβίωση. Αυτή η συγκλονιστική εποχή σκιαγραφείται μέσα από τη δραματική σειρά εποχής Τρικυμία η οποία επιστρέφει ανανεωμένη με τους αγαπημένους σας ήρωες σε νέες συγκλονιστικές ιστορίες και περιπέτειες.
-Ηθοποιοί: Αντρέας Τσουρής, Αντρούλα Ηρακλέους, Νεοκλής Νεοκλέους, Κύνθια Παυλίδου, Σίμος Τσιάκκας, Γιώργος Αναγιωτός, Αθηνά Σάββα, Βάσια Αδάμου.
-Φετινές προσθήκες στο κάστ αποτελούν οι ηθοποιοί Στέφανος Μιχαήλ, Ανδρέας Κουτσόφτας, Ειρήνη Σαλάτα ,Παμπίνα Γεωργίου, Πανίκος Πιλάλης, Μαρίνος Χατζηβασιλείου, Δένα Ιωάννου, Χρίστος Κυριάκου - Παλώδιας και Γιάννης Φωτεινός.
-Σενάριο: Σοφία Σοφοκλέους, Ανδρέας Νικολαίδης,Δημήτρης Τοκαρής
-Σκηνοθεσία: Κώστας Χριστοφόρου
-Έκτέλεση Παραγωγής: Galinis Production Studio
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/TRYKIMIA_S.eccd178c.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20240105220000 +0200" stop="20240105000000 +0200" channel="12535">
-    <title lang="el">Συναυλία </title>
-   <desc lang="el"></desc>
-   <icon src=/static/img/logos/rik-logo.png/>
   </programme>
 </tv>
