@@ -31173,7 +31173,7 @@ The leading news stories of the moment.</desc>
     <desc lang="el">The leading news stories of the moment.
 The leading news stories of the moment.</desc>
   </programme>
-  <programme start="20240102064500 +0200" stop="20240102093000 +0200" channel="rik1">
+   <programme start="20240102064500 +0200" stop="20240102093000 +0200" channel="rik1">
     <title lang="el">Πρώτη Ενημέρωση</title>
    <desc lang="el">Καθημερινή, ζωντανή,ενημερωτική εκπομπή που καλύπτει την τοπική και διεθνή ειδησεογραφία με φιλοξενούμενους στο στούντιο, δελτίο ειδήσεων, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις.
 Παρουσίαση: Σταύρος Κυπριανού, Σταυριανή Κωνσταντίνου
@@ -31268,7 +31268,7 @@ The leading news stories of the moment.</desc>
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/APOTIPOMATA_S.e8c5827a.fill-350x500.jpg"/>
   </programme>
-  <programme start="20240102230000 +0200" stop="20240102003000 +0200" channel="rik1">
+  <programme start="20240102230000 +0200" stop="20240103003000 +0200" channel="rik1">
     <title lang="el">Σε Ξένα Χέρια</title>
    <desc lang="el"></desc>
   </programme>
@@ -31342,7 +31342,7 @@ The leading news stories of the moment.</desc>
     <title lang="el">The Miniaturist</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20240102225000 +0200" stop="20240102003000 +0200" channel="rik2">
+  <programme start="20240102225000 +0200" stop="20240103003000 +0200" channel="rik2">
     <title lang="el">Flying Objects:A State Secret</title>
    <desc lang="el"></desc>
   </programme>
@@ -31441,10 +31441,9 @@ The leading news stories of the moment.</desc>
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/APOTIPOMATA_S.e8c5827a.fill-350x500.jpg"/>
   </programme>
-  <programme start="20240102230000 +0200" stop="20240102003000 +0200" channel="riksat">
+  <programme start="20240102230000 +0200" stop="20240103003000 +0200" channel="riksat">
     <title lang="el">Ειδήσεις στην Αγγλική και Τουρκική</title>
    <desc lang="el"></desc>
-   <icon src="/static/img/logos/rik-logo.png"/>
   </programme>
   <programme start="20240103064500 +0200" stop="20240103093000 +0200" channel="rik1">
     <title lang="el">Πρώτη Ενημέρωση</title>
@@ -31539,7 +31538,7 @@ The leading news stories of the moment.</desc>
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KATHREFTHS_S.af5570cf.fill-350x500.jpg"/>
   </programme>
-  <programme start="20240103230000 +0200" stop="20240103003000 +0200" channel="rik1">
+  <programme start="20240103230000 +0200" stop="20240104003000 +0200" channel="rik1">
     <title lang="el">Σε Ξένα Χέρια</title>
    <desc lang="el"></desc>
   </programme>
@@ -31613,7 +31612,7 @@ The leading news stories of the moment.</desc>
     <title lang="el">The Miniaturist</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20240103225000 +0200" stop="20240103003000 +0200" channel="rik2">
+  <programme start="20240103225000 +0200" stop="20240104003000 +0200" channel="rik2">
     <title lang="el">The Underwater Volcano</title>
    <desc lang="el"></desc>
   </programme>
@@ -31710,10 +31709,9 @@ The leading news stories of the moment.</desc>
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KATHREFTHS_S.af5570cf.fill-350x500.jpg"/>
   </programme>
-  <programme start="20240103230000 +0200" stop="20240103003000 +0200" channel="RIK HD">
+  <programme start="20240103230000 +0200" stop="20240104003000 +0200" channel="RIK HD">
     <title lang="el">Ειδήσεις στην Αγγλική και Τουρκική</title>
    <desc lang="el"></desc>
-   <icon src="/static/img/logos/rik-logo.png"/>
   </programme>
   <programme start="20240104064500 +0200" stop="20240104093000 +0200" channel="rik1">
     <title lang="el">Πρώτη Ενημέρωση</title>
@@ -31812,7 +31810,7 @@ The leading news stories of the moment.</desc>
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/PROKLHSEIS_S.da355e88.fill-350x500.jpg"/>
   </programme>
-  <programme start="20240104230000 +0200" stop="20240104003000 +0200" channel="rik1">
+  <programme start="20240104230000 +0200" stop="20240105003000 +0200" channel="rik1">
     <title lang="el">Σε Ξένα Χέρια</title>
    <desc lang="el"></desc>
   </programme>
@@ -31882,7 +31880,7 @@ The leading news stories of the moment.</desc>
     <title lang="el">Roadkill</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20240104220000 +0200" stop="20240104000000 +0200" channel="riksat">
+  <programme start="20240104220000 +0200" stop="20240105000000 +0200" channel="riksat">
     <title lang="el">Ταινία/The Spy Who Dumped Me</title>
    <desc lang="el"></desc>
   </programme>
@@ -31983,10 +31981,9 @@ The leading news stories of the moment.</desc>
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/PROKLHSEIS_S.da355e88.fill-350x500.jpg"/>
   </programme>
-  <programme start="20240104230000 +0200" stop="20240104003000 +0200" channel="RIK HD">
+  <programme start="20240104230000 +0200" stop="20240105003000 +0200" channel="RIK HD">
     <title lang="el">Ειδήσεις στην Αγγλική και Τουρκική</title>
    <desc lang="el"></desc>
-   <icon src="/static/img/logos/rik-logo.png"/>
   </programme>
   <programme start="20240105064500 +0200" stop="20240105093000 +0200" channel="rik1">
     <title lang="el">Πρώτη Ενημέρωση</title>
@@ -32080,11 +32077,11 @@ The leading news stories of the moment.</desc>
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/TRYKIMIA_S.eccd178c.fill-350x500.jpg"/>
   </programme>
-  <programme start="20240105220000 +0200" stop="20240105000000 +0200" channel="rik2">
+  <programme start="20240105220000 +0200" stop="20240106000000 +0200" channel="rik2">
     <title lang="el">Συναυλία/Διάσταση Κώστας Κακογιάννης</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20240105000000 +0200" stop="20240105013000 +0200" channel="rik2">
+  <programme start="20240106000000 +0200" stop="20240106013000 +0200" channel="rik2">
     <title lang="el">Προσωπογραφίες</title>
    <desc lang="el">Πρόσωπα από τον χώρο των γραμμάτων και των τεχνών διηγούνται στη Μαρία Αγγελίδου τη δική τους ιστορία. Αποκαλύπτουν άγνωστες πτυχές της ζωής και του έργου τους. Και…«ποζάρουν» για να φτιαχτεί η δική τους τηλεοπτική προσωπογραφία. Με εικόνες, λέξεις και συναισθήματα.
 Έρευνα - Παρουσίαση:  Μαρία Αγγελίδου
@@ -32158,7 +32155,7 @@ The leading news stories of the moment.</desc>
     <title lang="el">Ταινία/A Gingerbread Christmas</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20240105222000 +0200" stop="20240105000000 +0200" channel="riksat">
+  <programme start="20240105222000 +0200" stop="20240106000000 +0200" channel="riksat">
     <title lang="el">Ταινία/Ι Feel Pretty</title>
    <desc lang="el"></desc>
   </programme>
@@ -32251,10 +32248,9 @@ The leading news stories of the moment.</desc>
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/TRYKIMIA_S.eccd178c.fill-350x500.jpg"/>
   </programme>
-  <programme start="20240105220000 +0200" stop="20240105000000 +0200" channel="RIK HD">
+  <programme start="20240105220000 +0200" stop="20240106000000 +0200" channel="RIK HD">
     <title lang="el">Συναυλία </title>
    <desc lang="el"></desc>
-   <icon src="/static/img/logos/rik-logo.png"/>
   </programme>
   <programme start="20240102080000 +0200" stop="20240102090000 +0200" channel="EGNATIA">
     <title lang="el">ΔΟΞΑ ΣΟΙ Ο ΘΕΟΣ</title>
