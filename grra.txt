@@ -178,7 +178,7 @@ http://176.9.116.131:30000/;
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΟΝΙΚΗ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/sohos.png" ,Σοχός Fm 88.7
 http://eu7.fastcast4u.com:2046/stream
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΟΝΙΚΗ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/rainbow89.png" ,Rainbow 89
-http://62.212.82.197:8000/;
+https://stream.radiojar.com/083wqknmsuhvv?1668103694
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΟΝΙΚΗ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/weradio.png" ,We Radio 89.4
 http://85.10.249.132:45060/;
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΟΝΙΚΗ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/imagine.png" ,Imagine 89.7
