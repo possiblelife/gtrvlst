@@ -24,7 +24,7 @@ http://r1.cloudskep.com/cybcr/cybc3/icecast.audio
 #EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/sportfm95.png" ,Sport Fm 95.0
 http://eradio.networksolutions.com.cy:1935/SportFM/SportFM.stream/playlist.m3u8
 #EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/zenith.png" ,ΖΕΝΙΘ 96.4
-http://eco.onestreaming.com:8023/;
+http://live3.istoikona.net:9836/stream
 #EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/sfera.png" ,ΣΦΑΙΡΑ 96.8
 http://phileradio.com:8193/sfera
 #EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/rikproto.png" ,ΡΙΚ1 97.2
