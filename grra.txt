@@ -1702,6 +1702,9 @@ http://i3.streams.ovh:12214/;
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΔΙΑΔΙΚΤΥΑΚΑ ====
 http://.....
+
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/RYnLpd6/alepou.png" ,Αλεπού web radio
+https://n0a.radiojar.com/h693vkmhe5uvv?fbclid=IwAR0EL-33c2kXD7jXJDMdfKU1z1bmkewFHewCh3ZW2ofzIuwm27YubUIvHd4&rj-ttl=4&mibextid=xfxF2i&rj-tok=AAABjD4TFZcAh-RzcOHLA16EqQ
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/BGbjHWY/new-logo-beatbox.png" ,Beatboxradio europe - the 80's channel
 https://eu6.fastcast4u.com/stream/jkouts00/stream.pls
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2015/06/music-factory-radio-1.jpg" ,Music Factory Radio
