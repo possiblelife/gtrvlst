@@ -88,6 +88,8 @@ https://www.youtube.com/@Tilesporttv-eb8ip/streams|webepg zoom=100 scroll=0,0
 https://www.youtube.com/@SDNA_webTV/streams|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://alfasports.tv/wp-content/uploads/2017/07/19650478_10213391687526137_730682022_o.png" tvg-website="https://alfasports.tv/",Alfa Sports TV
 https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://i.ibb.co/1ZHNXQK/ARGOSPORT-LOGO.jpg" tvg-website="https://argolidasport.gr/",Argolida Sport
+https://neon.streams.gr:8081/argolidasport/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports" tvg-logo="https://i.ibb.co/MP9Nv3r/sports.jpg" tvg-website="https://www.ertflix.gr" ,ΕΡΤ SPORTS 1 (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/mainabr/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports1" tvg-logo="https://i.ibb.co/mhBPc1n/sports.jpg" tvg-website="https://www.ertflix.gr" ,ΕΡΤ SPORTS 1 (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ) (ΕΝΑΛΛΑΚΤΙΚΟ)
@@ -129,7 +131,7 @@ https://www.hellasnet.tv/rest2.live.hn/w2r.alf/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="ΑΛΗΘΕΙΑ TV" tvg-logo="https://www.eqvusproductions.gr/wp-content/uploads/2013/07/alithia-tv-logo-446x218.png" tvg-website="https://www.alithia.gr/tv" ,Αλήθεια TV (17:00-00:00) (Youtube) (Β. Α. ΑΙΓΑΙΟΥ)
 https://www.alithia.gr/tv/live|agentnodown$$start=https://www.youtube.com/watch?v$$end=" target$$replace=$$replacewith=$$add=
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ART" tvg-logo="https://3.bp.blogspot.com/-_b7Ny-5Xy5c/V-1fWCCPSxI/AAAAAAAAE4M/mjLo3ZSMdCUZOjDyM6mhKTs0IEhqIk8HgCLcB/s1600/arttv1.png" tvg-website="https://www.arttv.info/" ,AΡΤ (ΑΤΤΙΚΗΣ)
-https://rumble.com/live-hls/3g2sdc/playlist.m3u8?
+https://rumble.com/live-hls/43vqzx/playlist.m3u8?
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ART" tvg-logo="https://3.bp.blogspot.com/-_b7Ny-5Xy5c/V-1fWCCPSxI/AAAAAAAAE4M/mjLo3ZSMdCUZOjDyM6mhKTs0IEhqIk8HgCLcB/s1600/arttv1.png" tvg-website="https://www.arttv.info/" ,AΡΤ (backup) (ΑΤΤΙΚΗΣ)
 https://www.arttv.info/p/art.html|webdig
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ART TV" tvg-logo="http://www.arttv.gr/wp-content/uploads/2017/02/logo_mobile_retina.png" tvg-website="http://www.arttv.gr/" ,Art tv (Άρτα tv) (ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ)
@@ -165,9 +167,9 @@ https://diktyotv.gr/live/|webdig
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="DIKTYO" tvg-logo="https://i.ibb.co/LpQsDLg/diktyo1.jpg" tvg-website="https://www.diktyo1.com/" ,DIKTYO 1 (Youtube) (Δ. ΜΑΚΕΔΟΝΙΑΣ )
 https://www.youtube.com/@diktyo1/streams|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="ED TV" tvg-logo="https://i.ibb.co/rygzGN0/edtv.png" tvg-website="https://tvd.gr/" ,ΕΔ (ΑΝ. ΜΑΚΕΔΟΝΙΑΣ ΚΑΙ ΘΡΑΚΗΣ)
-https://s2.netmax-host.eu:2053/tvd/tvd/playlist.m3u8
+https://eu1.vectromdigital.com:1936/tvdelta/tvdelta/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ENA CHANNEL" tvg-logo="http://enachannel.gr/uploads/logo.png" tvg-website="https://enachannel.gr/" ,ENA CHANNEL (ΑΝ. ΜΑΚΕΔΟΝΙΑΣ ΚΑΙ ΘΡΑΚΗΣ)
-https://storemusic.top:8222/enachannel/enachannel/enachannel/playlist.m3u8
+https://til.pp.ua:3365/live/enachannellive.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="AE TV" tvg-logo="https://i.ibb.co/NjpX1ry/A-EPSILON-id-3030.jpg" tvg-website="https://www.neotv.gr/" ,EPSILON TV (ΑΤΤΙΚΗΣ)
 https://edge1.mystream.gr/video427009/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="TILE EPILOGES" tvg-logo="http://www.eetep.gr/wp-content/uploads/2016/10/cus-tile-epiloges.png" tvg-website="https://epiloges.tv/" ,Επιλογές tv (ΑΝ. ΜΑΚΕΔΟΝΙΑΣ ΚΑΙ ΘΡΑΚΗΣ)
@@ -209,7 +211,7 @@ https://til.pp.ua:3872/live/mesogeiostvlive.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="NEA TV CRETE" tvg-logo="https://goo.gl/WSfOWs" tvg-website="https://www.neatv.gr/" ,NEA TV ΚΡΗΤΗΣ (ΚΡΗΤΗΣ)
 https://live.neatv.gr:8888/hls/neatv_high/index.m3u8 
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ORT" tvg-logo="https://www.patrisnews.com/wp-content/uploads/images/footer-ort.jpg" tvg-website="https://ort.gr/" ,ΟΡΤ Live (ΠΕΛΟΠΟΝΝΗΣΟΥ)
-https://s2.netmax-host.eu:2053/ort/ort/playlist.m3u8
+https://eu1.vectromdigital.com:1936/ort/ort/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ONE Channel" tvg-logo="https://i.imgur.com/yHiFVKK.jpg" tvg-website="https://onechannel.gr/" ,ONE TV (ΑΤΤΙΚΗΣ)
 http://push-int.siliconweb.com/one/stream/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-logo="https://www.pellatv.gr/wp-content/themes/pellatv/images/pellatv.jpg" tvg-website="https://www.pellatv.gr/" ,Pella tv
@@ -231,7 +233,7 @@ https://www.dailymotion.com/embed/video/xqjey2?logo=0&hideInfos=1&related=0&auto
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="START TV" tvg-logo="https://goo.gl/fFjaAp" tvg-website="https://www.startmediacorfu.gr/" ,START (ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ)
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="SUPER B" tvg-logo="https://i.ibb.co/5k84nHS/super-b.jpg" tvg-website="https://pronewstv.gr/" ,SUPER B (PRONEWS TV) (ΠΕΛΟΠΟΝΝΗΣΟΥ)
-https://di-8j1efme9.leasewebultracdn.com/p/3403/live/prolive.m3u8
+https://pro.free.hr:3887/live/pronewslive.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="SUPER B" tvg-logo="https://i.ibb.co/5k84nHS/super-b.jpg" tvg-website="https://pronewstv.gr/" ,SUPER B (YOUTUBE) (ΠΕΛΟΠΟΝΝΗΣΟΥ)
 https://www.youtube.com/@superbchannelvideo|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="SYROS TV1 " tvg-logo="https://goo.gl/aVVUtg" tvg-website="https://syrostv1.gr/" ,ΣΥΡΟΣ TV1 (ΚΥΚΛΑΔΩΝ)
@@ -357,7 +359,7 @@ https://live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/91b8c707-26a9-4674-a90e-2a50569193ab-profile_image-150x150.png" tvg-website="https://www.patratv.gr/" ,Patra tv 
 https://infopatra.gr/?page_id=56514|webdig
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/3yrTWp2/pro-news.png" tvg-website="https://www.pronews.gr/" ,PRONEWS tv 
-https://di-8j1efme9.leasewebultracdn.com/p/3403/live/prolive.m3u8
+https://pro.free.hr:3887/live/pronewslive.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/yQ997v6/konitsa-tv.jpg" tvg-website="https://konitsa-tv7.webnode.gr/" ,KONITSA TV
 https://konitsa-tv7.webnode.gr/|webdig
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" ,X TV
