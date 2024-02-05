@@ -427,7 +427,7 @@ https://ellastvmax.better-than.tv/freetv/village-world/index.m3u8
 http://.....
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://i.ibb.co/5MKkNgy/Screenshot-2023-11-15-160115.png" ,MAD World
 https://ellastvmax.better-than.tv/freetv/madworldtv/index.m3u8
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://i.ibb.co/7GL1WL6/ertmusic.jpg" ,ErtFlix Music
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://i.ibb.co/7GL1WL6/ertmusic.jpg" ,ErtFlix Music
 http://hbbtv.ert.gr/stream.php/v/vid_ertplay5_mpeg.2ts
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniRWeQydH4pamOZcqfgB94e7Zm_IMDxKOssr_oNBw=s48-c-k-c0x00ffffff-no-rj" tvg-website="https://mad.tv/mad-radio/live-streaming/" ,Mad Radio 106.2 (Youtube)
 https://mad.tv/mad-radio/live-streaming/|youtubedig
