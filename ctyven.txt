@@ -90,7 +90,7 @@ http://www.anacon.org/app/chans/cy/smilecy.html|weballdig
 #EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - Smile
 http://www.smiletvcyprus.com/gr/index.php/program/monday|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="CYPRUS" tvg-id="ert" tvg-logo="https://goo.gl/DLhMC3" tvg-website="https://www.ertflix.gr" ,ERT WORLD
-https://cbd537474fbad4634b64787657ff6456.msvdn.net/cyprus/ert_cyprus_main/mainabr/playlist.m3u8
+https://telmacosa.s.llnwi.net/osO/ERTWorld/default/playlist.m3u8
 #EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG -  ERT WORLD
 https://www.ertflix.gr/epg/channel/ept-world-live|webepg zoom=0 scroll=0,100
 
