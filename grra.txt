@@ -955,6 +955,8 @@ http://.....
 http://comet.shoutca.st:8312/;
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/lradio.jpg" ,L Radio 87.5
 http://s3.onweb.gr:8472/;listen.pls
+#EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-logo="https://i.ibb.co/j4TrJFW/logo2-25-135753.png" ,Fun Radio 104.3
+https://solid9.streamupsolutions.com/proxy/wpgqrttp/stream 
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΝΑΥΠΛΙΟ ΠΕΛΟΠΟΝΝΗΣΟΣ ====
 http://.....
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/imargol1052.png" ,Ι.Μ. Αργολίδος 105.2
