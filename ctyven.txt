@@ -95,7 +95,7 @@ https://telmacosa.s.llnwi.net/osO/ERTWorld/default/playlist.m3u8
 https://www.ertflix.gr/epg/channel/ept-world-live|webepg zoom=0 scroll=0,100
 
 #EXTINF:-1 group-title="WORLDWIDE"  tvg-id="Euronews" tvg-logo="https://goo.gl/QMXKek" tvg-website="https://gr.euronews.com/" ,EURONEWS (Youtube)
-https://gr.euronews.com/live|youtubedig
+https://www.youtube.com/embed/uWIhV9gQClg?autoplay=1
 #EXTINF:-1 group-title="WEBTV"  tvg-logo="http://www.anacon.org/app/img/faroscy.jpg" tvg-website="https://www.farosonair.com/" ,FAROS on Air
 https://s1.cystream.net/live/faros1/chunks.m3u8
 #EXTINF:-1 group-title="WEBTV"  tvg-logo="http://www.anacon.org/app/img/faroscy.jpg" tvg-website="https://www.farosonair.com/" ,FAROS on Air 2
