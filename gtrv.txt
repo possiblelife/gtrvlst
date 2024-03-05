@@ -235,7 +235,7 @@ http://www.startvfm.gr/live/|webdig
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="STAR K.E." tvg-logo="https://i.ibb.co/xgxqtQH/STAR-KE-id-5108.png" tvg-website="https://tvstar.gr/" ,Star ΚΕΝΤΡΙΚΗΣ ΕΛΛΑΔΑΣ (ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ)
 https://www.dailymotion.com/embed/video/k5Hfx6eeaTjBE5zRXcn?autoplay=1|webdelaydig
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="STAR K.E." tvg-logo="https://i.ibb.co/xgxqtQH/STAR-KE-id-5108.png" tvg-website="https://tvstar.gr/" ,Star ΚΕΝΤΡΙΚΗΣ ΕΛΛΑΔΑΣ (backup) (ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ)
-https://digitalstar.gr/?utm_source=tvstargr&utm_medium=starke|webdelaydig
+https://digitalstar.gr/?utm_source=tvstargr&utm_medium=starke|webdelaydig$$delay=2
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="START TV" tvg-logo="https://goo.gl/fFjaAp" tvg-website="https://www.startmediacorfu.gr/" ,START (ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ)
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="SUPER B" tvg-logo="https://i.ibb.co/5k84nHS/super-b.jpg" tvg-website="https://pronewstv.gr/" ,SUPER B (PRONEWS TV) (ΠΕΛΟΠΟΝΝΗΣΟΥ)
