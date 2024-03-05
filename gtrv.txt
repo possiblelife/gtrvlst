@@ -238,8 +238,8 @@ https://www.dailymotion.com/embed/video/k5Hfx6eeaTjBE5zRXcn?autoplay=1|webdelayd
 https://digitalstar.gr/?utm_source=tvstargr&utm_medium=starke|webdelaydig$$delay=2
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="START TV" tvg-logo="https://goo.gl/fFjaAp" tvg-website="https://www.startmediacorfu.gr/" ,START (ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ)
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="SUPER B" tvg-logo="https://i.ibb.co/5k84nHS/super-b.jpg" tvg-website="https://pronewstv.gr/" ,SUPER B (PRONEWS TV) (ΠΕΛΟΠΟΝΝΗΣΟΥ)
-https://pro.free.hr:3887/live/pronewslive.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="SUPER B" tvg-logo="https://i.ibb.co/3yrTWp2/pro-news.png" tvg-website="https://pronewstv.gr/" ,PRONEWS TV (ΠΕΛΟΠΟΝΝΗΣΟΥ)
+https://itw.nickstamp93.workers.dev/id/LTCe99jxF0qHVSZCJkfiq8yykACDLezMmoZdFAalmqnfCYObGA.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="SUPER B" tvg-logo="https://i.ibb.co/5k84nHS/super-b.jpg" tvg-website="https://pronewstv.gr/" ,SUPER B (YOUTUBE) (ΠΕΛΟΠΟΝΝΗΣΟΥ)
 https://www.youtube.com/@superbchannelvideo|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="SYROS TV1 " tvg-logo="https://goo.gl/aVVUtg" tvg-website="https://syrostv1.gr/" ,ΣΥΡΟΣ TV1 (ΚΥΚΛΑΔΩΝ)
@@ -363,7 +363,7 @@ https://live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/91b8c707-26a9-4674-a90e-2a50569193ab-profile_image-150x150.png" tvg-website="https://www.patratv.gr/" ,Patra tv 
 https://infopatra.gr/?page_id=56514|webdig
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/3yrTWp2/pro-news.png" tvg-website="https://www.pronews.gr/" ,PRONEWS tv 
-https://pro.free.hr:3887/live/pronewslive.m3u8
+https://itw.nickstamp93.workers.dev/id/LTCe99jxF0qHVSZCJkfiq8yykACDLezMmoZdFAalmqnfCYObGA.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/yQ997v6/konitsa-tv.jpg" tvg-website="https://konitsa-tv7.webnode.gr/" ,KONITSA TV
 https://konitsa-tv7.webnode.gr/|webdig
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" ,X TV
