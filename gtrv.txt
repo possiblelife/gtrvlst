@@ -262,7 +262,7 @@ https://www.youtube.com/@volcanotvsantorini927/streams|webepg zoom=100 scroll=0,
 http://.....
 
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="riksat" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/new_rik-sat-logo.original.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ SAT
-http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik1" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/rik-tv-1.original.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ1 [ΜΟΝΟ ΓΙΑ ΚΥΠΡΟ]
 http://l6.cloudskep.com/tvb6/rik1-1/mpeg.2ts
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik1" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/rik-tv-1.original.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ1 (ΕΠΙΛΟΓΗ 2)-ΕΝΑΛΛΑΚΤΙΚΟ[ΜΟΝΟ ΓΙΑ ΚΥΠΡΟ]

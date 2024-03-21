@@ -3,11 +3,11 @@
 https://4.bp.blogspot.com/-7JUwN0afLAI/WLsjPYSr6-I/AAAAAAAAAK4/rpoB9AuvPT4lb-Yn4_KV_ASHHSgjhTmhQCLcB/s1600/cyprus.png|webepg zoom=100 scroll=0,0
  
 #EXTINF:-1 group-title="CYPRUS" tvg-id="riksat"  tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/new_rik-sat-logo.original.png" tvg-website="http://cybc.com.cy/" ,RIK SAT (OPTION 1)
-http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 group-title="CYPRUS" tvg-id="riksat"  tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/new_rik-sat-logo.original.png" tvg-website="http://cybc.com.cy/" ,RIK SAT (OPTION 2)
 https://tv.rik.cy/live-tv/rik-sat/|webdig
 #EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - RIK SAT 
-http://cybc.com.cy/schedule/|webepg zoom=100 scroll=0,6200
+https://tv.rik.cy/schedule/|webepg zoom=100 scroll=0,100
  
 #EXTINF:-1 group-title="CYPRUS" tvg-id="rik1" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/rik-tv-1.original.png" tvg-website="http://cybc.com.cy/" ,RIK1 (OPTION 1)[ONLY FOR CYPRUS]
 http://l6.cloudskep.com/tvb6/rik1-1/mpeg.2ts
@@ -16,7 +16,7 @@ https://tv.rik.cy/live-tv/rik-1/|webdig
 #EXTINF:-1 group-title="CYPRUS" tvg-id="rik1" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/rik-tv-1.original.png" tvg-website="http://cybc.com.cy/" ,RIK1 (OPTION 2) (Click "PLAY VIDEO" between ads)
 http://www.anacon.org/app/chans/cy/rik1cyprus.php|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - RIK1 
-http://cybc.com.cy/schedule/|webepg zoom=100 scroll=0,1900
+https://tv.rik.cy/schedule/|webepg zoom=100 scroll=0,100
  
 #EXTINF:-1 group-title="CYPRUS" tvg-id="rik2"  tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/rik-tv-2.original.png" tvg-website="http://cybc.com.cy/" ,RIK2 (OPTION 1)[ONLY FOR CYPRUS]
 http://l6.cloudskep.com/tvb6/rik2-1/mpeg.2ts
@@ -25,7 +25,7 @@ https://tv.rik.cy/live-tv/rik-2/|webdig
 #EXTINF:-1 group-title="CYPRUS" tvg-id="rik2"  tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/rik-tv-2.original.png" tvg-website="http://cybc.com.cy/" ,RIK2 (OPTION 2) (Click "PLAY VIDEO" between ads)
 http://www.anacon.org/app/chans/cy/rik2.php|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - RIK2
-http://cybc.com.cy/schedule/|webepg zoom=100 scroll=0,1000
+https://tv.rik.cy/schedule/|webepg zoom=100 scroll=0,100
  
 #EXTINF:-1 group-title="CYPRUS" tvg-id="RIK HD" tvg-logo="hhttps://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/new_rik-hd-logo.original.png" tvg-website="http://cybc.com.cy/" ,RIK HD [ONLY FOR CYPRUS]
 http://l6.cloudskep.com/tvb6/rikhd1/mpeg.2ts
