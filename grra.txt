@@ -11,7 +11,7 @@ http://stream.radiojar.com/menta
 #EXTINF:-1 group-title="ΑΘΗΝΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/music892-athens.png" ,Music 89.2
 https://netradio.live24.gr/music892
 #EXTINF:-1 group-title="ΑΘΗΝΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/ecclesia.png" ,Εκκλησία της Ελλάδος 89.5
-http://85.10.206.222:8002/;
+https://loki.mental-media.gr:8038/;
 #EXTINF:-1 group-title="ΑΘΗΝΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/dromosfm.png" ,Δρόμος 89.8
 http://dromos898.live24.gr/dromos898
 #EXTINF:-1 group-title="ΑΘΗΝΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/parapolitikafm.png" ,Παραπολιτικά FM 90.1
