@@ -980,7 +980,7 @@ http://ant1patra.live24.gr/ant1patra1053
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/corazon.png" ,Corazon Radio
 http://176.9.78.226:30044/;
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/dertipatras.png" ,Derti 105.7
-http://5.9.17.142:8016/stream
+https://n06.radiojar.com/tzcb5k453quvv?
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/eyeonyou.png" ,Eyeonyou Radio
 http://listen.radionomy.com/eyeonyou
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/galaxy1061.png" ,Galaxy 106.1
