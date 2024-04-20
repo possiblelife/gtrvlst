@@ -8,19 +8,19 @@ http://.....
 
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png",ERTFLIX LIVE
 https://www.ertflix.gr/epg/now-on-tv|webepg zoom=100 scroll=0,100
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="https://i.ibb.co/Y71vkKs/ERT1.jpg" tvg-website="https://www.ertflix.gr" ,ΕΡΤ1 HD
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="https://i.ibb.co/Y71vkKs/ERT1.jpg" tvg-website="https://www.ertflix.gr" ,ΕΡΤ1 HD (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
 https://ertflix.s.llnwi.net/ertlive/ert1/default/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="https://i.ibb.co/Y71vkKs/ERT1.jpg" tvg-website="https://www.ertflix.gr" ,ΕΡΤ1
 http://88.99.254.101/ert1/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/816.20 (KHTML, like Gecko) Chrome/114.0.3014.841 Safari/816.20
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="https://i.ibb.co/Y71vkKs/ERT1.jpg" tvg-website="https://www.ertflix.gr" ,ΕΡΤ1 (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/gr/ert1s2image.php|webepg zoom=100 scroll=0,100
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert2" tvg-logo="https://i.ibb.co/c6gWKyh/ERT2.jpg" tvg-website="https://www.ertflix.gr" ,ΕΡΤ2 HD
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert2" tvg-logo="https://i.ibb.co/c6gWKyh/ERT2.jpg" tvg-website="https://www.ertflix.gr" ,ΕΡΤ2 HD (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
 https://ertflix.s.llnwi.net/ertlive/ert2/default/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert2" tvg-logo="https://i.ibb.co/c6gWKyh/ERT2.jpg" tvg-website="https://www.ertflix.gr" ,ΕΡΤ2 
 http://88.99.254.101/ert2/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/816.20 (KHTML, like Gecko) Chrome/114.0.3014.841 Safari/816.20
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert2" tvg-logo="https://i.ibb.co/c6gWKyh/ERT2.jpg" tvg-website="https://www.ertflix.gr" ,ΕΡΤ2 (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/gr/ert2s2image.php|webepg zoom=100 scroll=0,100
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert3" tvg-logo="https://i.ibb.co/5YQmVqj/ERT3.jpg" tvg-website="https://www.ertflix.gr" ,ΕΡΤ3 HD
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert3" tvg-logo="https://i.ibb.co/5YQmVqj/ERT3.jpg" tvg-website="https://www.ertflix.gr" ,ΕΡΤ3 HD (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
 https://ertflix.s.llnwi.net/ertlive/ert3/default/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert3" tvg-logo="https://i.ibb.co/5YQmVqj/ERT3.jpg" tvg-website="https://www.ertflix.gr" ,ΕΡΤ3
 http://88.99.254.101/ert3/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/816.20 (KHTML, like Gecko) Chrome/114.0.3014.841 Safari/816.20
