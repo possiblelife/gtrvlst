@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="grtv" generator-info-url="">
+  <channel id="KPHTH1">
+    <display-name lang="el">KPHTH1</display-name>
+  </channel>
+  <channel id="TELEKRHTH">
+    <display-name lang="el">TELEKRHTH</display-name>
+  </channel>
   <channel id="ert1">
     <display-name lang="el">ΕΡΤ1</display-name>
   </channel>
@@ -4068,6 +4074,22 @@
     <title lang="el">[K8] Αγώνας Ποδοσφαίρου</title>
     <desc lang="el">Αγώνας ποδοσφαίρου.</desc>
   </programme>
+  <programme start="20240424000000 +0300" stop="20240424060000 +0300" channel="TELEKRHTH">
+    <title lang="el">[K] Tele ΚΡΗΤΗ</title>
+    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
+  </programme>
+  <programme start="20240424060000 +0300" stop="20240424120000 +0300" channel="TELEKRHTH">
+    <title lang="el">[K] Tele ΚΡΗΤΗ</title>
+    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
+  </programme>
+  <programme start="20240424120000 +0300" stop="20240424180000 +0300" channel="TELEKRHTH">
+    <title lang="el">[K] Tele ΚΡΗΤΗ</title>
+    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
+  </programme>
+  <programme start="20240424180000 +0300" stop="20240425000000 +0300" channel="TELEKRHTH">
+    <title lang="el">[K] Tele ΚΡΗΤΗ</title>
+    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
+  </programme>
   <programme start="20240424003000 +0300" stop="20240424013000 +0300" channel="KPHTH TV">
     <title lang="el">[K] Ειδήσεις - Κεντρικό Δελτίο (Ε)</title>
     <desc lang="el">Έρευνες που ρίχνουν "φως" στα γεγονότα. Σημείο αναφοράς στην τοπική ενημέρωση, με ρεπορτάζ, συνδέσεις, σχολιασμούς και συζητήσεις με πολιτικούς, δημοσιογράφους και αναλυτές, με την Κατερίνα Σαλαπάτα.</desc>
@@ -4168,19 +4190,19 @@
     <title lang="el">[K8] Τσάι με Κυρίες (Tea with the Dames)</title>
     <desc lang="el">Ντοκιμαντέρ αγγλικής παραγωγής, 2018. Τέσσερις θρυλικές ηθοποιοί σας προσκαλούν για τσάι..! Η Άιλιν Άτκινς, η Τζούντι Ντεντς, η  Τζόαν Πλοουράιτ και η Μάγκι Σμιθ μιλούν για τις ζωές τους τότε και τώρα! Τις αναμνήσεις που έχουν από τότε που ήταν νέες μέχρι σήμερα.. Με τους: Άιλιν Άτκινς, Τζούντι Ντεντς, Τζόαν Πλοουράιτ, Μάγκι Σμιθ. Σκηνοθεσία: Ρότζερ Μιτσέλ. Διάρκεια: 84'. </desc>
   </programme>
-  <programme start="20240424000000 +0300" stop="20240424060000 +0300" channel="KΡHTH1">
+  <programme start="20240424000000 +0300" stop="20240424060000 +0300" channel="KPHTH1">
     <title lang="el">[K] ΚΡΗΤΗ1</title>
     <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
   </programme>
-  <programme start="20240424060000 +0300" stop="20240424120000 +0300" channel="KΡHTH1">
+  <programme start="20240424060000 +0300" stop="20240424120000 +0300" channel="KPHTH1">
     <title lang="el">[K] ΚΡΗΤΗ1</title>
     <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
   </programme>
-  <programme start="20240424120000 +0300" stop="20240424180000 +0300" channel="KΡHTH1">
+  <programme start="20240424120000 +0300" stop="20240424180000 +0300" channel="KPHTH1">
     <title lang="el">[K] ΚΡΗΤΗ1</title>
     <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
   </programme>
-  <programme start="20240424180000 +0300" stop="20240425000000 +0300" channel="KΡHTH1">
+  <programme start="20240424180000 +0300" stop="20240425000000 +0300" channel="KPHTH1">
     <title lang="el">[K] ΚΡΗΤΗ1</title>
     <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
   </programme>
@@ -8516,6 +8538,22 @@
     <title lang="el">[K8] 21</title>
     <desc lang="el">Εκπομπή.</desc>
   </programme>
+  <programme start="20240425000000 +0300" stop="20240425060000 +0300" channel="TELEKRHTH">
+    <title lang="el">[K] Tele ΚΡΗΤΗ</title>
+    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
+  </programme>
+  <programme start="20240425060000 +0300" stop="20240425120000 +0300" channel="TELEKRHTH">
+    <title lang="el">[K] Tele ΚΡΗΤΗ</title>
+    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
+  </programme>
+  <programme start="20240425120000 +0300" stop="20240425180000 +0300" channel="TELEKRHTH">
+    <title lang="el">[K] Tele ΚΡΗΤΗ</title>
+    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
+  </programme>
+  <programme start="20240425180000 +0300" stop="20240426000000 +0300" channel="TELEKRHTH">
+    <title lang="el">[K] Tele ΚΡΗΤΗ</title>
+    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
+  </programme>
   <programme start="20240425003000 +0300" stop="20240425013000 +0300" channel="KPHTH TV">
     <title lang="el">[K] Ειδήσεις - Κεντρικό Δελτίο (Ε)</title>
     <desc lang="el">Έρευνες που ρίχνουν "φως" στα γεγονότα. Σημείο αναφοράς στην τοπική ενημέρωση, με ρεπορτάζ, συνδέσεις, σχολιασμούς και συζητήσεις με πολιτικούς, δημοσιογράφους και αναλυτές, με την Κατερίνα Σαλαπάτα.</desc>
@@ -8612,19 +8650,19 @@
     <title lang="el">[K8] Ελεύθερο Σημείο</title>
     <desc lang="el">Talk show με θέματα τοπικής αυτοδιοίκησης, με τον  Λευτέρη Συμβουλάκη. Με "πρωταγωνιστές" πρόσωπα από την Τοπική Αυτοδιοίκηση και το πολιτικό προσωπικό της Κρήτης προερχόμενο από την τοπική και κεντρική πολιτική σκηνή.</desc>
   </programme>
-  <programme start="20240425000000 +0300" stop="20240425060000 +0300" channel="KΡHTH1">
+  <programme start="20240425000000 +0300" stop="20240425060000 +0300" channel="KPHTH1">
     <title lang="el">[K] ΚΡΗΤΗ1</title>
     <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
   </programme>
-  <programme start="20240425060000 +0300" stop="20240425120000 +0300" channel="KΡHTH1">
+  <programme start="20240425060000 +0300" stop="20240425120000 +0300" channel="KPHTH1">
     <title lang="el">[K] ΚΡΗΤΗ1</title>
     <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
   </programme>
-  <programme start="20240425120000 +0300" stop="20240425180000 +0300" channel="KΡHTH1">
+  <programme start="20240425120000 +0300" stop="20240425180000 +0300" channel="KPHTH1">
     <title lang="el">[K] ΚΡΗΤΗ1</title>
     <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
   </programme>
-  <programme start="20240425180000 +0300" stop="20240426000000 +0300" channel="KΡHTH1">
+  <programme start="20240425180000 +0300" stop="20240426000000 +0300" channel="KPHTH1">
     <title lang="el">[K] ΚΡΗΤΗ1</title>
     <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
   </programme>
@@ -12948,6 +12986,22 @@
     <title lang="el">[K8] Αθλολογίες</title>
     <desc lang="el">Εκπομπή.</desc>
   </programme>
+  <programme start="20240426000000 +0300" stop="20240426060000 +0300" channel="TELEKRHTH">
+    <title lang="el">[K] Tele ΚΡΗΤΗ</title>
+    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
+  </programme>
+  <programme start="20240426060000 +0300" stop="20240426120000 +0300" channel="TELEKRHTH">
+    <title lang="el">[K] Tele ΚΡΗΤΗ</title>
+    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
+  </programme>
+  <programme start="20240426120000 +0300" stop="20240426180000 +0300" channel="TELEKRHTH">
+    <title lang="el">[K] Tele ΚΡΗΤΗ</title>
+    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
+  </programme>
+  <programme start="20240426180000 +0300" stop="20240427000000 +0300" channel="TELEKRHTH">
+    <title lang="el">[K] Tele ΚΡΗΤΗ</title>
+    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
+  </programme>
   <programme start="20240426000000 +0300" stop="20240426015500 +0300" channel="KPHTH TV">
     <title lang="el">[K12] Το Θεώρημα Μηδέν (Zero Theorem)</title>
     <desc lang="el">Επιστημονικής φαντασίας αμερικανιικής παραγωγής, 2013. Μια εκκεντρική και μοναχική ιδιοφυΐα υπολογιστών προβληματίζεται από την υπαρξιακή αγωνία και επεξεργάζεται ένα μυστηριώδες σχέδιο που αποσκοπεί στην ανακάλυψη του σκοπού της ύπαρξης - ή της έλλειψής της - μια για πάντα... Με τους: Κριστόφ Βαλτς, Ματ Ντέιμον, Ντέιβιντ Θιούλις, Μελανί Τιερί. Σκηνοθεσία: Τέρι Γκίλιαμ. Διάρκεια: 107'. </desc>
@@ -13040,19 +13094,19 @@
     <title lang="el">[K] Αντιθέσεις</title>
     <desc lang="el">Δημοσιογραφική εκπομπή - talk show με τον Γιώργο Σαχίνη. Κορυφαίες προσωπικότητες, αλλά και πρόσωπα της καθημερινότητας, της πολιτικής, οικονομικής, πνευματικής, κοινωνικής  και επιστημονικής ζωής, στην Κρήτη στην Ελλάδα και τον κόσμο. </desc>
   </programme>
-  <programme start="20240426000000 +0300" stop="20240426060000 +0300" channel="KΡHTH1">
+  <programme start="20240426000000 +0300" stop="20240426060000 +0300" channel="KPHTH1">
     <title lang="el">[K] ΚΡΗΤΗ1</title>
     <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
   </programme>
-  <programme start="20240426060000 +0300" stop="20240426120000 +0300" channel="KΡHTH1">
+  <programme start="20240426060000 +0300" stop="20240426120000 +0300" channel="KPHTH1">
     <title lang="el">[K] ΚΡΗΤΗ1</title>
     <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
   </programme>
-  <programme start="20240426120000 +0300" stop="20240426180000 +0300" channel="KΡHTH1">
+  <programme start="20240426120000 +0300" stop="20240426180000 +0300" channel="KPHTH1">
     <title lang="el">[K] ΚΡΗΤΗ1</title>
     <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
   </programme>
-  <programme start="20240426180000 +0300" stop="20240427000000 +0300" channel="KΡHTH1">
+  <programme start="20240426180000 +0300" stop="20240427000000 +0300" channel="KPHTH1">
     <title lang="el">[K] ΚΡΗΤΗ1</title>
     <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
   </programme>
@@ -17228,6 +17282,22 @@
     <title lang="el">[K8] Περιγράμματα </title>
     <desc lang="el">Εκπομπή.</desc>
   </programme>
+  <programme start="20240427000000 +0300" stop="20240427060000 +0300" channel="TELEKRHTH">
+    <title lang="el">[K] Tele ΚΡΗΤΗ</title>
+    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
+  </programme>
+  <programme start="20240427060000 +0300" stop="20240427120000 +0300" channel="TELEKRHTH">
+    <title lang="el">[K] Tele ΚΡΗΤΗ</title>
+    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
+  </programme>
+  <programme start="20240427120000 +0300" stop="20240427180000 +0300" channel="TELEKRHTH">
+    <title lang="el">[K] Tele ΚΡΗΤΗ</title>
+    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
+  </programme>
+  <programme start="20240427180000 +0300" stop="20240428000000 +0300" channel="TELEKRHTH">
+    <title lang="el">[K] Tele ΚΡΗΤΗ</title>
+    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
+  </programme>
   <programme start="20240427003000 +0300" stop="20240427060000 +0300" channel="KPHTH TV">
     <title lang="el">[K] ΚΡΗΤΗ TV</title>
     <desc lang="el">ΚΡΗΤΗ TV</desc>
@@ -17244,19 +17314,19 @@
     <title lang="el">[K] ΚΡΗΤΗ TV</title>
     <desc lang="el">ΚΡΗΤΗ TV</desc>
   </programme>
-  <programme start="20240427000000 +0300" stop="20240427060000 +0300" channel="KΡHTH1">
+  <programme start="20240427000000 +0300" stop="20240427060000 +0300" channel="KPHTH1">
     <title lang="el">[K] ΚΡΗΤΗ1</title>
     <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
   </programme>
-  <programme start="20240427060000 +0300" stop="20240427120000 +0300" channel="KΡHTH1">
+  <programme start="20240427060000 +0300" stop="20240427120000 +0300" channel="KPHTH1">
     <title lang="el">[K] ΚΡΗΤΗ1</title>
     <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
   </programme>
-  <programme start="20240427120000 +0300" stop="20240427180000 +0300" channel="KΡHTH1">
+  <programme start="20240427120000 +0300" stop="20240427180000 +0300" channel="KPHTH1">
     <title lang="el">[K] ΚΡΗΤΗ1</title>
     <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
   </programme>
-  <programme start="20240427180000 +0300" stop="20240428000000 +0300" channel="KΡHTH1">
+  <programme start="20240427180000 +0300" stop="20240428000000 +0300" channel="KPHTH1">
     <title lang="el">[K] ΚΡΗΤΗ1</title>
     <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
   </programme>
