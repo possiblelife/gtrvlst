@@ -8,75 +8,82 @@ https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 https://tv.rik.cy/live-tv/rik-sat/|webdig
 #EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - RIK SAT 
 https://tv.rik.cy/schedule/|webepg zoom=100 scroll=0,100
- 
 #EXTINF:-1 group-title="CYPRUS" tvg-id="rik1" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/rik-tv-1.original.png" tvg-website="http://cybc.com.cy/" ,RIK1 (OPTION 1)[ONLY FOR CYPRUS]
 http://l6.cloudskep.com/tvb6/rik1-1/mpeg.2ts
 #EXTINF:-1 group-title="CYPRUS" tvg-id="rik1" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/rik-tv-1.original.png" tvg-website="http://cybc.com.cy/" ,RIK1 (OPTION 1) -ALTERNATE[ONLY FOR CYPRUS]
 https://tv.rik.cy/live-tv/rik-1/|webdig
 #EXTINF:-1 group-title="CYPRUS" tvg-id="rik1" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/rik-tv-1.original.png" tvg-website="http://cybc.com.cy/" ,RIK1 (OPTION 2) (Click "PLAY VIDEO" between ads)
 http://www.anacon.org/app/chans/cy/rik1cyprus.php|webepg zoom=100 scroll=0,100
+#EXTINF:-1 group-title="CYPRUS" tvg-id="rik1"  tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/rik-tv-1.original.png" tvg-website="http://cybc.com.cy/" ,RIK1 (2)
+http://213.7.193.54:4000/play/a00a/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/879.60 (KHTML, like Gecko) Chrome/165.0.4608.907 Safari/879.60
 #EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - RIK1 
 https://tv.rik.cy/schedule/|webepg zoom=100 scroll=0,100
- 
 #EXTINF:-1 group-title="CYPRUS" tvg-id="rik2"  tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/rik-tv-2.original.png" tvg-website="http://cybc.com.cy/" ,RIK2 (OPTION 1)[ONLY FOR CYPRUS]
 http://l6.cloudskep.com/tvb6/rik2-1/mpeg.2ts
 #EXTINF:-1 group-title="CYPRUS" tvg-id="rik2"  tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/rik-tv-2.original.png" tvg-website="http://cybc.com.cy/" ,RIK2 (OPTION 1) -ALTERNATE[ONLY FOR CYPRUS]
 https://tv.rik.cy/live-tv/rik-2/|webdig
 #EXTINF:-1 group-title="CYPRUS" tvg-id="rik2"  tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/rik-tv-2.original.png" tvg-website="http://cybc.com.cy/" ,RIK2 (OPTION 2) (Click "PLAY VIDEO" between ads)
 http://www.anacon.org/app/chans/cy/rik2.php|webepg zoom=100 scroll=0,100
+#EXTINF:-1 group-title="CYPRUS" tvg-id="rik2"  tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/rik-tv-2.original.png" tvg-website="http://cybc.com.cy/" ,RIK2 (2)
+http://213.7.193.54:4000/play/a00b/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/879.60 (KHTML, like Gecko) Chrome/165.0.4608.907 Safari/879.60
 #EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - RIK2
 https://tv.rik.cy/schedule/|webepg zoom=100 scroll=0,100
- 
 #EXTINF:-1 group-title="CYPRUS" tvg-id="RIK HD" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/new_rik-hd-logo.original.png" tvg-website="http://cybc.com.cy/" ,RIK HD [ONLY FOR CYPRUS]
 http://l6.cloudskep.com/tvb6/rikhd1/mpeg.2ts
 #EXTINF:-1 group-title="CYPRUS" tvg-id="RIK HD" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/new_rik-hd-logo.original.png" tvg-website="http://cybc.com.cy/" ,RIK HD -ALTERNATE[ONLY FOR CYPRUS]
 https://tv.rik.cy/live-tv/rik-hd/|webdig
- 
+#EXTINF:-1 group-title="CYPRUS" tvg-id="RIK HD" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/new_rik-hd-logo.original.png" tvg-website="http://cybc.com.cy/" ,RIK HD (2)
+http://213.7.193.54:4000/play/a00e/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/879.60 (KHTML, like Gecko) Chrome/165.0.4608.907 Safari/879.60
 #EXTINF:-1 group-title="CYPRUS" tvg-id="Mega" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" tvg-website="http://www.omegatv.com.cy/" ,OMEGA (OPTION 1)
 http://l1.cloudskep.com/tst/omcy/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Mega" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" tvg-website="http://www.omegatv.com.cy/" ,OMEGA (OPTION 1) -ΕΝΑΛΛΑΚΤΙΚΟ 
 https://www.omegatv.com.cy/live/|weballdig
 #EXTINF:-1 group-title="CYPRUS" tvg-id="Mega" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" tvg-website="http://www.omegatv.com.cy/" ,OMEGA (OPTION 2) (Click "PLAY VIDEO" between ads)
 http://www.anacon.org/app/chans/cy/megacy.php|webepg zoom=100 scroll=0,100
+#EXTINF:-1 group-title="CYPRUS" tvg-id="Mega" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" tvg-website="http://www.omegatv.com.cy/" ,OMEGA (2)
+http://213.7.193.54:4000/play/a003/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/879.60 (KHTML, like Gecko) Chrome/165.0.4608.907 Safari/879.60
 #EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - OMEGA
 http://www.megatv.com.cy/cgibin/hweb?-V=megatvprogram&_FAA=1&-dmegatvprogramtod.html|webepg zoom=260 scroll=0,100
- 
 #EXTINF:-1 group-title="CYPRUS" tvg-id="Sigma" tvg-logo="http://i.imgur.com/BMvgdlc.png" tvg-website="https://www.sigmatv.com/home" ,Sigma (OPTION 1)
 https://sl3.sigmatv.com/hls/live.m3u8
 #EXTINF:-1 group-title="CYPRUS" tvg-id="Sigma" tvg-logo="http://i.imgur.com/BMvgdlc.png" tvg-website="https://www.sigmatv.com/home" ,Sigma (OPTION 2) (Click "PLAY VIDEO" between ads)
 http://www.anacon.org/app/chans/cy/sigma.php|webepg zoom=100 scroll=0,100
+#EXTINF:-1 group-title="CYPRUS" tvg-id="Sigma" tvg-logo="http://i.imgur.com/BMvgdlc.png" tvg-website="https://www.sigmatv.com/home" ,Sigma (2)
+http://213.7.193.54:4000/play/a006/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/879.60 (KHTML, like Gecko) Chrome/165.0.4608.907 Safari/879.60
 #EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - Sigma
 http://www.sigmatv.com/schedule|webepg zoom=100 scroll=0,100
- 
-
 #EXTINF:-1 group-title="CYPRUS"  tvg-id="Alpha Cyprus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" tvg-website="https://www.alphacyprus.com.cy/",Alpha (OPTION 1)
 https://www.alphacyprus.com.cy/live|weballdig
 #EXTINF:-1 group-title="CYPRUS"  tvg-id="Alpha Cyprus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" tvg-website="https://www.alphacyprus.com.cy/",Alpha (OPTION 2) (Click "PLAY VIDEO" between ads)
 http://www.anacon.org/app/chans/cy/alphacyprus.php|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - Alpha
 http://www.alphacyprus.com.cy/program|webepg zoom=100 scroll=0,100
- 
 #EXTINF:-1 group-title="CYPRUS"  tvg-id="ANT1" tvg-logo="https://goo.gl/q5aDRg" tvg-website="https://www.ant1live.com/" ,ANT1 (OPTION 1)
 https://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1 group-title="CYPRUS" tvg-id="ANT1" tvg-logo="https://goo.gl/q5aDRg" tvg-website="https://www.ant1live.com/" ,ANT1 (OPTION 1) - ALTERNATE
 https://www.ant1live.com/webtv/live|webdelayalldig
 #EXTINF:-1 group-title="CYPRUS" tvg-id="ANT1" tvg-logo="https://goo.gl/q5aDRg" tvg-website="https://www.ant1live.com/" ,ANT1 (OPTION 2) (Click "PLAY VIDEO" between ads)
 http://www.anacon.org/app/chans/cy/ant1cyprus.php|webepg zoom=100 scroll=0,100
+#EXTINF:-1 group-title="CYPRUS"  tvg-id="ANT1" tvg-logo="https://goo.gl/q5aDRg" tvg-website="https://www.ant1live.com/" ,ANT1 (2)
+http://213.7.193.54:4000/play/a003/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/879.60 (KHTML, like Gecko) Chrome/165.0.4608.907 Safari/879.60
 #EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - ANT1
 https://www.antenna.gr/tvguide|webepg zoom=100 scroll=0,100
- 
 #EXTINF:-1 group-title="CYPRUS" tvg-id="Capital" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" tvg-website="https://capitaltv.cy/" ,Capital (Click "PLAY VIDEO" between ads)
 http://www.anacon.org/app/chans/cy/capitalcyprus.php|webepg zoom=100 scroll=0,100
+#EXTINF:-1 group-title="CYPRUS" tvg-id="Capital" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" tvg-website="https://capitaltv.cy/" ,Capital
+http://213.7.193.54:4000/play/a009/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/879.60 (KHTML, like Gecko) Chrome/165.0.4608.907 Safari/879.60
 #EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - Capital
 https://www.cyta.com.cy/tv-guide/en|webepg zoom=100 scroll=0,100
- 
 #EXTINF:-1 group-title="CYPRUS" tvg-id="Extra TV" tvg-logo="https://i.ibb.co/K6qFWYF/ONE-CY.png" ,ONE Channel CY (Click "PLAY VIDEO" between ads)
 http://www.anacon.org/app/chans/cy/extracyimage.php|webepg zoom=100 scroll=0,100
+#EXTINF:-1 group-title="CYPRUS" tvg-id="Extra TV" tvg-logo="https://i.ibb.co/K6qFWYF/ONE-CY.png" ,ONE Channel CY
+http://213.7.193.54:4000/play/a008/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/879.60 (KHTML, like Gecko) Chrome/165.0.4608.907 Safari/879.60
 #EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - ONE Channel CY
 https://www.cyta.com.cy/tv-guide/en|webepg zoom=100 scroll=0,100
- 
 #EXTINF:-1 group-title="CYPRUS" tvg-id="Plus TV" tvg-logo="http://www.anacon.org/app/img/plus.jpg" ,Plus (Click "PLAY VIDEO" between ads)
 http://www.anacon.org/app/chans/cy/pluscy.php|webepg zoom=100 scroll=0,100
+#EXTINF:-1 group-title="CYPRUS" tvg-id="Plus TV" tvg-logo="http://www.anacon.org/app/img/plus.jpg" ,Plus
+http://213.7.193.54:4000/play/a007/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/879.60 (KHTML, like Gecko) Chrome/165.0.4608.907 Safari/879.60
 #EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - Plus
 https://www.cyta.com.cy/tv-guide/en|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="CYPRUS"  tvg-id="Berginacy" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fa28f343-2082-41e1-aa2d-2d7fbe1c7552-profile_image-300x300.png" tvg-website="https://verginatv.cy/" ,BERGINA ΤV
@@ -91,10 +98,14 @@ http://www.anacon.org/app/chans/cy/smilecy.html|weballdig
 http://www.smiletvcyprus.com/gr/index.php/program/monday|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="CYPRUS" tvg-id="ert" tvg-logo="https://goo.gl/DLhMC3" tvg-website="https://www.ertflix.gr" ,ERT WORLD
 https://ertflix.s.llnwi.net/ertlive/ertworldc/default/index.mpd
-
-
+#EXTINF:-1 group-title="CYPRUS" tvg-id="ert" tvg-logo="https://goo.gl/DLhMC3" tvg-website="https://www.ertflix.gr" ,ERT WORLD (2)
+http://213.7.193.54:4000/play/a00c/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/879.60 (KHTML, like Gecko) Chrome/165.0.4608.907 Safari/879.60
 #EXTINF:-1 group-title="WORLDWIDE"  tvg-id="Euronews" tvg-logo="https://goo.gl/QMXKek" tvg-website="https://gr.euronews.com/" ,EURONEWS (Youtube)
 https://www.youtube.com/embed/uWIhV9gQClg
+#EXTINF:-1 group-title="WORLDWIDE" tvg-id="Euronews" tvg-logo="https://goo.gl/QMXKek" tvg-website="https://gr.euronews.com/" ,EURONEWS (2)
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Euronews_Greece.m3u8
+#EXTINF:-1 group-title="WORLDWIDE" tvg-id="Euronews" tvg-logo="https://goo.gl/QMXKek" tvg-website="https://gr.euronews.com/" ,EURONEWS (3)
+http://213.7.193.54:4000/play/a00d/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/879.60 (KHTML, like Gecko) Chrome/165.0.4608.907 Safari/879.60
 #EXTINF:-1 group-title="WEBTV"  tvg-logo="http://www.anacon.org/app/img/faroscy.jpg" tvg-website="https://www.farosonair.com/" ,FAROS on Air
 https://s1.cystream.net/live/faros1/chunks.m3u8
 #EXTINF:-1 group-title="WEBTV"  tvg-logo="http://www.anacon.org/app/img/faroscy.jpg" tvg-website="https://www.farosonair.com/" ,FAROS on Air 2
