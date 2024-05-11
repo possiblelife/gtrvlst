@@ -437,12 +437,13 @@ https://www.cycinema.live/tainies/|webepg zoom=0 scroll=0,100
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="https://i.ibb.co/GkFkxGc/village.png" ,Village World
 https://ellastvmax.better-than.tv/freetv/village-world/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="https://i.ibb.co/CpjctT1/ionia.jpg" ,TV ΙΩΝΙΑ ΘΕΣΣΑΛΟΝΙΚΗΣ
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvioniathessalonikis.m3u8
+https://ssh101-fl.bozztv.com/ssh101/tvioniathess/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/13dba1e5-43a3-4969-8602-a7933593d574-profile_image-70x70.png" ,extacy TV HD
 https://www.twitch.tv/extacy_tv|webdig
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b1cb452f-5580-4c3c-b037-0e0e325bc9bc-profile_image-70x70.png" ,TV MONTAZ ΘΕΣΣΑΛΟΝΙΚΗΣ
 https://www.twitch.tv/tvmontazthessaloniki|webdig
-
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ibb.co/WpZD4Hx/plus-logo-mini-2.png" ,+Plus TV
+https://ssh101.bozztv.com/ssh101/plustvpatra/playlist.m3u8
 
 
 
