@@ -142,7 +142,7 @@ http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="BEST TV" tvg-logo="http://4.bp.blogspot.com/-CSt3UGbihus/U_D9TOsr3CI/AAAAAAAAZv4/z1L9SCenBKo/s1600/best_tv.png" tvg-website="https://best-tv.gr/" ,BEST TV (ΠΕΛΟΠΟΝΝΗΣΟΥ)
 https://besttv.siliconweb.com/bestTV/live_abr/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="BERGINA" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fa28f343-2082-41e1-aa2d-2d7fbe1c7552-profile_image-300x300.png" tvg-website="https://www.verginanews.gr/" ,ΒΕΡΓΙΝΑ ΤΗΛΕΟΡΑΣΗ (Κ. ΜΑΚΕΔΟΝΙΑΣ)
-https://www.verginanews.gr/web-tv-2/|webdig
+https://www.verginanews.gr/web-tv-2/|weballdig
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="BLUE SKY" tvg-logo="https://i.ibb.co/6YDnHwS/bluesky.jpg" tvg-website="https://blueskytv.gr/" ,BLUE SKY (ΑΤΤΙΚΗΣ)
 https://cdn1.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="CENTER ΤΗΛΕΟΡΑΣΗ" tvg-logo="https://centertv.gr/wp-content/uploads/2020/03/center-logo-2.png" tvg-website="https://centertv.gr/" ,Center TV (ΑΝ. ΜΑΚΕΔΟΝΙΑΣ ΚΑΙ ΘΡΑΚΗΣ)
