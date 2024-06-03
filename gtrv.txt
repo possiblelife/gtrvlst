@@ -623,7 +623,7 @@ https://www.rainews.it/notiziari/rainews24|webdig
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-id="Sky News" tvg-logo="https://www.survation.com/wp-content/uploads/2014/02/large-square-sky-news-logo.png"  tvg-website="https://news.sky.com/" ,Sky News (Youtube)
 https://www.youtube.com/embed/w9uJg68CV4g
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="http://tvnews.by/uploads/posts/2014-10/1413546329_World_Fashion.png"  tvg-website="https://wfc.tv/" ,World Fashion
-https://live-3.otcnet.ru/wfcenmulti/index.m3u8
+https://cdn.wfc.tv/cdn/stream-eng.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="https://yt3.ggpht.com/a/AATXAJwaWmLHZ72EHEUsEezcoP8chEPYRggZ9cIGgQ=s48-c-k-c0xffffffff-no-rj-mo"  ,Earth Views: Earth From Space Seen From The ISS (Youtube)
 https://www.youtube.com/embed/86YLFOog4GM
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="https://i.ibb.co/Jd6Q6Kg/NHK-World-Japan-II.png"  tvg-website="https://www3.nhk.or.jp/nhkworld/" ,NHK World Japan
