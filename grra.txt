@@ -945,6 +945,10 @@ https://sp1.19cloudsnetwork.gr:8022/stream
 http://s3.onweb.gr:8472/;listen.pls
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-logo="https://i.ibb.co/j4TrJFW/logo2-25-135753.png" ,Fun Radio 104.3
 https://solid9.streamupsolutions.com/proxy/wpgqrttp/stream 
+#EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΜΕΓΑΛΟΠΟΛΗ ΠΕΛΟΠΟΝΝΗΣΟΣ ====
+http://.....
+#EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-logo="https://i.ibb.co/T0HCdx6/rdj-105-logo-2022.jpg" ,Radio DJ 105
+http://89.38.98.85:8017/stream
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΝΑΥΠΛΙΟ ΠΕΛΟΠΟΝΝΗΣΟΣ ====
 http://.....
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/imargol1052.png" ,Ι.Μ. Αργολίδος 105.2
