@@ -32,24 +32,32 @@ http://www.anacon.org/app/chans/gr/ert3s2image.php|webepg zoom=100 scroll=0,100
 http://cdn1.smart-tv-data.com/vid/ert-3-hbbtv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1" tvg-logo="https://goo.gl/q5aDRg" tvg-website="https://watch.antennaplus.gr/#/" ,ANT1 HD (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
 https://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="Mega" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" tvg-website="https://www.megatv.com/" ,MEGA
-https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1" tvg-logo="https://goo.gl/q5aDRg" tvg-website="https://watch.antennaplus.gr/#/" ,ANT1 HD (1)
+http://cdn1.smart-tv-data.com/live/ant1/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="Mega" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" tvg-website="https://www.megatv.com/" ,MEGA HD
+https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="Mega" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" tvg-website="https://www.megatv.com/" ,MEGA HD (1)
 http://cdn1.smart-tv-data.com/mega/mega/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" tvg-website="https://www.skaitv.gr/" ,SKAI
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" tvg-website="https://www.skaitv.gr/" ,SKAI HD
 https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" tvg-website="https://www.skaitv.gr/" ,SKAI HD (1)
+http://cdn1.smart-tv-data.com/live/skai/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" tvg-website="https://www.skaitv.gr/" ,SKAI (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/gr/skaiimage.php|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" tvg-website="https://www.skaitv.gr/" ,SKAI (2)
 https://bit.ly/tv_skait
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="STAR" tvg-logo="https://i.ibb.co/7Gj7KTj/star.jpg" tvg-website="https://www.star.gr/tv" ,STAR HD
 http://livestar.siliconweb.com/media/star4/star4.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="STAR" tvg-logo="https://i.ibb.co/7Gj7KTj/star.jpg" tvg-website="https://www.star.gr/tv" ,STAR HD (1)
+http://cdn1.smart-tv-data.com/live/star/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="STAR" tvg-logo="https://i.ibb.co/7Gj7KTj/star.jpg" tvg-website="https://www.star.gr/tv" ,STAR (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/gr/streams1.php|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="STAR" tvg-logo="https://i.ibb.co/7Gj7KTj/star.jpg" tvg-website="https://www.star.gr/tv" ,STAR (2)
 https://bit.ly/tv_startvt
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" tvg-website="https://www.alphatv.gr/" ,ALPHA
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" tvg-website="https://www.alphatv.gr/" ,ALPHA HD
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" tvg-website="https://www.alphatv.gr/" ,ALPHA HD (1)
+http://cdn1.smart-tv-data.com/live/alpha/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" tvg-website="https://www.alphatv.gr/" ,ALPHA (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/gr/alphaimage.php|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" tvg-website="https://www.alphatv.gr/" ,ALPHA (2)
@@ -233,6 +241,7 @@ https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
 https://eu1.vectromdigital.com:1936/ort/ort/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ONE Channel" tvg-logo="https://i.imgur.com/yHiFVKK.jpg" tvg-website="https://onechannel.gr/" ,ONE TV (ΑΤΤΙΚΗΣ)
 http://push-int.siliconweb.com/one/stream/playlist.m3u8
+
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-logo="https://www.pellatv.gr/wp-content/themes/pellatv/images/pellatv.jpg" tvg-website="https://www.pellatv.gr/" ,Pella tv
 https://video.streams.ovh:1936/pellatv/pellatv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="PLP" tvg-logo="https://i.ibb.co/yNtDdjP/plp-tv.png" tvg-website="https://www.plptv.gr/" ,PLP
@@ -333,8 +342,10 @@ http://www.anacon.org/app/chans/cy/blueskycyprus.php|webepg zoom=100 scroll=0,10
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,===== ΔΙΑΔΙΚΤΥΑΚΑ ====
 http://.....
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"   tvg-id="ert-news" tvg-logo="https://files.app.ertflix.gr/files/channels/ertnews-logo-800x300-f2.png?m=resize&w=200&h=80" tvg-website="https://www.ertflix.gr" ,ΕΡΤ News WebTV
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"   tvg-id="ert-news" tvg-logo="https://files.app.ertflix.gr/files/channels/ertnews-logo-800x300-f2.png?m=resize&w=200&h=80" tvg-website="https://www.ertflix.gr" ,ΕΡΤ News
 https://ertflix.s.llnwi.net/ertlive/ertnews/default/index.mpd
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"   tvg-id="ert-news" tvg-logo="https://files.app.ertflix.gr/files/channels/ertnews-logo-800x300-f2.png?m=resize&w=200&h=80" tvg-website="https://www.ertflix.gr" ,ΕΡΤ News (1)
+http://cdn1.smart-tv-data.com/vid/ertnews/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="http://i.imgur.com/GdgekUL.png" ,TV FILOPOLI
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="http://www.anacon.org/app/img/eoe.jpg" ,EOE
