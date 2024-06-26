@@ -1681,7 +1681,7 @@ http://i3.streams.ovh:12214/;
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΔΙΑΔΙΚΤΥΑΚΑ ====
 http://.....
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/RbJdLfy/unnamed.png" ,Amigo Radio
-https://s42.radiolize.com/public/amigoradio_oh7dym/playlist.m3u
+https://s42.radiolize.com/radio/8050/radio.mp3
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/KFPDLKK/angels.png" ,Radio Angels 
 https://i9.streams.ovh/ic/radioang/stream
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/RYnLpd6/alepou.png" ,Alepou Web radio ... Λαϊκά και όχι ...μόνο
