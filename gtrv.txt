@@ -15,9 +15,9 @@ http://www.anacon.org/app/chans/gr/ert1s2image.php|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="https://i.ibb.co/Y71vkKs/ERT1.jpg" tvg-website="https://www.ertflix.gr" ,ΕΡΤ1 (1)
 https://kontaminis.kitsopoulos.xyz/ch1/tracks-v1a1/mono.m3u8|stream_headers={User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0&Referer=https://foothubhd.xyz/&Origin=https://foothubhd.xyz}
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="https://i.ibb.co/Y71vkKs/ERT1.jpg" tvg-website="https://www.ertflix.gr" ,ΕΡΤ1 (2)
-https://07-24.mizhls.ru/fls/cdn/JuM1oQFRcp/tracks-v1a1/mono.m3u8|stream_headers={User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0&Referer=https://lewblivehdplay.ru/&Origin=https://lewblivehdplay.ru}
+https://07-24.mizhls.ru/fls/cdn/ftk1/tracks-v1a1/mono.m3u8|stream_headers={User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36&Referer=https://claplivehdplay.ru/&Origin=https://claplivehdplay.ru}
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="https://i.ibb.co/Y71vkKs/ERT1.jpg" tvg-website="https://www.ertflix.gr" ,ΕΡΤ1 (3)
-https://ddy6.mizhls.ru/ddy6/premium774/tracks-v1a1/mono.m3u8|stream_headers={User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0&Referer=https://lewblivehdplay.ru/&Origin=https://lewblivehdplay.ru}
+https://foothubhd.live/cast/4/link1.php|webfulldig
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="https://i.ibb.co/Y71vkKs/ERT1.jpg" tvg-website="https://www.ertflix.gr" ,ΕΡΤ1 (4)
 https://foothubhd.xyz/cdn3/linkab.php|webfulldig
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert2" tvg-logo="https://i.ibb.co/c6gWKyh/ERT2.jpg" tvg-website="https://www.ertflix.gr" ,ΕΡΤ2 HD (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
