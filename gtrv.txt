@@ -439,7 +439,7 @@ https://ssh101-fl.bozztv.com/ssh101/relaxing/index.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="https://i.ibb.co/6mwSW6p/real-music.jpg" tvg-website="http://www.realmusic.gr/" ,Real Music TV
 https://webtv.topwebhost.gr:3302/stream/play.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://goo.gl/7tKqOl" ,ΤΗΛΕ ΜΟΥΣΙΚΗ
-http://wpso.com:1936/hls/music1.m3u8
+http://65.108.62.57:8080/live2/greekmusic.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/778.59 (KHTML, like Gecko) Chrome/166.0.9708.854 Safari/778.59
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://i.imgur.com/1Zl1OJ5.png" tvg-website="https://nrg91.gr/tv/" ,NRG TV
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="http://i.imgur.com/QZQhg6C.png" ,Magic TV
@@ -450,43 +450,28 @@ https://orange.live24.gr/orange9320
 https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://goo.gl/kkjOp4" tvg-website="https://www.zougla.gr" ,ΖΟΥΓΚΛΑ (ΕΝΑΛΛΑΚΤΙΚΟ)
 https://www.zougla.gr/live|webdig
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://4.bp.blogspot.com/-BjVgNNmExgo/WhMYN1dmDHI/AAAAAAAAXTY/TmPb086-0acq-FzrTVn7eNqLDF9BU7VvwCLcBGAs/s1600/xalastra%2Btv.jpg" ,Xalastra TV
-https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://cdn-profiles.tunein.com/s156926/images/logoq.jpg?t=154771" tvg-website="https://ngradio.gr/" ,NGRadio
-https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://reloadplay.com/wp-content/uploads/2017/04/logo-foto-tv-150x150.jpg" ,Load play
 https://web.onair-radio.eu/video/video/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://www.vibee.tv/wp-content/uploads/2019/10/logo_v2beat_page_small.jpg" tvg-website="https://www.vibee.tv/" ,V2Beat Live
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://i.ibb.co/Xk0tTzg/alithia-logo.jpg" tvg-website="https://www.alithia.gr/" ,Ράδιο TV Αλήθεια 
 https://www.alithia.gr/tv/live|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/4f0f7f5c-b2a6-4b85-b2b4-37bb02400357-profile_image-300x300.png" ,Greece Radio Dj & Tv
-https://www.twitch.tv/greeceradio|weballdig
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-id="panik-tv" tvg-logo="https://panikmusic.gr/wp-content/uploads/2020/03/logo-master1.png" tvg-website="https://panikmusic.gr/panik-tv/" ,Panik TV
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://www.choicewebtv.com/wp-content/uploads/2019/09/71299365_427385794427509_9043789451230183424_n-1.png" tvg-website="https://www.choicewebradio.com/v2/" ,Choice Web Radio
-https://vod.streams.ovh:3528/stream/play.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.ibb.co/WzGswsM/mgr.jpg" tvg-website="https://mgrtv.live/" ,MGR TV
-https://vod.streams.ovh:3876/stream/play.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.ibb.co/w7WtThP/euro.jpg" ,Eurodance 90
-https://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://klikfm.com.cy/template/img/logos/klikfmlogo.png" tvg-website="https://klikfm.com.cy/" ,Klik FM
 https://cdns.istoikona.com/klikfmcy/klikfmcyprus/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://nasostvradio.gr/wp-content/uploads/nasos-tv-radio.png" tvg-website="https://nasostvradio.gr/" ,Nasos TV  Radio
-https://eu1.vectromdigital.com:1936/radioeirhnh1/radioeirhnh1/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://nasostvradio.gr/wp-content/uploads/nasos-tv-radio.png" tvg-website="https://nasostv.com/" ,Nasos TV  Radio
+https://nasos.24hosting.gr:3580/live/nasoslive.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://goo.gl/RmY1lD" tvg-website="https://www.messinialive.gr/webtv/" ,MESSINIA WEB TV
 https://til.pp.ua:3303/live/messiniatvlive.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://i.ibb.co/M8V2wTc/EUROVISION-channel-03-1.jpg" ,Eurovision Channel
-http://hbbtvapp.ert.gr/stream.php/v/vid_ertnews2_mpeg.2ts
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://i.ibb.co/M8V2wTc/EUROVISION-channel-03-1.jpg" ,Eurovision Channel (2)
-http://cdn1.smart-tv-data.com/vid/ertnews2/playlist.m3u8
+
 
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,=====   ΠΑΙΔΙΚΑ   ====
 http://.....
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-id="smile"  tvg-logo="https://yt3.ggpht.com/-HQamnwjhf6M/AAAAAAAAAAI/AAAAAAAAAAA/RR0l9Otdjl4/s100-mo-c-c0xffffffff-rj-k-no/photo.jpg" tvg-website="https://www.smiletvcyprus.com/" ,Smile
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://i.ibb.co/Tv1hStJ/ertkids.jpg" ,ErtFlix Kids
-http://hbbtv.ert.gr/stream.php/v/vid_ertplay4_mpeg.2ts
+http://cdn1.smart-tv-data.com/vid/kidstv-hbbtv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://i.ibb.co/ZffXqv1/cartoons.png" ,Cartoons 1
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8?ads.did={PSID}&ads.dnt={TARGETOPT}&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}&ads.coppa=1
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://i.ibb.co/ZffXqv1/cartoons.png" ,Cartoons 2
