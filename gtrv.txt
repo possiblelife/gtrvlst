@@ -490,12 +490,10 @@ https://d24f739xdri8e.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://i.ibb.co/bz6DRxc/unnamed.jpg" ,Retro Cartoons 2
 https://bit.ly/retro_cartoon
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="http://tv.10dailythings.com/images/channels/GR/wb-kids/normal.png" ,WB KIDS
-http://ythls.onrender.com/channel/UCniI-BQk7qAtXNmmz40LSdg.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="http://tv.10dailythings.com/images/channels/GR/wb-kids/normal.png" ,WB KIDS (Youtube)
 https://www.youtube.com/@WBKidsInternational/videos|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://yt3.ggpht.com/hVpFyMI1aY-zEylSJo6WPD8-HoJfQZp14ZYp_HWNmG1azEakU5B1Qpsrh1OSXq5bYLKMJ_Jl=s48-c-k-c0x00ffffff-no-rj" tvg-website="https://www.zouzounia.tv/" ,Ζουζούνια live
-http://ythls.onrender.com/channel/UC9QSJuIBLUT2GbjgKymkTaQ.m3u8
+https://www.youtube.com/embed/u1esN8KDlnA
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://yt3.ggpht.com/hVpFyMI1aY-zEylSJo6WPD8-HoJfQZp14ZYp_HWNmG1azEakU5B1Qpsrh1OSXq5bYLKMJ_Jl=s48-c-k-c0x00ffffff-no-rj" tvg-website="https://www.zouzounia.tv/" ,ΑΓΑΠΗΜΕΝΑ ΠΑΙΔΙΚΑ ΤΡΑΓΟΥΔΙΑ με τα Ζουζούνια (Youtube)
 https://www.youtube.com/@zouzounia_tv/videos|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://yt3.ggpht.com/OrMWwr3M7vTvuR3JPCcslKZW7v2C-3IHzlatXzSIi7Vacbc9-MEVT9Mylwzb7MhecAzM9z5Cg6g=s48-c-k-c0x00ffffff-no-rj" ,Κλαψουλίνια (Youtube)
@@ -505,9 +503,9 @@ https://yt.nickstamp93.workers.dev/channel/UCtlth0w7_mYqpHPViMhQ99Q.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://static.wikia.nocookie.net/booba/images/0/06/Booba.jpeg/revision/latest/smart/width/250/height/250?cb=20201028192947" ,Booba
 https://ytlive.zazerconer.workers.dev/@Booba_Cartoon.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://assets.stickpng.com/images/59d62b903752880e93e16ebd.png" ,Paw Patrol
-https://www.youtube.com/watch?v=hA9r1CgqWas
+https://www.youtube.com/embed/GexFxBpgjNk
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://assets.stickpng.com/images/59d62b903752880e93e16ebd.png" ,Paw Patrol 2
-https://www.youtube.com/watch?v=yI3H8Dnrn9M
+https://www.youtube.com/embed/l_6pNRZi9KY
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Talking_Tom_2021.svg/revision/latest/scale-to-width-down/300?cb=20230804030228" ,Talking Tom
 https://ytlive.zazerconer.workers.dev/@TalkingTom.m3u8
 
@@ -517,8 +515,6 @@ http://.....
 http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-id="LYCHNOS" tvg-logo="https://goo.gl/pgniZC" tvg-website="http://i-m-patron.gr/lychnostv/" ,ΛΥΧΝΟC (ΠΕΛΟΠΟΝΝΗΣΟΥ)
 https://thor.mental-media.gr:19360/imp/imp.m3u8
-#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.ibb.co/sCKY5V8/pisti.jpg" ,ΠΙCΤΗ
-https://dev.aftermind.xyz/edge-hls/unitrust/pisti/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-logo="https://i.ibb.co/LxBRJ5G/ms-icon-310x310.png" tvg-website="https://www.wordofgod.gr/media/el" ,WORD OF GOD (YOUTUBE)
 https://www.youtube.com/@WordofGodGR/streams|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-logo="https://i.ibb.co/CBw4Pz5/images.png" ,Εκκλησία tv HD
@@ -526,7 +522,7 @@ https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-logo="https://yt3.ggpht.com/a/AATXAJxPN14nkBPdNoQAb5MQ_JJryWUhsyIXLJEOqg=s48-c-k-c0xffffffff-no-rj-mo" tvg-website="https://ecclesiatv.gr/" ,ecclesiaTV.gr
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/chunklist.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-logo="http://pemptousia.tv/assets/logo.png" tvg-website="http://pemptousia.tv/" ,ΠΕΜΠΤΟΥΣΙΑ TV
-https://svs.itworkscdn.net/pemptousialive/pemptousia.smil/playlist.m3u8
+https://www.youtube.com/embed/VCMlHLSYcic
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqNtX4z3Gyf7utZdbH2ndH6qFnwhZAieOE8F9-VUcw=s176-c-k-c0x00ffffff-no-rj" tvg-website="https://www.ekklisiaonline.gr/" ,ΕΚΚΛΗΣΙΑ Online (YOUTUBE)
 https://www.youtube.com/@ekklisiaonline/streams|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-logo="https://yt3.googleusercontent.com/Rm8PLT_78FNBlVKyRrg_ceh23gUnANIKCWzMYC5rxXc5ZKeW1PlpR3AcrEDArgnnDHvNQcUtZtg=s176-c-k-c0x00ffffff-no-rj" ,ΕΚΚΛΗΣΙΑ ONLINE NEWS LIVE (YOUTUBE)
@@ -546,7 +542,7 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Euronews_Gree
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="Al Jazeera English" tvg-logo="https://i.pinimg.com/originals/64/cd/32/64cd32bd821a9b3b020260b27f9b5cb4.png" tvg-website="https://www.aljazeera.com/" ,Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="RT" tvg-logo="https://yt3.ggpht.com/-rYFeIFqsCxg/AAAAAAAAAAI/AAAAAAAAAAA/lSsBZ4jxgsg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"  tvg-website="https://www.rt.com/" ,Russia Today
-https://rumble.com/live-hls-dvr/2td0fs/playlist.m3u8
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="https://yt3.ggpht.com/ytc/AOPolaSVBDOZ94rhLUbjD8_yFdE05mi8v-YaGPE_vE9miA=s48-c-k-c0x00ffffff-no-rj" tvg-website="https://www.france24.com/en/" ,FRANCE 24 (Youtube)
 https://www.youtube-nocookie.com/embed/live_stream?channel=UCQfwfsi5VrQ8yKZ-UWmAEFg&modestbranding=1
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png" tvg-website="https://edition.cnn.com/" ,CNN International
@@ -571,10 +567,8 @@ https://www.rainews.it/notiziari/rainews24|webdig
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="http://tvnews.by/uploads/posts/2014-10/1413546329_World_Fashion.png"  tvg-website="https://wfc.tv/" ,World Fashion
 https://cdn.wfc.tv/cdn/stream-eng.m3u8
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="https://yt3.ggpht.com/a/AATXAJwaWmLHZ72EHEUsEezcoP8chEPYRggZ9cIGgQ=s48-c-k-c0xffffffff-no-rj-mo"  ,Earth Views: Earth From Space Seen From The ISS (Youtube)
-https://www.youtube.com/embed/86YLFOog4GM
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="https://i.ibb.co/Jd6Q6Kg/NHK-World-Japan-II.png"  tvg-website="https://www3.nhk.or.jp/nhkworld/" ,NHK World Japan
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+https://cdn.nhkworld.jp/www11/nhkworld-tv/domestic/2003459/live.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="https://i.ibb.co/HCT7xgT/1537839003551.jpg" tvg-website="https://www.arirang.com/"  ,Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="https://cdn.marschannels.com/files/channel_settings/web/img/1648375713354.png" tvg-website="https://www.fashiontv.com/"  ,Fashion TV
