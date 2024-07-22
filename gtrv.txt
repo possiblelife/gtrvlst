@@ -462,7 +462,8 @@ https://cdns.istoikona.com/klikfmcy/klikfmcyprus/playlist.m3u8
 https://nasos.24hosting.gr:3580/live/nasoslive.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://goo.gl/RmY1lD" tvg-website="https://www.messinialive.gr/webtv/" ,MESSINIA WEB TV
 https://til.pp.ua:3303/live/messiniatvlive.m3u8
-
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://rythmos.com.au/wp-content/uploads/2017/09/logo_rythmos.png" tvg-website="https://rythmos.com.au/tv/" ,Rythmos TV
+https://5c389faa13be3.streamlock.net:9553/rythmos/rythmos/playlist.m3u8
 
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,=====   ΠΑΙΔΙΚΑ   ====
 http://.....
