@@ -220,7 +220,7 @@ http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="STAR B. ELLADOS" tvg-logo="http://www.anacon.org/app/img/starbe.jpg" tvg-website="https://www.startvfm.gr/" ,Star B. ΕΛΛΑΔΟΣ (ΑΝ. ΜΑΚΕΔΟΝΙΑΣ ΚΑΙ ΘΡΑΚΗΣ)
 http://www.startvfm.gr/live/|webdig
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="STAR K.E." tvg-logo="https://i.ibb.co/xgxqtQH/STAR-KE-id-5108.png" tvg-website="https://tvstar.gr/" ,Star ΚΕΝΤΡΙΚΗΣ ΕΛΛΑΔΑΣ (ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ)
-https://www.dailymotion.com/embed/video/k5Hfx6eeaTjBE5zRXcn?autoplay=1|webdelaydig$$delay=2
+https://www.dailymotion.com/embed/video/k5Hfx6eeaTjBE5zRXcn?autoplay=1|webdelaydig$$delay=1
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="STAR K.E." tvg-logo="https://i.ibb.co/xgxqtQH/STAR-KE-id-5108.png" tvg-website="https://tvstar.gr/" ,Star ΚΕΝΤΡΙΚΗΣ ΕΛΛΑΔΑΣ (backup) (ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ)
 https://digitalstar.gr/?utm_source=tvstargr&utm_medium=starke|webdelaydig$$delay=2
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="START TV" tvg-logo="https://goo.gl/fFjaAp" tvg-website="https://www.startmediacorfu.gr/" ,START (ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ)
