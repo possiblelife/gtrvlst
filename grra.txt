@@ -1680,6 +1680,9 @@ http://i3.streams.ovh:12214/;
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΔΙΑΔΙΚΤΥΑΚΑ ====
 http://.....
+
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/dcJFJ3s/logo-extacy.png" ,Extacy Radio
+https://premium.streams.gr:8013/stream 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/RbJdLfy/unnamed.png" ,Amigo Radio
 https://s42.radiolize.com/radio/8050/radio.mp3
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/KFPDLKK/angels.png" ,Radio Angels 
