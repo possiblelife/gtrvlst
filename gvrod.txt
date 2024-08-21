@@ -757,6 +757,3 @@ http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-online/%ce%bc%ce%ad%ce%bd%
 http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-2/%cf%83%cf%84%ce%b7-%cf%87%cf%8e%cf%81%ce%b1-%cf%84%ce%bf%cf%85-%ce%b3%ce%b9%ce%b1%cf%84%ce%af/|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="RIK1  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,Ποπ-Κορν
 http://cybc.com.cy/video-on-demand/%cf%81%ce%b9%ce%ba-2/%cf%80%ce%bf%cf%80-%ce%ba%ce%bf%cf%81%ce%bd/|webvod zoom=100 scroll=0,0
-
-#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΤΟ ΣΟΪ ΣΟΥ
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/to_soi_mou.txt
