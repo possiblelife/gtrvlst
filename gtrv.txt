@@ -406,7 +406,7 @@ https://www.cycinema.live/tainies/|webepg zoom=0 scroll=0,100
 https://ellastvmax.better-than.tv/freetv/village-world/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="https://i.ibb.co/CpjctT1/ionia.jpg" ,TV ΙΩΝΙΑ ΘΕΣΣΑΛΟΝΙΚΗΣ
 https://ssh101-fl.bozztv.com/ssh101/tvioniathess/playlist.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ibb.co/r56frpj/extacy.png" ,extacy TV HD
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ibb.co/bs7j4wR/extacy-tv-new-logo.png" ,extacy TV HD
 https://www.twitch.tv/extacy_tv|webdig
 
 
