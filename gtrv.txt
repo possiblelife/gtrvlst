@@ -398,6 +398,7 @@ https://ssh101-fl.bozztv.com/ssh101/diavatatvweb/index.m3u8
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ibb.co/1GFrZ9t/netmax2024latest.png" ,Netmax TV
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
+https://live.netmaxtv.com:1936/live/live/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="https://i.ibb.co/GQw16hx/STyrob9.jpg" ,Cinema Classics
 https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="https://www.cycinema.live/templates/itravel/images/logo.png" ,Κυπριακές Ταινίες
