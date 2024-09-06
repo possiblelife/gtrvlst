@@ -382,6 +382,8 @@ https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEq
 
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,=====   ΤΑΙΝΙΕΣ   ====
 http://.....
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ibb.co/bs7j4wR/extacy-tv-new-logo.png" ,extacy TV HD
+https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ibb.co/6Px7RPQ/dipolo.jpg" ,Dtv6 (Δίπολο TV)
 https://channel.streams.ovh:8081/dipolotv/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ibb.co/LkPLHWF/Screenshot-2024-05-23-163611.png" ,Δέλτα TV Θεσσαλονίκης
@@ -408,8 +410,7 @@ https://www.cycinema.live/tainies/|webepg zoom=0 scroll=0,100
 https://ellastvmax.better-than.tv/freetv/village-world/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="https://i.ibb.co/CpjctT1/ionia.jpg" ,TV ΙΩΝΙΑ ΘΕΣΣΑΛΟΝΙΚΗΣ
 https://ssh101-fl.bozztv.com/ssh101/tvioniathess/playlist.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ibb.co/bs7j4wR/extacy-tv-new-logo.png" ,extacy TV HD
-https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8
+
 
 
 
