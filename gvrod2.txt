@@ -6,7 +6,11 @@ http://.....
 https://www.alphatv.gr/web-tv/|webvod zoom=100 scroll=0,0
 
 
-#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2018-2019/SERIES/ELLHNIKES/SOI/THUMBNAILS/THUMB.jpg" ,ΤΟ ΣΟΪ ΣΟΥ (2014-2019)
+#EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2018-2019/SERIES/ELLHNIKES/SOI/THUMBNAILS/THUMB.jpg" tvg-website="Ιστορίες καθημερινής οικογενειακής τρέλας, θανατηφόρες ατάκες, παρεξηγήσεις, καυγάδες, γέλια, πείσματα, ζήλιες κι αγκαλιές.
+Αυτοί είναι οι Χαμπέοι και οι Τριαντάφυλλοι κι αυτό είναι ΤΟ ΣΟΪ ΣΟΥ! 
+
+Τη σκηνοθεσία υπογράφει ο Αντώνης Αγγελόπουλος και το σενάριο ο Νίκος Μήτσας η Δήμητρα Τσόλκα, o Γιώργος Κόκουβας και η Ζωή Κοΐβαρη.
+Παίζουν: Μίρκα Παπακωνσταντίνου, Ρένια Λουιζίδου, Παύλος Ορκόπουλος, Γιώργος Γιαννόπουλος, Βάσω Λασκαράκη, Μελέτης Ηλίας, Αλέξανδρος Μπουρδούμης, Ιωάννα Ασημακοπούλου, Βίβιαν Κοντομάρη, Γιάννης Δρακόπουλος, Σοφία Πανάγου, Σόλων Τσούνης, Γωγώ Καρτσάνα. " ,ΤΟ ΣΟΪ ΣΟΥ (2014-2019)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/to_soi_mou.txt
 #EXTINF:-1 group-title="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,Ο ΓΙΑΤΡΟΣ
 https://www.alphatv.gr/show/o-giatros/|webvod zoom=100 scroll=0,0
