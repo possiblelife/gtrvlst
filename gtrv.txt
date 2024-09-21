@@ -68,6 +68,8 @@ https://program.ert.gr/tvsports.asp|webview zoom=100 scroll=0,0
 https://odiehlsmslnew.akamaized.net/hls/live/2112246/odie3/odie_1000.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://i.ibb.co/hZyD1by/skai-hbb.png" tvg-website="https://www.skai.gr/tv/sports/" ,Skai Hybrid Live Αγώνες
 https://www.skai.gr/tv/sports/|webview zoom=100 scroll=0,100
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://i.ibb.co/hZyD1by/skai-hbb.png" tvg-website="https://www.skai.gr/tv/sports/" ,Skai Hybrid
+https://skai-live-sports.siliconweb.com/skai/livesport1/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://i.ibb.co/nnNBKPx/logo.png" tvg-website="https://monobala.gr/" ,monobala Live
 https://monobala.gr/category/web-tv/monobala-live/|webview zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://img.onesignal.com/t/aa4f01d5-1349-424d-9c50-6ccfcf20dd0d.png" tvg-website="https://www.tvopen.gr/livegames#" ,OPEN All Live Games
