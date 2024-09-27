@@ -112,7 +112,7 @@ https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=54284&showId=1426&year=
 https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=54343&showId=1426&year=2022|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",Το κλεμμένο χαλί
 https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=54358&showId=1426&year=2022|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν ύ",λληψη στα σύνορα
+#EXTINF:-1 group-title="Σεζόν 1",Συλληψη στα σύνορα
 https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=54394&showId=1426&year=2022|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",Ο δραπέτης
 https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=54395&showId=1426&year=2022|webvidfulldig
@@ -134,7 +134,7 @@ https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=54533&showId=1426&year=
 https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=54565&showId=1426&year=2022|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",Ο εραστής της μητέρας μου
 https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=54583&showId=1426&year=2022|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν η",μάδια κακοποίησης
+#EXTINF:-1 group-title="Σεζόν 1",Σημάδια κακοποίησης
 https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=54597&showId=1426&year=2022|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",Εξαφανισμένη γειτόνισσα
 https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=54609&showId=1426&year=2022|webvidfulldig
@@ -198,7 +198,7 @@ https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=55193&showId=1426&year=
 https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=55194&showId=1426&year=2023|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2",Τέσσερις μέρες αγωνίας
 https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=55276&showId=1426&year=2023|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν ύ",ντροφος με διπλή ταυτότητα
+#EXTINF:-1 group-title="Σεζόν 2",Συντροφος με διπλή ταυτότητα
 https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=55258&showId=1426&year=2023|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2",Η ενοχή του καθηγητή
 https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=55287&showId=1426&year=2023|webvidfulldig
@@ -230,7 +230,7 @@ https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=59097&showId=1426&year=
 https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=59098&showId=1426&year=2024|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 3",Η αδερφή μου και ο κρατούμενος
 https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=59099&showId=1426&year=2024|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν φ",ραγισμένα χείλη
+#EXTINF:-1 group-title="Σεζόν 3",Σφραγισμένα χείλη
 https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=59100&showId=1426&year=2024|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 3",Ο βανδαλισμός
 https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=59164&showId=1426&year=2024|webvidfulldig
@@ -266,7 +266,7 @@ https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=59440&showId=1426&year=
 https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=59441&showId=1426&year=2024|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 3",Αξέχαστο μπάτσελορ
 https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=59504&showId=1426&year=2024|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν υ",ζυγικά παραπτώματα
+#EXTINF:-1 group-title="Σεζόν 3",Συζυγικά παραπτώματα
 https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=59505&showId=1426&year=2024|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 3",Οι δίδυμοι
 https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=59506&showId=1426&year=2024|webvidfulldig
@@ -288,7 +288,7 @@ https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=59841&showId=1426&year=
 https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=59895&showId=1426&year=2024|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 3",Ο επικίνδυνος σύντροφος
 https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=59896&showId=1426&year=2024|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν τ",η βάση της πυραμίδας
+#EXTINF:-1 group-title="Σεζόν 3",Στη βάση της πυραμίδας
 https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=59897&showId=1426&year=2024|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 3",Το δίλημμα
 https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=59898&showId=1426&year=2024|webvidfulldig
@@ -304,7 +304,7 @@ https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=59970&showId=1426&year=
 https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=59971&showId=1426&year=2024|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 3",Το παιδί ανάμεσά μας
 https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=59972&showId=1426&year=2024|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν η",μάδια ζωής
+#EXTINF:-1 group-title="Σεζόν 3",Σημάδια ζωής
 https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=60030&showId=1426&year=2024|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 3",Αδερφική αντιζηλεία
 https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=60031&showId=1426&year=2024|webvidfulldig
@@ -322,7 +322,7 @@ https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=60110&showId=1426&year=
 https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=60130&showId=1426&year=2024|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 3",Θαμμένα μυστικά
 https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=60131&showId=1426&year=2024|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν υ",γκατοίκηση με την πεθερά
+#EXTINF:-1 group-title="Σεζόν 3",Συγκατοίκηση με την πεθερά
 https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=60180&showId=1426&year=2024|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 3",Τριανδρία
 https://www.alphatv.gr/show/amfivolies/?vtype=player&vid=60181&showId=1426&year=2024|webvidfulldig
