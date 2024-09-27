@@ -1,15 +1,13 @@
 #EXTINF:-1 group-title="Σεζόν 1",Επεισόδιο 1+2
 https://www.alphatv.gr/show/to-tatoyaz/?vtype=player&vid=13187&showId=104&year=2017|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",Επεισόδιο 4
-https://www.alphatv.gr/show/to-tatoyaz/?vtype=player&vid=13186&showId=104&year=2017|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",Επεισόδιο 3
 https://www.alphatv.gr/show/to-tatoyaz/?vtype=player&vid=13185&showId=104&year=2017|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",Επεισόδιο 6
-https://www.alphatv.gr/show/to-tatoyaz/?vtype=player&vid=13184&showId=104&year=2017|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Επεισόδιο 4
+https://www.alphatv.gr/show/to-tatoyaz/?vtype=player&vid=13186&showId=104&year=2017|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",Επεισόδιο 5
 https://www.alphatv.gr/show/to-tatoyaz/?vtype=player&vid=13183&showId=104&year=2017|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν  ",Τηλεταινία
-https://www.alphatv.gr/show/to-tatoyaz/?vtype=player&vid=13182&showId=104&year=2017|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Επεισόδιο 6
+https://www.alphatv.gr/show/to-tatoyaz/?vtype=player&vid=13184&showId=104&year=2017|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",Επεισόδιο 7
 https://www.alphatv.gr/show/to-tatoyaz/?vtype=player&vid=13181&showId=104&year=2017|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",Επεισόδιο 8
@@ -1044,4 +1042,6 @@ https://www.alphatv.gr/show/to-tatoyaz/?vtype=player&vid=38573&showId=104&year=2
 https://www.alphatv.gr/show/to-tatoyaz/?vtype=player&vid=38588&showId=104&year=2019|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2",Επεισόδιο 302
 https://www.alphatv.gr/show/to-tatoyaz/?vtype=player&vid=38589&showId=104&year=2019|webvidfulldig
+#EXTINF:-1 group-title="Τηλεταινία",Τηλεταινία
+https://www.alphatv.gr/show/to-tatoyaz/?vtype=player&vid=13182&showId=104&year=2017|webvidfulldig
 
