@@ -112,7 +112,7 @@ https://www.alphatv.gr/show/pame-paketo/?vtype=player&showId=834|webvod zoom=100
 #EXTINF:-1 group-title="SKAI" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== SKAI ====
 http://.....
 
-#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://i.ibb.co/2MdmBxK/skai.jpg" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.skaitv.gr/shows/seires|webvod zoom=100 scroll=0,0
 
 
