@@ -116,43 +116,46 @@ http://.....
 https://www.skaitv.gr/shows/seires|webvod zoom=100 scroll=0,0
 
 
-#EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/files/bahar/logos/bl_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/seires/bahar-kainourgia-archi/sezon-2023-2024#tab1" ,Bahar - Καινούργια Αρχή
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/files/bahar/logos/bl_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/seires/bahar-kainourgia-archi/sezon-2023-2024#tab1" ,Bahar - Καινούργια Αρχή (2023-2024)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/Bahar.txt
-#EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/pantheoir-landscape-new.jpg"  tvg-website="https://www.skai.gr/tv/show/seires/oi-pantheoi/sezon-2023-2024" ,Οι Πανθέοι
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/pantheoir-landscape-new.jpg"  tvg-website="https://www.skai.gr/tv/show/seires/oi-pantheoi/sezon-2023-2024" ,Οι Πανθέοι (2023-2024)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/pantheoi.txt
-#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Γλυκάνισος
-https://www.skaitv.gr/show/seires/glukanisos/sezon-2022-2023#tab1|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Στοργή
-https://www.skaitv.gr/show/seires/storgi/sezon-2022-2023#tab1|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Άγρια Γη
-https://www.skaitv.gr/show/seires/agria-gi/sezon-2022-2023#tab1|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Άπιστος
-https://www.skaitv.gr/show/seires/apistos/1os-kuklos#tab1|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,8 Λέξεις (2020-2021)
-https://www.skaitv.gr/show/seires/8-lexeis/2os-kuklos#tab1|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,8 Λέξεις (2019-2020)
-https://www.skaitv.gr/show/seires/8-lexeis/1os-kuklos#tab1|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Θα Γίνει Της Πολυκατοικίας(2019-2020)
-https://www.skaitv.gr/show/seires/tha-ginei-tis-polukatoikias/1os-kuklos#tab1|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Ώρα Για Φαγητό με την Αργυρώ(2020-2021)
-https://www.skaitv.gr/show/psuchagogia/ora-gia-fagito/sezon-2020-2021#tab1|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Happy Traveller(2020-2021)
-https://www.skaitv.gr/show/psuchagogia/happy-traveller/sezon-2020-2021#tab1|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Happy Traveller(2019-2020)
-https://www.skaitv.gr/show/psuchagogia/happy-traveller/sezon-2019-2020#tab1|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Happy Traveller(2018-2019)
-https://www.skaitv.gr/show/psuchagogia/happy-traveller/sezon-2018-2019#tab1|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Happy Traveller(2017-2018)
-https://www.skaitv.gr/show/psuchagogia/happy-traveller/sezon-2017-2018|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Happy Traveller(2016-2017)
-https://www.skaitv.gr/show/psuchagogia/happy-traveller/sezon-2016-2017#tab1#tab1|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Στην Υγειά μας ρε Παιδιά(2020-2021)
-https://www.skaitv.gr/show/psuchagogia/stin-ugeia-mas-re-paidia/sezon-2020-2021#tab1|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,Στην Υγειά μας ρε Παιδιά(2019-2020)
-https://www.skaitv.gr/show/psuchagogia/stin-ugeia-mas-re-paidia/sezon-2019-2020#tab1|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,My Style Rocks
-https://www.skaitv.gr/show/psuchagogia/my-style-rocks/sezon-2023-2024#tab1|webvod zoom=100 scroll=0,0
-
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/glykanisos_landscape_1.jpg" tvg-website="https://www.skai.gr/tv/show/seires/glukanisos/sezon-2022-2023" ,Γλυκάνισος (2022-2023)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/glikanisos.txt
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/storgi_landscape.jpg"  tvg-website="https://www.skai.gr/tv/show/seires/storgi/sezon-2022-2023" ,Στοργή (2022-2023)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/storgi.txt
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/agria_gi_landscape_1.jpg"  tvg-website="https://www.skai.gr/tv/show/seires/agria-gi/sezon-2022-2023" ,Άγρια Γη (2022-2023)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/agriagi.txt
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/1920x1080_8lexeis-b_1.jpg" tvg-website="https://www.skai.gr/tv/show/seires/8-lexeis/1os-kuklos" ,8 Λέξεις (2019-2021)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/8lexeis.txt
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/polykatoikia_1920x1080.jpg" tvg-website="https://www.skai.gr/tv/show/seires/tha-ginei-tis-polukatoikias/1os-kuklos" ,Θα Γίνει Της Πολυκατοικίας(2019-2020)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/polikatikias.txt
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/oragiafagito2.jpg"  tvg-website="https://www.skai.gr/tv/show/psuchagogia/ora-gia-fagito/sezon-2020-2021" ,Ώρα Για Φαγητό με την Αργυρώ(2020-2022)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ora-gia-fagito.txt
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/psixouli_landscape.jpg"  tvg-website="https://www.skai.gr/tv/show/psuchagogia/suntages-psuchis/archeio#tab1" ,Συνταγές Ψυχής(2020-2021)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/psuchis.txt
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/1920x1080_bletsas.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/happy-traveller/sezon-2016-2017" ,Happy Traveller(2016-2021)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/happy-traveller.txt
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/media_tv-editors/2022-fotos/202203/bbq_stories_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/bbq-stories/archeio#tab1" ,BBQ Stories(2021-2022)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/bbq-stories.txt
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/show/2024/savvato_me_filous/savvato_me_filous_l.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/sabbato-me-filous/sezon-2023-2024" ,Σάββατο με Φίλους (2023-2024)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/sabbato-me-filous.txt
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/2023_2024/souleimark_1280x720.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/souleimark-o-megaloprepis/sezon-2023-2024#tab8" ,Σουλεϊμάρκ ο Μεγαλοπρεπής
+https://www.skai.gr/tv/episode/psuchagogia/souleimark-o-megaloprepis/2023-12-22-21|webvidfulldig
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/files/my_style_rocks/2024_2025/logos/msr_land.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/my-style-rocks-bootcamp/sezon-2024-2025" ,My Style Rocks (2024-2025)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/my-style-rocks.txt
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/files/mom_cooks_better/2024_2025/logos/mama_land.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/i-mama-moy-mageireyei-kalytera-apo-ti-diki-soy/sezon-2024-2025" ,Η Μαμά μου Μαγειρεύει Καλύτερα από τη Δική σου (2024-2025)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/i-mama-moy.txt
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/files/survivor/logos/lianos_land.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/survivor/sezon-2024-2025" ,Survivor (2024-2025)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/survivor.txt
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/files/tempting_fortune/logos/tempting_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/tempting-fortune/sezon-2024-2025" ,Tempting Fortune (2024-2025)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/tempting_fortune.txt
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/files/power_of_love/logos/karavatou_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/power-of-love-2/sezon-2023-2024" ,Power of Love (2023-2024)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/power_of_love.txt
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/files/still_standing/logos/ss_land.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/still-standing/sezon-2024-2025" ,Still Standing (2023-2024)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/still-standing.txt
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/files/my_man_can/logos/fanis_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/my-man-can-2/sezon-2023-2024" ,My Man Can (2023-2024)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/my_man_can.txt
 
 
 #EXTINF:-1 group-title="MEGA" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== MEGA ====
