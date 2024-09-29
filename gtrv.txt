@@ -364,6 +364,8 @@ https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 https://livetv.streams.ovh:8081/lampsitv/index.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/Kr5YQQ6/Screenshot-2024-05-23-164254.png" ,BCI Adventure
 https://eu1.vectromdigital.com:1936/bciadventure/bciadventure/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://yt3.ggpht.com/AK0IDjoR2pT_B49E1iVo1WQMMueZvsJndZ9dgkJ9hML4FlFT4dvoBOPQ0fvtHQGKMr0NqRiW1A=s48-c-k-c0x00ffffff-no-rj" ,Γνωρίζοντας την Ελλάδα (Exploring GREECE)
+https://www.youtube.com/embed/xzdBItxiC-0
 
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,===== ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ ====
