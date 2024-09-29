@@ -265,8 +265,6 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/kati-t
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/kato-partali.txt
 #EXTINF:-1 group-title="MEGA" tvg-logo="https://www.megatv.com/wp-content/uploads/2009/10/3.png" tvg-website="https://www.megatv.com/ekpompes/42825/mega-sex-kleise-ta-matia-2/" ,Κλείσε τα Μάτια
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega-sex-kleise-ta-matia-2.txt
-#EXTINF:-1 group-title="MEGA" tvg-logo="https://www.megatv.com/wp-content/uploads/2008/08/ΛΑΤΡΕΜΕΝΟΙ-ΜΟΥ-ΓΕΙΤΟΝΕΣ-6.jpg" tvg-website="https://www.megatv.com/ekpompes/42963/latremenoi-mou-geitones/" ,Λατρεμένοι μου Γείτονες
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/latremenoi-mou-geitones.txt
 #EXTINF:-1 group-title="MEGA" tvg-logo="https://www.megatv.com/wp-content/uploads/2009/09/ΛΕΝΗ.jpg" tvg-website="https://www.megatv.com/ekpompes/43318/leni/" ,Λένη
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/leni.txt
 #EXTINF:-1 group-title="MEGA" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/09/ΜΑΥΡΑ-ΜΕΣΑΝΥΧΤΑ-2.jpg" tvg-website="https://www.megatv.com/ekpompes/43238/maura-mesanuxta/" ,Μαύρα Μεσάνυχτα
