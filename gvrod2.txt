@@ -335,97 +335,157 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ithuro
 
 #EXTINF:-1 group-title="ANT1" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ANT1 ====
 http://.....
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ANT1 ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
+https://www.antenna.gr/shows|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/b59f54ba-fe5a-462a-bf30-20d962234d49.jpg" tvg-website="https://www.antenna.gr/grandhotel/videos" ,GRAND HOTEL
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/grandhotel.txt
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/a354cf6a-d2cc-4c4c-b1e6-1d42a334778c.jpg" tvg-website="https://www.antenna.gr/kalimeraellada/videos" ,ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/kalimeraellada.txt
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/1b5ce3c6-76c1-4545-ab73-626297bed8ff.jpg" tvg-website="https://www.antenna.gr/enwpiosenwpiw/videos" ,ΕΝΩΠΙΟΣ ΕΝΩΠΙΩ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/enwpiosenwpiw.txt
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/63bcf867-9d2b-41ae-8228-aafed001bcbe.jpg" tvg-website="https://www.antenna.gr/proswpomeproswpo/videos" ,ΠΡΟΣΩΠΟ ΜΕ ΠΡΟΣΩΠΟ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/proswpomeproswpo.txt
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/3b667966-5a9f-497d-8225-dcf8e9b6368f.jpg" tvg-website="https://www.antenna.gr/toproino/videos" ,ΤΟ ΠΡΩΙΝΟ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/toproino.txt
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/ae328344-6da4-493d-9643-a2623ffcb689.jpg" tvg-website="https://www.antenna.gr/weekenders/videos" ,WEEKENDERS
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/weekenders.txt
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/252cddc3-f001-4252-b9d2-f6bd15594494.jpg" tvg-website="https://www.antenna.gr/theroadshow/videos" ,THE ROADSHOW
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/theroadshow.txt
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/3d45f17d-5333-4449-a6f7-c63b676e5898.jpg" tvg-website="https://www.antenna.gr/roukzouk/videos" ,ROUK ZOUK
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/roukzouk.txt
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/5a4196a3-8656-44de-8ef8-aff224ba7886.jpg" tvg-website="https://www.antenna.gr/5x5/videos" ,5X5
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/5x5.txt
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/b50447da-d390-4261-9f48-2c8286be732b.jpg" tvg-website="https://www.antenna.gr/ekatommyriouxos/videos" ,ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ;
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ekatommyriouxos.txt
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/64abf8aa-b2a0-408e-86fc-ba81e815892c.jpg" tvg-website="https://www.antenna.gr/the2nightshow/videos" ,THE 2NIGHT SHOW
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/the2nightshow.txt
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/a7f37bb0-898a-4614-aa84-89775ce1d720.jpg" tvg-website="https://www.antenna.gr/dragonsden/videos" ,DRAGONS’ DEN GREECE
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/dragonsden.txt
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/2a39b7d0-e535-47cb-a7d3-459131944763.jpg" tvg-website="https://www.antenna.gr/ygeia/videos" ,ΥΓΕΙΑ ΠΑΝΩ ΑΠ ΟΛΑ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ygeia.txt
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/eced7c04-4382-4a40-8aee-d3b7c3640070.jpg" tvg-website="https://www.antenna.gr/formula1show/videos" ,FORMULA 1 SHOW
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/formula1show.txt
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/8316870e-2f06-4107-8f6a-c59b72cbb6eb.jpg" tvg-website="https://www.antenna.gr/valeknorrkiegine/videos" ,ΒΑΛΕ KNORR, ΚΙ ΕΓΙΝΕ!
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/valeknorrkiegine.txt
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/3214a3bf-f825-4fb7-956f-af2908880d6c.jpg" tvg-website="https://www.antenna.gr/pantouyparxei/videos" ,ΠΑΝΤΟΥ ΥΠΑΡΧΕΙ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/pantouyparxei.txt
+#EXTINF:-1 group-title="ANT1" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/84762814-6d90-4345-8b04-8e2f8934672c.jpg" tvg-website="https://www.antenna.gr/bravenewgreece/videos" ,BRAVE NEW GREECE
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/bravenewgreece.txt
 
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
+
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://i.ibb.co/W588ZBc/ant1.png" ,==== ANT1 PLUS ====
+http://.....
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://i.ibb.co/W588ZBc/ant1.png" ,ANT1+ ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://watch.antennaplus.gr/#/series|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΠΑΓΙΔΕΥΜΕΝΟΙ
-https://www.antenna.gr/pagidevmenoi|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Daddy Cool
-https://watch.antennaplus.gr/#/shows/daddy_cool|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΑΓΓΙΓΜΑ ΨΥΧΗΣ
-https://watch.antennaplus.gr/#/shows/aggigma_psychis|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΑΓΡΙΕΣ ΜΕΛΙΣΣΕΣ
-https://watch.antennaplus.gr/#/shows/agries_melisses|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Άκρως Οικογενειακόν
-https://watch.antennaplus.gr/#/shows/akros_oikogeneiakon|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΑΝ ΗΜΟΥΝ ΠΛΟΥΣΙΟΣ
-https://watch.antennaplus.gr/#/shows/an_imoun_plousios|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Βαμένα κόκκινα μαλλιά
-https://watch.antennaplus.gr/#/shows/vammena_kokkina_mallia|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Βότκα Πορτοκάλι
-https://watch.antennaplus.gr/#/shows/votka_portokaliu|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Για μια γυναίκα κι ένα αυτοκίνητο
-https://watch.antennaplus.gr/#/shows/gia_mia_gynaika_kai_ena_aftokinito|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΓΥΝΑΙΚΑ ΧΩΡΙΣ ΟΝΟΜΑ
-https://watch.antennaplus.gr/#/shows/gynaika_choris_onoma|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΔΕΚΑ ΜΙΚΡΟΙ ΜΗΤΣΟΙ
-https://watch.antennaplus.gr/#/shows/deka_mikroi_mitsoi|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΔεΛηΓιαΝΝεΙΟ ΠαΡΘεΝαΓωΓειο
-https://watch.antennaplus.gr/#/shows/deligianneion_parthenagogeion|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΕΓΚΛΗΜΑΤΑ
-https://watch.antennaplus.gr/#/shows/egklimata|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΕΚΕΙΝΕΣ ΚΙ ΕΓΩ
-https://watch.antennaplus.gr/#/shows/ekeines_ki_ego|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Ελλάς το Μεγαλείο σου
-https://watch.antennaplus.gr/#/shows/ellas_to_megaleio_sou|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΕΡΓΑΖΟΜΕΝΗ ΓΥΝΑΙΚΑ
-https://vod.antenna.gr/#/shows/ergazomeni_gynaika/videos|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΕΡΩΤΑΣ ΚΛΕΦΤΗΣ
-https://watch.antennaplus.gr/#/shows/erotas_kleftis|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Η ΑΓΑΠΗ ΗΡΘΕ ΑΠΟ ΜΑΚΡΙΑ
-https://watch.antennaplus.gr/#/shows/i_agapi_irthe_apo_makria|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Η Γέφυρα
-https://watch.antennaplus.gr/#/shows/i_gefyra|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Η Πρόβα του νυφικού
-https://watch.antennaplus.gr/#/shows/i_prova_tou_nyfikou|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Η Φαμίλια
-https://watch.antennaplus.gr/#/shows/i_familia/seasons/1/episode/i_familia-season-1|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΗΛΙΟΣ
-https://watch.antennaplus.gr/#/shows/ilios|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΑΙ ΟΙ ΠΑΝΤΡΕΜΕΝΟΙ ΕΧΟΥΝ ΨΥΧΗ
-https://watch.antennaplus.gr/#/shows/kai_oi_pantremenoi_echoun_psychi|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Κάτι χωρισμένα παλικάρια
-https://watch.antennaplus.gr/#/shows/kati_xorismena_palikaria|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΘΑ ΒΡΕΙΣ ΤΟ ΔΑΣΚΑΛΟ ΣΟΥ
-https://watch.antennaplus.gr/#/shows/tha_vreis_to_daskalo_sou|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΙΩΑΝΝΑ ΤΗΣ ΚΑΡΔΙΑΣ
-https://watch.antennaplus.gr/#/shows/ioanna_tis_kardias|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΚΩΝΣΤΑΝΤΙΝΟΥ ΚΑΙ ΕΛΕΝΗΣ
-https://watch.antennaplus.gr/#/shows/konstantinou_kai_elenis|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΜΗ ΜΟΥ ΛΕΣ ΑΝΤΙΟ
-https://watch.antennaplus.gr/#/shows/mi_mou_les_antio|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΜΗΝ ΨΑΡΩΝΕΙΣ
-https://watch.antennaplus.gr/#/shows/min_psaroneis|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΜΠΡΟΥΣΚΟ
-https://watch.antennaplus.gr/#/shows/mprousko|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΟΙ ΜΕΝ ΚΑΙ ΟΙ ΔΕΝ
-https://watch.antennaplus.gr/#/shows/oi_men_kai_oi_den|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΟΙ ΣΤΑΒΛΟΙ ΤΗΣ ΕΡΙΕΤΑΣ ΖΑΪΜΗ
-https://watch.antennaplus.gr/#/shows/oi_stavloi_tis_erietas_zaimi|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Ο κίτρινος Φάκελος
-https://watch.antennaplus.gr/#/shows/o_kitrinos_fakelos|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Παρθένα Ζωή
-https://watch.antennaplus.gr/#/shows/parthena_zoi|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Παρουσιάστε
-https://watch.antennaplus.gr/#/shows/parousiaste|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΠΕΤΑ ΤΗ ΦΡΙΤΕΖΑ
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6424955:357:STILL:LANDSCAPE" ,Πέτα τη Φριτέζα (ANT1+)
 https://watch.antennaplus.gr/#/shows/peta_ti_friteza|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Σέρρες
-https://watch.antennaplus.gr/#/shows/serres|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Σμύρνη μου Αγαπημένη: Η Σειρά
-https://watch.antennaplus.gr/#/shows/smyrni_mou_agapimeni_i_seira|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΣΥΝΟΡΑ ΑΓΑΠΗΣ
-https://watch.antennaplus.gr/#/shows/synora_agapis|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ
-https://watch.antennaplus.gr/#/shows/tis_agapis_machairia|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΗΣ ΕΛΛΑΔΟΣ ΤΑ ΠΑΙΔΙΑ
-https://watch.antennaplus.gr/#/shows/tis_ellados_ta_paidia|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ΤΟ ΚΑΦΕ ΤΗΣ ΧΑΡΑΣ
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6430250:357:STILL:LANDSCAPE" ,Εγκλήματα (ANT1+)
+https://watch.antennaplus.gr/#/shows/egklimata|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6430252:357:STILL:LANDSCAPE" ,Το Kαφέ της Χαράς (ANT1+)
 https://watch.antennaplus.gr/#/shows/to_kafe_tis_charas|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Το Τρίτο Στεφάνι
-https://watch.antennaplus.gr/#/shows/to_trito_stefani|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,Φίλα τον Βάτραχό σου
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6430256:357:STILL:LANDSCAPE" ,Και οι Παντρεμένοι έχουν Ψυχή (ANT1+)
+https://watch.antennaplus.gr/#/shows/kai_oi_pantremenoi_echoun_psychi|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6430257:357:STILL:LANDSCAPE" ,Εκείνες κι εγώ (ANT1+)
+https://watch.antennaplus.gr/#/shows/ekeines_ki_ego|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6430251:357:STILL:LANDSCAPE" ,Οι Στάβλοι της Εριέτας Ζαΐμη (ANT1+)
+https://watch.antennaplus.gr/#/shows/oi_stavloi_tis_erietas_zaimi|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6430254:357:STILL:LANDSCAPE" ,Της Ελλάδος τα Παιδιά (ANT1+)
+https://watch.antennaplus.gr/#/shows/tis_ellados_ta_paidia|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6483981:357:STILL:LANDSCAPE" ,4xxx4 (ANT1+)
+https://watch.antennaplus.gr/#/shows/4xxx4|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6424942:357:STILL:LANDSCAPE" ,Παρουσιάστε (ANT1+)
+https://watch.antennaplus.gr/#/shows/parousiaste|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6523976:357:STILL:LANDSCAPE" ,Οι Συμμαθητές (ANT1+)
+https://watch.antennaplus.gr/#/shows/oi_symmathites|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6424945:357:STILL:LANDSCAPE" ,Δεληγιάννειον Παρθεναγωγείον (ANT1+)
+https://watch.antennaplus.gr/#/shows/deligianneion_parthenagogeion|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6430253:357:STILL:LANDSCAPE" ,Οι Μεν και οι Δεν (ANT1+)
+https://watch.antennaplus.gr/#/shows/oi_men_kai_oi_den|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6484692:357:STILL:LANDSCAPE" ,Παρθένα Ζωή (ANT1+)
+https://watch.antennaplus.gr/#/shows/parthena_zoi|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6430255:357:STILL:LANDSCAPE" ,Κωνσταντίνου και Ελένης (ANT1+)
+https://watch.antennaplus.gr/#/shows/konstantinou_kai_elenis|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6452901:357:STILL:LANDSCAPE" ,Η Φαμίλια (ANT1+)
+https://watch.antennaplus.gr/#/shows/i_familia|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6455471:357:STILL:LANDSCAPE" ,Άκρως Οικογενειακόν (ANT1+)
+https://watch.antennaplus.gr/#/shows/akros_oikogeneiakon|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6424947:357:STILL:LANDSCAPE" ,Φίλα τον Βάτραχό σου (ANT1+)
 https://watch.antennaplus.gr/#/shows/fila_ton_vatracho_sou|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6497342:357:STILL:LANDSCAPE" ,Ποιος Παπαδόπουλος; (ANT1+)
+https://watch.antennaplus.gr/#/shows/poios_papadopoulos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6424948:357:STILL:LANDSCAPE" ,Για μια γυναίκα κι ένα αυτοκίνητο (ANT1+)
+https://watch.antennaplus.gr/#/shows/gia_mia_gynaika_kai_ena_aftokinito|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6424949:357:STILL:LANDSCAPE" ,Ελλάς το Μεγαλείο σου (ANT1+)
+https://watch.antennaplus.gr/#/shows/ellas_to_megaleio_sou|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6497343:357:STILL:LANDSCAPE" ,Εκτός Υπηρεσίας (ANT1+)
+https://watch.antennaplus.gr/#/shows/ektos_ypiresias|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6424950:357:STILL:LANDSCAPE" ,Βότκα Πορτοκάλι (ANT1+)
+https://watch.antennaplus.gr/#/shows/votka_portokali|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6424951:357:STILL:LANDSCAPE" ,Αν Ήμουν Πλούσιος (ANT1+)
+https://watch.antennaplus.gr/#/shows/an_imoun_plousios|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6424952:357:STILL:LANDSCAPE" ,Daddy Cool (ANT1+)
+https://watch.antennaplus.gr/#/shows/daddy_cool|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6424953:357:STILL:LANDSCAPE" ,Θα Βρεις το Δάσκαλό σου (ANT1+)
+https://watch.antennaplus.gr/#/shows/tha_vreis_to_daskalo_sou|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6424954:357:STILL:LANDSCAPE" ,Δέκα Μικροί Μήτσοι (ANT1+)
+https://watch.antennaplus.gr/#/shows/deka_mikroi_mitsoi|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6486836:357:STILL:LANDSCAPE" ,Κάνε Γονείς να Δεις Καλό (ANT1+)
+https://watch.antennaplus.gr/#/shows/kane_goneis_na_deis_kalo|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6497979:357:STILL:LANDSCAPE" ,40 Κύματα (ANT1+)
+https://watch.antennaplus.gr/#/shows/40_kymmata|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6499313:357:STILL:LANDSCAPE" ,Ο Πόλεμος των Άστρων (ANT1+)
+https://watch.antennaplus.gr/#/shows/polemos_ton_astron|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6424976:357:STILL:LANDSCAPE" ,Της Αγάπης Μαχαιριά (ANT1+)
+https://watch.antennaplus.gr/#/shows/tis_agapis_machairia|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6430258:357:STILL:LANDSCAPE" ,Μπρούσκο (ANT1+)
+https://watch.antennaplus.gr/#/shows/mprousko|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6527992:357:STILL:LANDSCAPE" ,Η Μάγισσα (ANT1+)
+https://watch.antennaplus.gr/#/shows/i_magissa|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6424973:357:STILL:LANDSCAPE" ,Έρωτας Κλέφτης (ANT1+)
+https://watch.antennaplus.gr/#/shows/erotas_kleftis|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6442129:357:STILL:LANDSCAPE" ,Άγριες Μέλισσες (ANT1+)
+https://watch.antennaplus.gr/#/shows/agries_melisses|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6527991:357:STILL:LANDSCAPE" ,Παγιδευμένοι (ANT1+)
+https://watch.antennaplus.gr/#/shows/pagidevmenoi|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6493601:357:STILL:LANDSCAPE" ,Ιστορίες Μυστηρίου (ANT1+)
+https://watch.antennaplus.gr/#/shows/istories_mystiriou|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6424975:357:STILL:LANDSCAPE" ,Μη μου Λες Αντίο (ANT1+)
+https://watch.antennaplus.gr/#/shows/mi_mou_les_antio|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6424972:357:STILL:LANDSCAPE" ,Σύνορα Αγάπης (ANT1+)
+https://watch.antennaplus.gr/#/shows/synora_agapis|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6442124:357:STILL:LANDSCAPE" ,Ο Κίτρινος Φάκελος (ANT1+)
+https://watch.antennaplus.gr/#/shows/o_kitrinos_fakelos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6486116:357:STILL:LANDSCAPE" ,Η Εκδρομή (ANT1+)
+https://watch.antennaplus.gr/#/shows/i_ekdromi|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6486085:357:STILL:LANDSCAPE" ,Ανατομία Ενός Εγκλήματος (ANT1+)
+https://watch.antennaplus.gr/#/shows/anatomia_enos_egklimatos|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6487425:357:STILL:LANDSCAPE" ,Τμήμα Ηθών (ANT1+)
+https://watch.antennaplus.gr/#/shows/tmima_ithon|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6442123:357:STILL:LANDSCAPE" ,Το Τρίτο Στεφάνι (ANT1+)
+https://watch.antennaplus.gr/#/shows/to_trito_stefani|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6442130:357:STILL:LANDSCAPE" ,Άγγιγμα Ψυχής (ANT1+)
+https://watch.antennaplus.gr/#/shows/aggigma_psychis|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6424974:357:STILL:LANDSCAPE" ,Η Αγάπη Ήρθε από Μακριά (ANT1+)
+https://watch.antennaplus.gr/#/shows/i_agapi_irthe_apo_makria|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6455474:357:STILL:LANDSCAPE" ,Η Πρόβα του Νυφικού (ANT1+)
+https://watch.antennaplus.gr/#/shows/i_prova_tou_nyfikou|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6430259:357:STILL:LANDSCAPE" ,Ήλιος (ANT1+)
+https://watch.antennaplus.gr/#/shows/ilios|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6442125:357:STILL:LANDSCAPE" ,Βαμμένα Κόκκινα Μαλλιά (ANT1+)
+https://watch.antennaplus.gr/#/shows/vammena_kokkina_mallia|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6487051:357:STILL:LANDSCAPE" ,Ευτυχισμένες Μέρες (ANT1+)
+https://watch.antennaplus.gr/#/shows/eftychismenes_meres|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6527990:357:STILL:LANDSCAPE" ,Ο Πρώτος από Εμάς (ANT1+)
+https://watch.antennaplus.gr/#/shows/o_protos_apo_emas|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6497948:357:STILL:LANDSCAPE" ,Τρικυμία (ANT1+)
+https://watch.antennaplus.gr/#/shows/trikymia|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6498092:357:STILL:LANDSCAPE" ,Φιλί Ζωής (ANT1+)
+https://watch.antennaplus.gr/#/shows/fili_zois|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6497852:357:STILL:LANDSCAPE" ,Κάρμα (ANT1+)
+https://watch.antennaplus.gr/#/shows/karma|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6527993:357:STILL:LANDSCAPE" ,Έρωτας Φυγάς (ANT1+)
+https://watch.antennaplus.gr/#/shows/erotas_fygas|webvod zoom=100 scroll=0,0
+
 
 
 
