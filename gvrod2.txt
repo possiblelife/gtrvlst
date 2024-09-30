@@ -494,43 +494,43 @@ https://watch.antennaplus.gr/#/shows/erotas_fygas|webvod zoom=100 scroll=0,0
 http://.....
 #EXTINF:-1 group-title="OPEN" tvg-logo="https://parallaximag.gr/wp-content/uploads/2019/03/open-beyond-logo.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.tvopen.gr/shows|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="OPEN" tvg-logo="https:" tvg-website="https://www.tvopen.gr/anoixta/videos" ,Ανοιχτά
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/c986f91a-c9d7-456c-bc2b-7b9497558c50.jpg" tvg-website="https://www.tvopen.gr/anoixta/videos" ,Ανοιχτά
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/anoixta.txt
-#EXTINF:-1 group-title="OPEN" tvg-logo="https:oita" tvg-website="https://www.tvopen.gr/annitakoita/videos" ,Αννίτα Κοίτα
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/20668195-66ad-4a4d-b66d-b11a856c323e.jpg" tvg-website="https://www.tvopen.gr/annitakoita/videos" ,Αννίτα Κοίτα
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/annitakoita.txt
-#EXTINF:-1 group-title="OPEN" tvg-logo="https:lxhmeies" tvg-website="https://www.tvopen.gr/glykesalxhmeies/videos" ,Γλυκές αλχημείες
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/ba6d633b-1b48-406b-b9c9-e1d07145bba4.jpg" tvg-website="https://www.tvopen.gr/glykesalxhmeies/videos" ,Γλυκές αλχημείες
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/glykesalxhmeies.txt
-#EXTINF:-1 group-title="OPEN" tvg-logo="https:apaidia" tvg-website="https://www.tvopen.gr/giapantapaidia/videos" ,Για πάντα παιδιά
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/ad7c242b-aee4-451f-aa6f-a72c59c9d6d8.jpg" tvg-website="https://www.tvopen.gr/giapantapaidia/videos" ,Για πάντα παιδιά
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/giapantapaidia.txt
-#EXTINF:-1 group-title="OPEN" tvg-logo="https:soikogeneia" tvg-website="https://www.tvopen.gr/hdikhmasoikogeneia/videos" ,Η δική μας οικογένεια
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/688f3fbd-1e13-462f-a661-65924d593b0a.jpg" tvg-website="https://www.tvopen.gr/hdikhmasoikogeneia/videos" ,Η δική μας οικογένεια
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/hdikhmasoikogeneia.txt
-#EXTINF:-1 group-title="OPEN" tvg-logo="https:aiaora" tvg-website="https://www.tvopen.gr/hteleytaiaora/videos" ,Η τελευταία ώρα
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/71b55473-69aa-4a8a-9e73-9ac7c618e38c.jpg" tvg-website="https://www.tvopen.gr/hteleytaiaora/videos" ,Η τελευταία ώρα
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/hteleytaiaora.txt
-#EXTINF:-1 group-title="OPEN" tvg-logo="https:rachefmetonbaggelhdriska" tvg-website="https://www.tvopen.gr/kathemerachefmetonbaggelhdriska/videos" ,Κάθε μέρα chef με τον Βαγγέλη Δρίσκα
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/ab603085-59b3-48eb-ae1f-e386e019901e.jpg" tvg-website="https://www.tvopen.gr/kathemerachefmetonbaggelhdriska/videos" ,Κάθε μέρα chef με τον Βαγγέλη Δρίσκα
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/kathemerachefmetonbaggelhdriska.txt
-#EXTINF:-1 group-title="OPEN" tvg-logo="https:giadyo" tvg-website="https://www.tvopen.gr/koyzinagiadyo/videos" ,Κουζίνα για δύο
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/d80572b9-0fb1-4238-a69f-604184d6537c.jpg" tvg-website="https://www.tvopen.gr/koyzinagiadyo/videos" ,Κουζίνα για δύο
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/koyzinagiadyo.txt
-#EXTINF:-1 group-title="OPEN" tvg-logo="https:img src=" tvg-website="https://www.tvopen.gr/laba/videos" ,Λάβα
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/38f27ac0-ba73-4a39-9f80-9ae277962ffc.jpg" tvg-website="https://www.tvopen.gr/laba/videos" ,Λάβα
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/laba.txt
-#EXTINF:-1 group-title="OPEN" tvg-logo="https:me" tvg-website="https://www.tvopen.gr/osadeleme/videos" ,Όσα (δε) λέμε
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/73eef00e-08cf-4162-b6ae-88067d2be3f0.jpg" tvg-website="https://www.tvopen.gr/osadeleme/videos" ,Όσα (δε) λέμε
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/osadeleme.txt
-#EXTINF:-1 group-title="OPEN" tvg-logo="https:ifh" tvg-website="https://www.tvopen.gr/odoszarifh/videos" ,Οδός Ζαρίφη
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/8ea7587a-13f1-4a2c-9556-e61619fade76.jpg" tvg-website="https://www.tvopen.gr/odoszarifh/videos" ,Οδός Ζαρίφη
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/odoszarifh.txt
-#EXTINF:-1 group-title="OPEN" tvg-logo="https:o" tvg-website="https://www.tvopen.gr/otiagapo/videos" ,Ό,τι αγαπώ
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/eabf83e3-a331-49a6-95aa-fc322740251e.jpg" tvg-website="https://www.tvopen.gr/otiagapo/videos" ,Ό,τι αγαπώ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/otiagapo.txt
-#EXTINF:-1 group-title="OPEN" tvg-logo="https:seis" tvg-website="https://www.tvopen.gr/oyfoneyseis/videos" ,Ου φονεύσεις
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/6f9db47f-3755-43c2-8f06-7e199d338a60.jpg" tvg-website="https://www.tvopen.gr/oyfoneyseis/videos" ,Ου φονεύσεις
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/oyfoneyseis.txt
-#EXTINF:-1 group-title="OPEN" tvg-logo="https:pasthsfotias" tvg-website="https://www.tvopen.gr/oprigkipasthsfotias/videos" ,Ο πρίγκιπας της φωτιάς
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/d8a5fa67-3d84-4605-bb4b-9f78deb05456.jpg" tvg-website="https://www.tvopen.gr/oprigkipasthsfotias/videos" ,Ο πρίγκιπας της φωτιάς
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/oprigkipasthsfotias.txt
-#EXTINF:-1 group-title="OPEN" tvg-logo="https:byla" tvg-website="https://www.tvopen.gr/radioarbyla/videos" ,Ράδιο αρβύλα
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/529b4c27-3f60-43b5-9f8e-0dfdeece4280.jpg" tvg-website="https://www.tvopen.gr/radioarbyla/videos" ,Ράδιο αρβύλα
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/radioarbyla.txt
-#EXTINF:-1 group-title="OPEN" tvg-logo="https:a" tvg-website="https://www.tvopen.gr/sanpsema/videos" ,Σαν Ψέμα
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/37240326-3992-46a0-a2bd-3337cce1d58e.jpg" tvg-website="https://www.tvopen.gr/sanpsema/videos" ,Σαν Ψέμα
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/sanpsema.txt
-#EXTINF:-1 group-title="OPEN" tvg-logo="https:menalla" tvg-website="https://www.tvopen.gr/sagapaomenalla/videos" ,Σ' αγαπάω μεν... αλλά
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/b52a9670-473e-4e9c-961b-5ca23da8a76e.jpg" tvg-website="https://www.tvopen.gr/sagapaomenalla/videos" ,Σ' αγαπάω μεν... αλλά
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/sagapaomenalla.txt
-#EXTINF:-1 group-title="OPEN" tvg-logo="https:nopotamihsynexeia" tvg-website="https://www.tvopen.gr/tokokkinopotamihsynexeia/videos" ,Το κόκκινο ποτάμι - Η συνέχεια
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/055c6118-b512-439a-aaf6-d2500fb7b4bd.jpg" tvg-website="https://www.tvopen.gr/tokokkinopotamihsynexeia/videos" ,Το κόκκινο ποτάμι - Η συνέχεια
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/tokokkinopotamihsynexeia.txt
-#EXTINF:-1 group-title="OPEN" tvg-logo="https:nopotami" tvg-website="https://www.tvopen.gr/tokokkinopotami/videos" ,Το κόκκινο ποτάμι
+#EXTINF:-1 group-title="OPEN" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/56d13691-7555-451e-abea-bb4fbaffdc0f.jpg" tvg-website="https://www.tvopen.gr/tokokkinopotami/videos" ,Το κόκκινο ποτάμι
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/tokokkinopotami.txt
 
 
