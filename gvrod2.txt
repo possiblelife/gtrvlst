@@ -542,77 +542,58 @@ http://.....
 
 #EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.star.gr/tv/seires|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,IQ 160
-https://www.star.gr/tv/seires/iq-160|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,ΣΤΑ ΣΥΝΟΡΑ
-https://www.star.gr/tv/seires/sta-sunora|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,ΤΡΙΑ ΜΙΛΙΑ
-https://www.star.gr/tv/seires/tria-milia|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,ΕΡΩΤΑΣ ΜΕ ΔΙΑΦΟΡΑ
-https://www.star.gr/tv/seires/erotas-me-diafora/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,ΤΡΕΛΗ ΟΙΚΟΓΕΝΕΙΑ
-https://www.star.gr/tv/seires/treli-oikogeneia/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,Η ΜΑΜΑ ΛΕΙΠΕΙ ΤΑΞΙΔΙ ΓΙΑ ΔΟΥΛΕΙΕΣ
-https://www.star.gr/tv/seires/i-mama-leipei-taksidi-gia-douleies/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,ΖΩΗ ΜΟΥ...
-https://www.star.gr/tv/seires/zoi-mou/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,Ο ΑΝΤΡΑΣ ΤΩΝ ΟΝΕΙΡΩΝ ΜΟΥ
-https://www.star.gr/tv/seires/o-adras-ton-oneiron-mou/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,COOK BEEF
-https://www.star.gr/tv/psychagogia/cook-beef/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,MasterChef
-https://www.star.gr/tv/psychagogia/masterchef|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,MasterChef 6
-https://www.star.gr/tv/psychagogia/masterchef-2021-22|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,MasterChef 5
-https://www.star.gr/tv/psychagogia/masterchef-2020-21/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,MasterChef 4
-https://www.star.gr/tv/psychagogia/masterchef-2019-20/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,ΣΤΗ ΦΩΛΙΑ ΤΩΝ ΚΟΥ ΚΟΥ 2020-21
-https://www.star.gr/tv/psychagogia/sti-folia-ton-kou-kou-2020-21/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,ΣΤΗ ΦΩΛΙΑ ΤΩΝ ΚΟΥ ΚΟΥ 2019-20
-https://www.star.gr/tv/psychagogia/sti-folia-ton-kou-kou-2019-20/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,SHOPPING STAR
-https://www.star.gr/tv/psychagogia/shopping-star/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,SHOPPING STAR 2022-23
-https://www.star.gr/tv/psychagogia/shopping-star-2022-23|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,SHOPPING STAR 2021-22
-https://www.star.gr/tv/psychagogia/shopping-star-2021-22|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,SHOPPING STAR 2020-21
-https://www.star.gr/tv/psychagogia/shopping-star-2020-21/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,SHOPPING STAR 2019-20
-https://www.star.gr/tv/psychagogia/shopping-star-2019-20/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,ΤΡΟΧΟΣ ΤΗΣ ΤΥΧΗΣ
-https://www.star.gr/tv/psychagogia/trohos-tis-tuhis/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,ΤΡΟΧΟΣ ΤΗΣ ΤΥΧΗΣ 2022-23
-https://www.star.gr/tv/psychagogia/trohos-tis-tuhis-2022-23|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,ΤΡΟΧΟΣ ΤΗΣ ΤΥΧΗΣ 2021-22
-https://www.star.gr/tv/psychagogia/trohos-tis-tuhis-2021-22|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,ΤΡΟΧΟΣ ΤΗΣ ΤΥΧΗΣ 2020-21
-https://www.star.gr/tv/psychagogia/trohos-tis-tuhis-2020-21/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,ΤΡΟΧΟΣ ΤΗΣ ΤΥΧΗΣ 2019-20
-https://www.star.gr/tv/psychagogia/trohos-tis-tuhis-2019-20/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,STARS SYSTEM
-https://www.star.gr/tv/psychagogia/stars-system/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,COOK BEEF
-https://www.star.gr/tv/psychagogia/cook-beef/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,TRACTION
-https://www.star.gr/tv/psychagogia/traction/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,GREECE'S NEXT TOP MODEL 5
-https://www.star.gr/tv/psychagogia/greeces-next-top-model-5
-#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,GREECE'S NEXT TOP MODEL 4
-https://www.star.gr/tv/psychagogia/greeces-next-top-model-4/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,GREECE'S NEXT TOP MODEL 3
-https://www.star.gr/tv/psychagogia/greeces-next-top-model-3/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,GREECE'S NEXT TOP MODEL 2019-20
-https://www.star.gr/tv/psychagogia/greeces-next-top-model-2019-20/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,LIFE IS A BEACH
-https://www.star.gr/tv/psychagogia/life-is-a-beach/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,GLOBETROTTERS
-https://www.star.gr/tv/psychagogia/globetrotters/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="STAR" tvg-logo="https://goo.gl/z2xi2U" ,MONEY DROP
-https://www.star.gr/tv/psychagogia/moneydrop/|webvod zoom=100 scroll=0,0
-
+#EXTINF:-1 group-title="STAR" tvg-logo="https://www.star.gr/tv/images/287x382/png/files/seires/iq_160/season_2/final/iq_160-287x382-season2.png" tvg-website="https://www.star.gr/tv/seires/iq-160" ,IQ 160
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/iq-160.txt
+#EXTINF:-1 group-title="STAR" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/seires/sta_sunora/final/sta_synora-287x382a.jpg" tvg-website="https://www.star.gr/tv/seires/sta-sunora" ,ΣΤΑ ΣΥΝΟΡΑ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/sta-sunora.txt
+#EXTINF:-1 group-title="STAR" tvg-logo="https://www.star.gr/tv/images/287x382/1/jpg/files/seires%202021-22/erotas_me_diafora_s2_287x382.jpg" tvg-website="https://www.star.gr/tv/seires/erotas-me-diafora" ,ΕΡΩΤΑΣ ΜΕ ΔΙΑΦΟΡΑ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/erotas-me-diafora.txt
+#EXTINF:-1 group-title="STAR" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/seires/%CE%B7_%CE%BC%CE%B1%CE%BC%CE%B1_%CE%BB%CE%B5%CE%B9%CF%80%CE%B5%CE%B9_%CF%84%CE%B1%CE%BE%CE%B9%CE%B4%CE%B9_%CE%B3%CE%B9%CE%B1_%CE%B4%CE%BF%CF%85%CE%BB%CE%B5%CE%B9%CE%B5%CF%83-287x382.jpg" tvg-website="https://www.star.gr/tv/seires/i-mama-leipei-taksidi-gia-douleies" ,Η ΜΑΜΑ ΛΕΙΠΕΙ ΤΑΞΙΔΙ ΓΙΑ ΔΟΥΛΕΙΕΣ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/i-mama-leipei-taksidi-gia-douleies.txt
+#EXTINF:-1 group-title="STAR" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/300-O-ANTRAS-TON-ONEIRON-MOU.jpg" tvg-website="https://www.star.gr/tv/seires/o-adras-ton-oneiron-mou" ,Ο ΑΝΤΡΑΣ ΤΩΝ ΟΝΕΙΡΩΝ ΜΟΥ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/o-adras-ton-oneiron-mou.txt
+#EXTINF:-1 group-title="STAR" tvg-logo="https://www.star.gr/tv/images/287x382/2/jpg/files/monk_300x693.jpg" tvg-website="https://www.star.gr/tv/seires/detektiv-monk-monk" ,ΝΤΕΤΕΚΤΙΒ ΜΟΝΚ (MONK)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/detektiv-monk-monk.txt
+#EXTINF:-1 group-title="STAR" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/seires/the_closer/the_closer-287x382.jpg" tvg-website="https://www.star.gr/tv/seires/the-closer" ,THE CLOSER
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/the-closer.txt
+#EXTINF:-1 group-title="STAR" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/seires/ncis/season_17/ncis-s17-287x382.jpg" tvg-website="https://www.star.gr/tv/seires/ncis" ,NCIS
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ncis.txt
+#EXTINF:-1 group-title="STAR" tvg-logo="https://www.star.gr/tv/images/287x382/jpeg/files/farma/2024/temp/farma-2024-25-287x382-koutsopoulos-temp.jpeg" tvg-website="https://www.star.gr/tv/psychagogia/farma" ,ΦΑΡΜΑ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/farma.txt
+#EXTINF:-1 group-title="STAR" tvg-logo="https://www.star.gr/tv/images/287x382/png/files/breakfast_2024-25/final/breakfast_star_2024-25-640x736-finalb.png" tvg-website="https://www.star.gr/tv/psychagogia/breakfaststar" ,BREAKFAST@STAR
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/breakfaststar.txt
+#EXTINF:-1 group-title="STAR" tvg-logo="https://www.star.gr/tv/images/287x382/png/files/zina-2025/temporary/amtz_2024-25-287x382c-temp.png" tvg-website="https://www.star.gr/tv/psychagogia/alitheies-me-ti-zina" ,ΑΛΗΘΕΙΕΣ ΜΕ ΤΗ ΖΗΝΑ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/alitheies-me-ti-zina.txt
+#EXTINF:-1 group-title="STAR" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/shopping_star-2025/final/ss_2024-25-640x736-final-new.jpg" tvg-website="https://www.star.gr/tv/psychagogia/shopping-star" ,SHOPPING STAR
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/shopping-star.txt
+#EXTINF:-1 group-title="STAR" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/cash_or_trash/2024-25/final/cot_2024-25-640x736-final.jpg" tvg-website="https://www.star.gr/tv/psychagogia/cash-or-trash" ,CASH OR TRASH
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/cash-or-trash.txt
+#EXTINF:-1 group-title="STAR" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/ttt_2024-25/semifinal/ttt_2024-25-287x382-semifinal.jpg" tvg-website="https://www.star.gr/tv/psychagogia/trohos-tis-tuhis" ,ΤΡΟΧΟΣ ΤΗΣ ΤΥΧΗΣ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/trohos-tis-tuhis.txt
+#EXTINF:-1 group-title="STAR" tvg-logo="https://www.star.gr/tv/images/287x382/png/files/first_dates/2024/1st_look/first_dates-287x382.png" tvg-website="https://www.star.gr/tv/psychagogia/first-dates" ,FIRST DATES
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/first-dates.txt
+#EXTINF:-1 group-title="STAR" tvg-logo="https://www.star.gr/tv/images/287x382/png/files/stars_system-2024/1st_look/stars_system_2023-24-287x382.png" tvg-website="https://www.star.gr/tv/psychagogia/stars-system" ,STARS SYSTEM
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/stars-system.txt
+#EXTINF:-1 group-title="STAR" tvg-logo="https://www.star.gr/tv/images/287x382/2/jpg/files/2022-01-11/traction_2021-22/traction_300x690_21-22.jpg" tvg-website="https://www.star.gr/tv/psychagogia/traction" ,TRACTION
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/traction.txt
+#EXTINF:-1 group-title="STAR" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/zina_to_vradi/blue_background/zina_to_vradi-blue-287x382.jpg" tvg-website="https://www.star.gr/tv/psychagogia/zina-to-vradu" ,ΖΗΝΑ ΤΟ ΒΡΑΔΥ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/zina-to-vradu.txt
+#EXTINF:-1 group-title="STAR" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/oi_100/2022-23/oi_100-287x382-2022-23.jpg" tvg-website="https://www.star.gr/tv/psychagogia/oi-100" ,ΟΙ 100
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/oi-100.txt
+#EXTINF:-1 group-title="STAR" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/mc8-2024/final/mc-287x382_px_1.jpg" tvg-website="https://www.star.gr/tv/psychagogia/masterchef" ,MasterChef
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/masterchef.txt
+#EXTINF:-1 group-title="STAR" tvg-logo="https://www.star.gr/tv/images/287x382/3/jpg/files/master_chef_junior_300x690b.jpg" tvg-website="https://www.star.gr/tv/psychagogia/masterchef-junior" ,MasterChef Junior
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/masterchef-junior.txt
+#EXTINF:-1 group-title="STAR" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/apostoli/apostoli-287x382b.jpg" tvg-website="https://www.star.gr/tv/psychagogia/apostoli" ,ΑΠΟΣΤΟΛΗ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/apostoli.txt
+#EXTINF:-1 group-title="STAR" tvg-logo="https://www.star.gr/tv/images/287x382/1/jpg/files/%CF%88%CF%85%CF%87%CE%B1%CE%B3%CF%89%CE%B3%CE%B9%CE%B1_2021-22/cook_beef_21-22/cook_beef_1920x1004a_new.jpg" tvg-website="https://www.star.gr/tv/psychagogia/cook-beef" ,COOK BEEF
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/cook-beef.txt
+#EXTINF:-1 group-title="STAR" tvg-logo="https://www.star.gr/tv/images/287x382/4/jpg/files/KOUKOU_300x690.jpg" tvg-website="https://www.star.gr/tv/psychagogia/sti-folia-ton-kou-kou-2019-20" ,ΣΤΗ ΦΩΛΙΑ ΤΩΝ ΚΟΥ ΚΟΥ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/sti-folia-ton-kou-kou.txt
+#EXTINF:-1 group-title="STAR" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/gntm5/gntm_5-287x382b-final.jpg" tvg-website="https://www.star.gr/tv/psychagogia/greeces-next-top-model-5" ,GREECE'S NEXT TOP MODEL
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/greeces-next-top-model.txt
+#EXTINF:-1 group-title="STAR" tvg-logo="https://www.star.gr/tv/images/287x382/2/jpg/files/Globe_Trotters_300x690.jpg" tvg-website="https://www.star.gr/tv/psychagogia/globetrotters" ,GLOBETROTTERS
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/globetrotters.txt
 
 
 
