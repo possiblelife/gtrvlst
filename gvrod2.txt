@@ -825,6 +825,20 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/asemas
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/sanoikogeneia.txt
 #EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/mavra_mathkia.jpg?itok=zIMKNLV9" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/tamavramathkia/webtv" ,ΤΑ ΜΑΥΡΑ ΜΑΘΚΙΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/tamavramathkia.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/christianaaristostelous-3.jpg?itok=364xofsL" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv" ,ΜΕ ΑΓΑΠΗ ΧΡΙΣΤΙΑΝΑ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/meagapichristiana.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/louis-4.jpg?itok=UD6JhVK-" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv" ,ΛΟΥΗΣ NIGHT SHOW
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/louisnightshow.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/paradosiaki-4.jpg?itok=RrWsBqY7" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/paradosiakivradia/webtv" ,ΠΑΡΑΔΟΣΙΑΚΗ ΒΡΑΔΙΑ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/paradosiakivradia.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/temp-header-web_1.jpg?itok=wtQZ5QQq" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv" ,DEAL
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/deal.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/temp-header-web.jpg?itok=D52P3lxp" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/poiosrwtaei/webtv" ,ΠΟΙΟΣ ΡΩΤΑΕΙ;
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/poiosrwtaei.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/tetatet.jpg?itok=155jiGKa" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv" ,ΤΕΤ-Α-ΤΕΤ ΣΤΟΝ ALPHA
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/tetatet.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/secretsong.jpg?itok=I10wtvn4" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/thesecretsong/webtv" ,THE SECRET SONG
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/thesecretsong.txt
 #EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/Just%20the%202%20of%20Us.jpg?itok=s2FrP38l" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/j2us/webtv" ,JUST THE 2 OF US
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/j2us.txt
 #EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/tippingpoint.jpg?itok=w-7dHSFd" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/tippingpoint/webtv" ,TIPPING POINΤ
