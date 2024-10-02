@@ -743,62 +743,91 @@ http://.....
 
 #EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.alphacyprus.com.cy/shows/ellinikes-seires|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΑΥΤΗ Η ΝΥΧΤΑ ΜΕΝΕΙ
-https://www.alphacyprus.com.cy/shows/ellinikes-seires/nyxta/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,Ο ΠΑΡΑΔΕΙΣΟΣ ΤΩΝ ΚΥΡΙΩΝ
-https://www.alphacyprus.com.cy/shows/ellinikes-seires/paradeisos/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,Η ΓΗ ΤΗΣ ΕΛΙΑΣ
-https://www.alphacyprus.com.cy/shows/ellinikes-seires/igitiselias/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΣΑΣΜΟΣ 
-https://www.alphacyprus.com.cy/shows/ellinikes-seires/sasmos/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΑΣΕ ΜΑΣ ΡΕ ΜΑΜΑ
-https://www.alphacyprus.com.cy/shows/ellinikes-seires/asemasremama/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΑΓΓΕΛΙΚΗ
-https://www.alphacyprus.com.cy/shows/ellinikes-seires/aggeliki/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΚΑΜΠΙΝΓΚ
-https://www.alphacyprus.com.cy/shows/ellinikes-seires/camping/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,8 ΛΕΞΕΙΣ
-https://www.alphacyprus.com.cy/shows/ellinikes-seires/8lexeis/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΕΛΑ ΣΤΗ ΘΕΣΗ ΜΟΥ
-https://www.alphacyprus.com.cy/shows/ellinikes-seires/elastithesimou/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΑΣΤΕΡΙΑ ΣΤΗΝ ΑΜΜΟ
-https://www.alphacyprus.com.cy/shows/ellinikes-seires/asteriastinammo/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗ ΜΟΥΡΜΟΥΡΑ
-https://www.alphacyprus.com.cy/shows/ellinikes-seires/mourmoura/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΚΑΡΜΑ
-https://www.alphacyprus.com.cy/shows/ellinikes-seires/karma/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΕΡΩΤΑΣ ΜΕΤΑ
-https://www.alphacyprus.com.cy/index.php/shows/ellinikes-seires/erwtasmeta/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,Η ΦΑΜΙΛΙΑ
-https://www.alphacyprus.com.cy/shows/ellinikes-seires/familia/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΟΙΚΟΓΕΝΕΙΑΚΕΣ ΙΣΤΟΡΙΕΣ
-https://www.alphacyprus.com.cy/shows/ellinikes-seires/oikogeneiakesistories/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΓΥΝΑΙΚΑ ΧΩΡΙΣ ΟΝΟΜΑ
-https://www.alphacyprus.com.cy/shows/ellinikes-seires/gynaikaxwrisonoma/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΤΟ ΣΟΪ ΣΟΥ
-https://www.alphacyprus.com.cy/shows/ellinikes-seires/tosoisou/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΣΠΙΤΙ ΕΙΝΑΙ
-https://www.alphacyprus.com.cy/shows/ellinikes-seires/spitieinai/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΜΠΛΕ
-https://www.alphacyprus.com.cy/shows/ellinikes-seires/mple|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΚΡΑΤΑΣ ΜΥΣΤΙΚΟ;
-https://www.alphacyprus.com.cy/shows/ellinikes-seires/kratasmystiko/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΤΑ 16 ΓΡΑΜΜΑΤΑ
-https://www.alphacyprus.com.cy/shows/ellinikes-seires/16grammata/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΚΟΚΚΙΝΟ ΝΥΦΙΚΟ
-https://www.alphacyprus.com.cy/shows/ellinikes-seires/kokkinonyfiko/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΤΟ ΤΑΤΟΥΑΖ
-https://www.alphacyprus.com.cy/shows/ellinikes-seires/totatouaz/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΠΑΡΑΜΥΘΙ... ΑΛΛΙΩΣ
-https://www.alphacyprus.com.cy/index.php/shows/ellinikes-seires/paramythiallios/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,Η ΛΕΞΗ ΠΟΥ ΔΕ ΛΕΣ
-https://www.alphacyprus.com.cy/shows/ellinikes-seires/ileksipoudenles/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΜΕ ΑΓΑΠΗ ΧΡΙΣΤΙΑΝΑ
-https://www.alphacyprus.com.cy/index.php/shows/entertainment/meagapichristiana/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,THE CHASE
-https://www.alphacyprus.com.cy/shows/entertainment/thechase/webtv|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΛΟΥΗΣ NIGHT SHOW
-https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/ae.jpg?itok=54PmyZyP" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/agioserotas/webtv" ,ΑΓΙΟΣ ΕΡΩΤΑΣ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/agioserotas.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/GITISELIAS_0.jpg?itok=lV1cnXFi" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/igitiselias/webtv" ,Η ΓΗ ΤΗΣ ΕΛΙΑΣ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/igitiselias.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/temp-header-web_4.jpg?itok=uo5z4Pmj" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/taboo/webtv" ,ΤΑΜΠΟΥ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/taboo.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/temp-header-web_2.jpg?itok=TLc7jfC8" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/timoros/webtv" ,Ο ΤΙΜΩΡΟΣ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/timoros.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/famagusta.jpg?itok=00ijKr38" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/famagusta/webtv" ,FAMAGUSTA
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/famagusta.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/o%20giatros-web.jpg?itok=-bq52_zr" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/ogiatros/webtv" ,Ο ΓΙΑΤΡΟΣ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ogiatros.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/amfivolies.jpg?itok=dYjLyjEx" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/amfivolies/webtv" ,ΑΜΦΙΒΟΛΙΕΣ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/amfivolies.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/webtv-oikogeneiakes-istories.jpg?itok=8k6oPWfa" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/oikogeneiakesistories/webtv" ,ΟΙΚΟΓΕΝΕΙΑΚΕΣ ΙΣΤΟΡΙΕΣ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/oikogeneiakesistories.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/sasmos_0.jpg?itok=abYmVahQ" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/sasmos/webtv" ,ΣΑΣΜΟΣ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/sasmos.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/paradeisos_0.jpg?itok=kOggyduf" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/paradeisos/webtv" ,Ο ΠΑΡΑΔΕΙΣΟΣ ΤΩΝ ΚΥΡΙΩΝ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/paradeisos.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/toproxenio-2.jpg?itok=r6SPWxQF" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/toproxeniotisioulias/webtv" ,ΤΟ ΠΡΟΞΕΝΙΟ ΤΗΣ ΙΟΥΛΙΑΣ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/toproxeniotisioulias.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/%CE%A3%CE%9A%CE%91%CE%A1%CE%91%CE%92%CE%91%CE%99%CE%9F%CE%A3%20%282%29%20._1.jpg?itok=HcSgsGhK" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/skaravaios/webtv" ,Ο ΣΚΑΡΑΒΑΙΟΣ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/skaravaios.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/murmura-2_0.jpg?itok=th8qEubB" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/mourmoura/webtv" ,ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗ ΜΟΥΡΜΟΥΡΑ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/mourmoura.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/fonoi-1_0.jpg?itok=NKBOzQ0n" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/fonoistokabanario/webtv" ,ΦΟΝΟΙ ΣΤΟ ΚΑΜΠΑΝΑΡΙΟ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/fonoistokabanario.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/karma%20revised.png?itok=UoDwkJsK" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/karma/webtv" ,ΚΑΡΜΑ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/karma.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/nyxta.jpg?itok=zv49zFja" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/nyxta/webtv" ,ΑΥΤΗ Η ΝΥΧΤΑ ΜΕΝΕΙ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/nyxta.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/camping_1.jpg?itok=gtyM7Irz" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/camping/webtv" ,ΚΑΜΠΙΝΓΚ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/camping.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/aggeliki.jpg?itok=ZuYvJkTk" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/aggeliki/webtv" ,ΑΓΓΕΛΙΚΗ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/aggeliki.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/8-lexeis.jpg?itok=b-8NH2NR" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/8lexeis/webtv" ,8 ΛΕΞΕΙΣ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/8lexeis.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/thesi-4.jpg?itok=LzF4Jw4u" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/elastithesimou/webtv" ,ΕΛΑ ΣΤΗ ΘΕΣΗ ΜΟΥ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/elastithesimou.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/Accordion-image-2.jpg?itok=pmiasFj9" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/asteriastinammo/webtv" ,ΑΣΤΕΡΙΑ ΣΤΗΝ ΑΜΜΟ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/asteriastinammo.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/%CE%95%CE%A1%CE%A9%CE%A4%CE%91%CE%A3-2.jpg?itok=SgXS97C7" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/erwtasmeta/webtv" ,ΕΡΩΤΑΣ ΜΕΤΑ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/erwtasmeta.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/accordion-1_12.jpg?itok=elydYU0P" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/familia/webtv" ,Η ΦΑΜΙΛΙΑ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/familia.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/accordion-1_9.jpg?itok=T9XO6rPy" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/gynaikaxwrisonoma/webtv" ,ΓΥΝΑΙΚΑ ΧΩΡΙΣ ΟΝΟΜΑ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/gynaikaxwrisonoma.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/to_soi_soy_2_3.jpg?itok=EQK7sK6u" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/tosoisou/webtv" ,ΤΟ ΣΟΪ ΣΟΥ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/tosoisou.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/spiti_einai._1.jpg?itok=tXE3ByaX" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/spitieinai/webtv" ,ΣΠΙΤΙ ΕΙΝΑΙ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/spitieinai.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/mble-full-shadow.jpg?itok=Majuvz48" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/mple/webtv" ,ΜΠΛΕ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/mple.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/2_9.jpg?itok=kix1R7dT" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/kratasmystiko/webtv" ,ΚΡΑΤΑΣ ΜΥΣΤΙΚΟ;
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/kratasmystiko.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/tatoyaz_slider1_2.jpg?itok=NgZk73GK" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/16grammata/webtv" ,ΤΑ 16 ΓΡΑΜΜΑΤΑ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/16grammata.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/imgp9773.jpg?itok=yYJqcnhu" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/kokkinonyfiko/webtv" ,ΚΟΚΚΙΝΟ ΝΥΦΙΚΟ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/kokkinonyfiko.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/tatoyaz_slider2_2.jpg?itok=835pGYtl" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/totatouaz/webtv" ,ΤΟ ΤΑΤΟΥΑΖ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/totatouaz.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/paramythi_n_arhinisei_2.jpg?itok=4n_QJPIn" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/paramythiallios/webtv" ,ΠΑΡΑΜΥΘΙ... ΑΛΛΙΩΣ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/paramythiallios.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/img_1369_0.jpg?itok=agExupCg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/asterasrahoulas/webtv" ,ΑΣΤΕΡΑΣ ΡΑΧΟΥΛΑΣ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/asterasrahoulas.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/i_lexi_poy_den_les_-_giorgos_stentoymis_2.jpg?itok=NQSbt-nI" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/ileksipoudenles/webtv" ,Η ΛΕΞΗ ΠΟΥ ΔΕ ΛΕΣ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ileksipoudenles.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/eho_ena_mystiko_katerina_papoytsaki_alexandros_mpoyrdoymis_3.jpg?itok=Nnmcfo9Q" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/exoenamystiko/webtv" ,ΕΧΩ ΕΝΑ ΜΥΣΤΙΚΟ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/exoenamystiko.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/yperoxa-plasmata.jpg?itok=gklFoWZu" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/yperoxaplasmata/webtv" ,ΥΠΕΡΟΧΑ ΠΛΑΣΜΑΤΑ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/yperoxaplasmata.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/se_eida_o_proin_kai_o_epomenos_niki_mpeligianni_thanos_tokakis_elina_malama_giannis_aivazis.jpg?itok=IXGGZuxc" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/seeida/webtv" ,ΣΕ ΕΙΔΑ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/seeida.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/10ientoli_0.png?itok=26Gr7sQu" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/10hentoli/webtv" ,10Η ΕΝΤΟΛΗ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/10hentoli.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/asemasremama.jpg?itok=BY1bx6gx" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/asemasremama/webtv" ,ΑΣΕ ΜΑΣ ΡΕ ΜΑΜΑ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/asemasremama.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/accordionwithoutlogo_0.jpg?itok=2GjaPMkt" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/sanoikogeneia/webtv" ,ΣΑΝ ΟΙΚΟΓΕΝΕΙΑ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/sanoikogeneia.txt
+#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/mavra_mathkia.jpg?itok=zIMKNLV9" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/tamavramathkia/webtv" ,ΤΑ ΜΑΥΡΑ ΜΑΘΚΙΑ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/tamavramathkia.txt
+
+
+
 
 
 #EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== SIGMA  ΚΥΠΡΟΣ ====
