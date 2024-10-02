@@ -705,7 +705,7 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/eleni-
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/esy-ston-kosmo-soy.txt
 #EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-05/257550070_126348359814164_5573355728869503833_n_1.jpg?itok=66CXurQX" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/meliartos" ,Μελίαρτος
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/meliartos.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-07/Profile.png?itok=_uBBcz-t" tvg-website="https://www.ant1live.com/webtv/series/kypriakes-seires/mia-fora-k-enan-kairo" ,Μια Φορά Κ&#039; Έναν Καιρό
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-07/Profile.png?itok=_uBBcz-t" tvg-website="https://www.ant1live.com/webtv/series/kypriakes-seires/mia-fora-k-enan-kairo" ,Μια Φορά Κ' Έναν Καιρό
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/mia-fora-k-enan-kairo.txt
 #EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-07/%CE%BD%CE%B9%CF%89%CF%83%CE%B5%CE%BC%CE%B5.jpg?itok=pvZc17XW" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/niose-me" ,Νιώσε Με
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/niose-me.txt
