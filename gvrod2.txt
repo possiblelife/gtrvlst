@@ -1155,42 +1155,115 @@ http://.....
 
 #EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.omegatv.com.cy/cgibin/hweb?-V=tvshows&_FCATEGORY%3E=110001&_FCATEGORY%3C=110004&-Sr&-dtvshows.html&_VSECTION=7010|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΕΡΩΤΑΣ ΦΥΓΑΣ
-https://www.omegatv.com.cy/cgibin/hweb?-A=183392&-V=tvshows|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΣΗΜΕΙΑ ΚΑΙ ΤΕΡΑΤΑ
-https://www.omegatv.com.cy/cgibin/hweb?-A=97692&-V=tvshows|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,Η ΔΙΚΗ ΜΑΣ ΟΙΚΟΓΕΝΕΙΑ
-https://www.omegatv.com.cy/cgibin/hweb?-A=195847&-V=tvshows|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΣΤΟ ΑΛΑΛΟΥΜ
-https://www.omegatv.com.cy/cgibin/hweb?-A=140126&-V=tvshows|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,Η ΜΑΜΑ ΛΕΙΠΕΙ ΤΑΞΙΔΙ ΓΙΑ ΔΟΥΛΕΙΕΣ
-https://www.omegatv.com.cy/cgibin/hweb?-A=122975&-V=tvshows|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΖΩΗ ΜΟΥ
-https://www.omegatv.com.cy/cgibin/hweb?-A=122976&-V=tvshows|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΜΠΡΑΒΟ ΓΙΑΤΡΕ ΜΟΥ
-https://www.omegatv.com.cy/cgibin/hweb?-A=148057&-V=tvshows|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΟΥ ΨΕΥΔΟΜΑΡΤΥΡΗΣΕΙΣ
-https://www.omegatv.com.cy/cgibin/hweb?-A=148053&-V=tvshows|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΔΕΥΤΕΡΗ ΖΩΗ ΔΕΝ ΕΧΕΙ Σεζόν
-https://www.omegatv.com.cy/cgibin/hweb?-A=148055&-V=tvshows|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΟΥ ΜΟΙΧΕΥΣΕΙΣ
-https://www.omegatv.com.cy/cgibin/hweb?-A=147830&-V=tvshows|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΟΥΤΕ ΓΑΤΑ ΟΥΤΕ ΖΗΜΙΑ
-https://www.omegatv.com.cy/cgibin/hweb?-A=147829&-V=tvshows|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΠΕΡΑΣΜΕΝΕΣ ΜΟΥ ΑΓΑΠΕΣ
-https://www.omegatv.com.cy/cgibin/hweb?-A=147820&-V=tvshows|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΟΡΝΙΘΟΣΚΑΛΙΣΜΑΤΑ
-https://www.omegatv.com.cy/cgibin/hweb?-A=147818&-V=tvshows|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
-https://www.omegatv.com.cy/cgibin/hweb?-A=165385&-V=tvshows|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΧΑΡΟΥΜΕΝΟΣ ΤΑΞΙΔΙΩΤΗΣ
-https://www.omegatv.com.cy/cgibin/hweb?-A=146108&-V=tvshows|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,FAKATE ΤΟΥΣ
-https://www.omegatv.com.cy/cgibin/hweb?-A=97690&-V=tvshows|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,THE OMG SHOW
-https://www.omegatv.com.cy/cgibin/hweb?-A=174983&-V=tvshows|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΣΑΝ ΤΗΝ ΚΥΠΡΟ
-https://www.omegatv.com.cy/cgibin/hweb?-A=130937&-V=tvshows|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180824_simiakaiterata.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=97692&-V=tvshows" ,ΣΗΜΕΙΑ ΚΑΙ ΤΕΡΑΤΑ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20180824_simiakaiterata.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/mia-tou-klefti.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=179305&-V=tvshows" ,ΜΙΑ ΤΟΥ ΚΛΕΦΤΗ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/mia-tou-klefti.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180824_alaloum.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=140126&-V=tvshows" ,ΣΤΟ ΑΛΑΛΟΥΜ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20180824_alaloum.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180824_imamaleipei.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=122975&-V=tvshows" ,Η ΜΑΜΑ ΛΕΙΠΕΙ ΤΑΞΙΔΙ ΓΙΑ ΔΟΥΛΕΙΕΣ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20180824_imamaleipei.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/20160822_zoimou.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=122976&-V=tvshows" ,ΖΩΗ ΜΟΥ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20160822_zoimou.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20181109_giatros.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=139531&-V=tvshows" ,ΜΠΡΑΒΟ ΓΙΑΤΡΕ ΜΟΥ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20181109_giatros.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180301_ou_pseudomartirisis.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=138435&-V=tvshows" ,ΟΥ ΨΕΥΔΟΜΑΡΤΥΡΗΣΕΙΣ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20180301_ou_pseudomartirisis.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180309_deyteri_zoi.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=138638&-V=tvshows" ,ΔΕΥΤΕΡΗ ΖΩΗ ΔΕΝ ΕΧΕΙ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20180309_deyteri_zoi.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180222_reunion.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=138226&-V=tvshows" ,REUNION
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20180222_reunion.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180216_ou_mixeuseis.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=138079&-V=tvshows" ,ΟΥ ΜΟΙΧΕΥΣΕΙΣ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20180216_ou_mixeuseis.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20181108_gata.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=138040&-V=tvshows" ,ΟΥΤΕ ΓΑΤΑ ΟΥΤΕ ΖΗΜΙΑ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20181108_gata.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180202_perasmenes_mou_agapes.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=137648&-V=tvshows" ,ΠΕΡΑΣΜΕΝΕΣ ΜΟΥ ΑΓΑΠΕΣ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20180202_perasmenes_mou_agapes.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/defacto-press.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=185851&-V=tvshows" ,DE FACTO
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/defacto-press.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/inealithia650x420px.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=159319&-V=tvshows" ,ΕΙΝΑΙ ΑΛΗΘΕΙΑ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/inealithia650x420px.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/aixmes.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=157455&-V=tvshows" ,ΑΙΧΜΕΣ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/aixmes.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2017/20171019_vote.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=134232&-V=tvshows" ,VOTE
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20171019_vote.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/kathimasanatoli.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=133669&-V=tvshows" ,ΚΑΘ' ΗΜΑΣ ΑΝΑΤΟΛΗ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/kathimasanatoli.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2017/20170928_diadromi.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=133484&-V=tvshows" ,ΔΙΑΔΡΟΜΗ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20170928_diadromi.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2017/20170928_kyprion_erga.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=133486&-V=tvshows" ,ΚΥΠΡΙΩΝ ΕΡΓΑ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20170928_kyprion_erga.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/20160920_veto_tvshow.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=123855&-V=tvshows" ,ΒΕΤΟ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20160920_veto_tvshow.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/20160205_at_night.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=117533&-V=tvshows" ,@night
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20160205_at_night.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/20151013_antiklidi.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=105881&-V=tvshows" ,ΑΝΤΙΚΛΕΙΔΙ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20151013_antiklidi.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/prosopa_informative.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=35441&-V=tvshows" ,ΠΡΟΣΩΠΑ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/prosopa_informative.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180105_ExisMeson.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=963&-V=tvshows" ,ΕΧΕΙΣ ΜΕΣΟΝ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20180105_ExisMeson.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/poreia-istoria-1000x650.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=200426&-V=tvshows" ,ΚΑΘΕ ΠΟΡΕΙΑ...ΜΙΑ ΙΣΤΟΡΙΑ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/poreia-istoria-1000x650.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/famestoryport-1-.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=197318&-V=tvshows" ,FAME STORY
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/famestoryport-1-.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/elanadeis-1-.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=149616&-V=tvshows" ,ΕΛΑ ΝΑ ΔΕΙΣ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/elanadeis-1-.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/syntages650x420.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=183200&-V=tvshows" ,ΧΡΥΣΕΣ ΣΥΝΤΑΓΕΣ ΑΠΟ ΣΠΙΤΙ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/syntages650x420.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/650x420-iasonos.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=179883&-V=tvshows" ,ΡΙΞΕ ΜΙΑ ΖΑΡΙΑ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/650x420-iasonos.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/omgshow-650.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=174983&-V=tvshows" ,THE OMG SHOW
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omgshow.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/exo-kati-na-sou-po-650x420px_1.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=170565&-V=tvshows" ,ΕΧΩ ΚΑΤΙ ΝΑ ΣΟΥ ΠΩ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/exo-kati-na-sou-po.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/stavris-650x420.png" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=165385&-V=tvshows" ,ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/stavris.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/omega-troll-show-p-650x420px.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=162871&-V=tvshows" ,OMEGA TROLL SHOW
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega-troll-show-p.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/KITRINA-GILEKA-650x420px.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=151042&-V=tvshows" ,ΚΙΤΡΙΝΑ ΓΙΛΕΚΑ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/KITRINA-GILEKA.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/xaroumenos-taxidioths-650x420px-v6.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=146108&-V=tvshows" ,ΧΑΡΟΥΜΕΝΟΣ ΤΑΞΙΔΙΩΤΗΣ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/xaroumenos-taxidioths.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/fars-attack-650x420px-v4.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=140112&-V=tvshows" ,FARS ATTACK
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/fars-attack.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/PAREA-MOU-650420px.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=144221&-V=tvshows" ,ΠΑΡΕΑ mou
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/PAREA-MOU.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2017/20171016_alazo.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=134076&-V=tvshows" ,αλλά-ΖΩ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20171016_alazo.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2017/20171010_star_cyprus_2017.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=133852&-V=tvshows" ,STAR Κύπρος 2017
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20171010_star_cyprus_2017.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2017/20171005_30_meres.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=133707&-V=tvshows" ,30 ΜΕΡΕΣ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20171005_30_meres.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2017/san_tin_kypro_20170713_2.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=130937&-V=tvshows" ,ΣΑΝ ΤΗΝ ΚΥΠΡΟ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/san_tin_kypro_20170713_2.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/20160822_olagiasena.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=122973&-V=tvshows" ,ΟΛΑ ΓΙΑ ΣΕΝΑ! (2016-18)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20160822_olagiasena.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/20160822_starkypros.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=122971&-V=tvshows" ,STAR ΚΥΠΡΟΣ 2016
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20160822_starkypros.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/20161104_xypnisate.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=122972&-V=tvshows" ,ΞΥΠΝΗΣΑΤΕ;
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20161104_xypnisate.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/20160406_like_a_star.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=119283&-V=tvshows" ,LIKE A STAR
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20160406_like_a_star.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/fakatetous.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=97690&-V=tvshows" ,FAKATE ΤΟΥΣ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/fakatetous.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/20150831_dansing.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=97693&-V=tvshows" ,DANSING JUNIOR
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20150831_dansing.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180201_dansing6.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=1062&-V=tvshows" ,DANSING FOR YOU
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20180201_dansing6.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/oopene-650x420.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=149110&-V=tvshows" ,ΧΡΙΣΤΟΥΓΕΝΝΑ ΣΤΗΝ ΠΑΛΙΑ ΠΟΛΗ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/oopene.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cyhttp://www.omegatv.com.cy/pictures/2019/iq160.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=188271&-V=tvshows" ,IQ 160
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/iq160.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/erwtas-650x420.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=183392&-V=tvshows" ,ΕΡΩΤΑΣ ΦΥΓΑΣ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/erwtas.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/hdikhmasoikogeneia.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=195847&-V=tvshows" ,Η ΔΙΚΗ ΜΑΣ ΟΙΚΟΓΕΝΕΙΑ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/hdikhmasoikogeneia.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/1000x650-v8.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=204068&-V=tvshows" ,ΣΑΝ ΨΕΜΑ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/1000x650-v8.txt
+#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/1000x650-v6.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=200070&-V=tvshows" ,ΣΤΑ ΣΥΝΟΡΑ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/1000x650-v6.txt
+
 
 
 
