@@ -738,530 +738,530 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/passen
 
 
 
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ALPHA  ΚΥΠΡΟΥ ====
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ALPHA ΚΥΠΡΟΥ ====
 http://.....
 
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.alphacyprus.com.cy/shows/ellinikes-seires|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/ae.jpg?itok=54PmyZyP" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/agioserotas/webtv" ,ΑΓΙΟΣ ΕΡΩΤΑΣ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/ae.jpg?itok=54PmyZyP" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/agioserotas/webtv" ,ΑΓΙΟΣ ΕΡΩΤΑΣ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/agioserotas.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/GITISELIAS_0.jpg?itok=lV1cnXFi" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/igitiselias/webtv" ,Η ΓΗ ΤΗΣ ΕΛΙΑΣ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/GITISELIAS_0.jpg?itok=lV1cnXFi" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/igitiselias/webtv" ,Η ΓΗ ΤΗΣ ΕΛΙΑΣ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/igitiselias.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/temp-header-web_4.jpg?itok=uo5z4Pmj" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/taboo/webtv" ,ΤΑΜΠΟΥ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/temp-header-web_4.jpg?itok=uo5z4Pmj" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/taboo/webtv" ,ΤΑΜΠΟΥ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/taboo.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/temp-header-web_2.jpg?itok=TLc7jfC8" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/timoros/webtv" ,Ο ΤΙΜΩΡΟΣ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/temp-header-web_2.jpg?itok=TLc7jfC8" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/timoros/webtv" ,Ο ΤΙΜΩΡΟΣ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/timoros.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/famagusta.jpg?itok=00ijKr38" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/famagusta/webtv" ,FAMAGUSTA
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/famagusta.jpg?itok=00ijKr38" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/famagusta/webtv" ,FAMAGUSTA
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/famagusta.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/o%20giatros-web.jpg?itok=-bq52_zr" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/ogiatros/webtv" ,Ο ΓΙΑΤΡΟΣ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/o%20giatros-web.jpg?itok=-bq52_zr" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/ogiatros/webtv" ,Ο ΓΙΑΤΡΟΣ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ogiatros.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/amfivolies.jpg?itok=dYjLyjEx" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/amfivolies/webtv" ,ΑΜΦΙΒΟΛΙΕΣ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/amfivolies.jpg?itok=dYjLyjEx" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/amfivolies/webtv" ,ΑΜΦΙΒΟΛΙΕΣ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/amfivolies.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/webtv-oikogeneiakes-istories.jpg?itok=8k6oPWfa" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/oikogeneiakesistories/webtv" ,ΟΙΚΟΓΕΝΕΙΑΚΕΣ ΙΣΤΟΡΙΕΣ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/webtv-oikogeneiakes-istories.jpg?itok=8k6oPWfa" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/oikogeneiakesistories/webtv" ,ΟΙΚΟΓΕΝΕΙΑΚΕΣ ΙΣΤΟΡΙΕΣ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/oikogeneiakesistories.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/sasmos_0.jpg?itok=abYmVahQ" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/sasmos/webtv" ,ΣΑΣΜΟΣ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/sasmos_0.jpg?itok=abYmVahQ" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/sasmos/webtv" ,ΣΑΣΜΟΣ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/sasmos.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/paradeisos_0.jpg?itok=kOggyduf" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/paradeisos/webtv" ,Ο ΠΑΡΑΔΕΙΣΟΣ ΤΩΝ ΚΥΡΙΩΝ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/paradeisos_0.jpg?itok=kOggyduf" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/paradeisos/webtv" ,Ο ΠΑΡΑΔΕΙΣΟΣ ΤΩΝ ΚΥΡΙΩΝ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/paradeisos.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/toproxenio-2.jpg?itok=r6SPWxQF" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/toproxeniotisioulias/webtv" ,ΤΟ ΠΡΟΞΕΝΙΟ ΤΗΣ ΙΟΥΛΙΑΣ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/toproxenio-2.jpg?itok=r6SPWxQF" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/toproxeniotisioulias/webtv" ,ΤΟ ΠΡΟΞΕΝΙΟ ΤΗΣ ΙΟΥΛΙΑΣ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/toproxeniotisioulias.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/%CE%A3%CE%9A%CE%91%CE%A1%CE%91%CE%92%CE%91%CE%99%CE%9F%CE%A3%20%282%29%20._1.jpg?itok=HcSgsGhK" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/skaravaios/webtv" ,Ο ΣΚΑΡΑΒΑΙΟΣ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/%CE%A3%CE%9A%CE%91%CE%A1%CE%91%CE%92%CE%91%CE%99%CE%9F%CE%A3%20%282%29%20._1.jpg?itok=HcSgsGhK" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/skaravaios/webtv" ,Ο ΣΚΑΡΑΒΑΙΟΣ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/skaravaios.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/murmura-2_0.jpg?itok=th8qEubB" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/mourmoura/webtv" ,ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗ ΜΟΥΡΜΟΥΡΑ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/murmura-2_0.jpg?itok=th8qEubB" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/mourmoura/webtv" ,ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗ ΜΟΥΡΜΟΥΡΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/mourmoura.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/fonoi-1_0.jpg?itok=NKBOzQ0n" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/fonoistokabanario/webtv" ,ΦΟΝΟΙ ΣΤΟ ΚΑΜΠΑΝΑΡΙΟ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/fonoi-1_0.jpg?itok=NKBOzQ0n" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/fonoistokabanario/webtv" ,ΦΟΝΟΙ ΣΤΟ ΚΑΜΠΑΝΑΡΙΟ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/fonoistokabanario.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/karma%20revised.png?itok=UoDwkJsK" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/karma/webtv" ,ΚΑΡΜΑ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/karma%20revised.png?itok=UoDwkJsK" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/karma/webtv" ,ΚΑΡΜΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/karma.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/nyxta.jpg?itok=zv49zFja" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/nyxta/webtv" ,ΑΥΤΗ Η ΝΥΧΤΑ ΜΕΝΕΙ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/nyxta.jpg?itok=zv49zFja" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/nyxta/webtv" ,ΑΥΤΗ Η ΝΥΧΤΑ ΜΕΝΕΙ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/nyxta.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/camping_1.jpg?itok=gtyM7Irz" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/camping/webtv" ,ΚΑΜΠΙΝΓΚ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/camping_1.jpg?itok=gtyM7Irz" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/camping/webtv" ,ΚΑΜΠΙΝΓΚ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/camping.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/aggeliki.jpg?itok=ZuYvJkTk" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/aggeliki/webtv" ,ΑΓΓΕΛΙΚΗ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/aggeliki.jpg?itok=ZuYvJkTk" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/aggeliki/webtv" ,ΑΓΓΕΛΙΚΗ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/aggeliki.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/8-lexeis.jpg?itok=b-8NH2NR" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/8lexeis/webtv" ,8 ΛΕΞΕΙΣ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/8-lexeis.jpg?itok=b-8NH2NR" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/8lexeis/webtv" ,8 ΛΕΞΕΙΣ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/8lexeis.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/thesi-4.jpg?itok=LzF4Jw4u" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/elastithesimou/webtv" ,ΕΛΑ ΣΤΗ ΘΕΣΗ ΜΟΥ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/thesi-4.jpg?itok=LzF4Jw4u" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/elastithesimou/webtv" ,ΕΛΑ ΣΤΗ ΘΕΣΗ ΜΟΥ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/elastithesimou.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/Accordion-image-2.jpg?itok=pmiasFj9" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/asteriastinammo/webtv" ,ΑΣΤΕΡΙΑ ΣΤΗΝ ΑΜΜΟ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/Accordion-image-2.jpg?itok=pmiasFj9" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/asteriastinammo/webtv" ,ΑΣΤΕΡΙΑ ΣΤΗΝ ΑΜΜΟ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/asteriastinammo.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/%CE%95%CE%A1%CE%A9%CE%A4%CE%91%CE%A3-2.jpg?itok=SgXS97C7" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/erwtasmeta/webtv" ,ΕΡΩΤΑΣ ΜΕΤΑ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/%CE%95%CE%A1%CE%A9%CE%A4%CE%91%CE%A3-2.jpg?itok=SgXS97C7" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/erwtasmeta/webtv" ,ΕΡΩΤΑΣ ΜΕΤΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/erwtasmeta.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/accordion-1_12.jpg?itok=elydYU0P" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/familia/webtv" ,Η ΦΑΜΙΛΙΑ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/accordion-1_12.jpg?itok=elydYU0P" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/familia/webtv" ,Η ΦΑΜΙΛΙΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/familia.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/accordion-1_9.jpg?itok=T9XO6rPy" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/gynaikaxwrisonoma/webtv" ,ΓΥΝΑΙΚΑ ΧΩΡΙΣ ΟΝΟΜΑ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/accordion-1_9.jpg?itok=T9XO6rPy" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/gynaikaxwrisonoma/webtv" ,ΓΥΝΑΙΚΑ ΧΩΡΙΣ ΟΝΟΜΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/gynaikaxwrisonoma.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/to_soi_soy_2_3.jpg?itok=EQK7sK6u" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/tosoisou/webtv" ,ΤΟ ΣΟΪ ΣΟΥ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/to_soi_soy_2_3.jpg?itok=EQK7sK6u" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/tosoisou/webtv" ,ΤΟ ΣΟΪ ΣΟΥ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/tosoisou.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/spiti_einai._1.jpg?itok=tXE3ByaX" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/spitieinai/webtv" ,ΣΠΙΤΙ ΕΙΝΑΙ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/spiti_einai._1.jpg?itok=tXE3ByaX" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/spitieinai/webtv" ,ΣΠΙΤΙ ΕΙΝΑΙ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/spitieinai.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/mble-full-shadow.jpg?itok=Majuvz48" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/mple/webtv" ,ΜΠΛΕ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/mble-full-shadow.jpg?itok=Majuvz48" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/mple/webtv" ,ΜΠΛΕ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/mple.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/2_9.jpg?itok=kix1R7dT" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/kratasmystiko/webtv" ,ΚΡΑΤΑΣ ΜΥΣΤΙΚΟ;
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/2_9.jpg?itok=kix1R7dT" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/kratasmystiko/webtv" ,ΚΡΑΤΑΣ ΜΥΣΤΙΚΟ;
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/kratasmystiko.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/tatoyaz_slider1_2.jpg?itok=NgZk73GK" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/16grammata/webtv" ,ΤΑ 16 ΓΡΑΜΜΑΤΑ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/tatoyaz_slider1_2.jpg?itok=NgZk73GK" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/16grammata/webtv" ,ΤΑ 16 ΓΡΑΜΜΑΤΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/16grammata.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/imgp9773.jpg?itok=yYJqcnhu" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/kokkinonyfiko/webtv" ,ΚΟΚΚΙΝΟ ΝΥΦΙΚΟ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/imgp9773.jpg?itok=yYJqcnhu" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/kokkinonyfiko/webtv" ,ΚΟΚΚΙΝΟ ΝΥΦΙΚΟ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/kokkinonyfiko.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/tatoyaz_slider2_2.jpg?itok=835pGYtl" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/totatouaz/webtv" ,ΤΟ ΤΑΤΟΥΑΖ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/tatoyaz_slider2_2.jpg?itok=835pGYtl" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/totatouaz/webtv" ,ΤΟ ΤΑΤΟΥΑΖ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/totatouaz.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/paramythi_n_arhinisei_2.jpg?itok=4n_QJPIn" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/paramythiallios/webtv" ,ΠΑΡΑΜΥΘΙ... ΑΛΛΙΩΣ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/paramythi_n_arhinisei_2.jpg?itok=4n_QJPIn" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/paramythiallios/webtv" ,ΠΑΡΑΜΥΘΙ... ΑΛΛΙΩΣ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/paramythiallios.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/img_1369_0.jpg?itok=agExupCg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/asterasrahoulas/webtv" ,ΑΣΤΕΡΑΣ ΡΑΧΟΥΛΑΣ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/img_1369_0.jpg?itok=agExupCg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/asterasrahoulas/webtv" ,ΑΣΤΕΡΑΣ ΡΑΧΟΥΛΑΣ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/asterasrahoulas.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/i_lexi_poy_den_les_-_giorgos_stentoymis_2.jpg?itok=NQSbt-nI" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/ileksipoudenles/webtv" ,Η ΛΕΞΗ ΠΟΥ ΔΕ ΛΕΣ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/i_lexi_poy_den_les_-_giorgos_stentoymis_2.jpg?itok=NQSbt-nI" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/ileksipoudenles/webtv" ,Η ΛΕΞΗ ΠΟΥ ΔΕ ΛΕΣ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ileksipoudenles.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/eho_ena_mystiko_katerina_papoytsaki_alexandros_mpoyrdoymis_3.jpg?itok=Nnmcfo9Q" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/exoenamystiko/webtv" ,ΕΧΩ ΕΝΑ ΜΥΣΤΙΚΟ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/eho_ena_mystiko_katerina_papoytsaki_alexandros_mpoyrdoymis_3.jpg?itok=Nnmcfo9Q" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/exoenamystiko/webtv" ,ΕΧΩ ΕΝΑ ΜΥΣΤΙΚΟ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/exoenamystiko.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/yperoxa-plasmata.jpg?itok=gklFoWZu" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/yperoxaplasmata/webtv" ,ΥΠΕΡΟΧΑ ΠΛΑΣΜΑΤΑ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/yperoxa-plasmata.jpg?itok=gklFoWZu" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/yperoxaplasmata/webtv" ,ΥΠΕΡΟΧΑ ΠΛΑΣΜΑΤΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/yperoxaplasmata.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/se_eida_o_proin_kai_o_epomenos_niki_mpeligianni_thanos_tokakis_elina_malama_giannis_aivazis.jpg?itok=IXGGZuxc" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/seeida/webtv" ,ΣΕ ΕΙΔΑ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/se_eida_o_proin_kai_o_epomenos_niki_mpeligianni_thanos_tokakis_elina_malama_giannis_aivazis.jpg?itok=IXGGZuxc" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/seeida/webtv" ,ΣΕ ΕΙΔΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/seeida.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/10ientoli_0.png?itok=26Gr7sQu" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/10hentoli/webtv" ,10Η ΕΝΤΟΛΗ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/10ientoli_0.png?itok=26Gr7sQu" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/10hentoli/webtv" ,10Η ΕΝΤΟΛΗ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/10hentoli.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/asemasremama.jpg?itok=BY1bx6gx" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/asemasremama/webtv" ,ΑΣΕ ΜΑΣ ΡΕ ΜΑΜΑ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/asemasremama.jpg?itok=BY1bx6gx" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/asemasremama/webtv" ,ΑΣΕ ΜΑΣ ΡΕ ΜΑΜΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/asemasremama.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/accordionwithoutlogo_0.jpg?itok=2GjaPMkt" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/sanoikogeneia/webtv" ,ΣΑΝ ΟΙΚΟΓΕΝΕΙΑ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/accordionwithoutlogo_0.jpg?itok=2GjaPMkt" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/sanoikogeneia/webtv" ,ΣΑΝ ΟΙΚΟΓΕΝΕΙΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/sanoikogeneia.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/mavra_mathkia.jpg?itok=zIMKNLV9" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/tamavramathkia/webtv" ,ΤΑ ΜΑΥΡΑ ΜΑΘΚΙΑ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/mavra_mathkia.jpg?itok=zIMKNLV9" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/tamavramathkia/webtv" ,ΤΑ ΜΑΥΡΑ ΜΑΘΚΙΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/tamavramathkia.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/christianaaristostelous-3.jpg?itok=364xofsL" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv" ,ΜΕ ΑΓΑΠΗ ΧΡΙΣΤΙΑΝΑ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/christianaaristostelous-3.jpg?itok=364xofsL" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv" ,ΜΕ ΑΓΑΠΗ ΧΡΙΣΤΙΑΝΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/meagapichristiana.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/louis-4.jpg?itok=UD6JhVK-" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv" ,ΛΟΥΗΣ NIGHT SHOW
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/louis-4.jpg?itok=UD6JhVK-" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv" ,ΛΟΥΗΣ NIGHT SHOW
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/louisnightshow.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/paradosiaki-4.jpg?itok=RrWsBqY7" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/paradosiakivradia/webtv" ,ΠΑΡΑΔΟΣΙΑΚΗ ΒΡΑΔΙΑ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/paradosiaki-4.jpg?itok=RrWsBqY7" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/paradosiakivradia/webtv" ,ΠΑΡΑΔΟΣΙΑΚΗ ΒΡΑΔΙΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/paradosiakivradia.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/temp-header-web_1.jpg?itok=wtQZ5QQq" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv" ,DEAL
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/temp-header-web_1.jpg?itok=wtQZ5QQq" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv" ,DEAL
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/deal.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/temp-header-web.jpg?itok=D52P3lxp" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/poiosrwtaei/webtv" ,ΠΟΙΟΣ ΡΩΤΑΕΙ;
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/temp-header-web.jpg?itok=D52P3lxp" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/poiosrwtaei/webtv" ,ΠΟΙΟΣ ΡΩΤΑΕΙ;
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/poiosrwtaei.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/tetatet.jpg?itok=155jiGKa" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv" ,ΤΕΤ-Α-ΤΕΤ ΣΤΟΝ ALPHA
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/tetatet.jpg?itok=155jiGKa" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv" ,ΤΕΤ-Α-ΤΕΤ ΣΤΟΝ ALPHA
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/tetatet.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/secretsong.jpg?itok=I10wtvn4" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/thesecretsong/webtv" ,THE SECRET SONG
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/secretsong.jpg?itok=I10wtvn4" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/thesecretsong/webtv" ,THE SECRET SONG
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/thesecretsong.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/Just%20the%202%20of%20Us.jpg?itok=s2FrP38l" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/j2us/webtv" ,JUST THE 2 OF US
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/Just%20the%202%20of%20Us.jpg?itok=s2FrP38l" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/j2us/webtv" ,JUST THE 2 OF US
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/j2us.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/tippingpoint.jpg?itok=w-7dHSFd" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/tippingpoint/webtv" ,TIPPING POINΤ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/tippingpoint.jpg?itok=w-7dHSFd" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/tippingpoint/webtv" ,TIPPING POINΤ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/tippingpoint.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/pazari.jpg?itok=MscjK5YY" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/topiomegalopazari/webtv" ,ΤΟ ΠΙΟ ΜΕΓΑΛΟ ΠΑΖΑΡΙ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/pazari.jpg?itok=MscjK5YY" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/topiomegalopazari/webtv" ,ΤΟ ΠΙΟ ΜΕΓΑΛΟ ΠΑΖΑΡΙ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/topiomegalopazari.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/24wres_0.jpg?itok=qogDRWA3" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/24wres/webtv" ,24 ΩΡΕΣ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/24wres_0.jpg?itok=qogDRWA3" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/24wres/webtv" ,24 ΩΡΕΣ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/24wres.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/tounel.jpg?itok=h6qv8cOy" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/fosstotounel/webtv" ,ΦΩΣ ΣΤΟ ΤΟΥΝΕΛ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/tounel.jpg?itok=h6qv8cOy" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/fosstotounel/webtv" ,ΦΩΣ ΣΤΟ ΤΟΥΝΕΛ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/fosstotounel.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/chart-show-2.jpg?itok=RxdrZR-K" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/chartshow/webtv" ,CHART SHOW - YOUR COUNTDOWN
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/chart-show-2.jpg?itok=RxdrZR-K" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/chartshow/webtv" ,CHART SHOW - YOUR COUNTDOWN
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/chartshow.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/chase-2_2.jpg?itok=Gm9qp-hC" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/thechase/webtv" ,THE CHASE
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/chase-2_2.jpg?itok=Gm9qp-hC" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/thechase/webtv" ,THE CHASE
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/thechase.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/ti-fasi.jpg?itok=-fSe3Z_T" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/tifasi/webtv" ,ΤΙ ΦΑΣΗ;
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/ti-fasi.jpg?itok=-fSe3Z_T" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/tifasi/webtv" ,ΤΙ ΦΑΣΗ;
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/tifasi.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/stylemeup-3.jpg?itok=-Pae-WG4" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/stylemeup/webtv" ,STYLE ME UP
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/stylemeup-3.jpg?itok=-Pae-WG4" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/stylemeup/webtv" ,STYLE ME UP
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/stylemeup.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/bachelor-2.jpg?itok=wabyeTGX" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/thebachelor/webtv" ,THE BACHELOR
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/bachelor-2.jpg?itok=wabyeTGX" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/thebachelor/webtv" ,THE BACHELOR
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/thebachelor.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/protagonistes-1.jpg?itok=nbwLXv17" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/protagonistes/webtv" ,ΠΡΩΤΑΓΩΝΙΣΤΕΣ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/protagonistes-1.jpg?itok=nbwLXv17" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/protagonistes/webtv" ,ΠΡΩΤΑΓΩΝΙΣΤΕΣ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/protagonistes.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/paradosi-21.jpg?itok=AGBqbZIR" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/paradosikatoikon/webtv" ,ΠΑΡΑΔΟΣΗ ΚΑΤ’ ΟΙΚΟΝ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/paradosi-21.jpg?itok=AGBqbZIR" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/paradosikatoikon/webtv" ,ΠΑΡΑΔΟΣΗ ΚΑΤ’ ΟΙΚΟΝ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/paradosikatoikon.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/accordion_8.jpg?itok=inGQ5Aqk" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/mesanyxta/webtv" ,ΜΕΣΑΝΥΧΤΑ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/accordion_8.jpg?itok=inGQ5Aqk" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/mesanyxta/webtv" ,ΜΕΣΑΝΥΧΤΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/mesanyxta.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/teleia-apodrasi.jpg?itok=EG0eb0_u" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/teleiaapodrasi/webtv" ,Η ΤΕΛΕΙΑ ΑΠΟΔΡΑΣΗ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/teleia-apodrasi.jpg?itok=EG0eb0_u" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/teleiaapodrasi/webtv" ,Η ΤΕΛΕΙΑ ΑΠΟΔΡΑΣΗ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/teleiaapodrasi.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/sma23.jpg?itok=G45fFrrK" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/supermusicawards2023/webtv" ,SUPER MUSIC AWARDS
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/sma23.jpg?itok=G45fFrrK" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/supermusicawards2023/webtv" ,SUPER MUSIC AWARDS
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/supermusicawards2023.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/botc.jpg?itok=eLDBAMoy" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/battleofthecouples/webtv" ,BATTLE OF THE COUPLES
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/botc.jpg?itok=eLDBAMoy" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/battleofthecouples/webtv" ,BATTLE OF THE COUPLES
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/battleofthecouples.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/hollywood.jpg?itok=0VJz_Pu2" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/istoriestouhollywood/webtv" ,ΙΣΤΟΡΙΕΣ ΤΟΥ HOLLYWOOD
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/hollywood.jpg?itok=0VJz_Pu2" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/istoriestouhollywood/webtv" ,ΙΣΤΟΡΙΕΣ ΤΟΥ HOLLYWOOD
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/istoriestouhollywood.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/dwse%20vasi%20web.png?itok=a_9Htq_5" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/dosevasi/webtv" ,ΔΩΣΕ ΒΑΣΗ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/dwse%20vasi%20web.png?itok=a_9Htq_5" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/dosevasi/webtv" ,ΔΩΣΕ ΒΑΣΗ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/dosevasi.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/efialtis-2.jpg?itok=E3CZuRO0" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/efialtis-stin-koyzina/webtv" ,ΕΦΙΑΛΤΗΣ ΣΤΗΝ ΚΟΥΖΙΝΑ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/efialtis-2.jpg?itok=E3CZuRO0" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/efialtis-stin-koyzina/webtv" ,ΕΦΙΑΛΤΗΣ ΣΤΗΝ ΚΟΥΖΙΝΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/efialtis-stin-koyzina.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/varthakouri.png?itok=lf7nSPKP" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/adelinaxtypato/webtv" ,ΑΝΤΕΛΙΝΑ, ΧΤΥΠΑ ΤΟ ΚΟΥΔΟΥΝΙ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/varthakouri.png?itok=lf7nSPKP" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/adelinaxtypato/webtv" ,ΑΝΤΕΛΙΝΑ, ΧΤΥΠΑ ΤΟ ΚΟΥΔΟΥΝΙ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/adelinaxtypato.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/mimasas.jpg?itok=As9eV77R" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/mi-masas/webtv" ,ΜΗ ΜΑΣΑΣ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/mimasas.jpg?itok=As9eV77R" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/mi-masas/webtv" ,ΜΗ ΜΑΣΑΣ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/mi-masas.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/DIVIDED_0.png?itok=UKV04kfX" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/divided/webtv" ,DIVIDED
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/DIVIDED_0.png?itok=UKV04kfX" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/divided/webtv" ,DIVIDED
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/divided.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/eleni_menegaki_1_4.jpg?itok=U8fIPyLg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/eleni/webtv" ,ΕΛΕΝΗ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/eleni_menegaki_1_4.jpg?itok=U8fIPyLg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/eleni/webtv" ,ΕΛΕΝΗ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/eleni.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/pano_kato_-_hristos_ferentinos.jpg?itok=LOp5j3Ug" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/panokato/webtv" ,ΠΑΝΩ ΚΑΤΩ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/pano_kato_-_hristos_ferentinos.jpg?itok=LOp5j3Ug" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/panokato/webtv" ,ΠΑΝΩ ΚΑΤΩ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/panokato.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/wpartyslider_0.png?itok=3be37hRR" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/worldparty/webtv" ,WORLD PARTY
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/wpartyslider_0.png?itok=3be37hRR" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/worldparty/webtv" ,WORLD PARTY
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/worldparty.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/tokas.jpg?itok=5PMCGV9w" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/mariostokas/webtv" ,ΑΦΙΕΡΩΜΑ ΣΤΟΝ ΜΑΡΙΟ ΤΟΚΑ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/tokas.jpg?itok=5PMCGV9w" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/mariostokas/webtv" ,ΑΦΙΕΡΩΜΑ ΣΤΟΝ ΜΑΡΙΟ ΤΟΚΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/mariostokas.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/mh1_1755_copy.jpg?itok=nE4iFI-h" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/prwtoxroniastospitimas18/webtv" ,ΠΡΩΤΟΧΡΟΝΙΑ ΣΤΟ ΣΠΙΤΙ ΜΑΣ 2018
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/mh1_1755_copy.jpg?itok=nE4iFI-h" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/prwtoxroniastospitimas18/webtv" ,ΠΡΩΤΟΧΡΟΝΙΑ ΣΤΟ ΣΠΙΤΙ ΜΑΣ 2018
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/prwtoxroniastospitimas18.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/bake_off_greece_2.jpg?itok=1lYJukQ4" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/bakeoffgreece/webtv" ,BAKE OFF GREECE
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/bake_off_greece_2.jpg?itok=1lYJukQ4" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/bakeoffgreece/webtv" ,BAKE OFF GREECE
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/bakeoffgreece.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/_ktz5648.jpg?itok=GXxUgIN1" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/fatto/webtv" ,FATTO
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/_ktz5648.jpg?itok=GXxUgIN1" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/fatto/webtv" ,FATTO
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/fatto.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/27655246_1852132558161161_5256363759475150681_n_0%20-%20Copy.jpg?itok=lx5JD-vw" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/notamiavradiatika/webtv" ,ΝΟΤΑ ΜΙΑ...ΒΡΑΔΙΑΤΙΚΑ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/27655246_1852132558161161_5256363759475150681_n_0%20-%20Copy.jpg?itok=lx5JD-vw" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/notamiavradiatika/webtv" ,ΝΟΤΑ ΜΙΑ...ΒΡΑΔΙΑΤΙΚΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/notamiavradiatika.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/vasilikihatziadamouthum.jpg?itok=qxobRBku" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/osoyparxountragoudia/webtv" ,ΟΣΟ ΥΠΑΡΧΟΥΝ ΤΡΑΓΟΥΔΙΑ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/vasilikihatziadamouthum.jpg?itok=qxobRBku" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/osoyparxountragoudia/webtv" ,ΟΣΟ ΥΠΑΡΧΟΥΝ ΤΡΑΓΟΥΔΙΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/osoyparxountragoudia.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/christiana%20-%20Copy.png?itok=8sTHzqI4" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/prwtoxroniastospitimas17/webtv" ,ΠΡΩΤΟΧΡΟΝΙΑ ΣΤΟ ΣΠΙΤΙ ΜΑΣ 2017
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/christiana%20-%20Copy.png?itok=8sTHzqI4" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/prwtoxroniastospitimas17/webtv" ,ΠΡΩΤΟΧΡΟΝΙΑ ΣΤΟ ΣΠΙΤΙ ΜΑΣ 2017
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/prwtoxroniastospitimas17.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/untitled-croped.png?itok=AkUqX9qz" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/cupofjoy/webtv" ,CUP OF JOY
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/untitled-croped.png?itok=AkUqX9qz" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/cupofjoy/webtv" ,CUP OF JOY
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/cupofjoy.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/smaragda_karydi_3.jpg?itok=DXZoBPTR" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/notamia/webtv" ,ΝΟΤΑ ΜΙΑ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/smaragda_karydi_3.jpg?itok=DXZoBPTR" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/notamia/webtv" ,ΝΟΤΑ ΜΙΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/notamia.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/2b.jpg?itok=jGwOvrn-" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/supersportarena/webtv" ,SUPER SPORT ΑΡΕΝΑ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/2b.jpg?itok=jGwOvrn-" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/supersportarena/webtv" ,SUPER SPORT ΑΡΕΝΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/supersportarena.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/vaso_kollida_resized_1.jpg?itok=k1cwlJPb" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/tokalyterozevgari/webtv" ,ΤΟ ΚΑΛΥΤΕΡΟ ΖΕΥΓΑΡΙ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/vaso_kollida_resized_1.jpg?itok=k1cwlJPb" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/tokalyterozevgari/webtv" ,ΤΟ ΚΑΛΥΤΕΡΟ ΖΕΥΓΑΡΙ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/tokalyterozevgari.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/kapl1129-_0.jpg?itok=J2HHhm4B" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/stodromo/webtv" ,ΣΤΟ ΔΡΟΜΟ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/kapl1129-_0.jpg?itok=J2HHhm4B" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/stodromo/webtv" ,ΣΤΟ ΔΡΟΜΟ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/stodromo.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/kt1a0378_0.jpg?itok=FpcnA5QU" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/prwtoxroniastospitimas/webtv" ,ΠΡΩΤΟΧΡΟΝΙΑ ΣΤΟ ΣΠΙΤΙ ΜΑΣ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/kt1a0378_0.jpg?itok=FpcnA5QU" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/prwtoxroniastospitimas/webtv" ,ΠΡΩΤΟΧΡΟΝΙΑ ΣΤΟ ΣΠΙΤΙ ΜΑΣ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/prwtoxroniastospitimas.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/xanadeste_toys_moytsinas_-_iliaki_-_synatsaki_crop.jpg?itok=LxPg4RiW" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/ksanadestetous/webtv" ,ΞΑΝΑΔΕΣΤΕ ΤΟΥΣ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/xanadeste_toys_moytsinas_-_iliaki_-_synatsaki_crop.jpg?itok=LxPg4RiW" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/ksanadestetous/webtv" ,ΞΑΝΑΔΕΣΤΕ ΤΟΥΣ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ksanadestetous.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/spita.png?itok=i2wbiVrR" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/spitimouspitakimou/webtv" ,ΣΠΙΤΙ ΜΟΥ ΣΠΙΤΑΚΙ ΜΟΥ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/spita.png?itok=i2wbiVrR" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/spitimouspitakimou/webtv" ,ΣΠΙΤΙ ΜΟΥ ΣΠΙΤΑΚΙ ΜΟΥ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/spitimouspitakimou.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/spyros_haritatos_1_0.jpg?itok=Gz_Pm_8d" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/aneidikeftosergatis/webtv" ,ΑΝΕΙΔΙΚΕΥΤΟΣ ΕΡΓΑΤΗΣ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/spyros_haritatos_1_0.jpg?itok=Gz_Pm_8d" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/aneidikeftosergatis/webtv" ,ΑΝΕΙΔΙΚΕΥΤΟΣ ΕΡΓΑΤΗΣ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/aneidikeftosergatis.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/geit45_0.png?itok=JDwa5x6A" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/stigeitoniamas/webtv" ,ΣΤΗ ΓΕΙΤΟΝΙΑ ΜΑΣ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/geit45_0.png?itok=JDwa5x6A" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/stigeitoniamas/webtv" ,ΣΤΗ ΓΕΙΤΟΝΙΑ ΜΑΣ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/stigeitoniamas.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/vrabd.jpg?itok=mc-40Y5E" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/vradiatika/webtv" ,ΑΚΟΥ ΤΙ ΕΙΠΑΝ! ΒΡΑΔΙΑΤΙΚΑ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/vrabd.jpg?itok=mc-40Y5E" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/vradiatika/webtv" ,ΑΚΟΥ ΤΙ ΕΙΠΑΝ! ΒΡΑΔΙΑΤΙΚΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/vradiatika.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/petros_kostopoylos_0.jpg?itok=HhfP4qfc" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/vradymetonpetrokostopoulo/webtv" ,ΒΡΑΔΥ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/petros_kostopoylos_0.jpg?itok=HhfP4qfc" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/vradymetonpetrokostopoulo/webtv" ,ΒΡΑΔΥ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/vradymetonpetrokostopoulo.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/stg_0_0.jpg?itok=skcsfom_" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/stinygeiamasrepaidia/webtv" ,ΣΤΗΝ ΥΓΕΙΑ ΜΑΣ ΡΕ ΠΑΙΔΙΑ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/stg_0_0.jpg?itok=skcsfom_" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/stinygeiamasrepaidia/webtv" ,ΣΤΗΝ ΥΓΕΙΑ ΜΑΣ ΡΕ ΠΑΙΔΙΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/stinygeiamasrepaidia.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/quizdomacc.png?itok=TIW3vGsN" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/quizdomtheshow/webtv" ,QUIZDOM THE SHOW
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/quizdomacc.png?itok=TIW3vGsN" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/quizdomtheshow/webtv" ,QUIZDOM THE SHOW
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/quizdomtheshow.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/paketo_slider-1819_0.jpg?itok=F9AVl-Sk" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/pamepaketo/webtv" ,ΠΑΜΕ ΠΑΚΕΤΟ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/paketo_slider-1819_0.jpg?itok=F9AVl-Sk" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/pamepaketo/webtv" ,ΠΑΜΕ ΠΑΚΕΤΟ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/pamepaketo.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/stamatina_tsimtsili_1_3.jpg?itok=h17NvxIm" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/happyday/webtv" ,HAPPY DAY ΣΤΟΝ ALPHA
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/stamatina_tsimtsili_1_3.jpg?itok=h17NvxIm" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/happyday/webtv" ,HAPPY DAY ΣΤΟΝ ALPHA
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/happyday.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/lk.jpg?itok=mA-O-fbW" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/akoutieipan/webtv" ,ΑΚΟΥ ΤΙ ΕΙΠΑΝ!
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/lk.jpg?itok=mA-O-fbW" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/akoutieipan/webtv" ,ΑΚΟΥ ΤΙ ΕΙΠΑΝ!
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/akoutieipan.txt
-#EXTINF:-1 group-title="ALPHA  ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/slider-christiana.jpg?itok=9TY1eKx7" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/soundtrackoflove/webtv" ,SOUNDTRACK OF LOVE
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/slider-christiana.jpg?itok=9TY1eKx7" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/soundtrackoflove/webtv" ,SOUNDTRACK OF LOVE
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/soundtrackoflove.txt
 
 
 
 
 
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== SIGMA  ΚΥΠΡΟΣ ====
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== SIGMA ΚΥΠΡΟΣ ====
 http://.....
 
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.sigmatv.com/shows/category/8|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/protoselido_540x304.jpg" tvg-website="https://www.sigmatv.com/shows/prwtoselido" ,Πρωτοσέλιδο
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/protoselido_540x304.jpg" tvg-website="https://www.sigmatv.com/shows/prwtoselido" ,Πρωτοσέλιδο
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/prwtoselido.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/mesimeri_540x304.jpg" tvg-website="https://www.sigmatv.com/shows/meshmeri-kai-kati" ,Μεσημέρι και Κάτι
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/mesimeri_540x304.jpg" tvg-website="https://www.sigmatv.com/shows/meshmeri-kai-kati" ,Μεσημέρι και Κάτι
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/meshmeri-kai-kati.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-XORIS-PERISTROFES.jpg" tvg-website="https://www.sigmatv.com/shows/xwrisperistrofes" ,Χωρίς Περιστροφές
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-XORIS-PERISTROFES.jpg" tvg-website="https://www.sigmatv.com/shows/xwrisperistrofes" ,Χωρίς Περιστροφές
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/xwrisperistrofes.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Irthe_k_Edese_504x304.jpg" tvg-website="https://www.sigmatv.com/shows/irthe-ki-edese" ,Ήρθε κι έδεσε
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Irthe_k_Edese_504x304.jpg" tvg-website="https://www.sigmatv.com/shows/irthe-ki-edese" ,Ήρθε κι έδεσε
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/irthe-ki-edese.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/EA_logo_540x304.jpg" tvg-website="https://www.sigmatv.com/shows/CyprusEatingAwards" ,Cyprus Eating Awards
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/EA_logo_540x304.jpg" tvg-website="https://www.sigmatv.com/shows/CyprusEatingAwards" ,Cyprus Eating Awards
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/CyprusEatingAwards.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Madame-figaro-awards.jpg" tvg-website="https://www.sigmatv.com/shows/madame-figaro-awards" ,Βραβεία Madame Figaro Γυναίκες της Χρονιάς
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Madame-figaro-awards.jpg" tvg-website="https://www.sigmatv.com/shows/madame-figaro-awards" ,Βραβεία Madame Figaro Γυναίκες της Χρονιάς
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/madame-figaro-awards.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/chrisomagiremata_logo_540x304.jpg" tvg-website="https://www.sigmatv.com/shows/chrisomagiremata" ,Χρυσωμαγειρέματα
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/chrisomagiremata_logo_540x304.jpg" tvg-website="https://www.sigmatv.com/shows/chrisomagiremata" ,Χρυσωμαγειρέματα
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/chrisomagiremata.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Paidiko-programma.jpg" tvg-website="https://www.sigmatv.com/shows/kids" ,Παιδικό Πρόγραμμα
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Paidiko-programma.jpg" tvg-website="https://www.sigmatv.com/shows/kids" ,Παιδικό Πρόγραμμα
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/kids.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/paidia-1974.jpg" tvg-website="https://www.sigmatv.com/shows/paidia-1974" ,Τα ασυνόδευτα παιδιά του 1974
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/paidia-1974.jpg" tvg-website="https://www.sigmatv.com/shows/paidia-1974" ,Τα ασυνόδευτα παιδιά του 1974
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/paidia-1974.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/healing.JPG" tvg-website="https://www.sigmatv.com/shows/Healing-The-wounds-USAID-In-Cyprus" ,Healing The wounds - USAID In Cyprus
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/healing.JPG" tvg-website="https://www.sigmatv.com/shows/Healing-The-wounds-USAID-In-Cyprus" ,Healing The wounds - USAID In Cyprus
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/Healing-The-wounds-USAID-In-Cyprus.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/onira.JPG" tvg-website="https://www.sigmatv.com/shows/oneira-gia-mia-oasi" ,Όνειρα για μια όαση
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/onira.JPG" tvg-website="https://www.sigmatv.com/shows/oneira-gia-mia-oasi" ,Όνειρα για μια όαση
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/oneira-gia-mia-oasi.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/1821_540x304.PNG" tvg-website="https://www.sigmatv.com/shows/1821-2021" ,200 Χρόνια από την έναρξη της Εθνικής Παλιγγενεσίας
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/1821_540x304.PNG" tvg-website="https://www.sigmatv.com/shows/1821-2021" ,200 Χρόνια από την έναρξη της Εθνικής Παλιγγενεσίας
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/1821-2021.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Exeis_ti_dinami_540x304.png" tvg-website="https://www.sigmatv.com/shows/exis-ti-dinami" ,Έχεις τη δύναμη (2018-19)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Exeis_ti_dinami_540x304.png" tvg-website="https://www.sigmatv.com/shows/exis-ti-dinami" ,Έχεις τη δύναμη (2018-19)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/exis-ti-dinami.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/logo.jpg" tvg-website="https://www.sigmatv.com/shows/elpidas-kimata" ,Ελπίδας κύματα
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/logo.jpg" tvg-website="https://www.sigmatv.com/shows/elpidas-kimata" ,Ελπίδας κύματα
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/elpidas-kimata.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Alla_Logia_thkie_papa_540x304.png" tvg-website="https://www.sigmatv.com/shows/alla-logia-thkie-papa" ,Άλλα λόγια θκειε παπά (2019)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Alla_Logia_thkie_papa_540x304.png" tvg-website="https://www.sigmatv.com/shows/alla-logia-thkie-papa" ,Άλλα λόγια θκειε παπά (2019)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/alla-logia-thkie-papa.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-aspra-mpalonia.jpg" tvg-website="https://www.sigmatv.com/shows/aspra-mpalonia" ,Άσπρα Μπαλόνια (2011-13)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-aspra-mpalonia.jpg" tvg-website="https://www.sigmatv.com/shows/aspra-mpalonia" ,Άσπρα Μπαλόνια (2011-13)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/aspra-mpalonia.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-ela-pare-me.jpg" tvg-website="https://www.sigmatv.com/shows/elapareme" ,Έλα πάρε με (2010-11)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-ela-pare-me.jpg" tvg-website="https://www.sigmatv.com/shows/elapareme" ,Έλα πάρε με (2010-11)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/elapareme.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Orkos-siopis.jpg" tvg-website="https://www.sigmatv.com/shows/orkos" ,Όρκος σιωπής (2014-15)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Orkos-siopis.jpg" tvg-website="https://www.sigmatv.com/shows/orkos" ,Όρκος σιωπής (2014-15)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/orkos.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Otan_Megaloso_Logo_540x304.png" tvg-website="https://www.sigmatv.com/shows/otan-megaloso" ,Όταν μεγαλώσω (2006)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Otan_Megaloso_Logo_540x304.png" tvg-website="https://www.sigmatv.com/shows/otan-megaloso" ,Όταν μεγαλώσω (2006)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/otan-megaloso.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-allou-ximeromenoi.jpg" tvg-website="https://www.sigmatv.com/shows/allou-ximeromenoi" ,Αλλού ξημερωμένοι (2010-11)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-allou-ximeromenoi.jpg" tvg-website="https://www.sigmatv.com/shows/allou-ximeromenoi" ,Αλλού ξημερωμένοι (2010-11)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/allou-ximeromenoi.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Anerades_white.jpg" tvg-website="https://www.sigmatv.com/shows/anerades" ,Ανεράδες (2022-23)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Anerades_white.jpg" tvg-website="https://www.sigmatv.com/shows/anerades" ,Ανεράδες (2022-23)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/anerades.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-vasilis-mixailides.jpg" tvg-website="https://www.sigmatv.com/shows/spetseris" ,Βασίλης Μιχαηλίδης (2005-2006)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-vasilis-mixailides.jpg" tvg-website="https://www.sigmatv.com/shows/spetseris" ,Βασίλης Μιχαηλίδης (2005-2006)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/spetseris.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-vasiliki.jpg" tvg-website="https://www.sigmatv.com/shows/vasiliki" ,Βασιλική (2005-06)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-vasiliki.jpg" tvg-website="https://www.sigmatv.com/shows/vasiliki" ,Βασιλική (2005-06)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/vasiliki.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logos-9.jpg" tvg-website="https://www.sigmatv.com/shows/vourate" ,Βουράτε Γειτόνοι (2001-10)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logos-9.jpg" tvg-website="https://www.sigmatv.com/shows/vourate" ,Βουράτε Γειτόνοι (2001-10)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/vourate.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-vrexei-erota.jpg" tvg-website="https://www.sigmatv.com/shows/vrexei-erwta" ,Βρέχει έρωτα (2015)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-vrexei-erota.jpg" tvg-website="https://www.sigmatv.com/shows/vrexei-erwta" ,Βρέχει έρωτα (2015)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/vrexei-erwta.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-GALATEIA.jpg" tvg-website="https://www.sigmatv.com/shows/galatia" ,Γαλάτεια (2016-20)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-GALATEIA.jpg" tvg-website="https://www.sigmatv.com/shows/galatia" ,Γαλάτεια (2016-20)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/galatia.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-epistrofi.jpg" tvg-website="https://www.sigmatv.com/shows/epistrofi" ,Επιστροφή (2008-09)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-epistrofi.jpg" tvg-website="https://www.sigmatv.com/shows/epistrofi" ,Επιστροφή (2008-09)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/epistrofi.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-7ouranoi.jpg" tvg-website="https://www.sigmatv.com/shows/eftaouranoi" ,Εφτά ουρανοί (2012-15)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-7ouranoi.jpg" tvg-website="https://www.sigmatv.com/shows/eftaouranoi" ,Εφτά ουρανοί (2012-15)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/eftaouranoi.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Venteta_540x304.jpg" tvg-website="https://www.sigmatv.com/shows/venteta" ,Η Βεντέτα (2006-08)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Venteta_540x304.jpg" tvg-website="https://www.sigmatv.com/shows/venteta" ,Η Βεντέτα (2006-08)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/venteta.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-s-logo.jpg" tvg-website="https://www.sigmatv.com/shows/pethera" ,Η Πεθερά (2020-22)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-s-logo.jpg" tvg-website="https://www.sigmatv.com/shows/pethera" ,Η Πεθερά (2020-22)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/pethera.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-tha-gyrisei-o-troxos.png" tvg-website="https://www.sigmatv.com/shows/tha-girisi-o-troxos" ,Θα γυρίσει ο τροχός (2016)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-tha-gyrisei-o-troxos.png" tvg-website="https://www.sigmatv.com/shows/tha-girisi-o-troxos" ,Θα γυρίσει ο τροχός (2016)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/tha-girisi-o-troxos.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Katalathos.jpg" tvg-website="https://www.sigmatv.com/shows/katalathos" ,Κατά Λάθος (2015)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Katalathos.jpg" tvg-website="https://www.sigmatv.com/shows/katalathos" ,Κατά Λάθος (2015)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/katalathos.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Kataigida.jpg" tvg-website="https://www.sigmatv.com/shows/kataigida" ,Καταιγίδα (2015)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Kataigida.jpg" tvg-website="https://www.sigmatv.com/shows/kataigida" ,Καταιγίδα (2015)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/kataigida.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Krifos-Kaiadas.jpg" tvg-website="https://www.sigmatv.com/shows/kaiadas" ,Κρυφός Καιάδας (2015)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Krifos-Kaiadas.jpg" tvg-website="https://www.sigmatv.com/shows/kaiadas" ,Κρυφός Καιάδας (2015)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/kaiadas.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Logia-tou-aera.jpg" tvg-website="https://www.sigmatv.com/shows/logia" ,Λόγια του αέρα (2015)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Logia-tou-aera.jpg" tvg-website="https://www.sigmatv.com/shows/logia" ,Λόγια του αέρα (2015)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/logia.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-mila-mou.jpg" tvg-website="https://www.sigmatv.com/shows/milamou" ,Μίλα μου (2007-09)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-mila-mou.jpg" tvg-website="https://www.sigmatv.com/shows/milamou" ,Μίλα μου (2007-09)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/milamou.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-mono-mia-fora.jpg" tvg-website="https://www.sigmatv.com/shows/monomiafora" ,Μόνο μια φορά (2009-10)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-mono-mia-fora.jpg" tvg-website="https://www.sigmatv.com/shows/monomiafora" ,Μόνο μια φορά (2009-10)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/monomiafora.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Oi_Adiafthoroi_Logo_540x304_-2.png" tvg-website="https://www.sigmatv.com/shows/adiafthoroi" ,Οι Αδιάφθοροι (2000-02)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Oi_Adiafthoroi_Logo_540x304_-2.png" tvg-website="https://www.sigmatv.com/shows/adiafthoroi" ,Οι Αδιάφθοροι (2000-02)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/adiafthoroi.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Oi_Takkoi_Logo_540x304.png" tvg-website="https://www.sigmatv.com/shows/takkoi" ,Οι Τάκκοι (2003-06)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Oi_Takkoi_Logo_540x304.png" tvg-website="https://www.sigmatv.com/shows/takkoi" ,Οι Τάκκοι (2003-06)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/takkoi.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/pantremenoi.jpg" tvg-website="https://www.sigmatv.com/shows/pantremenoi-ki-oi-dio" ,Παντρεμένοι κι οι δυο (2018-19)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/pantremenoi.jpg" tvg-website="https://www.sigmatv.com/shows/pantremenoi-ki-oi-dio" ,Παντρεμένοι κι οι δυο (2018-19)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/pantremenoi-ki-oi-dio.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-fonto-kokkino.jpg" tvg-website="https://www.sigmatv.com/shows/fontokokkino" ,Σε Φόντο Κόκκινο (2008-12)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-fonto-kokkino.jpg" tvg-website="https://www.sigmatv.com/shows/fontokokkino" ,Σε Φόντο Κόκκινο (2008-12)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/fontokokkino.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Ta_Xrisopsara_Logo_540x304.jpg" tvg-website="https://www.sigmatv.com/shows/xrisopsara" ,Τα Χρυσόψαρα (2005-06)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Ta_Xrisopsara_Logo_540x304.jpg" tvg-website="https://www.sigmatv.com/shows/xrisopsara" ,Τα Χρυσόψαρα (2005-06)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/xrisopsara.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-palia-gefira.png" tvg-website="https://www.sigmatv.com/shows/palia_gefira" ,Το μυστικό της παλιάς γέφυρας
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-palia-gefira.png" tvg-website="https://www.sigmatv.com/shows/palia_gefira" ,Το μυστικό της παλιάς γέφυρας
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/palia_gefira.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304.png" tvg-website="https://www.sigmatv.com/shows/neolaia" ,#Νεολαία (2016)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304.png" tvg-website="https://www.sigmatv.com/shows/neolaia" ,#Νεολαία (2016)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/neolaia.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-60-Lepta.jpg" tvg-website="https://www.sigmatv.com/shows/60-lepta" ,60 Λεπτά (2008-14)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-60-Lepta.jpg" tvg-website="https://www.sigmatv.com/shows/60-lepta" ,60 Λεπτά (2008-14)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/60-lepta.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-HONEY-MONEY.png" tvg-website="https://www.sigmatv.com/shows/honey-money" ,Honey Money by EUROFRESH (2018)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-HONEY-MONEY.png" tvg-website="https://www.sigmatv.com/shows/honey-money" ,Honey Money by EUROFRESH (2018)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/honey-money.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-joker.jpg" tvg-website="https://www.sigmatv.com/shows/joker" ,Jok3r (2013-14)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-joker.jpg" tvg-website="https://www.sigmatv.com/shows/joker" ,Jok3r (2013-14)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/joker.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-love--style.jpg" tvg-website="https://www.sigmatv.com/shows/loveandstyle" ,Love & Style (2016)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-love--style.jpg" tvg-website="https://www.sigmatv.com/shows/loveandstyle" ,Love & Style (2016)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/loveandstyle.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Mr-Cyprus.jpg" tvg-website="https://www.sigmatv.com/shows/mr-cyprus" ,Mr Cyprus (2015)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Mr-Cyprus.jpg" tvg-website="https://www.sigmatv.com/shows/mr-cyprus" ,Mr Cyprus (2015)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/mr-cyprus.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/xbxnnnv.jpg" tvg-website="https://www.sigmatv.com/shows/MyStyleRocks" ,My Style Rocks
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/xbxnnnv.jpg" tvg-website="https://www.sigmatv.com/shows/MyStyleRocks" ,My Style Rocks
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/MyStyleRocks.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/LOGO_540x304.jpg" tvg-website="https://www.sigmatv.com/shows/outdoor" ,Outdoor & Φύση (2023-24)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/LOGO_540x304.jpg" tvg-website="https://www.sigmatv.com/shows/outdoor" ,Outdoor & Φύση (2023-24)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/outdoor.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Passenger-logo-540x304.png" tvg-website="https://www.sigmatv.com/shows/Passenger" ,Passenger (2021-22)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Passenger-logo-540x304.png" tvg-website="https://www.sigmatv.com/shows/Passenger" ,Passenger (2021-22)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/Passengersigma.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304_property_moves.jpg" tvg-website="https://www.sigmatv.com/shows/propertymoves" ,Property Moves (2023-24)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304_property_moves.jpg" tvg-website="https://www.sigmatv.com/shows/propertymoves" ,Property Moves (2023-24)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/propertymoves.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logos-sasta-tzi-egeiran.jpg" tvg-website="https://www.sigmatv.com/shows/sasta" ,SASTA τζι εγείρασιν! (2012-13)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logos-sasta-tzi-egeiran.jpg" tvg-website="https://www.sigmatv.com/shows/sasta" ,SASTA τζι εγείρασιν! (2012-13)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/sasta.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Show--Avlaves.jpg" tvg-website="https://www.sigmatv.com/shows/show" ,SHOW & Αβλαβές (2015-16)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Show--Avlaves.jpg" tvg-website="https://www.sigmatv.com/shows/show" ,SHOW & Αβλαβές (2015-16)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/show.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/summer-540x304.jpg" tvg-website="https://www.sigmatv.com/shows/summer" ,SUMMER (2020)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/summer-540x304.jpg" tvg-website="https://www.sigmatv.com/shows/summer" ,SUMMER (2020)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/summer.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-SUCCESS-STORY.png" tvg-website="https://www.sigmatv.com/shows/success-story" ,Success Story (2018-19)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-SUCCESS-STORY.png" tvg-website="https://www.sigmatv.com/shows/success-story" ,Success Story (2018-19)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/success-story.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/the_match_540x304.jpg" tvg-website="https://www.sigmatv.com/shows/the-match" ,The Match (2023)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/the_match_540x304.jpg" tvg-website="https://www.sigmatv.com/shows/the-match" ,The Match (2023)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/the-match.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-musical-kids.jpg" tvg-website="https://www.sigmatv.com/shows/musical-kids" ,The Musical Kids (2015)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-musical-kids.jpg" tvg-website="https://www.sigmatv.com/shows/musical-kids" ,The Musical Kids (2015)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/musical-kids.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-SOCIAL-MEDIA-NEW.png" tvg-website="https://www.sigmatv.com/shows/social" ,The Social Media Show
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-SOCIAL-MEDIA-NEW.png" tvg-website="https://www.sigmatv.com/shows/social" ,The Social Media Show
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/social.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-alla-ntallon.jpg" tvg-website="https://www.sigmatv.com/shows/allandallon" ,Άλλαν ντάλον Α'&Β' (2009-10)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-alla-ntallon.jpg" tvg-website="https://www.sigmatv.com/shows/allandallon" ,Άλλαν ντάλον Α'&Β' (2009-10)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/allandallon.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304_Allin_mas_Edeixan.png" tvg-website="https://www.sigmatv.com/shows/allin-mas-edeixan" ,Άλλην μας εδείξαν (2019)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304_Allin_mas_Edeixan.png" tvg-website="https://www.sigmatv.com/shows/allin-mas-edeixan" ,Άλλην μας εδείξαν (2019)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/allin-mas-edeixan.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/ola_kala_540x304.png" tvg-website="https://www.sigmatv.com/shows/ola-kala" ,Όλα Καλά (2018-20)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/ola_kala_540x304.png" tvg-website="https://www.sigmatv.com/shows/ola-kala" ,Όλα Καλά (2018-20)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ola-kala.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Oso-krataei-enas-kafes.jpg" tvg-website="https://www.sigmatv.com/shows/kafes" ,Όσο κρατάει ένας καφές (2015)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Oso-krataei-enas-kafes.jpg" tvg-website="https://www.sigmatv.com/shows/kafes" ,Όσο κρατάει ένας καφές (2015)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/kafes.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-ADIAKRITOS.jpg" tvg-website="https://www.sigmatv.com/shows/adiakritos" ,Αδιακρίτως (2016)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-ADIAKRITOS.jpg" tvg-website="https://www.sigmatv.com/shows/adiakritos" ,Αδιακρίτως (2016)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/adiakritos.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Anoikti-Grammi.jpg" tvg-website="https://www.sigmatv.com/shows/anixtigrammi" ,Ανοιχτή γραμμή (2014-16)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Anoikti-Grammi.jpg" tvg-website="https://www.sigmatv.com/shows/anixtigrammi" ,Ανοιχτή γραμμή (2014-16)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/anixtigrammi.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Gia_to_kalo_sou_540x304.png" tvg-website="https://www.sigmatv.com/shows/gia-to-kalo-sou" ,Για το καλό σου (2020)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Gia_to_kalo_sou_540x304.png" tvg-website="https://www.sigmatv.com/shows/gia-to-kalo-sou" ,Για το καλό σου (2020)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/gia-to-kalo-sou.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-GIORKOS-ON-THE-STREET.jpg" tvg-website="https://www.sigmatv.com/shows/giorkos-on-the-street" ,Γιώρκος on the street (2016)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-GIORKOS-ON-THE-STREET.jpg" tvg-website="https://www.sigmatv.com/shows/giorkos-on-the-street" ,Γιώρκος on the street (2016)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/giorkos-on-the-street.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-ZHSE-to.jpg" tvg-website="https://www.sigmatv.com/shows/ziseto" ,Ζήσε το (2015)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-ZHSE-to.jpg" tvg-website="https://www.sigmatv.com/shows/ziseto" ,Ζήσε το (2015)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ziseto.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-THEKLA.png" tvg-website="https://www.sigmatv.com/shows/thekla" ,Θέκλα, Μιλάμε ανοικτά (2018-19)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-THEKLA.png" tvg-website="https://www.sigmatv.com/shows/thekla" ,Θέκλα, Μιλάμε ανοικτά (2018-19)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/thekla.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/XNXNXN.jpg" tvg-website="https://www.sigmatv.com/shows/thirasigma" ,Θύρα SIGMA (2015-17)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/XNXNXN.jpg" tvg-website="https://www.sigmatv.com/shows/thirasigma" ,Θύρα SIGMA (2015-17)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/thirasigma.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-kairos-gia-kypro.jpg" tvg-website="https://www.sigmatv.com/shows/kypros" ,Καιρός για Κύπρο (2013-14)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-kairos-gia-kypro.jpg" tvg-website="https://www.sigmatv.com/shows/kypros" ,Καιρός για Κύπρο (2013-14)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/kypros.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/lathos_kerdises_540x304.png" tvg-website="https://www.sigmatv.com/shows/lathos-kerdises" ,Λάθος, κέρδισες! (2019)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/lathos_kerdises_540x304.png" tvg-website="https://www.sigmatv.com/shows/lathos-kerdises" ,Λάθος, κέρδισες! (2019)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/lathos-kerdises.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-minima-agapis.jpg" tvg-website="https://www.sigmatv.com/shows/minima-agapis" ,Μήνυμα Αγάπης (2010-11)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-minima-agapis.jpg" tvg-website="https://www.sigmatv.com/shows/minima-agapis" ,Μήνυμα Αγάπης (2010-11)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/minima-agapis.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/logo-kouventa_540x304.jpg" tvg-website="https://www.sigmatv.com/shows/miakouventadromos" ,Μια κουβέντα δρόμος με τον Πόλυ Κυριάκου
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/logo-kouventa_540x304.jpg" tvg-website="https://www.sigmatv.com/shows/miakouventadromos" ,Μια κουβέντα δρόμος με τον Πόλυ Κυριάκου
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/miakouventadromos.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Mistika_Ygeias_kai_Omorfias_Logo_540x304.png" tvg-website="https://www.sigmatv.com/shows/Mystika-Ygeias-kai-Omorfias" ,Μυστικά Υγείας & Ομορφιάς (2020-22)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Mistika_Ygeias_kai_Omorfias_Logo_540x304.png" tvg-website="https://www.sigmatv.com/shows/Mystika-Ygeias-kai-Omorfias" ,Μυστικά Υγείας & Ομορφιάς (2020-22)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/Mystika-Ygeias-kai-Omorfias.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/PAME-EVROPI-540x304-logo-for-sigmatv.jpg" tvg-website="https://www.sigmatv.com/shows/pame_eurwpi" ,Πάμε Ευρώπη (2014)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/PAME-EVROPI-540x304-logo-for-sigmatv.jpg" tvg-website="https://www.sigmatv.com/shows/pame_eurwpi" ,Πάμε Ευρώπη (2014)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/pame_eurwpi.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/logo_petra.jpg" tvg-website="https://www.sigmatv.com/shows/petra-psalidi-molivi-xarti" ,Πέτρα, Ψαλίδι, Μολύβι, Χαρτί (2023)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/logo_petra.jpg" tvg-website="https://www.sigmatv.com/shows/petra-psalidi-molivi-xarti" ,Πέτρα, Ψαλίδι, Μολύβι, Χαρτί (2023)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/petra-psalidi-molivi-xarti.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-paradosiaki-vradia1.jpg" tvg-website="https://www.sigmatv.com/shows/paradosiaki_vradia" ,Παραδοσιακή Βραδιά (2015-20)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-paradosiaki-vradia1.jpg" tvg-website="https://www.sigmatv.com/shows/paradosiaki_vradia" ,Παραδοσιακή Βραδιά (2015-20)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/paradosiaki_vradia.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304_PERI_OREXEOS.png" tvg-website="https://www.sigmatv.com/shows/peri-orexeos" ,Περί ορέξεως (2018-20)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304_PERI_OREXEOS.png" tvg-website="https://www.sigmatv.com/shows/peri-orexeos" ,Περί ορέξεως (2018-20)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/peri-orexeos.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-prigkipas.jpg" tvg-website="https://www.sigmatv.com/shows/prigkipas" ,Πρίγκιπας
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-prigkipas.jpg" tvg-website="https://www.sigmatv.com/shows/prigkipas" ,Πρίγκιπας
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/prigkipas.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-proorismos-eftyxia.jpg" tvg-website="https://www.sigmatv.com/shows/eutixia" ,Προορισμός Ευτυχία (2016)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-proorismos-eftyxia.jpg" tvg-website="https://www.sigmatv.com/shows/eutixia" ,Προορισμός Ευτυχία (2016)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/eutixia.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Protoselido-Junior-Final-Logo-540x304.jpg" tvg-website="https://www.sigmatv.com/shows/prwtoselido.junior" ,Πρωτοσέλιδο Junior (2020)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Protoselido-Junior-Final-Logo-540x304.jpg" tvg-website="https://www.sigmatv.com/shows/prwtoselido.junior" ,Πρωτοσέλιδο Junior (2020)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/prwtoselido.junior.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-popi-antziela.jpg" tvg-website="https://www.sigmatv.com/shows/popikaiantzela" ,Πόπη και η Άντζιελα RELOADED
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-popi-antziela.jpg" tvg-website="https://www.sigmatv.com/shows/popikaiantzela" ,Πόπη και η Άντζιελα RELOADED
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/popikaiantzela.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/logo-180x180.jpg" tvg-website="https://www.sigmatv.com/shows/tilephono" ,Σπασμένο Τηλέφωνο (2015)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/logo-180x180.jpg" tvg-website="https://www.sigmatv.com/shows/tilephono" ,Σπασμένο Τηλέφωνο (2015)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/tilephono.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-stigmes-zois.jpg" tvg-website="https://www.sigmatv.com/shows/stigmes" ,Στιγμές Ζωής Α'&Β' (2009-11)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-stigmes-zois.jpg" tvg-website="https://www.sigmatv.com/shows/stigmes" ,Στιγμές Ζωής Α'&Β' (2009-11)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/stigmes.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-XASAMPOULIA.jpg" tvg-website="https://www.sigmatv.com/shows/xasampoulia" ,Τα Χασαμπουλιά (2016)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-XASAMPOULIA.jpg" tvg-website="https://www.sigmatv.com/shows/xasampoulia" ,Τα Χασαμπουλιά (2016)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/xasampoulia.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-STEKI-THS-PAREAS.jpg" tvg-website="https://www.sigmatv.com/shows/tostekitispareas" ,Το στέκι της παρέας (2016)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-STEKI-THS-PAREAS.jpg" tvg-website="https://www.sigmatv.com/shows/tostekitispareas" ,Το στέκι της παρέας (2016)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/tostekitispareas.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/3_Laloun_540x304.png" tvg-website="https://www.sigmatv.com/shows/tris-laloun" ,Τρείς Λαλούν (2019)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/3_Laloun_540x304.png" tvg-website="https://www.sigmatv.com/shows/tris-laloun" ,Τρείς Λαλούν (2019)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/tris-laloun.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Igienete_logo_540x304.png" tvg-website="https://www.sigmatv.com/shows/ygiainete" ,Υγιαίνετε (2021-22)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Igienete_logo_540x304.png" tvg-website="https://www.sigmatv.com/shows/ygiainete" ,Υγιαίνετε (2021-22)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ygiainete.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-XASMA-GENEON.jpg" tvg-website="https://www.sigmatv.com/shows/xasma-geneon" ,Χάσμα Γενεών (2016)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-XASMA-GENEON.jpg" tvg-website="https://www.sigmatv.com/shows/xasma-geneon" ,Χάσμα Γενεών (2016)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/xasma-geneon.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/mazi_se_kathe_fasi_540x304.png" tvg-website="https://www.sigmatv.com/shows/mazi-se-kathe-fasi" ,Μαζί σε κάθε φάση (2019)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/mazi_se_kathe_fasi_540x304.png" tvg-website="https://www.sigmatv.com/shows/mazi-se-kathe-fasi" ,Μαζί σε κάθε φάση (2019)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/mazi-se-kathe-fasi.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-EFKOLA-K-SPITIKA.png" tvg-website="https://www.sigmatv.com/shows/efkola-kai-spitika" ,Εύκολα & Σπιτικά (2018-19)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-EFKOLA-K-SPITIKA.png" tvg-website="https://www.sigmatv.com/shows/efkola-kai-spitika" ,Εύκολα & Σπιτικά (2018-19)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/efkola-kai-spitika.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-The-cooking.jpg" tvg-website="https://www.sigmatv.com/shows/cooking" ,The cooKING (2012-14)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-The-cooking.jpg" tvg-website="https://www.sigmatv.com/shows/cooking" ,The cooKING (2012-14)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/cooking.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-ti-tha-fame-mamma.jpg" tvg-website="https://www.sigmatv.com/shows/tithafame" ,Τι θα φάμε σήμερα μαμα; (2012-14)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-ti-tha-fame-mamma.jpg" tvg-website="https://www.sigmatv.com/shows/tithafame" ,Τι θα φάμε σήμερα μαμα; (2012-14)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/tithafame.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-mageirevontas-me-carrefour.jpg" tvg-website="https://www.sigmatv.com/shows/carrefourmagiriki" ,Μαγειρεύοντας με Carrefour (2013-14)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-mageirevontas-me-carrefour.jpg" tvg-website="https://www.sigmatv.com/shows/carrefourmagiriki" ,Μαγειρεύοντας με Carrefour (2013-14)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/carrefourmagiriki.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Kokkino-Podilato.jpg" tvg-website="https://www.sigmatv.com/shows/kokkinopodilato" ,Κόκκινο ποδήλατο (2014-15)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Kokkino-Podilato.jpg" tvg-website="https://www.sigmatv.com/shows/kokkinopodilato" ,Κόκκινο ποδήλατο (2014-15)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/kokkinopodilato.txt
-#EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-gefseis.jpg" tvg-website="https://www.sigmatv.com/shows/miavalitsageusis" ,Μια Βαλίτσα Γεύσεις (2016-18)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-gefseis.jpg" tvg-website="https://www.sigmatv.com/shows/miavalitsageusis" ,Μια Βαλίτσα Γεύσεις (2016-18)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/miavalitsageusis.txt
 
 
 
 
 
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== OMEGA  ΚΥΠΡΟΣ ====
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== OMEGA ΚΥΠΡΟΣ ====
 http://.....
 
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.omegatv.com.cy/cgibin/hweb?-V=tvshows&_FCATEGORY%3E=110001&_FCATEGORY%3C=110004&-Sr&-dtvshows.html&_VSECTION=7010|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180824_simiakaiterata.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=97692&-V=tvshows" ,ΣΗΜΕΙΑ ΚΑΙ ΤΕΡΑΤΑ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180824_simiakaiterata.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=97692&-V=tvshows" ,ΣΗΜΕΙΑ ΚΑΙ ΤΕΡΑΤΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20180824_simiakaiterata.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/mia-tou-klefti.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=179305&-V=tvshows" ,ΜΙΑ ΤΟΥ ΚΛΕΦΤΗ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/mia-tou-klefti.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=179305&-V=tvshows" ,ΜΙΑ ΤΟΥ ΚΛΕΦΤΗ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/mia-tou-klefti.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180824_alaloum.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=140126&-V=tvshows" ,ΣΤΟ ΑΛΑΛΟΥΜ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180824_alaloum.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=140126&-V=tvshows" ,ΣΤΟ ΑΛΑΛΟΥΜ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20180824_alaloum.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180824_imamaleipei.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=122975&-V=tvshows" ,Η ΜΑΜΑ ΛΕΙΠΕΙ ΤΑΞΙΔΙ ΓΙΑ ΔΟΥΛΕΙΕΣ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180824_imamaleipei.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=122975&-V=tvshows" ,Η ΜΑΜΑ ΛΕΙΠΕΙ ΤΑΞΙΔΙ ΓΙΑ ΔΟΥΛΕΙΕΣ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20180824_imamaleipei.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/20160822_zoimou.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=122976&-V=tvshows" ,ΖΩΗ ΜΟΥ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/20160822_zoimou.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=122976&-V=tvshows" ,ΖΩΗ ΜΟΥ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20160822_zoimou.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20181109_giatros.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=139531&-V=tvshows" ,ΜΠΡΑΒΟ ΓΙΑΤΡΕ ΜΟΥ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20181109_giatros.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=139531&-V=tvshows" ,ΜΠΡΑΒΟ ΓΙΑΤΡΕ ΜΟΥ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20181109_giatros.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180301_ou_pseudomartirisis.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=138435&-V=tvshows" ,ΟΥ ΨΕΥΔΟΜΑΡΤΥΡΗΣΕΙΣ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180301_ou_pseudomartirisis.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=138435&-V=tvshows" ,ΟΥ ΨΕΥΔΟΜΑΡΤΥΡΗΣΕΙΣ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20180301_ou_pseudomartirisis.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180309_deyteri_zoi.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=138638&-V=tvshows" ,ΔΕΥΤΕΡΗ ΖΩΗ ΔΕΝ ΕΧΕΙ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180309_deyteri_zoi.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=138638&-V=tvshows" ,ΔΕΥΤΕΡΗ ΖΩΗ ΔΕΝ ΕΧΕΙ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20180309_deyteri_zoi.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180222_reunion.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=138226&-V=tvshows" ,REUNION
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180222_reunion.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=138226&-V=tvshows" ,REUNION
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20180222_reunion.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180216_ou_mixeuseis.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=138079&-V=tvshows" ,ΟΥ ΜΟΙΧΕΥΣΕΙΣ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180216_ou_mixeuseis.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=138079&-V=tvshows" ,ΟΥ ΜΟΙΧΕΥΣΕΙΣ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20180216_ou_mixeuseis.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20181108_gata.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=138040&-V=tvshows" ,ΟΥΤΕ ΓΑΤΑ ΟΥΤΕ ΖΗΜΙΑ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20181108_gata.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=138040&-V=tvshows" ,ΟΥΤΕ ΓΑΤΑ ΟΥΤΕ ΖΗΜΙΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20181108_gata.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180202_perasmenes_mou_agapes.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=137648&-V=tvshows" ,ΠΕΡΑΣΜΕΝΕΣ ΜΟΥ ΑΓΑΠΕΣ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180202_perasmenes_mou_agapes.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=137648&-V=tvshows" ,ΠΕΡΑΣΜΕΝΕΣ ΜΟΥ ΑΓΑΠΕΣ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20180202_perasmenes_mou_agapes.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/defacto-press.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=185851&-V=tvshows" ,DE FACTO
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/defacto-press.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=185851&-V=tvshows" ,DE FACTO
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/defacto-press.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/inealithia650x420px.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=159319&-V=tvshows" ,ΕΙΝΑΙ ΑΛΗΘΕΙΑ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/inealithia650x420px.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=159319&-V=tvshows" ,ΕΙΝΑΙ ΑΛΗΘΕΙΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/inealithia650x420px.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/aixmes.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=157455&-V=tvshows" ,ΑΙΧΜΕΣ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/aixmes.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=157455&-V=tvshows" ,ΑΙΧΜΕΣ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/aixmes.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2017/20171019_vote.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=134232&-V=tvshows" ,VOTE
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2017/20171019_vote.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=134232&-V=tvshows" ,VOTE
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20171019_vote.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/kathimasanatoli.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=133669&-V=tvshows" ,ΚΑΘ' ΗΜΑΣ ΑΝΑΤΟΛΗ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/kathimasanatoli.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=133669&-V=tvshows" ,ΚΑΘ' ΗΜΑΣ ΑΝΑΤΟΛΗ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/kathimasanatoli.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2017/20170928_diadromi.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=133484&-V=tvshows" ,ΔΙΑΔΡΟΜΗ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2017/20170928_diadromi.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=133484&-V=tvshows" ,ΔΙΑΔΡΟΜΗ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20170928_diadromi.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2017/20170928_kyprion_erga.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=133486&-V=tvshows" ,ΚΥΠΡΙΩΝ ΕΡΓΑ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2017/20170928_kyprion_erga.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=133486&-V=tvshows" ,ΚΥΠΡΙΩΝ ΕΡΓΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20170928_kyprion_erga.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/20160920_veto_tvshow.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=123855&-V=tvshows" ,ΒΕΤΟ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/20160920_veto_tvshow.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=123855&-V=tvshows" ,ΒΕΤΟ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20160920_veto_tvshow.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/20160205_at_night.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=117533&-V=tvshows" ,@night
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/20160205_at_night.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=117533&-V=tvshows" ,@night
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20160205_at_night.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/20151013_antiklidi.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=105881&-V=tvshows" ,ΑΝΤΙΚΛΕΙΔΙ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/20151013_antiklidi.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=105881&-V=tvshows" ,ΑΝΤΙΚΛΕΙΔΙ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20151013_antiklidi.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/prosopa_informative.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=35441&-V=tvshows" ,ΠΡΟΣΩΠΑ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/prosopa_informative.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=35441&-V=tvshows" ,ΠΡΟΣΩΠΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/prosopa_informative.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180105_ExisMeson.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=963&-V=tvshows" ,ΕΧΕΙΣ ΜΕΣΟΝ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180105_ExisMeson.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=963&-V=tvshows" ,ΕΧΕΙΣ ΜΕΣΟΝ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20180105_ExisMeson.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/poreia-istoria-1000x650.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=200426&-V=tvshows" ,ΚΑΘΕ ΠΟΡΕΙΑ...ΜΙΑ ΙΣΤΟΡΙΑ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/poreia-istoria-1000x650.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=200426&-V=tvshows" ,ΚΑΘΕ ΠΟΡΕΙΑ...ΜΙΑ ΙΣΤΟΡΙΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/poreia-istoria-1000x650.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/famestoryport-1-.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=197318&-V=tvshows" ,FAME STORY
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/famestoryport-1-.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=197318&-V=tvshows" ,FAME STORY
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/famestoryport-1-.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/elanadeis-1-.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=149616&-V=tvshows" ,ΕΛΑ ΝΑ ΔΕΙΣ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/elanadeis-1-.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=149616&-V=tvshows" ,ΕΛΑ ΝΑ ΔΕΙΣ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/elanadeis-1-.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/syntages650x420.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=183200&-V=tvshows" ,ΧΡΥΣΕΣ ΣΥΝΤΑΓΕΣ ΑΠΟ ΣΠΙΤΙ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/syntages650x420.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=183200&-V=tvshows" ,ΧΡΥΣΕΣ ΣΥΝΤΑΓΕΣ ΑΠΟ ΣΠΙΤΙ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/syntages650x420.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/650x420-iasonos.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=179883&-V=tvshows" ,ΡΙΞΕ ΜΙΑ ΖΑΡΙΑ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/650x420-iasonos.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=179883&-V=tvshows" ,ΡΙΞΕ ΜΙΑ ΖΑΡΙΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/650x420-iasonos.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/omgshow-650.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=174983&-V=tvshows" ,THE OMG SHOW
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/omgshow-650.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=174983&-V=tvshows" ,THE OMG SHOW
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omgshow.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/exo-kati-na-sou-po-650x420px_1.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=170565&-V=tvshows" ,ΕΧΩ ΚΑΤΙ ΝΑ ΣΟΥ ΠΩ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/exo-kati-na-sou-po-650x420px_1.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=170565&-V=tvshows" ,ΕΧΩ ΚΑΤΙ ΝΑ ΣΟΥ ΠΩ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/exo-kati-na-sou-po.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/stavris-650x420.png" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=165385&-V=tvshows" ,ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/stavris-650x420.png" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=165385&-V=tvshows" ,ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/stavris.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/omega-troll-show-p-650x420px.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=162871&-V=tvshows" ,OMEGA TROLL SHOW
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/omega-troll-show-p-650x420px.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=162871&-V=tvshows" ,OMEGA TROLL SHOW
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega-troll-show-p.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/KITRINA-GILEKA-650x420px.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=151042&-V=tvshows" ,ΚΙΤΡΙΝΑ ΓΙΛΕΚΑ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/KITRINA-GILEKA-650x420px.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=151042&-V=tvshows" ,ΚΙΤΡΙΝΑ ΓΙΛΕΚΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/KITRINA-GILEKA.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/xaroumenos-taxidioths-650x420px-v6.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=146108&-V=tvshows" ,ΧΑΡΟΥΜΕΝΟΣ ΤΑΞΙΔΙΩΤΗΣ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/xaroumenos-taxidioths-650x420px-v6.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=146108&-V=tvshows" ,ΧΑΡΟΥΜΕΝΟΣ ΤΑΞΙΔΙΩΤΗΣ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/xaroumenos-taxidioths.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/fars-attack-650x420px-v4.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=140112&-V=tvshows" ,FARS ATTACK
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/fars-attack-650x420px-v4.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=140112&-V=tvshows" ,FARS ATTACK
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/fars-attack.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/PAREA-MOU-650420px.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=144221&-V=tvshows" ,ΠΑΡΕΑ mou
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/PAREA-MOU-650420px.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=144221&-V=tvshows" ,ΠΑΡΕΑ mou
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/PAREA-MOU.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2017/20171016_alazo.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=134076&-V=tvshows" ,αλλά-ΖΩ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2017/20171016_alazo.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=134076&-V=tvshows" ,αλλά-ΖΩ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20171016_alazo.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2017/20171010_star_cyprus_2017.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=133852&-V=tvshows" ,STAR Κύπρος 2017
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2017/20171010_star_cyprus_2017.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=133852&-V=tvshows" ,STAR Κύπρος 2017
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20171010_star_cyprus_2017.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2017/20171005_30_meres.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=133707&-V=tvshows" ,30 ΜΕΡΕΣ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2017/20171005_30_meres.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=133707&-V=tvshows" ,30 ΜΕΡΕΣ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20171005_30_meres.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2017/san_tin_kypro_20170713_2.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=130937&-V=tvshows" ,ΣΑΝ ΤΗΝ ΚΥΠΡΟ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2017/san_tin_kypro_20170713_2.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=130937&-V=tvshows" ,ΣΑΝ ΤΗΝ ΚΥΠΡΟ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/san_tin_kypro_20170713_2.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/20160822_olagiasena.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=122973&-V=tvshows" ,ΟΛΑ ΓΙΑ ΣΕΝΑ! (2016-18)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/20160822_olagiasena.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=122973&-V=tvshows" ,ΟΛΑ ΓΙΑ ΣΕΝΑ! (2016-18)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20160822_olagiasena.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/20160822_starkypros.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=122971&-V=tvshows" ,STAR ΚΥΠΡΟΣ 2016
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/20160822_starkypros.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=122971&-V=tvshows" ,STAR ΚΥΠΡΟΣ 2016
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20160822_starkypros.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/20161104_xypnisate.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=122972&-V=tvshows" ,ΞΥΠΝΗΣΑΤΕ;
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/20161104_xypnisate.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=122972&-V=tvshows" ,ΞΥΠΝΗΣΑΤΕ;
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20161104_xypnisate.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/20160406_like_a_star.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=119283&-V=tvshows" ,LIKE A STAR
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/20160406_like_a_star.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=119283&-V=tvshows" ,LIKE A STAR
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20160406_like_a_star.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/fakatetous.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=97690&-V=tvshows" ,FAKATE ΤΟΥΣ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/fakatetous.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=97690&-V=tvshows" ,FAKATE ΤΟΥΣ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/fakatetous.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/20150831_dansing.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=97693&-V=tvshows" ,DANSING JUNIOR
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/20150831_dansing.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=97693&-V=tvshows" ,DANSING JUNIOR
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20150831_dansing.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180201_dansing6.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=1062&-V=tvshows" ,DANSING FOR YOU
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180201_dansing6.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=1062&-V=tvshows" ,DANSING FOR YOU
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20180201_dansing6.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/oopene-650x420.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=149110&-V=tvshows" ,ΧΡΙΣΤΟΥΓΕΝΝΑ ΣΤΗΝ ΠΑΛΙΑ ΠΟΛΗ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/oopene-650x420.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=149110&-V=tvshows" ,ΧΡΙΣΤΟΥΓΕΝΝΑ ΣΤΗΝ ΠΑΛΙΑ ΠΟΛΗ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/oopene.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cyhttp://www.omegatv.com.cy/pictures/2019/iq160.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=188271&-V=tvshows" ,IQ 160
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cyhttp://www.omegatv.com.cy/pictures/2019/iq160.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=188271&-V=tvshows" ,IQ 160
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/iq160.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/erwtas-650x420.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=183392&-V=tvshows" ,ΕΡΩΤΑΣ ΦΥΓΑΣ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/erwtas-650x420.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=183392&-V=tvshows" ,ΕΡΩΤΑΣ ΦΥΓΑΣ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/erwtas.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/hdikhmasoikogeneia.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=195847&-V=tvshows" ,Η ΔΙΚΗ ΜΑΣ ΟΙΚΟΓΕΝΕΙΑ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/hdikhmasoikogeneia.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=195847&-V=tvshows" ,Η ΔΙΚΗ ΜΑΣ ΟΙΚΟΓΕΝΕΙΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/hdikhmasoikogeneia.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/1000x650-v8.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=204068&-V=tvshows" ,ΣΑΝ ΨΕΜΑ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/1000x650-v8.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=204068&-V=tvshows" ,ΣΑΝ ΨΕΜΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/1000x650-v8.txt
-#EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/1000x650-v6.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=200070&-V=tvshows" ,ΣΤΑ ΣΥΝΟΡΑ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/1000x650-v6.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=200070&-V=tvshows" ,ΣΤΑ ΣΥΝΟΡΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/1000x650-v6.txt
 
 
