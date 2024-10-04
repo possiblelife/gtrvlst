@@ -1271,7 +1271,7 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/1000x6
 #EXTINF:-1 group-title="RIK  ΚΥΠΡΟΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== RIK1  ΚΥΠΡΟΣ ====
 http://.....
 
-#EXTINF:-1 group-title="RIK  ΚΥΠΡΟΣ" tvg-logo="http://cybc.com.cy/wp-content/themes/custom/images/logo.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
+#EXTINF:-1 group-title="RIK  ΚΥΠΡΟΣ" tvg-logo="https://i.ibb.co/cJtshcJ/rik-logo.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://tv.rik.cy/category/seires/|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="RIK  ΚΥΠΡΟΣ" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/PERIKLIS_TZAI_ERIETTA_-_PORTRAIT.17f294d5.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/perikles-tzai-erietta/" ,Περικλής τζαι Εριέττα
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/perikles-tzai-erietta.txt
