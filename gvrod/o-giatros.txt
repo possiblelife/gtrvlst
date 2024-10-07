@@ -34,3 +34,5 @@ https://www.alphatv.gr/show/o-giatros/?vtype=player&vid=58341&showId=1440&year=2
 https://www.alphatv.gr/show/o-giatros/?vtype=player&vid=60548&showId=1440&year=2024|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2",ΕΠΕΙΣΟΔΙΟ 2
 https://www.alphatv.gr/show/o-giatros/?vtype=player&vid=60549&showId=1440&year=2024|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 2",ΕΠΕΙΣΟΔΙΟ 3
+https://www.alphatv.gr/show/o-giatros/?vtype=player&vid=60587&showId=1440&year=2024|webvidfulldig

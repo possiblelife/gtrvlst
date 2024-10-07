@@ -872,165 +872,141 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=58354&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=58355&showId=869&year=2023|webvidfulldig
 #EXTINF:-1 group-title="2023",Η πρόσκληση
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=58356&showId=869&year=2023|webvidfulldig
-#EXTINF:-1 group-title="2024",Ο χειριστικός
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=58502&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Δεν κάνει για σένα
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=58503&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Το παιδί του
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=58504&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Επικίνδυνα παιχνίδια
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=58505&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Γονείς επί δύο
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=58506&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Η φτωχή συγγενής
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=58507&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Ο νόμος των πιθανοτήτων
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=58558&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Οικογενειακές δυσκολίες
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=58559&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Ο γάμος
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=58655&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Συν και πλην
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=58560&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Η λαϊκή
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=58656&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Ο πεθερός
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=58657&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Λύση ανάγκης
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=58706&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Ο ανασφαλής
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=58707&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Το δόλωμα
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=58736&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Μια πόρτα
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=58778&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Οικογενειακό τραπέζι
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=58779&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Φλερτ
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=58781&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Είμαι άσχημη
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=58837&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Οι κολλητές
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=58838&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Brain drain
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=58914&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Τα στραβά μάτια
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=58904&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Βουλιμία
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=58928&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Η πυραμίδα
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59007&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Η σύμπτωση
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59006&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Ο γκαντέμης
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59005&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Παρενθέσεις
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59101&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Ο οικονόμος
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59102&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Στο πουθενά
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59103&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Το παλιό σινεμά
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59104&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Ο κουτσομπόλης
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59126&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Στοίχημα για δύο
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59193&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Ανάρμοστη σχέση
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59194&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Η ανταπόδωση
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59195&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Για το καλό του
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59196&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Η παρεξηγημένη
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59274&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Το προσκλητήριο
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59275&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Σαν ξένοι
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59310&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Reunion party
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59364&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Η μάνατζερ
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59365&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Φίδι στον κόρφο
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59366&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Το ωδείο
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59456&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Οι συνένοχοι
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59438&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Η συνταξιούχος
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59445&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Η άπιστη
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59501&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Ο χωρισμένος
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59502&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Ο σεσημασμένος
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59503&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Ο νάρκισσος
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59581&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Το τριήμερο
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59582&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Δε μου πέφτει λόγος
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59583&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Όταν σβήνει η κάμερα
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59659&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Οι συγκάτοικοι
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59660&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Καινούργια δουλειά
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59661&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Βραχυπρόθεσμη απιστία
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59734&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Θύτης και θύμα
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59735&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Το πισωγύρισμα
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59736&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Η κοριτσοπαρέα
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59892&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Ας μείνει μεταξύ μας
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59893&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Η αδυναμία
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59894&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Το σπίτι
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59959&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Ο αρρωστοφοβικός
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59973&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Ανάμεσα
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59974&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Η ταμπέλα
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60028&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Ωμή ειλικρίνεια
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60027&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Ο μόνιμος
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60029&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Το πρώτο βήμα
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60111&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Ο άγνωστος
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60142&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Η νέα σύντροφος
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60143&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Ο καχύποπτος
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60176&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Ο ψεύτης
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60177&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Το τρακτέρ
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60178&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Μην απαντάς
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60274&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Μόνος ψάχνει
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60275&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Το ταξίδι
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60276&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Οι ανταγωνιστές
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60344&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Κρυφή ζωή
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60345&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Η κολλητή
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60346&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Το χιτ
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60481&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Η τεμπέλα
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60482&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Η προτίμηση
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60483&showId=869&year=2024|webvidfulldig
-#EXTINF:-1 group-title="2024",Ο παλιός
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60484&showId=869&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Ο μυστηριώδης φίλος του γιου μου
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59009&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Μαύρη χήρα
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59013&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Εξαφάνιση πριν το γάμο
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59014&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Ο άγνωστος εισβολέας
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59015&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Καινούργιοι γείτονες, παλιό τραύμα
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59016&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Διπρόσωπη φίλη
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59096&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Η εξαφάνιση του ανηψιού μου
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59097&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Οι πληγές του παρελθόντος
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59098&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Η αδερφή μου και ο κρατούμενος
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59099&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν φ",ραγισμένα χείλη
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59100&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Ο βανδαλισμός
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59164&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Ο ορφανός γιατρός
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59165&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Καταραμένα χρήματα
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59166&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Φτου ξελευτερία
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59167&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Το παιχνίδι της μοίρας
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59305&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Η υπόσχεση
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59306&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Ντελίβερι διαρρήξεις
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59307&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Ένοχος σωτήρας
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59308&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Εξαφανισμένος γιος
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59309&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Άγνωστη απειλή
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59360&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Έρωτα μην τρέχεις
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59361&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Ο ασυνεπής σύζυγος
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59362&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Το μυστήριο της διπλανής πόρτας
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59363&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Η μετανάστευση της κόρης μας
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59439&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Απειλές
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59440&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Μητρικό ένστικτο
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59441&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Αξέχαστο μπάτσελορ
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59504&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν υ",ζυγικά παραπτώματα
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59505&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Οι δίδυμοι
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59506&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Η μικρή μας αδερφή
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59507&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Το μυστικό της φίλης μου
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59508&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Η ζωή μιας άλλης
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59837&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Ο άγνωστος φιλοξενούμενος
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59838&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Αθώος ή ένοχος
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59839&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Η εκδρομή των αποκαλύψεων
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59840&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Διακοπές στην Κόστα Ρίκα
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59841&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Η γυναίκα του πατέρα μου
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59895&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Ο επικίνδυνος σύντροφος
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59896&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν τ",η βάση της πυραμίδας
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59897&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Το δίλημμα
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59898&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Η ψυχαναγκαστική συγκάτοικος
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59931&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Απατεώνας εργολάβος
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59958&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Η κοπέλα του γιου μου
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59968&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Οι παλιές κακιές συνήθειες
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59970&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Η επιστροφή
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59971&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Το παιδί ανάμεσά μας
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=59972&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν η",μάδια ζωής
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60030&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Αδερφική αντιζηλεία
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60031&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Κολλητές 20 χρόνια μετά
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60032&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Αδιέξοδος έρωτας
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60033&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Προσωρινά δραπέτης
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60068&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Άσπονδα αδέρφια
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60122&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Δύο ταβέρνες σε πόλεμο
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60110&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Οι διακοπές της κόρης μου
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60130&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Θαμμένα μυστικά
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60131&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν υ",γκατοίκηση με την πεθερά
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60180&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Τριανδρία
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60181&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Μοιραίο ατύχημα
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60182&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Ανεπιθύμητος συγκάτοικος
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60183&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Μοιραία γειτνίαση
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60237&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Ο χαϊδεμένος γιος
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60273&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Άφαντος
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60279&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Ξεχάσαμε την κόρη μας
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60294&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Ένα μωρό στην πόρτα μας
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60295&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Οι καλοί γείτονες
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60310&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Αναστάτωση σε ξένο σπίτι
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60347&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Κρυφός γάμος
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60348&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Ληστεία στη χρηματαποστολή
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60367&showId=1426&year=2024|webvidfulldig
+#EXTINF:-1 group-title="2024",Το στοιχειωμένο σπίτι
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=60368&showId=1426&year=2024|webvidfulldig
