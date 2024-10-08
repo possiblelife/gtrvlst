@@ -164,6 +164,8 @@ http://.....
 
 #EXTINF:-1 group-title="MEGA" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.megatv.com/allshows/#GreekSeries|webvod zoom=100 scroll=0,0
+
+
 #EXTINF:-1 group-title="MEGA" tvg-logo="https://www.megatv.com/wp-content/uploads/2023/09/POSTER_-copy.jpg" tvg-website="https://www.megatv.com/ekpompes/464758/i-gi-tis-elias/" ,Η Γη της Ελιάς
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/i-gi-tis-elias.txt
 #EXTINF:-1 group-title="MEGA" tvg-logo="https://www.megatv.com/wp-content/uploads/2024/07/POSTER_ΤΑΜΠΟΥ-2.jpg" tvg-website="https://www.megatv.com/ekpompes/1618499/tampou/" ,Ταμπού
