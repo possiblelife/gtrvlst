@@ -463,3 +463,7 @@ https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2024-06-22-17|webvidf
 https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2024-06-29-18|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 9",Σίφνος | Μέρος Β 06/07/2024                            
 https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2024-07-06-17|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 10",Πόλη του Μεξικού | Μέρος Α' Επεισόδιο 1
+https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2024-09-29-17|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 10",Πόλη του Μεξικού | Μέρος Β' Επεισόδιο 2
+https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2024-10-06-17|webvidfulldig

@@ -132,6 +132,18 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/agriag
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/8lexeis.txt
 #EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/polykatoikia_1920x1080.jpg" tvg-website="https://www.skai.gr/tv/show/seires/tha-ginei-tis-polukatoikias/1os-kuklos" ,Θα Γίνει Της Πολυκατοικίας(2019-2020)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/polikatikias.txt
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/files/my_style_rocks/2024_2025/logos/msr_land.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/my-style-rocks-bootcamp/sezon-2024-2025" ,My Style Rocks (2024-2025)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/my-style-rocks.txt
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/files/mom_cooks_better/2024_2025/logos/mama_land.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/i-mama-moy-mageireyei-kalytera-apo-ti-diki-soy/sezon-2024-2025" ,Η Μαμά μου Μαγειρεύει Καλύτερα από τη Δική σου (2024-2025)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/i-mama-moy.txt
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/files/survivor/logos/lianos_land.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/survivor/sezon-2024-2025" ,Survivor (2024-2025)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/survivor.txt
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/files/tempting_fortune/logos/tempting_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/tempting-fortune/sezon-2024-2025" ,Tempting Fortune (2024-2025)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/tempting_fortune.txt
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/files/still_standing/logos/ss_land.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/still-standing/sezon-2024-2025" ,Still Standing (2023-2024)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/still-standing.txt
+#EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/files/my_man_can/logos/fanis_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/my-man-can-2/sezon-2023-2024" ,My Man Can (2023-2024)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/my_man_can.txt
 #EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/oragiafagito2.jpg"  tvg-website="https://www.skai.gr/tv/show/psuchagogia/ora-gia-fagito/sezon-2020-2021" ,Ώρα Για Φαγητό με την Αργυρώ(2020-2022)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ora-gia-fagito.txt
 #EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/psixouli_landscape.jpg"  tvg-website="https://www.skai.gr/tv/show/psuchagogia/suntages-psuchis/archeio#tab1" ,Συνταγές Ψυχής(2020-2021)
@@ -144,20 +156,7 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/bbq-st
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/sabbato-me-filous.txt
 #EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/2023_2024/souleimark_1280x720.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/souleimark-o-megaloprepis/sezon-2023-2024#tab8" ,Σουλεϊμάρκ ο Μεγαλοπρεπής
 https://www.skai.gr/tv/episode/psuchagogia/souleimark-o-megaloprepis/2023-12-22-21|webvidfulldig
-#EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/files/my_style_rocks/2024_2025/logos/msr_land.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/my-style-rocks-bootcamp/sezon-2024-2025" ,My Style Rocks (2024-2025)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/my-style-rocks.txt
-#EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/files/mom_cooks_better/2024_2025/logos/mama_land.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/i-mama-moy-mageireyei-kalytera-apo-ti-diki-soy/sezon-2024-2025" ,Η Μαμά μου Μαγειρεύει Καλύτερα από τη Δική σου (2024-2025)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/i-mama-moy.txt
-#EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/files/survivor/logos/lianos_land.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/survivor/sezon-2024-2025" ,Survivor (2024-2025)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/survivor.txt
-#EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/files/tempting_fortune/logos/tempting_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/tempting-fortune/sezon-2024-2025" ,Tempting Fortune (2024-2025)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/tempting_fortune.txt
-#EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/files/power_of_love/logos/karavatou_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/power-of-love-2/sezon-2023-2024" ,Power of Love (2023-2024)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/power_of_love.txt
-#EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/files/still_standing/logos/ss_land.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/still-standing/sezon-2024-2025" ,Still Standing (2023-2024)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/still-standing.txt
-#EXTINF:-1 group-title="SKAI" tvg-logo="https://media.skaitv.gr/images/450/0/files/my_man_can/logos/fanis_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/my-man-can-2/sezon-2023-2024" ,My Man Can (2023-2024)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/my_man_can.txt
+
 
 
 #EXTINF:-1 group-title="MEGA" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== MEGA ====
