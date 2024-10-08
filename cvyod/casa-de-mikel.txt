@@ -392,3 +392,7 @@ https://www.ant1live.com/webtv/psyhagogia/casa-de-mikel/epeisodio-40|webfulldig
 https://www.ant1live.com/webtv/psyhagogia/casa-de-mikel/epeisodio-1-4|webfulldig
 #EXTINF:-1 group-title="Season6",ΕΠΕΙΣΟΔΙΟ 2
 https://www.ant1live.com/webtv/psyhagogia/casa-de-mikel/epeisodio-2-4|webfulldig
+#EXTINF:-1 group-title="Season6",ΕΠΕΙΣΟΔΙΟ 3
+https://www.ant1live.com/webtv/psyhagogia/casa-de-mikel/epeisodio-3-4|webfulldig
+#EXTINF:-1 group-title="Season6",ΕΠΕΙΣΟΔΙΟ 4
+https://www.ant1live.com/webtv/psyhagogia/casa-de-mikel/epeisodio-4-4|webfulldig
