@@ -382,10 +382,6 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/grandh
 http://.....
 #EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://goo.gl/q5aDRg" ,ΟΛΕΣ ΟΙ ΕΚΠΟΜΠΕΣ
 https://www.antenna.gr/shows|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/8d176789-4df2-49c3-980e-1bd521669cdb.jpg" tvg-website="https://www.antenna.gr/magissaflegomenikardia/videos" ,Η ΜΑΓΙΣΣΑ ΦΛΕΓΟΜΕΝΗ ΚΑΡΔΙΑ
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/magissaflegomenikardia.txt
-#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/b59f54ba-fe5a-462a-bf30-20d962234d49.jpg" tvg-website="https://www.antenna.gr/grandhotel/videos" ,GRAND HOTEL
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/grandhotel.txt
 #EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/a354cf6a-d2cc-4c4c-b1e6-1d42a334778c.jpg" tvg-website="https://www.antenna.gr/kalimeraellada/videos" ,ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/kalimeraellada.txt
 #EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/1b5ce3c6-76c1-4545-ab73-626297bed8ff.jpg" tvg-website="https://www.antenna.gr/enwpiosenwpiw/videos" ,ΕΝΩΠΙΟΣ ΕΝΩΠΙΩ
@@ -626,22 +622,6 @@ http://.....
 
 #EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://goo.gl/z2xi2U" ,ΟΛΕΣ ΟΙ ΕΚΠΟΜΠΕΣ
 https://www.star.gr/tv/psychagogia|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/png/files/seires/iq_160/season_2/final/iq_160-287x382-season2.png" tvg-website="https://www.star.gr/tv/seires/iq-160" ,IQ 160
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/iq-160.txt
-#EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/seires/sta_sunora/final/sta_synora-287x382a.jpg" tvg-website="https://www.star.gr/tv/seires/sta-sunora" ,ΣΤΑ ΣΥΝΟΡΑ
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/sta-sunora.txt
-#EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/1/jpg/files/seires%202021-22/erotas_me_diafora_s2_287x382.jpg" tvg-website="https://www.star.gr/tv/seires/erotas-me-diafora" ,ΕΡΩΤΑΣ ΜΕ ΔΙΑΦΟΡΑ
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/erotas-me-diafora.txt
-#EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/seires/%CE%B7_%CE%BC%CE%B1%CE%BC%CE%B1_%CE%BB%CE%B5%CE%B9%CF%80%CE%B5%CE%B9_%CF%84%CE%B1%CE%BE%CE%B9%CE%B4%CE%B9_%CE%B3%CE%B9%CE%B1_%CE%B4%CE%BF%CF%85%CE%BB%CE%B5%CE%B9%CE%B5%CF%83-287x382.jpg" tvg-website="https://www.star.gr/tv/seires/i-mama-leipei-taksidi-gia-douleies" ,Η ΜΑΜΑ ΛΕΙΠΕΙ ΤΑΞΙΔΙ ΓΙΑ ΔΟΥΛΕΙΕΣ
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/i-mama-leipei-taksidi-gia-douleies.txt
-#EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/300-O-ANTRAS-TON-ONEIRON-MOU.jpg" tvg-website="https://www.star.gr/tv/seires/o-adras-ton-oneiron-mou" ,Ο ΑΝΤΡΑΣ ΤΩΝ ΟΝΕΙΡΩΝ ΜΟΥ
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/o-adras-ton-oneiron-mou.txt
-#EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/2/jpg/files/monk_300x693.jpg" tvg-website="https://www.star.gr/tv/seires/detektiv-monk-monk" ,ΝΤΕΤΕΚΤΙΒ ΜΟΝΚ (MONK)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/detektiv-monk-monk.txt
-#EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/seires/the_closer/the_closer-287x382.jpg" tvg-website="https://www.star.gr/tv/seires/the-closer" ,THE CLOSER
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/the-closer.txt
-#EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/seires/ncis/season_17/ncis-s17-287x382.jpg" tvg-website="https://www.star.gr/tv/seires/ncis" ,NCIS
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ncis.txt
 #EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/jpeg/files/farma/2024/temp/farma-2024-25-287x382-koutsopoulos-temp.jpeg" tvg-website="https://www.star.gr/tv/psychagogia/farma" ,ΦΑΡΜΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/farma.txt
 #EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/png/files/breakfast_2024-25/final/breakfast_star_2024-25-640x736-finalb.png" tvg-website="https://www.star.gr/tv/psychagogia/breakfaststar" ,BREAKFAST@STAR
@@ -690,7 +670,7 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/globet
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΕΡΤ ====
 http://.....
 
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
+#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.ertflix.gr/show/series|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Κινούμενα Σχέδια
 https://www.ertflix.gr/show/children|webmulti zoom=100 scroll=0,0
