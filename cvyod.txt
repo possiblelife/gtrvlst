@@ -549,6 +549,9 @@ http://.....
 
 #EXTINF:-1 group-title="OMEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΟΛΕΣ ΟΙ ΕΚΠΟΜΠΕΣ
 https://www.omegatv.com.cy/cgibin/hweb?-V=tvshows&_FCATEGORY%3E=110001&_FCATEGORY%3C=110004&-Sr&-dtvshows.html&_VSECTION=7010|webvod zoom=100 scroll=0,0
+
+#EXTINF:-1 group-title="OMEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/social-experiment-100x650-v1.png" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=207299&-V=tvshows" ,THE SOCIAL EXPERIMENT
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/social-experiment.txt
 #EXTINF:-1 group-title="OMEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/defacto-press.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=185851&-V=tvshows" ,DE FACTO
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/defacto-press.txt
 #EXTINF:-1 group-title="OMEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/inealithia650x420px.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=159319&-V=tvshows" ,ΕΙΝΑΙ ΑΛΗΘΕΙΑ
