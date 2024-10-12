@@ -505,7 +505,7 @@ http://.....
 
 #EXTINF:-1 group-title="OMEGA ΣΕΙΡΕΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.omegatv.com.cy/cgibin/hweb?-V=tvshows&_FCATEGORY%3E=110001&_FCATEGORY%3C=110004&-Sr&-dtvshows.html&_VSECTION=7010|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="OMEGA ΣΕΙΡΕΣ" tvg-logo="https://www.omegatv.com.cyhttp://www.omegatv.com.cy/pictures/2019/iq160.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=188271&-V=tvshows" ,IQ 160
+#EXTINF:-1 group-title="OMEGA ΣΕΙΡΕΣ" tvg-logo="http://www.omegatv.com.cy/pictures/2019/iq160.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=188271&-V=tvshows" ,IQ 160
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/iq160.txt
 #EXTINF:-1 group-title="OMEGA ΣΕΙΡΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/erwtas-650x420.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=183392&-V=tvshows" ,ΕΡΩΤΑΣ ΦΥΓΑΣ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/erwtas.txt
@@ -660,13 +660,13 @@ http://.....
 https://digital-herodotus.eu/archive/video/categories/|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="RIK ΕΚΠΟΜΠΕΣ" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/OMORFH_MERA_S.598a4d19.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/omorphe-mera/" ,Όμορφη Μέρα
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omorphe-mera.txt
-#EXTINF:-1 group-title="RIK ΕΚΠΟΜΠΕΣ" tvg-website="https://tv.rik.cy/el/show/philoi-gia-panta/" ,Φίλοι για Πάντα
+#EXTINF:-1 group-title="RIK ΕΚΠΟΜΠΕΣ" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2024/10/10/FILOI_GIA_PANTA_B.2e16d0ba.fill-450x253.jpg" tvg-website="https://tv.rik.cy/el/show/philoi-gia-panta/" ,Φίλοι για Πάντα
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/philoi-gia-panta.txt
-#EXTINF:-1 group-title="RIK ΕΚΠΟΜΠΕΣ" tvg-website="https://tv.rik.cy/el/show/ston-asterion-tis-notes/" ,Στων Αστεριών τις Νότες
+#EXTINF:-1 group-title="RIK ΕΚΠΟΜΠΕΣ" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2024/10/10/STON_ASTERION_TIS_NOTES_S.2e16d0ba.fill-350x500.jpg" tvg-website="https://tv.rik.cy/el/show/ston-asterion-tis-notes/" ,Στων Αστεριών τις Νότες
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ston-asterion-tis-notes.txt
-#EXTINF:-1 group-title="RIK ΕΚΠΟΜΠΕΣ" tvg-website="https://tv.rik.cy/el/show/kupros-to-megaleio-sou/" ,Κύπρος το Μεγαλείο σου
+#EXTINF:-1 group-title="RIK ΕΚΠΟΜΠΕΣ" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2024/10/10/KYPROS_TO_MEGALEIO_SOU_S.2e16d0ba.fill-350x500.jpg" tvg-website="https://tv.rik.cy/el/show/kupros-to-megaleio-sou/" ,Κύπρος το Μεγαλείο σου
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/kupros-to-megaleio-sou.txt
-#EXTINF:-1 group-title="RIK ΕΚΠΟΜΠΕΣ" tvg-website="https://tv.rik.cy/el/show/geustiko-taxidi/" ,Γευστικό Ταξίδι
+#EXTINF:-1 group-title="RIK ΕΚΠΟΜΠΕΣ" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2024/10/10/GEYSTIKO_TAKSIDI_S.2e16d0ba.fill-350x500.jpg" tvg-website="https://tv.rik.cy/el/show/geustiko-taxidi/" ,Γευστικό Ταξίδι
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/geustiko-taxidi.txt
 #EXTINF:-1 group-title="RIK ΕΚΠΟΜΠΕΣ" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOUZINA_SE_RODES_Portrait.deb631d4.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/kouzina-se-rodes/" ,Κουζίνα σε Ρόδες
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/kouzina-se-rodes.txt
