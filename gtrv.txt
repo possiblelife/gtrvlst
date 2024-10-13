@@ -43,15 +43,9 @@ https://www.lakatamia.tv/app/chans/gr/stargreece.php|webepg zoom=100 scroll=0,10
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" tvg-website="https://www.alphatv.gr/" ,ALPHA HD
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" tvg-website="https://www.alphatv.gr/" ,ALPHA (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
-http://www.anacon.org/app/chans/gr/alphaimage.php|webepg zoom=100 scroll=0,100
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" tvg-website="https://www.alphatv.gr/" ,ALPHA HD (1)
-https://dlhd.so/embed/stream-426.php|webdeskalldig	
+http://www.anacon.org/app/chans/gr/alphaimage.php|webepg zoom=100 scroll=0,100	
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" tvg-website="https://www.alphatv.gr/" ,ALPHA HD (2)
 https://dlhd.so/embed/stream-74.php|webdeskalldig	
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" tvg-website="https://www.alphatv.gr/" ,ALPHA HD (3)
-https://dlhd.so/embed/stream-808.php|webdeskalldig	
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" tvg-website="https://www.alphatv.gr/" ,ALPHA HD (4)
-https://dlhd.so/embed/stream-140.php|webdeskalldig
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" tvg-website="https://www.alphatv.gr/" ,ALPHA HD (11)
 https://dlhd.so/embed/stream-365.php|webdeskalldig
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" tvg-website="https://www.alphatv.gr/" ,ALPHA HD (12)
