@@ -151,6 +151,8 @@ http://.....
 
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://i.ibb.co/2MdmBxK/skai.jpg" ,ΟΛΕΣ ΟΙ  ΕΚΠΟΜΠΕΣ
 https://www.skai.gr/tv/shows/psuchagogia|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/voice/2024_2025/logos/voice_landscape_t.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/The-Voice-of-Greece/sezon-2024-2025" ,The Voice of Greece (2024-2025)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/The-Voice-of-Greece.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/my_style_rocks/2024_2025/logos/msr_land.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/my-style-rocks-bootcamp/sezon-2024-2025" ,My Style Rocks (2024-2025)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/my-style-rocks.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/mom_cooks_better/2024_2025/logos/mama_land.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/i-mama-moy-mageireyei-kalytera-apo-ti-diki-soy/sezon-2024-2025" ,Η Μαμά μου Μαγειρεύει Καλύτερα από τη Δική σου (2024-2025)
