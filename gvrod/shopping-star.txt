@@ -16,6 +16,10 @@ https://www.star.gr/tv/psychagogia/shopping-star/9102024-shopping-star|webfulldi
 https://www.star.gr/tv/psychagogia/shopping-star/10102024-shopping-star|webfulldig
 #EXTINF:-1 group-title="Season 8",11.10.2024 - Shopping Star
 https://www.star.gr/tv/psychagogia/shopping-star/11102024-shopping-star|webfulldig
+#EXTINF:-1 group-title="Season 8",14.10.2024 - Shopping Star
+https://www.star.gr/tv/psychagogia/shopping-star/14102024-shopping-star|webfulldig
+#EXTINF:-1 group-title="Season 8",15.10.2024 - Shopping Star
+https://www.star.gr/tv/psychagogia/shopping-star/15102024-shopping-star|webfulldig
 #EXTINF:-1 group-title="Season 8",23.9.2024 - Shopping Star - Πρεμιέρα
 https://www.star.gr/tv/psychagogia/shopping-star/2392024-shopping-star-premiera|webfulldig
 #EXTINF:-1 group-title="Season 8",24.9.2024 - Shopping Star
@@ -27,7 +31,8 @@ https://www.star.gr/tv/psychagogia/shopping-star/2692024-shopping-star|webfulldi
 #EXTINF:-1 group-title="Season 8",27.9.2024 - Shopping Star
 https://www.star.gr/tv/psychagogia/shopping-star/2792024-shopping-star|webfulldig
 #EXTINF:-1 group-title="Season 8",30.9.2024 - Shopping Star
-https://www.star.gr/tv/psychagogia/shopping-star/3092024-shopping-star|webfulldig#EXTINF:-1 group-title="Season 7",1.7.2024 - Shopping Star
+https://www.star.gr/tv/psychagogia/shopping-star/3092024-shopping-star|webfulldig
+#EXTINF:-1 group-title="Season 7",1.7.2024 - Shopping Star
 https://www.star.gr/tv/psychagogia/shopping-star-2023-24/172024-shopping-star|webfulldig
 #EXTINF:-1 group-title="Season 7",2.7.2024 - Shopping Star
 https://www.star.gr/tv/psychagogia/shopping-star-2023-24/272024-shopping-star|webfulldig
