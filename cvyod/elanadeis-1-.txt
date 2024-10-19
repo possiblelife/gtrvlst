@@ -60,3 +60,9 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=207482&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=207671&-V=vod|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",15/10/2024 ΕΛΑ ΝΑ ΔΕΙΣ
 https://www.omegatv.com.cy/cgibin/hweb?-A=207677&-V=vod|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",16/10/2024 ΕΛΑ ΝΑ ΔΕΙΣ
+https://www.omegatv.com.cy/cgibin/hweb?-A=207683&-V=vod|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",17/10/2024 ΕΛΑ ΝΑ ΔΕΙΣ
+https://www.omegatv.com.cy/cgibin/hweb?-A=207688&-V=vod|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",18/10/2024 ΕΛΑ ΝΑ ΔΕΙΣ
+https://www.omegatv.com.cy/cgibin/hweb?-A=207698&-V=vod|webfulldig

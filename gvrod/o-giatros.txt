@@ -1,3 +1,35 @@
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 1
+https://www.alphatv.gr/show/o-giatros/?vtype=player&vid=57297&showId=1440&year=2023|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 2
+https://www.alphatv.gr/show/o-giatros/?vtype=player&vid=57298&showId=1440&year=2023|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 3
+https://www.alphatv.gr/show/o-giatros/?vtype=player&vid=57299&showId=1440&year=2023|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 4
+https://www.alphatv.gr/show/o-giatros/?vtype=player&vid=57398&showId=1440&year=2023|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 5
+https://www.alphatv.gr/show/o-giatros/?vtype=player&vid=57399&showId=1440&year=2023|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 6
+https://www.alphatv.gr/show/o-giatros/?vtype=player&vid=57541&showId=1440&year=2023|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 7
+https://www.alphatv.gr/show/o-giatros/?vtype=player&vid=57542&showId=1440&year=2023|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 8
+https://www.alphatv.gr/show/o-giatros/?vtype=player&vid=57543&showId=1440&year=2023|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 9
+https://www.alphatv.gr/show/o-giatros/?vtype=player&vid=57802&showId=1440&year=2023|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 10
+https://www.alphatv.gr/show/o-giatros/?vtype=player&vid=57801&showId=1440&year=2023|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 11
+https://www.alphatv.gr/show/o-giatros/?vtype=player&vid=57891&showId=1440&year=2023|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 12
+https://www.alphatv.gr/show/o-giatros/?vtype=player&vid=57992&showId=1440&year=2023|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 13
+https://www.alphatv.gr/show/o-giatros/?vtype=player&vid=58087&showId=1440&year=2023|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 14
+https://www.alphatv.gr/show/o-giatros/?vtype=player&vid=58183&showId=1440&year=2023|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 15
+https://www.alphatv.gr/show/o-giatros/?vtype=player&vid=58263&showId=1440&year=2023|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 16
+https://www.alphatv.gr/show/o-giatros/?vtype=player&vid=58341&showId=1440&year=2023|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2",ΕΠΕΙΣΟΔΙΟ 1
 https://www.alphatv.gr/show/o-giatros/?vtype=player&vid=60548&showId=1440&year=2024|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2",ΕΠΕΙΣΟΔΙΟ 2

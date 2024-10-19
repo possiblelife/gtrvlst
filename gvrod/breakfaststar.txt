@@ -20,6 +20,12 @@ https://www.star.gr/tv/psychagogia/breakfaststar/11102024-breakfaststar|webfulld
 https://www.star.gr/tv/psychagogia/breakfaststar/14102024-breakfaststar|webfulldig
 #EXTINF:-1 group-title="Season 4",15.10.2024 - Breakfast@Star
 https://www.star.gr/tv/psychagogia/breakfaststar/15102024-breakfaststar|webfulldig
+#EXTINF:-1 group-title="Season 4",16.10.2024 - Breakfast@Star
+https://www.star.gr/tv/psychagogia/breakfaststar/16102024-breakfaststar|webfulldig
+#EXTINF:-1 group-title="Season 4",17.10.2024 - Breakfast@Star
+https://www.star.gr/tv/psychagogia/breakfaststar/17102024-breakfaststar|webfulldig
+#EXTINF:-1 group-title="Season 4",18.10.2024 - Breakfast@Star
+https://www.star.gr/tv/psychagogia/breakfaststar/18102024-breakfaststar|webfulldig
 #EXTINF:-1 group-title="Season 4",16.9.2024 - Breakfast@Star | Πρεμιέρα
 https://www.star.gr/tv/psychagogia/breakfaststar/1692024-breakfaststar-premiera|webfulldig
 #EXTINF:-1 group-title="Season 4",17.9.2024 - Breakfast@Star
@@ -41,7 +47,8 @@ https://www.star.gr/tv/psychagogia/breakfaststar/2692024-breakfaststar|webfulldi
 #EXTINF:-1 group-title="Season 4",27.9.2024 - Breakfast@Star
 https://www.star.gr/tv/psychagogia/breakfaststar/2792024-breakfaststar|webfulldig
 #EXTINF:-1 group-title="Season 4",30.9.2024 - Breakfast@Star
-https://www.star.gr/tv/psychagogia/breakfaststar/3092024-breakfaststar|webfulldig#EXTINF:-1 group-title="Season 3",Ηλιάνα Παπαγεωργίου: Στο Breakfast@Star λίγο πριν την μεγάλη πρεμιέρα του Shopping Star!
+https://www.star.gr/tv/psychagogia/breakfaststar/3092024-breakfaststar|webfulldig
+#EXTINF:-1 group-title="Season 3",Ηλιάνα Παπαγεωργίου: Στο Breakfast@Star λίγο πριν την μεγάλη πρεμιέρα του Shopping Star!
 https://www.star.gr/tv/psychagogia/breakfaststar-2023-24/iliana-papageorgiou-sto-breakfaststar-ligo-prin-tin-megali-premiera-tou-shopping-star|webfulldig
 #EXTINF:-1 group-title="Season 3",Η Ελεάνα Παπαϊωάννου καλεσμένη στο Breakfast@Star!
 https://www.star.gr/tv/psychagogia/breakfaststar-2023-24/i-eleana-papaioannou-kalesmeni-sto-breakfaststar|webfulldig

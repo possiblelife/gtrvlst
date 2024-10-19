@@ -1,25 +1,3 @@
-#EXTINF:-1 group-title="Season 8",16.9.2024 - Αλήθειες με τη Ζήνα | Πρεμιέρα
-https://www.star.gr/tv/psychagogia/alitheies-me-ti-zina/1692024-alitheies-me-ti-zina-premiera|webfulldig
-#EXTINF:-1 group-title="Season 8",17.9.2024 - Αλήθειες με τη Ζήνα
-https://www.star.gr/tv/psychagogia/alitheies-me-ti-zina/1792024-alitheies-me-ti-zina|webfulldig
-#EXTINF:-1 group-title="Season 8",18.9.2024 - Αλήθειες με τη Ζήνα
-https://www.star.gr/tv/psychagogia/alitheies-me-ti-zina/1892024-alitheies-me-ti-zina|webfulldig
-#EXTINF:-1 group-title="Season 8",19.9.2024 - Αλήθειες με τη Ζήνα
-https://www.star.gr/tv/psychagogia/alitheies-me-ti-zina/1992024-alitheies-me-ti-zina|webfulldig
-#EXTINF:-1 group-title="Season 8",20.9.2024 - Αλήθειες με τη Ζήνα
-https://www.star.gr/tv/psychagogia/alitheies-me-ti-zina/2092024-alitheies-me-ti-zina|webfulldig
-#EXTINF:-1 group-title="Season 8",23.9.2024 - Αλήθειες με τη Ζήνα
-https://www.star.gr/tv/psychagogia/alitheies-me-ti-zina/2392024-alitheies-me-ti-zina|webfulldig
-#EXTINF:-1 group-title="Season 8",24.9.2024 - Αλήθειες με τη Ζήνα
-https://www.star.gr/tv/psychagogia/alitheies-me-ti-zina/2492024-alitheies-me-ti-zina|webfulldig
-#EXTINF:-1 group-title="Season 8",25.9.2024 - Αλήθειες με τη Ζήνα
-https://www.star.gr/tv/psychagogia/alitheies-me-ti-zina/2592024-alitheies-me-ti-zina|webfulldig
-#EXTINF:-1 group-title="Season 8",26.9.2024 - Αλήθειες με τη Ζήνα
-https://www.star.gr/tv/psychagogia/alitheies-me-ti-zina/2692024-alitheies-me-ti-zina|webfulldig
-#EXTINF:-1 group-title="Season 8",27.9.2024 - Αλήθειες με τη Ζήνα
-https://www.star.gr/tv/psychagogia/alitheies-me-ti-zina/2792024-alitheies-me-ti-zina|webfulldig
-#EXTINF:-1 group-title="Season 8",30.9.2024 - Αλήθειες με τη Ζήνα
-https://www.star.gr/tv/psychagogia/alitheies-me-ti-zina/3092024-alitheies-me-ti-zina|webfulldig
 #EXTINF:-1 group-title="Season 8",1.10.2024 - Αλήθειες με τη Ζήνα
 https://www.star.gr/tv/psychagogia/alitheies-me-ti-zina/1102024-alitheies-me-ti-zina|webfulldig
 #EXTINF:-1 group-title="Season 8",2.10.2024 - Αλήθειες με τη Ζήνα
@@ -42,6 +20,34 @@ https://www.star.gr/tv/psychagogia/alitheies-me-ti-zina/11102024-alitheies-me-ti
 https://www.star.gr/tv/psychagogia/alitheies-me-ti-zina/14102024-alitheies-me-ti-zina|webfulldig
 #EXTINF:-1 group-title="Season 8",15.10.2024 - Αλήθειες με τη Ζήνα
 https://www.star.gr/tv/psychagogia/alitheies-me-ti-zina/15102024-alitheies-me-ti-zina|webfulldig
+#EXTINF:-1 group-title="Season 8",16.10.2024 - Αλήθειες με τη Ζήνα
+https://www.star.gr/tv/psychagogia/alitheies-me-ti-zina/16102024-alitheies-me-ti-zina|webfulldig
+#EXTINF:-1 group-title="Season 8",17.10.2024 - Αλήθειες με τη Ζήνα
+https://www.star.gr/tv/psychagogia/alitheies-me-ti-zina/17102024-alitheies-me-ti-zina|webfulldig
+#EXTINF:-1 group-title="Season 8",18.10.2024 - Αλήθειες με τη Ζήνα
+https://www.star.gr/tv/psychagogia/alitheies-me-ti-zina/18102024-alitheies-me-ti-zina|webfulldig
+#EXTINF:-1 group-title="Season 8",16.9.2024 - Αλήθειες με τη Ζήνα | Πρεμιέρα
+https://www.star.gr/tv/psychagogia/alitheies-me-ti-zina/1692024-alitheies-me-ti-zina-premiera|webfulldig
+#EXTINF:-1 group-title="Season 8",17.9.2024 - Αλήθειες με τη Ζήνα
+https://www.star.gr/tv/psychagogia/alitheies-me-ti-zina/1792024-alitheies-me-ti-zina|webfulldig
+#EXTINF:-1 group-title="Season 8",18.9.2024 - Αλήθειες με τη Ζήνα
+https://www.star.gr/tv/psychagogia/alitheies-me-ti-zina/1892024-alitheies-me-ti-zina|webfulldig
+#EXTINF:-1 group-title="Season 8",19.9.2024 - Αλήθειες με τη Ζήνα
+https://www.star.gr/tv/psychagogia/alitheies-me-ti-zina/1992024-alitheies-me-ti-zina|webfulldig
+#EXTINF:-1 group-title="Season 8",20.9.2024 - Αλήθειες με τη Ζήνα
+https://www.star.gr/tv/psychagogia/alitheies-me-ti-zina/2092024-alitheies-me-ti-zina|webfulldig
+#EXTINF:-1 group-title="Season 8",23.9.2024 - Αλήθειες με τη Ζήνα
+https://www.star.gr/tv/psychagogia/alitheies-me-ti-zina/2392024-alitheies-me-ti-zina|webfulldig
+#EXTINF:-1 group-title="Season 8",24.9.2024 - Αλήθειες με τη Ζήνα
+https://www.star.gr/tv/psychagogia/alitheies-me-ti-zina/2492024-alitheies-me-ti-zina|webfulldig
+#EXTINF:-1 group-title="Season 8",25.9.2024 - Αλήθειες με τη Ζήνα
+https://www.star.gr/tv/psychagogia/alitheies-me-ti-zina/2592024-alitheies-me-ti-zina|webfulldig
+#EXTINF:-1 group-title="Season 8",26.9.2024 - Αλήθειες με τη Ζήνα
+https://www.star.gr/tv/psychagogia/alitheies-me-ti-zina/2692024-alitheies-me-ti-zina|webfulldig
+#EXTINF:-1 group-title="Season 8",27.9.2024 - Αλήθειες με τη Ζήνα
+https://www.star.gr/tv/psychagogia/alitheies-me-ti-zina/2792024-alitheies-me-ti-zina|webfulldig
+#EXTINF:-1 group-title="Season 8",30.9.2024 - Αλήθειες με τη Ζήνα
+https://www.star.gr/tv/psychagogia/alitheies-me-ti-zina/3092024-alitheies-me-ti-zina|webfulldig
 #EXTINF:-1 group-title="Season 7",1.7.2024 - Αλήθειες με τη Ζήνα
 https://www.star.gr/tv/psychagogia/alitheies-me-ti-zina-2023-24/172024-alitheies-me-ti-zina|webfulldig
 #EXTINF:-1 group-title="Season 7",2.7.2024 - Αλήθειες με τη Ζήνα
