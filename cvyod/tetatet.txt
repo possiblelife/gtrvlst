@@ -250,3 +250,7 @@ https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/020624-stefanos
 https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/160624-polys-polybioy|webvidfulldig
 #EXTINF:-1 group-title="Season 4",23/06/24 - Γιώργος Νταλάρας
 https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/230624-giorgos-ntalaras|webvidfulldig
+#EXTINF:-1 group-title="Season 5",13/10/24 - Αννίτα Δημητρίου
+https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/131024-annita-dimitrioy|webvidfulldig
+#EXTINF:-1 group-title="Season 5",20/10/24 - Καίτη Γαρμπή
+https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/201024-kaiti-garmpi|webvidfulldig
