@@ -26,6 +26,10 @@ https://www.star.gr/tv/psychagogia/breakfaststar/16102024-breakfaststar|webfulld
 https://www.star.gr/tv/psychagogia/breakfaststar/17102024-breakfaststar|webfulldig
 #EXTINF:-1 group-title="Season 4",18.10.2024 - Breakfast@Star
 https://www.star.gr/tv/psychagogia/breakfaststar/18102024-breakfaststar|webfulldig
+#EXTINF:-1 group-title="Season 4",21.10.2024 - Breakfast@Star
+https://www.star.gr/tv/psychagogia/breakfaststar/21102024-breakfaststar|webfulldig
+#EXTINF:-1 group-title="Season 4",22.10.2024 - Breakfast@Star
+https://www.star.gr/tv/psychagogia/breakfaststar/22102024-breakfaststar|webfulldig
 #EXTINF:-1 group-title="Season 4",16.9.2024 - Breakfast@Star | Πρεμιέρα
 https://www.star.gr/tv/psychagogia/breakfaststar/1692024-breakfaststar-premiera|webfulldig
 #EXTINF:-1 group-title="Season 4",17.9.2024 - Breakfast@Star

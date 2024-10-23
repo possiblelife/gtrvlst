@@ -1,2 +1,8 @@
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 3
-https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=60574&showId=1653&year=2024|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 6
+https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=60720&showId=1653&year=2024|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 7
+https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=60721&showId=1653&year=2024|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 8                    <span class="labelNew">Νεο</span>
+https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=60763&showId=1653&year=2024|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 9                    <span class="labelNew">Νεο</span>
+https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=60764&showId=1653&year=2024|webvidfulldig
