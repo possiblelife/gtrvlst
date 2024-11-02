@@ -841,7 +841,7 @@ http://.....
 
 #EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.alphacyprus.com.cy/shows/ellinikes-seires|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/exwpaidia.jpg?itok=4sT3cS-H" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/exwpaidia/webtv" ,ΕΧΩ ΠΑΙΔΙΑ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/exwpaidia.jpg?itok=4sT3cS-H" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/exwpaidia/webtv" ,ΕΧΩ ΠΑΙΔΙΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/exwpaidia.txt
 #EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/ae.jpg?itok=54PmyZyP" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/agioserotas/webtv" ,ΑΓΙΟΣ ΕΡΩΤΑΣ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/agioserotas.txt
