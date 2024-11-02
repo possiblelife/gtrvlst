@@ -573,6 +573,14 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/tokokk
 http://.....
 #EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://parallaximag.gr/wp-content/uploads/2019/03/open-beyond-logo.png" ,ΟΛΕΣ ΟΙ ΕΚΠΟΜΠΕΣ
 https://www.tvopen.gr/shows|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/3200cf29-f62d-4adb-b5d1-83c0b38b7bb9.jpg" tvg-website="https://www.tvopen.gr/openkitchen/videos" ,OPEN Kitchen
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/openkitchen.txt
+#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/e002ac44-9151-4166-b5f9-1282b87539a4.jpg" tvg-website="https://www.tvopen.gr/chefsthnkoyzinasasmetonbaggelhdriska/videos" ,Chef στην κουζίνα σας
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/chefsthnkoyzinasasmetonbaggelhdriska.txt
+#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/09eba744-d62c-4e48-ae85-d96fcfac3dc8.jpg" tvg-website="https://www.tvopen.gr/eikonesmetontasodoysh/videos" ,Εικόνες με τον Τάσο Δούση
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/eikonesmetontasodoysh.txt
+#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/ac7d0402-b4df-43e4-8e90-95944688dc0a.jpg" tvg-website="https://www.tvopen.gr/ypotheseis/videos" ,Υποθέσεις
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ypotheseis.txt
 #EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/c986f91a-c9d7-456c-bc2b-7b9497558c50.jpg" tvg-website="https://www.tvopen.gr/anoixta/videos" ,Ανοιχτά
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/anoixta.txt
 #EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/20668195-66ad-4a4d-b66d-b11a856c323e.jpg" tvg-website="https://www.tvopen.gr/annitakoita/videos" ,Αννίτα Κοίτα
