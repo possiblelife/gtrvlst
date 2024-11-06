@@ -6,3 +6,5 @@ https://www.alphatv.gr/show/diafani-agapi/?vtype=player&vid=60612&showId=1654&ye
 https://www.alphatv.gr/show/diafani-agapi/?vtype=player&vid=60803&showId=1654&year=2024|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 4
 https://www.alphatv.gr/show/diafani-agapi/?vtype=player&vid=60850&showId=1654&year=2024|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 5                    <span class="labelNew">Νεο</span>
+https://www.alphatv.gr/show/diafani-agapi/?vtype=player&vid=60917&showId=1654&year=2024|webvidfulldig

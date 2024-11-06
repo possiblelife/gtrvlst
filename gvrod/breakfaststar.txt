@@ -1,5 +1,9 @@
 #EXTINF:-1 group-title="Season 4",1.11.2024 - Breakfast@Star
 https://www.star.gr/tv/psychagogia/breakfaststar/1112024-breakfaststar|webfulldig
+#EXTINF:-1 group-title="Season 4",4.11.2024 - Breakfast@Star
+https://www.star.gr/tv/psychagogia/breakfaststar/4112024-breakfaststar|webfulldig
+#EXTINF:-1 group-title="Season 4",5.11.2024 - Breakfast@Star
+https://www.star.gr/tv/psychagogia/breakfaststar/5112024-breakfaststar|webfulldig
 #EXTINF:-1 group-title="Season 4",1.10.2024 - Breakfast@Star
 https://www.star.gr/tv/psychagogia/breakfaststar/1102024-breakfaststar|webfulldig
 #EXTINF:-1 group-title="Season 4",2.10.2024 - Breakfast@Star
