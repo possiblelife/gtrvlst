@@ -196,3 +196,9 @@ https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/polon
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/051124|webvidfulldig
 #EXTINF:-1 group-title="2024-2025",Tortelloni με μανιτάρια
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/tortelloni-me-manitaria-1|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",06/11/24
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/061124|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",07/11/24
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/071124|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",Χριστίνα Κιμωνή
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/hristina-kimoni|webvidfulldig

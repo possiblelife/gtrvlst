@@ -908,16 +908,6 @@ https://www.tvopen.gr/watch/22570/eikonesmetontasodoysh7caraxoba|webfulldig
 https://www.tvopen.gr/watch/32782/eikonesmetontasodoysh7cspetsesameros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Σπέτσες, Β’ μέρος
 https://www.tvopen.gr/watch/32916/eikonesmetontasodoysh7cspetsesbe28099meros|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Μύκονος Β’ μέρος
-https://www.tvopen.gr/watch/34774/eikonesmetontasodoysh7cmykonosbe28099meros|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Ρόδος Ά μέρος
-https://www.tvopen.gr/watch/35364/eikonesmetontasodoysh7crodosameros|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Ρόδος Β’ μέρος
-https://www.tvopen.gr/watch/35969/eikonesmetontasodoysh7crodosbe28099meros|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Χανιά, Α’ μέρος
-https://www.tvopen.gr/watch/36584/eikonesmetontasodoysh7cxaniaae28099meros|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Χανιά, Β’ μέρος
-https://www.tvopen.gr/watch/37254/eikonesmetontasodoysh7cxaniabe28099meros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον  Τάσο Δούση | Ύδρα
 https://www.tvopen.gr/watch/33484/eikonesmetontasodoysh7cydra|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Κέρκυρα Α’ μέρος
@@ -930,6 +920,16 @@ https://www.tvopen.gr/watch/34219/eikonesmetontasodoysh7cmhlosae28099meros|webfu
 https://www.tvopen.gr/watch/34285/eikonesmetontasodoysh7cmhlosbe28099meros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Μύκονος Α’ μέρος
 https://www.tvopen.gr/watch/34650/eikonesmetontasodoysh7cmykonosae28099meros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Μύκονος Β’ μέρος
+https://www.tvopen.gr/watch/34774/eikonesmetontasodoysh7cmykonosbe28099meros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Ρόδος Ά μέρος
+https://www.tvopen.gr/watch/35364/eikonesmetontasodoysh7crodosameros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Ρόδος Β’ μέρος
+https://www.tvopen.gr/watch/35969/eikonesmetontasodoysh7crodosbe28099meros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Χανιά, Α’ μέρος
+https://www.tvopen.gr/watch/36584/eikonesmetontasodoysh7cxaniaae28099meros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Χανιά, Β’ μέρος
+https://www.tvopen.gr/watch/37254/eikonesmetontasodoysh7cxaniabe28099meros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Χανιά, Γ’ μέρος
 https://www.tvopen.gr/watch/38036/eikonesmetontasodoysh7cxaniage28099meros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Πάρος - Αντίπαρος, Α’ μέρος

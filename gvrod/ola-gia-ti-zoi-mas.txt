@@ -436,3 +436,5 @@ https://www.megatv.com/gtvshows/1703172/epeisodio-217-3/|webfulldig
 https://www.megatv.com/gtvshows/1709810/epeisodio-218-3/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 219
 https://www.megatv.com/gtvshows/1709818/epeisodio-219-3/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 220
+https://www.megatv.com/gtvshows/1715762/epeisodio-220-3/|webfulldig
