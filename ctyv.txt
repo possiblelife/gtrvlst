@@ -66,8 +66,6 @@ https://www.cyta.com.cy/tv-guide|webepg zoom=100 scroll=0,100
 http://www.anacon.org/app/chans/cy/pluscyimage.php|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,Τηλεοπτικό Πρόγραμμα ΠΛΑΣ
 https://www.cyta.com.cy/tv-guide|webepg zoom=100 scroll=0,100
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Berginacy" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fa28f343-2082-41e1-aa2d-2d7fbe1c7552-profile_image-300x300.png" tvg-website="https://verginatv.cy/" ,ΒΕΡΓΙΝΑ ΤV
-https://raw.githubusercontent.com/azgaresncf/strm2hls/refs/heads/main/streams/verginatv_cyprus.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Berginacy" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fa28f343-2082-41e1-aa2d-2d7fbe1c7552-profile_image-300x300.png" tvg-website="https://verginatv.cy/" ,ΒΕΡΓΙΝΑ ΤV (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/cy/verginacyimage.php|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="smile" tvg-logo="https://yt3.ggpht.com/-HQamnwjhf6M/AAAAAAAAAAI/AAAAAAAAAAA/RR0l9Otdjl4/s100-mo-c-c0xffffffff-rj-k-no/photo.jpg" tvg-website="https://www.smiletvcyprus.com/" ,ΣΜΑΙΛ
@@ -86,8 +84,10 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Euronews_Gree
 https://s1.cystream.net/live/faros1/chunks.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="http://www.anacon.org/app/img/faroscy.jpg" tvg-website="https://www.farosonair.com/" ,ΦΑΡΟΣ on Air2
 https://s1.cystream.net/live/faros2/chunks.m3u8
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="https://i.ibb.co/gMRtf94/CyprusTV.png" tvg-website="https://www.cypruslivetv.cy/" ,Cyprus TV
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/gMRtf94/CyprusTV.png" tvg-website="https://www.cypruslivetv.cy/" ,Cyprus TV
 https://www.cypruslivetv.cy/CmsMedia/Uploads/Videos/Live/stream/stream.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/br83rNk/9f0c6632-b6bf-448b-a0b9-ea5cc2bdff33-channel-offline-image-1920x1080.jpg" ,Extacy TV Κύπρου
+https://www.twitch.tv/extacy_tv_cyprus|webdig
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://alfasports.tv/wp-content/uploads/2017/07/19650478_10213391687526137_730682022_o.png" tvg-website="https://alfasports.tv/" ,Alfa Sports TV
 https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="http://citychannel.live/wp-content/uploads/2019/08/cropped-53146093_327305117905839_3890747505498914816_n.png" tvg-website="https://citychannel.live/" ,City Channel
