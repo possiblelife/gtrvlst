@@ -856,6 +856,10 @@ https://www.tvopen.gr/watch/222606/kastrothsosakatoshmeiomhdentonmaxhtonsamoyrai
 https://www.tvopen.gr/watch/223288/foysimiinarionaosmetisdekaxiliadespyles|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Το ιερό Γιασάκα, το πιο δημοφιλές αξιοθέατο του Κιότο
 https://www.tvopen.gr/watch/223287/toierogiasakatopiodhmofilesaxiotheatotoykioto|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Η οδός Νίνεν-ζακά και ο ναός Κιγιομίζου-ντέρα
+https://www.tvopen.gr/watch/224058/hodosninenzakakaionaoskigiomizoyntera|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Το Δάσος Μπαμπού, ένα καταπράσινο καταφύγιο στο Κιότο
+https://www.tvopen.gr/watch/224059/todasosmpampoyenakataprasinokatafygiostokioto|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Καππαδοκία, Α' μέρος
 https://www.tvopen.gr/watch/2307/eikonesmetontasodoysh7ckappadokiaameros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση |  Καππαδοκία Β' Μέρος
@@ -1282,3 +1286,5 @@ https://www.tvopen.gr/watch/221804/eikonesmetontasodoysh7cmalaga|webfulldig
 https://www.tvopen.gr/watch/222603/eikonesmetontasodoysh7ciaponiaosaka|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Κιότο Α' μέρος
 https://www.tvopen.gr/watch/223181/eikonesmetontasodoysh7ckiotoameros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Κιότο Β' μέρος
+https://www.tvopen.gr/watch/224056/eikonesmetontasodoysh7ckiotobmeros|webfulldig
