@@ -2706,3 +2706,11 @@ https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv/071124|webvidfulld
 https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv/081124|webvidfulldig
 #EXTINF:-1 group-title="Season 7",11/11/24
 https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv/111124|webvidfulldig
+#EXTINF:-1 group-title="Season 7",12/11/24
+https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv/121124-0|webvidfulldig
+#EXTINF:-1 group-title="Season 7",13/11/24
+https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv/131124|webvidfulldig
+#EXTINF:-1 group-title="Season 7",14/11/24
+https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv/141124|webvidfulldig
+#EXTINF:-1 group-title="Season 7",15/11/24
+https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv/151124|webvidfulldig
