@@ -860,6 +860,10 @@ https://www.tvopen.gr/watch/223287/toierogiasakatopiodhmofilesaxiotheatotoykioto
 https://www.tvopen.gr/watch/224058/hodosninenzakakaionaoskigiomizoyntera|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Το Δάσος Μπαμπού, ένα καταπράσινο καταφύγιο στο Κιότο
 https://www.tvopen.gr/watch/224059/todasosmpampoyenakataprasinokatafygiostokioto|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Καμπουκίτσο: Ο «παράδεισος» της νυχτερινής διασκέδασης στο Τόκιο
+https://www.tvopen.gr/watch/224832/kampoykitsooc2abparadeisosc2bbthsnyxterinhsdiaskedashsstotokio|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Σένσο-τζι,: O παλαιότερος ναός του Τόκιο
+https://www.tvopen.gr/watch/224833/sensotziopalaioterosnaostoytokio|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Καππαδοκία, Α' μέρος
 https://www.tvopen.gr/watch/2307/eikonesmetontasodoysh7ckappadokiaameros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση |  Καππαδοκία Β' Μέρος
@@ -1288,3 +1292,5 @@ https://www.tvopen.gr/watch/222603/eikonesmetontasodoysh7ciaponiaosaka|webfulldi
 https://www.tvopen.gr/watch/223181/eikonesmetontasodoysh7ckiotoameros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Κιότο Β' μέρος
 https://www.tvopen.gr/watch/224056/eikonesmetontasodoysh7ckiotobmeros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Τόκιο Α μέρος
+https://www.tvopen.gr/watch/224835/eikonesmetontasodoysh7ctokioameros|webfulldig

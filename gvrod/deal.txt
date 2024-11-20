@@ -1,7 +1,3 @@
-#EXTINF:-1 group-title="Σεζόν 8",ΕΠΕΙΣΟΔΙΟ 19
-https://www.alphatv.gr/show/deal/?vtype=player&vid=60717&showId=254&year=2024|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 8",ΕΠΕΙΣΟΔΙΟ 20
-https://www.alphatv.gr/show/deal/?vtype=player&vid=60718&showId=254&year=2024|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 8",ΕΠΕΙΣΟΔΙΟ 21
 https://www.alphatv.gr/show/deal/?vtype=player&vid=60798&showId=254&year=2024|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 8",ΕΠΕΙΣΟΔΙΟ 22
@@ -38,7 +34,11 @@ https://www.alphatv.gr/show/deal/?vtype=player&vid=60964&showId=254&year=2024|we
 https://www.alphatv.gr/show/deal/?vtype=player&vid=60965&showId=254&year=2024|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 8",ΕΠΕΙΣΟΔΙΟ 38
 https://www.alphatv.gr/show/deal/?vtype=player&vid=60966&showId=254&year=2024|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 8",ΕΠΕΙΣΟΔΙΟ 39                    <span class="labelNew">Νεο</span>
+#EXTINF:-1 group-title="Σεζόν 8",ΕΠΕΙΣΟΔΙΟ 39
 https://www.alphatv.gr/show/deal/?vtype=player&vid=60967&showId=254&year=2024|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 8",ΕΠΕΙΣΟΔΙΟ 40                    <span class="labelNew">Νεο</span>
+#EXTINF:-1 group-title="Σεζόν 8",ΕΠΕΙΣΟΔΙΟ 40
 https://www.alphatv.gr/show/deal/?vtype=player&vid=60968&showId=254&year=2024|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 8",ΕΠΕΙΣΟΔΙΟ 41                    <span class="labelNew">Νεο</span>
+https://www.alphatv.gr/show/deal/?vtype=player&vid=61050&showId=254&year=2024|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 8",ΕΠΕΙΣΟΔΙΟ 42                    <span class="labelNew">Νεο</span>
+https://www.alphatv.gr/show/deal/?vtype=player&vid=61051&showId=254&year=2024|webvidfulldig

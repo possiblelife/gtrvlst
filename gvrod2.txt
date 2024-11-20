@@ -387,8 +387,6 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/vip.tx
 http://.....
 #EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://goo.gl/q5aDRg" ,ΟΛΕΣ ΟΙ ΕΚΠΟΜΠΕΣ
 https://www.antenna.gr/shows|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/3d62e725-9a22-4c0a-bc24-ee31f1d09dbc.jpg" tvg-website="https://www.antenna.gr/thereunion/videos" ,THE REUNION
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/thereunion.txt
 #EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/a354cf6a-d2cc-4c4c-b1e6-1d42a334778c.jpg" tvg-website="https://www.antenna.gr/kalimeraellada/videos" ,ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/kalimeraellada.txt
 #EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/1b5ce3c6-76c1-4545-ab73-626297bed8ff.jpg" tvg-website="https://www.antenna.gr/enwpiosenwpiw/videos" ,ΕΝΩΠΙΟΣ ΕΝΩΠΙΩ
@@ -428,6 +426,8 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/braven
 http://.....
 #EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://i.ibb.co/W588ZBc/ant1.png" ,ANT1+ ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://watch.antennaplus.gr/#/series|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/3d62e725-9a22-4c0a-bc24-ee31f1d09dbc.jpg" tvg-website="https://www.antenna.gr/thereunion/videos" ,THE REUNION
+https://watch.antennaplus.gr/#/shows/the_reunion|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6424955:357:STILL:LANDSCAPE" ,Πέτα τη Φριτέζα (ANT1+)
 https://watch.antennaplus.gr/#/shows/peta_ti_friteza|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1 PLUS" tvg-logo="https://api.antenna.gr/v400/imageHelper.php?id=6430250:357:STILL:LANDSCAPE" ,Εγκλήματα (ANT1+)

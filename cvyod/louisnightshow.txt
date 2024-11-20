@@ -1448,3 +1448,7 @@ https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/zaharias
 https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/081124|webvidfulldig
 #EXTINF:-1 group-title="Season 8",Μέμος Μπεγνής
 https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/memos-mpegnis-0|webvidfulldig
+#EXTINF:-1 group-title="Season 8",15/11/24
+https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/151124|webvidfulldig
+#EXTINF:-1 group-title="Season 8",Ανδρέας Τσούρης &amp; Κώστας Κακογιάννης
+https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/andreas-tsoyris-kostas-kakogiannis|webvidfulldig
