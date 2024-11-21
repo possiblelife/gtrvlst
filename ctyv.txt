@@ -79,7 +79,7 @@ https://ertflix.s.llnwi.net/ertlive/ertworldc/default/index.mpd
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="Euronews" tvg-name="EURONEWS" tvg-logo="https://goo.gl/QMXKek" tvg-website="https://gr.euronews.com/" ,EURONEWS (Youtube)
 https://www.youtube.com/embed/uWIhV9gQClg
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="Euronews" tvg-name="EURONEWS" tvg-logo="https://goo.gl/QMXKek" tvg-website="https://gr.euronews.com/" ,EURONEWS (2)
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Euronews_Greece.m3u8
+https://ertflix.s.llnwi.net/ertlive/euronewsgr/default/index.mpd
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="http://www.anacon.org/app/img/faroscy.jpg" tvg-website="https://www.farosonair.com/" ,ΦΑΡΟΣ on Air
 https://s1.cystream.net/live/faros1/chunks.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="http://www.anacon.org/app/img/faroscy.jpg" tvg-website="https://www.farosonair.com/" ,ΦΑΡΟΣ on Air2
