@@ -1328,13 +1328,13 @@ https://www.megatv.com/tvshows/1702040/epeisodio-34-43/|webfulldig
 https://www.megatv.com/tvshows/1702044/epeisodio-35-42/|webfulldig
 #EXTINF:-1 group-title="Δ΄ ΚΥΚΛΟΣ",Επεισόδιο 36
 https://www.megatv.com/tvshows/1702046/epeisodio-36-41/|webfulldig
-#EXTINF:-1 group-title="Δ΄ ΚΥΚΛΟΣ",Επεισόδιο 37-38Α
+#EXTINF:-1 group-title="Δ΄ ΚΥΚΛΟΣ",Επεισόδιο 37
 https://www.megatv.com/tvshows/1702048/epeisodio-37-38-a/|webfulldig
 #EXTINF:-1 group-title="Δ΄ ΚΥΚΛΟΣ",Επεισόδιο 38
 https://www.megatv.com/tvshows/1702052/epeisodio-38-39/|webfulldig
 #EXTINF:-1 group-title="Δ΄ ΚΥΚΛΟΣ",Επεισόδιο 39
 https://www.megatv.com/tvshows/1702054/epeisodio-39-38/|webfulldig
-#EXTINF:-1 group-title="Δ΄ ΚΥΚΛΟΣ",Επεισόδιο 40 &#038; 41Α
+#EXTINF:-1 group-title="Δ΄ ΚΥΚΛΟΣ",Επεισόδιο 40
 https://www.megatv.com/tvshows/1703918/epeisodio-40-41a/|webfulldig
 #EXTINF:-1 group-title="Δ΄ ΚΥΚΛΟΣ",Επεισόδιο 41
 https://www.megatv.com/tvshows/1703920/epeisodio-41-36/|webfulldig
@@ -1342,7 +1342,7 @@ https://www.megatv.com/tvshows/1703920/epeisodio-41-36/|webfulldig
 https://www.megatv.com/tvshows/1703922/epeisodio-42-36/|webfulldig
 #EXTINF:-1 group-title="Δ΄ ΚΥΚΛΟΣ",Επεισόδιο 43
 https://www.megatv.com/tvshows/1712768/epeisodio-43-34/|webfulldig
-#EXTINF:-1 group-title="Δ΄ ΚΥΚΛΟΣ",Επεισόδιο 44 &#038; 45 A
+#EXTINF:-1 group-title="Δ΄ ΚΥΚΛΟΣ",Επεισόδιο 44
 https://www.megatv.com/tvshows/1712772/epeisodio-44-45-a/|webfulldig
 #EXTINF:-1 group-title="Δ΄ ΚΥΚΛΟΣ",Επεισόδιο 45
 https://www.megatv.com/tvshows/1712774/epeisodio-45-32/|webfulldig
@@ -1350,5 +1350,13 @@ https://www.megatv.com/tvshows/1712774/epeisodio-45-32/|webfulldig
 https://www.megatv.com/tvshows/1712776/epeisodio-46-32/|webfulldig
 #EXTINF:-1 group-title="Δ΄ ΚΥΚΛΟΣ",Επεισόδιο 47
 https://www.megatv.com/tvshows/1717666/epeisodio-47-32/|webfulldig
-#EXTINF:-1 group-title="Δ΄ ΚΥΚΛΟΣ",Επεισόδιο 48  B &#038; 49
+#EXTINF:-1 group-title="Δ΄ ΚΥΚΛΟΣ",Επεισόδιο 48
 https://www.megatv.com/tvshows/1717670/epeisodio-48-b-49/|webfulldig
+#EXTINF:-1 group-title="Δ΄ ΚΥΚΛΟΣ",Επεισόδιο 49
+https://www.megatv.com/tvshows/1717674/epeisodio-49-32/|webfulldig
+#EXTINF:-1 group-title="Δ΄ ΚΥΚΛΟΣ",Επεισόδιο 50
+https://www.megatv.com/tvshows/1717680/epeisodio-50-51a/|webfulldig
+#EXTINF:-1 group-title="Δ΄ ΚΥΚΛΟΣ",Επεισόδιο 51
+https://www.megatv.com/tvshows/1722412/epeisodio-51-28/|webfulldig
+#EXTINF:-1 group-title="Δ΄ ΚΥΚΛΟΣ",Επεισόδιο 52
+https://www.megatv.com/tvshows/1723962/epeisodio-52-28/|webfulldig

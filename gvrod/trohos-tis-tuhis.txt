@@ -1,12 +1,3 @@
-#EXTINF:-1 group-title="Season 8",1.11.2024 - Τροχός της Τύχης
-https://www.star.gr/tv/psychagogia/trohos-tis-tuhis/1112024-trohos-tis-tuhis|webfulldig
-#EXTINF:-1 group-title="Season 8",2.11.2024 - Τροχός της Τύχης
-https://www.star.gr/tv/psychagogia/trohos-tis-tuhis/2112024-trohos-tis-tuhis|webfulldig
-#EXTINF:-1 group-title="Season 8",3.11.2024 - Τροχός της Τύχης
-https://www.star.gr/tv/psychagogia/trohos-tis-tuhis/3112024-trohos-tis-tuhis|webfulldig
-#EXTINF:-1 group-title="Season 8",4.11.2024 - Τροχός της Τύχης
-https://www.star.gr/tv/psychagogia/trohos-tis-tuhis/4112024-trohos-tis-tuhis|webfulldig
-#EXTINF:-1 group-title="Season 8",5.11.2024 - Τροχός της Τύχης
 #EXTINF:-1 group-title="Season 8",1.10.2024 - Τροχός της Τύχης
 https://www.star.gr/tv/psychagogia/trohos-tis-tuhis/1102024-trohos-tis-tuhis|webfulldig
 #EXTINF:-1 group-title="Season 8",2.10.2024 - Τροχός της Τύχης
@@ -105,6 +96,12 @@ https://www.star.gr/tv/psychagogia/trohos-tis-tuhis/17112024-trohos-tis-tuhis|we
 https://www.star.gr/tv/psychagogia/trohos-tis-tuhis/18112024-trohos-tis-tuhis|webfulldig
 #EXTINF:-1 group-title="Season 8",19.11.2024 - Τροχός της Τύχης
 https://www.star.gr/tv/psychagogia/trohos-tis-tuhis/19112024-trohos-tis-tuhis|webfulldig
+#EXTINF:-1 group-title="Season 8",20.11.2024 - Τροχός της Τύχης
+https://www.star.gr/tv/psychagogia/trohos-tis-tuhis/20112024-trohos-tis-tuhis|webfulldig
+#EXTINF:-1 group-title="Season 8",21.11.2024 - Τροχός της Τύχης
+https://www.star.gr/tv/psychagogia/trohos-tis-tuhis/21112024-trohos-tis-tuhis|webfulldig
+#EXTINF:-1 group-title="Season 8",22.11.2024 - Τροχός της Τύχης
+https://www.star.gr/tv/psychagogia/trohos-tis-tuhis/22112024-trohos-tis-tuhis|webfulldig
 #EXTINF:-1 group-title="Season 7",1.7.2024 - Τροχός της Τύχης
 https://www.star.gr/tv/psychagogia/trohos-tis-tuhis-2023-24/172024-trohos-tis-tuhis|webfulldig
 #EXTINF:-1 group-title="Season 7",2.7.2024 - Τροχός της Τύχης
