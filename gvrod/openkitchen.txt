@@ -268,6 +268,10 @@ https://www.tvopen.gr/watch/224425/syntaghgiastriftopitamesalamiorimanshskaimets
 https://www.tvopen.gr/watch/224426/openkitchen132f112f2024|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για μελωμένο χοιρινό με κυδώνια στο φούρνο από την Ντίνα Νικολάου
 https://www.tvopen.gr/watch/224551/syntaghgiamelomenoxoirinomekydoniastofoyrnoapothnntinanikolaoy|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",OPEN Kitchen 18/11/2024
+https://www.tvopen.gr/watch/224943/openkitchen182f112f2024|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για σαλάτα του Καίσαρα
+https://www.tvopen.gr/watch/224997/syntaghgiasalatatoykaisara|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Πώς μπορούμε να απολαμβάνουμε τους αγαπημένους φρουτοχυμούς
 https://www.tvopen.gr/watch/224552/posmporoymenaapolambanoymetoysagaphmenoysfroytoxymoys|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για τάρτα με μοσχαρίσιο μπέικον και μοτσαρέλα από την Ντίνα Νικολάου
@@ -286,10 +290,6 @@ https://www.tvopen.gr/watch/224690/openkitchen152f112f2024|webfulldig
 https://www.tvopen.gr/watch/224940/syntaghgiafontansokolatas|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για αφράτα πιτάκια
 https://www.tvopen.gr/watch/224942/syntaghgiaafratapitakia|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",OPEN Kitchen 18/11/2024
-https://www.tvopen.gr/watch/224943/openkitchen182f112f2024|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για σαλάτα του Καίσαρα
-https://www.tvopen.gr/watch/224997/syntaghgiasalatatoykaisara|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για πίτα του βοσκού
 https://www.tvopen.gr/watch/224998/syntaghgiapitatoyboskoy|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",OPEN Kitchen 19/11/2024
@@ -318,3 +318,19 @@ https://www.tvopen.gr/watch/225377/tagalaktokomikasthndiatrofhmas|webfulldig
 https://www.tvopen.gr/watch/225378/syntaghgiakroyasanmezamponkaityri|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",«OPEN Kitchen» 22/11/2024
 https://www.tvopen.gr/watch/225379/c2abopenkitchenc2bb222f112f2024|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για κροκέτες κοτόπουλου με ντίπ τυριού από την Ντίνα Νικολάου
+https://www.tvopen.gr/watch/225667/syntaghgiakroketeskotopoyloymentiptyrioyapothnntinanikolaoy|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Οι συμβουλές του Δημήτρη Γρηγοράκη για τους μικρούς αθλητές
+https://www.tvopen.gr/watch/225668/oisymboylestoydhmhtrhgrhgorakhgiatoysmikroysathlhtes|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για πουτίγκα τσουρεκιού με κρέμα αμυγδάλου
+https://www.tvopen.gr/watch/225670/syntaghgiapoytigkatsoyrekioymekremaamygdaloy|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",OPEN Kitchen 25/11/2024
+https://www.tvopen.gr/watch/225671/openkitchen252f112f2024|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για σπαγγέτι με ντοματένια σάλτσα και αυγά από την Ντίνα Νικολάου
+https://www.tvopen.gr/watch/225799/syntaghgiaspaggetimentomateniasaltsakaiaygaapothnntinanikolaoy|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για μαριναρισμένη φέτα με ελαιόλαδο και μυρωδικά από τη Ντίνα Νικολάου
+https://www.tvopen.gr/watch/225801/syntaghgiamarinarismenhfetameelaioladokaimyrodikaapothntinanikolaoy|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για πορτοκαλόπιτα με φύλλο κανταΐφι από την Ντίνα Νικολάου
+https://www.tvopen.gr/watch/225807/syntaghgiaportokalopitamefyllokantaifiapothnntinanikolaoy|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",OPEN Kitchen 26/11/2024
+https://www.tvopen.gr/watch/225809/openkitchen262f112f2024|webfulldig

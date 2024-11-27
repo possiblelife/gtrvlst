@@ -864,6 +864,8 @@ https://www.tvopen.gr/watch/224059/todasosmpampoyenakataprasinokatafygiostokioto
 https://www.tvopen.gr/watch/224832/kampoykitsooc2abparadeisosc2bbthsnyxterinhsdiaskedashsstotokio|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Σένσο-τζι,: O παλαιότερος ναός του Τόκιο
 https://www.tvopen.gr/watch/224833/sensotziopalaioterosnaostoytokio|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Υπέροχα πλάνα από τον σταθμό Σιντζούκου στο Τόκιο
+https://www.tvopen.gr/watch/225552/yperoxaplanaapotonstathmosintzoykoystotokio|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Καππαδοκία, Α' μέρος
 https://www.tvopen.gr/watch/2307/eikonesmetontasodoysh7ckappadokiaameros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση |  Καππαδοκία Β' Μέρος
@@ -1294,3 +1296,5 @@ https://www.tvopen.gr/watch/223181/eikonesmetontasodoysh7ckiotoameros|webfulldig
 https://www.tvopen.gr/watch/224056/eikonesmetontasodoysh7ckiotobmeros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Τόκιο Α μέρος
 https://www.tvopen.gr/watch/224835/eikonesmetontasodoysh7ctokioameros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Τόκιο Β μέρος
+https://www.tvopen.gr/watch/225241/eikonesmetontasodoyshtokiobmeros|webfulldig
