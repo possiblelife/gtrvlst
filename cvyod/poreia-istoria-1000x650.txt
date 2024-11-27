@@ -128,3 +128,5 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=208033&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=208215&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 010 ΚΑΘΕ ΠΟΡΕΙΑ...ΜΙΑ ΙΣΤΟΡΙΑ
 https://www.omegatv.com.cy/cgibin/hweb?-A=208376&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 011 ΚΑΘΕ ΠΟΡΕΙΑ...ΜΙΑ ΙΣΤΟΡΙΑ
+https://www.omegatv.com.cy/cgibin/hweb?-A=208540&-V=vod|webfulldig
