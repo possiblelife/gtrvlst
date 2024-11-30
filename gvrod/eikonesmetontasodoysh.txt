@@ -242,8 +242,6 @@ https://www.tvopen.gr/watch/95073/mpotsoyanapartimeelefantesstoparkotsompe|webfu
 https://www.tvopen.gr/watch/95074/zimpampoyeraftingstonzambezh|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Πύργος του Άιφελ: Το σήμα κατατεθέν του Παρισιού
 https://www.tvopen.gr/watch/96248/pyrgostoyaifeltoshmakatatethentoyparisioy|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Η Παναγία των Παρισίων, γνωστή και ως Νοτρ Νταμ
-https://www.tvopen.gr/watch/96249/hpanagiatonparisiongnosthkaiosnotrntam|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Κρουαζιέρα στον Σηκουάνα – Μία αξέχαστη εμπειρία
 https://www.tvopen.gr/watch/97318/kroyazierastonshkoyanamiaaxexasthempeiria|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Λεωφόρος Ηλύσιων Πεδίων – Ο δημοφιλέστερος δρόμος στο Παρίσι
@@ -264,6 +262,8 @@ https://www.tvopen.gr/watch/101107/enaapotapioomorfamerhtoykeiptaoyntowaterfront
 https://www.tvopen.gr/watch/101434/capetownboltastoakrothriothskalhselpidasmetontasodoysh|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Cape Town: Φώκιες κάνουν βόλτα στο λιμάνι
 https://www.tvopen.gr/watch/101430/capetownfokieskanoynboltastolimani|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Η Παναγία των Παρισίων, γνωστή και ως Νοτρ Νταμ
+https://www.tvopen.gr/watch/96249/hpanagiatonparisiongnosthkaiosnotrntam|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Cape Town: Επίσκεψη στον αμπελώνα Constantia
 https://www.tvopen.gr/watch/101429/capetownepiskepshstonampelonaconstantia|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Νότια Αφρική: Σαφάρι στο πάρκο Κρούγκερ
