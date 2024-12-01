@@ -484,7 +484,7 @@ https://m.twitch.tv/hotbeatstv?desktop-redirect=true|webdig
 
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,=====   ΠΑΙΔΙΚΑ   ====
 http://.....
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-id="smile"  tvg-logo="https://yt3.ggpht.com/-HQamnwjhf6M/AAAAAAAAAAI/AAAAAAAAAAA/RR0l9Otdjl4/s100-mo-c-c0xffffffff-rj-k-no/photo.jpg" tvg-website="https://www.smiletvcyprus.com/" ,Smile
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-id="smile"  tvg-logo="https://yt3.ggpht.com/-HQamnwjhf6M/AAAAAAAAAAI/AAAAAAAAAAA/RR0l9Otdjl4/s100-mo-c-c0xffffffff-rj-k-no/photo.jpg" tvg-website="https://www.smiletvcyprus.com/" ,[OFFLINE] Smile
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://i.ibb.co/Tv1hStJ/ertkids.jpg" tvg-name="ErtFlix Kids" ,ErtFlix Kids
 http://195.226.218.163/vid/kidstv-hbbtv/mpeg.2ts
