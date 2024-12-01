@@ -66,6 +66,8 @@ https://www.cyta.com.cy/tv-guide/en|webepg zoom=100 scroll=0,100
 http://www.anacon.org/app/chans/cy/pluscyimage.php|webfulldig
 #EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - Plus
 https://www.cyta.com.cy/tv-guide/en|webepg zoom=100 scroll=0,100
+#EXTINF:-1 group-title="CYPRUS" tvg-id="Berginacy" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fa28f343-2082-41e1-aa2d-2d7fbe1c7552-profile_image-300x300.png" tvg-website="https://verginatv.cy/" ,BERGINA ΤV
+https://fl1002.bozztv.com/ssh101/vecy32423jk/index.m3u8
 #EXTINF:-1 group-title="CYPRUS" tvg-id="Berginacy" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fa28f343-2082-41e1-aa2d-2d7fbe1c7552-profile_image-300x300.png" tvg-website="https://verginatv.cy/" ,[OFFLINE] BERGINA ΤV (Click "PLAY VIDEO" between ads)
 http://www.anacon.org/app/chans/cy/verginacyimage.php|webfulldig
 #EXTINF:-1 group-title="CYPRUS" tvg-id="smile" tvg-name="Smile" tvg-logo="https://yt3.ggpht.com/-HQamnwjhf6M/AAAAAAAAAAI/AAAAAAAAAAA/RR0l9Otdjl4/s100-mo-c-c0xffffffff-rj-k-no/photo.jpg" tvg-website="https://www.smiletvcyprus.com/" ,[OFFLINE] Smile
