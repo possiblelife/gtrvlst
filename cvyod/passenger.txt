@@ -38,3 +38,5 @@ https://www.ant1live.com/webtv/psyhagogia/passenger/epeisodio-5-0|webfulldig
 https://www.ant1live.com/webtv/psyhagogia/passenger/epeisodio-6-0|webfulldig
 #EXTINF:-1 group-title="Season2",ΕΠΕΙΣΟΔΙΟ 7
 https://www.ant1live.com/webtv/psyhagogia/passenger/epeisodio-7-0|webfulldig
+#EXTINF:-1 group-title="Season2",ΕΠΕΙΣΟΔΙΟ 8
+https://www.ant1live.com/webtv/psyhagogia/passenger/epeisodio-8-0|webfulldig
