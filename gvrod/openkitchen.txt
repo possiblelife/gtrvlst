@@ -268,10 +268,6 @@ https://www.tvopen.gr/watch/224425/syntaghgiastriftopitamesalamiorimanshskaimets
 https://www.tvopen.gr/watch/224426/openkitchen132f112f2024|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για μελωμένο χοιρινό με κυδώνια στο φούρνο από την Ντίνα Νικολάου
 https://www.tvopen.gr/watch/224551/syntaghgiamelomenoxoirinomekydoniastofoyrnoapothnntinanikolaoy|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",OPEN Kitchen 18/11/2024
-https://www.tvopen.gr/watch/224943/openkitchen182f112f2024|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για σαλάτα του Καίσαρα
-https://www.tvopen.gr/watch/224997/syntaghgiasalatatoykaisara|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Πώς μπορούμε να απολαμβάνουμε τους αγαπημένους φρουτοχυμούς
 https://www.tvopen.gr/watch/224552/posmporoymenaapolambanoymetoysagaphmenoysfroytoxymoys|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για τάρτα με μοσχαρίσιο μπέικον και μοτσαρέλα από την Ντίνα Νικολάου
@@ -290,6 +286,10 @@ https://www.tvopen.gr/watch/224690/openkitchen152f112f2024|webfulldig
 https://www.tvopen.gr/watch/224940/syntaghgiafontansokolatas|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για αφράτα πιτάκια
 https://www.tvopen.gr/watch/224942/syntaghgiaafratapitakia|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",OPEN Kitchen 18/11/2024
+https://www.tvopen.gr/watch/224943/openkitchen182f112f2024|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για σαλάτα του Καίσαρα
+https://www.tvopen.gr/watch/224997/syntaghgiasalatatoykaisara|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για πίτα του βοσκού
 https://www.tvopen.gr/watch/224998/syntaghgiapitatoyboskoy|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",OPEN Kitchen 19/11/2024
@@ -334,3 +334,41 @@ https://www.tvopen.gr/watch/225801/syntaghgiamarinarismenhfetameelaioladokaimyro
 https://www.tvopen.gr/watch/225807/syntaghgiaportokalopitamefyllokantaifiapothnntinanikolaoy|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",OPEN Kitchen 26/11/2024
 https://www.tvopen.gr/watch/225809/openkitchen262f112f2024|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για πατάτες ντοφινουά με σπεκ μαύρου χοίρου από την Ντίνα Νικολάου
+https://www.tvopen.gr/watch/225922/syntaghgiapatatesntofinoyamespekmayroyxoiroyapothnntinanikolaoy|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Πόσο απαραίτητο είναι το ψωμί στην καθημερινή μας διατροφή
+https://www.tvopen.gr/watch/225923/posoaparaithtoeinaitopsomisthnkathhmerinhmasdiatrofh|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για γαλλική κρέμ μπρουλέ από την Ντίνα Νικολάου
+https://www.tvopen.gr/watch/225924/syntaghgiagallikhkremmproyleapothnntinanikolaoy|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",OPEN Kitchen 27/11/2024
+https://www.tvopen.gr/watch/225925/openkitchen272f112f2024|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για πίτα με σάλτσα βασιλικού &amp; καλαθάκι Λήμνου
+https://www.tvopen.gr/watch/226083/syntaghgiapitamesaltsabasilikoykalathakilhmnoy|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για πίκλα κρεμμυδιού
+https://www.tvopen.gr/watch/226084/syntaghgiapiklakremmydioy|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για κέικ μήλου με σταφίδες και ουίσκι
+https://www.tvopen.gr/watch/226085/syntaghgiakeikmhloymestafideskaioyiski|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",«OPEN Kitchen» 28/11/2024
+https://www.tvopen.gr/watch/226087/c2abopenkitchenc2bb282f112f2024|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για μανιταρόσουπα βελουτέ με τυρί κρέμα
+https://www.tvopen.gr/watch/226201/syntaghgiamanitarosoypabeloytemetyrikrema|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για μπουγάτσα με σοκολάτα
+https://www.tvopen.gr/watch/226202/syntaghgiampoygatsamesokolata|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",«OPEN Kitchen» 29/11/2024
+https://www.tvopen.gr/watch/226203/c2abopenkitchenc2bb292f112f2024|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για ελιοψωμάκια από τη Ντίνα Νικολάου
+https://www.tvopen.gr/watch/226459/syntaghgiaeliopsomakiaapothntinanikolaoy|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Πώς μπορούμε να αντιμετωπίσουμε την κυτταρίτιδα μέσω της διατροφής
+https://www.tvopen.gr/watch/226460/posmporoymenaantimetopisoymethnkyttaritidamesothsdiatrofhs|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για μπάρες με χουρμάδες, ξηρούς καρπούς &amp; μαύρη σοκολάτα από τη Ντίνα Νικολάου
+https://www.tvopen.gr/watch/226461/syntaghgiamparesmexoyrmadesxhroyskarpoysmayrhsokolataapothntinanikolaoy|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",«OPEN Kitchen» 02/12/2024
+https://www.tvopen.gr/watch/226463/c2abopenkitchenc2bb022f122f2024|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για κοτοσαλάτα με ρόδι από τη Ντίνα Νικολάου
+https://www.tvopen.gr/watch/226600/syntaghgiakotosalatamerodiapothntinanikolaoy|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για σπιτική λεμονάδα από τη Ντίνα Νικολάου
+https://www.tvopen.gr/watch/226601/syntaghgiaspitikhlemonadaapothntinanikolaoy|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για cookies με κράνμπερις και φιστίκι Αιγίνης
+https://www.tvopen.gr/watch/226603/syntaghgiacookiesmekranmperiskaifistikiaiginhs|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",«OPEN Kitchen» 03/12/2024
+https://www.tvopen.gr/watch/226604/c2abopenkitchenc2bb032f122f2024|webfulldig

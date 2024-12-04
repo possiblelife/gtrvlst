@@ -242,14 +242,12 @@ https://www.tvopen.gr/watch/95073/mpotsoyanapartimeelefantesstoparkotsompe|webfu
 https://www.tvopen.gr/watch/95074/zimpampoyeraftingstonzambezh|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Πύργος του Άιφελ: Το σήμα κατατεθέν του Παρισιού
 https://www.tvopen.gr/watch/96248/pyrgostoyaifeltoshmakatatethentoyparisioy|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Η Παναγία των Παρισίων, γνωστή και ως Νοτρ Νταμ
+https://www.tvopen.gr/watch/96249/hpanagiatonparisiongnosthkaiosnotrntam|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Κρουαζιέρα στον Σηκουάνα – Μία αξέχαστη εμπειρία
 https://www.tvopen.gr/watch/97318/kroyazierastonshkoyanamiaaxexasthempeiria|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Λεωφόρος Ηλύσιων Πεδίων – Ο δημοφιλέστερος δρόμος στο Παρίσι
 https://www.tvopen.gr/watch/97319/leoforoshlysionpedionodhmofilesterosdromosstoparisi|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Μονή Τίμιου Προδρόμου: Ένα υπέροχο μοναστήρι μέσα στους βράχους
-https://www.tvopen.gr/watch/98223/monhtimioyprodromoyenayperoxomonasthrimesastoysbraxoys|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Λούσιος ποταμός: Μια σπάνια ομορφιά
-https://www.tvopen.gr/watch/98224/loysiospotamosmiaspaniaomorfia|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ελάτη: Βόλτα με άλογα μέσα στη φύση
 https://www.tvopen.gr/watch/98333/elathboltamealogamesasthfysh|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Αγία Φωτεινή: Η πιο παράξενη εκκλησία
@@ -262,14 +260,16 @@ https://www.tvopen.gr/watch/101107/enaapotapioomorfamerhtoykeiptaoyntowaterfront
 https://www.tvopen.gr/watch/101434/capetownboltastoakrothriothskalhselpidasmetontasodoysh|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Cape Town: Φώκιες κάνουν βόλτα στο λιμάνι
 https://www.tvopen.gr/watch/101430/capetownfokieskanoynboltastolimani|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Η Παναγία των Παρισίων, γνωστή και ως Νοτρ Νταμ
-https://www.tvopen.gr/watch/96249/hpanagiatonparisiongnosthkaiosnotrntam|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Cape Town: Επίσκεψη στον αμπελώνα Constantia
 https://www.tvopen.gr/watch/101429/capetownepiskepshstonampelonaconstantia|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Νότια Αφρική: Σαφάρι στο πάρκο Κρούγκερ
 https://www.tvopen.gr/watch/103079/notiaafrikhsafaristoparkokroygker|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Νότια Αφρική: Ξενάγηση στο train on the Bridge
 https://www.tvopen.gr/watch/103080/notiaafrikhxenaghshstotrainonthebridge|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Μονή Τίμιου Προδρόμου: Ένα υπέροχο μοναστήρι μέσα στους βράχους
+https://www.tvopen.gr/watch/98223/monhtimioyprodromoyenayperoxomonasthrimesastoysbraxoys|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Λούσιος ποταμός: Μια σπάνια ομορφιά
+https://www.tvopen.gr/watch/98224/loysiospotamosmiaspaniaomorfia|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Τεχεράνη: Το Παλάτι των Λουλουδιών – Ένας θησαυρός από γυαλί, ασήμι και χρυσό
 https://www.tvopen.gr/watch/104062/texeranhtopalatitonloyloydionenasthhsayrosapogyaliashmikaixryso|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Αζαντί: Ο μαρμάρινος πύργος της Τεχεράνης
@@ -866,6 +866,10 @@ https://www.tvopen.gr/watch/224832/kampoykitsooc2abparadeisosc2bbthsnyxterinhsdi
 https://www.tvopen.gr/watch/224833/sensotziopalaioterosnaostoytokio|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Υπέροχα πλάνα από τον σταθμό Σιντζούκου στο Τόκιο
 https://www.tvopen.gr/watch/225552/yperoxaplanaapotonstathmosintzoykoystotokio|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Ακιχαμπάρα: Η γειτονιά για τους λάτρεις των ηλεκτρονικών παιχνιδιών
+https://www.tvopen.gr/watch/226088/akixamparahgeitoniagiatoyslatreistonhlektronikonpaixnidion|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Skytree: Ο ψηλότερος πύργος του κόσμου!
+https://www.tvopen.gr/watch/226089/skytreeopshloterospyrgostoykosmoy|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Καππαδοκία, Α' μέρος
 https://www.tvopen.gr/watch/2307/eikonesmetontasodoysh7ckappadokiaameros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση |  Καππαδοκία Β' Μέρος
@@ -1298,3 +1302,5 @@ https://www.tvopen.gr/watch/224056/eikonesmetontasodoysh7ckiotobmeros|webfulldig
 https://www.tvopen.gr/watch/224835/eikonesmetontasodoysh7ctokioameros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Τόκιο Β μέρος
 https://www.tvopen.gr/watch/225241/eikonesmetontasodoyshtokiobmeros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Τόκιο Γ μέρος
+https://www.tvopen.gr/watch/226066/eikonesmetontasodoyshtokiogmeros|webfulldig
