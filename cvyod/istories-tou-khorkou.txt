@@ -1,3 +1,11 @@
+#EXTINF:-1 group-title="Special" ,ΙΣΤΟΡΙΕΣ ΤΟΥ ΧΩΡΚΟΥ - ΠΑΣΧΑΛΙΝΟ ΕΠΕΙΣΟΔΙΟ (27/04/1997)
+https://digital-herodotus.eu/archive/video/items/2031/istories-tou-khorkou-paskhalino-epeisodio/?page=12|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Special" ,ΙΣΤΟΡΙΕΣ ΤΟΥ ΧΩΡΚΟΥ - ΠΡΩΤΟΧΡΟΝΙΑΤΙΚΟ (31/12/2001)
+https://digital-herodotus.eu/archive/video/items/3365/istories-tou-khorkou-protokhroniatiko/?page=28|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Special" ,ΙΣΤΟΡΙΕΣ ΤΟΥ ΧΩΡΚΟΥ - ΠΑΣΧΑΛΙΝΟ ΕΠΕΙΣΟΔΙΟ (05/05/2002)
+https://digital-herodotus.eu/archive/video/items/3364/istories-tou-khorkou-paskhalino-epeisodio/?page=29|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Special" ,ΙΣΤΟΡΙΕΣ ΤΟΥ ΧΩΡΚΟΥ - ΠΡΩΤΟΧΡΟΝΙΑΤΙΚΟ (31/12/2002)
+https://digital-herodotus.eu/archive/video/items/3366/istories-tou-khorkou-protokhroniatiko/?page=31|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 11",ΙΣΤΟΡΙΕΣ ΤΟΥ ΧΩΡΚΟΥ 2010 - 060( 05/04/2011)
 https://digital-herodotus.eu/archive/video/items/4815/istories-tou-khorkou-2010-060/?page=66|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 11",ΙΣΤΟΡΙΕΣ ΤΟΥ ΧΩΡΚΟΥ 2010 - 059( 04/04/2011)
@@ -118,14 +126,14 @@ https://digital-herodotus.eu/archive/video/items/4624/istories-tou-khorkou-2010-
 https://digital-herodotus.eu/archive/video/items/4551/istories-tou-khorkou-2010-001/?page=57|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 11",ΙΣΤΟΡΙΕΣ ΤΟΥ ΧΩΡΚΟΥ 2010 - 015( 01/01/2010)
 https://digital-herodotus.eu/archive/video/items/4771/istories-tou-khorkou-2010-015/?page=56|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 10",ΙΣΤΟΡΙΕΣ ΤΟΥ ΧΩΡΚΟΥ - 448( 18/06/2006)
-https://digital-herodotus.eu/archive/video/items/4547/istories-tou-khorkou-448/?page=48|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 10",ΙΣΤΟΡΙΕΣ ΤΟΥ ΧΩΡΚΟΥ - 451( 26/05/2006)
 https://digital-herodotus.eu/archive/video/items/4550/istories-tou-khorkou-451/?page=48|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 10",ΙΣΤΟΡΙΕΣ ΤΟΥ ΧΩΡΚΟΥ - 450( 25/05/2006)
 https://digital-herodotus.eu/archive/video/items/4549/istories-tou-khorkou-450/?page=48|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 10",ΙΣΤΟΡΙΕΣ ΤΟΥ ΧΩΡΚΟΥ - 449( 19/05/2006)
 https://digital-herodotus.eu/archive/video/items/4548/istories-tou-khorkou-449/?page=48|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 10",ΙΣΤΟΡΙΕΣ ΤΟΥ ΧΩΡΚΟΥ - 448( 18/06/2006)
+https://digital-herodotus.eu/archive/video/items/4547/istories-tou-khorkou-448/?page=48|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 10",ΙΣΤΟΡΙΕΣ ΤΟΥ ΧΩΡΚΟΥ - 447( 12/05/2006)
 https://digital-herodotus.eu/archive/video/items/4546/istories-tou-khorkou-447/?page=48|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 10",ΙΣΤΟΡΙΕΣ ΤΟΥ ΧΩΡΚΟΥ - 446( 11/05/2006)
@@ -974,7 +982,11 @@ https://digital-herodotus.eu/archive/video/items/1930/istories-tou-khorkou-023/?
 https://digital-herodotus.eu/archive/video/items/1929/istories-tou-khorkou-022/?page=13|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΙΣΤΟΡΙΕΣ ΤΟΥ ΧΩΡΚΟΥ - 021( 16/11/1997)
 https://digital-herodotus.eu/archive/video/items/2780/istories-tou-khorkou-021/?page=13|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 2",ΙΣΤΟΡΙΕΣ ΤΟΥ ΧΩΡΚΟΥ - 018( 26/10/1997)
+#EXTINF:-1 group-title="Season 1",ΙΣΤΟΡΙΕΣ ΤΟΥ ΧΩΡΚΟΥ - 020( 01/01/1997)
+https://digital-herodotus.eu/archive/video/items/2779/istories-tou-khorkou-020/?page=11|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 1",ΙΣΤΟΡΙΕΣ ΤΟΥ ΧΩΡΚΟΥ - 019( 01/01/1997)
+https://digital-herodotus.eu/archive/video/items/1928/istories-tou-khorkou-019/?page=11|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 1",ΙΣΤΟΡΙΕΣ ΤΟΥ ΧΩΡΚΟΥ - 018( 26/10/1997)
 https://digital-herodotus.eu/archive/video/items/2778/istories-tou-khorkou-018/?page=13|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 1",ΙΣΤΟΡΙΕΣ ΤΟΥ ΧΩΡΚΟΥ - 017( 15/06/1997)
 https://digital-herodotus.eu/archive/video/items/1927/istories-tou-khorkou-017/?page=12|webvod zoom=100 scroll=0,0
@@ -986,18 +998,16 @@ https://digital-herodotus.eu/archive/video/items/1925/istories-tou-khorkou-015/?
 https://digital-herodotus.eu/archive/video/items/2777/istories-tou-khorkou-014/?page=12|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 1",ΙΣΤΟΡΙΕΣ ΤΟΥ ΧΩΡΚΟΥ - 013( 18/05/1997)
 https://digital-herodotus.eu/archive/video/items/1924/istories-tou-khorkou-013/?page=12|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 1",ΙΣΤΟΡΙΕΣ ΤΟΥ ΧΩΡΚΟΥ - 012( 01/01/1997)
+https://digital-herodotus.eu/archive/video/items/1923/istories-tou-khorkou-012/?page=11|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 1",ΙΣΤΟΡΙΕΣ ΤΟΥ ΧΩΡΚΟΥ - 011( 30/11/1996)
+https://digital-herodotus.eu/archive/video/items/2776/istories-tou-khorkou-011/?page=10|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 1",ΙΣΤΟΡΙΕΣ ΤΟΥ ΧΩΡΚΟΥ - 010( 20/04/1997)
 https://digital-herodotus.eu/archive/video/items/1922/istories-tou-khorkou-010/?page=12|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 1",ΙΣΤΟΡΙΕΣ ΤΟΥ ΧΩΡΚΟΥ - 009( 13/04/1997)
 https://digital-herodotus.eu/archive/video/items/2775/istories-tou-khorkou-009/?page=12|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 1",ΙΣΤΟΡΙΕΣ ΤΟΥ ΧΩΡΚΟΥ - 008( 06/04/1997)
 https://digital-herodotus.eu/archive/video/items/1921/istories-tou-khorkou-008/?page=12|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 1",ΙΣΤΟΡΙΕΣ ΤΟΥ ΧΩΡΚΟΥ - 020( 01/01/1997)
-https://digital-herodotus.eu/archive/video/items/2779/istories-tou-khorkou-020/?page=11|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 1",ΙΣΤΟΡΙΕΣ ΤΟΥ ΧΩΡΚΟΥ - 019( 01/01/1997)
-https://digital-herodotus.eu/archive/video/items/1928/istories-tou-khorkou-019/?page=11|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 1",ΙΣΤΟΡΙΕΣ ΤΟΥ ΧΩΡΚΟΥ - 012( 01/01/1997)
-https://digital-herodotus.eu/archive/video/items/1923/istories-tou-khorkou-012/?page=11|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 1",ΙΣΤΟΡΙΕΣ ΤΟΥ ΧΩΡΚΟΥ - 007( 01/01/1997)
 https://digital-herodotus.eu/archive/video/items/1920/istories-tou-khorkou-007/?page=11|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 1",ΙΣΤΟΡΙΕΣ ΤΟΥ ΧΩΡΚΟΥ - 006( 26/12/1996)
@@ -1008,8 +1018,6 @@ https://digital-herodotus.eu/archive/video/items/1918/istories-tou-khorkou-005/?
 https://digital-herodotus.eu/archive/video/items/1917/istories-tou-khorkou-004/?page=10|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 1",ΙΣΤΟΡΙΕΣ ΤΟΥ ΧΩΡΚΟΥ - 003( 01/12/1996)
 https://digital-herodotus.eu/archive/video/items/2774/istories-tou-khorkou-003/?page=10|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 1",ΙΣΤΟΡΙΕΣ ΤΟΥ ΧΩΡΚΟΥ - 011( 30/11/1996)
-https://digital-herodotus.eu/archive/video/items/2776/istories-tou-khorkou-011/?page=10|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 1",ΙΣΤΟΡΙΕΣ ΤΟΥ ΧΩΡΚΟΥ - 002( 24/11/1996)
 https://digital-herodotus.eu/archive/video/items/2773/istories-tou-khorkou-002/?page=10|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 1",ΙΣΤΟΡΙΕΣ ΤΟΥ ΧΩΡΚΟΥ - 001( 17/11/1996)
