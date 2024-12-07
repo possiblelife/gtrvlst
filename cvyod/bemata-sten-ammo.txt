@@ -1,19 +1,21 @@
-#EXTINF:-1 group-title="Season 3",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Γ298( 14/06/2013)
-https://digital-herodotus.eu/archive/video/items/2573/bemata-sten-ammo-g298/?page=96|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 3",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Γ297( 13/06/2013)
-https://digital-herodotus.eu/archive/video/items/2572/bemata-sten-ammo-g297/?page=96|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 3",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Γ300( 12/06/2013)
 https://digital-herodotus.eu/archive/video/items/2575/bemata-sten-ammo-g300/?page=96|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 3",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Γ299( 12/06/2013)
 https://digital-herodotus.eu/archive/video/items/2574/bemata-sten-ammo-g299/?page=96|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 3",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Γ295( 11/06/2013)
-https://digital-herodotus.eu/archive/video/items/2570/bemata-sten-ammo-g295/?page=96|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 3",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Γ298( 14/06/2013)
+https://digital-herodotus.eu/archive/video/items/2573/bemata-sten-ammo-g298/?page=96|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 3",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Γ297( 13/06/2013)
+https://digital-herodotus.eu/archive/video/items/2572/bemata-sten-ammo-g297/?page=96|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 3",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Γ296( 10/06/2013)
 https://digital-herodotus.eu/archive/video/items/6111/bemata-sten-ammo-g296/?page=96|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 3",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Γ295( 11/06/2013)
+https://digital-herodotus.eu/archive/video/items/2570/bemata-sten-ammo-g295/?page=96|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 3",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Γ294( 04/06/2013)
 https://digital-herodotus.eu/archive/video/items/2569/bemata-sten-ammo-g294/?page=95|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 3",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Γ293( 01/06/2013)
 https://digital-herodotus.eu/archive/video/items/2568/bemata-sten-ammo-g293/?page=95|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 3",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Γ292( 30/05/2012)
+https://digital-herodotus.eu/archive/video/items/2567/bemata-sten-ammo-g292/?page=80|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 3",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Γ291( 21/05/2013)
 https://digital-herodotus.eu/archive/video/items/2566/bemata-sten-ammo-g291/?page=95|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 3",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Γ290( 21/05/2013)
@@ -122,10 +124,6 @@ https://digital-herodotus.eu/archive/video/items/2515/bemata-sten-ammo-g240/?pag
 https://digital-herodotus.eu/archive/video/items/2514/bemata-sten-ammo-g239/?page=86|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 3",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Γ238( 17/12/2012)
 https://digital-herodotus.eu/archive/video/items/2513/bemata-sten-ammo-g238/?page=86|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 3",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α018( 11/12/2012)
-https://digital-herodotus.eu/archive/video/items/1730/bemata-sten-ammo-a018/?page=86|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 3",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α016( 11/12/2012)
-https://digital-herodotus.eu/archive/video/items/1728/bemata-sten-ammo-a016/?page=86|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 3",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Γ237( 06/12/2012)
 https://digital-herodotus.eu/archive/video/items/2512/bemata-sten-ammo-g237/?page=86|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 3",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Γ236( 06/12/2012)
@@ -200,28 +198,26 @@ https://digital-herodotus.eu/archive/video/items/2479/bemata-sten-ammo-g203/?pag
 https://digital-herodotus.eu/archive/video/items/2478/bemata-sten-ammo-g202/?page=81|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 3",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Γ201( 20/09/2012)
 https://digital-herodotus.eu/archive/video/items/2477/bemata-sten-ammo-g201/?page=81|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 3",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Γ292( 30/05/2012)
-https://digital-herodotus.eu/archive/video/items/2567/bemata-sten-ammo-g292/?page=80|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β200( 30/05/2012)
 https://digital-herodotus.eu/archive/video/items/2476/bemata-sten-ammo-b200/?page=80|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β197( 23/05/2012)
-https://digital-herodotus.eu/archive/video/items/2244/bemata-sten-ammo-b197/?page=80|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β199( 21/05/2012)
 https://digital-herodotus.eu/archive/video/items/2166/bemata-sten-ammo-b199/?page=80|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β198( 21/05/2012)
 https://digital-herodotus.eu/archive/video/items/2165/bemata-sten-ammo-b198/?page=80|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β197( 23/05/2012)
+https://digital-herodotus.eu/archive/video/items/2244/bemata-sten-ammo-b197/?page=80|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β196( 09/05/2012)
 https://digital-herodotus.eu/archive/video/items/2164/bemata-sten-ammo-b196/?page=79|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β195( 09/05/2012)
 https://digital-herodotus.eu/archive/video/items/2163/bemata-sten-ammo-b195/?page=79|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β194( 09/05/2012)
 https://digital-herodotus.eu/archive/video/items/2162/bemata-sten-ammo-b194/?page=79|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β191( 18/04/2012)
-https://digital-herodotus.eu/archive/video/items/2475/bemata-sten-ammo-b191/?page=78|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β193( 18/04/2012)
 https://digital-herodotus.eu/archive/video/items/2243/bemata-sten-ammo-b193/?page=78|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β192( 18/04/2012)
 https://digital-herodotus.eu/archive/video/items/2161/bemata-sten-ammo-b192/?page=78|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β191( 18/04/2012)
+https://digital-herodotus.eu/archive/video/items/2475/bemata-sten-ammo-b191/?page=78|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β190( 14/02/2012)
 https://digital-herodotus.eu/archive/video/items/2160/bemata-sten-ammo-b190/?page=76|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β189( 14/02/2012)
@@ -238,16 +234,18 @@ https://digital-herodotus.eu/archive/video/items/2155/bemata-sten-ammo-b185/?pag
 https://digital-herodotus.eu/archive/video/items/2474/bemata-sten-ammo-b184/?page=75|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β183( 26/01/2012)
 https://digital-herodotus.eu/archive/video/items/2154/bemata-sten-ammo-b183/?page=75|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β182( 01/01/2012)
+https://digital-herodotus.eu/archive/video/items/2153/bemata-sten-ammo-b182/?page=73|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β181( 23/01/2012)
+https://digital-herodotus.eu/archive/video/items/2152/bemata-sten-ammo-b181/?page=74|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β180( 26/01/2012)
 https://digital-herodotus.eu/archive/video/items/2151/bemata-sten-ammo-b180/?page=75|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β179( 23/01/2012)
 https://digital-herodotus.eu/archive/video/items/2242/bemata-sten-ammo-b179/?page=75|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β181( 23/01/2012)
-https://digital-herodotus.eu/archive/video/items/2152/bemata-sten-ammo-b181/?page=74|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β177( 17/01/2012)
-https://digital-herodotus.eu/archive/video/items/2241/bemata-sten-ammo-b177/?page=74|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β178( 17/01/2012)
 https://digital-herodotus.eu/archive/video/items/2150/bemata-sten-ammo-b178/?page=74|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β177( 17/01/2012)
+https://digital-herodotus.eu/archive/video/items/2241/bemata-sten-ammo-b177/?page=74|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β176( 17/01/2012)
 https://digital-herodotus.eu/archive/video/items/2149/bemata-sten-ammo-b176/?page=74|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β175( 08/01/2012)
@@ -256,14 +254,12 @@ https://digital-herodotus.eu/archive/video/items/2473/bemata-sten-ammo-b175/?pag
 https://digital-herodotus.eu/archive/video/items/2240/bemata-sten-ammo-b174/?page=74|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β173( 08/01/2012)
 https://digital-herodotus.eu/archive/video/items/2239/bemata-sten-ammo-b173/?page=74|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β182( 01/01/2012)
-https://digital-herodotus.eu/archive/video/items/2153/bemata-sten-ammo-b182/?page=73|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β172( 30/12/2011)
+https://digital-herodotus.eu/archive/video/items/2238/bemata-sten-ammo-b172/?page=73|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β171( 01/01/2012)
 https://digital-herodotus.eu/archive/video/items/2148/bemata-sten-ammo-b171/?page=73|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β170( 01/01/2012)
 https://digital-herodotus.eu/archive/video/items/2147/bemata-sten-ammo-b170/?page=73|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β172( 30/12/2011)
-https://digital-herodotus.eu/archive/video/items/2238/bemata-sten-ammo-b172/?page=73|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β169( 13/12/2011)
 https://digital-herodotus.eu/archive/video/items/2237/bemata-sten-ammo-b169/?page=73|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β168( 13/12/2011)
@@ -280,102 +276,88 @@ https://digital-herodotus.eu/archive/video/items/2142/bemata-sten-ammo-b164/?pag
 https://digital-herodotus.eu/archive/video/items/2236/bemata-sten-ammo-b163/?page=72|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β162( 27/11/2011)
 https://digital-herodotus.eu/archive/video/items/2235/bemata-sten-ammo-b162/?page=72|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β161( 01/11/2011)
+https://digital-herodotus.eu/archive/video/items/2234/bemata-sten-ammo-b161/?page=71|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β160( 19/11/2011)
 https://digital-herodotus.eu/archive/video/items/2233/bemata-sten-ammo-b160/?page=72|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β159( 01/11/2011)
+https://digital-herodotus.eu/archive/video/items/2232/bemata-sten-ammo-b159/?page=71|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β158( 19/11/2011)
 https://digital-herodotus.eu/archive/video/items/2141/bemata-sten-ammo-b158/?page=72|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β155( 10/11/2011)
-https://digital-herodotus.eu/archive/video/items/2472/bemata-sten-ammo-b155/?page=72|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β157( 10/11/2011)
 https://digital-herodotus.eu/archive/video/items/2140/bemata-sten-ammo-b157/?page=72|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β156( 10/11/2011)
 https://digital-herodotus.eu/archive/video/items/2139/bemata-sten-ammo-b156/?page=72|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β152( 10/11/2011)
-https://digital-herodotus.eu/archive/video/items/2138/bemata-sten-ammo-b152/?page=72|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β153( 03/11/2011)
-https://digital-herodotus.eu/archive/video/items/2471/bemata-sten-ammo-b153/?page=72|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β155( 10/11/2011)
+https://digital-herodotus.eu/archive/video/items/2472/bemata-sten-ammo-b155/?page=72|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β154( 03/11/2011)
 https://digital-herodotus.eu/archive/video/items/2231/bemata-sten-ammo-b154/?page=72|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β114( 01/11/2011)
-https://digital-herodotus.eu/archive/video/items/2466/bemata-sten-ammo-b114/?page=71|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β105( 01/11/2011)
-https://digital-herodotus.eu/archive/video/items/2462/bemata-sten-ammo-b105/?page=71|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β161( 01/11/2011)
-https://digital-herodotus.eu/archive/video/items/2234/bemata-sten-ammo-b161/?page=71|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β159( 01/11/2011)
-https://digital-herodotus.eu/archive/video/items/2232/bemata-sten-ammo-b159/?page=71|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β135( 01/11/2011)
-https://digital-herodotus.eu/archive/video/items/2224/bemata-sten-ammo-b135/?page=71|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β104( 01/11/2011)
-https://digital-herodotus.eu/archive/video/items/2214/bemata-sten-ammo-b104/?page=71|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β126( 01/11/2011)
-https://digital-herodotus.eu/archive/video/items/2125/bemata-sten-ammo-b126/?page=71|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β140( 01/11/2011)
-https://digital-herodotus.eu/archive/video/items/1842/bemata-sten-ammo-b140/?page=71|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β153( 03/11/2011)
+https://digital-herodotus.eu/archive/video/items/2471/bemata-sten-ammo-b153/?page=72|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β152( 10/11/2011)
+https://digital-herodotus.eu/archive/video/items/2138/bemata-sten-ammo-b152/?page=72|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β151( 30/10/2011)
 https://digital-herodotus.eu/archive/video/items/2137/bemata-sten-ammo-b151/?page=71|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β150( 29/10/2011)
 https://digital-herodotus.eu/archive/video/items/2230/bemata-sten-ammo-b150/?page=71|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β149( 29/10/2011)
 https://digital-herodotus.eu/archive/video/items/2229/bemata-sten-ammo-b149/?page=71|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β148( 20/10/2011)
+https://digital-herodotus.eu/archive/video/items/2228/bemata-sten-ammo-b148/?page=71|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β147( 21/10/2011)
 https://digital-herodotus.eu/archive/video/items/2136/bemata-sten-ammo-b147/?page=71|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β146( 21/10/2011)
 https://digital-herodotus.eu/archive/video/items/2135/bemata-sten-ammo-b146/?page=71|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β148( 20/10/2011)
-https://digital-herodotus.eu/archive/video/items/2228/bemata-sten-ammo-b148/?page=71|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β143( 14/10/2011)
-https://digital-herodotus.eu/archive/video/items/2226/bemata-sten-ammo-b143/?page=71|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β145( 14/10/2011)
 https://digital-herodotus.eu/archive/video/items/2134/bemata-sten-ammo-b145/?page=70|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β144( 13/10/2011)
 https://digital-herodotus.eu/archive/video/items/2470/bemata-sten-ammo-b144/?page=70|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β143( 14/10/2011)
+https://digital-herodotus.eu/archive/video/items/2226/bemata-sten-ammo-b143/?page=71|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β142( 10/10/2011)
 https://digital-herodotus.eu/archive/video/items/2133/bemata-sten-ammo-b142/?page=70|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β141( 10/10/2011)
 https://digital-herodotus.eu/archive/video/items/2132/bemata-sten-ammo-b141/?page=70|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β137( 03/10/2011)
-https://digital-herodotus.eu/archive/video/items/2225/bemata-sten-ammo-b137/?page=70|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β140( 01/11/2011)
+https://digital-herodotus.eu/archive/video/items/1842/bemata-sten-ammo-b140/?page=71|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β139( 03/10/2011)
 https://digital-herodotus.eu/archive/video/items/2131/bemata-sten-ammo-b139/?page=70|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β138( 03/10/2011)
 https://digital-herodotus.eu/archive/video/items/2130/bemata-sten-ammo-b138/?page=70|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β102( 01/10/2011)
-https://digital-herodotus.eu/archive/video/items/2461/bemata-sten-ammo-b102/?page=70|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β101( 01/10/2011)
-https://digital-herodotus.eu/archive/video/items/2460/bemata-sten-ammo-b101/?page=70|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β123( 01/10/2011)
-https://digital-herodotus.eu/archive/video/items/2219/bemata-sten-ammo-b123/?page=70|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β103( 01/10/2011)
-https://digital-herodotus.eu/archive/video/items/2213/bemata-sten-ammo-b103/?page=70|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β106( 01/10/2011)
-https://digital-herodotus.eu/archive/video/items/2116/bemata-sten-ammo-b106/?page=70|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β137( 03/10/2011)
+https://digital-herodotus.eu/archive/video/items/2225/bemata-sten-ammo-b137/?page=70|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β136( 26/09/2011)
 https://digital-herodotus.eu/archive/video/items/2129/bemata-sten-ammo-b136/?page=70|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β133( 22/09/2011)
-https://digital-herodotus.eu/archive/video/items/2223/bemata-sten-ammo-b133/?page=70|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β135( 01/11/2011)
+https://digital-herodotus.eu/archive/video/items/2224/bemata-sten-ammo-b135/?page=71|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β134( 22/09/2011)
 https://digital-herodotus.eu/archive/video/items/2128/bemata-sten-ammo-b134/?page=70|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β131( 19/09/2011)
-https://digital-herodotus.eu/archive/video/items/2222/bemata-sten-ammo-b131/?page=69|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β133( 22/09/2011)
+https://digital-herodotus.eu/archive/video/items/2223/bemata-sten-ammo-b133/?page=70|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β132( 19/09/2011)
 https://digital-herodotus.eu/archive/video/items/2127/bemata-sten-ammo-b132/?page=69|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β131( 19/09/2011)
+https://digital-herodotus.eu/archive/video/items/2222/bemata-sten-ammo-b131/?page=69|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β130( 19/09/2011)
 https://digital-herodotus.eu/archive/video/items/2126/bemata-sten-ammo-b130/?page=69|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β128( 13/09/2011)
-https://digital-herodotus.eu/archive/video/items/2469/bemata-sten-ammo-b128/?page=69|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β129( 13/09/2011)
 https://digital-herodotus.eu/archive/video/items/2221/bemata-sten-ammo-b129/?page=69|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β125( 05/09/2011)
-https://digital-herodotus.eu/archive/video/items/2468/bemata-sten-ammo-b125/?page=69|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β128( 13/09/2011)
+https://digital-herodotus.eu/archive/video/items/2469/bemata-sten-ammo-b128/?page=69|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β127( 05/09/2011)
 https://digital-herodotus.eu/archive/video/items/2220/bemata-sten-ammo-b127/?page=69|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β126( 01/11/2011)
+https://digital-herodotus.eu/archive/video/items/2125/bemata-sten-ammo-b126/?page=71|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β125( 05/09/2011)
+https://digital-herodotus.eu/archive/video/items/2468/bemata-sten-ammo-b125/?page=69|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β124( 29/08/2011)
+https://digital-herodotus.eu/archive/video/items/2124/bemata-sten-ammo-b124/?page=69|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β123( 01/10/2011)
+https://digital-herodotus.eu/archive/video/items/2219/bemata-sten-ammo-b123/?page=70|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β122( 30/08/2011)
 https://digital-herodotus.eu/archive/video/items/2123/bemata-sten-ammo-b122/?page=69|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β121( 29/08/2011)
 https://digital-herodotus.eu/archive/video/items/2218/bemata-sten-ammo-b121/?page=69|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β124( 29/08/2011)
-https://digital-herodotus.eu/archive/video/items/2124/bemata-sten-ammo-b124/?page=69|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β120( 29/08/2011)
 https://digital-herodotus.eu/archive/video/items/2122/bemata-sten-ammo-b120/?page=69|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β119( 29/08/2011)
@@ -388,20 +370,34 @@ https://digital-herodotus.eu/archive/video/items/2119/bemata-sten-ammo-b117/?pag
 https://digital-herodotus.eu/archive/video/items/2118/bemata-sten-ammo-b116/?page=69|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β115( 20/07/2011)
 https://digital-herodotus.eu/archive/video/items/2467/bemata-sten-ammo-b115/?page=69|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β114( 01/11/2011)
+https://digital-herodotus.eu/archive/video/items/2466/bemata-sten-ammo-b114/?page=71|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β113( 19/07/2011)
 https://digital-herodotus.eu/archive/video/items/2465/bemata-sten-ammo-b113/?page=69|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β110( 16/07/2011)
-https://digital-herodotus.eu/archive/video/items/2464/bemata-sten-ammo-b110/?page=69|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β112( 16/07/2011)
 https://digital-herodotus.eu/archive/video/items/2217/bemata-sten-ammo-b112/?page=69|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β111( 16/07/2011)
 https://digital-herodotus.eu/archive/video/items/2216/bemata-sten-ammo-b111/?page=69|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β107( 06/07/2011)
-https://digital-herodotus.eu/archive/video/items/2463/bemata-sten-ammo-b107/?page=68|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β110( 16/07/2011)
+https://digital-herodotus.eu/archive/video/items/2464/bemata-sten-ammo-b110/?page=69|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β109( 06/07/2011)
 https://digital-herodotus.eu/archive/video/items/2215/bemata-sten-ammo-b109/?page=68|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β108( 06/07/2011)
 https://digital-herodotus.eu/archive/video/items/2117/bemata-sten-ammo-b108/?page=68|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β107( 06/07/2011)
+https://digital-herodotus.eu/archive/video/items/2463/bemata-sten-ammo-b107/?page=68|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β106( 01/10/2011)
+https://digital-herodotus.eu/archive/video/items/2116/bemata-sten-ammo-b106/?page=70|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β105( 01/11/2011)
+https://digital-herodotus.eu/archive/video/items/2462/bemata-sten-ammo-b105/?page=71|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β104( 01/11/2011)
+https://digital-herodotus.eu/archive/video/items/2214/bemata-sten-ammo-b104/?page=71|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β103( 01/10/2011)
+https://digital-herodotus.eu/archive/video/items/2213/bemata-sten-ammo-b103/?page=70|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β102( 01/10/2011)
+https://digital-herodotus.eu/archive/video/items/2461/bemata-sten-ammo-b102/?page=70|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 2",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Β101( 01/10/2011)
+https://digital-herodotus.eu/archive/video/items/2460/bemata-sten-ammo-b101/?page=70|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α100( 23/05/2011)
 https://digital-herodotus.eu/archive/video/items/2459/bemata-sten-ammo-a100/?page=68|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α099( 18/05/2011)
@@ -518,26 +514,24 @@ https://digital-herodotus.eu/archive/video/items/2202/bemata-sten-ammo-a045/?pag
 https://digital-herodotus.eu/archive/video/items/2201/bemata-sten-ammo-a044/?page=62|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α043( 03/01/2011)
 https://digital-herodotus.eu/archive/video/items/2200/bemata-sten-ammo-a043/?page=62|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α042( 17/12/2010)
+https://digital-herodotus.eu/archive/video/items/2199/bemata-sten-ammo-a042/?page=61|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α041( 17/12/2010)
+https://digital-herodotus.eu/archive/video/items/2420/bemata-sten-ammo-a041/?page=61|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α040( 17/12/2010)
+https://digital-herodotus.eu/archive/video/items/2198/bemata-sten-ammo-a040/?page=61|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α039( 22/12/2010)
 https://digital-herodotus.eu/archive/video/items/2419/bemata-sten-ammo-a039/?page=62|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α038( 21/12/2010)
 https://digital-herodotus.eu/archive/video/items/2418/bemata-sten-ammo-a038/?page=62|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α037( 20/12/2010)
 https://digital-herodotus.eu/archive/video/items/2197/bemata-sten-ammo-a037/?page=62|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α041( 17/12/2010)
-https://digital-herodotus.eu/archive/video/items/2420/bemata-sten-ammo-a041/?page=61|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α042( 17/12/2010)
-https://digital-herodotus.eu/archive/video/items/2199/bemata-sten-ammo-a042/?page=61|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α040( 17/12/2010)
-https://digital-herodotus.eu/archive/video/items/2198/bemata-sten-ammo-a040/?page=61|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α036( 15/12/2010)
 https://digital-herodotus.eu/archive/video/items/2417/bemata-sten-ammo-a036/?page=61|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α035( 14/12/2010)
 https://digital-herodotus.eu/archive/video/items/2416/bemata-sten-ammo-a035/?page=61|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α034( 13/12/2010)
 https://digital-herodotus.eu/archive/video/items/2415/bemata-sten-ammo-a034/?page=61|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α019( 11/12/2010)
-https://digital-herodotus.eu/archive/video/items/1731/bemata-sten-ammo-a019/?page=61|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α033( 08/12/2010)
 https://digital-herodotus.eu/archive/video/items/2110/bemata-sten-ammo-a033/?page=61|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α032( 07/12/2010)
@@ -558,16 +552,22 @@ https://digital-herodotus.eu/archive/video/items/2194/bemata-sten-ammo-a026/?pag
 https://digital-herodotus.eu/archive/video/items/2193/bemata-sten-ammo-a025/?page=60|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α024( 08/11/2010)
 https://digital-herodotus.eu/archive/video/items/2411/bemata-sten-ammo-a024/?page=60|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α022( 08/11/2010)
-https://digital-herodotus.eu/archive/video/items/2410/bemata-sten-ammo-a022/?page=60|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α023( 08/11/2010)
 https://digital-herodotus.eu/archive/video/items/2108/bemata-sten-ammo-a023/?page=60|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α022( 08/11/2010)
+https://digital-herodotus.eu/archive/video/items/2410/bemata-sten-ammo-a022/?page=60|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α021( 01/11/2010)
 https://digital-herodotus.eu/archive/video/items/1733/bemata-sten-ammo-a021/?page=60|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α020( 01/11/2010)
 https://digital-herodotus.eu/archive/video/items/1732/bemata-sten-ammo-a020/?page=59|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α019( 11/12/2010)
+https://digital-herodotus.eu/archive/video/items/1731/bemata-sten-ammo-a019/?page=61|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α018( 11/12/2012)
+https://digital-herodotus.eu/archive/video/items/1730/bemata-sten-ammo-a018/?page=86|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α017( 27/10/2010)
 https://digital-herodotus.eu/archive/video/items/1729/bemata-sten-ammo-a017/?page=59|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α016( 11/12/2012)
+https://digital-herodotus.eu/archive/video/items/1728/bemata-sten-ammo-a016/?page=86|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α015( 27/10/2010)
 https://digital-herodotus.eu/archive/video/items/1727/bemata-sten-ammo-a015/?page=59|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α014( 20/10/2010)
@@ -576,20 +576,20 @@ https://digital-herodotus.eu/archive/video/items/1726/bemata-sten-ammo-a014/?pag
 https://digital-herodotus.eu/archive/video/items/1725/bemata-sten-ammo-a013/?page=59|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α012( 06/10/2010)
 https://digital-herodotus.eu/archive/video/items/1724/bemata-sten-ammo-a012/?page=59|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α010( 06/10/2010)
-https://digital-herodotus.eu/archive/video/items/1722/bemata-sten-ammo-a010/?page=59|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α007( 05/10/2010)
-https://digital-herodotus.eu/archive/video/items/1719/bemata-sten-ammo-a007/?page=59|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α011( 01/10/2010)
 https://digital-herodotus.eu/archive/video/items/1723/bemata-sten-ammo-a011/?page=58|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α006( 29/09/2010)
-https://digital-herodotus.eu/archive/video/items/1718/bemata-sten-ammo-a006/?page=58|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α005( 28/09/2010)
-https://digital-herodotus.eu/archive/video/items/1717/bemata-sten-ammo-a005/?page=58|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α010( 06/10/2010)
+https://digital-herodotus.eu/archive/video/items/1722/bemata-sten-ammo-a010/?page=59|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α009( 27/09/2010)
 https://digital-herodotus.eu/archive/video/items/1721/bemata-sten-ammo-a009/?page=58|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α008( 27/09/2010)
 https://digital-herodotus.eu/archive/video/items/1720/bemata-sten-ammo-a008/?page=58|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α007( 05/10/2010)
+https://digital-herodotus.eu/archive/video/items/1719/bemata-sten-ammo-a007/?page=59|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α006( 29/09/2010)
+https://digital-herodotus.eu/archive/video/items/1718/bemata-sten-ammo-a006/?page=58|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α005( 28/09/2010)
+https://digital-herodotus.eu/archive/video/items/1717/bemata-sten-ammo-a005/?page=58|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α004( 27/09/2010)
 https://digital-herodotus.eu/archive/video/items/1716/bemata-sten-ammo-a004/?page=58|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 1",ΒΗΜΑΤΑ ΣΤΗΝ ΑΜΜΟ - Α003( 22/09/2010)

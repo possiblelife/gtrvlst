@@ -1,9 +1,4 @@
-#EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ017( 21/07/2015)
-https://digital-herodotus.eu/archive/video/items/3820/paizoume-kupriaka-g017/?page=121|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ062( 03/06/2015)
-https://digital-herodotus.eu/archive/video/items/3866/paizoume-kupriaka-g062/?page=121|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ083( 26/07/2014)
-https://digital-herodotus.eu/archive/video/items/3907/paizoume-kupriaka-g083/?page=109|webvod zoom=100 scroll=0,0
+
 #EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ147( 03/06/2014)
 https://digital-herodotus.eu/archive/video/items/4132/paizoume-kupriaka-g147/?page=109|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ146( 02/06/2014)
@@ -132,6 +127,8 @@ https://digital-herodotus.eu/archive/video/items/3917/paizoume-kupriaka-g088/?pa
 https://digital-herodotus.eu/archive/video/items/3915/paizoume-kupriaka-g087/?page=104|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ084( 28/02/2014)
 https://digital-herodotus.eu/archive/video/items/3909/paizoume-kupriaka-g084/?page=104|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ083( 26/07/2014)
+https://digital-herodotus.eu/archive/video/items/3907/paizoume-kupriaka-g083/?page=109|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ082( 25/02/2014)
 https://digital-herodotus.eu/archive/video/items/3905/paizoume-kupriaka-g082/?page=104|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ081( 24/02/2014)
@@ -174,6 +171,8 @@ https://digital-herodotus.eu/archive/video/items/3868/paizoume-kupriaka-g064/?pa
 https://digital-herodotus.eu/archive/video/items/3864/paizoume-kupriaka-g060/?page=102|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ063( 23/01/2014)
 https://digital-herodotus.eu/archive/video/items/3867/paizoume-kupriaka-g063/?page=102|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ062( 03/06/2015)
+https://digital-herodotus.eu/archive/video/items/3866/paizoume-kupriaka-g062/?page=121|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ061( 23/01/2014)
 https://digital-herodotus.eu/archive/video/items/3865/paizoume-kupriaka-g061/?page=102|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ059( 23/01/2014)
@@ -232,48 +231,50 @@ https://digital-herodotus.eu/archive/video/items/3837/paizoume-kupriaka-g034/?pa
 https://digital-herodotus.eu/archive/video/items/3836/paizoume-kupriaka-g033/?page=100|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ032( 14/12/2013)
 https://digital-herodotus.eu/archive/video/items/3835/paizoume-kupriaka-g032/?page=100|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ031( 06/12/2013)
+https://digital-herodotus.eu/archive/video/items/3834/paizoume-kupriaka-g031/?page=100|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ030( 12/12/2013)
 https://digital-herodotus.eu/archive/video/items/3833/paizoume-kupriaka-g030/?page=100|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ029( 11/12/2013)
 https://digital-herodotus.eu/archive/video/items/3832/paizoume-kupriaka-g029/?page=100|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ028( 03/12/2013)
+https://digital-herodotus.eu/archive/video/items/3831/paizoume-kupriaka-g028/?page=99|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ027( 10/12/2013)
 https://digital-herodotus.eu/archive/video/items/3830/paizoume-kupriaka-g027/?page=100|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ031( 06/12/2013)
-https://digital-herodotus.eu/archive/video/items/3834/paizoume-kupriaka-g031/?page=100|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ026( 01/12/2013)
+https://digital-herodotus.eu/archive/video/items/3829/paizoume-kupriaka-g026/?page=99|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ025( 06/12/2013)
 https://digital-herodotus.eu/archive/video/items/3828/paizoume-kupriaka-g025/?page=99|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ024( 05/12/2013)
 https://digital-herodotus.eu/archive/video/items/3827/paizoume-kupriaka-g024/?page=99|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ023( 04/12/2013)
 https://digital-herodotus.eu/archive/video/items/3826/paizoume-kupriaka-g023/?page=99|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ028( 03/12/2013)
-https://digital-herodotus.eu/archive/video/items/3831/paizoume-kupriaka-g028/?page=99|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ022( 03/12/2013)
 https://digital-herodotus.eu/archive/video/items/3825/paizoume-kupriaka-g022/?page=99|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ021( 02/12/2013)
 https://digital-herodotus.eu/archive/video/items/3824/paizoume-kupriaka-g021/?page=99|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ026( 01/12/2013)
-https://digital-herodotus.eu/archive/video/items/3829/paizoume-kupriaka-g026/?page=99|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ020( 23/11/2013)
 https://digital-herodotus.eu/archive/video/items/3823/paizoume-kupriaka-g020/?page=99|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ018( 22/11/2013)
-https://digital-herodotus.eu/archive/video/items/3821/paizoume-kupriaka-g018/?page=99|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ016( 20/11/2013)
-https://digital-herodotus.eu/archive/video/items/3819/paizoume-kupriaka-g016/?page=99|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ019( 15/11/2013)
 https://digital-herodotus.eu/archive/video/items/3822/paizoume-kupriaka-g019/?page=98|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ018( 22/11/2013)
+https://digital-herodotus.eu/archive/video/items/3821/paizoume-kupriaka-g018/?page=99|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ017( 21/07/2015)
+https://digital-herodotus.eu/archive/video/items/3820/paizoume-kupriaka-g017/?page=121|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ016( 20/11/2013)
+https://digital-herodotus.eu/archive/video/items/3819/paizoume-kupriaka-g016/?page=99|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ015( 15/11/2013)
 https://digital-herodotus.eu/archive/video/items/3818/paizoume-kupriaka-g015/?page=98|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ014( 15/11/2013)
 https://digital-herodotus.eu/archive/video/items/3817/paizoume-kupriaka-g014/?page=98|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ013( 15/11/2013)
 https://digital-herodotus.eu/archive/video/items/3815/paizoume-kupriaka-g013/?page=98|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ010( 15/11/2013)
-https://digital-herodotus.eu/archive/video/items/3812/paizoume-kupriaka-g010/?page=98|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ012( 14/11/2013)
 https://digital-herodotus.eu/archive/video/items/3814/paizoume-kupriaka-g012/?page=98|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ011( 14/11/2013)
 https://digital-herodotus.eu/archive/video/items/3813/paizoume-kupriaka-g011/?page=98|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ010( 15/11/2013)
+https://digital-herodotus.eu/archive/video/items/3812/paizoume-kupriaka-g010/?page=98|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ009( 14/11/2013)
 https://digital-herodotus.eu/archive/video/items/3811/paizoume-kupriaka-g009/?page=98|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ008( 13/11/2013)
@@ -292,8 +293,6 @@ https://digital-herodotus.eu/archive/video/items/3807/paizoume-kupriaka-g003/?pa
 https://digital-herodotus.eu/archive/video/items/3773/paizoume-kupriaka-g002/?page=97|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 3",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Γ001( 04/11/2013)
 https://digital-herodotus.eu/archive/video/items/3772/paizoume-kupriaka-g001/?page=97|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="Season 2",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Β153( 27/09/2013)
-https://digital-herodotus.eu/archive/video/items/4138/paizoume-kupriaka-b153/?page=97|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Β191( 24/06/2013)
 https://digital-herodotus.eu/archive/video/items/4211/paizoume-kupriaka-b191/?page=96|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Β190( 21/06/2013)
@@ -372,6 +371,8 @@ https://digital-herodotus.eu/archive/video/items/4141/paizoume-kupriaka-b156/?pa
 https://digital-herodotus.eu/archive/video/items/4140/paizoume-kupriaka-b155/?page=94|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Β154( 25/04/2013)
 https://digital-herodotus.eu/archive/video/items/4139/paizoume-kupriaka-b154/?page=94|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Season 2",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Β153( 27/09/2013)
+https://digital-herodotus.eu/archive/video/items/4138/paizoume-kupriaka-b153/?page=97|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Β152( 23/04/2013)
 https://digital-herodotus.eu/archive/video/items/4137/paizoume-kupriaka-b152/?page=93|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Season 2",ΠΑΙΖΟΥΜΕ ΚΥΠΡΙΑΚΑ - Β151( 22/04/2013)
