@@ -1,9 +1,3 @@
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 38
-https://www.megatv.com/gtvshows/1713466/epeisodio-38-14/|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 39
-https://www.megatv.com/gtvshows/1713852/epeisodio-39-14/|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 40
-https://www.megatv.com/gtvshows/1715496/epeisodio-40-14/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 41
 https://www.megatv.com/gtvshows/1715528/epeisodio-41-14/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 42
@@ -50,3 +44,9 @@ https://www.megatv.com/gtvshows/1737596/epeisodio-61-8/|webfulldig
 https://www.megatv.com/gtvshows/1741482/epeisodio-62-9/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 63
 https://www.megatv.com/gtvshows/1741486/epeisodio-63-9/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 64
+https://www.megatv.com/gtvshows/1743738/epeisodio-64-9/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 65
+https://www.megatv.com/gtvshows/1744344/epeisodio-65-8/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 66
+https://www.megatv.com/gtvshows/1745364/epeisodio-66-9/|webfulldig

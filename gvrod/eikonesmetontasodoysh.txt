@@ -248,6 +248,10 @@ https://www.tvopen.gr/watch/96249/hpanagiatonparisiongnosthkaiosnotrntam|webfull
 https://www.tvopen.gr/watch/97318/kroyazierastonshkoyanamiaaxexasthempeiria|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Λεωφόρος Ηλύσιων Πεδίων – Ο δημοφιλέστερος δρόμος στο Παρίσι
 https://www.tvopen.gr/watch/97319/leoforoshlysionpedionodhmofilesterosdromosstoparisi|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Μονή Τίμιου Προδρόμου: Ένα υπέροχο μοναστήρι μέσα στους βράχους
+https://www.tvopen.gr/watch/98223/monhtimioyprodromoyenayperoxomonasthrimesastoysbraxoys|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Λούσιος ποταμός: Μια σπάνια ομορφιά
+https://www.tvopen.gr/watch/98224/loysiospotamosmiaspaniaomorfia|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ελάτη: Βόλτα με άλογα μέσα στη φύση
 https://www.tvopen.gr/watch/98333/elathboltamealogamesasthfysh|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Αγία Φωτεινή: Η πιο παράξενη εκκλησία
@@ -266,10 +270,6 @@ https://www.tvopen.gr/watch/101429/capetownepiskepshstonampelonaconstantia|webfu
 https://www.tvopen.gr/watch/103079/notiaafrikhsafaristoparkokroygker|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Νότια Αφρική: Ξενάγηση στο train on the Bridge
 https://www.tvopen.gr/watch/103080/notiaafrikhxenaghshstotrainonthebridge|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Μονή Τίμιου Προδρόμου: Ένα υπέροχο μοναστήρι μέσα στους βράχους
-https://www.tvopen.gr/watch/98223/monhtimioyprodromoyenayperoxomonasthrimesastoysbraxoys|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Λούσιος ποταμός: Μια σπάνια ομορφιά
-https://www.tvopen.gr/watch/98224/loysiospotamosmiaspaniaomorfia|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Τεχεράνη: Το Παλάτι των Λουλουδιών – Ένας θησαυρός από γυαλί, ασήμι και χρυσό
 https://www.tvopen.gr/watch/104062/texeranhtopalatitonloyloydionenasthhsayrosapogyaliashmikaixryso|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Αζαντί: Ο μαρμάρινος πύργος της Τεχεράνης
