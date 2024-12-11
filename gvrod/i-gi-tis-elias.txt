@@ -1378,3 +1378,7 @@ https://www.megatv.com/tvshows/1730574/epeisodio-59-a/|webfulldig
 https://www.megatv.com/tvshows/1730576/epeisodio-59-v-60-a/|webfulldig
 #EXTINF:-1 group-title="Δ΄ ΚΥΚΛΟΣ",Επεισόδιο 61
 https://www.megatv.com/tvshows/1730578/epeisodio-60-v-61/|webfulldig
+#EXTINF:-1 group-title="Δ΄ ΚΥΚΛΟΣ",Επεισόδιο 62
+https://www.megatv.com/tvshows/1744348/epeisodio-62-63-a/|webfulldig
+#EXTINF:-1 group-title="Δ΄ ΚΥΚΛΟΣ",Επεισόδιο 63
+https://www.megatv.com/tvshows/1744350/epeisodio-63-v-64/|webfulldig

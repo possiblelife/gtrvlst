@@ -254,8 +254,6 @@ https://www.tvopen.gr/watch/98223/monhtimioyprodromoyenayperoxomonasthrimesastoy
 https://www.tvopen.gr/watch/98224/loysiospotamosmiaspaniaomorfia|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ελάτη: Βόλτα με άλογα μέσα στη φύση
 https://www.tvopen.gr/watch/98333/elathboltamealogamesasthfysh|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Αγία Φωτεινή: Η πιο παράξενη εκκλησία
-https://www.tvopen.gr/watch/98334/agiafoteinhhpioparaxenhekklhsia|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ο Τάσος Δούσης μας ξεναγεί στο ιστορικό κέντρο του Κέιπ Τάουν
 https://www.tvopen.gr/watch/101106/otasosdoyshsmasxenageistoistorikokentrotoykeiptaoyn|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ένα από τα πιο όμορφα μέρη του Κέιπ Τάουν το Waterfront
@@ -276,6 +274,8 @@ https://www.tvopen.gr/watch/104062/texeranhtopalatitonloyloydionenasthhsayrosapo
 https://www.tvopen.gr/watch/104064/azantiomarmarinospyrgosthstexeranhs|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ο Τάσος Δούσης μας ξεναγεί στο πέτρινο φρούριο στο κέντρο του Σιράζ
 https://www.tvopen.gr/watch/105090/otasosdoyshsmasxenageistopetrinofroyriostokentrotoysiraz|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Αγία Φωτεινή: Η πιο παράξενη εκκλησία
+https://www.tvopen.gr/watch/98334/agiafoteinhhpioparaxenhekklhsia|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Σιράζ: Βόλτα στο Τέμενος των Κρυστάλλων
 https://www.tvopen.gr/watch/105091/sirazboltastotemenostonkrystallon|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ιράν: Περιήγηση στην Γιαζντ
@@ -870,6 +870,10 @@ https://www.tvopen.gr/watch/225552/yperoxaplanaapotonstathmosintzoykoystotokio|w
 https://www.tvopen.gr/watch/226088/akixamparahgeitoniagiatoyslatreistonhlektronikonpaixnidion|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Skytree: Ο ψηλότερος πύργος του κόσμου!
 https://www.tvopen.gr/watch/226089/skytreeopshloterospyrgostoykosmoy|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Οι Εικόνες επισκέπτονται τα ιαματικά λουτρά Σέτσενι
+https://www.tvopen.gr/watch/227138/oieikonesepiskeptontaitaiamatikaloytrasetseni|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Κοινοβούλιο: Το αρχιτεκτονικό θαύμα της Βουδαπέστης
+https://www.tvopen.gr/watch/227139/koinoboyliotoarxitektonikothaymathsboydapesths|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Καππαδοκία, Α' μέρος
 https://www.tvopen.gr/watch/2307/eikonesmetontasodoysh7ckappadokiaameros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση |  Καππαδοκία Β' Μέρος
@@ -1304,3 +1308,5 @@ https://www.tvopen.gr/watch/224835/eikonesmetontasodoysh7ctokioameros|webfulldig
 https://www.tvopen.gr/watch/225241/eikonesmetontasodoyshtokiobmeros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Τόκιο Γ μέρος
 https://www.tvopen.gr/watch/226066/eikonesmetontasodoyshtokiogmeros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Βουδαπέστη Α μέρος
+https://www.tvopen.gr/watch/226957/eikonesmetontasodoyshboydapesthameros|webfulldig

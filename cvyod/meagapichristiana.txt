@@ -292,3 +292,7 @@ https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/04122
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/051224|webvidfulldig
 #EXTINF:-1 group-title="2024-2025",Αρακάς κάρυ με αρνάκι
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/arakas-kary-me-arnaki|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",06/12/24
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/061224|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",10/12/24
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/101224|webvidfulldig
