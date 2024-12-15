@@ -31,7 +31,7 @@ https://embed.vindral.com/?core.channelId=alteregomedia_megatv1_ci_6cc490c7-e5c6
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="Mega" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" tvg-name="MEGA" tvg-website="https://www.megatv.com/" ,MEGA (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 https://www.lakatamia.tv/app/chans/gr/megaimage.php|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="SKAI" tvg-logo="https://i.ibb.co/2MdmBxK/skai.jpg" tvg-name="SKAI" tvg-website="https://www.skaitv.gr/" ,SKAI HD
-https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
+https://skai-live.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="SKAI" tvg-logo="https://i.ibb.co/2MdmBxK/skai.jpg" tvg-name="SKAI" tvg-website="https://www.skaitv.gr/" ,SKAI (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/gr/skaiimage.php|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="STAR" tvg-logo="https://i.ibb.co/7Gj7KTj/star.jpg" tvg-name="STAR" tvg-website="https://www.star.gr/tv" ,STAR HD
