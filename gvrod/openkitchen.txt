@@ -384,6 +384,8 @@ https://www.tvopen.gr/watch/226829/syntaghgiaglykopatatesmesaltsabbqfetaapothnti
 https://www.tvopen.gr/watch/226830/posnakallierghsoymeradikiapantzariakaispanakisthglastratoyspitioymas|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για κεϊκάκια με ροζ γκρέιπφρουτ από τη Ντίνα Νικολάου
 https://www.tvopen.gr/watch/226831/syntaghgiakeikakiamerozgkreipfroytapothntinanikolaoy|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Γιατί τα παρεξηγημένα κόλλυβα αποτελούν την απόλυτη υπερτροφή
+https://www.tvopen.gr/watch/227394/giatitaparexhghmenakollybaapoteloynthnapolythypertrofh|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",«OPEN Kitchen» 05/12/2024
 https://www.tvopen.gr/watch/226832/c2abopenkitchenc2bb052f122f2024|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για πολέντα με coppa από τη Ντίνα Νικολάου
@@ -404,8 +406,6 @@ https://www.tvopen.gr/watch/227257/syntaghgiatsakalothtyropitaapothntinanikolaoy
 https://www.tvopen.gr/watch/227258/c2abopenkitchenc2bb092f122f2024|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για ριζότο με καλαθάκι Λήμνου &amp; μανιτάρια από τη Ντίνα Νικολάου
 https://www.tvopen.gr/watch/227393/syntaghgiarizotomekalathakilhmnoymanitariaapothntinanikolaoy|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Γιατί τα παρεξηγημένα κόλλυβα αποτελούν την απόλυτη υπερτροφή
-https://www.tvopen.gr/watch/227394/giatitaparexhghmenakollybaapoteloynthnapolythypertrofh|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για μουστοκούλουρα με πετιμέζι από τη Ντίνα Νικολάου
 https://www.tvopen.gr/watch/227396/syntaghgiamoystokoyloyramepetimeziapothntinanikolaoy|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",«OPEN Kitchen» 10/12/2024
@@ -434,3 +434,19 @@ https://www.tvopen.gr/watch/227760/syntaghgiasmoothie|webfulldig
 https://www.tvopen.gr/watch/227761/syntaghgiapitsasikago|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",OPEN Kitchen 13/12/2024
 https://www.tvopen.gr/watch/227762/openkitchen132f122f2024|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για παραδοσιακούς κουραμπιέδες από τη Ντίνα Νικολάου
+https://www.tvopen.gr/watch/227994/syntaghgiaparadosiakoyskoyrampiedesapothntinanikolaoy|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Όλα όσα πρέπει να γνωρίζουμε για τη διαλειμματική νηστεία
+https://www.tvopen.gr/watch/227995/olaosaprepeinagnorizoymegiathdialeimmatikhnhsteia|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για πεννάκι λαχανικών με σάλτσα τυριού &amp; μπρεζάολα από τη Ντίνα Νικολάου
+https://www.tvopen.gr/watch/227996/syntaghgiapennakilaxanikonmesaltsatyrioymprezaolaapothntinanikolaoy|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",«OPEN Kitchen» 16/12/2024
+https://www.tvopen.gr/watch/227997/c2abopenkitchenc2bb162f122f2024|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για κριθαρότο με μπολονέζ κοτόπουλο από τη Ντίνα Νικολάου
+https://www.tvopen.gr/watch/228116/syntaghgiakritharotomempolonezkotopoyloapothntinanikolaoy|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για δροσερό ρόφημα με μαστίχα &amp; βότανα από τη Ντίνα Νικολάου
+https://www.tvopen.gr/watch/228118/syntaghgiadroserorofhmamemastixabotanaapothntinanikolaoy|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για αλμυρό κέικ βρώμης με σάλτσα φέτας από τη Ντίνα Νικολάου
+https://www.tvopen.gr/watch/228119/syntaghgiaalmyrokeikbromhsmesaltsafetasapothntinanikolaoy|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",«OPEN Kitchen» 17/12/2024
+https://www.tvopen.gr/watch/228120/c2abopenkitchenc2bb172f122f2024|webfulldig

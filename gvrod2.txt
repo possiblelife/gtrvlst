@@ -1344,8 +1344,6 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/201510
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/prosopa_informative.txt
 #EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180105_ExisMeson.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=963&-V=tvshows" ,ΕΧΕΙΣ ΜΕΣΟΝ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/20180105_ExisMeson.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/poreia-istoria-1000x650.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=200426&-V=tvshows" ,ΚΑΘΕ ΠΟΡΕΙΑ...ΜΙΑ ΙΣΤΟΡΙΑ
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/poreia-istoria-1000x650.txt
 #EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/famestoryport-1-.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=197318&-V=tvshows" ,FAME STORY
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/famestoryport-1-.txt
 #EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/elanadeis-1-.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=149616&-V=tvshows" ,ΕΛΑ ΝΑ ΔΕΙΣ

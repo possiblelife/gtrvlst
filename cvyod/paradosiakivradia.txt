@@ -20,3 +20,5 @@ https://www.alphacyprus.com.cy/shows/entertainment/paradosiakivradia/webtv/23112
 https://www.alphacyprus.com.cy/shows/entertainment/paradosiakivradia/webtv/301124|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",07/12/24
 https://www.alphacyprus.com.cy/shows/entertainment/paradosiakivradia/webtv/071224|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",14/12/24
+https://www.alphacyprus.com.cy/shows/entertainment/paradosiakivradia/webtv/141224|webvidfulldig
