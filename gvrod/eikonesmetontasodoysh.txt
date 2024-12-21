@@ -874,8 +874,6 @@ https://www.tvopen.gr/watch/226089/skytreeopshloterospyrgostoykosmoy|webfulldig
 https://www.tvopen.gr/watch/227138/oieikonesepiskeptontaitaiamatikaloytrasetseni|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Κοινοβούλιο: Το αρχιτεκτονικό θαύμα της Βουδαπέστης
 https://www.tvopen.gr/watch/227139/koinoboyliotoarxitektonikothaymathsboydapesths|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Βουδαπέστη Β μέρος
-https://www.tvopen.gr/watch/227706/eikonesmetontasodoyshboydapesthbmeros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Βουδαπέστη: Προμαχώνας των Ψαράδων
 https://www.tvopen.gr/watch/227764/boydapesthpromaxonastonpsaradon|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Βουδαπέστη: Κρουαζιέρα στον Δούναβη
@@ -1316,3 +1314,5 @@ https://www.tvopen.gr/watch/225241/eikonesmetontasodoyshtokiobmeros|webfulldig
 https://www.tvopen.gr/watch/226066/eikonesmetontasodoyshtokiogmeros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Βουδαπέστη Α μέρος
 https://www.tvopen.gr/watch/226957/eikonesmetontasodoyshboydapesthameros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Βουδαπέστη Β μέρος
+https://www.tvopen.gr/watch/227706/eikonesmetontasodoyshboydapesthbmeros|webfulldig

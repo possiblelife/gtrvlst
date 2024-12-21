@@ -1,9 +1,3 @@
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 50
-https://www.megatv.com/gtvshows/1724012/epeisodio-50-13/|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 51
-https://www.megatv.com/gtvshows/1726808/epeisodio-51-13/|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 52
-https://www.megatv.com/gtvshows/1726812/epeisodio-52-12/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 53
 https://www.megatv.com/gtvshows/1729504/epeisodio-53-12/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 54
@@ -50,3 +44,9 @@ https://www.megatv.com/gtvshows/1753764/epeisodio-73-8/|webfulldig
 https://www.megatv.com/gtvshows/1755982/epeisodio-74-8/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 75
 https://www.megatv.com/gtvshows/1756934/epeisodio-75-9/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 76
+https://www.megatv.com/gtvshows/1758090/epeisodio-76-9/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 77
+https://www.megatv.com/gtvshows/1759224/epeisodio-77-9/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 78
+https://www.megatv.com/gtvshows/1760450/epeisodio-78-9/|webfulldig

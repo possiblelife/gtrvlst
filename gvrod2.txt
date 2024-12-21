@@ -160,8 +160,6 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/The-Vo
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/my-style-rocks.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/mom_cooks_better/2024_2025/logos/mama_land.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/i-mama-moy-mageireyei-kalytera-apo-ti-diki-soy/sezon-2024-2025" ,Η Μαμά μου Μαγειρεύει Καλύτερα από τη Δική σου (2024-2025)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/i-mama-moy.txt
-#EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/survivor/logos/lianos_land.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/survivor/sezon-2024-2025" ,Survivor (2024-2025)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/survivor.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/still_standing/logos/ss_land.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/still-standing/sezon-2024-2025" ,Still Standing (2023-2024)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/still-standing.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/oragiafagito2.jpg"  tvg-website="https://www.skai.gr/tv/show/psuchagogia/ora-gia-fagito/sezon-2020-2021" ,Ώρα Για Φαγητό με την Αργυρώ(2020-2022)
