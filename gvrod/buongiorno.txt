@@ -136,3 +136,7 @@ https://www.megatv.com/gtvshows/1757668/buongiorno-18-12-24/|webfulldig
 https://www.megatv.com/gtvshows/1758898/buongiorno-19-12-24/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Buongiorno (20/12/24)
 https://www.megatv.com/gtvshows/1759848/buongiorno-20-12-24/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Buongiorno (23/12/24)
+https://www.megatv.com/gtvshows/1762748/buongiorno-23-12-24/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Buongiorno (24/12/24)
+https://www.megatv.com/gtvshows/1763712/buongiorno-24-12-24/|webfulldig

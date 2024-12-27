@@ -484,5 +484,7 @@ https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2024-11-24-16|webvidf
 https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2024-12-01-16|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 10",Κράμπι της Ταϊλάνδης
 https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2024-12-08-17|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 10",Happy Traveller | Ζυρίχη, Λιχτενστάιν
+#EXTINF:-1 group-title="Σεζόν 10",Ζυρίχη, Λιχτενστάιν
 https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2024-12-15-16|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 10",Βαυαρία, Μόναχο
+https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2024-12-22-17|webvidfulldig

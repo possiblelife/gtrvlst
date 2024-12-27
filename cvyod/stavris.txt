@@ -386,3 +386,5 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=208684&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=208907&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 016 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
 https://www.omegatv.com.cy/cgibin/hweb?-A=209069&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 017 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
+https://www.omegatv.com.cy/cgibin/hweb?-A=209375&-V=vod|webfulldig
