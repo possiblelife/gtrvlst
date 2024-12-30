@@ -479,6 +479,14 @@ https://til.pp.ua:3303/live/messiniatvlive.m3u8
 https://5c389faa13be3.streamlock.net:9553/rythmos/rythmos/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://i.ibb.co/b5f4PRV/hotbeats.png" ,Hot Beats TV HD
 https://m.twitch.tv/hotbeatstv?desktop-redirect=true|webdig
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://i.imgur.com/qiCCX5X.png",Now 70s
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://i.imgur.com/YyPnMeB.png" ,Now 80s
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://en.wikipedia.org/wiki/Now_Rock#/media/File:NOW_Rock_logo.png" ,Now Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/PXGqyLn.png" ,V2BEAT TV
+https://abr.de1se01.v2beat.live/playlist.m3u8
 
 
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,=====   ΠΑΙΔΙΚΑ   ====
@@ -509,6 +517,8 @@ https://www.twitch.tv/zztoonz40|webdig
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://i.ibb.co/bz6DRxc/unnamed.jpg" ,Retro Cartoons 2
 https://www.twitch.tv/pubtoons|webdig
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/vZHtxQb.png" ,Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="http://tv.10dailythings.com/images/channels/GR/wb-kids/normal.png" ,WB KIDS (Youtube)
 https://www.youtube.com/@WBKidsInternational/videos|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://yt3.ggpht.com/hVpFyMI1aY-zEylSJo6WPD8-HoJfQZp14ZYp_HWNmG1azEakU5B1Qpsrh1OSXq5bYLKMJ_Jl=s48-c-k-c0x00ffffff-no-rj" tvg-website="https://www.zouzounia.tv/" ,Ζουζούνια live (Youtube)
