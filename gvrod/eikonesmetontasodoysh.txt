@@ -266,6 +266,8 @@ https://www.tvopen.gr/watch/101434/capetownboltastoakrothriothskalhselpidasmeton
 https://www.tvopen.gr/watch/101430/capetownfokieskanoynboltastolimani|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Cape Town: Επίσκεψη στον αμπελώνα Constantia
 https://www.tvopen.gr/watch/101429/capetownepiskepshstonampelonaconstantia|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Νότια Αφρική: Σαφάρι στο πάρκο Κρούγκερ
+https://www.tvopen.gr/watch/103079/notiaafrikhsafaristoparkokroygker|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Νότια Αφρική: Ξενάγηση στο train on the Bridge
 https://www.tvopen.gr/watch/103080/notiaafrikhxenaghshstotrainonthebridge|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Τεχεράνη: Το Παλάτι των Λουλουδιών – Ένας θησαυρός από γυαλί, ασήμι και χρυσό
@@ -286,8 +288,6 @@ https://www.tvopen.gr/watch/105797/iranontopiosthsgiazntsiabasmilaeistontasodoys
 https://www.tvopen.gr/watch/106984/boltasthnkentrikhplateiatoyisfaxan|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ξενάγηση στο παλάτι με τις 40 κολώνες στο Ισφαχάν
 https://www.tvopen.gr/watch/106985/xenaghshstopalatimetis40kolonesstoisfaxan|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Νότια Αφρική: Σαφάρι στο πάρκο Κρούγκερ
-https://www.tvopen.gr/watch/103079/notiaafrikhsafaristoparkokroygker|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Νησάκι Ιωαννίνων: Το μοναδικό νησί στην Ελλάδα χωρίς όνομα
 https://www.tvopen.gr/watch/111622/nhsakiioanninontomonadikonhsisthnelladaxorisonoma|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Κλωστάρι: Ένας μπακλαβάς εντελώς διαφορετικός
@@ -882,6 +882,14 @@ https://www.tvopen.gr/watch/227763/boydapesthkroyazierastondoynabh|webfulldig
 https://www.tvopen.gr/watch/228646/timessquarehpiodiashmhplateiatoykosmoy|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Σέντραλ Πάρκ: Εκεί όπου χαλαρώνουν οι Νεοϋορκέζοι
 https://www.tvopen.gr/watch/228647/sentralparkekeiopoyxalaronoynoineoyorkezoi|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Ντάικερ Χάιτς: Η πιο χριστουγεννιάτικη γειτονιά
+https://www.tvopen.gr/watch/229109/ntaikerxaitshpioxristoygenniatikhgeitonia|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Η εντυπωσιακή παρέλαση στη Νέα Υόρκη για την Ημέρα των Ευχαριστιών
+https://www.tvopen.gr/watch/229110/hentyposiakhparelashsthneayorkhgiathnhmeratoneyxaristion|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Βόλτα στη γέφυρα του Μπρούκλιν
+https://www.tvopen.gr/watch/229169/boltasthgefyratoymproyklin|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Κρουαζιέρα στο Άγαλμα της Ελευθερίας
+https://www.tvopen.gr/watch/229170/kroyazierastoagalmathseleytherias|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Καππαδοκία, Α' μέρος
 https://www.tvopen.gr/watch/2307/eikonesmetontasodoysh7ckappadokiaameros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση |  Καππαδοκία Β' Μέρος
@@ -1322,3 +1330,7 @@ https://www.tvopen.gr/watch/226957/eikonesmetontasodoyshboydapesthameros|webfull
 https://www.tvopen.gr/watch/227706/eikonesmetontasodoyshboydapesthbmeros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Νέα Υόρκη Α μέρος
 https://www.tvopen.gr/watch/228246/eikonesmetontasodoyshneayorkhameros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση – Νέα Υόρκη Β Μέρος
+https://www.tvopen.gr/watch/228512/eikonesmetontasodoyshneayorkhbmeros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση – Νέα Υόρκη Γ Μέρος
+https://www.tvopen.gr/watch/228513/eikonesmetontasodoyshneayorkhgmeros|webfulldig

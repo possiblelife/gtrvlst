@@ -20,3 +20,5 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=208910&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=209070&-V=vod|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 011 THE SOCIAL EXPERIMENT
 https://www.omegatv.com.cy/cgibin/hweb?-A=209376&-V=vod|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 012 THE SOCIAL EXPERIMENT
+https://www.omegatv.com.cy/cgibin/hweb?-A=209670&-V=vod|webfulldig
