@@ -102,10 +102,16 @@ https://www.megatv.com/tvshows/95856/epeisodio-050/|webfulldig
 https://www.megatv.com/tvshows/95857/epeisodio-051/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 52
 https://www.megatv.com/tvshows/95858/epeisodio-052/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 53
+https://www.megatv.com/tvshows/95859/epeisodio-053/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 54
 https://www.megatv.com/tvshows/95860/epeisodio-054/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 55
 https://www.megatv.com/tvshows/95861/epeisodio-055/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 56
+https://www.megatv.com/tvshows/95862/epeisodio-056/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 57
+https://www.megatv.com/tvshows/95863/epeisodio-057/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 58
 https://www.megatv.com/tvshows/95864/epeisodio-058/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 59
@@ -120,6 +126,10 @@ https://www.megatv.com/tvshows/95868/epeisodio-062/|webfulldig
 https://www.megatv.com/tvshows/95869/epeisodio-063/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 64
 https://www.megatv.com/tvshows/95870/epeisodio-064/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 65
+https://www.megatv.com/tvshows/95871/epeisodio-065/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 66
+https://www.megatv.com/tvshows/95872/epeisodio-066/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 67
 https://www.megatv.com/tvshows/95873/epeisodio-067/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 68
@@ -128,6 +138,8 @@ https://www.megatv.com/tvshows/95874/epeisodio-068/|webfulldig
 https://www.megatv.com/tvshows/95875/epeisodio-069/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 70
 https://www.megatv.com/tvshows/95876/epeisodio-070/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 71
+https://www.megatv.com/tvshows/95877/epeisodio-071/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 72
 https://www.megatv.com/tvshows/95878/epeisodio-072/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 73

@@ -190,8 +190,8 @@ http://.....
 
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.megatv.com/allshows/#GreekSeries|webvod zoom=100 scroll=0,0
-//#EXTINF:-1 group-title="MEGA" tvg-logo="https://www.megatv.com/wp-content/uploads/2023/07/POSTER_FAMAGUSTA.jpg" tvg-website="https://www.megatv.com/ekpompes/1135061/famagusta/" ,Famagusta
-//SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/famagusta.txt
+#EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2023/07/POSTER_FAMAGUSTA.jpg" tvg-website="https://www.megatv.com/ekpompes/1135061/famagusta/" ,Famagusta (2023-2025)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/famagusta.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2024/07/POSTER_ΠΑΙΔΙΑ-copy.jpg" tvg-website="https://www.megatv.com/ekpompes/1619195/exo-paidia/" ,Έχω Παιδιά (2024-2025)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/exo-paidia.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2023/09/POSTER_-copy.jpg" tvg-website="https://www.megatv.com/ekpompes/464758/i-gi-tis-elias/" ,Η Γη της Ελιάς (2021-2025)
@@ -236,6 +236,8 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ethnik
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/eimaste-ston-aera.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2013/04/ΕΙΣΑΙ-ΤΟ-ΤΑΙΡΙ-ΜΟΥ-1.jpg" tvg-website="https://www.megatv.com/ekpompes/43098/eisai-to-tairi-mou-2/" ,Είσαι το Ταίρι μου
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/eisai-to-tairi-mou-2.txt
+#EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2022/07/ΕΚΜΕΚ-ΠΑΓΩΤΟ-min.jpg" tvg-website="https://www.megatv.com/ekpompes/43404/ekmek-pagto/" ,Εκμέκ Παγωτό
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ekmek-pagto.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/09/ΕΜΕΙΣ-ΚΑΙ-ΕΜΕΙΣ.jpg" tvg-website="https://www.megatv.com/ekpompes/42594/emeis-kai-emeis-2/" ,Εμείς και Εμείς
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/emeis-kai-emeis-2.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2008/07/POSTER_ΕΝΑΣ-ΜΗΝΑΣ-ΚΑΙ-ΚΑΤΙ.jpg" tvg-website="https://www.megatv.com/ekpompes/42610/enas-minas-kai-kati-2/" ,Ένας Μήνας και Κάτι
@@ -276,8 +278,16 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/kati-t
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/kato-partali.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2009/10/3.png" tvg-website="https://www.megatv.com/ekpompes/42825/mega-sex-kleise-ta-matia-2/" ,Κλείσε τα Μάτια
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega-sex-kleise-ta-matia-2.txt
+#EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2008/08/ΛΑΤΡΕΜΕΝΟΙ-ΜΟΥ-ΓΕΙΤΟΝΕΣ-6.jpg" tvg-website="https://www.megatv.com/ekpompes/42963/latremenoi-mou-geitones/" ,Λατρεμένοι μου Γείτονες
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/latremenoi-mou-geitones.txt
+#EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2008/09/LAPD-1.jpg" tvg-website="https://www.megatv.com/ekpompes/42749/l-a-p-d/" ,L.A.P.D.
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/l-a-p-d.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2009/09/ΛΕΝΗ.jpg" tvg-website="https://www.megatv.com/ekpompes/43318/leni/" ,Λένη
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/leni.txt
+#EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/09/ΜΑΡΙΑ-Η-ΑΣΧΗΜΗ-min.jpg" tvg-website="https://www.megatv.com/ekpompes/43200/maria-i-asximi/" ,Μαρία η Άσχημη
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/maria-i-asximi.txt
+#EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2009/10/ΜΙΛΑ-ΜΟΥ-ΒΡΩΜΙΚΑ-min.jpg" tvg-website="https://www.megatv.com/ekpompes/43322/mila-mou-vrmika/" ,Μίλα μου Βρώμικα
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mila-mou-vrmika.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/09/ΜΑΥΡΑ-ΜΕΣΑΝΥΧΤΑ-2.jpg" tvg-website="https://www.megatv.com/ekpompes/43238/maura-mesanuxta/" ,Μαύρα Μεσάνυχτα
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/maura-mesanuxta.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2008/07/ΜΕ-ΔΥΟ-ΜΑΜΑΔΕΣ.jpg" tvg-website="https://www.megatv.com/ekpompes/42628/me-duo-mamades-2/" ,Με Δύο Μαμάδες
@@ -306,12 +316,16 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/oi-and
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/oi-atairiastoi.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2024/06/POSTER_ΤΡΕΙΣ-ΧΑΡΙΤΕΣ-2.jpg" tvg-website="https://www.megatv.com/ekpompes/1575476/treis-xarites/" ,Οι Τρεις Χάριτες
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/treis-xarites.txt
+#EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2021/08/ΟΙ-ΑΠΑΡΑΔΕΚΤΟΙ.jpg" tvg-website="https://www.megatv.com/ekpompes/43303/aparadektoi/" ,Οι Απαράδεκτοι
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/aparadektoi.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2016/09/ΟΤΑΝ-Ο-ΧΑΡΗΣ-ΧΩΡΙΣΕ-ΤΗΝ-ΜΑΙΡΗ.jpg" tvg-website="https://www.megatv.com/ekpompes/43400/otan-o-xaris-xrise-ti-mairi/" ,Οταν ο Χάρης Χώρισε τη Μαίρη
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/otan-o-xaris-xrise-ti-mairi.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/09/ΠΑΡΑΛΛΗΛΟΙ-ΔΡΟΜΟΙ-1.jpg" tvg-website="https://www.megatv.com/ekpompes/43360/paralliloi-dromoi/" ,Παράλληλοι Δρόμοι
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/paralliloi-dromoi.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/09/50-50-1.jpg" tvg-website="https://www.megatv.com/ekpompes/43207/peninta-peninta/" ,Πενήντα Πενήντα
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/peninta-peninta.txt
+#EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/09/ΠΕΡΙ-ΑΝΕΜΩΝ-ΚΑΙ-ΥΔΑΤΩΝ-1.jpg" tvg-website="https://www.megatv.com/ekpompes/43241/peri-anemn-kai-udatn/" ,Περί Ανέμων και Υδάτων
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/peri-anemn-kai-udatn.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2013/04/ΠΙΣΩ-ΣΤΟ-ΣΠΙΤΙ.jpg" tvg-website="https://www.megatv.com/ekpompes/43364/pis-sto-spiti/" ,Πίσω στο Σπίτι
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/pis-sto-spiti.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2008/07/2.png" tvg-website="https://www.megatv.com/ekpompes/43217/poluthrona-gia-treis/" ,Πολυθρόνα για Τρείς
@@ -328,6 +342,8 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/sto-pa
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/tzivaeri.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2008/07/ΤΗΛΕΜΠΟΡΑ.jpg" tvg-website="https://www.megatv.com/ekpompes/42624/tilempora-2/" ,Τηλεμπόρα
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/tilempora-2.txt
+#EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2009/08/ΤΟ-ΔΙΣ-ΕΞΑΜΑΡΤΕΙΝ_2-2.jpg" tvg-website="https://www.megatv.com/ekpompes/43308/dis-eksamartein/" ,Το Δις Εξαμαρτείν
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/dis-eksamartein.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/09/ΤΟ-ΚΟΚΚΙΝΟ-ΔΩΜΑΤΙΟ-2.jpg" tvg-website="https://www.megatv.com/ekpompes/43226/to-kokkino-dmatio/" ,Το Κόκκινο Δωμάτιο
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/to-kokkino-dmatio.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/09/ΤΟ-ΡΕΤΙΡΕ-1.jpg" tvg-website="https://www.megatv.com/ekpompes/43210/retire/" ,Το Ρετιρέ
@@ -342,11 +358,19 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/fugame
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ithuroi-kardias-kokkino-san-ti-fti.txt
 
 
+
+
+
+
+
+
 #EXTINF:-1 group-title="MEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== MEGA ====
 http://.....
 
 #EXTINF:-1 group-title="MEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" ,ΟΛΕΣ ΟΙ ΕΚΠΟΜΠΕΣ
 https://www.megatv.com/showtype/entertainment/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="MEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2024/10/websiteposter-15.png" tvg-website="https://www.megatv.com/ekpompes/1708248/al-tsantiri-niouz/" ,Αλ Τσαντίρι Νιουζ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/al-tsantiri-niouz.txt
 #EXTINF:-1 group-title="MEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2024/08/POSTER_SKORDA.jpg" tvg-website="https://www.megatv.com/ekpompes/1626779/buongiorno/" ,Buongiorno
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/buongiorno.txt
 #EXTINF:-1 group-title="MEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2022/09/ellinikestainiesposter-1.png" tvg-website="https://www.megatv.com/ekpompes/506423/the-chase/" ,The Chase
