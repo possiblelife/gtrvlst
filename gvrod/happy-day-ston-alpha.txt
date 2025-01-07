@@ -3755,3 +3755,11 @@ https://www.alphatv.gr/show/happy-day-ston-alpha/?vtype=player&vid=61435&showId=
 https://www.alphatv.gr/show/happy-day-ston-alpha/?vtype=player&vid=61466&showId=648&year=2024|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 9",31/12/24
 https://www.alphatv.gr/show/happy-day-ston-alpha/?vtype=player&vid=61476&showId=648&year=2024|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",02/01/25
+https://www.alphatv.gr/show/happy-day-ston-alpha/?vtype=player&vid=61482&showId=648&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",03/01/25
+https://www.alphatv.gr/show/happy-day-ston-alpha/?vtype=player&vid=61484&showId=648&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",06/01/25
+https://www.alphatv.gr/show/happy-day-ston-alpha/?vtype=player&vid=61486&showId=648&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",07/01/25
+https://www.alphatv.gr/show/happy-day-ston-alpha/?vtype=player&vid=61488&showId=648&year=2025|webvidfulldig

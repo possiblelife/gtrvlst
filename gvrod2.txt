@@ -100,6 +100,10 @@ http://.....
 
 #EXTINF:-1 group-title="ALPHA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΟΛΕΣ ΟΙ ΕΚΠΟΜΠΕΣ
 https://www.alphatv.gr/ekpompes/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2024-2025/SHOWS/MONEY_DROP/THUMB/THUMBNAILS_MONEY_1.jpg" tvg-website="https://www.alphatv.gr/show/money-drop/" ,MONEY DROP (2024-2025)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/money-drop.txt
+#EXTINF:-1 group-title="ALPHA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2024-2025/SHOWS/MOUTSINAS/THUMB/THUMB_MOUTSINAS_1.png" tvg-website="https://www.alphatv.gr/show/nikos-moutsinas-vradiatika/" ,ΝΙΚΟΣ ΜΟΥΤΣΙΝΑΣ ΒΡΑΔΙΑΤΙΚΑ (2024-2025)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/nikos-moutsinas-vradiatika.txt
 #EXTINF:-1 group-title="ALPHA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2024-2025/SHOWS/DEAL/PROMO/SMALL_DEAL_1.png" tvg-website="https://www.alphatv.gr/show/deal/" ,DEAL (2024-2025)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/deal.txt
 #EXTINF:-1 group-title="ALPHA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2024-2025/SHOWS/HAPPY/PROMO/SMALL_HAPPY_2.png" tvg-website="https://www.alphatv.gr/show/happy-day-ston-alpha/" ,HAPPY DAY ΣΤΟΝ ALPHA (2016-2025)
@@ -186,6 +190,8 @@ http://.....
 
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.megatv.com/allshows/#GreekSeries|webvod zoom=100 scroll=0,0
+//#EXTINF:-1 group-title="MEGA" tvg-logo="https://www.megatv.com/wp-content/uploads/2023/07/POSTER_FAMAGUSTA.jpg" tvg-website="https://www.megatv.com/ekpompes/1135061/famagusta/" ,Famagusta
+//SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/famagusta.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2024/07/POSTER_ΠΑΙΔΙΑ-copy.jpg" tvg-website="https://www.megatv.com/ekpompes/1619195/exo-paidia/" ,Έχω Παιδιά (2024-2025)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/exo-paidia.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2023/09/POSTER_-copy.jpg" tvg-website="https://www.megatv.com/ekpompes/464758/i-gi-tis-elias/" ,Η Γη της Ελιάς (2021-2025)
@@ -1125,14 +1131,14 @@ http://.....
 
 #EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,ΟΛΕΣ ΟΙ ΕΚΠΟΜΠΕΣ
 https://www.sigmatv.com/shows/category/8|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Irthe_k_Edese_504x304.jpg" tvg-website="https://www.sigmatv.com/shows/irthe-ki-edese" ,Ήρθε κι έδεσε
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/irthe-ki-edese.txt
 #EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/protoselido_540x304.jpg" tvg-website="https://www.sigmatv.com/shows/prwtoselido" ,Πρωτοσέλιδο
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/prwtoselido.txt
 #EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/mesimeri_540x304.jpg" tvg-website="https://www.sigmatv.com/shows/meshmeri-kai-kati" ,Μεσημέρι και Κάτι
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/meshmeri-kai-kati.txt
 #EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-XORIS-PERISTROFES.jpg" tvg-website="https://www.sigmatv.com/shows/xwrisperistrofes" ,Χωρίς Περιστροφές
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/xwrisperistrofes.txt
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Irthe_k_Edese_504x304.jpg" tvg-website="https://www.sigmatv.com/shows/irthe-ki-edese" ,Ήρθε κι έδεσε
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/irthe-ki-edese.txt
 #EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/EA_logo_540x304.jpg" tvg-website="https://www.sigmatv.com/shows/CyprusEatingAwards" ,Cyprus Eating Awards
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/CyprusEatingAwards.txt
 #EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Madame-figaro-awards.jpg" tvg-website="https://www.sigmatv.com/shows/madame-figaro-awards" ,Βραβεία Madame Figaro Γυναίκες της Χρονιάς

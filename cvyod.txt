@@ -360,14 +360,14 @@ http://.....
 
 #EXTINF:-1 group-title="SIGMA ΕΚΠΟΜΠΕΣ" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,ΟΛΕΣ ΟΙ ΕΚΠΟΜΠΕΣ
 https://www.sigmatv.com/shows/category/8|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SIGMA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Irthe_k_Edese_504x304.jpg" tvg-website="https://www.sigmatv.com/shows/irthe-ki-edese" ,Ήρθε κι έδεσε
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/irthe-ki-edese.txt
 #EXTINF:-1 group-title="SIGMA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/protoselido_540x304.jpg" tvg-website="https://www.sigmatv.com/shows/prwtoselido" ,Πρωτοσέλιδο
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/prwtoselido.txt
 #EXTINF:-1 group-title="SIGMA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/mesimeri_540x304.jpg" tvg-website="https://www.sigmatv.com/shows/meshmeri-kai-kati" ,Μεσημέρι και Κάτι
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/meshmeri-kai-kati.txt
 #EXTINF:-1 group-title="SIGMA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-XORIS-PERISTROFES.jpg" tvg-website="https://www.sigmatv.com/shows/xwrisperistrofes" ,Χωρίς Περιστροφές
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/xwrisperistrofes.txt
-#EXTINF:-1 group-title="SIGMA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Irthe_k_Edese_504x304.jpg" tvg-website="https://www.sigmatv.com/shows/irthe-ki-edese" ,Ήρθε κι έδεσε
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/irthe-ki-edese.txt
 #EXTINF:-1 group-title="SIGMA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/EA_logo_540x304.jpg" tvg-website="https://www.sigmatv.com/shows/CyprusEatingAwards" ,Cyprus Eating Awards
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/CyprusEatingAwards.txt
 #EXTINF:-1 group-title="SIGMA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Madame-figaro-awards.jpg" tvg-website="https://www.sigmatv.com/shows/madame-figaro-awards" ,Βραβεία Madame Figaro Γυναίκες της Χρονιάς
