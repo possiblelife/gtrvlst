@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="grtv" generator-info-url="">
+  <channel id="extacy">
+    <display-name lang="el">extacy</display-name>
+  </channel>
   <channel id="ert1">
     <display-name lang="el">ΕΡΤ1</display-name>
   </channel>
@@ -32076,4 +32079,245 @@ From the economy to the climate and the EU's role in world affairs, this talk sh
   <programme start="20250112014500 +0200" stop="20250112063000 +0200" channel="ANT1 EUROPE">
     <title lang="el">WEEKENDERS </title>
   </programme>
+  <programme start="20250109070000 +0200" stop="20250109090000 +0200" channel="extacy">
+    <title lang="el">Παιδικό πρόγραμμα</title>
+   <desc lang="el">Το καλύτερο παιδικό πρόγραμμα για τους μικρούς μας φίλους.</desc>
+  </programme>
+  <programme start="20250109090000 +0200" stop="20250109120000 +0200" channel="extacy">
+    <title lang="el">Ελληνικές ταινίες</title>
+   <desc lang="el">Μια σειρά από κλασικές ελληνικές ταινίες που θα σας ταξιδέψουν στο παρελθόν.</desc>
+  </programme>
+  <programme start="20250109120000 +0200" stop="20250109150000 +0200" channel="extacy">
+    <title lang="el">Ξένες ταινίες</title>
+   <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
+  </programme>
+  <programme start="20250109150000 +0200" stop="20250109160000 +0200" channel="extacy">
+    <title lang="el">Η Λάμψη</title>
+   <desc lang="el">Η Λάμψη είναι μια δραματική σειρά που επικεντρώνεται στις ίντριγκες, τα μυστικά και τις συγκρούσεις της ισχυρής οικογένειας Δράκου.</desc>
+  </programme>
+  <programme start="20250109160000 +0200" stop="20250109170000 +0200" channel="extacy">
+    <title lang="el">Λαβ Σόρρυ</title>
+   <desc lang="el">Ο Σάκης, ο μάγκας υδραυλικός, και η Λίλη, η μορφωμένη γιατρός, μας δείχνουν πως όταν μιλάει η καρδιά, οι διαφορές δεν έχουν καμία σημασία! Μια ιστορία γεμάτη χιούμορ, παρεξηγήσεις και… πολύ αγάπη.</desc>
+  </programme>
+  <programme start="20250109170000 +0200" stop="20250109180000 +0200" channel="extacy">
+    <title lang="el">Ο ιππότης της ασφάλτου</title>
+   <desc lang="el">Ο ήρωας της πόλης μάχεται κατά του εγκλήματος και της αδικίας.</desc>
+  </programme>
+  <programme start="20250109180000 +0200" stop="20250109190000 +0200" channel="extacy">
+    <title lang="el">Όρκος σιωπής</title>
+   <desc lang="el">Η ιστορία ενός μυστικού που καταδιώκει τους πρωταγωνιστές.</desc>
+  </programme>
+  <programme start="20250109190000 +0200" stop="20250109200000 +0200" channel="extacy">
+    <title lang="el">MacGyver</title>
+   <desc lang="el">Ο ΜακΓκάιβερ είναι ένας εξαιρετικά ευφυής και πολυτεχνίτης ήρωας.</desc>
+  </programme>
+  <programme start="20250109200000 +0200" stop="20250109210000 +0200" channel="extacy">
+    <title lang="el">Lost: Οι Αγνοούμενοι</title>
+   <desc lang="el">Το Lost ακολουθεί μια ομάδα επιζώντων που προσγειώνονται σε ένα απομακρυσμένο νησί μετά από μια αεροπορική συντριβή.</desc>
+  </programme>
+  <programme start="20250109210000 +0200" stop="20250109220000 +0200" channel="extacy">
+    <title lang="el">House MD</title>
+   <desc lang="el">Η ιστορία ενός ιδιοφυούς γιατρού που σώζει ζωές.</desc>
+  </programme>
+  <programme start="20250109220000 +0200" stop="20250109230000 +0200" channel="extacy">
+    <title lang="el">Prison Break</title>
+   <desc lang="el">Η ιστορία ενός άντρα που σχεδιάζει την τέλεια απόδραση.</desc>
+  </programme>
+  <programme start="20250109230000 +0200" stop="20250110000000 +0200" channel="extacy">
+    <title lang="el">House Of The Dragon</title>
+   <desc lang="el">Δείτε τη μάχη για τον θρόνο με δράκους, ίντριγκες και προδοσίες.</desc>
+  </programme>
+  <programme start="20250110000000 +0200" stop="20250110010000 +0200" channel="extacy">
+    <title lang="el">X-Files</title>
+   <desc lang="el">Εξερεύνηση ανεξήγητων φαινομένων και μυστηρίων του κόσμου.</desc>
+  </programme>
+  <programme start="20250110010000 +0200" stop="20250110020000 +0200" channel="extacy">
+    <title lang="el">Ανατομία ενός Εγκλήματος</title>
+   <desc lang="el">Μπες στον κόσμο του εγκλήματος και της διαλεύκανσής του.</desc>
+  </programme>
+  <programme start="20250109020000 +0200" stop="20250109070000 +0200" channel="extacy">
+    <title lang="el">Ξένες ταινίες</title>
+   <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
+  </programme>
+  <programme start="20250110070000 +0200" stop="20250110090000 +0200" channel="extacy">
+    <title lang="el">Παιδικό πρόγραμμα</title>
+   <desc lang="el">Το καλύτερο παιδικό πρόγραμμα για τους μικρούς μας φίλους.</desc>
+  </programme>
+  <programme start="20250110090000 +0200" stop="20250110120000 +0200" channel="extacy">
+    <title lang="el">Ελληνικές ταινίες</title>
+   <desc lang="el">Μια σειρά από κλασικές ελληνικές ταινίες που θα σας ταξιδέψουν στο παρελθόν.</desc>
+  </programme>
+  <programme start="20250110120000 +0200" stop="20250110150000 +0200" channel="extacy">
+    <title lang="el">Ξένες ταινίες</title>
+   <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
+  </programme>
+  <programme start="20250110150000 +0200" stop="20250110160000 +0200" channel="extacy">
+    <title lang="el">Η Λάμψη</title>
+   <desc lang="el">Η Λάμψη είναι μια δραματική σειρά που επικεντρώνεται στις ίντριγκες, τα μυστικά και τις συγκρούσεις της ισχυρής οικογένειας Δράκου.</desc>
+  </programme>
+  <programme start="20250110160000 +0200" stop="20250110170000 +0200" channel="extacy">
+    <title lang="el">Λαβ Σόρρυ</title>
+   <desc lang="el">Ο Σάκης, ο μάγκας υδραυλικός, και η Λίλη, η μορφωμένη γιατρός, μας δείχνουν πως όταν μιλάει η καρδιά, οι διαφορές δεν έχουν καμία σημασία! Μια ιστορία γεμάτη χιούμορ, παρεξηγήσεις και… πολύ αγάπη.</desc>
+  </programme>
+  <programme start="20250110170000 +0200" stop="20250110180000 +0200" channel="extacy">
+    <title lang="el">Ο ιππότης της ασφάλτου</title>
+   <desc lang="el">Ο ήρωας της πόλης μάχεται κατά του εγκλήματος και της αδικίας.</desc>
+  </programme>
+  <programme start="20250110180000 +0200" stop="20250110190000 +0200" channel="extacy">
+    <title lang="el">Όρκος σιωπής</title>
+   <desc lang="el">Η ιστορία ενός μυστικού που καταδιώκει τους πρωταγωνιστές.</desc>
+  </programme>
+  <programme start="20250110190000 +0200" stop="20250110200000 +0200" channel="extacy">
+    <title lang="el">MacGyver</title>
+   <desc lang="el">Ο ΜακΓκάιβερ είναι ένας εξαιρετικά ευφυής και πολυτεχνίτης ήρωας.</desc>
+  </programme>
+  <programme start="20250110200000 +0200" stop="20250110210000 +0200" channel="extacy">
+    <title lang="el">Lost: Οι Αγνοούμενοι</title>
+   <desc lang="el">Το Lost ακολουθεί μια ομάδα επιζώντων που προσγειώνονται σε ένα απομακρυσμένο νησί μετά από μια αεροπορική συντριβή.</desc>
+  </programme>
+  <programme start="20250110210000 +0200" stop="20250110220000 +0200" channel="extacy">
+    <title lang="el">House MD</title>
+   <desc lang="el">Η ιστορία ενός ιδιοφυούς γιατρού που σώζει ζωές.</desc>
+  </programme>
+  <programme start="20250110220000 +0200" stop="20250110230000 +0200" channel="extacy">
+    <title lang="el">Prison Break</title>
+   <desc lang="el">Η ιστορία ενός άντρα που σχεδιάζει την τέλεια απόδραση.</desc>
+  </programme>
+  <programme start="20250110230000 +0200" stop="20250111000000 +0200" channel="extacy">
+    <title lang="el">House Of The Dragon</title>
+   <desc lang="el">Δείτε τη μάχη για τον θρόνο με δράκους, ίντριγκες και προδοσίες.</desc>
+  </programme>
+  <programme start="20250111000000 +0200" stop="20250111010000 +0200" channel="extacy">
+    <title lang="el">X-Files</title>
+   <desc lang="el">Εξερεύνηση ανεξήγητων φαινομένων και μυστηρίων του κόσμου.</desc>
+  </programme>
+  <programme start="20250111010000 +0200" stop="20250111020000 +0200" channel="extacy">
+    <title lang="el">Ανατομία ενός Εγκλήματος</title>
+   <desc lang="el">Μπες στον κόσμο του εγκλήματος και της διαλεύκανσής του.</desc>
+  </programme>
+  <programme start="20250110020000 +0200" stop="20250110070000 +0200" channel="extacy">
+    <title lang="el">Ξένες ταινίες</title>
+   <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
+  </programme>
+  <programme start="20250111070000 +0200" stop="20250111090000 +0200" channel="extacy">
+    <title lang="el">Παιδικό πρόγραμμα</title>
+   <desc lang="el">Το καλύτερο παιδικό πρόγραμμα για τους μικρούς μας φίλους.</desc>
+  </programme>
+  <programme start="20250111090000 +0200" stop="20250111120000 +0200" channel="extacy">
+    <title lang="el">Ελληνικές ταινίες</title>
+   <desc lang="el">Μια σειρά από κλασικές ελληνικές ταινίες που θα σας ταξιδέψουν στο παρελθόν.</desc>
+  </programme>
+  <programme start="20250111120000 +0200" stop="20250111150000 +0200" channel="extacy">
+    <title lang="el">Ξένες ταινίες</title>
+   <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
+  </programme>
+  <programme start="20250111150000 +0200" stop="20250111160000 +0200" channel="extacy">
+    <title lang="el">Η Λάμψη</title>
+   <desc lang="el">Η Λάμψη είναι μια δραματική σειρά που επικεντρώνεται στις ίντριγκες, τα μυστικά και τις συγκρούσεις της ισχυρής οικογένειας Δράκου.</desc>
+  </programme>
+  <programme start="20250111160000 +0200" stop="20250111170000 +0200" channel="extacy">
+    <title lang="el">Λαβ Σόρρυ</title>
+   <desc lang="el">Ο Σάκης, ο μάγκας υδραυλικός, και η Λίλη, η μορφωμένη γιατρός, μας δείχνουν πως όταν μιλάει η καρδιά, οι διαφορές δεν έχουν καμία σημασία! Μια ιστορία γεμάτη χιούμορ, παρεξηγήσεις και… πολύ αγάπη.</desc>
+  </programme>
+  <programme start="20250111170000 +0200" stop="20250111180000 +0200" channel="extacy">
+    <title lang="el">Ο ιππότης της ασφάλτου</title>
+   <desc lang="el">Ο ήρωας της πόλης μάχεται κατά του εγκλήματος και της αδικίας.</desc>
+  </programme>
+  <programme start="20250111180000 +0200" stop="20250111190000 +0200" channel="extacy">
+    <title lang="el">Όρκος σιωπής</title>
+   <desc lang="el">Η ιστορία ενός μυστικού που καταδιώκει τους πρωταγωνιστές.</desc>
+  </programme>
+  <programme start="20250111190000 +0200" stop="20250111200000 +0200" channel="extacy">
+    <title lang="el">MacGyver</title>
+   <desc lang="el">Ο ΜακΓκάιβερ είναι ένας εξαιρετικά ευφυής και πολυτεχνίτης ήρωας.</desc>
+  </programme>
+  <programme start="20250111200000 +0200" stop="20250111210000 +0200" channel="extacy">
+    <title lang="el">Lost: Οι Αγνοούμενοι</title>
+   <desc lang="el">Το Lost ακολουθεί μια ομάδα επιζώντων που προσγειώνονται σε ένα απομακρυσμένο νησί μετά από μια αεροπορική συντριβή.</desc>
+  </programme>
+  <programme start="20250111210000 +0200" stop="20250111220000 +0200" channel="extacy">
+    <title lang="el">House MD</title>
+   <desc lang="el">Η ιστορία ενός ιδιοφυούς γιατρού που σώζει ζωές.</desc>
+  </programme>
+  <programme start="20250111220000 +0200" stop="20250111230000 +0200" channel="extacy">
+    <title lang="el">Prison Break</title>
+   <desc lang="el">Η ιστορία ενός άντρα που σχεδιάζει την τέλεια απόδραση.</desc>
+  </programme>
+  <programme start="20250111230000 +0200" stop="20250112000000 +0200" channel="extacy">
+    <title lang="el">House Of The Dragon</title>
+   <desc lang="el">Δείτε τη μάχη για τον θρόνο με δράκους, ίντριγκες και προδοσίες.</desc>
+  </programme>
+  <programme start="20250112000000 +0200" stop="20250112010000 +0200" channel="extacy">
+    <title lang="el">X-Files</title>
+   <desc lang="el">Εξερεύνηση ανεξήγητων φαινομένων και μυστηρίων του κόσμου.</desc>
+  </programme>
+  <programme start="20250112010000 +0200" stop="20250112020000 +0200" channel="extacy">
+    <title lang="el">Ανατομία ενός Εγκλήματος</title>
+   <desc lang="el">Μπες στον κόσμο του εγκλήματος και της διαλεύκανσής του.</desc>
+  </programme>
+  <programme start="20250111020000 +0200" stop="20250111070000 +0200" channel="extacy">
+    <title lang="el">Ξένες ταινίες</title>
+   <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
+  </programme>
+  <programme start="20250112070000 +0200" stop="20250112090000 +0200" channel="extacy">
+    <title lang="el">Παιδικό πρόγραμμα</title>
+   <desc lang="el">Το καλύτερο παιδικό πρόγραμμα για τους μικρούς μας φίλους.</desc>
+  </programme>
+  <programme start="20250112090000 +0200" stop="20250112120000 +0200" channel="extacy">
+    <title lang="el">Ελληνικές ταινίες</title>
+   <desc lang="el">Μια σειρά από κλασικές ελληνικές ταινίες που θα σας ταξιδέψουν στο παρελθόν.</desc>
+  </programme>
+  <programme start="20250112120000 +0200" stop="20250112150000 +0200" channel="extacy">
+    <title lang="el">Ξένες ταινίες</title>
+   <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
+  </programme>
+  <programme start="20250112150000 +0200" stop="20250112160000 +0200" channel="extacy">
+    <title lang="el">Η Λάμψη</title>
+   <desc lang="el">Η Λάμψη είναι μια δραματική σειρά που επικεντρώνεται στις ίντριγκες, τα μυστικά και τις συγκρούσεις της ισχυρής οικογένειας Δράκου.</desc>
+  </programme>
+  <programme start="20250112160000 +0200" stop="20250112170000 +0200" channel="extacy">
+    <title lang="el">Λαβ Σόρρυ</title>
+   <desc lang="el">Ο Σάκης, ο μάγκας υδραυλικός, και η Λίλη, η μορφωμένη γιατρός, μας δείχνουν πως όταν μιλάει η καρδιά, οι διαφορές δεν έχουν καμία σημασία! Μια ιστορία γεμάτη χιούμορ, παρεξηγήσεις και… πολύ αγάπη.</desc>
+  </programme>
+  <programme start="20250112170000 +0200" stop="20250112180000 +0200" channel="extacy">
+    <title lang="el">Ο ιππότης της ασφάλτου</title>
+   <desc lang="el">Ο ήρωας της πόλης μάχεται κατά του εγκλήματος και της αδικίας.</desc>
+  </programme>
+  <programme start="20250112180000 +0200" stop="20250112190000 +0200" channel="extacy">
+    <title lang="el">Όρκος σιωπής</title>
+   <desc lang="el">Η ιστορία ενός μυστικού που καταδιώκει τους πρωταγωνιστές.</desc>
+  </programme>
+  <programme start="20250112190000 +0200" stop="20250112200000 +0200" channel="extacy">
+    <title lang="el">MacGyver</title>
+   <desc lang="el">Ο ΜακΓκάιβερ είναι ένας εξαιρετικά ευφυής και πολυτεχνίτης ήρωας.</desc>
+  </programme>
+  <programme start="20250112200000 +0200" stop="20250112210000 +0200" channel="extacy">
+    <title lang="el">Lost: Οι Αγνοούμενοι</title>
+   <desc lang="el">Το Lost ακολουθεί μια ομάδα επιζώντων που προσγειώνονται σε ένα απομακρυσμένο νησί μετά από μια αεροπορική συντριβή.</desc>
+  </programme>
+  <programme start="20250112210000 +0200" stop="20250112220000 +0200" channel="extacy">
+    <title lang="el">House MD</title>
+   <desc lang="el">Η ιστορία ενός ιδιοφυούς γιατρού που σώζει ζωές.</desc>
+  </programme>
+  <programme start="20250112220000 +0200" stop="20250112230000 +0200" channel="extacy">
+    <title lang="el">Prison Break</title>
+   <desc lang="el">Η ιστορία ενός άντρα που σχεδιάζει την τέλεια απόδραση.</desc>
+  </programme>
+  <programme start="20250112230000 +0200" stop="20250113000000 +0200" channel="extacy">
+    <title lang="el">House Of The Dragon</title>
+   <desc lang="el">Δείτε τη μάχη για τον θρόνο με δράκους, ίντριγκες και προδοσίες.</desc>
+  </programme>
+  <programme start="20250113000000 +0200" stop="20250113010000 +0200" channel="extacy">
+    <title lang="el">X-Files</title>
+   <desc lang="el">Εξερεύνηση ανεξήγητων φαινομένων και μυστηρίων του κόσμου.</desc>
+  </programme>
+  <programme start="20250113010000 +0200" stop="20250113020000 +0200" channel="extacy">
+    <title lang="el">Ανατομία ενός Εγκλήματος</title>
+   <desc lang="el">Μπες στον κόσμο του εγκλήματος και της διαλεύκανσής του.</desc>
+  </programme>
+  <programme start="20250112020000 +0200" stop="20250112070000 +0200" channel="extacy">
+    <title lang="el">Ξένες ταινίες</title>
+   <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
+  </programme>
+
 </tv>
