@@ -278,6 +278,10 @@ https://www.tvopen.gr/watch/104064/azantiomarmarinospyrgosthstexeranhs|webfulldi
 https://www.tvopen.gr/watch/105090/otasosdoyshsmasxenageistopetrinofroyriostokentrotoysiraz|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Σιράζ: Βόλτα στο Τέμενος των Κρυστάλλων
 https://www.tvopen.gr/watch/105091/sirazboltastotemenostonkrystallon|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Ιράν: Περιήγηση στην Γιαζντ
+https://www.tvopen.gr/watch/105792/iranperihghshsthngiaznt|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Ιράν: Το μοναδικό κέικ της Γιαζντ
+https://www.tvopen.gr/watch/105798/irantomonadikokeikthsgiaznt|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ιράν: Ο ντόπιος της Γιαζντ, Σιάβας, μιλάει στον Τάσο Δούση
 https://www.tvopen.gr/watch/105797/iranontopiosthsgiazntsiabasmilaeistontasodoysh|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Βόλτα στην κεντρική πλατεία του Ισφαχάν
@@ -296,10 +300,6 @@ https://www.tvopen.gr/watch/111712/ligkiadesioanninontomartyrikoxoriomethfoberht
 https://www.tvopen.gr/watch/111713/zagorimonodendritoxoriopoyeferetontoyrismo|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ζαγοροχώρια: Άνω Πεδινά - Ένα χωριό ησυχαστήριο
 https://www.tvopen.gr/watch/112652/zagoroxoriaanopedinaenaxoriohsyxasthrio|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Ιράν: Περιήγηση στην Γιαζντ
-https://www.tvopen.gr/watch/105792/iranperihghshsthngiaznt|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Ιράν: Το μοναδικό κέικ της Γιαζντ
-https://www.tvopen.gr/watch/105798/irantomonadikokeikthsgiaznt|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Rafting στον ποταμό Βοϊδομάτη
 https://www.tvopen.gr/watch/112653/raftingstonpotamoboidomath|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Βόλτα με buggy οχήματα στο ανατολικό Ζαγόρι
