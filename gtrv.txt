@@ -373,6 +373,8 @@ https://livetv.streams.ovh:8081/lampsitv/index.m3u8
 https://eu1.vectromdigital.com:1936/bciadventure/bciadventure/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://yt3.ggpht.com/AK0IDjoR2pT_B49E1iVo1WQMMueZvsJndZ9dgkJ9hML4FlFT4dvoBOPQ0fvtHQGKMr0NqRiW1A=s48-c-k-c0x00ffffff-no-rj" ,Γνωρίζοντας την Ελλάδα (Exploring GREECE) (Youtube)
 https://www.youtube.com/embed/xzdBItxiC-0
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/pQQTdzS/cropped-cropped-omikronlogo.png" ,OMIKRON TV
+https://media.kubikhost.com/first/index.m3u8
 
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,===== ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ ====
@@ -600,6 +602,10 @@ https://cdn.nhkworld.jp/www11/nhkworld-tv/domestic/2003459/live.m3u8
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="https://cdn.marschannels.com/files/channel_settings/web/img/1648375713354.png" tvg-website="https://www.fashiontv.com/"  ,Fashion TV
 https://fash1043.cloudycdn.services/store/_definst_/tmsp00043/vod/03/f7/372028/se9_CELEB_INTE_658220.smil/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/06/Love-Nature-1.png" ,Love-Nature4k
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="https://i.ibb.co/YBQVKjw/images.jpg" ,Weather-Spy
+https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,=====   ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ    ====
 http://.....
