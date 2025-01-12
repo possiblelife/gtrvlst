@@ -374,9 +374,9 @@ https://eu1.vectromdigital.com:1936/bciadventure/bciadventure/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://yt3.ggpht.com/AK0IDjoR2pT_B49E1iVo1WQMMueZvsJndZ9dgkJ9hML4FlFT4dvoBOPQ0fvtHQGKMr0NqRiW1A=s48-c-k-c0x00ffffff-no-rj" ,Γνωρίζοντας την Ελλάδα (Exploring GREECE) (Youtube)
 https://www.youtube.com/embed/xzdBItxiC-0
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://cdn-ilclhil.nitrocdn.com/eWiwNQQrWcpvzBgUbQsmdBXUAzgyPNfV/assets/images/optimized/rev-f7bc1c1/iviewtv.gr/wp-content/uploads/2024/05/cropped-iviewTV-smoll.png" ,i-view TV
-https://media.kubikhost.com/first/index.m3u8
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/pQQTdzS/cropped-cropped-omikronlogo.png" ,OMIKRON TV
 https://vdo.streams.gr:3979/live/wvoxtvlive.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/pQQTdzS/cropped-cropped-omikronlogo.png" ,OMIKRON TV
+https://media.kubikhost.com/first/index.m3u8
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,===== ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ ====
 http://.....
