@@ -160,3 +160,7 @@ https://www.megatv.com/gtvshows/1778522/buongiorno-08-01-25/|webfulldig
 https://www.megatv.com/gtvshows/1779524/buongiorno-09-01-25/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Buongiorno (10/01/25)
 https://www.megatv.com/gtvshows/1780613/buongiorno-10-01-25/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Buongiorno (13/01/25)
+https://www.megatv.com/gtvshows/1784606/buongiorno-13-01-25/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Buongiorno (14/01/25)
+https://www.megatv.com/gtvshows/1786151/buongiorno-14-01-25/|webfulldig
