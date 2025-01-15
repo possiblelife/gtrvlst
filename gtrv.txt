@@ -72,14 +72,8 @@ https://program.ert.gr/tvsports.asp|webview zoom=100 scroll=0,0
 https://odiehlsmslnew.akamaized.net/hls/live/2112246/odie3/odie_1000.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://i.ibb.co/hZyD1by/skai-hbb.png" tvg-website="https://www.skai.gr/tv/sports/" ,Skai Hybrid All Live Games
 https://www.skai.gr/tv/sports/|webview zoom=100 scroll=0,100
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://i.ibb.co/hZyD1by/skai-hbb.png" tvg-name="Skai Hybrid" tvg-website="https://www.skai.gr/tv/sports/" ,Skai Hybrid
-https://skai-live-sports.siliconweb.com/skai/livesport1/playlist.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://i.ibb.co/hZyD1by/skai-hbb.png" tvg-name="Skai Hybrid" tvg-website="https://www.skai.gr/tv/sports/" ,Skai Hybrid (ΕΝΑΛΛΑΚΤΙΚΟ)
-https://cdn5.smart-tv-data.com/skai/skaisport/mpeg.2ts
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://i.ibb.co/nnNBKPx/logo.png" tvg-website="https://monobala.gr/" ,monobala All Live Games
 https://monobala.gr/category/web-tv/monobala-live/|webview zoom=100 scroll=0,100
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://i.ibb.co/nnNBKPx/logo.png" tvg-website="https://monobala.gr/" ,monobala Live
-https://live-monobala.siliconweb.com/monobala/livesport2/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://www.megatv.com/wp-content/themes/whsk_newmegatv/common/imgs/livesports.png" tvg-website="https://www.megatv.com/megaplaylive/" ,Mega Live Play
 https://streamcdnh10-c422e6f66e3a41029fa6cf83cab8b1d5.msvdn.net/live/S46747281/DJSPnDk0TaKs/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://img.onesignal.com/t/aa4f01d5-1349-424d-9c50-6ccfcf20dd0d.png" tvg-website="https://www.tvopen.gr/livegames#" ,OPEN All Live Games
