@@ -1176,7 +1176,7 @@ http://eco.onestreaming.com:8490/;
 #EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/starfmlamia.png" ,Star FM 97.1
 http://eco.onestreaming.com:8434/;
 #EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/stylidafm.png" ,Stylida Fm 94.1
-https://live.webhosting4u.gr/stylidafm
+https://aphrodite.freespirits.gr:8110/radio.mp3 
 #EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/imf894.png" ,Ι.Μ. Φθιώτιδας 89.4
 http://eco.onestreaming.com:8264/;
 #EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/lamiafm1.png" ,Λαμία FM 1 96.2
