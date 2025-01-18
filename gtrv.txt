@@ -9,15 +9,15 @@ http://.....
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png",ERTFLIX LIVE
 https://www.ertflix.gr/epg/now-on-tv|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="https://i.ibb.co/Y71vkKs/ERT1.jpg" tvg-name="ΕΡΤ1" tvg-website="https://www.ertflix.gr" ,ΕΡΤ1 HD (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
-https://ertflix.s.llnwi.net/ertlive/ert1/clrdef24723b/index.m3u8
+https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="https://i.ibb.co/Y71vkKs/ERT1.jpg" tvg-name="ΕΡΤ1" tvg-website="https://www.ertflix.gr" ,ΕΡΤ1 (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/gr/ert1s2image.php|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert2" tvg-logo="https://i.ibb.co/c6gWKyh/ERT2.jpg" tvg-name="ΕΡΤ2" tvg-website="https://www.ertflix.gr" ,ΕΡΤ2 HD (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
-https://ertflix.s.llnwi.net/ertlive/ert2/clrdef24828z/index.m3u8
+https://ertflix.akamaized.net/ertlive/ert2/clrdef24828z/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert2" tvg-logo="https://i.ibb.co/c6gWKyh/ERT2.jpg" tvg-name="ΕΡΤ2" tvg-website="https://www.ertflix.gr" ,ΕΡΤ2 (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/gr/ert2s2image.php|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert3" tvg-logo="https://i.ibb.co/5YQmVqj/ERT3.jpg" tvg-name="ΕΡΤ3" tvg-website="https://www.ertflix.gr" ,ΕΡΤ3 HD (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
-https://ertflix.s.llnwi.net/ertlive/ert3/clrdef24828n/index.m3u8
+https://ertflix.akamaized.net/ertlive/ert3/clrdef24828n/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert3" tvg-logo="https://i.ibb.co/5YQmVqj/ERT3.jpg" tvg-name="ΕΡΤ3" tvg-website="https://www.ertflix.gr" ,ΕΡΤ3 (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/gr/ert3s2image.php|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1" tvg-logo="https://goo.gl/q5aDRg" tvg-name="ANT1" tvg-website="https://watch.antennaplus.gr/#/" ,ANT1 HD
@@ -83,21 +83,13 @@ https://neon.streams.gr:8081/argolidasport/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports" tvg-logo="https://i.ibb.co/MP9Nv3r/sports.jpg" tvg-name="ΕΡΤ SPORTS 1" tvg-website="https://www.ertflix.gr" ,ΕΡΤ SPORTS 1 (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
 https://ertflix.s.llnwi.net/ertlive/ertsports1/encdef/index.mpd|license_type=clearkey&license_key={"keys":[{"kty":"oct","k":"CCEMwpjyGc4iRaUA31qshQ","kid":"6H6tLYfXU3KqytY+b11xwA" }],type":"temporary"}&stream_headers={User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0&Referer=https://foothubhd.xyz/&Origin=https://foothubhd.xyz}
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports" tvg-logo="https://i.ibb.co/MP9Nv3r/sports.jpg" tvg-name="ΕΡΤ SPORTS 1" tvg-website="https://www.ertflix.gr" ,ΕΡΤ SPORTS 1 (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ) - Εναλλακτικό
-https://ertflix.s.llnwi.net/ertlive/ertsports1/clrdef24724a/index.m3u8
+https://ertflix.akamaized.net/ertlive/ertsports1/clrdef24724a/index.mpd
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports1" tvg-logo="https://i.ibb.co/mhBPc1n/sports.jpg" tvg-name="ΕΡΤ SPORTS 1" tvg-website="https://www.ertflix.gr" ,ΕΡΤ SPORTS 1 (ΕΝΑΛΛΑΚΤΙΚΟ)
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports2" tvg-logo="https://i.ibb.co/mhGshmN/sports.jpg" tvg-name="ΕΡΤ SPORTS 2" tvg-website="https://www.ertflix.gr" ,ΕΡΤ SPORTS 2 (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
-https://ertflix.s.llnwi.net/ertlive/ertsports2/default/index.mpd
+https://ertflix.akamaized.net/ertlive/ertsports2/default/index.mpd
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports2" tvg-logo="https://i.ibb.co/mhGshmN/sports.jpg" tvg-name="ΕΡΤ SPORTS 2" tvg-website="https://www.ertflix.gr" ,ΕΡΤ SPORTS 2 (ΕΝΑΛΛΑΚΤΙΚΟ)
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports3" tvg-logo="https://i.ibb.co/8XJRX8z/sports3.jpg" tvg-name="ΕΡΤ SPORTS 3" tvg-website="https://www.ertflix.gr" ,ΕΡΤ SPORTS 3 (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
-https://ertflix.s.llnwi.net/ertlive/ertsports3/default/index.mpd
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports3" tvg-logo="https://i.ibb.co/8XJRX8z/sports3.jpg" tvg-name="ΕΡΤ SPORTS 3" tvg-website="https://www.ertflix.gr" ,ΕΡΤ SPORTS 3 (ΕΝΑΛΛΑΚΤΙΚΟ)
-http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay3_mpeg.2ts
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports4" tvg-logo="https://i.ibb.co/Db4SnJp/sports4.jpg" tvg-name="ΕΡΤ SPORTS 4" tvg-website="https://www.ertflix.gr" ,ΕΡΤ SPORTS 4 (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
-https://ertflix.s.llnwi.net/ertlive/ertsports4/default/index.mpd
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports4" tvg-logo="https://i.ibb.co/Db4SnJp/sports4.jpg" tvg-name="ΕΡΤ SPORTS 4" tvg-website="https://www.ertflix.gr" ,ΕΡΤ SPORTS 4 (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)(ΕΝΑΛΛΑΚΤΙΚΟ)
-http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay4_mpeg.2ts
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="http://i.imgur.com/0Ovqq2f.png" tvg-website="http://www.tilesport.tv/index_live.php" ,TILESPORT (Youtube)
 https://www.youtube.com/@Tilesporttv-eb8ip/streams|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRLcpAwQ1UjAR91t7RCVCNyL1iltU0W6J2zMTVSFQ=s48-c-k-c0x00ffffff-no-rj" tvg-website="https://www.sdna.gr/" ,SDNA (Youtube)
@@ -312,7 +304,7 @@ http://www.anacon.org/app/chans/cy/verginacyimage.php|webepg zoom=100 scroll=0,1
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,===== ΔΙΑΔΙΚΤΥΑΚΑ ====
 http://.....
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"   tvg-id="ert-news" tvg-logo="https://files.app.ertflix.gr/files/channels/ertnews-logo-800x300-f2.png?m=resize&w=200&h=80" tvg-name="ΕΡΤ News" tvg-website="https://www.ertflix.gr" ,ΕΡΤ News
-https://ertflix.s.llnwi.net/ertlive/ertnews/default/index.mpd
+https://ertflix.akamaized.net/ertlive/ertnews/default/index.mpd
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"   tvg-id="ert-news" tvg-logo="https://files.app.ertflix.gr/files/channels/ertnews-logo-800x300-f2.png?m=resize&w=200&h=80" tvg-name="ΕΡΤ News" tvg-website="https://www.ertflix.gr" ,ΕΡΤ News (1)
 http://195.226.218.10/vid/ertnews/mpeg.2ts
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://files.app.ertflix.gr/files/channels/ertnews-logo-800x300-f2.png?m=resize&w=200&h=80" tvg-website="https://www.ertflix.gr" ,ΕΡΤ News 2
@@ -395,8 +387,6 @@ https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEq
 http://.....
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacy" tvg-logo="https://i.ibb.co/bs7j4wR/extacy-tv-new-logo.png" ,Extacy TV Ελλάδος.
 https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ibb.co/br83rNk/9f0c6632-b6bf-448b-a0b9-ea5cc2bdff33-channel-offline-image-1920x1080.jpg" ,Extacy TV Κύπρου
-https://fr.crystalweb.net:1936/extacytvcy/extacytvcy/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ibb.co/6Px7RPQ/dipolo.jpg" ,Dtv6 (Δίπολο TV)
 https://channel.streams.ovh:8081/dipolotv/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ibb.co/bJGz0h3/cine1.jpg" ,Cinema Time
@@ -428,8 +418,10 @@ https://ssh101-fl.bozztv.com/ssh101/tvioniathess/playlist.m3u8
 http://.....
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://i.ibb.co/5MKkNgy/Screenshot-2023-11-15-160115.png" ,MAD World
 https://ellastvmax.better-than.tv/freetv/madworldtv/index.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://i.ibb.co/7GL1WL6/ertmusic.jpg" ,ErtFlix Music
-http://hbbtv.ert.gr/stream.php/v/vid_ertplay5_mpeg.2ts
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://i.ibb.co/7GL1WL6/ertmusic.jpg" tvg-name="ErtFlix Music" ,ErtFlix Music
+195.226.218.163/vid/ertplay5/mpeg.2ts
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://i.ibb.co/7GL1WL6/ertmusic.jpg" tvg-name="ErtFlix Music" ,ErtFlix Music (2)
+https://ertflix.akamaized.net/ertlive/music/default/index.mpd
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniRWeQydH4pamOZcqfgB94e7Zm_IMDxKOssr_oNBw=s48-c-k-c0x00ffffff-no-rj" tvg-website="https://mad.tv/mad-radio/live-streaming/" ,Mad Radio 106.2 (Youtube)
 https://mad.gr/mad-radio/live-streaming/|youtubedig
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://i.ibb.co/pWpGWzh/kisshd.png" ,KISS HD
@@ -491,7 +483,7 @@ https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://i.ibb.co/Tv1hStJ/ertkids.jpg" tvg-name="ErtFlix Kids" ,ErtFlix Kids
 http://195.226.218.163/vid/kidstv-hbbtv/mpeg.2ts
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://i.ibb.co/Tv1hStJ/ertkids.jpg" tvg-name="ErtFlix Kids" ,ErtFlix Kids (2)
-http://ertflix.s.llnwi.net/ertlive/kids/default/index.m3u8
+https://ertflix.akamaized.net/ertlive/kids/default/index.mpd
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://i.ibb.co/ZffXqv1/cartoons.png" ,Cartoons 8 GR
 http://65.108.62.57:8080/live4/kidshd.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://i.ibb.co/ZffXqv1/cartoons.png" ,Cartoons 1
@@ -552,7 +544,7 @@ https://www.youtube.com/@ekklisianews/streams|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,=====   ΔΙΕΘΝΗ ΔΙΚΤΥΑ    ====
 http://.....
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="ert" tvg-logo="https://i.ibb.co/2Z6rFsL/ERT-WORLD.jpg"  tvg-name="ΕΡΤ WORLD" tvg-website="https://www.ertflix.gr" ,ΕΡΤ WORLD WebTV
-https://ertflix.s.llnwi.net/ertlive/ertworldc/default/index.mpd
+https://ertflix.akamaized.net/ertlive/ertworld/default/index.mpd
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="ert" tvg-logo="https://i.ibb.co/2Z6rFsL/ERT-WORLD.jpg"  tvg-name="ΕΡΤ WORLD" tvg-website="https://www.ertflix.gr" ,ΕΡΤ WORLD WebTV-2
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertworld_mpeg.2ts
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="Euronews" tvg-logo="https://goo.gl/QMXKek"  tvg-name="EURONEWS" tvg-website="https://gr.euronews.com/" ,EURONEWS
@@ -560,7 +552,7 @@ https://www.youtube.com/embed/uWIhV9gQClg
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="Euronews" tvg-logo="https://goo.gl/QMXKek"  tvg-name="EURONEWS" tvg-website="https://gr.euronews.com/" ,EURONEWS (2)
 https://gr.euronews.com/live|webdig
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="Euronews" tvg-logo="https://goo.gl/QMXKek"  tvg-name="EURONEWS" tvg-website="https://gr.euronews.com/" ,EURONEWS (3)
-https://ertflix.s.llnwi.net/ertlive/euronewsgr/default/index.mpd
+https://ertflix.akamaized.net/ertlive/euronewsgr/default/index.mpd
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="Al Jazeera English" tvg-logo="https://i.pinimg.com/originals/64/cd/32/64cd32bd821a9b3b020260b27f9b5cb4.png" tvg-website="https://www.aljazeera.com/" ,Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="RT" tvg-logo="https://i.ibb.co/Y8B7Jgr/Russia-today-logo.jpg"  tvg-name="Russia Today" tvg-website="https://www.rt.com/" ,Russia Today
