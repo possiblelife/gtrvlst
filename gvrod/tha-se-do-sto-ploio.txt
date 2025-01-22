@@ -1,104 +1,131 @@
-#EXTINF:-1 group-title="Σεζόν 1",Επεισόδιο 1
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4082&showId=718&year=2001|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",Επεισόδιο 2
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4081&showId=718&year=2001|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",Επεισόδιο 3
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4080&showId=718&year=2001|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",Επεισόδιο 4
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4079&showId=718&year=2001|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",Επεισόδιο 5
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4078&showId=718&year=2001|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",Επεισόδιο 6
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4077&showId=718&year=2001|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",Επεισόδιο 7
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4076&showId=718&year=2001|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",Επεισόδιο 8
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4075&showId=718&year=2001|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",Επεισόδιο 9
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4074&showId=718&year=2001|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",Επεισόδιο 10
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4073&showId=718&year=2001|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",Επεισόδιο 23
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4072&showId=718&year=2001|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",Επεισόδιο 24
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4071&showId=718&year=2001|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",Επεισόδιο 25
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4070&showId=718&year=2001|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",Επεισόδιο 26
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4069&showId=718&year=2001|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",Επεισόδιο 27
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4068&showId=718&year=2001|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",Επεισόδιο 28
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4067&showId=718&year=2001|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",Επεισόδιο 29
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4066&showId=718&year=2001|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",Επεισόδιο 30
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4065&showId=718&year=2001|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",Επεισόδιο 31
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4064&showId=718&year=2001|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",Επεισόδιο 32
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4063&showId=718&year=2001|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",Επεισόδιο 34
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4062&showId=718&year=2001|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",Επεισόδιο 35
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4061&showId=718&year=2001|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2",Επεισόδιο 1
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4082&showId=718&year=2002|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2",Επεισόδιο 2
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4059&showId=718&year=2002|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2",Επεισόδιο 3
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4058&showId=718&year=2002|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2",Επεισόδιο 4
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4057&showId=718&year=2002|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2",Επεισόδιο 5
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4056&showId=718&year=2002|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2",Επεισόδιο 6
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4055&showId=718&year=2002|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2",Επεισόδιο 7
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4054&showId=718&year=2002|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2",Επεισόδιο 8
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4053&showId=718&year=2002|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2",Επεισόδιο 9
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4052&showId=718&year=2002|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2",Επεισόδιο 10
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4051&showId=718&year=2002|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2",Επεισόδιο 11
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4050&showId=718&year=2002|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2",Επεισόδιο 12
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4049&showId=718&year=2002|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2",Επεισόδιο 13
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4048&showId=718&year=2002|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2",Επεισόδιο 14
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4047&showId=718&year=2002|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2",Επεισόδιο 15
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4046&showId=718&year=2002|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2",Επεισόδιο 16
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4045&showId=718&year=2002|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2",Επεισόδιο 17
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4044&showId=718&year=2002|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2",Επεισόδιο 18
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4043&showId=718&year=2002|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2",Επεισόδιο 19
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4042&showId=718&year=2002|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2",Επεισόδιο 20
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4041&showId=718&year=2002|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2",Επεισόδιο 21
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4040&showId=718&year=2002|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2",Επεισόδιο 22
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4039&showId=718&year=2002|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2",Επεισόδιο 23
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4038&showId=718&year=2002|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2",Επεισόδιο 24
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4037&showId=718&year=2002|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2",Επεισόδιο 25
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4036&showId=718&year=2002|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2",Επεισόδιο 26
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4035&showId=718&year=2002|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2",Επεισόδιο 27
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4034&showId=718&year=2002|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2",Επεισόδιο 28
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4033&showId=718&year=2002|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2",Επεισόδιο 29
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4032&showId=718&year=2002|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2",Επεισόδιο 30
-https://www.alphatv.gr/show/tha-se-do-sto-ploio/?vtype=player&vid=4031&showId=718&year=2002|webvidfulldig
+
+#EXTINF:-1 group-title="Season 1",1.01
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4082&year=2001&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=4B2cYUGkmhc||||https://www.youtube.com/watch?v=TdwEppI9OtM||||https://www.youtube.com/watch?v=Ow2VG0WzuV0||||https://www.youtube.com/watch?v=Kf5DLErfPMo||||https://www.youtube.com/watch?v=pzGsRTtc_uo||||https://www.youtube.com/watch?v=luwUtnCCKP4||||https://www.youtube.com/watch?v=UZ3TL4NTdAk||||https://www.youtube.com/watch?v=6xdl0-npToo||||https://www.dailymotion.com/video/x7tlhha|webdelayfulldig$$delay=1||||https://voe.sx/wqh6yubuvkkv|webfulldig||||https://voe.sx/8peb499xc9dc|webfulldig
+#EXTINF:-1 group-title="Season 1",1.02
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4081&year=2001&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=HWkE4hjVpYA||||https://www.youtube.com/watch?v=QUt5PrZlZDs||||https://www.youtube.com/watch?v=Pe47opBE2KY||||https://www.youtube.com/watch?v=9spVe0LGVSY||||https://www.youtube.com/watch?v=3aIOgGTK5tI||||https://www.youtube.com/watch?v=YqUJsjrSTg0||||https://www.youtube.com/watch?v=JeJGXvXYYs4||||https://www.youtube.com/watch?v=7rEPcF_dUjY||||https://www.dailymotion.com/video/x7tlk50|webdelayfulldig$$delay=1||||https://voe.sx/pzfdqulahxmt|webfulldig
+#EXTINF:-1 group-title="Season 1",1.03
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4080&year=2001&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=B3wR8dv60aM||||https://www.youtube.com/watch?v=PLMtYSgnjvk||||https://www.youtube.com/watch?v=NB8NNehEp4A||||https://www.youtube.com/watch?v=mRjf7PuioT4||||https://www.youtube.com/watch?v=vcdZZamve3c||||https://www.dailymotion.com/video/x7tll67|webdelayfulldig$$delay=1||||https://voe.sx/7njtu2qilu2h|webfulldig
+#EXTINF:-1 group-title="Season 1",1.04
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4079&year=2001&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=IuNTPbYotok||||https://www.youtube.com/watch?v=8MZtWax34xU||||https://www.youtube.com/watch?v=uPBoLftHAhM||||https://www.youtube.com/watch?v=eIX8Wnn5WGg||||https://www.youtube.com/watch?v=AumgWui1Ab4||||https://www.youtube.com/watch?v=CU0pBdGJriI||||https://www.dailymotion.com/video/x7tlnpg|webdelayfulldig$$delay=1||||https://voe.sx/eaz8kox9qssy|webfulldig
+#EXTINF:-1 group-title="Season 1",1.05
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4078&year=2001&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=m6C25QZtrIw||||https://www.youtube.com/watch?v=V0Cgl5dORZ8||||https://www.youtube.com/watch?v=wMDH9acK9Es||||https://www.youtube.com/watch?v=WxEH2MXr0cg||||https://www.youtube.com/watch?v=pGMc52z5YjY||||https://www.dailymotion.com/video/x7tlnxn|webdelayfulldig$$delay=1||||https://voe.sx/vlbdyfjswhc1|webfulldig
+#EXTINF:-1 group-title="Season 1",1.06
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4077&year=2001&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=YrlO-QbGH1g||||https://www.youtube.com/watch?v=4jBezhxGiV8||||https://www.youtube.com/watch?v=RLOSxkAOFiE||||https://www.youtube.com/watch?v=aMx_95sko1U||||https://www.youtube.com/watch?v=CD74t1TsTT0||||https://www.youtube.com/watch?v=hYp1D41fSD4||||https://www.dailymotion.com/video/x7tlnxo|webdelayfulldig$$delay=1||||https://voe.sx/t87vcsm8tjsz|webfulldig
+#EXTINF:-1 group-title="Season 1",1.07
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4076&year=2001&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=Z0NCXONZ1ac||||https://www.youtube.com/watch?v=fzmuxcx9TGk||||https://www.youtube.com/watch?v=7JzGPHpepTw||||https://www.youtube.com/watch?v=OIs7nYx80T4||||https://www.youtube.com/watch?v=VL_Yqa0V934||||https://www.youtube.com/watch?v=eJlw4EHLvpI||||https://voe.sx/4d6mhozjsbqj|webfulldig
+#EXTINF:-1 group-title="Season 1",1.08
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4075&year=2001&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=KwxQY4_lirY||||https://www.youtube.com/watch?v=-gv-_Hig_nA||||https://www.youtube.com/watch?v=FOY4iKBp9tY||||https://www.youtube.com/watch?v=jnPMiXUoS4g||||https://www.youtube.com/watch?v=Ti3X7q208ag||||https://www.youtube.com/watch?v=It10VRg3d6c||||https://voe.sx/ccxgorrgpb0n|webfulldig
+#EXTINF:-1 group-title="Season 1",1.09
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4074&year=2001&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=Qh-kouI93N4||||https://www.youtube.com/watch?v=6UadipMe1tg||||https://www.youtube.com/watch?v=3truNEx7ABc||||https://www.youtube.com/watch?v=vr_TAOEKjxA||||https://www.youtube.com/watch?v=q0CW_yQNDUM||||https://www.youtube.com/watch?v=by7yXDV4bNY||||https://voe.sx/hmfyk0ysgtum|webfulldig
+#EXTINF:-1 group-title="Season 1",1.10
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4073&year=2001&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=Uj5CohOQpbI||||https://www.youtube.com/watch?v=7us7FWOv7uU||||https://www.youtube.com/watch?v=BKuM_eSoYDg||||https://www.youtube.com/watch?v=q-2KnNeyTvo||||https://www.youtube.com/watch?v=SVgcUkl3edI||||https://www.youtube.com/watch?v=jhKx-ovbZZc||||https://www.dailymotion.com/video/x7tm8p2|webdelayfulldig$$delay=1||||https://voe.sx/am1hyynukppq|webfulldig
+#EXTINF:-1 group-title="Season 1",1.11
+https://www.youtube.com/watch?v=zS7La0oLqOg||||https://www.youtube.com/watch?v=q-BrFIDaVqM||||https://www.youtube.com/watch?v=zFxYGHpXse8||||https://www.dailymotion.com/video/x7tm8r8|webdelayfulldig$$delay=1||||https://voe.sx/wikjha0u6dvi|webfulldig||||https://voe.sx/nwkwl2hbm1t7|webfulldig
+#EXTINF:-1 group-title="Season 1",1.12
+https://www.youtube.com/watch?v=qF7wyrC5jZE||||https://www.youtube.com/watch?v=L_sKMnKP1jM||||https://www.youtube.com/watch?v=sBoLAb43xzk||||https://www.youtube.com/watch?v=wdAj-MsVFjM||||https://www.youtube.com/watch?v=O3ysTQCKZZc||||https://www.dailymotion.com/video/x7tm8rj|webdelayfulldig$$delay=1||||https://voe.sx/h988oayooai2|webfulldig||||https://voe.sx/n7sqxcv6jcoo|webfulldig
+#EXTINF:-1 group-title="Season 1",1.13
+https://www.youtube.com/watch?v=tt9vAyEzB3k||||https://www.youtube.com/watch?v=mepZ8ZC0FrU||||https://www.youtube.com/watch?v=RPOzWdaZXN0||||https://www.youtube.com/watch?v=3cs6V7DDR8I||||https://www.youtube.com/watch?v=1EPc3i-BTB0||||https://www.dailymotion.com/video/x7tm90g|webdelayfulldig$$delay=1||||https://voe.sx/i44lxa3vunin|webfulldig
+#EXTINF:-1 group-title="Season 1",1.14
+https://www.youtube.com/watch?v=Sv1NgGFlThI||||https://www.youtube.com/watch?v=Lckoue18unU||||https://www.youtube.com/watch?v=hJLKqfdYUQU||||https://www.dailymotion.com/video/x7tm90f|webdelayfulldig$$delay=1||||https://voe.sx/m3aosxfkfw4g|webfulldig
+#EXTINF:-1 group-title="Season 1",1.15
+https://www.youtube.com/watch?v=ZNTdKVxN8sE||||https://www.youtube.com/watch?v=qrhxln0I2xw||||https://www.youtube.com/watch?v=zpm9Zn8m3Yo||||https://www.youtube.com/watch?v=s-JIhK7ky4w||||https://www.dailymotion.com/video/x7tm97g|webdelayfulldig$$delay=1||||https://voe.sx/1kgmlqikym1e|webfulldig
+#EXTINF:-1 group-title="Season 1",1.16
+https://www.youtube.com/watch?v=8NjQ2uSCGUw||||https://www.youtube.com/watch?v=s-S6swo5hq8||||https://www.youtube.com/watch?v=YqgshLEZcFo||||https://www.youtube.com/watch?v=CEd1a49ff3Q||||https://www.youtube.com/watch?v=bCQVjagC1QQ||||https://www.dailymotion.com/video/x7tm9fi|webdelayfulldig$$delay=1||||https://voe.sx/hr92ftydl9z6|webfulldig
+#EXTINF:-1 group-title="Season 1",1.17
+https://www.youtube.com/watch?v=7eDSFwue61E||||https://www.youtube.com/watch?v=fcX5E5elTkg||||https://www.youtube.com/watch?v=jnVNFjcASmY||||https://www.youtube.com/watch?v=tlf_BclvzvY||||https://www.youtube.com/watch?v=tpzygK1eUSQ||||https://www.dailymotion.com/video/x7tm9fh|webdelayfulldig$$delay=1||||https://voe.sx/imwumrg7cex0|webfulldig
+#EXTINF:-1 group-title="Season 1",1.18
+https://www.youtube.com/watch?v=9Uh9l4Dx2_A||||https://www.youtube.com/watch?v=nIeR2hGNbS0||||https://www.dailymotion.com/video/x7tm9fj|webdelayfulldig$$delay=1||||https://voe.sx/jrpkotgwc08l|webfulldig
+#EXTINF:-1 group-title="Season 1",1.19
+https://www.youtube.com/watch?v=HAgtGT109TQ||||https://www.youtube.com/watch?v=W0vtb4EdnIw||||https://www.youtube.com/watch?v=onYk1eW8ntw||||https://www.youtube.com/watch?v=XJcTic6a2Ng||||https://www.youtube.com/watch?v=TJ7JJnnU9Rw||||https://voe.sx/froa90exgtl0|webfulldig||||https://voe.sx/ivemhow6p7in|webfulldig||||https://highstream.tv/y6o1cs5a9nm9|webfulldig
+#EXTINF:-1 group-title="Season 1",1.20
+https://www.youtube.com/watch?v=Ir4B7hziruM||||https://voe.sx/ztgizqnmvmuu|webfulldig||||https://voe.sx/bvvcun199kds|webfulldig
+#EXTINF:-1 group-title="Season 1",1.21
+https://www.youtube.com/watch?v=LLDD_XEHXmY||||https://www.youtube.com/watch?v=vSgLN7Mvork||||https://voe.sx/09dtunywegmd|webfulldig
+#EXTINF:-1 group-title="Season 1",1.22
+https://www.youtube.com/watch?v=23pYgKav4ts||||https://voe.sx/fp96dpamkioy|webfulldig
+#EXTINF:-1 group-title="Season 1",1.23
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4072&year=2001&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=I7eyeGb9j-Q||||https://www.youtube.com/watch?v=cbYHKZJMFrM||||https://www.youtube.com/watch?v=aPQCsG5v_p4||||https://www.youtube.com/watch?v=1qxwLoywrCQ||||https://www.youtube.com/watch?v=T1AxpQKuE3g||||https://www.youtube.com/watch?v=7PwFEL307To||||https://www.youtube.com/watch?v=8pihHxlhPlg||||https://www.dailymotion.com/video/x7tm9zx|webdelayfulldig$$delay=1||||https://voe.sx/e1ry6rs6n0uu|webfulldig
+#EXTINF:-1 group-title="Season 1",1.24
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4071&year=2001&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=8a6EUnHp74w||||https://www.youtube.com/watch?v=IRNc-50DtUA||||https://www.dailymotion.com/video/x7tm9zw|webdelayfulldig$$delay=1||||https://voe.sx/gt9atomvrts2|webfulldig
+#EXTINF:-1 group-title="Season 1",1.25
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4070&year=2001&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=aaTViWxGRDg||||https://www.youtube.com/watch?v=Nc3bxBEsVzs||||https://www.youtube.com/watch?v=4thUUNMwOS4||||https://www.youtube.com/watch?v=ecID7SfsCvo||||https://www.youtube.com/watch?v=vemMIU1JDzE||||https://www.youtube.com/watch?v=2L5rBe0CEH4||||https://www.dailymotion.com/video/x7tm9zy|webdelayfulldig$$delay=1||||https://voe.sx/dqbrs4fyoiuo|webfulldig
+#EXTINF:-1 group-title="Season 1",1.26
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4069&year=2001&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=5z8vzoImjZ8||||https://www.youtube.com/watch?v=ggT67ebOED0||||https://www.dailymotion.com/video/x7tmahh|webdelayfulldig$$delay=1||||https://voe.sx/9wzprcbk5awr|webfulldig
+#EXTINF:-1 group-title="Season 1",1.27
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4068&year=2001&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=eZFIqDFPx4U||||https://www.youtube.com/watch?v=YgA7Bfikz1E||||https://www.youtube.com/watch?v=FDaBsLAZk8g||||https://www.youtube.com/watch?v=Ct42Tyt7Zwg||||https://www.youtube.com/watch?v=Bb6SsBd6doc||||https://www.youtube.com/watch?v=7wEKFdOnOkA||||https://www.dailymotion.com/video/x7tmahg|webdelayfulldig$$delay=1||||https://voe.sx/sj9x34t5ednl|webfulldig
+#EXTINF:-1 group-title="Season 1",1.28
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4067&year=2001&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=qns5zNgncIg||||https://www.youtube.com/watch?v=9hVxpqOQR_s||||https://www.dailymotion.com/video/x7tmahi|webdelayfulldig$$delay=1||||https://voe.sx/pxos39cqzk4o|webfulldig
+#EXTINF:-1 group-title="Season 1",1.29
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4066&year=2001&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=IwdsxcievQM||||https://www.youtube.com/watch?v=o5kIE9BzNCI||||https://www.youtube.com/watch?v=7KMHX0Hjxdg||||https://www.youtube.com/watch?v=na0dCIf9WK8||||https://www.youtube.com/watch?v=tz1BU7TEP28||||https://www.youtube.com/watch?v=G0CIWvoCK6Q||||https://www.dailymotion.com/video/x7tmbfd|webdelayfulldig$$delay=1||||https://voe.sx/m64uay5rmwep|webfulldig
+#EXTINF:-1 group-title="Season 1",1.30
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4065&year=2001&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=zGX1nz1YSWg||||https://www.youtube.com/watch?v=Lsw_VJjbBZE||||https://www.dailymotion.com/video/x7tmbfc|webdelayfulldig$$delay=1||||https://voe.sx/r21drzlood3g|webfulldig
+#EXTINF:-1 group-title="Season 1",1.31
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4064&year=2001&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=0vYsx6qHY5M||||https://www.youtube.com/watch?v=Lxr9vq3g-Ig||||https://www.youtube.com/watch?v=A9OR1BR7P7o||||https://www.youtube.com/watch?v=7jighc9El3g||||https://www.youtube.com/watch?v=FCXuaVigp8o||||https://www.youtube.com/watch?v=UR9E94nMBYY||||https://www.dailymotion.com/video/x7tmbfe|webdelayfulldig$$delay=1||||https://voe.sx/4pomwveouhtb|webfulldig
+#EXTINF:-1 group-title="Season 1",1.32
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4063&year=2001&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=nveeUWKI1Ow||||https://www.youtube.com/watch?v=pO5wVJ7mWZw||||https://www.dailymotion.com/video/x7tmbul|webdelayfulldig$$delay=1||||https://voe.sx/vv2cujw1kfyi|webfulldig
+#EXTINF:-1 group-title="Season 1",1.33
+https://www.youtube.com/watch?v=lLDbPKo23pk||||https://www.youtube.com/watch?v=mdej21WnQsg||||https://voe.sx/bgrjjv8bipov|webfulldig
+#EXTINF:-1 group-title="Season 1",1.34
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4062&year=2001&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=I6cZiCisqxU||||https://www.youtube.com/watch?v=uUnqzlvqKXc||||https://www.youtube.com/watch?v=yYRnWQm-jDc||||https://www.dailymotion.com/video/x7tmbum|webdelayfulldig$$delay=1||||https://voe.sx/d78wezqaibae|webfulldig
+#EXTINF:-1 group-title="Season 1",1.35
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4061&year=2001&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=wL8fg4mSkZo||||https://www.youtube.com/watch?v=nai3jQUCY6c||||https://www.dailymotion.com/video/x7tmbun|webdelayfulldig$$delay=1||||https://voe.sx/vycsnckzqeiw|webfulldig
+#EXTINF:-1 group-title="Season 2",2.01
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4082&year=2002&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=mmwlKp5S6VE||||https://www.youtube.com/watch?v=qw3TuYjJY1k||||https://www.youtube.com/watch?v=qjSRfcXyNGE||||https://www.youtube.com/watch?v=4XXvxcAG62M||||https://www.youtube.com/watch?v=fCXbLlFYt9w||||https://voe.sx/3l0mo1wg3anm|webfulldig
+#EXTINF:-1 group-title="Season 2",2.02
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4059&year=2002&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=vYSx-4ALsJc||||https://www.youtube.com/watch?v=bw8UgrTmyvQ||||https://www.youtube.com/watch?v=7ueXpnEcBjI||||https://www.youtube.com/watch?v=H5oE-hh22zQ||||https://www.youtube.com/watch?v=7sD-RgO5asQ||||https://www.youtube.com/watch?v=sRkE_vLpWtw||||https://www.dailymotion.com/video/x6brn92|webdelayfulldig$$delay=1||||https://voe.sx/18b0kwi8kvjp|webfulldig
+#EXTINF:-1 group-title="Season 2",2.03
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4058&year=2002&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=o4EnUmo2Axk||||https://www.youtube.com/watch?v=NzlBMqwmkhM||||https://www.youtube.com/watch?v=NPDuRWwwzYE||||https://www.youtube.com/watch?v=C1Xx6TLLb_k||||https://www.youtube.com/watch?v=NlcFOXTG_aU||||https://www.youtube.com/watch?v=6wU-YFcBu2Q||||https://www.dailymotion.com/video/x6brtss|webdelayfulldig$$delay=1||||https://voe.sx/q0yaurnuqupp|webfulldig
+#EXTINF:-1 group-title="Season 2",2.04
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4057&year=2002&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=4e2-UF07hvI||||https://www.youtube.com/watch?v=TB8PpR_cKU0||||https://www.youtube.com/watch?v=lhd2bmtKG7U||||https://www.youtube.com/watch?v=3RvuseVQklA||||https://www.youtube.com/watch?v=mVQAmbsV6fE||||https://www.youtube.com/watch?v=A2evcDmecEU||||https://www.dailymotion.com/video/x7tmeex|webdelayfulldig$$delay=1||||https://voe.sx/exy12xvdjvat|webfulldig
+#EXTINF:-1 group-title="Season 2",2.05
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4056&year=2002&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=dGKTR7F1I5U||||https://www.youtube.com/watch?v=EtHLZULcXO8||||https://www.youtube.com/watch?v=l8q0mr4zlPg||||https://www.youtube.com/watch?v=GSmLL11zCPU||||https://www.youtube.com/watch?v=VgS3oPqkLMQ||||https://www.youtube.com/watch?v=R7q5PcX45KQ||||https://www.dailymotion.com/video/x7tmeh0|webdelayfulldig$$delay=1||||https://www.dailymotion.com/video/x6brpt0|webdelayfulldig$$delay=1||||https://voe.sx/llvthufnb7ka|webfulldig
+#EXTINF:-1 group-title="Season 2",2.06
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4055&year=2002&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=8CyelweQNQ8||||https://www.youtube.com/watch?v=PIRrWz9-LWY||||https://www.youtube.com/watch?v=H-HeuRSuKus||||https://www.youtube.com/watch?v=M_OlKUlcRDw||||https://www.youtube.com/watch?v=NGyVXBe3Ke0||||https://www.youtube.com/watch?v=23RQmZDaL7Y||||https://www.dailymotion.com/video/x7tmeh1|webdelayfulldig$$delay=1||||https://voe.sx/pjvdjjvl8zfi|webfulldig
+#EXTINF:-1 group-title="Season 2",2.07
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4054&year=2002&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=aDkki2rryXY||||https://www.youtube.com/watch?v=4Qq--Li1l-w||||https://www.youtube.com/watch?v=Tt9Q0LxhBsI||||https://www.youtube.com/watch?v=DBaVvWXa0dg||||https://www.youtube.com/watch?v=xGVZJsYmvOA||||https://www.youtube.com/watch?v=mxt4f38UmKU||||https://www.dailymotion.com/video/x7tmj1x|webdelayfulldig$$delay=1||||https://voe.sx/1ignzyakpwn8|webfulldig
+#EXTINF:-1 group-title="Season 2",2.08
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4053&year=2002&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=2dXbICRFGuk||||https://www.youtube.com/watch?v=cyX3zethkbE||||https://www.youtube.com/watch?v=Jie3noydLkg||||https://www.youtube.com/watch?v=Xl2oyA3pV04||||https://www.youtube.com/watch?v=wVrvAhPYXfs||||https://www.youtube.com/watch?v=eihUuDQ8sCU||||https://www.dailymotion.com/video/x7tmj2w|webdelayfulldig$$delay=1||||https://voe.sx/4xkvdzzpdgda|webfulldig
+#EXTINF:-1 group-title="Season 2",2.09
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4052&year=2002&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=4Ou33IcMDqc||||https://www.youtube.com/watch?v=Uxmpxlat8U4||||https://www.youtube.com/watch?v=cFODIRqnPZc||||https://www.youtube.com/watch?v=UWp3TJmhyJo||||https://www.youtube.com/watch?v=Py9O-oAOFuI||||https://www.youtube.com/watch?v=2R5sFWkaI8s||||https://www.dailymotion.com/video/x7tmj2x|webdelayfulldig$$delay=1||||https://voe.sx/snio4m7vwfac|webfulldig
+#EXTINF:-1 group-title="Season 2",2.10
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4051&year=2002&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=os8KqCljI6o||||https://www.youtube.com/watch?v=PCrCgNyw8_Q||||https://www.youtube.com/watch?v=wfc84BZdB4E||||https://www.youtube.com/watch?v=1ZwTdF2E-v4||||https://www.youtube.com/watch?v=paPdfodUsKc||||https://www.youtube.com/watch?v=sk4qfKunBoU||||https://www.dailymotion.com/video/x7tmnpn|webdelayfulldig$$delay=1||||https://voe.sx/x6di1uq7tg81|webfulldig
+#EXTINF:-1 group-title="Season 2",2.11
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4050&year=2002&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=z814kQr1fgQ||||https://www.youtube.com/watch?v=S7wCueIqqrI||||https://www.youtube.com/watch?v=6QCrKY__BXM||||https://www.youtube.com/watch?v=Ed5QKR3pAxY||||https://www.youtube.com/watch?v=kM6rRlLj-Y8||||https://voe.sx/csu5pk6w4cu4|webfulldig
+#EXTINF:-1 group-title="Season 2",2.12
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4049&year=2002&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=Qmcm7eY2JxQ||||https://www.youtube.com/watch?v=VLsf4OntAN0||||https://www.youtube.com/watch?v=kmt8pPBeeKc||||https://www.youtube.com/watch?v=OH9ujQ6rR6o||||https://www.youtube.com/watch?v=bjo7-2hnisI||||https://www.youtube.com/watch?v=SchtIZy4cbI||||https://www.dailymotion.com/video/x7tmru3|webdelayfulldig$$delay=1||||https://voe.sx/r3dma3qyf2et|webfulldig
+#EXTINF:-1 group-title="Season 2",2.13
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4048&year=2002&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=FLEwVFOzwjY||||https://www.youtube.com/watch?v=m2vfWEDpRYk||||https://www.youtube.com/watch?v=5gZy4v8F0Cg||||https://www.youtube.com/watch?v=8sTBvEVHat8||||https://www.youtube.com/watch?v=RQ-c-jA-CBc||||https://www.youtube.com/watch?v=wq2UgT6LU0E||||https://voe.sx/filwrz1zve5x|webfulldig
+#EXTINF:-1 group-title="Season 2",2.14
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4047&year=2002&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=-Yqh2IGCmHk||||https://www.youtube.com/watch?v=h5guM08Lm7w||||https://www.youtube.com/watch?v=QccEt8-PUT8||||https://www.youtube.com/watch?v=rTqvH54KrAA||||https://www.youtube.com/watch?v=D46i701y2fE||||https://www.youtube.com/watch?v=XPO6o2sfQ0o||||https://www.youtube.com/watch?v=8fNfrehCBBE||||https://voe.sx/ue32updvwqkf|webfulldig
+#EXTINF:-1 group-title="Season 2",2.15
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4046&year=2002&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=RY8RghbAyOs||||https://www.youtube.com/watch?v=DH8k670qlQc||||https://www.youtube.com/watch?v=zYGPM3ecfvw||||https://www.youtube.com/watch?v=G-3R2oY068g||||https://www.youtube.com/watch?v=lTHK5JDzO4E||||https://voe.sx/mp1etm6m34wa|webfulldig
+#EXTINF:-1 group-title="Season 2",2.16
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4045&year=2002&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=RQkAIYFg0sQ||||https://www.youtube.com/watch?v=CskkgmJO52Q||||https://www.youtube.com/watch?v=CzOznJm6-r4||||https://www.youtube.com/watch?v=asiJhNeTNBA||||https://www.youtube.com/watch?v=RUaieKcdico||||https://www.youtube.com/watch?v=C1uD6eRLDJc||||https://voe.sx/0ulvjoahrain|webfulldig
+#EXTINF:-1 group-title="Season 2",2.17
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4044&year=2002&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=RmwViZE49-c||||https://www.youtube.com/watch?v=2hrrobwZncU||||https://www.youtube.com/watch?v=Nzr4zvdjCPI||||https://www.youtube.com/watch?v=k8gugd5k2_A||||https://www.youtube.com/watch?v=A2GsluFNcQc||||https://www.youtube.com/watch?v=wSW0GMopubE||||https://voe.sx/1rlre18wt9lt|webfulldig
+#EXTINF:-1 group-title="Season 2",2.18
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4043&year=2002&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=K_8okBN1aZs||||https://www.youtube.com/watch?v=2XAROoI9kzA||||https://www.youtube.com/watch?v=1eaJkillZ6c||||https://www.youtube.com/watch?v=z5Z_YqGEVVg||||https://www.youtube.com/watch?v=qjVueUqK0rU||||https://www.youtube.com/watch?v=Z5Zhtjw994s||||https://voe.sx/yiafau5npaxf|webfulldig
+#EXTINF:-1 group-title="Season 2",2.19
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4042&year=2002&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=hJJojoTaUrQ||||https://www.youtube.com/watch?v=hj8hSug0BSw||||https://www.youtube.com/watch?v=HW8ZUzPZI2s||||https://www.youtube.com/watch?v=4dKfkWTRsA0||||https://www.youtube.com/watch?v=-zlI1SqLqSI||||https://voe.sx/oghmfjvkljy9|webfulldig
+#EXTINF:-1 group-title="Season 2",2.20
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4041&year=2002&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=iqZcn9JJDac||||https://www.youtube.com/watch?v=juWxiwZZF7I||||https://www.youtube.com/watch?v=ZxZgvKqg_A8||||https://www.youtube.com/watch?v=s1MzNUyzys4||||https://www.youtube.com/watch?v=IEJpCXt9cWY||||https://www.youtube.com/watch?v=qW7vdmdjlYU||||https://voe.sx/qtv7pdoqkpbs|webfulldig
+#EXTINF:-1 group-title="Season 2",2.21
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4040&year=2002&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=yubIfRTiJWw||||https://www.youtube.com/watch?v=vzWOFI24mJM||||https://www.youtube.com/watch?v=QDSIPTWb6Z8||||https://www.youtube.com/watch?v=MdrlVSEaUls||||https://www.youtube.com/watch?v=vmWLG7aOJyY||||https://www.youtube.com/watch?v=x7XVaRaU2Vk||||https://voe.sx/sm8o4xbwfgdu|webfulldig
+#EXTINF:-1 group-title="Season 2",2.22
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4039&year=2002&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=larMiossiPs||||https://www.youtube.com/watch?v=EFPXi4GFMHw||||https://www.youtube.com/watch?v=L5bw53t1OI0||||https://www.youtube.com/watch?v=jSRDm_2Gp9w||||https://voe.sx/edyuczjr3zcv|webfulldig
+#EXTINF:-1 group-title="Season 2",2.23
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4038&year=2002&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=-BGeGKLNhR0||||https://www.youtube.com/watch?v=XfeWlEDWQdo||||https://www.youtube.com/watch?v=ME7nBNE-S5I||||https://www.youtube.com/watch?v=poHK4EK1Xec||||https://www.youtube.com/watch?v=nW2LehOiwto||||https://voe.sx/2k2hwrkedwrf|webfulldig
+#EXTINF:-1 group-title="Season 2",2.24
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4037&year=2002&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=smxlXiSnNcw||||https://www.youtube.com/watch?v=3aQs82o3g5c||||https://www.youtube.com/watch?v=2g9PuVeLLF8||||https://www.youtube.com/watch?v=YZ9u2-eoJLQ||||https://www.youtube.com/watch?v=WMr4Seq1YFU||||https://www.youtube.com/watch?v=LNlmHPdHcKM||||https://voe.sx/y2digghbpkfi|webfulldig
+#EXTINF:-1 group-title="Season 2",2.25
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4036&year=2002&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=knxC0R49QbU||||https://www.youtube.com/watch?v=5l6_Yonb6KI||||https://www.youtube.com/watch?v=ImHNKnvswqI||||https://www.youtube.com/watch?v=YVHWRVbVQ40||||https://www.youtube.com/watch?v=BzNZ3zAvxyI||||https://www.youtube.com/watch?v=CLZiNzXvFK4||||https://voe.sx/h8x5wa2wnloc|webfulldig
+#EXTINF:-1 group-title="Season 2",2.26
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4035&year=2002&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=-UAh2w_Zefg||||https://www.youtube.com/watch?v=wrLXlonsHdA||||https://www.youtube.com/watch?v=dbkl6gWv7hE||||https://www.youtube.com/watch?v=4waiqWWS1eU||||https://www.youtube.com/watch?v=d04NOg1mxYA||||https://www.youtube.com/watch?v=tJo-YmnwFck||||https://voe.sx/wr8ibce7ufnn|webfulldig
+#EXTINF:-1 group-title="Season 2",2.27
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4034&year=2002&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=q05Nq3pAd74||||https://www.youtube.com/watch?v=n4zMnZ8z3_g||||https://www.youtube.com/watch?v=oLb8G63amKs||||https://www.youtube.com/watch?v=ZPyiRMqD55s||||https://www.youtube.com/watch?v=GNjbxD0eIWU||||https://voe.sx/vr6e7n0orgrg|webfulldig
+#EXTINF:-1 group-title="Season 2",2.28
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4033&year=2002&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=PRztauwYlV0||||https://www.youtube.com/watch?v=MQ-nAB1ojuQ||||https://www.youtube.com/watch?v=06K6uPc2A6Y||||https://www.youtube.com/watch?v=tWUlddnqJIU||||https://www.youtube.com/watch?v=XsKHd3D0Olc||||https://www.youtube.com/watch?v=ULkyLcUSdck||||https://voe.sx/axeci2cmaerv|webfulldig
+#EXTINF:-1 group-title="Season 2",2.29
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4032&year=2002&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=Gq28_MjKyvY||||https://www.youtube.com/watch?v=f3ZdsFSZeAc||||https://www.youtube.com/watch?v=5uvHyg6eOYk||||https://www.youtube.com/watch?v=PhDYcbcUhkE||||https://www.youtube.com/watch?v=5zvOoXf53ug||||https://www.youtube.com/watch?v=fNJxnk9NhHo||||https://www.youtube.com/watch?v=xIx-7jEkT8I||||https://voe.sx/tjn9ixhofyyy|webfulldig
+#EXTINF:-1 group-title="Season 2",2.30
+https://www.alphatv.gr/show/tha-se-do-sto-ploio/epeisodia_tha-se-do-sto-ploio/?vtype=episodes&vid=4031&year=2002&showId=718|webvidfulldig||||https://www.youtube.com/watch?v=rKTSopQb54E||||https://www.youtube.com/watch?v=0Aiv7A_THtI||||https://www.youtube.com/watch?v=RvXyKaxre6Y||||https://www.youtube.com/watch?v=UUxVtft2k4Q||||https://www.youtube.com/watch?v=S4V4XIKn6w0||||https://www.youtube.com/watch?v=hjG9Gob-RU8||||https://voe.sx/2ubfzonktign|webfulldig||||https://voe.sx/iuct1rs0bnbk|webfulldig||||https://voe.sx/cfshkmk5qqgb|webfulldig||||https://voe.sx/erqzta36vtqs|webfulldig
