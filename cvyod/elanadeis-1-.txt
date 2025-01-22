@@ -178,3 +178,7 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=210001&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=210009&-V=vod|webfulldig
 #EXTINF:-1 group-title="2024-2025",17/01/2025 ΕΛΑ ΝΑ ΔΕΙΣ
 https://www.omegatv.com.cy/cgibin/hweb?-A=210017&-V=vod|webfulldig
+#EXTINF:-1 group-title="2024-2025",20/01/2025 ΕΛΑ ΝΑ ΔΕΙΣ
+https://www.omegatv.com.cy/cgibin/hweb?-A=210120&-V=vod|webfulldig
+#EXTINF:-1 group-title="2024-2025",21/01/2025 ΕΛΑ ΝΑ ΔΕΙΣ
+https://www.omegatv.com.cy/cgibin/hweb?-A=210161&-V=vod|webfulldig

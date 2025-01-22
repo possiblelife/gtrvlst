@@ -1476,3 +1476,7 @@ https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/nikos-ap
 https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/100125|webvidfulldig
 #EXTINF:-1 group-title="Season 8",Ελεωνόρα Ζουγανέλη
 https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/eleonora-zoyganeli|webvidfulldig
+#EXTINF:-1 group-title="Season 8",17/01/25
+https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/170125|webvidfulldig
+#EXTINF:-1 group-title="Season 8",Βλαδίμηρος Κυριακίδης
+https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/bladimiros-kyriakidis|webvidfulldig

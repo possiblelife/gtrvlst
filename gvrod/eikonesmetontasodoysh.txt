@@ -894,6 +894,10 @@ https://www.tvopen.gr/watch/229170/kroyazierastoagalmathseleytherias|webfulldig
 https://www.tvopen.gr/watch/230446/totaxidixekinaeimethntynidathnproteyoysathstynhsias|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ξενάγηση στα ερείπια της αρχαίας πόλης της Καρχηδόνας
 https://www.tvopen.gr/watch/230447/xenaghshstaereipiathsarxaiaspolhsthskarxhdonas|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Ξημέρωμα μέσα στην όαση της Τζεμπίκα
+https://www.tvopen.gr/watch/231086/xhmeromamesasthnoashthstzempika|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Το αφιλόξενο περιβάλλον της ερήμου Σαχάρα
+https://www.tvopen.gr/watch/231087/toafiloxenoperiballonthserhmoysaxara|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Καππαδοκία, Α' μέρος
 https://www.tvopen.gr/watch/2307/eikonesmetontasodoysh7ckappadokiaameros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση |  Καππαδοκία Β' Μέρος
@@ -1340,3 +1344,5 @@ https://www.tvopen.gr/watch/228512/eikonesmetontasodoyshneayorkhbmeros|webfulldi
 https://www.tvopen.gr/watch/228513/eikonesmetontasodoyshneayorkhgmeros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση – Τυνησία Α Μέρος
 https://www.tvopen.gr/watch/230233/eikonesmetontasodoyshtynhsiaameros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση – Τυνησία Β Μέρος
+https://www.tvopen.gr/watch/231000/eikonesmetontasodoyshtynhsiabmeros|webfulldig
