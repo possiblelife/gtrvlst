@@ -307,171 +307,171 @@ http://.....
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.megatv.com/allshows/#GreekSeries|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2023/07/POSTER_FAMAGUSTA.jpg" tvg-website="https://www.megatv.com/ekpompes/1135061/famagusta/" ,Famagusta (2023-2025)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/famagusta.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/famagusta.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2024/07/POSTER_ΠΑΙΔΙΑ-copy.jpg" tvg-website="https://www.megatv.com/ekpompes/1619195/exo-paidia/" ,Έχω Παιδιά (2024-2025)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/exo-paidia.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/exo-paidia.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2023/09/POSTER_-copy.jpg" tvg-website="https://www.megatv.com/ekpompes/464758/i-gi-tis-elias/" ,Η Γη της Ελιάς (2021-2025)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/i-gi-tis-elias.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/i-gi-tis-elias.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2024/07/POSTER_ΤΑΜΠΟΥ-2.jpg" tvg-website="https://www.megatv.com/ekpompes/1618499/tampou/" ,Ταμπού (2024-2025)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/tampou.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/tampou.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2009/09/LOVE-SORRY-min.jpg" tvg-website="https://www.megatv.com/ekpompes/43319/love-sorry/" ,Love Sorry
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/love-sorry.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/love-sorry.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/09/SINGLES-1.jpg" tvg-website="https://www.megatv.com/ekpompes/43287/singles/" ,Singles
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/singles.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/singles.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/09/SINGLES-2.jpg" tvg-website="https://www.megatv.com/ekpompes/43292/singles-2/" ,Singles 2
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/singles-2.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/singles-2.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2008/07/SINGLES-2-1_2.jpg" tvg-website="https://www.megatv.com/ekpompes/42634/singles-2-1-2-2/" ,Singles 2 1/2
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/singles-2-1-2-2.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/singles-2-1-2-2.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2008/07/SINGLES-3.jpg" tvg-website="https://www.megatv.com/ekpompes/42682/singles-3-2/" ,Singles 3
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/singles-3-2.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/singles-3-2.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2009/03/ΑΜΑΡΤΙΕΣ-ΓΟΝΕΩΝ.jpg" tvg-website="https://www.megatv.com/ekpompes/43113/amarties-gonen-2/" ,Αμαρτίες Γονέων
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/amarties-gonen-2.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/amarties-gonen-2.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/09/ΑΝ-ΘΥΜΗΘΕΙΣ-ΤΟ-ΟΝΕΙΡΟ-ΜΟΥ-1.jpg" tvg-website="https://www.megatv.com/ekpompes/43244/an-thumitheis-to-oneiro-mou/" ,Αν Θυμηθείς το Ονειρό μου
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/an-thumitheis-to-oneiro-mou.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/an-thumitheis-to-oneiro-mou.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2014/02/ΑΝΑΣΤΑΣΙΑ-min-3.jpg" tvg-website="https://www.megatv.com/ekpompes/43325/anastasia/" ,Αναστασία
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/anastasia.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/anastasia.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/09/ΑΠΛΗ-ΜΕΘΟΔΟΣ-ΤΩΝ-ΤΡΙΩΝ-1.jpg" tvg-website="https://www.megatv.com/ekpompes/43212/apli-methodos-tn-trin/" ,Απλή Μέθοδος των Τριών
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/apli-methodos-tn-trin.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/apli-methodos-tn-trin.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2010/07/POSTER_APON.jpg" tvg-website="https://www.megatv.com/ekpompes/43350/apn/" ,Απών
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/apn.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/apn.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2008/09/ΑΣΥΝΗΘΕΙΣ-ΥΠΟΠΤΟΙ.jpg" tvg-website="https://www.megatv.com/ekpompes/42911/asunitheis-upoptoi-2/" ,Ασυνήθεις Υποπτοι
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/asunitheis-upoptoi-2.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/asunitheis-upoptoi-2.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2013/07/ΑΧ-ΕΛΕΝΗ-min-2.jpg" tvg-website="https://www.megatv.com/ekpompes/43380/ax-eleni/" ,Αχ! Ελένη
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ax-eleni.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/ax-eleni.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/09/ΒΕΡΑ-ΣΤΟ-ΔΕΞΙ-2.jpg" tvg-website="https://www.megatv.com/ekpompes/43225/vera-sto-deksi/" ,Βέρα στο Δεξί
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/vera-sto-deksi.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/vera-sto-deksi.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2021/12/ΒΙΟΣ-ΑΝΘΟΣΠΑΡΤΟΣ-min.jpg" tvg-website="https://www.megatv.com/ekpompes/564704/vios-anthospartos/" ,Βίος Ανθόσπαρτος
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/vios-anthospartos.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/vios-anthospartos.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/09/ΔΕΚΑ-ΛΕΠΤΑ-ΚΗΡΥΓΜΑ-min-1.jpg" tvg-website="https://www.megatv.com/ekpompes/43285/deka-lepta-khrygma/" ,Δέκα Λεπτά Κήρυγμα
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/deka-lepta-khrygma.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/deka-lepta-khrygma.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/09/ΔΥΟ-ΞΕΝΟΙ-3.jpg" tvg-website="https://www.megatv.com/ekpompes/43265/duo-ksenoi/" ,Δύο Ξένοι
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/duo-ksenoi.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/duo-ksenoi.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2024/01/ΕΘΝΙΚΗ-ΕΛΛΑΔΟΣ-2.jpg" tvg-website="https://www.megatv.com/ekpompes/1356374/ethniki-ellados/" ,Εθνική Ελλάδος
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ethniki-ellados.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/ethniki-ellados.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/09/ΕΙΜΑΣΤΕ-ΣΤΟΝ-ΑΕΡΑ-1.jpg" tvg-website="https://www.megatv.com/ekpompes/43348/eimaste-ston-aera/" ,Είμαστε στον Αέρα
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/eimaste-ston-aera.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/eimaste-ston-aera.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2013/04/ΕΙΣΑΙ-ΤΟ-ΤΑΙΡΙ-ΜΟΥ-1.jpg" tvg-website="https://www.megatv.com/ekpompes/43098/eisai-to-tairi-mou-2/" ,Είσαι το Ταίρι μου
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/eisai-to-tairi-mou-2.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/eisai-to-tairi-mou-2.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2022/07/ΕΚΜΕΚ-ΠΑΓΩΤΟ-min.jpg" tvg-website="https://www.megatv.com/ekpompes/43404/ekmek-pagto/" ,Εκμέκ Παγωτό
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ekmek-pagto.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/ekmek-pagto.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/09/ΕΜΕΙΣ-ΚΑΙ-ΕΜΕΙΣ.jpg" tvg-website="https://www.megatv.com/ekpompes/42594/emeis-kai-emeis-2/" ,Εμείς και Εμείς
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/emeis-kai-emeis-2.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/emeis-kai-emeis-2.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2008/07/POSTER_ΕΝΑΣ-ΜΗΝΑΣ-ΚΑΙ-ΚΑΤΙ.jpg" tvg-website="https://www.megatv.com/ekpompes/42610/enas-minas-kai-kati-2/" ,Ένας Μήνας και Κάτι
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/enas-minas-kai-kati-2.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/enas-minas-kai-kati-2.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2009/07/ΕΝΟΧΗ-ΑΓΑΠΗ-min-1.jpg" tvg-website="https://www.megatv.com/ekpompes/43299/enoxi-agapi/" ,Ενοχη Αγάπη
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/enoxi-agapi.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/enoxi-agapi.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2012/12/epifania-1.jpg" tvg-website="https://www.megatv.com/ekpompes/43270/epifaneia/" ,Επιφάνεια
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/epifaneia.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/epifaneia.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/09/ΕΠΤΑ-ΘΑΝΑΣΙΜΕΣ-ΠΕΘΕΡΕΣ-min.jpg" tvg-website="https://www.megatv.com/ekpompes/43317/epta-thanasimes-petheres/" ,Επτά Θανάσιμες Πεθερές
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/epta-thanasimes-petheres.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/epta-thanasimes-petheres.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/09/POSTER_ENAS_MHNAS_KAI_KATI.jpg" tvg-website="https://www.megatv.com/ekpompes/43261/erastis-dutikn-proastin/" ,Εραστής Δυτικών Προαστίων
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/erastis-dutikn-proastin.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/erastis-dutikn-proastin.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2008/07/ΕΣΥ-ΦΤΑΙΣ.jpg" tvg-website="https://www.megatv.com/ekpompes/42630/esu-ftais-2/" ,Εσύ Φταίς
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/esu-ftais-2.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/esu-ftais-2.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/09/ΕΥΤΥΧΙΣΜΕΝΟΙ-ΜΑΖΙ-1-2.jpg" tvg-website="https://www.megatv.com/ekpompes/43235/eutuxismenoi-mazi/" ,Ευτυχισμένοι Μαζί
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/eutuxismenoi-mazi.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/eutuxismenoi-mazi.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2021/12/Η-ΕΛΙΖΑ-ΚΑΙ-ΟΙ-ΑΛΛΟΙ.jpg" tvg-website="https://www.megatv.com/ekpompes/561443/i-eliza-kai-oi-alloi/" ,Η Ελίζα και οι Άλλοι
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/i-eliza-kai-oi-alloi.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/i-eliza-kai-oi-alloi.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/09/Η-ΩΡΑ-Η-ΚΑΛΗ-2.jpg" tvg-website="https://www.megatv.com/ekpompes/43233/i-ra-i-kali/" ,Η Ωρα η Καλή
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/i-ra-i-kali.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/i-ra-i-kali.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2008/09/ΗΡΘΕ-ΚΑΙ-ΕΔΕΣΕ.jpg" tvg-website="https://www.megatv.com/ekpompes/43063/irthe-ki-edese-2/" ,Ηρθε κι Εδεσε
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/irthe-ki-edese-2.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/irthe-ki-edese-2.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2009/03/1.png" tvg-website="https://www.megatv.com/ekpompes/43278/thumata-eirinis/" ,Θύματα Ειρήνης
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/thumata-eirinis.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/thumata-eirinis.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2011/11/ΙΕΡΗ-ΟΙΚΟΓΕΝΕΙΑ.jpg" tvg-website="https://www.megatv.com/ekpompes/43365/ieri-oikogeneia/" ,Ιερή Οικογένεια
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ieri-oikogeneia.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/ieri-oikogeneia.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2008/07/ΙΧΝΗ.jpg" tvg-website="https://www.megatv.com/ekpompes/42636/ixni-2/" ,Ιχνη
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ixni-2.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/ixni-2.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2008/07/ΚΑΙ-ΠΑΛΙ-ΦΙΛΟΙ.jpg" tvg-website="https://www.megatv.com/ekpompes/42614/kai-pali-filoi-2/" ,Και Πάλι Φίλοι
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/kai-pali-filoi-2.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/kai-pali-filoi-2.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2008/07/1-3.jpg" tvg-website="https://www.megatv.com/ekpompes/42646/kapou-se-kser-2/" ,Κάπου σε Ξέρω
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/kapou-se-kser-2.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/kapou-se-kser-2.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2008/10/ΚΑΡΕ-ΤΗΣ-ΝΤΑΜΑΣ.jpg" tvg-website="https://www.megatv.com/ekpompes/43089/kare-tis-ntamas-2/" ,Καρέ της Ντάμας
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/kare-tis-ntamas-2.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/kare-tis-ntamas-2.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/09/ΚΑΤΙ-ΤΡΕΧΕΙ-ΜΕ-ΤΟΥΣ-ΔΙΠΛΑ-1.jpg" tvg-website="https://www.megatv.com/ekpompes/43228/kati-trexei-me-tous-dipla/" ,Κάτι Τρέχει με τους Δίπλα
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/kati-trexei-me-tous-dipla.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/kati-trexei-me-tous-dipla.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/10/ΚΑΤΩ-ΠΑΡΤΑΛΙ-2.jpg" tvg-website="https://www.megatv.com/ekpompes/135359/kato-partali/" ,Κάτω Παρτάλι
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/kato-partali.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/kato-partali.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2009/10/3.png" tvg-website="https://www.megatv.com/ekpompes/42825/mega-sex-kleise-ta-matia-2/" ,Κλείσε τα Μάτια
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega-sex-kleise-ta-matia-2.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/mega-sex-kleise-ta-matia-2.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2008/08/ΛΑΤΡΕΜΕΝΟΙ-ΜΟΥ-ΓΕΙΤΟΝΕΣ-6.jpg" tvg-website="https://www.megatv.com/ekpompes/42963/latremenoi-mou-geitones/" ,Λατρεμένοι μου Γείτονες
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/latremenoi-mou-geitones.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/latremenoi-mou-geitones.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2008/09/LAPD-1.jpg" tvg-website="https://www.megatv.com/ekpompes/42749/l-a-p-d/" ,L.A.P.D.
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/l-a-p-d.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/l-a-p-d.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2009/09/ΛΕΝΗ.jpg" tvg-website="https://www.megatv.com/ekpompes/43318/leni/" ,Λένη
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/leni.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/leni.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/09/ΜΑΡΙΑ-Η-ΑΣΧΗΜΗ-min.jpg" tvg-website="https://www.megatv.com/ekpompes/43200/maria-i-asximi/" ,Μαρία η Άσχημη
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/maria-i-asximi.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/maria-i-asximi.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2009/10/ΜΙΛΑ-ΜΟΥ-ΒΡΩΜΙΚΑ-min.jpg" tvg-website="https://www.megatv.com/ekpompes/43322/mila-mou-vrmika/" ,Μίλα μου Βρώμικα
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mila-mou-vrmika.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/mila-mou-vrmika.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/09/ΜΑΥΡΑ-ΜΕΣΑΝΥΧΤΑ-2.jpg" tvg-website="https://www.megatv.com/ekpompes/43238/maura-mesanuxta/" ,Μαύρα Μεσάνυχτα
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/maura-mesanuxta.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/maura-mesanuxta.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2008/07/ΜΕ-ΔΥΟ-ΜΑΜΑΔΕΣ.jpg" tvg-website="https://www.megatv.com/ekpompes/42628/me-duo-mamades-2/" ,Με Δύο Μαμάδες
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/me-duo-mamades-2.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/me-duo-mamades-2.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2008/07/metrao-stigmes-2.jpg" tvg-website="https://www.megatv.com/ekpompes/42618/metra-stigmes-2/" ,Μετράω Στιγμές
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/metra-stigmes-2.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/metra-stigmes-2.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/09/ΜΙΚΡΟΜΕΣΑΙΟΙ.jpg" tvg-website="https://www.megatv.com/ekpompes/43168/mikromesaioi-2/" ,Μικρομεσαίοι
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mikromesaioi-2.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/mikromesaioi-2.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/09/ΜΠΑΜΠΑ-ΜΗΝ-ΤΡΕΧΕΙΣ-1.jpg" tvg-website="https://www.megatv.com/ekpompes/43205/mpampa-min-trexeis/" ,Μπαμπά μην Τρέχεις
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mpampa-min-trexeis.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/mpampa-min-trexeis.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2022/07/ΜΠΕΛΑΔΕΣ-ΓΙΑ-ΔΥΟ-min-237x300-1.jpg" tvg-website="https://www.megatv.com/ekpompes/43131/mpelades-gia-duo-2/" ,Μπελάδες για Δύο
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mpelades-gia-duo-2.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/mpelades-gia-duo-2.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/09/ΝΤΟΛΤΣΕ-ΒΙΤΑ-2.jpg" tvg-website="https://www.megatv.com/ekpompes/43343/ntoltse-vita/" ,Ντόλτσε Βίτα
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ntoltse-vita.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/ntoltse-vita.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/09/Ο-3ος-ΝΟΜΟΣ.jpg" tvg-website="https://www.megatv.com/ekpompes/43347/o-3os-nomos/" ,Ο 3ος Νόμος
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/o-3os-nomos.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/o-3os-nomos.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2021/06/Ο-ΚΑΚΟΣ-ΒΕΖΥΡΗΣ.jpg" tvg-website="https://www.megatv.com/ekpompes/414896/o-kakos-vezyris/" ,Ο Κακός Βεζύρης
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/o-kakos-vezyris.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/o-kakos-vezyris.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2008/09/AiWpIB81ZNhAiSJW2MFYJhHfRVn.jpg" tvg-website="https://www.megatv.com/ekpompes/42918/o-megalos-thumos/" ,Ο Μεγάλος Θυμός
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/o-megalos-thumos.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/o-megalos-thumos.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/09/Ο-ΠΕΤΡΟΣ-ΚΑΙ-ΤΑ-ΚΟΡΙΤΣΙΑ-ΤΟΥ-1.jpg" tvg-website="https://www.megatv.com/ekpompes/43288/petros-kai-ta-koritsia-tou/" ,Ο Πέτρος και τα Κορίτσια του
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/petros-kai-ta-koritsia-tou.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/petros-kai-ta-koritsia-tou.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2008/12/ΟΙ-ΑΝΔΡΕΣ-ΔΕΝ-ΥΠΑΡΧΟΥΝ-ΠΙΑ-min-1.jpg" tvg-website="https://www.megatv.com/ekpompes/43102/oi-andres-den-uparxoun-pia-2/" ,Οι Άνδρες δεν Υπάρχουν Πια
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/oi-andres-den-uparxoun-pia-2.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/oi-andres-den-uparxoun-pia-2.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2008/07/ΟΙ-ΑΤΑΙΡΙΑΣΤΟΙ.jpg" tvg-website="https://www.megatv.com/ekpompes/43231/oi-atairiastoi/" ,Οι Αταίριαστοι
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/oi-atairiastoi.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/oi-atairiastoi.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2024/06/POSTER_ΤΡΕΙΣ-ΧΑΡΙΤΕΣ-2.jpg" tvg-website="https://www.megatv.com/ekpompes/1575476/treis-xarites/" ,Οι Τρεις Χάριτες
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/treis-xarites.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/treis-xarites.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2021/08/ΟΙ-ΑΠΑΡΑΔΕΚΤΟΙ.jpg" tvg-website="https://www.megatv.com/ekpompes/43303/aparadektoi/" ,Οι Απαράδεκτοι
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/aparadektoi.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/aparadektoi.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2016/09/ΟΤΑΝ-Ο-ΧΑΡΗΣ-ΧΩΡΙΣΕ-ΤΗΝ-ΜΑΙΡΗ.jpg" tvg-website="https://www.megatv.com/ekpompes/43400/otan-o-xaris-xrise-ti-mairi/" ,Οταν ο Χάρης Χώρισε τη Μαίρη
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/otan-o-xaris-xrise-ti-mairi.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/otan-o-xaris-xrise-ti-mairi.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/09/ΠΑΡΑΛΛΗΛΟΙ-ΔΡΟΜΟΙ-1.jpg" tvg-website="https://www.megatv.com/ekpompes/43360/paralliloi-dromoi/" ,Παράλληλοι Δρόμοι
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/paralliloi-dromoi.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/paralliloi-dromoi.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/09/50-50-1.jpg" tvg-website="https://www.megatv.com/ekpompes/43207/peninta-peninta/" ,Πενήντα Πενήντα
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/peninta-peninta.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/peninta-peninta.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/09/ΠΕΡΙ-ΑΝΕΜΩΝ-ΚΑΙ-ΥΔΑΤΩΝ-1.jpg" tvg-website="https://www.megatv.com/ekpompes/43241/peri-anemn-kai-udatn/" ,Περί Ανέμων και Υδάτων
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/peri-anemn-kai-udatn.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/peri-anemn-kai-udatn.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2013/04/ΠΙΣΩ-ΣΤΟ-ΣΠΙΤΙ.jpg" tvg-website="https://www.megatv.com/ekpompes/43364/pis-sto-spiti/" ,Πίσω στο Σπίτι
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/pis-sto-spiti.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/pis-sto-spiti.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2008/07/2.png" tvg-website="https://www.megatv.com/ekpompes/43217/poluthrona-gia-treis/" ,Πολυθρόνα για Τρείς
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/poluthrona-gia-treis.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/poluthrona-gia-treis.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/09/ΣΑΒΒΑΤΟΓΕΝΝΗΜΕΝΕΣ.jpg" tvg-website="https://www.megatv.com/ekpompes/43202/savvatogennimenes/" ,Σαββατογεννημένες
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/savvatogennimenes.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/savvatogennimenes.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2009/02/ΣΚΥΛΙΣΙΑ-ΖΩΗ.jpg" tvg-website="https://www.megatv.com/ekpompes/43109/skulisia-zi-2/" ,Σκυλίσια Ζωή
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skulisia-zi-2.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/skulisia-zi-2.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2010/09/ΣΤΗΝ-ΚΟΨΗ-ΤΟΥ-ΞΥΡΑΦΙΟΥ.jpg" tvg-website="https://www.megatv.com/ekpompes/43355/stin-koi-tou-ksurafiou/" ,Στη Κόψη του Ξυραφιού
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/stin-koi-tou-ksurafiou.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/stin-koi-tou-ksurafiou.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/09/ΣΤΟ-ΠΑΡΑΠΕΝΤΕ-min.jpg" tvg-website="https://www.megatv.com/ekpompes/43346/sto-para-pente/" ,Στο Παρά Πέντε
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/sto-para-pente.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/sto-para-pente.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2009/06/ΤΖΙΒΑΕΡΙ.jpg" tvg-website="https://www.megatv.com/ekpompes/43291/tzivaeri/" ,Τζιβαέρι
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/tzivaeri.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/tzivaeri.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2008/07/ΤΗΛΕΜΠΟΡΑ.jpg" tvg-website="https://www.megatv.com/ekpompes/42624/tilempora-2/" ,Τηλεμπόρα
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/tilempora-2.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/tilempora-2.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2009/08/ΤΟ-ΔΙΣ-ΕΞΑΜΑΡΤΕΙΝ_2-2.jpg" tvg-website="https://www.megatv.com/ekpompes/43308/dis-eksamartein/" ,Το Δις Εξαμαρτείν
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/dis-eksamartein.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/dis-eksamartein.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/09/ΤΟ-ΚΟΚΚΙΝΟ-ΔΩΜΑΤΙΟ-2.jpg" tvg-website="https://www.megatv.com/ekpompes/43226/to-kokkino-dmatio/" ,Το Κόκκινο Δωμάτιο
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/to-kokkino-dmatio.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/to-kokkino-dmatio.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/09/ΤΟ-ΡΕΤΙΡΕ-1.jpg" tvg-website="https://www.megatv.com/ekpompes/43210/retire/" ,Το Ρετιρέ
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/retire.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/retire.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2022/07/ΤΟ-ΣΠΙΤΙ-ΤΗΣ-ΕΜΜΑΣ.jpg" tvg-website="https://www.megatv.com/ekpompes/43382/to-spiti-tis-emmas/" ,Το Σπίτι της Έμμας
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/to-spiti-tis-emmas.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/to-spiti-tis-emmas.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2008/09/ΦΙΛΟΔΟΞΙΕΣ-1.jpg" tvg-website="https://www.megatv.com/ekpompes/43252/filodoksies/" ,Φιλοδοξίες
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/filodoksies.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/filodoksies.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2009/07/figame-2.jpg" tvg-website="https://www.megatv.com/ekpompes/43158/fugame/" ,Φύγαμε
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/fugame.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/fugame.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2010/07/ΨΙΘΥΡΟΙ-ΚΑΡΔΙΑΣ.jpg" tvg-website="https://www.megatv.com/ekpompes/43351/ithuroi-kardias-kokkino-san-ti-fti/" ,Ψίθυροι Καρδιάς
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ithuroi-kardias-kokkino-san-ti-fti.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/ithuroi-kardias-kokkino-san-ti-fti.txt
 
 
 
@@ -486,27 +486,27 @@ http://.....
 #EXTINF:-1 group-title="MEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" ,ΟΛΕΣ ΟΙ ΕΚΠΟΜΠΕΣ
 https://www.megatv.com/showtype/entertainment/|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="MEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2024/10/websiteposter-15.png" tvg-website="https://www.megatv.com/ekpompes/1708248/al-tsantiri-niouz/" ,Αλ Τσαντίρι Νιουζ
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/al-tsantiri-niouz.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/ekpompes/al-tsantiri-niouz.txt
 #EXTINF:-1 group-title="MEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2024/08/POSTER_SKORDA.jpg" tvg-website="https://www.megatv.com/ekpompes/1626779/buongiorno/" ,Buongiorno
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/buongiorno.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/ekpompes/buongiorno.txt
 #EXTINF:-1 group-title="MEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2022/09/ellinikestainiesposter-1.png" tvg-website="https://www.megatv.com/ekpompes/506423/the-chase/" ,The Chase
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/the-chase.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/ekpompes/the-chase.txt
 #EXTINF:-1 group-title="MEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2022/09/POSTER_AKOMA-2.jpg" tvg-website="https://www.megatv.com/ekpompes/1154246/akoma-den-eides-tipota/" ,Ακόμα Δεν Είδες Τίποτα!
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/akoma-den-eides-tipota.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/ekpompes/akoma-den-eides-tipota.txt
 #EXTINF:-1 group-title="MEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2023/11/POSTER__ΜΙΑΦΟΡΑΣΤΑΔΕΚΑΧΡΟΝΙΑ-copy.jpg" tvg-website="https://www.megatv.com/ekpompes/1253207/mia-fora-sta-10-xronia/" ,Μια Φορά στα 10 Χρόνια
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mia-fora-sta-10-xronia.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/ekpompes/mia-fora-sta-10-xronia.txt
 #EXTINF:-1 group-title="MEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2022/09/ΟΛΑ-ΓΙΑ-ΤΗ-ΖΩΗ-ΜΑΣ.jpg" tvg-website="https://www.megatv.com/ekpompes/510160/ola-gia-ti-zoi-mas/" ,Όλα για τη Ζωή μας Vita
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ola-gia-ti-zoi-mas.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/ekpompes/ola-gia-ti-zoi-mas.txt
 #EXTINF:-1 group-title="MEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2022/09/POSTER_DANAH.jpg" tvg-website="https://www.megatv.com/ekpompes/55262/pame-danai/" ,Πάμε Δανάη!
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/pame-danai.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/ekpompes/pame-danai.txt
 #EXTINF:-1 group-title="MEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2021/06/POSTER_SPITI_MEGA_XATZHGIANNHS-copy.jpg" tvg-website="https://www.megatv.com/ekpompes/119434/spiti-me-to-mega/" ,Σπίτι με το Mega
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/spiti-me-to-mega.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/ekpompes/spiti-me-to-mega.txt
 #EXTINF:-1 group-title="MEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2022/09/ΦΩΣ-ΣΤΟ-ΤΟΥΝΕΛ-2.jpg" tvg-website="https://www.megatv.com/ekpompes/457727/fos-sto-tounel/" ,Φως Στο Τούνελ
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/fos-sto-tounel.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/ekpompes/fos-sto-tounel.txt
 #EXTINF:-1 group-title="MEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2022/09/ellinikestainiesposter.png" tvg-website="https://www.megatv.com/ekpompes/482979/xamogela-kai-pali/" ,Χαμογέλα και Πάλι!
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/xamogela-kai-pali.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/ekpompes/xamogela-kai-pali.txt
 #EXTINF:-1 group-title="MEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/10/MEGA_STORIES-3.jpg" tvg-website="https://www.megatv.com/ekpompes/145561/mega-stories/" ,Mega Stories
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega-stories.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/ekpompes/mega-stories.txt
 
 
 
