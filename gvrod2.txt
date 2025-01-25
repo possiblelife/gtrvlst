@@ -249,19 +249,19 @@ http://.....
 #EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-logo="https://i.ibb.co/2MdmBxK/skai.jpg" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.skaitv.gr/shows/seires|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/bahar/logos/bl_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/seires/bahar-kainourgia-archi/sezon-2023-2024#tab1" ,Bahar - Καινούργια Αρχή (2023-2024)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/Bahar.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/Bahar.txt
 #EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/pantheoir-landscape-new.jpg"  tvg-website="https://www.skai.gr/tv/show/seires/oi-pantheoi/sezon-2023-2024" ,Οι Πανθέοι (2023-2024)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/pantheoi.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/pantheoi.txt
 #EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/glykanisos_landscape_1.jpg" tvg-website="https://www.skai.gr/tv/show/seires/glukanisos/sezon-2022-2023" ,Γλυκάνισος (2022-2023)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/glikanisos.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/glikanisos.txt
 #EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/storgi_landscape.jpg"  tvg-website="https://www.skai.gr/tv/show/seires/storgi/sezon-2022-2023" ,Στοργή (2022-2023)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/storgi.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/storgi.txt
 #EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/agria_gi_landscape_1.jpg"  tvg-website="https://www.skai.gr/tv/show/seires/agria-gi/sezon-2022-2023" ,Άγρια Γη (2022-2023)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/agriagi.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/agriagi.txt
 #EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/1920x1080_8lexeis-b_1.jpg" tvg-website="https://www.skai.gr/tv/show/seires/8-lexeis/1os-kuklos" ,8 Λέξεις (2019-2021)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/8lexeis.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/8lexeis.txt
 #EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/polykatoikia_1920x1080.jpg" tvg-website="https://www.skai.gr/tv/show/seires/tha-ginei-tis-polukatoikias/1os-kuklos" ,Θα Γίνει Της Πολυκατοικίας(2019-2020)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/polikatikias.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/polikatikias.txt
 
 
 
@@ -271,27 +271,27 @@ http://.....
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://i.ibb.co/2MdmBxK/skai.jpg" ,ΟΛΕΣ ΟΙ  ΕΚΠΟΜΠΕΣ
 https://www.skai.gr/tv/shows/psuchagogia|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/psichagogia/2024_2025/pet_stories.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/pet-stories/pet-stories" ,Pet Stories (2024-2025)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/pet-stories.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/ekpompes/pet-stories.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/docs/skotini_dekaetia/skoteinh_dekaetia_1280x720.jpg" tvg-website="https://www.skai.gr/tv/show/ntokimanter/skoteini-dekaetia-1964-1974/sezon-2024-2025#tab1" ,Σκοτεινή Δεκαετία 1964-1974 (2024-2025)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skoteini-dekaetia-1964-1974.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/ekpompes/skoteini-dekaetia-1964-1974.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/voice/2024_2025/logos/voice_landscape_t.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/The-Voice-of-Greece/sezon-2024-2025" ,The Voice of Greece (2024-2025)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/The-Voice-of-Greece.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/ekpompes/The-Voice-of-Greece.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/my_style_rocks/2024_2025/logos/msr_land.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/my-style-rocks-bootcamp/sezon-2024-2025" ,My Style Rocks (2024-2025)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/my-style-rocks.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/ekpompes/my-style-rocks.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/mom_cooks_better/2024_2025/logos/mama_land.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/i-mama-moy-mageireyei-kalytera-apo-ti-diki-soy/sezon-2024-2025" ,Η Μαμά μου Μαγειρεύει Καλύτερα από τη Δική σου (2024-2025)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/i-mama-moy.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/ekpompes/i-mama-moy.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/still_standing/logos/ss_land.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/still-standing/sezon-2024-2025" ,Still Standing (2023-2024)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/still-standing.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/ekpompes/still-standing.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/oragiafagito2.jpg"  tvg-website="https://www.skai.gr/tv/show/psuchagogia/ora-gia-fagito/sezon-2020-2021" ,Ώρα Για Φαγητό με την Αργυρώ(2020-2022)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ora-gia-fagito.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/ekpompes/ora-gia-fagito.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/psixouli_landscape.jpg"  tvg-website="https://www.skai.gr/tv/show/psuchagogia/suntages-psuchis/archeio#tab1" ,Συνταγές Ψυχής(2020-2021)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/psuchis.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/ekpompes/psuchis.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/psyxagwgia_2/1920x1080_bletsas.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/happy-traveller/sezon-2016-2017" ,Happy Traveller(2016-2021)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/happy-traveller.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/ekpompes/happy-traveller.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/media_tv-editors/2022-fotos/202203/bbq_stories_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/bbq-stories/archeio#tab1" ,BBQ Stories(2021-2022)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/bbq-stories.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/ekpompes/bbq-stories.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/show/2024/savvato_me_filous/savvato_me_filous_l.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/sabbato-me-filous/sezon-2023-2024" ,Σάββατο με Φίλους (2023-2024)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/sabbato-me-filous.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/ekpompes/sabbato-me-filous.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/2023_2024/souleimark_1280x720.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/souleimark-o-megaloprepis/sezon-2023-2024#tab8" ,Σουλεϊμάρκ ο Μεγαλοπρεπής
 https://www.skai.gr/tv/episode/psuchagogia/souleimark-o-megaloprepis/2023-12-22-21|webvidfulldig
 
@@ -1032,23 +1032,23 @@ http://.....
 #EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ" tvg-logo="https://parallaximag.gr/wp-content/uploads/2019/03/open-beyond-logo.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.tvopen.gr/shows|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/ad7c242b-aee4-451f-aa6f-a72c59c9d6d8.jpg" tvg-website="https://www.tvopen.gr/giapantapaidia/videos" ,Για πάντα παιδιά
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/giapantapaidia.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/giapantapaidia.txt
 #EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/688f3fbd-1e13-462f-a661-65924d593b0a.jpg" tvg-website="https://www.tvopen.gr/hdikhmasoikogeneia/videos" ,Η δική μας οικογένεια
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/hdikhmasoikogeneia.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/hdikhmasoikogeneia.txt
 #EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/71b55473-69aa-4a8a-9e73-9ac7c618e38c.jpg" tvg-website="https://www.tvopen.gr/hteleytaiaora/videos" ,Η τελευταία ώρα
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/hteleytaiaora.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/hteleytaiaora.txt
 #EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/6f9db47f-3755-43c2-8f06-7e199d338a60.jpg" tvg-website="https://www.tvopen.gr/oyfoneyseis/videos" ,Ου φονεύσεις
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/oyfoneyseis.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/oyfoneyseis.txt
 #EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/d8a5fa67-3d84-4605-bb4b-9f78deb05456.jpg" tvg-website="https://www.tvopen.gr/oprigkipasthsfotias/videos" ,Ο πρίγκιπας της φωτιάς
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/oprigkipasthsfotias.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/oprigkipasthsfotias.txt
 #EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/37240326-3992-46a0-a2bd-3337cce1d58e.jpg" tvg-website="https://www.tvopen.gr/sanpsema/videos" ,Σαν Ψέμα
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/sanpsema.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/sanpsema.txt
 #EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/b52a9670-473e-4e9c-961b-5ca23da8a76e.jpg" tvg-website="https://www.tvopen.gr/sagapaomenalla/videos" ,Σ' αγαπάω μεν... αλλά
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/sagapaomenalla.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/sagapaomenalla.txt
 #EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/055c6118-b512-439a-aaf6-d2500fb7b4bd.jpg" tvg-website="https://www.tvopen.gr/tokokkinopotamihsynexeia/videos" ,Το κόκκινο ποτάμι - Η συνέχεια
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/tokokkinopotamihsynexeia.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/tokokkinopotamihsynexeia.txt
 #EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/56d13691-7555-451e-abea-bb4fbaffdc0f.jpg" tvg-website="https://www.tvopen.gr/tokokkinopotami/videos" ,Το κόκκινο ποτάμι
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/tokokkinopotami.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/tokokkinopotami.txt
 
 
 
@@ -1057,33 +1057,33 @@ http://.....
 #EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://parallaximag.gr/wp-content/uploads/2019/03/open-beyond-logo.png" ,ΟΛΕΣ ΟΙ ΕΚΠΟΜΠΕΣ
 https://www.tvopen.gr/shows|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/3200cf29-f62d-4adb-b5d1-83c0b38b7bb9.jpg" tvg-website="https://www.tvopen.gr/openkitchen/videos" ,OPEN Kitchen
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/openkitchen.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/ekpompes/openkitchen.txt
 #EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/e002ac44-9151-4166-b5f9-1282b87539a4.jpg" tvg-website="https://www.tvopen.gr/chefsthnkoyzinasasmetonbaggelhdriska/videos" ,Chef στην κουζίνα σας
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/chefsthnkoyzinasasmetonbaggelhdriska.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/ekpompes/chefsthnkoyzinasasmetonbaggelhdriska.txt
 #EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/09eba744-d62c-4e48-ae85-d96fcfac3dc8.jpg" tvg-website="https://www.tvopen.gr/eikonesmetontasodoysh/videos" ,Εικόνες με τον Τάσο Δούση
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/eikonesmetontasodoysh.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/ekpompes/eikonesmetontasodoysh.txt
 #EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/ac7d0402-b4df-43e4-8e90-95944688dc0a.jpg" tvg-website="https://www.tvopen.gr/ypotheseis/videos" ,Υποθέσεις
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ypotheseis.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/ekpompes/ypotheseis.txt
 #EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/c986f91a-c9d7-456c-bc2b-7b9497558c50.jpg" tvg-website="https://www.tvopen.gr/anoixta/videos" ,Ανοιχτά
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/anoixta.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/ekpompes/anoixta.txt
 #EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/20668195-66ad-4a4d-b66d-b11a856c323e.jpg" tvg-website="https://www.tvopen.gr/annitakoita/videos" ,Αννίτα Κοίτα
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/annitakoita.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/ekpompes/annitakoita.txt
 #EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/ba6d633b-1b48-406b-b9c9-e1d07145bba4.jpg" tvg-website="https://www.tvopen.gr/glykesalxhmeies/videos" ,Γλυκές αλχημείες
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/glykesalxhmeies.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/ekpompes/glykesalxhmeies.txt
 #EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/ab603085-59b3-48eb-ae1f-e386e019901e.jpg" tvg-website="https://www.tvopen.gr/kathemerachefmetonbaggelhdriska/videos" ,Κάθε μέρα chef με τον Βαγγέλη Δρίσκα
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/kathemerachefmetonbaggelhdriska.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/ekpompes/kathemerachefmetonbaggelhdriska.txt
 #EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/d80572b9-0fb1-4238-a69f-604184d6537c.jpg" tvg-website="https://www.tvopen.gr/koyzinagiadyo/videos" ,Κουζίνα για δύο
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/koyzinagiadyo.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/ekpompes/koyzinagiadyo.txt
 #EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/38f27ac0-ba73-4a39-9f80-9ae277962ffc.jpg" tvg-website="https://www.tvopen.gr/laba/videos" ,Λάβα
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/laba.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/ekpompes/laba.txt
 #EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/73eef00e-08cf-4162-b6ae-88067d2be3f0.jpg" tvg-website="https://www.tvopen.gr/osadeleme/videos" ,Όσα (δε) λέμε
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/osadeleme.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/ekpompes/osadeleme.txt
 #EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/8ea7587a-13f1-4a2c-9556-e61619fade76.jpg" tvg-website="https://www.tvopen.gr/odoszarifh/videos" ,Οδός Ζαρίφη
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/odoszarifh.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/ekpompes/odoszarifh.txt
 #EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/eabf83e3-a331-49a6-95aa-fc322740251e.jpg" tvg-website="https://www.tvopen.gr/otiagapo/videos" ,Ό,τι αγαπώ
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/otiagapo.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/ekpompes/otiagapo.txt
 #EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/529b4c27-3f60-43b5-9f8e-0dfdeece4280.jpg" tvg-website="https://www.tvopen.gr/radioarbyla/videos" ,Ράδιο αρβύλα
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/radioarbyla.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/ekpompes/radioarbyla.txt
 
 
 
@@ -1097,23 +1097,23 @@ http://.....
 #EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://goo.gl/z2xi2U" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.star.gr/tv/seires|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/png/files/seires/iq_160/season_2/final/iq_160-287x382-season2.png" tvg-website="https://www.star.gr/tv/seires/iq-160" ,IQ 160
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/iq-160.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/iq-160.txt
 #EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/png/files/seires/mavroi_pinakes/temp/mavroi_pinakes-287x382-temp.png" tvg-website="https://www.star.gr/tv/seires/mauroi-pinakes" ,ΜΑΥΡΟΙ ΠΙΝΑΚΕΣ
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mauroi-pinakes.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/mauroi-pinakes.txt
 #EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/seires/sta_sunora/final/sta_synora-287x382a.jpg" tvg-website="https://www.star.gr/tv/seires/sta-sunora" ,ΣΤΑ ΣΥΝΟΡΑ
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/sta-sunora.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/sta-sunora.txt
 #EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/1/jpg/files/seires%202021-22/erotas_me_diafora_s2_287x382.jpg" tvg-website="https://www.star.gr/tv/seires/erotas-me-diafora" ,ΕΡΩΤΑΣ ΜΕ ΔΙΑΦΟΡΑ
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/erotas-me-diafora.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/erotas-me-diafora.txt
 #EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/seires/%CE%B7_%CE%BC%CE%B1%CE%BC%CE%B1_%CE%BB%CE%B5%CE%B9%CF%80%CE%B5%CE%B9_%CF%84%CE%B1%CE%BE%CE%B9%CE%B4%CE%B9_%CE%B3%CE%B9%CE%B1_%CE%B4%CE%BF%CF%85%CE%BB%CE%B5%CE%B9%CE%B5%CF%83-287x382.jpg" tvg-website="https://www.star.gr/tv/seires/i-mama-leipei-taksidi-gia-douleies" ,Η ΜΑΜΑ ΛΕΙΠΕΙ ΤΑΞΙΔΙ ΓΙΑ ΔΟΥΛΕΙΕΣ
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/i-mama-leipei-taksidi-gia-douleies.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/i-mama-leipei-taksidi-gia-douleies.txt
 #EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/300-O-ANTRAS-TON-ONEIRON-MOU.jpg" tvg-website="https://www.star.gr/tv/seires/o-adras-ton-oneiron-mou" ,Ο ΑΝΤΡΑΣ ΤΩΝ ΟΝΕΙΡΩΝ ΜΟΥ
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/o-adras-ton-oneiron-mou.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/o-adras-ton-oneiron-mou.txt
 #EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/2/jpg/files/monk_300x693.jpg" tvg-website="https://www.star.gr/tv/seires/detektiv-monk-monk" ,ΝΤΕΤΕΚΤΙΒ ΜΟΝΚ (MONK)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/detektiv-monk-monk.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/detektiv-monk-monk.txt
 #EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/seires/the_closer/the_closer-287x382.jpg" tvg-website="https://www.star.gr/tv/seires/the-closer" ,THE CLOSER
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/the-closer.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/the-closer.txt
 #EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/seires/ncis/season_17/ncis-s17-287x382.jpg" tvg-website="https://www.star.gr/tv/seires/ncis" ,NCIS
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ncis.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/ncis.txt
 
 
 
@@ -1123,41 +1123,41 @@ http://.....
 #EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://goo.gl/z2xi2U" ,ΟΛΕΣ ΟΙ ΕΚΠΟΜΠΕΣ
 https://www.star.gr/tv/psychagogia|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/mc8-2024/final/mc-287x382_px_1.jpg" tvg-website="https://www.star.gr/tv/psychagogia/masterchef" ,MasterChef
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/masterchef.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/ekpompes/masterchef.txt
 #EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/jpeg/files/farma/2024/temp/farma-2024-25-287x382-koutsopoulos-temp.jpeg" tvg-website="https://www.star.gr/tv/psychagogia/farma" ,ΦΑΡΜΑ
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/farma.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/ekpompes/farma.txt
 #EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/png/files/breakfast_2024-25/final/breakfast_star_2024-25-640x736-finalb.png" tvg-website="https://www.star.gr/tv/psychagogia/breakfaststar" ,BREAKFAST@STAR
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/breakfaststar.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/ekpompes/breakfaststar.txt
 #EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/png/files/zina-2025/temporary/amtz_2024-25-287x382c-temp.png" tvg-website="https://www.star.gr/tv/psychagogia/alitheies-me-ti-zina" ,ΑΛΗΘΕΙΕΣ ΜΕ ΤΗ ΖΗΝΑ
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/alitheies-me-ti-zina.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/ekpompes/alitheies-me-ti-zina.txt
 #EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/shopping_star-2025/final/ss_2024-25-640x736-final-new.jpg" tvg-website="https://www.star.gr/tv/psychagogia/shopping-star" ,SHOPPING STAR
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/shopping-star.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/ekpompes/shopping-star.txt
 #EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/cash_or_trash/2024-25/final/cot_2024-25-640x736-final.jpg" tvg-website="https://www.star.gr/tv/psychagogia/cash-or-trash" ,CASH OR TRASH
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/cash-or-trash.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/ekpompes/cash-or-trash.txt
 #EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/ttt_2024-25/semifinal/ttt_2024-25-287x382-semifinal.jpg" tvg-website="https://www.star.gr/tv/psychagogia/trohos-tis-tuhis" ,ΤΡΟΧΟΣ ΤΗΣ ΤΥΧΗΣ
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/trohos-tis-tuhis.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/ekpompes/trohos-tis-tuhis.txt
 #EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/png/files/first_dates/2024/1st_look/first_dates-287x382.png" tvg-website="https://www.star.gr/tv/psychagogia/first-dates" ,FIRST DATES
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/first-dates.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/ekpompes/first-dates.txt
 #EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/png/files/stars_system-2024/1st_look/stars_system_2023-24-287x382.png" tvg-website="https://www.star.gr/tv/psychagogia/stars-system" ,STARS SYSTEM
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/stars-system.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/ekpompes/stars-system.txt
 #EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/2/jpg/files/2022-01-11/traction_2021-22/traction_300x690_21-22.jpg" tvg-website="https://www.star.gr/tv/psychagogia/traction" ,TRACTION
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/traction.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/ekpompes/traction.txt
 #EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/zina_to_vradi/blue_background/zina_to_vradi-blue-287x382.jpg" tvg-website="https://www.star.gr/tv/psychagogia/zina-to-vradu" ,ΖΗΝΑ ΤΟ ΒΡΑΔΥ
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/zina-to-vradu.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/ekpompes/zina-to-vradu.txt
 #EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/oi_100/2022-23/oi_100-287x382-2022-23.jpg" tvg-website="https://www.star.gr/tv/psychagogia/oi-100" ,ΟΙ 100
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/oi-100.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/ekpompes/oi-100.txt
 #EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/3/jpg/files/master_chef_junior_300x690b.jpg" tvg-website="https://www.star.gr/tv/psychagogia/masterchef-junior" ,MasterChef Junior
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/masterchef-junior.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/ekpompes/masterchef-junior.txt
 #EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/apostoli/apostoli-287x382b.jpg" tvg-website="https://www.star.gr/tv/psychagogia/apostoli" ,ΑΠΟΣΤΟΛΗ
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/apostoli.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/ekpompes/apostoli.txt
 #EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/1/jpg/files/%CF%88%CF%85%CF%87%CE%B1%CE%B3%CF%89%CE%B3%CE%B9%CE%B1_2021-22/cook_beef_21-22/cook_beef_1920x1004a_new.jpg" tvg-website="https://www.star.gr/tv/psychagogia/cook-beef" ,COOK BEEF
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/cook-beef.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/ekpompes/cook-beef.txt
 #EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/4/jpg/files/KOUKOU_300x690.jpg" tvg-website="https://www.star.gr/tv/psychagogia/sti-folia-ton-kou-kou-2019-20" ,ΣΤΗ ΦΩΛΙΑ ΤΩΝ ΚΟΥ ΚΟΥ
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/sti-folia-ton-kou-kou.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/ekpompes/sti-folia-ton-kou-kou.txt
 #EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/gntm5/gntm_5-287x382b-final.jpg" tvg-website="https://www.star.gr/tv/psychagogia/greeces-next-top-model-5" ,GREECE'S NEXT TOP MODEL
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/greeces-next-top-model.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/ekpompes/greeces-next-top-model.txt
 #EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/2/jpg/files/Globe_Trotters_300x690.jpg" tvg-website="https://www.star.gr/tv/psychagogia/globetrotters" ,GLOBETROTTERS
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/globetrotters.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/ekpompes/globetrotters.txt
 
 
 

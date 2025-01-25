@@ -510,3 +510,7 @@ https://v6.cloudskep.com/rikvod/trikimia/trikimia160125.mp4?attachment=true
 https://v6.cloudskep.com/rikvod/trikimia/trikimia170125.mp4?attachment=true
 #EXTINF:-1 group-title="Season 3",Τρικυμία 21/01/25
 https://v6.cloudskep.com/rikvod/trikimia/trikimia210125.mp4?attachment=true
+#EXTINF:-1 group-title="Season 3",Τρικυμία 22/01/25
+https://v6.cloudskep.com/rikvod/trikimia/trikimia220125n.mp4?attachment=true
+#EXTINF:-1 group-title="Season 3",Τρικυμία 24/01/25
+https://v6.cloudskep.com/rikvod/trikimia/trikimia240125.mp4?attachment=true
