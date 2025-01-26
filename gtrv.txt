@@ -383,9 +383,7 @@ https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEq
 
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,=====   ΤΑΙΝΙΕΣ   ====
 http://.....
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacy" tvg-logo="https://i.ibb.co/bs7j4wR/extacy-tv-new-logo.png" tvg-name="Extacy TV Ελλάδος" ,Extacy TV Ελλάδος.
-https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacy" tvg-logo="https://i.ibb.co/bs7j4wR/extacy-tv-new-logo.png" tvg-name="Extacy TV Ελλάδος" ,Extacy TV Ελλάδος (ΕΝΑΛΛΑΚΤΙΚΟ)
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacy" tvg-logo="https://i.ibb.co/bs7j4wR/extacy-tv-new-logo.png" ,Extacy TV Ελλάδος.
 https://www.twitch.tv/extacy_tv|weballdig
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ibb.co/6Px7RPQ/dipolo.jpg" ,Dtv6 (Δίπολο TV)
 https://channel.streams.ovh:8081/dipolotv/index.m3u8
