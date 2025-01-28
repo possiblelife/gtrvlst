@@ -250,18 +250,42 @@ http://.....
 https://www.skaitv.gr/shows/seires|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/bahar/logos/bl_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/seires/bahar-kainourgia-archi/sezon-2023-2024#tab1" ,Bahar - Καινούργια Αρχή (2023-2024)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/Bahar.txt
-#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/pantheoir-landscape-new.jpg"  tvg-website="https://www.skai.gr/tv/show/seires/oi-pantheoi/sezon-2023-2024" ,Οι Πανθέοι (2023-2024)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/pantheoi.txt
-#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/glykanisos_landscape_1.jpg" tvg-website="https://www.skai.gr/tv/show/seires/glukanisos/sezon-2022-2023" ,Γλυκάνισος (2022-2023)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/glikanisos.txt
-#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/storgi_landscape.jpg"  tvg-website="https://www.skai.gr/tv/show/seires/storgi/sezon-2022-2023" ,Στοργή (2022-2023)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/storgi.txt
-#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/agria_gi_landscape_1.jpg"  tvg-website="https://www.skai.gr/tv/show/seires/agria-gi/sezon-2022-2023" ,Άγρια Γη (2022-2023)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/agriagi.txt
-#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/1920x1080_8lexeis-b_1.jpg" tvg-website="https://www.skai.gr/tv/show/seires/8-lexeis/1os-kuklos" ,8 Λέξεις (2019-2021)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/8lexeis.txt
-#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/seires/polykatoikia_1920x1080.jpg" tvg-website="https://www.skai.gr/tv/show/seires/tha-ginei-tis-polukatoikias/1os-kuklos" ,Θα Γίνει Της Πολυκατοικίας(2019-2020)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/polikatikias.txt
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/8λέξεις2019.jpg" ,8 λέξεις (2019-2021)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/8.λέξεις.(2019-2021)
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Violetta2014.jpg" ,Violetta (2014-2015)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/Violetta.(2014-2015)
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Άγριαγη2022.jpg" ,Άγρια γη (2022-2023)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/Άγρια.γη.(2022-2023)
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Γλυκάνισος2022.jpg" ,Γλυκάνισος (2022-2023)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/Γλυκάνισος.(2022-2023)
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ευτυχίας222014.jpg" ,Ευτυχίας 22 (2014)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/Ευτυχίας.22.(2014)
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΗοργήτωνΘεών1994.jpg" ,Η οργή των Θεών (1994-1995)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/Η.οργή.των.Θεών.(1994-1995)
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Θαγίνειτηςπολυκατοικίας2019.jpg" ,Θα γίνει της πολυκατοικίας (2019-2020)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/Θα.γίνει.της.πολυκατοικίας.(2019-2020)
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Κάποιοςνατηφυλάει1994.jpg" ,Κάποιος να τη φυλάει (1994-1995)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/Κάποιος.να.τη.φυλάει.(1994-1995)
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/logwtimis.jpg" ,Λόγω Τιμής (1996-2019)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/Λόγω.Τιμής.(1996-2019)
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Μόλιςχθες2021.jpg" ,Μόλις χθες (2021-2022)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/Μόλις.χθες.(2021-2022)
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ογιατρός2020.jpg" ,Ο γιατρός Η ιστορία ενός θαύματος (2020)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/Ο.γιατρός.Η.ιστορία.ενός.θαύματος.(2020)
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΟιΠανθέοι2023.jpg" ,Οι Πανθέοι (2023-2024)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/Οι.Πανθέοι.(2023-2024)
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Όσοέχωεσένα2018.jpg" ,Όσο έχω εσένα (2018-2019)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/Όσο.έχω.εσένα.(2018-2019)
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Παολίνα1998.jpg" ,Παολίνα η σφετερίστρια (1999-2000)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/Παολίνα.η.σφετερίστρια.(1999-2000)
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Στοργή2022.jpg" ,Στοργή (2022-2023)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/Στοργή.(2022-2023)
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τομεζεδοπωλείο2013.jpg" ,Το μεζεδοπωλείο (2013-2014)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/Το.μεζεδοπωλείο.(2013-2014)
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΦτερωτόςΘεός2019.jpg" ,Φτερωτός Θεός (2019-2020)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/Φτερωτός.Θεός.(2019-2020)
+
+
 
 
 
@@ -1286,26 +1310,26 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/braven
 
 #EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== OPEN ====
 http://.....
-#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ" tvg-logo="https://parallaximag.gr/wp-content/uploads/2019/03/open-beyond-logo.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
-https://www.tvopen.gr/shows|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/ad7c242b-aee4-451f-aa6f-a72c59c9d6d8.jpg" tvg-website="https://www.tvopen.gr/giapantapaidia/videos" ,Για πάντα παιδιά
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/giapantapaidia.txt
-#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/688f3fbd-1e13-462f-a661-65924d593b0a.jpg" tvg-website="https://www.tvopen.gr/hdikhmasoikogeneia/videos" ,Η δική μας οικογένεια
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/hdikhmasoikogeneia.txt
-#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/71b55473-69aa-4a8a-9e73-9ac7c618e38c.jpg" tvg-website="https://www.tvopen.gr/hteleytaiaora/videos" ,Η τελευταία ώρα
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/hteleytaiaora.txt
-#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/6f9db47f-3755-43c2-8f06-7e199d338a60.jpg" tvg-website="https://www.tvopen.gr/oyfoneyseis/videos" ,Ου φονεύσεις
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/oyfoneyseis.txt
-#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/d8a5fa67-3d84-4605-bb4b-9f78deb05456.jpg" tvg-website="https://www.tvopen.gr/oprigkipasthsfotias/videos" ,Ο πρίγκιπας της φωτιάς
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/oprigkipasthsfotias.txt
-#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/37240326-3992-46a0-a2bd-3337cce1d58e.jpg" tvg-website="https://www.tvopen.gr/sanpsema/videos" ,Σαν Ψέμα
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/sanpsema.txt
-#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/b52a9670-473e-4e9c-961b-5ca23da8a76e.jpg" tvg-website="https://www.tvopen.gr/sagapaomenalla/videos" ,Σ' αγαπάω μεν... αλλά
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/sagapaomenalla.txt
-#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/055c6118-b512-439a-aaf6-d2500fb7b4bd.jpg" tvg-website="https://www.tvopen.gr/tokokkinopotamihsynexeia/videos" ,Το κόκκινο ποτάμι - Η συνέχεια
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/tokokkinopotamihsynexeia.txt
-#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/56d13691-7555-451e-abea-bb4fbaffdc0f.jpg" tvg-website="https://www.tvopen.gr/tokokkinopotami/videos" ,Το κόκκινο ποτάμι
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/tokokkinopotami.txt
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Γιαπάνταπαιδιά2018.jpg" ,Για πάντα παιδιά (2018-2019)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/Για.πάντα.παιδιά.(2018-2019)
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ελεύθερησχέση2018.jpg" ,Ελεύθερη σχέση (2018-2019)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/Ελεύθερη.σχέση.(2018-2019)
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Έρωταςφυγάς2022.jpg" ,Έρωτας φυγάς (2022-2024)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/Έρωτας.φυγάς.(2022-2024)
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ηδικήμαςοικογένεια2022.jpg" ,Η δική μας οικογένεια (2022-2023)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/Η.δική.μας.οικογένεια.(2022-2023)
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ητελευταίαώρα2021.jpg" ,Η τελευταία ώρα (2021-2022)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/Η.τελευταία.ώρα.(2021-2022)
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ουφονεύσεις2018.jpg" ,Ου φονεύσεις (2018-2019)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/Ου.φονεύσεις.(2018-2019)
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Πρίγκιπαςτηςφωτιάς2018.jpg" ,Πρίγκιπας της φωτιάς (2018-2019)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/Πρίγκιπας.της.φωτιάς.(2018-2019)
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Σαγαπάωμεναλλά2021.jpg" ,Σ' αγαπάω μεν... αλλά (2021-2022)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/Σ'.αγαπάω.μεν....αλλά.(2021-2022)
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Σανψέμα2024.jpg" ,Σαν ψέμα (2024)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/Σαν.ψέμα.(2024)
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τοκόκκινοποτάμι2019.jpg" ,Το κόκκινο ποτάμι (2019-2023)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/Το.κόκκινο.ποτάμι.(2019-2023)
 
 
 
@@ -1353,24 +1377,85 @@ http://.....
 
 #EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://goo.gl/z2xi2U" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.star.gr/tv/seires|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/png/files/seires/iq_160/season_2/final/iq_160-287x382-season2.png" tvg-website="https://www.star.gr/tv/seires/iq-160" ,IQ 160
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/iq-160.txt
-#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/png/files/seires/mavroi_pinakes/temp/mavroi_pinakes-287x382-temp.png" tvg-website="https://www.star.gr/tv/seires/mauroi-pinakes" ,ΜΑΥΡΟΙ ΠΙΝΑΚΕΣ
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/mauroi-pinakes.txt
-#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/seires/sta_sunora/final/sta_synora-287x382a.jpg" tvg-website="https://www.star.gr/tv/seires/sta-sunora" ,ΣΤΑ ΣΥΝΟΡΑ
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/sta-sunora.txt
-#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/1/jpg/files/seires%202021-22/erotas_me_diafora_s2_287x382.jpg" tvg-website="https://www.star.gr/tv/seires/erotas-me-diafora" ,ΕΡΩΤΑΣ ΜΕ ΔΙΑΦΟΡΑ
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/erotas-me-diafora.txt
-#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/seires/%CE%B7_%CE%BC%CE%B1%CE%BC%CE%B1_%CE%BB%CE%B5%CE%B9%CF%80%CE%B5%CE%B9_%CF%84%CE%B1%CE%BE%CE%B9%CE%B4%CE%B9_%CE%B3%CE%B9%CE%B1_%CE%B4%CE%BF%CF%85%CE%BB%CE%B5%CE%B9%CE%B5%CF%83-287x382.jpg" tvg-website="https://www.star.gr/tv/seires/i-mama-leipei-taksidi-gia-douleies" ,Η ΜΑΜΑ ΛΕΙΠΕΙ ΤΑΞΙΔΙ ΓΙΑ ΔΟΥΛΕΙΕΣ
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Cherchezlafemme1995.jpg" ,Cherchez la femme (1995)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/Cherchez.la.femme.(1995)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/IQ1602023.jpg" ,IQ 160 (2023-2024)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/IQ.160.(2023-2024)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Άγιοείχαμε2001.jpg" ,Άγιο είχαμε (2001-2002)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/Άγιο.είχαμε.(2001-2002)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Αρένα2017.jpg" ,Αρένα (2017)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/Αρένα.(2017)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Άρωμαγυναίκας2000.jpg" ,Άρωμα γυναίκας (2000-2001)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/Άρωμα.γυναίκας.(2000-2001)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Βαθύκόκκινο.jpg" ,Βαθύ κόκκινο (2000-2001)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/Βαθύ.κόκκινο.(2000-2001)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΒίλαΑμαρτία2018.jpg" ,Βίλα Αμαρτία (2018-2019)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/Βίλα.Αμαρτία.(2018-2019)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Δακρυσμέναφεγγάρια2001.jpg" ,Δακρυσμένα φεγγάρια (2001)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/Δακρυσμένα.φεγγάρια.(2001)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΔόκτωρΤζούλιακαιμιςΧάϊδω1994.jpg" ,Δόκτωρ Τζούλια και μις Χάϊδω (1995)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/Δόκτωρ.Τζούλια.και.μις.Χάϊδω.(1995)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Δροσουλίτες2001.jpg" ,Δροσουλίτες (2001)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/Δροσουλίτες.(2001)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΕνΙορδάνη2002.jpg" ,Εν Ιορδάνη (2002)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/Εν.Ιορδάνη.(2002)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/kommissarrex.jpg" ,Επιθεωρητής Ρεξ (1994-2009)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/Επιθεωρητής.Ρεξ.(1994-2009)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Έρωταςμεδιαφορά2021.jpg" ,Έρωτας με διαφορά (2021)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/Έρωτας.με.διαφορά.(2021)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ηγενιάτων401994.jpg" ,Η γενιά των 40 (1994-1995)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/Η.γενιά.των.40.(1994-1995)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/seires/%CE%B7_%CE%BC%CE%B1%CE%BC%CE%B1_%CE%BB%CE%B5%CE%B9%CF%80%CE%B5%CE%B9_%CF%84%CE%B1%CE%BE%CE%B9%CE%B4%CE%B9_%CE%B3%CE%B9%CE%B1_%CE%B4%CE%BF%CF%85%CE%BB%CE%B5%CE%B9%CE%B5%CF%83-287x382.jpg" tvg-website="https://www.star.gr/tv/seires/i-mama-leipei-taksidi-gia-douleies" ,Η ΜΑΜΑ ΛΕΙΠΕΙ ΤΑΞΙΔΙ ΓΙΑ ΔΟΥΛΕΙΕΣ (2016-2017)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/i-mama-leipei-taksidi-gia-douleies.txt
-#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/300-O-ANTRAS-TON-ONEIRON-MOU.jpg" tvg-website="https://www.star.gr/tv/seires/o-adras-ton-oneiron-mou" ,Ο ΑΝΤΡΑΣ ΤΩΝ ΟΝΕΙΡΩΝ ΜΟΥ
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/o-adras-ton-oneiron-mou.txt
-#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/2/jpg/files/monk_300x693.jpg" tvg-website="https://www.star.gr/tv/seires/detektiv-monk-monk" ,ΝΤΕΤΕΚΤΙΒ ΜΟΝΚ (MONK)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/detektiv-monk-monk.txt
-#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/seires/the_closer/the_closer-287x382.jpg" tvg-website="https://www.star.gr/tv/seires/the-closer" ,THE CLOSER
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/the-closer.txt
-#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/seires/ncis/season_17/ncis-s17-287x382.jpg" tvg-website="https://www.star.gr/tv/seires/ncis" ,NCIS
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/ncis.txt
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΗΜαριάννατηςνύχτας2003.jpg" ,Η Μαριάννα της νύχτας (2003-2004)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/Η.Μαριάννα.της.νύχτας.(2003-2004)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Κορίναηαγριόγατα2002.jpg" ,Κορίνα η αγριόγατα (2002-2003)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/Κορίνα.η.αγριόγατα.(2002-2003)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τοκρεσέντο2000.jpg" ,Κρεσέντο (2000-2001)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/Κρεσέντο.(2000-2001)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Λουτσίαηατίθασηκαρδιά2004.jpg" ,Λουτσία η ατίθαση καρδιά (2004-2005)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/Λουτσία.η.ατίθαση.καρδιά.(2004-2005)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Μαρίαάγγελέμου.jpg" ,Μαρία άγγελέ μου (2008-2009)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/Μαρία.άγγελέ.μου.(2008-2009)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Μαρίνα2006.jpg" ,Μαρίνα (2006-2007)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/Μαρίνα.(2006-2007)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Μαύροιπίνακες20124.jpg" ,Μαύροι πίνακες (2024)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/Μαύροι.πίνακες.(2024)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Μικρέςαμαρτίες2000.jpg" ,Μικρές αμαρτίες (2000-2001)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/Μικρές.αμαρτίες.(2000-2001)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Οάντραςτωνονείρωνμου2017.jpg" ,Ο άντρας των ονείρων μου (2017-2018)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/Ο.άντρας.των.ονείρων.μου.(2017-2018)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Οτέλειοςάνδρας.jpg" ,Ο τέλειος άνδρας (2000-2001)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/Ο.τέλειος.άνδρας.(2000-2001)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΟιδικηγόροιτηςΑθήνας1994.jpg" ,Οι δικηγόροι της Αθήνας (1995)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/Οι.δικηγόροι.της.Αθήνας.(1995)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Οιθειοσεβούμενοι2000.jpg" ,Οι θειοσεβούμενοι (2000)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/Οι.θειοσεβούμενοι.(2000)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Όρκοςσιωπής2014.jpg" ,Όρκος σιωπής (2014-2015)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/Όρκος.σιωπής.(2014-2015)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ουδένπρόβλημα2000.jpg" ,Ουδέν πρόβλημα (2000-2001)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/Ουδέν.πρόβλημα.(2000-2001)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ρωξάνημιαελεύθερηγυναίκα2004.jpg" ,Ρωξάνη μια ελεύθερη γυναίκα (2004)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/Ρωξάνη.μια.ελεύθερη.γυναίκα.(2004)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Σαμπρίνατοκορίτσιτηςαγάπης1997.jpg" ,Σαμπρίνα το κορίτσι της αγάπης (1997-1998)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/Σαμπρίνα.το.κορίτσι.της.αγάπης.(1997-1998)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Σανχειμωνιάτικηλιακάδα2000.jpg" ,Σαν χειμωνιάτικη λιακάδα (2000-2001)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/Σαν.χειμωνιάτικη.λιακάδα.(2000-2001)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Σαρίταείσαιηζωήμου2006.jpg" ,Σαρίτα είσαι η ζωή μου (2006-2007)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/Σαρίτα.είσαι.η.ζωή.μου.(2006-2007)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Στασύνορα2023.jpg" ,Στα σύνορα (2023-2024)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/Στα.σύνορα.(2023-2024)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τοκλειδί2001.jpg" ,Το κλειδί (2001-2002)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/Το.κλειδί.(2001-2002)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τομπέρδεμα2001.jpg" ,Το μπέρδεμα (2000-2001)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/Το.μπέρδεμα.(2000-2001)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τρελήοικογένεια2015.jpg" ,Τρελή οικογένεια (2015-2016)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/Τρελή.οικογένεια.(2015-2016)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τρίαμίλια2022.jpg" ,Τρία μίλια (2022-2023)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/Τρία.μίλια.(2022-2023)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Floricienta2004.jpg" ,Φλορισιέντα μια σύγχρονη σταχτοπούτα (2004-2005)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/Φλορισιέντα.μια.σύγχρονη.σταχτοπούτα.(2004-2005)
+
 
 
 
@@ -1421,86 +1506,493 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/e
 
 
 
-
-
-
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΕΡΤ ====
+#EXTINF:-1 group-title="ΕΡΤFLIX" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΕΡΤ ====
 http://.....
 
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
+#EXTINF:-1 group-title="ΕΡΤFLIX" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ (ΕΡΤFLIX)
 https://www.ertflix.gr/show/series|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Κινούμενα Σχέδια
+#EXTINF:-1 group-title="ΕΡΤFLIX" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Κινούμενα Σχέδια (ΕΡΤFLIX)
 https://www.ertflix.gr/show/children|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,ΕΛΛΗΝΙΚΑ ΝΤΟΚΙΜΑΝΤΕΡ
+#EXTINF:-1 group-title="ΕΡΤFLIX" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,ΕΛΛΗΝΙΚΑ ΝΤΟΚΙΜΑΝΤΕΡ (ΕΡΤFLIX)
 https://www.ertflix.gr/show/documentary|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,ΕΛΛΗΝΙΚΗ ΔΙΑΣΠΟΡΑ
+#EXTINF:-1 group-title="ΕΡΤFLIX" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,ΕΛΛΗΝΙΚΗ ΔΙΑΣΠΟΡΑ (ΕΡΤFLIX)
 https://www.ertflix.gr/show/greece-abroad|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,ΕΚΠΟΜΠΕΣ
+#EXTINF:-1 group-title="ΕΡΤFLIX" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,ΕΚΠΟΜΠΕΣ (ΕΡΤFLIX)
 https://www.ertflix.gr/show/ekpompes|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,ΕΝΗΜΕΡΩΣΗ
+#EXTINF:-1 group-title="ΕΡΤFLIX" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,ΕΝΗΜΕΡΩΣΗ (ΕΡΤFLIX)
 https://www.ertflix.gr/show/news|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,ΑΘΛΗΤΙΚΑ
+#EXTINF:-1 group-title="ΕΡΤFLIX" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,ΑΘΛΗΤΙΚΑ (ΕΡΤFLIX)
 https://www.ertflix.gr/show/sport|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Η ΕΡΤ ΘΥΜΑΤΑΙ
+#EXTINF:-1 group-title="ΕΡΤFLIX" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Η ΕΡΤ ΘΥΜΑΤΑΙ (ΕΡΤFLIX)
 https://www.ertflix.gr/show/archives|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Βαρδιάνος στα σπόρκα
-https://www.ertflix.gr/series/ser.158095-bardianos-sta-sporka|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Ποίος ήτον ο φονεύς του αδελφού μου
-https://www.ertflix.gr/series/ser.165739-poios-eton-o-phoneus-tou-adelphou-mou|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Καρτ Ποστάλ
-https://www.ertflix.gr/series/ser.158931-kart-postal|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Χαιρέτα μου τον Πλάτανο
-https://www.ertflix.gr/series/ser.127618-chaireta-moy-ton-platano|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Σε ξένα χέρια
-https://www.ertflix.gr/series/ser.159100-se-xena-kheria|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,ΖΑΚΕΤΑ ΝΑ ΠΑΡΕΙΣ
-https://www.ertflix.gr/series/ser.137317-zaketa-na-pareis|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Η τούρτα της μαμάς
-https://www.ertflix.gr/series/ser.127657-i-toyrta-tis-mamas|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Τα καλύτερά μας χρόνια
-https://www.ertflix.gr/series/ser.127653-ta-kalytera-mas-chronia|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Λούφα και Παραλλαγή
-https://www.ertflix.gr/series/ser.130088-loyfa-kai-parallagi|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Καρυωτάκης
-https://www.ertflix.gr/series/ser.154249-karuotakes-6|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Ο Χριστός ξανασταυρώνεται
-https://www.ertflix.gr/series/ser.140750-o-khristos-xanastauronetai|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Μαντώ Μαυρογένους
-https://www.ertflix.gr/series/ser.138234-manto-maurogenous|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Στο κάμπινγκ
-https://www.ertflix.gr/series/ser.137555-sto-kampingk|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Μαντάμ Σουσού
-https://www.ertflix.gr/series/ser.127400-mantam-soysoy|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Το μινόρε της αυγής
-https://www.ertflix.gr/series/ser.126148-to-minore-tis-aygis|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Ο ΔΡΟΜΟΣ ΓΙΑ ΤΟ ΤΟΚΙΟ
-https://www.ertflix.gr/vod/vod.151872-o-dromos-gia-to-tokio|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Μουσικό κουτί
-https://www.ertflix.gr/series/ser.128297-moysiko-koyti|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,ΚΥΡΙΑΚΗ ΣΤΟ ΧΩΡΙΟ
-https://www.ertflix.gr/vod/vod.161954-kuriake-sto-khorio-xana|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,ΣΥΓΧΡΟΝΗ ΠΑΡΑΔΟΣΙΑΚΗ ΜΟΥΣΙΚΗ
-https://www.ertflix.gr/series/ser.125032-sygchroni-paradosiaki-moysiki|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,ΚΑΘΕ ΤΟΠΟΣ ΚΑΙ ΤΡΑΓΟΥΔΙ
-https://www.ertflix.gr/vod/vod.154589-kathe-topos-kai-tragoudi|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,ΤΟ ΜΕΓΑΛΟ ΠΑΙΧΝΙΔΙ
-https://www.ertflix.gr/vod/vod.128086-27okt2020-to-megalo-paichnidi|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,ΠΟΠ ΜΑΓΕΙΡΙΚΗ
-https://www.ertflix.gr/series/ser.124392-pop-mageiriki|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,ΔΕΣ & ΒΡΕΣ
-https://www.ertflix.gr/series/ser.124794-des-amp-amp-vres|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,ΤΟ ΑΛΑΤΙ ΤΗΣ ΓΗΣ
-https://www.ertflix.gr/series/ser.1778-to-alati-tis-gis||webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Φρουτοπία
-https://www.ertflix.gr/series/ser.124180-froutopia|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Ο Θησαυρός της Βαγίας
-https://www.ertflix.gr/series/ser.129136-o-thysayros-tis-vagias|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Το καπλάνι της βιτρίνας
-https://www.ertflix.gr/series/ser.126802-to-kaplani-tis-vitrinas|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Τα δελφινάκια του Αμβρακικού
-https://www.ertflix.gr/series/ser.126680-ta-delfinakia-toy-amvrakikoy|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤ" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Ο κήπος με τ'αγάλματα
-https://www.ertflix.gr/series/ser.124873-o-kipos-me-tagalmata|webmulti zoom=100 scroll=0,0
+
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΕΡΤ ====
+http://.....
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Αρχελάου52024.jpg" ,Αρχελάου 5 (2024-2025)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Αρχελάου.5.(2024-2025)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ηπαραλία2022.jpg" ,Η παραλία (2023-2025)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Η.παραλία.(2023-2025)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ηλέκτρα2023.jpg" ,Ηλέκτρα (2023-2025)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ηλέκτρα.(2023-2025)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Έρημηχώρα2023.jpg" ,Έρημη χώρα (2023-2024)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Έρημη.χώρα.(2023-2024)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΗΜαρίαπουέγινεΚάλλας2024.jpg" ,Η Μαρία που έγινε Κάλλας (2024)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Η.Μαρία.που.έγινε.Κάλλας.(2024)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τοδίχτυ2024.jpg" ,Το δίχτυ (2024)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Το.δίχτυ.(2024)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Κάνεότικοιμάσαι2022.jpg" ,Κάνε ότι κοιμάσαι (2022-2024)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Κάνε.ότι.κοιμάσαι.(2022-2024)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΟόρκοςΙΙ2023.jpg" ,Ο όρκος ΙΙ (2023-2024)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ο.όρκος.ΙΙ.(2023-2024)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Στασύρματα2023.jpg" ,Στα σύρματα (2023-2024)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Στα.σύρματα.(2023-2024)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/300καιδύο2022.jpg" ,300...και δύο (2022)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/300...και.δύο.(2022)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/3οςΌροφος2023.jpg" ,3ος Όροφος (2023)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/3ος.Όροφος.(2023)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/HannahMontana2006.jpg" ,Hannah Montana (2006-2011)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Hannah.Montana.(2006-2011)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Αγάπηπαράνομη2022.jpg" ,Αγάπη παράνομη (2022)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Αγάπη.παράνομη.(2022)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Αγνώστουδιαμονής2006.jpg" ,Αγνώστου διαμονής (2006)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Αγνώστου.διαμονής.(2006)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Αθήνα-Θεσσαλονίκη.jpg" ,Αθήνα - Θεσσαλονίκη (1997-1998)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Αθήνα.-.Θεσσαλονίκη.(1997-1998)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΑκριβήμουΣοφία1990.jpg" ,Ακριβή μου Σοφία (1990-1991)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ακριβή.μου.Σοφία.(1990-1991)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ακυβέρνητεςπολιτείες.jpg" ,Ακυβέρνητες πολιτείες - Η λέσχη (1986-1987)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ακυβέρνητες.πολιτείες.-.Η.λέσχη.(1986-1987)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/amunazwnis.jpg" ,Άμυνα ζώνης (2007-2008)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Άμυνα.ζώνης.(2007-2008)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ανίσχυραψεύδη.jpg" ,Ανίσχυρα ψεύδη (1999-2000)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ανίσχυρα.ψεύδη.(1999-2000)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΆνναΠετρή1984.jpg" ,Άννα Πετρή (1984)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Άννα.Πετρή.(1984)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ανυπότακτεςκαρδιές2002.jpg" ,Ανυπότακτες καρδιές (2002-2004)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ανυπότακτες.καρδιές.(2002-2004)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Αξέχαστεςκωμωδίες1996.jpg" ,Αξέχαστες κωμωδίες (1996)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Αξέχαστες.κωμωδίες.(1996)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Αξιότιμοικύριοι1991.jpg" ,Αξιότιμοι κύριοι (1991)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Αξιότιμοι.κύριοι.(1991)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ασθενείςκαιοδοιπόροι2002.jpg" ,Ασθενείς και οδοιπόροι (2002)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ασθενείς.και.οδοιπόροι.(2002)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/astrofeggia.jpg" ,Αστροφεγγιά (1980-1981)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Αστροφεγγιά.(1980-1981)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Αττίκ1985.jpg" ,Αττίκ (1985-1986)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Αττίκ.(1985-1986)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Βαρδιάνοςστασπόρκα2021.jpg" ,Βαρδιάνος στα σπόρκα (2021)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Βαρδιάνος.στα.σπόρκα.(2021)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Βεγγαλικά.jpg" ,Βεγγαλικά (1988-1989)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Βεγγαλικά.(1988-1989)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Γαλήνη.jpg" ,Γαλήνη (1976-1977)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Γαλήνη.(1976-1977)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΓεώργιοςΒιζυηνόςΗσιωπήτωναγγέλων2000.jpg" ,Γεώργιος Βιζυηνός: Η σιωπή των αγγέλων (2000)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Γεώργιος.Βιζυηνός:.Η.σιωπή.των.αγγέλων.(2000)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Γιαμιακαινούργιαζωή.jpg" ,Για μια καινούργια ζωή (1988-1989)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Για.μια.καινούργια.ζωή.(1988-1989)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΓιάννηςκαιΜαρία.jpg" ,Γιάννης και Μαρία (1982-1983)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Γιάννης.και.Μαρία.(1982-1983)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Εμέναδενθαμουκάνετετοσπίτι2000.jpg" ,Δε θα μου κάνετε το σπίτι... (2000-2001)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Δε.θα.μου.κάνετε.το.σπίτι....(2000-2001)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Διόδια.jpg" ,Διόδια (1988)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Διόδια.(1988)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Διπλήαλήθεια1997.jpg" ,Διπλή αλήθεια (1997-1998)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Διπλή.αλήθεια.(1997-1998)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Εκείνοςκαιεκείνος.jpg" ,Εκείνος και... εκείνος (1988-1989)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Εκείνος.και....εκείνος.(1988-1989)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΈλααπόψεστουΘωμά.jpg" ,Έλα απόψε στου Θωμά (1991)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Έλα.απόψε.στου.Θωμά.(1991)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ελληνικέςιστορίεςμυστηρίουκαιφαντασίας.jpg" ,Ελληνικές ιστορίες μυστηρίου και φαντασίας (1989)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ελληνικές.ιστορίες.μυστηρίου.και.φαντασίας.(1989)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Εξαδιαιρέτου1992.jpg" ,Εξ αδιαιρέτου (1992-1993)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Εξ.αδιαιρέτου.(1992-1993)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Έξιψέματακαιμιααλήθεια2000.jpg" ,Έξι ψέματα και μια αλήθεια (2000-2001)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Έξι.ψέματα.και.μια.αλήθεια.(2000-2001)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Επιστροφή.jpg" ,Επιστροφή (1982-1983)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Επιστροφή.(1982-1983)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ερόϊκα.jpg" ,Ερόικα (1999)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ερόικα.(1999)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ζακέταναπάρεις2021.jpg" ,Ζακέτα να πάρεις (2021-2022)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ζακέτα.να.πάρεις.(2021-2022)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ζητώγνωριμία1990.jpg" ,Ζητώ γνωριμία (1990)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ζητώ.γνωριμία.(1990)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ηαγάπηάργησεμιαμέρα.jpg" ,Η αγάπη άργησε μια μέρα (1997-1998)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Η.αγάπη.άργησε.μια.μέρα.(1997-1998)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ηαλεπούκαιομπούφος.jpg" ,Η αλεπού και ο μπούφος (1987-1988)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Η.αλεπού.και.ο.μπούφος.(1987-1988)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ηάλληπλευράτουτοίχου1999.jpg" ,Η άλλη πλευρά του τοίχου (1999-2000)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Η.άλλη.πλευρά.του.τοίχου.(1999-2000)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΗΑλτάνατηςΠάργας1990.jpg" ,Η Αλτάνα της Πάργας (1990)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Η.Αλτάνα.της.Πάργας.(1990)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/idaskalametaxrusamatia.jpg" ,Η δασκάλα με τα χρυσά μάτια (1979)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Η.δασκάλα.με.τα.χρυσά.μάτια.(1979)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΗΕξαφάνισητουΤζωνΑυλακιώτη.jpg" ,Η Εξαφάνιση του Τζων Αυλακιώτη (1985)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Η.Εξαφάνιση.του.Τζων.Αυλακιώτη.(1985)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ηζωήεντάφω2019.jpg" ,Η ζωή εν τάφω (2019)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Η.ζωή.εν.τάφω.(2019)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΗζωήκαιοθάνατοςτουΚαραβέλα.jpg" ,Η ζωή και ο θάνατος του Καραβέλα (1996)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Η.ζωή.και.ο.θάνατος.του.Καραβέλα.(1996)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ηκάθοδος.jpg" ,Η κάθοδος (1983-1984)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Η.κάθοδος.(1983-1984)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΗκυρίαΝτορεμί.jpg" ,Η κυρία Ντορεμί (1983-1984)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Η.κυρία.Ντορεμί.(1983-1984)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ηλυγερή.jpg" ,Η Λυγερή (1995-1996)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Η.Λυγερή.(1995-1996)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΗΜανιάτισσα.jpg" ,Η Μανιάτισσα (1987)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Η.Μανιάτισσα.(1987)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ηπαρέλαση1988.jpg" ,Η παρέλαση (1988)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Η.παρέλαση.(1988)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ηπόλη1991.jpg" ,Η πόλη (1991)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Η.πόλη.(1991)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ησκιάχτρα.jpg" ,Η σκιάχτρα (1985)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Η.σκιάχτρα.(1985)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ησυκοφαντίατουαίματος1999.jpg" ,Η συκοφαντία του αίματος (1999-2000)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Η.συκοφαντία.του.αίματος.(1999-2000)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ητούρτατηςμαμάς2020.jpg" ,Η τούρτα της μαμάς (2020-2022)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Η.τούρτα.της.μαμάς.(2020-2022)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ηφανέλαμετο9.jpg" ,Η φανέλα με το 9 (1990)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Η.φανέλα.με.το.9.(1990)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ηφόνισσα.jpg" ,Η φόνισσα (1993)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Η.φόνισσα.(1993)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ηφυλήτωνανθρώπων.jpg" ,Η φυλή των ανθρώπων (1995-1996)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Η.φυλή.των.ανθρώπων.(1995-1996)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ηφωνή2001.jpg" ,Η φωνή (2001-2002)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Η.φωνή.(2001-2002)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ιόλη.jpg" ,Ιόλη (1986-1987)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ιόλη.(1986-1987)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ισιδώρα.jpg" ,Ισιδώρα (1973-1974)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ισιδώρα.(1973-1974)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Κάθεκατεργάρηςστονπάγκοτου1990.jpg" ,Κάθε κατεργάρης στον πάγκο του (1990-1991)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Κάθε.κατεργάρης.στον.πάγκο.του.(1990-1991)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Καιμιλάεικαιλαλάει.jpg" ,Και μιλάει ...και λαλάει (1995-1996)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Και.μιλάει....και.λαλάει.(1995-1996)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Καπνισμένοςουρανός1985.jpg" ,Καπνισμένος ουρανός (1985)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Καπνισμένος.ουρανός.(1985)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/καραβανσαραι.jpg" ,Καραβάν Σαράϊ (1986)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Καραβάν.Σαράϊ.(1986)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Καρουζέλ1989.jpg" ,Καρουζέλ (1989-1990)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Καρουζέλ.(1989-1990)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Καρτποστάλ2021.jpg" ,Καρτ ποστάλ (2021)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Καρτ.ποστάλ.(2021)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/karuwtakis.jpg" ,Καρυωτάκης (2009)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Καρυωτάκης.(2009)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Κεφαλλονίτικεςιστορίες1986.jpg" ,Κεφαλλονίτικες ιστορίες (1986)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Κεφαλλονίτικες.ιστορίες.(1986)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Κιόμωςείμαιακόμαεδώ2022.jpg" ,Κι όμως είμαι ακόμα εδώ (2022)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Κι.όμως.είμαι.ακόμα.εδώ.(2022)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Κομμάτιακαιθρύψαλα1989.jpg" ,Κομμάτια και θρύψαλα (1989)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Κομμάτια.και.θρύψαλα.(1989)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Κρίσιμεςστιγμές2021.jpg" ,Κρίσιμες στιγμές (2021)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Κρίσιμες.στιγμές.(2021)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΚωστήςΠαλαμάς1993.jpg" ,Κωστής Παλαμάς (1993)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Κωστής.Παλαμάς.(1993)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Λεηλασίαμιαςζωής.jpg" ,Λεηλασία μιας ζωής (1978-1979)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Λεηλασία.μιας.ζωής.(1978-1979)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Λεμονόδασος1978.jpg" ,Λεμονόδασος (1978-1979)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Λεμονόδασος.(1978-1979)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/lw3antra.jpg" ,Λωξάντρα (1980-1981)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Λωξάντρα.(1980-1981)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Μαγικήνύχτα.jpg" ,Μαγική νύχτα (1995)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Μαγική.νύχτα.(1995)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Μαμάκαιγιός2002.jpg" ,Μαμά και γιός (2002-2003)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Μαμά.και.γιός.(2002-2003)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Μάνα.jpg" ,Μάνα (1985)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Μάνα.(1985)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/mantamsousou.jpg" ,Μαντάμ Σουσού (1982-1983)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Μαντάμ.Σουσού.(1982-1983)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΜαντώΜαυρογένους1983.jpg" ,Μαντώ Μαυρογένους (1983-1984)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Μαντώ.Μαυρογένους.(1983-1984)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΜαρίαΔημάδη1987.jpg" ,Μαρία Δημάδη (1987)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Μαρία.Δημάδη.(1987)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Μαύρηχρυσαλλίδα1990.jpg" ,Μαύρη χρυσαλλίδα (1990-1991)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Μαύρη.χρυσαλλίδα.(1990-1991)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Μεθυσμένηπολιτεία.jpg" ,Μεθυσμένη πολιτεία (1980-1981)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Μεθυσμένη.πολιτεία.(1980-1981)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Μημουγυρνάςτηνπλάτη1986.jpg" ,Μη μου γυρνάς την πλάτη (1986-1987)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Μη.μου.γυρνάς.την.πλάτη.(1986-1987)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Μιααπίθανηγιαγιά1991.jpg" ,Μια απίθανη γιαγιά (1991-1992)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Μια.απίθανη.γιαγιά.(1991-1992)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΜιανύχτατουΑυγούστου2022.jpg" ,Μια νύχτα του Αυγούστου (2022)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Μια.νύχτα.του.Αυγούστου.(2022)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Μιαυπέροχηγλωσσού1977.jpg" ,Μια υπέροχη γλωσσού (1977-1978)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Μια.υπέροχη.γλωσσού.(1977-1978)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΜικρόσπίτιστοΠαγκράτι.jpg" ,Μικρό σπίτι στο Παγκράτι (1998-1999)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Μικρό.σπίτι.στο.Παγκράτι.(1998-1999)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Μυρτώ.jpg" ,Μυρτώ (1990)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Μυρτώ.(1990)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Νυχτερινόδελτίο1998.jpg" ,Νυχτερινό δελτίο (1998)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Νυχτερινό.δελτίο.(1998)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Οάγνωστος1988.jpg" ,Ο άγνωστος (1988)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ο.άγνωστος.(1988)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Οαργοναύτης1989.jpg" ,Ο αργοναύτης (1989)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ο.αργοναύτης.(1989)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Οζητιάνος.jpg" ,Ο ζητιάνος (1982)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ο.ζητιάνος.(1982)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΟθείοςμαςοΜίμης.jpg" ,Ο θείος μας ο Μίμης (1984-1985)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ο.θείος.μας.ο.Μίμης.(1984-1985)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/o8usaurostisbagias.jpg" ,Ο θησαυρός της Βαγίας (1984)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ο.θησαυρός.της.Βαγίας.(1984)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Οκήποςμετααγάλματα.jpg" ,Ο κήπος με τα αγάλματα (1981)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ο.κήπος.με.τα.αγάλματα.(1981)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΟΛούσιας.jpg" ,Ο Λούσιας (1989)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ο.Λούσιας.(1989)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΟΜανώληςοΝτελμπεντέρης1991.jpg" ,Ο Μανώλης ο Ντελμπεντέρης (1991)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ο.Μανώλης.ο.Ντελμπεντέρης.(1991)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Οόρκος2022.jpg" ,Ο όρκος (2022)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ο.όρκος.(2022)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Παραμυθάς.jpg" ,Ο παραμυθάς (1978-1987)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ο.παραμυθάς.(1978-1987)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/oprigkipas.jpg" ,Ο πρίγκηπας (1996-1997)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ο.πρίγκηπας.(1996-1997)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΟΣυμβολαιογράφος.jpg" ,Ο Συμβολαιογράφος (1979-1980)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ο.Συμβολαιογράφος.(1979-1980)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/OTαξιτζήςμας.jpg" ,Ο ταξιτζής μας (1978-1979)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ο.ταξιτζής.μας.(1978-1979)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Οφωτογράφοςτουχωριού.jpg" ,Ο φωτογράφος του χωριού (1977-1978)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ο.φωτογράφος.του.χωριού.(1977-1978)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/oxristos3anastaurwnetai.jpg" ,Ο Χριστός ξανασταυρώνεται (1976-1977)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ο.Χριστός.ξανασταυρώνεται.(1976-1977)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/opseftispappous.jpg" ,Ο ψεύτης παππούς (2008-2009)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ο.ψεύτης.παππούς.(2008-2009)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΟδοςΑνθεων.jpg" ,Οδός Ανθέων (1987-1988)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Οδός.Ανθέων.(1987-1988)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΟδόςΙπποκράτους1991.jpg" ,Οδός Ιπποκράτους (1991-1992)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Οδός.Ιπποκράτους.(1991-1992)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Οιαναιδέστατοι.jpg" ,Οι αναιδέστατοι (1999-2000)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Οι.αναιδέστατοι.(1999-2000)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Οιαπόμαχοι1982.jpg" ,Οι απόμαχοι (1982)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Οι.απόμαχοι.(1982)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Οιατρόμητοι2000.jpg" ,Οι ατρόμητοι (2000-2003)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Οι.ατρόμητοι.(2000-2003)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Οιγυναίκεςτηςζωήςτης.jpg" ,Οι γυναίκες της ζωής της (2001-2002)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Οι.γυναίκες.της.ζωής.της.(2001-2002)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Οικληρονόμοι1981.jpg" ,Οι κληρονόμοι (1981)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Οι.κληρονόμοι.(1981)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΟιΠανθέοι.jpg" ,Οι Πανθέοι (1977-1979)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Οι.Πανθέοι.(1977-1979)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Οιρακοσυλλέκτες1994.jpg" ,Οι ρακοσυλλέκτες (1994-1995)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Οι.ρακοσυλλέκτες.(1994-1995)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Όληηδόξαόληηχάρη.jpg" ,Όλη η δόξα... όλη η χάρη (1987-1988)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Όλη.η.δόξα....όλη.η.χάρη.(1987-1988)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ότανήμουνδάσκαλος1993.jpg" ,Όταν ήμουν δάσκαλος (1993)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Όταν.ήμουν.δάσκαλος.(1993)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/pappoudesendrasei.jpg" ,Παππούδες εν δράσει (2000-2001)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Παππούδες.εν.δράσει.(2000-2001)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Παράθυροστονήλιο1994.jpg" ,Παράθυρο στον ήλιο (1994)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Παράθυρο.στον.ήλιο.(1994)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Παραλάβατεδιορισμόν2003.jpg" ,Παραλάβατε διορισμόν (2003-2004)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Παραλάβατε.διορισμόν.(2003-2004)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Παραμύθιχωρίςόνομα1988.jpg" ,Παραμύθι χωρίς όνομα (1988)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Παραμύθι.χωρίς.όνομα.(1988)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Παραμύθιαπίσωαπότακάγκελα1984.jpg" ,Παραμύθια πίσω από τα κάγκελα (1984-1985)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Παραμύθια.πίσω.από.τα.κάγκελα.(1984-1985)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Παράξενοσπίτι1991.jpg" ,Παράξενο σπίτι (1991)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Παράξενο.σπίτι.(1991)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΠοιοςείναιοκύριοςΑλεξίου1988.jpg" ,Ποιος είναι ο κύριος Αλεξίου (1988-1999)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ποιος.είναι.ο.κύριος.Αλεξίου.(1988-1999)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ποίοςήτονοφονεύςτουαδελφούμου2021.jpg" ,Ποίος ήτον ο φονεύς του αδελφού μου (2021)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ποίος.ήτον.ο.φονεύς.του.αδελφού.μου.(2021)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΠόντιοςΠιλάτος1987.jpg" ,Πόντιος Πιλάτος (1987)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Πόντιος.Πιλάτος.(1987)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΠροςΟφρύνιο1984.jpg" ,Προς Οφρύνιο (1984)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Προς.Οφρύνιο.(1984)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Σαναδελφές.jpg" ,Σαν αδελφές (1999-2000)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Σαν.αδελφές.(1999-2000)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Σαντατρελάπουλιά.jpg" ,Σαν τα τρελλά πουλιά (1987)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Σαν.τα.τρελλά.πουλιά.(1987)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Σεξέναχέρια2021.jpg" ,Σε ξένα χέρια (2021-2022)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Σε.ξένα.χέρια.(2021-2022)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Σκιέςστοπεριστύλιο2001.jpg" ,Σκιές στο περιστύλιο (2001-2002)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Σκιές.στο.περιστύλιο.(2001-2002)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Σκονισμένασύννεφα1995.jpg" ,Σκονισμένα σύννεφα (1995-1996)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Σκονισμένα.σύννεφα.(1995-1996)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Σταφτεράτουέρωτα1999.jpg" ,Στα φτερά του έρωτα (1999-2000)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Στα.φτερά.του.έρωτα.(1999-2000)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Σταύρωσηχωρίςανάσταση1989.jpg" ,Σταύρωση χωρίς ανάσταση (1989)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Σταύρωση.χωρίς.ανάσταση.(1989)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Στενέςεπαφέςτρύπιουτοίχου1991.jpg" ,Στενές επαφές τρύπιου τοίχου (1991-1992)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Στενές.επαφές.τρύπιου.τοίχου.(1991-1992)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/stokampingk.jpg" ,Στο κάμπινγκ (1989)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Στο.κάμπινγκ.(1989)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τανάποδα1981.jpg" ,Τ' ανάποδα (1981)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Τ'.ανάποδα.(1981)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τααρραβωνιάσματα.jpg" ,Τα αρραβωνιάσματα (1983)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Τα.αρραβωνιάσματα.(1983)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΤαδελφινάκιατουΑμβρακικού1995.jpg" ,Τα δελφινάκια του Αμβρακικού (1995)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Τα.δελφινάκια.του.Αμβρακικού.(1995)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ταδίδυμα1989.jpg" ,Τα δίδυμα (1989-1990)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Τα.δίδυμα.(1989-1990)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τακαθημερινά.jpg" ,Τα καθημερινά (1983-1984)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Τα.καθημερινά.(1983-1984)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τακαλύτεράμαςχρόνια2020.jpg" ,Τα καλύτερά μας χρόνια (2020-2023)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Τα.καλύτερά.μας.χρόνια.(2020-2023)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΤαΛαυρεωτικά1982.jpg" ,Τα Λαυρεωτικά (1982)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Τα.Λαυρεωτικά.(1982)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΤαλιονταράκιατουκυρΗλία1985.jpg" ,Τα λιονταράκια του κυρ Ηλία (1985)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Τα.λιονταράκια.του.κυρ.Ηλία.(1985)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τανούμερα2022.jpg" ,Τα νούμερα (2022-2023)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Τα.νούμερα.(2022-2023)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ταπαιδιάτηςγειτονιάς1999.jpg" ,Τα παιδιά της γειτονιάς (1999-2000)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Τα.παιδιά.της.γειτονιάς.(1999-2000)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ταπαλιόπαιδατατίθασα1980.jpg" ,Τα παλιόπαιδα τ' ατίθασα (1980-1981)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Τα.παλιόπαιδα.τ'.ατίθασα.(1980-1981)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/tapetrinaliontaria.jpg" ,Τα πέτρινα λιοντάρια (1993)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Τα.πέτρινα.λιοντάρια.(1993)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ταχαμέναγράμματα.jpg" ,Τα χαμένα γράμματα (1997-1998)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Τα.χαμένα.γράμματα.(1997-1998)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ταχρώματατηςαγάπης.jpg" ,Τα χρώματα της αγάπης (1996-1997)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Τα.χρώματα.της.αγάπης.(1996-1997)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ταψάθινακαπέλα.jpg" ,Τα ψάθινα καπέλλα (1995)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Τα.ψάθινα.καπέλλα.(1995)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ταξίμ.jpg" ,Ταξίμ (2000)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ταξίμ.(2000)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΤετράςηξακουστήτουΠειραιώς1999.jpg" ,Τετράς
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Τετράς
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τοβραχιόλιτηςφωτιάς2022.jpg" ,Το βραχιόλι της φωτιάς (2022)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Το.βραχιόλι.της.φωτιάς.(2022)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τογυμνόκορίτσι.jpg" ,Το γυμνό κορίτσι (1982)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Το.γυμνό.κορίτσι.(1982)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΤοΚανάλιτηςΒαγγελίτσας.jpg" ,Το Κανάλι της Βαγγελίτσας (1987-1988)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Το.Κανάλι.της.Βαγγελίτσας.(1987-1988)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/tokaplanitisbitrinas.jpg" ,Το καπλάνι της βιτρίνας (1990)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Το.καπλάνι.της.βιτρίνας.(1990)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τοκορίτσιαπότοποτάμι1991.jpg" ,Το κορίτσι από το ποτάμι (1991)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Το.κορίτσι.από.το.ποτάμι.(1991)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τολούναπάρκ1974.jpg" ,Το λούνα πάρκ (1974-1981)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Το.λούνα.πάρκ.(1974-1981)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/tomikrospitistolibadi.jpg" ,Το μικρό σπίτι στο λιβάδι (1974-1983)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Το.μικρό.σπίτι.στο.λιβάδι.(1974-1983)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/tominoretisaugis.jpg" ,Το μινόρε της αυγής (1983-1984)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Το.μινόρε.της.αυγής.(1983-1984)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τομπουλούκι1988.jpg" ,Το μπουλούκι (1988)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Το.μπουλούκι.(1988)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τομπουρίνι1987.jpg" ,Το μπουρίνι (1987)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Το.μπουρίνι.(1987)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΡόκκοςΧοϊδάς1982.jpg" ,Το ξεκίνημα της φωτιάς (Ρόκκος Χοϊδάς) (1982-1983)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Το.ξεκίνημα.της.φωτιάς.(Ρόκκος.Χοϊδάς).(1982-1983)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τοτέλοςτηςμοναξιάς1991.jpg" ,Το τέλος της μοναξιάς (1991-1992)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Το.τέλος.της.μοναξιάς.(1991-1992)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΤοφωςτουΑυγερινού1980.jpg" ,Το φως του Αυγερινού (1980-1981)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Το.φως.του.Αυγερινού.(1980-1981)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τοχρήμαστολαιμόσας1997.jpg" ,Το χρήμα στο λαιμό σας (1997)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Το.χρήμα.στο.λαιμό.σας.(1997)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τοχωριόεκπαιδεύεται1989.jpg" ,Το χωριό εκπαιδεύεται (1989)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Το.χωριό.εκπαιδεύεται.(1989)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/toukoutioutaparamu8ia.jpg" ,Του κουτιού τα παραμύθια (1987-1988)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Του.κουτιού.τα.παραμύθια.(1987-1988)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τρειςκαιοκούκος.jpg" ,Τρεις και ο κούκος (1985-1986)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Τρεις.και.ο.κούκος.(1985-1986)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/usterair8anoimelisses.jpg" ,Ύστερα ήρθαν οι μέλισσες (2000)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ύστερα.ήρθαν.οι.μέλισσες.(2000)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Φανή.jpg" ,Φανή (1988)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Φανή.(1988)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Φλόγακαιάνεμος2022.jpg" ,Φλόγα και άνεμος (2022)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Φλόγα.και.άνεμος.(2022)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/φρουτοπία.jpg" ,Φρουτοπία (1985-1988)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Φρουτοπία.(1985-1988)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Χαιρέταμουτονπλάτανο2020.jpg" ,Χαιρέτα μου τον πλάτανο (2020-2023)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Χαιρέτα.μου.τον.πλάτανο.(2020-2023)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΧαμένηΆνοιξη.jpg" ,Χαμένη άνοιξη (1995)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Χαμένη.άνοιξη.(1995)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Χατζηεμμανουήλ.jpg" ,Χατζημανουήλ (1984)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Χατζημανουήλ.(1984)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Χειμερινήέξοδος1993.jpg" ,Χειμερινή έξοδος (1993)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Χειμερινή.έξοδος.(1993)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/xrusakoritsia.jpg" ,Χρυσά κορίτσια (2008-2009)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Χρυσά.κορίτσια.(2008-2009)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/38οαστυνομικότμήμα1973.jpg" ,38ο αστυνομικό τμήμα (1973)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/38ο.αστυνομικό.τμήμα.(1973)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Αντίζηλες1989.jpg" ,Αντίζηλες (1989)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Αντίζηλες.(1989)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Απόστολοςκαιμόνος2006.jpg" ,Απόστολος και μόνος (2006)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Απόστολος.και.μόνος.(2006)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΈξινύχτεςστηνΑκρόπολη2021.jpg" ,Έξι νύχτες στην Ακρόπολη (2021)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Έξι.νύχτες.στην.Ακρόπολη.(2021)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Επικίνδυνεςσχέσεις1992.jpg" ,Επικίνδυνες σχέσεις (1992)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Επικίνδυνες.σχέσεις.(1992)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Έρωταςόπωςέρημος2003.jpg" ,Έρωτας όπως έρημος (2003-2004)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Έρωτας.όπως.έρημος.(2003-2004)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ηβεντέτα1986.jpg" ,Η βεντέτα (1986-1987)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Η.βεντέτα.(1986-1987)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ηγυφτοπούλα1974.jpg" ,Η γυφτοπούλα (1974-1975)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Η.γυφτοπούλα.(1974-1975)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ηδίκη1991.jpg" ,Η δίκη (1991)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Η.δίκη.(1991)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ηέκτηεντολή1989.jpg" ,Η έκτη εντολή (1989)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Η.έκτη.εντολή.(1989)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ηκατάλληληστιγμή2005.jpg" ,Η κατάλληλη στιγμή (2005-2006)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Η.κατάλληλη.στιγμή.(2005-2006)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/film.jpg" ,Η κραυγή των λύκων (1980-1981)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Η.κραυγή.των.λύκων.(1980-1981)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ηκυρίαμας1987.jpg" ,Η κυρία μας (1987-1988)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Η.κυρία.μας.(1987-1988)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ηλάμψητωνάστρων1983.jpg" ,Η λάμψη των άστρων (1983-1984)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Η.λάμψη.των.άστρων.(1983-1984)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ιστορίεςμεαπρόοπτοτέλος1992.jpg" ,Ιστορίες με απρόοπτο τέλος (1992)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ιστορίες.με.απρόοπτο.τέλος.(1992)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Κάπουκάπωςκάποτε1988.jpg" ,Κάπου
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Κάπου
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Λέσχημυστηρίου1976.jpg" ,Λέσχη μυστηρίου (1976-1977)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Λέσχη.μυστηρίου.(1976-1977)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/listagamou.jpg" ,Λίστα γάμου (2003-2004)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Λίστα.γάμου.(2003-2004)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/loufakaiparallagi_seira.jpg" ,Λούφα και παραλλαγή (2006-2007)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Λούφα.και.παραλλαγή.(2006-2007)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Μεθοριακόςσταθμός1974.jpg" ,Μεθοριακός σταθμός (1974-1981)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Μεθοριακός.σταθμός.(1974-1981)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Μόνηεξαμελείας2005.jpg" ,Μόνη εξ' αμελείας (2005-2006)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Μόνη.εξ'.αμελείας.(2005-2006)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Μόνοεσύ2006.jpg" ,Μόνο εσύ (2006-2007)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Μόνο.εσύ.(2006-2007)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΟΑνδροκλήςκαιταλιοντάριατου.jpg" ,Ο Ανδροκλής και τα λιοντάρια του (1985-1986)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ο.Ανδροκλής.και.τα.λιοντάρια.του.(1985-1986)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Οδολοφόνοςπουέκλαιγε1973.jpg" ,Ο δολοφόνος που έκλαιγε (1973)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ο.δολοφόνος.που.έκλαιγε.(1973)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΟθησαυρόςτηςΑγγελίνας2005.jpg" ,Ο θησαυρός της Αγγελίνας (2005-2006)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ο.θησαυρός.της.Αγγελίνας.(2005-2006)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Οκάμπος1983.jpg" ,Ο κάμπος (1983)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ο.κάμπος.(1983)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Οιάγγελοικιεγώ1989.jpg" ,Οι άγγελοι κι εγώ (1989)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Οι.άγγελοι.κι.εγώ.(1989)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Οιαξιόπιστοι1982.jpg" ,Οι αξιόπιστοι (1982)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Οι.αξιόπιστοι.(1982)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Οιιερόσυλοι1983.jpg" ,Οι ιερόσυλοι (1983-1984)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Οι.ιερόσυλοι.(1983-1984)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΟικογένειαΒλαμένου1986.jpg" ,Οικογένεια Βλαμένου (1986)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Οικογένεια.Βλαμένου.(1986)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΟικογένειαΖαρντή1983.jpg" ,Οικογένεια Ζαρντή (1983)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Οικογένεια.Ζαρντή.(1983)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Όνειροήταν2003.jpg" ,Όνειρο ήταν (2003-2004)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Όνειρο.ήταν.(2003-2004)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/orkisteiteparakalw.jpg" ,Ορκιστείτε παρακαλώ (1983-1987)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ορκιστείτε.παρακαλώ.(1983-1987)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Παράξενοςταξιδιώτης1972.jpg" ,Παράξενος ταξιδιώτης (1972-1973)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Παράξενος.ταξιδιώτης.(1972-1973)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΠοιοςσκότωσετονΆβελ1988.jpg" ,Ποιος σκότωσε τον Άβελ (1988)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Ποιος.σκότωσε.τον.Άβελ.(1988)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Σχεδόνποτέ2003.jpg" ,Σχεδόν ποτέ (2003-2005)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Σχεδόν.ποτέ.(2003-2005)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τααδέλφια1988.jpg" ,Τα αδέλφια (1988)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Τα.αδέλφια.(1988)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ταξύλινασπαθιά1983.jpg" ,Τα ξύλινα σπαθιά (1983)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Τα.ξύλινα.σπαθιά.(1983)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΤαπαιδιάτηςΝιόβης.jpg" ,Τα παιδιά της Νιόβης (2004-2005)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Τα.παιδιά.της.Νιόβης.(2004-2005)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τοδίλημμα1986.jpg" ,Το δίλημμα (1986)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Το.δίλημμα.(1986)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τοημερολόγιοενόςθυρωρού1979.jpg" ,Το ημερολόγιο ενός θυρωρού (1979-1982)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Το.ημερολόγιο.ενός.θυρωρού.(1979-1982)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τομυστικότουάσπρουβράχου1982.jpg" ,Το μυστικό του άσπρου βράχου (1982)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Το.μυστικό.του.άσπρου.βράχου.(1982)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τοπάθος1984.jpg" ,Το πάθος (1984)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Το.πάθος.(1984)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τοτυχερόμουαστέρι1988.jpg" ,Το τυχερό μου αστέρι (1988-1989)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Το.τυχερό.μου.αστέρι.(1988-1989)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τοφάντασμα1990.jpg" ,Το φάντασμα (1990)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Το.φάντασμα.(1990)
+
+
+
 
 
 
