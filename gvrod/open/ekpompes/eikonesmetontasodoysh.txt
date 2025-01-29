@@ -620,6 +620,10 @@ https://www.tvopen.gr/watch/175804/theatroapollontoc2abdiamantic2bbthsermoypolhs
 https://www.tvopen.gr/watch/175805/oagiosnikolaostonploysionopolioyxosthsermoypolhs|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Σύρος: Βόλτα στα Βαπόρια, την πιο αριστοκρατική συνοικία
 https://www.tvopen.gr/watch/175806/syrosboltastabaporiathnpioaristokratikhsynoikia|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Κως: Κολύμπι με άλογα μέσα στην θάλασσα στην παραλία Μαστιχάρι
+https://www.tvopen.gr/watch/177744/koskolympimealogamesasthnthalassasthnparaliamastixari|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Νάξος: Βόλτα στο Ενετικό Κάστρο της χώρας
+https://www.tvopen.gr/watch/178214/naxosboltastoenetikokastrothsxoras|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Στον Άγιο Γεώργιο, την καθολική μητρόπολη της Σύρου
 https://www.tvopen.gr/watch/175881/stonagiogeorgiothnkatholikhmhtropolhthssyroy|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Σύρος: Μαγικό ηλιοβασίλεμα στην παραλία Κίνι
@@ -638,10 +642,6 @@ https://www.tvopen.gr/watch/177736/kastroantimaxeiasenafroyriosthmeshtoypoythena
 https://www.tvopen.gr/watch/177740/koscasaromanamiaentyposiakhromaikhoikia|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Κως: Το μεγαλοπρεπές Ρωμαϊκό Ωδείο
 https://www.tvopen.gr/watch/177743/kostomegaloprepesromaikoodeio|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Κως: Κολύμπι με άλογα μέσα στην θάλασσα στην παραλία Μαστιχάρι
-https://www.tvopen.gr/watch/177744/koskolympimealogamesasthnthalassasthnparaliamastixari|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Νάξος: Βόλτα στο Ενετικό Κάστρο της χώρας
-https://www.tvopen.gr/watch/178214/naxosboltastoenetikokastrothsxoras|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Νάξος: Το μοναδικό ηλιοβασίλεμα στην Πορτάρα
 https://www.tvopen.gr/watch/178215/naxostomonadikohliobasilemasthnportara|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Νάξος: Επίσκεψη στο Χαλκί, το χωριό που σε πάει πίσω στον χρόνο

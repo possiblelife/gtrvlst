@@ -22,7 +22,11 @@ https://www.alphatv.gr/show/deal/?vtype=player&vid=61596&showId=254&year=2025|we
 https://www.alphatv.gr/show/deal/?vtype=player&vid=61600&showId=254&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 8",ΕΠΕΙΣΟΔΙΟ 77
 https://www.alphatv.gr/show/deal/?vtype=player&vid=61601&showId=254&year=2025|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 8",ΕΠΕΙΣΟΔΙΟ 78                    <span class="labelNew">Νεο</span>
+#EXTINF:-1 group-title="Σεζόν 8",ΕΠΕΙΣΟΔΙΟ 78
 https://www.alphatv.gr/show/deal/?vtype=player&vid=61602&showId=254&year=2025|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 8",ΕΠΕΙΣΟΔΙΟ 79                    <span class="labelNew">Νεο</span>
+#EXTINF:-1 group-title="Σεζόν 8",ΕΠΕΙΣΟΔΙΟ 79
 https://www.alphatv.gr/show/deal/?vtype=player&vid=61603&showId=254&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 8",ΕΠΕΙΣΟΔΙΟ 80
+https://www.alphatv.gr/show/deal/?vtype=player&vid=61676&showId=254&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 8",ΕΠΕΙΣΟΔΙΟ 81 
+https://www.alphatv.gr/show/deal/?vtype=player&vid=61684&showId=254&year=2025|webvidfulldig
