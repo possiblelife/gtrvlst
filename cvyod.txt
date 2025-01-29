@@ -392,9 +392,34 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/sigma/
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/sigma/fontokokkino.txt
 #EXTINF:-1 group-title="SIGMA ΣΕΙΡΕΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Ta_Xrisopsara_Logo_540x304.jpg" tvg-website="https://www.sigmatv.com/shows/xrisopsara" ,Τα Χρυσόψαρα (2005-06)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/sigma/xrisopsara.txt
-#EXTINF:-1 group-title="SIGMA ΣΕΙΡΕΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-palia-gefira.png" tvg-website="https://www.sigmatv.com/shows/palia_gefira" ,Το μυστικό της παλιάς γέφυρας
+#EXTINF:-1 group-title="SIGMA ΣΕΙΡΕΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-palia-gefira.png" tvg-website="https://www.sigmatv.com/shows/palia_gefira" ,Το μυστικό της παλιάς γέφυρας (2016-2017)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/sigma/palia_gefira.txt
-
+#EXTINF:-1 group-title="SIGMA ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Αδάμαστηκαρδιά2013.jpg" ,Αδάμαστη καρδιά (2013-2014)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/sigma/Αδάμαστη.καρδιά.(2013-2014)
+#EXTINF:-1 group-title="SIGMA ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ακτήονείρων1998.jpg" ,Ακτή ονείρων (1998-1999)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/sigma/Ακτή.ονείρων.(1998-1999)
+#EXTINF:-1 group-title="SIGMA ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/zwipodilato.jpg" ,Ζωή ποδήλατο (2006-2008)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/sigma/Ζωή.ποδήλατο.(2006-2008)
+#EXTINF:-1 group-title="SIGMA ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ηεκδίκησηενόςαγγέλου2014.jpg" ,Η εκδίκηση ενός αγγέλου (2014-2015)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/sigma/Η.εκδίκηση.ενός.αγγέλου.(2014-2015)
+#EXTINF:-1 group-title="SIGMA ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/karaoloialakrem.jpg" ,Καραόλοι αλα κρεμ (2008-2009)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/sigma/Καραόλοι.αλα.κρεμ.(2008-2009)
+#EXTINF:-1 group-title="SIGMA ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΚρυφόςΚαιάδας2015.jpg" ,Κρυφός Καιάδας (2015)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/sigma/Κρυφός.Καιάδας.(2015)
+#EXTINF:-1 group-title="SIGMA ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΚύριεΠρόεδρε2001.jpg" ,Κύριε Πρόεδρε (2001)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/sigma/Κύριε.Πρόεδρε.(2001)
+#EXTINF:-1 group-title="SIGMA ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Οδρόμοςτουπεπρωμένου2016.jpg" ,Ο δρόμος του πεπρωμένου (2016-2017)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/sigma/Ο.δρόμος.του.πεπρωμένου.(2016-2017)
+#EXTINF:-1 group-title="SIGMA ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ούναράτσα2002.jpg" ,Ούνα ράτσα (2002-2003)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/sigma/Ούνα.ράτσα.(2002-2003)
+#EXTINF:-1 group-title="SIGMA ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Προδοσίες2016.jpg" ,Προδοσίες (2016-2017)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/sigma/Προδοσίες.(2016-2017)
+#EXTINF:-1 group-title="SIGMA ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/σαγαπώ.jpg" ,Σ' αγαπώ (2003-2004)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/sigma/Σ'.αγαπώ.(2003-2004)
+#EXTINF:-1 group-title="SIGMA ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τακοπέλια2001.jpg" ,Τα κοπέλια (2001-2003)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/sigma/Τα.κοπέλια.(2001-2003)
+#EXTINF:-1 group-title="SIGMA ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τερέζα2016.jpg" ,Τερέζα (2016)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/sigma/Τερέζα.(2016)
 
 
 
