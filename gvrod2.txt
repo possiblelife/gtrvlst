@@ -2004,50 +2004,94 @@ http://.....
 
 #EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://goo.gl/q5aDRg" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.ant1live.com/webtv/seires|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-05/PQ3A2187.jpg?itok=VcA1KG2N" tvg-website="https://www.ant1live.com/webtv/series/kypriakes-seires/la-pasta-pomilori" ,La Pasta Pomilώri
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-05/PQ3A2187.jpg?itok=VcA1KG2N" tvg-website="https://www.ant1live.com/webtv/series/kypriakes-seires/la-pasta-pomilori" ,La Pasta Pomilώri (2017-2020)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1/la-pasta-pomilori.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2023-06/SANTA%20%CE%93%CE%99%CE%9F%CE%9B%CE%91%CE%9D%CE%A4%CE%91%20POSTER.JPG?itok=o9dJRm-n" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/santa-giolanta" ,Santa Γιολάντα
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2023-06/SANTA%20%CE%93%CE%99%CE%9F%CE%9B%CE%91%CE%9D%CE%A4%CE%91%20POSTER.JPG?itok=o9dJRm-n" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/santa-giolanta" ,Santa Γιολάντα (2011-2012)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1/santa-giolanta.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-05/loris%20loizides%20copy.jpg?itok=8mxtSzmM" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/aigia-fuxia" ,Αίγια Fuxia
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-05/loris%20loizides%20copy.jpg?itok=8mxtSzmM" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/aigia-fuxia" ,Αίγια Fuxia (2008-2010)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1/aigia-fuxia.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2023-06/%CE%92%CE%91%CE%9B%CE%A3%20%CE%9C%CE%95%2012%20%CE%98%CE%95%CE%9F%CE%A5%CE%A3%20POSTER%202.jpg?itok=k25DFkKM" tvg-website="https://www.ant1live.com/webtv/series/kypriakes-seires/bals-me-12-theoys" ,Βαλς Με 12 Θεούς
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2023-06/%CE%92%CE%91%CE%9B%CE%A3%20%CE%9C%CE%95%2012%20%CE%98%CE%95%CE%9F%CE%A5%CE%A3%20POSTER%202.jpg?itok=k25DFkKM" tvg-website="https://www.ant1live.com/webtv/series/kypriakes-seires/bals-me-12-theoys" ,Βαλς Με 12 Θεούς (2012-2014)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1/bals-me-12-theoys.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2023-06/%CE%94%CE%95%CE%99%CE%9E%CE%95%20%CE%9C%CE%9F%CE%A5%20%CE%A4%CE%9F%CE%9D%20%CE%A6%CE%99%CE%9B%CE%9F%20%CE%A3%CE%9F%CE%A5%20-%20POSTER.jpg?itok=QHGPEyvZ" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/deixe-moy-ton-filo-soy" ,Δείξε Μου Τον Φίλο Σου
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2023-06/%CE%94%CE%95%CE%99%CE%9E%CE%95%20%CE%9C%CE%9F%CE%A5%20%CE%A4%CE%9F%CE%9D%20%CE%A6%CE%99%CE%9B%CE%9F%20%CE%A3%CE%9F%CE%A5%20-%20POSTER.jpg?itok=QHGPEyvZ" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/deixe-moy-ton-filo-soy" ,Δείξε Μου Τον Φίλο Σου (2006-2007)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1/deixe-moy-ton-filo-soy.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2023-06/%CE%94%CE%99%CE%94%CE%A5%CE%9C%CE%91%20%CE%A6%CE%95%CE%93%CE%93%CE%91%CE%A1%CE%99%CE%91.jpg?itok=AdHdD-GD" tvg-website="https://www.ant1live.com/webtv/series/kypriakes-seires/didyma-feggaria" ,Δίδυμα Φεγγάρια
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2023-06/%CE%94%CE%99%CE%94%CE%A5%CE%9C%CE%91%20%CE%A6%CE%95%CE%93%CE%93%CE%91%CE%A1%CE%99%CE%91.jpg?itok=AdHdD-GD" tvg-website="https://www.ant1live.com/webtv/series/kypriakes-seires/didyma-feggaria" ,Δίδυμα Φεγγάρια (2015-2017)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1/didyma-feggaria.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-09/Ekeino-To-kalokairi-Poster.png?itok=MZaypivV" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/ekeino-kalokairi" ,Εκείνο το Καλοκαίρι
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-09/Ekeino-To-kalokairi-Poster.png?itok=MZaypivV" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/ekeino-kalokairi" ,Εκείνο το Καλοκαίρι (2012-2014)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1/ekeino-kalokairi.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2023-06/%CE%95%CE%9B%CE%95%CE%9D%CE%97%20%CE%97%20%CE%A0%CE%9F%CE%A1%CE%9D%CE%97%20POSTER.jpg?itok=vAfrsPfr" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/eleni-i-porni" ,Ελένη η Πόρνη
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2023-06/%CE%95%CE%9B%CE%95%CE%9D%CE%97%20%CE%97%20%CE%A0%CE%9F%CE%A1%CE%9D%CE%97%20POSTER.jpg?itok=vAfrsPfr" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/eleni-i-porni" ,Ελένη η Πόρνη (2010-2011)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1/eleni-i-porni.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-05/2TJNOKo.jpg?itok=HlfndGqL" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/esy-ston-kosmo-soy" ,Εσύ Στον Κόσμο Σου
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-05/2TJNOKo.jpg?itok=HlfndGqL" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/esy-ston-kosmo-soy" ,Εσύ Στον Κόσμο Σου (2018-2021)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1/esy-ston-kosmo-soy.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-05/257550070_126348359814164_5573355728869503833_n_1.jpg?itok=66CXurQX" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/meliartos" ,Μελίαρτος
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-05/257550070_126348359814164_5573355728869503833_n_1.jpg?itok=66CXurQX" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/meliartos" ,Μελίαρτος (2021-2022)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1/meliartos.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-07/Profile.png?itok=_uBBcz-t" tvg-website="https://www.ant1live.com/webtv/series/kypriakes-seires/mia-fora-k-enan-kairo" ,Μια Φορά Κ' Έναν Καιρό
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-07/Profile.png?itok=_uBBcz-t" tvg-website="https://www.ant1live.com/webtv/series/kypriakes-seires/mia-fora-k-enan-kairo" ,Μια Φορά Κ' Έναν Καιρό (2022-2023)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1/mia-fora-k-enan-kairo.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-07/%CE%BD%CE%B9%CF%89%CF%83%CE%B5%CE%BC%CE%B5.jpg?itok=pvZc17XW" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/niose-me" ,Νιώσε Με
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-07/%CE%BD%CE%B9%CF%89%CF%83%CE%B5%CE%BC%CE%B5.jpg?itok=pvZc17XW" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/niose-me" ,Νιώσε Με (2012-2014)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1/niose-me.txt
 #EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2023-05/%27%CE%9F%2C%CF%84%CE%B9%20%CE%B1%CE%B3%CE%AC%CF%80%CE%B7%CF%83%CE%B1%20poster_1.jpg?itok=syyMQNm9" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/oti-agapisa" ,Ό,τι Αγάπησα
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1/oti-agapisa.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-09/%CF%87%CF%89%CF%81%CE%B1%CE%B9%CF%84%CE%B5%CF%82.png?itok=rOin0Vot" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/oi-horaites" ,Οι Χωραϊτες
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-09/%CF%87%CF%89%CF%81%CE%B1%CE%B9%CF%84%CE%B5%CF%82.png?itok=rOin0Vot" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/oi-horaites" ,Οι Χωραϊτες (2002-2003)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1/oi-horaites.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-09/900_bcfbbacf-aaef-4fcf-9494-86efbf0c90cd.jpg?itok=oTOnxf-H" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/orgi" ,Οργή
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-09/900_bcfbbacf-aaef-4fcf-9494-86efbf0c90cd.jpg?itok=oTOnxf-H" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/orgi" ,Οργή (2018-2019)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1/orgi.txt
 #EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2023-09/%CE%A0%CE%91%CE%9D%CE%A3%CE%95%CE%9B%CE%97%CE%9D%CE%9F%CE%A3%20POSTER2.jpg?itok=uzHEMsHv" tvg-website="https://www.ant1live.com/webtv/series/kypriakes-seires/panselinos" ,Πανσέληνος
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1/panselinos.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-09/6DCCB1C441E231B2238B48EAEF87C9F2.jpg?itok=hDJDGCnV" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/proti-stagona" ,Πρώτη Σταγόνα
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-09/6DCCB1C441E231B2238B48EAEF87C9F2.jpg?itok=hDJDGCnV" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/proti-stagona" ,Πρώτη Σταγόνα (2014-2016)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1/proti-stagona.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-08/saloomi.png?itok=4xHHCbe1" tvg-website="https://www.ant1live.com/webtv/series/kypriakes-seires/salomi" ,Σαλώμη
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-08/saloomi.png?itok=4xHHCbe1" tvg-website="https://www.ant1live.com/webtv/series/kypriakes-seires/salomi" ,Σαλώμη (2022)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1/salomi.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-05/%CE%A4%CE%B7%CE%BD%CE%A0%CE%AC%CF%84%CE%B7%CF%83%CE%B1%CE%A0%CF%8C%CF%83%CF%84%CE%B5%CF%81_0.jpg?itok=D_KtbQ7Z" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/tin-patisa" ,Την Πάτησα
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-05/%CE%A4%CE%B7%CE%BD%CE%A0%CE%AC%CF%84%CE%B7%CF%83%CE%B1%CE%A0%CF%8C%CF%83%CF%84%CE%B5%CF%81_0.jpg?itok=D_KtbQ7Z" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/tin-patisa" ,Την Πάτησα (2008-2009)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1/tin-patisa.txt
 #EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2023-06/16.%20%CE%A4%CE%9F%20%CE%95%CE%92%CE%94%CE%9F%CE%9C%CE%9F%20%CE%9A%CE%9B%CE%95%CE%99%CE%94%CE%99%202.jpg?itok=tEwzqCf-" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/ebdomo-kleidi" ,Το Έβδομο Κλειδί
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1/ebdomo-kleidi.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2023-06/%CE%94%CE%95%CE%99%CE%9E%CE%95%20%CE%9C%CE%9F%CE%A5%20%CE%A4%CE%9F%CE%9D%20%CE%A6%CE%99%CE%9B%CE%9F%20%CE%A3%CE%9F%CE%A5%20-%20POSTER%20new.jpg?itok=F04-1bIo" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/frento-kapoytsino" ,Φρέντο Καπουτσίνο
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2023-06/%CE%94%CE%95%CE%99%CE%9E%CE%95%20%CE%9C%CE%9F%CE%A5%20%CE%A4%CE%9F%CE%9D%20%CE%A6%CE%99%CE%9B%CE%9F%20%CE%A3%CE%9F%CE%A5%20-%20POSTER%20new.jpg?itok=F04-1bIo" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/frento-kapoytsino" ,Φρέντο Καπουτσίνο (2021-2022)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1/frento-kapoytsino.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-05/xwris2_0.jpg?itok=AgOCoyNl" tvg-website="https://www.ant1live.com/webtv/series/kypriakes-seires/horis-esena" ,Χωρίς Εσένα
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-05/xwris2_0.jpg?itok=AgOCoyNl" tvg-website="https://www.ant1live.com/webtv/series/kypriakes-seires/horis-esena" ,Χωρίς Εσένα (2015-2016)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1/horis-esena.txt
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/γραφείοταξί.jpg" ,Γραφείο ταξί (2000-2001)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1cy/Γραφείο.ταξί.(2000-2001)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Δενσεσυγχωρώ2016.jpg" ,Δεν σε συγχωρώ (2016)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1cy/Δεν.σε.συγχωρώ.(2016)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Κλεμμένηζωή2015.jpg" ,Κλεμμένη ζωή (2015)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1cy/Κλεμμένη.ζωή.(2015)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Λύκελύκεείσαιεδώ.jpg" ,Λύκε λύκε είσαι εδώ; (2011-2012)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1cy/Λύκε.λύκε.είσαι.εδώ;.(2011-2012)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Μάμμαμία2016.jpg" ,Μάμμα μία (2016-2017)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1cy/Μάμμα.μία.(2016-2017)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Marina-Latembestad2014.jpg" ,Μαρίνα (2014)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1cy/Μαρίνα.(2014)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΟθρίαμβοςτηςαγάπηςTriunfodelamor2010.jpg" ,Ο θρίαμβος της αγάπης (2010-2012)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1cy/Ο.θρίαμβος.της.αγάπης.(2010-2012)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Οίσκιοςτηςφωτιάς2005.jpg" ,Ο ίσκιος της φωτιάς (2005)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1cy/Ο.ίσκιος.της.φωτιάς.(2005)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Οκόσμοςναχαλάσει2017.jpg" ,Ο κόσμος να χαλάσει (2017-2018)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1cy/Ο.κόσμος.να.χαλάσει.(2017-2018)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Όμικρονθετικό2014.jpg" ,Όμικρον θετικό (2014-2015)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1cy/Όμικρον.θετικό.(2014-2015)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Πάθοςγιαεξουσία2016.jpg" ,Πάθος για εξουσία (2016-2017)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1cy/Πάθος.για.εξουσία.(2016-2017)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Πρεμιέρα.jpg" ,Πρεμιέρα (2011-2012)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1cy/Πρεμιέρα.(2011-2012)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ρουάματ2014.jpg" ,Ρουά ματ (2014-2015)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1cy/Ρουά.ματ.(2014-2015)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ταμαύραμάθκια2016.jpg" ,Τα μαύρα μάθκια (2016-2017)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1cy/Τα.μαύρα.μάθκια.(2016-2017)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ταπέντεκλειδιά2016.jpg" ,Τα πέντε κλειδιά (2016-2017)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1cy/Τα.πέντε.κλειδιά.(2016-2017)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΤατρίαπρόσωπατηςΆννας2017.jpg" ,Τα τρία πρόσωπα της Άννας (2017)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1cy/Τα.τρία.πρόσωπα.της.Άννας.(2017)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ΤοαλλαντοπωλείοΓρηγορίου2013.jpg" ,Το αλλαντοπωλείο Γρηγορίου (2013)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1cy/Το.αλλαντοπωλείο.Γρηγορίου.(2013)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/τοκαφενείο.jpg" ,Το καφενείο (1999)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1cy/Το.καφενείο.(1999)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/τοπρόβλημάμουμετιςγυναίκες.jpg" ,Το πρόβλημά μου με τις γυναίκες (2008)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1cy/Το.πρόβλημά.μου.με.τις.γυναίκες.(2008)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τοχάρτινοκουτί2021.jpg" ,Το χάρτινο κουτί (2021)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1cy/Το.χάρτινο.κουτί.(2021)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Υπότοφωςτουφεγγαριού2012.jpg" ,Υπό το φως του φεγγαριού (2012)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1cy/Υπό.το.φως.του.φεγγαριού.(2012)
+
+
 
 
 
@@ -2103,11 +2147,11 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/alpha/
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/alpha/mourmoura.txt
 #EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/fonoi-1_0.jpg?itok=NKBOzQ0n" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/fonoistokabanario/webtv" ,ΦΟΝΟΙ ΣΤΟ ΚΑΜΠΑΝΑΡΙΟ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/alpha/fonoistokabanario.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/karma%20revised.png?itok=UoDwkJsK" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/karma/webtv" ,ΚΑΡΜΑ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/karma%20revised.png?itok=UoDwkJsK" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/karma/webtv" ,ΚΑΡΜΑ (2018-2023)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/alpha/karma.txt
 #EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/nyxta.jpg?itok=zv49zFja" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/nyxta/webtv" ,ΑΥΤΗ Η ΝΥΧΤΑ ΜΕΝΕΙ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/alpha/nyxta.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/camping_1.jpg?itok=gtyM7Irz" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/camping/webtv" ,ΚΑΜΠΙΝΓΚ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/camping_1.jpg?itok=gtyM7Irz" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/camping/webtv" ,ΚΑΜΠΙΝΓΚ (2020-2022)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/alpha/camping.txt
 #EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/aggeliki.jpg?itok=ZuYvJkTk" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/aggeliki/webtv" ,ΑΓΓΕΛΙΚΗ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/alpha/aggeliki.txt
@@ -2119,7 +2163,7 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/alpha/
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/alpha/asteriastinammo.txt
 #EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/%CE%95%CE%A1%CE%A9%CE%A4%CE%91%CE%A3-2.jpg?itok=SgXS97C7" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/erwtasmeta/webtv" ,ΕΡΩΤΑΣ ΜΕΤΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/alpha/erwtasmeta.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/accordion-1_12.jpg?itok=elydYU0P" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/familia/webtv" ,Η ΦΑΜΙΛΙΑ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/accordion-1_12.jpg?itok=elydYU0P" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/familia/webtv" ,Η ΦΑΜΙΛΙΑ (2018-2020)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/alpha/familia.txt
 #EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/accordion-1_9.jpg?itok=T9XO6rPy" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/gynaikaxwrisonoma/webtv" ,ΓΥΝΑΙΚΑ ΧΩΡΙΣ ΟΝΟΜΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/alpha/gynaikaxwrisonoma.txt
@@ -2127,11 +2171,11 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/alpha/
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/alpha/tosoisou.txt
 #EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/spiti_einai._1.jpg?itok=tXE3ByaX" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/spitieinai/webtv" ,ΣΠΙΤΙ ΕΙΝΑΙ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/alpha/spitieinai.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/mble-full-shadow.jpg?itok=Majuvz48" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/mple/webtv" ,ΜΠΛΕ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/mble-full-shadow.jpg?itok=Majuvz48" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/mple/webtv" ,ΜΠΛΕ (2018-2019)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/alpha/mple.txt
 #EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/2_9.jpg?itok=kix1R7dT" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/kratasmystiko/webtv" ,ΚΡΑΤΑΣ ΜΥΣΤΙΚΟ;
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/alpha/kratasmystiko.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/tatoyaz_slider1_2.jpg?itok=NgZk73GK" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/16grammata/webtv" ,ΤΑ 16 ΓΡΑΜΜΑΤΑ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/tatoyaz_slider1_2.jpg?itok=NgZk73GK" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/16grammata/webtv" ,ΤΑ 16 ΓΡΑΜΜΑΤΑ (2019)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/alpha/16grammata.txt
 #EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/imgp9773.jpg?itok=yYJqcnhu" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/kokkinonyfiko/webtv" ,ΚΟΚΚΙΝΟ ΝΥΦΙΚΟ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/alpha/kokkinonyfiko.txt
@@ -2153,10 +2197,12 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/alpha/
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/alpha/10hentoli.txt
 #EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/asemasremama.jpg?itok=BY1bx6gx" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/asemasremama/webtv" ,ΑΣΕ ΜΑΣ ΡΕ ΜΑΜΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/alpha/asemasremama.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/accordionwithoutlogo_0.jpg?itok=2GjaPMkt" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/sanoikogeneia/webtv" ,ΣΑΝ ΟΙΚΟΓΕΝΕΙΑ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/accordionwithoutlogo_0.jpg?itok=2GjaPMkt" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/sanoikogeneia/webtv" ,ΣΑΝ ΟΙΚΟΓΕΝΕΙΑ (2016-2017)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/alpha/sanoikogeneia.txt
 #EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/mavra_mathkia.jpg?itok=zIMKNLV9" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/tamavramathkia/webtv" ,ΤΑ ΜΑΥΡΑ ΜΑΘΚΙΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/alpha/tamavramathkia.txt
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Σμύρνημουαγαπημένη2022.jpg" ,Σμύρνη μου αγαπημένη (2022)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/alphacy/Σμύρνη.μου.αγαπημένη.(2022)
 
 
 #EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ALPHA ΚΥΠΡΟΥ ====
@@ -2518,13 +2564,13 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/1000x650-v6.txt
 #EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180824_simiakaiterata.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=97692&-V=tvshows" ,ΣΗΜΕΙΑ ΚΑΙ ΤΕΡΑΤΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/20180824_simiakaiterata.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/mia-tou-klefti.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=179305&-V=tvshows" ,ΜΙΑ ΤΟΥ ΚΛΕΦΤΗ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/mia-tou-klefti.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=179305&-V=tvshows" ,ΜΙΑ ΤΟΥ ΚΛΕΦΤΗ (2021)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/mia-tou-klefti.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180824_alaloum.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=140126&-V=tvshows" ,ΣΤΟ ΑΛΑΛΟΥΜ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180824_alaloum.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=140126&-V=tvshows" ,ΣΤΟ ΑΛΑΛΟΥΜ (2018)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/20180824_alaloum.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180824_imamaleipei.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=122975&-V=tvshows" ,Η ΜΑΜΑ ΛΕΙΠΕΙ ΤΑΞΙΔΙ ΓΙΑ ΔΟΥΛΕΙΕΣ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180824_imamaleipei.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=122975&-V=tvshows" ,Η ΜΑΜΑ ΛΕΙΠΕΙ ΤΑΞΙΔΙ ΓΙΑ ΔΟΥΛΕΙΕΣ (2016-2017)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/20180824_imamaleipei.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/20160822_zoimou.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=122976&-V=tvshows" ,ΖΩΗ ΜΟΥ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/20160822_zoimou.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=122976&-V=tvshows" ,ΖΩΗ ΜΟΥ (2016-2017)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/20160822_zoimou.txt
 #EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20181109_giatros.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=139531&-V=tvshows" ,ΜΠΡΑΒΟ ΓΙΑΤΡΕ ΜΟΥ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/20181109_giatros.txt
@@ -2540,6 +2586,42 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/20181108_gata.txt
 #EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180202_perasmenes_mou_agapes.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=137648&-V=tvshows" ,ΠΕΡΑΣΜΕΝΕΣ ΜΟΥ ΑΓΑΠΕΣ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/20180202_perasmenes_mou_agapes.txt
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/9μήνες2015.jpg" ,9 μήνες (2015-2017)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/9.μήνες.(2015-2017)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Daddycool2012.jpg" ,Daddy cool (2012)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/Daddy.cool.(2012)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/DrΙπποκράτης2015.jpg" ,Dr Ιπποκράτης (2015)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/Dr.Ιπποκράτης.(2015)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ανήσυχαχρόνια1999.jpg" ,Ανήσυχα χρόνια (1999-2000)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/Ανήσυχα.χρόνια.(1999-2000)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ένοχαμυστικά2012.jpg" ,Ένοχα μυστικά (2012)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/Ένοχα.μυστικά.(2012)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Ζωήλαχείο2014.jpg" ,Ζωή λαχείο (2013)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/Ζωή.λαχείο.(2013)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Κάθεκατεργάρηςστονπάγκοτου1998.jpg" ,Κάθε κατεργάρης στον πάγκο του (1998-1999)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/Κάθε.κατεργάρης.στον.πάγκο.του.(1998-1999)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Καλλίττεραενγίνεται.jpg" ,Καλλίττερα εν γίνεται (2000-2001)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/Καλλίττερα.εν.γίνεται.(2000-2001)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Μηδέν2012.jpg" ,Μηδέν (2012)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/Μηδέν.(2012)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/οιδιπλάρες.jpg" ,Οι διπλάρες (1994-1995)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/Οι.διπλάρες.(1994-1995)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Οικληρονόμοι2002.jpg" ,Οι κληρονόμοι (2002-2003)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/Οι.κληρονόμοι.(2002-2003)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Όνειροήταν2013.jpg" ,Όνειρο ήταν (2013-2014)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/Όνειρο.ήταν.(2013-2014)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Πόρτακλειδωμένη2012.jpg" ,Πόρτα κλειδωμένη (2012-2013)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/Πόρτα.κλειδωμένη.(2012-2013)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Σημείακαιτέρατα2015.jpg" ,Σημεία και τέρατα (2015)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/Σημεία.και.τέρατα.(2015)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/ταψάρκα.jpg" ,Τα ψάρκα (2000-2001)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/Τα.ψάρκα.(2000-2001)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τηντύχημουμέσα2014.jpg" ,Την τύχη μου μέσα (2014-2015)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/Την.τύχη.μου.μέσα.(2014-2015)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Το3οσημάδι2011.jpg" ,Το 3ο σημάδι (2011-2012)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/Το.3ο.σημάδι.(2011-2012)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τοδαχτυλίδιτηςφωτιάς2014.jpg" ,Το δαχτυλίδι της φωτιάς (2014-2016)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/Το.δαχτυλίδι.της.φωτιάς.(2014-2016)
 
 
 

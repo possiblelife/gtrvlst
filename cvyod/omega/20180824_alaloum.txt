@@ -1,48 +1,48 @@
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 001 ΣΤΟ ΑΛΑΛΟΥΜ
-https://www.omegatv.com.cy/cgibin/hweb?-A=140734&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 002 ΣΤΟ ΑΛΑΛΟΥΜ
-https://www.omegatv.com.cy/cgibin/hweb?-A=140735&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 003 ΣΤΟ ΑΛΑΛΟΥΜ
-https://www.omegatv.com.cy/cgibin/hweb?-A=140736&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 004 ΣΤΟ ΑΛΑΛΟΥΜ
-https://www.omegatv.com.cy/cgibin/hweb?-A=140910&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 005 ΣΤΟ ΑΛΑΛΟΥΜ
-https://www.omegatv.com.cy/cgibin/hweb?-A=140911&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 006 ΣΤΟ ΑΛΑΛΟΥΜ
-https://www.omegatv.com.cy/cgibin/hweb?-A=140912&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 007 ΣΤΟ ΑΛΑΛΟΥΜ
-https://www.omegatv.com.cy/cgibin/hweb?-A=140914&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 008 ΣΤΟ ΑΛΑΛΟΥΜ
+#EXTINF:-1 group-title="Όλα τα επεισόδια",01
+https://www.omegatv.com.cy/cgibin/hweb?-A=140734&-V=vod|webfulldig||||https://www.dailymotion.com/video/x6jqs35|webdelayfulldig$$delay=4
+#EXTINF:-1 group-title="Όλα τα επεισόδια",02
+https://www.omegatv.com.cy/cgibin/hweb?-A=140735&-V=vod|webfulldig||||https://www.dailymotion.com/video/x6jqt45|webdelayfulldig$$delay=4
+#EXTINF:-1 group-title="Όλα τα επεισόδια",03
+https://www.omegatv.com.cy/cgibin/hweb?-A=140736&-V=vod|webfulldig||||https://www.dailymotion.com/video/x6jqtno|webdelayfulldig$$delay=4
+#EXTINF:-1 group-title="Όλα τα επεισόδια",04
+https://www.omegatv.com.cy/cgibin/hweb?-A=140910&-V=vod|webfulldig||||https://www.dailymotion.com/video/x6jx155|webdelayfulldig$$delay=4
+#EXTINF:-1 group-title="Όλα τα επεισόδια",05
+https://www.omegatv.com.cy/cgibin/hweb?-A=140911&-V=vod|webfulldig||||https://www.dailymotion.com/video/x6jxrn4|webdelayfulldig$$delay=4
+#EXTINF:-1 group-title="Όλα τα επεισόδια",06
+https://www.omegatv.com.cy/cgibin/hweb?-A=140912&-V=vod|webfulldig||||https://www.dailymotion.com/video/x6k11gd|webdelayfulldig$$delay=4
+#EXTINF:-1 group-title="Όλα τα επεισόδια",07
+https://www.omegatv.com.cy/cgibin/hweb?-A=140914&-V=vod|webfulldig||||https://www.dailymotion.com/video/x6lba74|webdelayfulldig$$delay=4
+#EXTINF:-1 group-title="Όλα τα επεισόδια",08
 https://www.omegatv.com.cy/cgibin/hweb?-A=140918&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 009 ΣΤΟ ΑΛΑΛΟΥΜ
+#EXTINF:-1 group-title="Όλα τα επεισόδια",09
 https://www.omegatv.com.cy/cgibin/hweb?-A=140942&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 010 ΣΤΟ ΑΛΑΛΟΥΜ
-https://www.omegatv.com.cy/cgibin/hweb?-A=141131&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 011 ΣΤΟ ΑΛΑΛΟΥΜ
-https://www.omegatv.com.cy/cgibin/hweb?-A=141132&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 012 ΣΤΟ ΑΛΑΛΟΥΜ
-https://www.omegatv.com.cy/cgibin/hweb?-A=141133&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 013 ΣΤΟ ΑΛΑΛΟΥΜ
-https://www.omegatv.com.cy/cgibin/hweb?-A=141556&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 014 ΣΤΟ ΑΛΑΛΟΥΜ
-https://www.omegatv.com.cy/cgibin/hweb?-A=141567&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 015 ΣΤΟ ΑΛΑΛΟΥΜ
-https://www.omegatv.com.cy/cgibin/hweb?-A=141571&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 016 ΣΤΟ ΑΛΑΛΟΥΜ
-https://www.omegatv.com.cy/cgibin/hweb?-A=141572&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 017 ΣΤΟ ΑΛΑΛΟΥΜ
+#EXTINF:-1 group-title="Όλα τα επεισόδια",10
+https://www.omegatv.com.cy/cgibin/hweb?-A=141131&-V=vod|webfulldig||||https://www.dailymotion.com/video/x6l8d0d|webdelayfulldig$$delay=4
+#EXTINF:-1 group-title="Όλα τα επεισόδια",11
+https://www.omegatv.com.cy/cgibin/hweb?-A=141132&-V=vod|webfulldig||||https://www.dailymotion.com/video/x6l8d0x|webdelayfulldig$$delay=4
+#EXTINF:-1 group-title="Όλα τα επεισόδια",12
+https://www.omegatv.com.cy/cgibin/hweb?-A=141133&-V=vod|webfulldig||||https://www.dailymotion.com/video/x6llxcw|webdelayfulldig$$delay=4
+#EXTINF:-1 group-title="Όλα τα επεισόδια",13
+https://www.omegatv.com.cy/cgibin/hweb?-A=141556&-V=vod|webfulldig||||https://www.dailymotion.com/video/x6mcyxo|webdelayfulldig$$delay=4
+#EXTINF:-1 group-title="Όλα τα επεισόδια",14
+https://www.omegatv.com.cy/cgibin/hweb?-A=141567&-V=vod|webfulldig||||https://www.dailymotion.com/video/x6mcz4d|webdelayfulldig$$delay=4
+#EXTINF:-1 group-title="Όλα τα επεισόδια",15
+https://www.omegatv.com.cy/cgibin/hweb?-A=141571&-V=vod|webfulldig||||https://www.dailymotion.com/video/x6mcz6m|webdelayfulldig$$delay=4
+#EXTINF:-1 group-title="Όλα τα επεισόδια",16
+https://www.omegatv.com.cy/cgibin/hweb?-A=141572&-V=vod|webfulldig||||https://www.dailymotion.com/video/x6mczr3|webdelayfulldig$$delay=4
+#EXTINF:-1 group-title="Όλα τα επεισόδια",17
 https://www.omegatv.com.cy/cgibin/hweb?-A=142204&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 018 ΣΤΟ ΑΛΑΛΟΥΜ
+#EXTINF:-1 group-title="Όλα τα επεισόδια",18
 https://www.omegatv.com.cy/cgibin/hweb?-A=142206&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 019 ΣΤΟ ΑΛΑΛΟΥΜ
+#EXTINF:-1 group-title="Όλα τα επεισόδια",19
 https://www.omegatv.com.cy/cgibin/hweb?-A=142208&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 020 ΣΤΟ ΑΛΑΛΟΥΜ
+#EXTINF:-1 group-title="Όλα τα επεισόδια",20
 https://www.omegatv.com.cy/cgibin/hweb?-A=142209&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 021 ΣΤΟ ΑΛΑΛΟΥΜ
+#EXTINF:-1 group-title="Όλα τα επεισόδια",21
 https://www.omegatv.com.cy/cgibin/hweb?-A=142210&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 022 ΣΤΟ ΑΛΑΛΟΥΜ
+#EXTINF:-1 group-title="Όλα τα επεισόδια",22
 https://www.omegatv.com.cy/cgibin/hweb?-A=142211&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 023 ΣΤΟ ΑΛΑΛΟΥΜ
+#EXTINF:-1 group-title="Όλα τα επεισόδια",23
 https://www.omegatv.com.cy/cgibin/hweb?-A=142212&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 024 ΣΤΟ ΑΛΑΛΟΥΜ
-https://www.omegatv.com.cy/cgibin/hweb?-A=142213&-V=vod|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",24
+https://www.omegatv.com.cy/cgibin/hweb?-A=142213&-V=vod|webfulldig||||https://www.youtube.com/watch?v=pppFyIjSxhU

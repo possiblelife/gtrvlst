@@ -1,40 +1,40 @@
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 001 ΜΙΑ ΤΟΥ ΚΛΕΦΤΗ
-https://www.omegatv.com.cy/cgibin/hweb?-A=172911&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 002 ΜΙΑ ΤΟΥ ΚΛΕΦΤΗ
-https://www.omegatv.com.cy/cgibin/hweb?-A=172912&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 003 ΜΙΑ ΤΟΥ ΚΛΕΦΤΗ
-https://www.omegatv.com.cy/cgibin/hweb?-A=172913&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 004 ΜΙΑ ΤΟΥ ΚΛΕΦΤΗ
-https://www.omegatv.com.cy/cgibin/hweb?-A=172938&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 005 ΜΙΑ ΤΟΥ ΚΛΕΦΤΗ
-https://www.omegatv.com.cy/cgibin/hweb?-A=172940&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 006 ΜΙΑ ΤΟΥ ΚΛΕΦΤΗ
-https://www.omegatv.com.cy/cgibin/hweb?-A=173081&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 007 ΜΙΑ ΤΟΥ ΚΛΕΦΤΗ
-https://www.omegatv.com.cy/cgibin/hweb?-A=173082&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 008 ΜΙΑ ΤΟΥ ΚΛΕΦΤΗ
-https://www.omegatv.com.cy/cgibin/hweb?-A=173271&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 009 ΜΙΑ ΤΟΥ ΚΛΕΦΤΗ
-https://www.omegatv.com.cy/cgibin/hweb?-A=173272&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 010 ΜΙΑ ΤΟΥ ΚΛΕΦΤΗ
-https://www.omegatv.com.cy/cgibin/hweb?-A=173601&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 011 ΜΙΑ ΤΟΥ ΚΛΕΦΤΗ
+#EXTINF:-1 group-title="Όλα τα επεισόδια",01
+https://www.omegatv.com.cy/cgibin/hweb?-A=172911&-V=vod|webfulldig||||https://www.youtube.com/watch?v=MUPi78PL_0g||||https://www.youtube.com/watch?v=Kc5SXfvpKS8||||https://www.youtube.com/watch?v=0cu6rQI0yDM||||https://www.dailymotion.com/video/x82ilgh|webdelayfulldig$$delay=4||||https://www.dailymotion.com/video/x82iko3|webdelayfulldig$$delay=4||||https://voe.sx/0m7cktfxgaej|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",02
+https://www.omegatv.com.cy/cgibin/hweb?-A=172912&-V=vod|webfulldig||||https://www.youtube.com/watch?v=PQbGgh-oWMU||||https://www.youtube.com/watch?v=pz1TT5KdPGg||||https://www.youtube.com/watch?v=R1NIftSQrfE||||https://www.dailymotion.com/video/x82ilgi|webdelayfulldig$$delay=4||||https://www.dailymotion.com/video/x82iknq|webdelayfulldig$$delay=4
+#EXTINF:-1 group-title="Όλα τα επεισόδια",03
+https://www.omegatv.com.cy/cgibin/hweb?-A=172913&-V=vod|webfulldig||||https://www.youtube.com/watch?v=0M2m9mnCKd8||||https://www.youtube.com/watch?v=V3e50vWlmok||||https://www.youtube.com/watch?v=n4L3PWwS-1I||||https://www.dailymotion.com/video/x82iknp|webdelayfulldig$$delay=4||||https://www.dailymotion.com/video/x82ilgj|webdelayfulldig$$delay=4
+#EXTINF:-1 group-title="Όλα τα επεισόδια",04
+https://www.omegatv.com.cy/cgibin/hweb?-A=172938&-V=vod|webfulldig||||https://www.youtube.com/watch?v=yRs6ktNoIm0||||https://www.youtube.com/watch?v=FlYkM6Qx7Fc||||https://www.youtube.com/watch?v=Txp0ahMdyls||||https://www.dailymotion.com/video/x82im7l|webdelayfulldig$$delay=4||||https://www.dailymotion.com/video/x82inac|webdelayfulldig$$delay=4
+#EXTINF:-1 group-title="Όλα τα επεισόδια",05
+https://www.omegatv.com.cy/cgibin/hweb?-A=172940&-V=vod|webfulldig||||https://www.youtube.com/watch?v=IpiYx8GaBm0||||https://www.youtube.com/watch?v=Vu_AxCtiRV0||||https://www.youtube.com/watch?v=5FKCImMe0SA||||https://www.dailymotion.com/video/x82inad|webdelayfulldig$$delay=4||||https://www.dailymotion.com/video/x82im7n|webdelayfulldig$$delay=4
+#EXTINF:-1 group-title="Όλα τα επεισόδια",06
+https://www.omegatv.com.cy/cgibin/hweb?-A=173081&-V=vod|webfulldig||||https://www.youtube.com/watch?v=gL5kdVVP3Gc||||https://www.youtube.com/watch?v=3TdFDHiQ6Sg||||https://www.dailymotion.com/video/x82im7o|webdelayfulldig$$delay=4||||https://www.dailymotion.com/video/x82inae|webdelayfulldig$$delay=4
+#EXTINF:-1 group-title="Όλα τα επεισόδια",07
+https://www.omegatv.com.cy/cgibin/hweb?-A=173082&-V=vod|webfulldig||||https://www.youtube.com/watch?v=5zzbgpCRVBI||||https://www.youtube.com/watch?v=wmKnNYCrO5k||||https://www.dailymotion.com/video/x82ipr1|webdelayfulldig$$delay=4||||https://www.dailymotion.com/video/x82ipqk|webdelayfulldig$$delay=4
+#EXTINF:-1 group-title="Όλα τα επεισόδια",08
+https://www.omegatv.com.cy/cgibin/hweb?-A=173271&-V=vod|webfulldig||||https://www.youtube.com/watch?v=8yJiGGnm3Dw||||https://www.dailymotion.com/video/x82ipqm|webdelayfulldig$$delay=4
+#EXTINF:-1 group-title="Όλα τα επεισόδια",09
+https://www.omegatv.com.cy/cgibin/hweb?-A=173272&-V=vod|webfulldig||||https://www.youtube.com/watch?v=g4DW-FOA9nY||||https://www.youtube.com/watch?v=Nr-gruzGpiQ
+#EXTINF:-1 group-title="Όλα τα επεισόδια",10
+https://www.omegatv.com.cy/cgibin/hweb?-A=173601&-V=vod|webfulldig||||https://www.youtube.com/watch?v=4QjrfwvR4nM
+#EXTINF:-1 group-title="Όλα τα επεισόδια",11
 https://www.omegatv.com.cy/cgibin/hweb?-A=173602&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 012 ΜΙΑ ΤΟΥ ΚΛΕΦΤΗ
+#EXTINF:-1 group-title="Όλα τα επεισόδια",12
 https://www.omegatv.com.cy/cgibin/hweb?-A=173603&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 013 ΜΙΑ ΤΟΥ ΚΛΕΦΤΗ
+#EXTINF:-1 group-title="Όλα τα επεισόδια",13
 https://www.omegatv.com.cy/cgibin/hweb?-A=173609&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 014 ΜΙΑ ΤΟΥ ΚΛΕΦΤΗ
+#EXTINF:-1 group-title="Όλα τα επεισόδια",14
 https://www.omegatv.com.cy/cgibin/hweb?-A=173610&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 015 ΜΙΑ ΤΟΥ ΚΛΕΦΤΗ
+#EXTINF:-1 group-title="Όλα τα επεισόδια",15
 https://www.omegatv.com.cy/cgibin/hweb?-A=173947&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 016 ΜΙΑ ΤΟΥ ΚΛΕΦΤΗ
+#EXTINF:-1 group-title="Όλα τα επεισόδια",16
 https://www.omegatv.com.cy/cgibin/hweb?-A=173948&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 017 ΜΙΑ ΤΟΥ ΚΛΕΦΤΗ
+#EXTINF:-1 group-title="Όλα τα επεισόδια",17
 https://www.omegatv.com.cy/cgibin/hweb?-A=173949&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 018 ΜΙΑ ΤΟΥ ΚΛΕΦΤΗ
+#EXTINF:-1 group-title="Όλα τα επεισόδια",18
 https://www.omegatv.com.cy/cgibin/hweb?-A=174463&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 019 ΜΙΑ ΤΟΥ ΚΛΕΦΤΗ
+#EXTINF:-1 group-title="Όλα τα επεισόδια",19
 https://www.omegatv.com.cy/cgibin/hweb?-A=174464&-V=vod|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 01 Επεισόδιο 020 ΜΙΑ ΤΟΥ ΚΛΕΦΤΗ
+#EXTINF:-1 group-title="Όλα τα επεισόδια",20
 https://www.omegatv.com.cy/cgibin/hweb?-A=174465&-V=vod|webfulldig
