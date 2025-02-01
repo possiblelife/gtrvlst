@@ -294,12 +294,12 @@ http://.....
 
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://i.ibb.co/2MdmBxK/skai.jpg" ,ΟΛΕΣ ΟΙ  ΕΚΠΟΜΠΕΣ
 https://www.skai.gr/tv/shows/psuchagogia|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/i_ellada_psifizei/logos/ellada_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/i-ellada-psifizei/sezon-2024-2025" ,Η Ελλάδα Ψηφίζει (2024-2025)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/ekpompes/i-ellada-psifizei.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/psichagogia/2024_2025/pet_stories.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/pet-stories/pet-stories" ,Pet Stories (2024-2025)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/ekpompes/pet-stories.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/docs/skotini_dekaetia/skoteinh_dekaetia_1280x720.jpg" tvg-website="https://www.skai.gr/tv/show/ntokimanter/skoteini-dekaetia-1964-1974/sezon-2024-2025#tab1" ,Σκοτεινή Δεκαετία 1964-1974 (2024-2025)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/ekpompes/skoteini-dekaetia-1964-1974.txt
-#EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/voice/2024_2025/logos/voice_landscape_t.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/The-Voice-of-Greece/sezon-2024-2025" ,The Voice of Greece (2024-2025)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/ekpompes/The-Voice-of-Greece.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/my_style_rocks/2024_2025/logos/msr_land.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/my-style-rocks-bootcamp/sezon-2024-2025" ,My Style Rocks (2024-2025)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/ekpompes/my-style-rocks.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/mom_cooks_better/2024_2025/logos/mama_land.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/i-mama-moy-mageireyei-kalytera-apo-ti-diki-soy/sezon-2024-2025" ,Η Μαμά μου Μαγειρεύει Καλύτερα από τη Δική σου (2024-2025)
