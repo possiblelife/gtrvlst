@@ -1,2 +1,6 @@
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 20                    <span class="labelNew">Νεο</span>
-https://www.alphatv.gr/show/money-drop/?vtype=player&vid=61708&showId=1651&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 20
+https://www.alphatv.gr/show/money-drop/?vtype=player&vid=61720&showId=1651&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 21
+https://www.alphatv.gr/show/money-drop/?vtype=player&vid=61721&showId=1651&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 22
+https://www.alphatv.gr/show/money-drop/?vtype=player&vid=61722&showId=1651&year=2025|webvidfulldig

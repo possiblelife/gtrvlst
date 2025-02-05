@@ -30,3 +30,5 @@ https://v6.cloudskep.com/rikvod/stonasterion/stonasterion110125.mp4?attachment=t
 https://v6.cloudskep.com/rikvod/stonasterion/stonasterion180125.mp4?attachment=true
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Στων Αστεριών τις Νότες 25/01/25
 https://v6.cloudskep.com/rikvod/stonasterion/stonasterion250125.mp4?attachment=true
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Στων Αστεριών τις Νότες 01/02/25
+https://v6.cloudskep.com/rikvod/stonasterion/stonasterion010225.mp4?attachment=true

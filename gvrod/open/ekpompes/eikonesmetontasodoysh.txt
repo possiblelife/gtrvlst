@@ -290,6 +290,10 @@ https://www.tvopen.gr/watch/106984/boltasthnkentrikhplateiatoyisfaxan|webfulldig
 https://www.tvopen.gr/watch/106985/xenaghshstopalatimetis40kolonesstoisfaxan|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Νησάκι Ιωαννίνων: Το μοναδικό νησί στην Ελλάδα χωρίς όνομα
 https://www.tvopen.gr/watch/111622/nhsakiioanninontomonadikonhsisthnelladaxorisonoma|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Κλωστάρι: Ένας μπακλαβάς εντελώς διαφορετικός
+https://www.tvopen.gr/watch/111623/klostarienasmpaklabasentelosdiaforetikos|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Φρόντζου Πολιτεία: Εμπειρία ζωής
+https://www.tvopen.gr/watch/111624/frontzoypoliteiaempeiriazohs|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Λιγκιάδες Ιωαννίνων: Το μαρτυρικό χωριό με τη φοβερή θέα
 https://www.tvopen.gr/watch/111712/ligkiadesioanninontomartyrikoxoriomethfoberhthea|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ζαγόρι – Μονοδένδρι: Το χωριό που έφερε τον τουρισμό
@@ -308,10 +312,6 @@ https://www.tvopen.gr/watch/112755/aristhenaparadosiakokafeneio200eton|webfulldi
 https://www.tvopen.gr/watch/112756/dikorfoenasagnostosc2abparadeisosc2bbtonioanninon|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Τζαμί Assabi: Αληθινή μαγεία στο κέντρο της πόλης
 https://www.tvopen.gr/watch/113700/tzamiassabialhthinhmageiastokentrothspolhs|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Κλωστάρι: Ένας μπακλαβάς εντελώς διαφορετικός
-https://www.tvopen.gr/watch/111623/klostarienasmpaklabasentelosdiaforetikos|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Φρόντζου Πολιτεία: Εμπειρία ζωής
-https://www.tvopen.gr/watch/111624/frontzoypoliteiaempeiriazohs|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ισφαχάν: Γεύμα στο Χατζημαχμούτ
 https://www.tvopen.gr/watch/113702/isfaxangeymastoxatzhmaxmoyt|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ισφαχάν: Η Εκκλησία του Σωτήρος
@@ -898,6 +898,12 @@ https://www.tvopen.gr/watch/230447/xenaghshstaereipiathsarxaiaspolhsthskarxhdona
 https://www.tvopen.gr/watch/231086/xhmeromamesasthnoashthstzempika|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Το αφιλόξενο περιβάλλον της ερήμου Σαχάρα
 https://www.tvopen.gr/watch/231087/toafiloxenoperiballonthserhmoysaxara|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Η μαγευτική διαδρομή Διακοφτό - Καλάβρυτα με τον Οδοντωτό
+https://www.tvopen.gr/watch/232442/hmageytikhdiadromhdiakoftokalabrytametonodontoto|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Η ιστορική μονή της Αγία Λαύρας
+https://www.tvopen.gr/watch/232443/historikhmonhthsagialayras|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση – Καλάβρυτα Α Μέρος
+https://www.tvopen.gr/watch/232433/eikonesmetontasodoyshkalabrytaameros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Καππαδοκία, Α' μέρος
 https://www.tvopen.gr/watch/2307/eikonesmetontasodoysh7ckappadokiaameros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση |  Καππαδοκία Β' Μέρος
