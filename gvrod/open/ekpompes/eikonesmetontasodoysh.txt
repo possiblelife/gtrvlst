@@ -296,10 +296,6 @@ https://www.tvopen.gr/watch/111623/klostarienasmpaklabasentelosdiaforetikos|webf
 https://www.tvopen.gr/watch/111624/frontzoypoliteiaempeiriazohs|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Λιγκιάδες Ιωαννίνων: Το μαρτυρικό χωριό με τη φοβερή θέα
 https://www.tvopen.gr/watch/111712/ligkiadesioanninontomartyrikoxoriomethfoberhthea|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Ζαγόρι – Μονοδένδρι: Το χωριό που έφερε τον τουρισμό
-https://www.tvopen.gr/watch/111713/zagorimonodendritoxoriopoyeferetontoyrismo|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Ζαγοροχώρια: Άνω Πεδινά - Ένα χωριό ησυχαστήριο
-https://www.tvopen.gr/watch/112652/zagoroxoriaanopedinaenaxoriohsyxasthrio|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Rafting στον ποταμό Βοϊδομάτη
 https://www.tvopen.gr/watch/112653/raftingstonpotamoboidomath|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Βόλτα με buggy οχήματα στο ανατολικό Ζαγόρι
@@ -318,6 +314,10 @@ https://www.tvopen.gr/watch/113702/isfaxangeymastoxatzhmaxmoyt|webfulldig
 https://www.tvopen.gr/watch/113701/isfaxanhekklhsiatoysothros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Πράγα: Η γέφυρα του Καρόλου που φτιάχτηκε από… αστρολόγους
 https://www.tvopen.gr/watch/114673/pragahgefyratoykaroloypoyftiaxthkeapoastrologoys|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Ζαγόρι – Μονοδένδρι: Το χωριό που έφερε τον τουρισμό
+https://www.tvopen.gr/watch/111713/zagorimonodendritoxoriopoyeferetontoyrismo|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Ζαγοροχώρια: Άνω Πεδινά - Ένα χωριό ησυχαστήριο
+https://www.tvopen.gr/watch/112652/zagoroxoriaanopedinaenaxoriohsyxasthrio|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Πράγα: Το εθνικό γλυκό της Τσεχίας
 https://www.tvopen.gr/watch/114672/pragatoethnikoglykothstsexias|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Πράγα: Το αστρονομικό ρολόι

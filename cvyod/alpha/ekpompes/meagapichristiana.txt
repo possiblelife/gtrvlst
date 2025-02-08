@@ -426,3 +426,7 @@ https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/03022
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/040225|webvidfulldig
 #EXTINF:-1 group-title="2024-2025",Πίτα της Σάτζιης Dubai
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/pita-tis-satziis-dubai|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",05/02/25
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/050225|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",Κέικ με μαρμελάδα φράουλας και κεράσια γλασέ
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/keik-me-marmelada-fraoylas-kai-kerasia-glase|webvidfulldig
