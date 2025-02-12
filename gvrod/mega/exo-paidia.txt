@@ -54,3 +54,7 @@ https://www.megatv.com/tvshows/1800680/epeisodio-26-68/|webfulldig
 https://www.megatv.com/tvshows/1811000/epeisodio-27-64/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 28
 https://www.megatv.com/tvshows/1811015/epeisodio-28-62/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 29
+https://www.megatv.com/tvshows/1823567/epeisodio-29-62/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 30
+https://www.megatv.com/tvshows/1825508/epeisodio-30-60/|webfulldig

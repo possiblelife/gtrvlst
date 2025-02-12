@@ -1170,3 +1170,7 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=61729&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=61730&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Περασμένα ναι 
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=61731&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Ο πατέρας 
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=61820&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Η συμβουλή 
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=61821&showId=869&year=2025|webvidfulldig

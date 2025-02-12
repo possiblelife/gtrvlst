@@ -296,6 +296,10 @@ https://www.tvopen.gr/watch/111623/klostarienasmpaklabasentelosdiaforetikos|webf
 https://www.tvopen.gr/watch/111624/frontzoypoliteiaempeiriazohs|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Λιγκιάδες Ιωαννίνων: Το μαρτυρικό χωριό με τη φοβερή θέα
 https://www.tvopen.gr/watch/111712/ligkiadesioanninontomartyrikoxoriomethfoberhthea|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Ζαγόρι – Μονοδένδρι: Το χωριό που έφερε τον τουρισμό
+https://www.tvopen.gr/watch/111713/zagorimonodendritoxoriopoyeferetontoyrismo|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Ζαγοροχώρια: Άνω Πεδινά - Ένα χωριό ησυχαστήριο
+https://www.tvopen.gr/watch/112652/zagoroxoriaanopedinaenaxoriohsyxasthrio|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Rafting στον ποταμό Βοϊδομάτη
 https://www.tvopen.gr/watch/112653/raftingstonpotamoboidomath|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Βόλτα με buggy οχήματα στο ανατολικό Ζαγόρι
@@ -314,10 +318,6 @@ https://www.tvopen.gr/watch/113702/isfaxangeymastoxatzhmaxmoyt|webfulldig
 https://www.tvopen.gr/watch/113701/isfaxanhekklhsiatoysothros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Πράγα: Η γέφυρα του Καρόλου που φτιάχτηκε από… αστρολόγους
 https://www.tvopen.gr/watch/114673/pragahgefyratoykaroloypoyftiaxthkeapoastrologoys|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Ζαγόρι – Μονοδένδρι: Το χωριό που έφερε τον τουρισμό
-https://www.tvopen.gr/watch/111713/zagorimonodendritoxoriopoyeferetontoyrismo|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Ζαγοροχώρια: Άνω Πεδινά - Ένα χωριό ησυχαστήριο
-https://www.tvopen.gr/watch/112652/zagoroxoriaanopedinaenaxoriohsyxasthrio|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Πράγα: Το εθνικό γλυκό της Τσεχίας
 https://www.tvopen.gr/watch/114672/pragatoethnikoglykothstsexias|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Πράγα: Το αστρονομικό ρολόι
@@ -902,8 +902,10 @@ https://www.tvopen.gr/watch/231087/toafiloxenoperiballonthserhmoysaxara|webfulld
 https://www.tvopen.gr/watch/232442/hmageytikhdiadromhdiakoftokalabrytametonodontoto|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Η ιστορική μονή της Αγία Λαύρας
 https://www.tvopen.gr/watch/232443/historikhmonhthsagialayras|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση – Καλάβρυτα Α Μέρος
-https://www.tvopen.gr/watch/232433/eikonesmetontasodoyshkalabrytaameros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Η ιερά μονή του Μεγάλου Σπηλαίου
+https://www.tvopen.gr/watch/233294/hieramonhtoymegaloysphlaioy|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",O μαρτυρικός τόπος εκτέλεσης των Καλαβρύτων και το Μουσείο Καλαβρυτινού Ολοκαυτώματος
+https://www.tvopen.gr/watch/233295/omartyrikostoposekteleshstonkalabrytonkaitomoyseiokalabrytinoyolokaytomatos|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Καππαδοκία, Α' μέρος
 https://www.tvopen.gr/watch/2307/eikonesmetontasodoysh7ckappadokiaameros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση |  Καππαδοκία Β' Μέρος
@@ -982,6 +984,14 @@ https://www.tvopen.gr/watch/37254/eikonesmetontasodoysh7cxaniabe28099meros|webfu
 https://www.tvopen.gr/watch/38036/eikonesmetontasodoysh7cxaniage28099meros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Πάρος - Αντίπαρος, Α’ μέρος
 https://www.tvopen.gr/watch/38782/eikonesmetontasodoysh7cparosantiparosae28099meros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Αίγυπτος, Κάιρο Β’ μέρος
+https://www.tvopen.gr/watch/59408/eikonesmetontasodoysh7caigyptoskairobe28099meros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Αίγυπτος, Λούξορ
+https://www.tvopen.gr/watch/60347/eikonesmetontasodoysh7caigyptosloyxor|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Αίγυπτος, Ασουάν Α' μέρος
+https://www.tvopen.gr/watch/61328/eikonesmetontasodoysh7caigyptosasoyanameros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Αίγυπτος, Ασουάν Β’ μέρος
+https://www.tvopen.gr/watch/62282/eikonesmetontasodoysh7caigyptosasoyanbe28099meros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Πάρος - Αντίπαρος, Β’ μέρος
 https://www.tvopen.gr/watch/39693/eikonesmetontasodoysh7cparosantiparosbe28099meros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Πέλλα
@@ -996,14 +1006,6 @@ https://www.tvopen.gr/watch/54594/eikonesmetontasodoysh7ceyrytaniage28099meros|w
 https://www.tvopen.gr/watch/55667/eikonesmetontasodoysh7cnayplio|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Αίγυπτος, Κάιρο Α’ μέρος
 https://www.tvopen.gr/watch/58446/eikonesmetontasodoysh7caigyptoskairoae28099meros|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Αίγυπτος, Κάιρο Β’ μέρος
-https://www.tvopen.gr/watch/59408/eikonesmetontasodoysh7caigyptoskairobe28099meros|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Αίγυπτος, Λούξορ
-https://www.tvopen.gr/watch/60347/eikonesmetontasodoysh7caigyptosloyxor|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Αίγυπτος, Ασουάν Α' μέρος
-https://www.tvopen.gr/watch/61328/eikonesmetontasodoysh7caigyptosasoyanameros|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Αίγυπτος, Ασουάν Β’ μέρος
-https://www.tvopen.gr/watch/62282/eikonesmetontasodoysh7caigyptosasoyanbe28099meros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Στοκχόλμη, Α’ μέρος
 https://www.tvopen.gr/watch/64193/eikonesmetontasodoysh7cstokxolmhae28099meros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Στοκχόλμη, B’ μέρος
@@ -1352,3 +1354,7 @@ https://www.tvopen.gr/watch/228513/eikonesmetontasodoyshneayorkhgmeros|webfulldi
 https://www.tvopen.gr/watch/230233/eikonesmetontasodoyshtynhsiaameros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση – Τυνησία Β Μέρος
 https://www.tvopen.gr/watch/231000/eikonesmetontasodoyshtynhsiabmeros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση – Καλάβρυτα Α Μέρος
+https://www.tvopen.gr/watch/232433/eikonesmetontasodoyshkalabrytaameros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες - Καλάβρυτα B μέρος
+https://www.tvopen.gr/watch/233176/eikoneskalabrytabmeros|webfulldig

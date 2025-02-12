@@ -1,12 +1,10 @@
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 29
-https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=61644&showId=1653&year=2025|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 30
-https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=61645&showId=1653&year=2025|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 31
-https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=61646&showId=1653&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 32
 https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=61732&showId=1653&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 33
 https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=61733&showId=1653&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 34
 https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=61734&showId=1653&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 35
+https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=61817&showId=1653&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 36
+https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=61818&showId=1653&year=2025|webvidfulldig

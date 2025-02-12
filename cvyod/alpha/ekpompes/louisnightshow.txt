@@ -1488,3 +1488,7 @@ https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/stefanos
 https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/310125|webvidfulldig
 #EXTINF:-1 group-title="Season 8",Ήβη Αδάμου
 https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/ibi-adamoy|webvidfulldig
+#EXTINF:-1 group-title="Season 8",07/02/25
+https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/070225|webvidfulldig
+#EXTINF:-1 group-title="Season 8",Ελένη Φιλίνη
+https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/eleni-filini|webvidfulldig

@@ -70,3 +70,7 @@ https://v6.cloudskep.com/rikvod/geustiko/geustiko260125.mp4?attachment=true
 https://v6.cloudskep.com/rikvod/geustiko/geustiko010225.mp4?attachment=true
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Γευστικό Ταξίδι 02/02/25
 https://v6.cloudskep.com/rikvod/geustiko/geustiko020225.mp4?attachment=true
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Γευστικό Ταξίδι 08/02/25
+https://v6.cloudskep.com/rikvod/geustiko/geustiko080225.mp4?attachment=true
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Γευστικό Ταξίδι 09/02/25
+https://v6.cloudskep.com/rikvod/geustiko/geustiko090225.mp4?attachment=true
