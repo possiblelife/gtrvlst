@@ -440,3 +440,11 @@ https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/10022
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/ahilleas-grammatikopoylos-2|webvidfulldig
 #EXTINF:-1 group-title="2024-2025",Υγιεινό porridge καρότου
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/ygieino-porridge-karotoy|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",11/02/25
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/110225|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",12/02/25
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/120225|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",12/02/25 - Λυθροδόντας
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/120225-lythrodontas|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",13/02/25
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/130225|webvidfulldig

@@ -1174,3 +1174,9 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=61731&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=61820&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Η συμβουλή 
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=61821&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Ο κουμπάρος
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=61822&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",νοδός συντροφιάς ηλικιωμένου
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=61823&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Τίποτα να χωρίσουμε 
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=61824&showId=869&year=2025|webvidfulldig

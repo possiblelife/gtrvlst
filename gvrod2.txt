@@ -308,8 +308,6 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/e
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/ekpompes/pet-stories.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/docs/skotini_dekaetia/skoteinh_dekaetia_1280x720.jpg" tvg-website="https://www.skai.gr/tv/show/ntokimanter/skoteini-dekaetia-1964-1974/sezon-2024-2025#tab1" ,Σκοτεινή Δεκαετία 1964-1974 (2024-2025)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/ekpompes/skoteini-dekaetia-1964-1974.txt
-#EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/my_style_rocks/2024_2025/logos/msr_land.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/my-style-rocks-bootcamp/sezon-2024-2025" ,My Style Rocks (2024-2025)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/ekpompes/my-style-rocks.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/mom_cooks_better/2024_2025/logos/mama_land.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/i-mama-moy-mageireyei-kalytera-apo-ti-diki-soy/sezon-2024-2025" ,Η Μαμά μου Μαγειρεύει Καλύτερα από τη Δική σου (2024-2025)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/skai/ekpompes/i-mama-moy.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/still_standing/logos/ss_land.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/still-standing/sezon-2024-2025" ,Still Standing (2023-2024)
