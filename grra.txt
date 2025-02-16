@@ -734,8 +734,8 @@ https://proxima.shoutca.st:9012/;
 https://rpieria.radioca.st/;
 #EXTINF:-1 group-title="ΜΑΚΕΔΟΝΙΑ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΚΙΛΚΙΣ ΜΑΚΕΔΟΝΙΑ ====
 http://.....
-#EXTINF:-1 group-title="ΜΑΚΕΔΟΝΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/synorafm.png" ,Synora Fm 92.2
-http://ice.streamcloud.mediacdn.com/synora922kilkis
+#EXTINF:-1 group-title="ΜΑΚΕΔΟΝΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/synorafm.png" ,Synora Fm 98.7
+http://sh.onweb.gr:8816/;stream
 #EXTINF:-1 group-title="ΜΑΚΕΔΟΝΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/epilogesfm.jpg" ,Επιλογές 101
 http://ice.streamcloud.mediacdn.com/epiloges1028
 #EXTINF:-1 group-title="ΜΑΚΕΔΟΝΙΑ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΚΟΖΑΝΗ ΜΑΚΕΔΟΝΙΑ ====
