@@ -1492,3 +1492,7 @@ https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/ibi-adam
 https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/070225|webvidfulldig
 #EXTINF:-1 group-title="Season 8",Ελένη Φιλίνη
 https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/eleni-filini|webvidfulldig
+#EXTINF:-1 group-title="Season 8",14/02/25
+https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/140225|webvidfulldig
+#EXTINF:-1 group-title="Season 8",Αλέκος Τρυφωνίδης
+https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/alekos-tryfonidis|webvidfulldig

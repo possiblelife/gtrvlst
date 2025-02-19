@@ -1,4 +1,8 @@
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 25
-https://www.alphatv.gr/show/money-drop/?vtype=player&vid=61796&showId=1651&year=2025|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 26                    <span class="labelNew">Νεο</span>
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 26
 https://www.alphatv.gr/show/money-drop/?vtype=player&vid=61853&showId=1651&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 27
+https://www.alphatv.gr/show/money-drop/?vtype=player&vid=61854&showId=1651&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 28
+https://www.alphatv.gr/show/money-drop/?vtype=player&vid=61855&showId=1651&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 29                    <span class="labelNew">Νεο</span>
+https://www.alphatv.gr/show/money-drop/?vtype=player&vid=61911&showId=1651&year=2025|webvidfulldig

@@ -480,3 +480,7 @@ https://www.megatv.com/gtvshows/1807550/epeisodio-239-2/|webfulldig
 https://www.megatv.com/gtvshows/1821587/epeisodio-240-2/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 241
 https://www.megatv.com/gtvshows/1822538/epeisodio-241-2/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 242
+https://www.megatv.com/gtvshows/1827485/epeisodio-242-2/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 243
+https://www.megatv.com/gtvshows/1827653/epeisodio-243/|webfulldig

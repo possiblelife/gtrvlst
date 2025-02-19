@@ -302,6 +302,12 @@ https://www.tvopen.gr/watch/111713/zagorimonodendritoxoriopoyeferetontoyrismo|we
 https://www.tvopen.gr/watch/112652/zagoroxoriaanopedinaenaxoriohsyxasthrio|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Rafting στον ποταμό Βοϊδομάτη
 https://www.tvopen.gr/watch/112653/raftingstonpotamoboidomath|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Βόλτα με buggy οχήματα στο ανατολικό Ζαγόρι
+https://www.tvopen.gr/watch/112657/boltamebuggyoxhmatastoanatolikozagori|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Μεγάλο Πάπιγκο: Το «βαρύ πυροβολικό» στο Ζαγόρι
+https://www.tvopen.gr/watch/112750/megalopapigkotoc2abbarypyrobolikoc2bbstozagori|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Αρίστη, ένα παραδοσιακό καφενείο 200 ετών
+https://www.tvopen.gr/watch/112755/aristhenaparadosiakokafeneio200eton|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Δίκορφο: Ένας άγνωστος «παράδεισος» των Ιωαννίνων
 https://www.tvopen.gr/watch/112756/dikorfoenasagnostosc2abparadeisosc2bbtonioanninon|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Τζαμί Assabi: Αληθινή μαγεία στο κέντρο της πόλης
@@ -318,12 +324,6 @@ https://www.tvopen.gr/watch/114672/pragatoethnikoglykothstsexias|webfulldig
 https://www.tvopen.gr/watch/114671/pragatoastronomikoroloi|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Πράγα: Ο καθολικός ναός του Αγίου Βίτου
 https://www.tvopen.gr/watch/114771/pragaokatholikosnaostoyagioybitoy|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Βόλτα με buggy οχήματα στο ανατολικό Ζαγόρι
-https://www.tvopen.gr/watch/112657/boltamebuggyoxhmatastoanatolikozagori|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Μεγάλο Πάπιγκο: Το «βαρύ πυροβολικό» στο Ζαγόρι
-https://www.tvopen.gr/watch/112750/megalopapigkotoc2abbarypyrobolikoc2bbstozagori|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Αρίστη, ένα παραδοσιακό καφενείο 200 ετών
-https://www.tvopen.gr/watch/112755/aristhenaparadosiakokafeneio200eton|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Πράγα: Η εντυπωσιακή αλλαγή φρουράς στο κάστρο
 https://www.tvopen.gr/watch/114772/pragahentyposiakhallaghfroyrasstokastro|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Πράγα: Μοναδικό γεύμα στο εστιατόριο U Modre Kachnicky
@@ -906,6 +906,12 @@ https://www.tvopen.gr/watch/232443/historikhmonhthsagialayras|webfulldig
 https://www.tvopen.gr/watch/233294/hieramonhtoymegaloysphlaioy|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",O μαρτυρικός τόπος εκτέλεσης των Καλαβρύτων και το Μουσείο Καλαβρυτινού Ολοκαυτώματος
 https://www.tvopen.gr/watch/233295/omartyrikostoposekteleshstonkalabrytonkaitomoyseiokalabrytinoyolokaytomatos|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Ο Τάσος Δούσης και η ομάδα του επισκέπτονται την ιστορική Μονή του Αγίου Βλασίου
+https://www.tvopen.gr/watch/234010/otasosdoyshskaihomadatoyepiskeptontaithnistorikhmonhtoyagioyblasioy|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Ξενάγηση στο ονειρικό αλπικό τοπίο στη λίμνη Δόξα
+https://www.tvopen.gr/watch/234011/xenaghshstooneirikoalpikotopiosthlimnhdoxa|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες - Τρίκαλα Κορινθίας
+https://www.tvopen.gr/watch/233758/eikonestrikalakorinthias|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Καππαδοκία, Α' μέρος
 https://www.tvopen.gr/watch/2307/eikonesmetontasodoysh7ckappadokiaameros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση |  Καππαδοκία Β' Μέρος

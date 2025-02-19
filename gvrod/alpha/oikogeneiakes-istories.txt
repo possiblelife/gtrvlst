@@ -1180,3 +1180,7 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=61822&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=61823&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Τίποτα να χωρίσουμε 
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=61824&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Ο αδέκαστος
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=61877&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Το τέλειο σχέδιο
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=61878&showId=869&year=2025|webvidfulldig

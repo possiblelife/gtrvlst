@@ -2822,3 +2822,7 @@ https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv/120225|webvidfulld
 https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv/130225|webvidfulldig
 #EXTINF:-1 group-title="Season 7",14/02/25
 https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv/140225|webvidfulldig
+#EXTINF:-1 group-title="Season 7",17/02/25
+https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv/170225|webvidfulldig
+#EXTINF:-1 group-title="Season 7",18/02/25
+https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv/180225|webvidfulldig
