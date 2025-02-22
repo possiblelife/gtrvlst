@@ -1100,3 +1100,7 @@ https://www.alphacyprus.com.cy/shows/ellinikes-seires/oikogeneiakesistories/webt
 https://www.alphacyprus.com.cy/shows/ellinikes-seires/oikogeneiakesistories/webtv/s8-epeisodio-112|webvidfulldig
 #EXTINF:-1 group-title="Season 8",Σ8 | Επεισόδιο 117
 https://www.alphacyprus.com.cy/shows/ellinikes-seires/oikogeneiakesistories/webtv/s8-epeisodio-117|webvidfulldig
+#EXTINF:-1 group-title="Season 8",Σ8 | Επεισόδιο 105
+https://www.alphacyprus.com.cy/shows/ellinikes-seires/oikogeneiakesistories/webtv/s8-epeisodio-105|webvidfulldig
+#EXTINF:-1 group-title="Season 8",Σ8 | Επεισόδιο 104
+https://www.alphacyprus.com.cy/shows/ellinikes-seires/oikogeneiakesistories/webtv/s8-epeisodio-104|webvidfulldig

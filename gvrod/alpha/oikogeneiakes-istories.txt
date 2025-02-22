@@ -1184,3 +1184,9 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=61824&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=61877&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Το τέλειο σχέδιο
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=61878&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Το κακό παιδί
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=61879&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Εσύ μπορείς 
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=61880&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Άδεια φωλιά 
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=61881&showId=869&year=2025|webvidfulldig

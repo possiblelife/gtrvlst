@@ -308,12 +308,6 @@ https://www.tvopen.gr/watch/112657/boltamebuggyoxhmatastoanatolikozagori|webfull
 https://www.tvopen.gr/watch/112750/megalopapigkotoc2abbarypyrobolikoc2bbstozagori|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Αρίστη, ένα παραδοσιακό καφενείο 200 ετών
 https://www.tvopen.gr/watch/112755/aristhenaparadosiakokafeneio200eton|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Δίκορφο: Ένας άγνωστος «παράδεισος» των Ιωαννίνων
-https://www.tvopen.gr/watch/112756/dikorfoenasagnostosc2abparadeisosc2bbtonioanninon|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Τζαμί Assabi: Αληθινή μαγεία στο κέντρο της πόλης
-https://www.tvopen.gr/watch/113700/tzamiassabialhthinhmageiastokentrothspolhs|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Ισφαχάν: Γεύμα στο Χατζημαχμούτ
-https://www.tvopen.gr/watch/113702/isfaxangeymastoxatzhmaxmoyt|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ισφαχάν: Η Εκκλησία του Σωτήρος
 https://www.tvopen.gr/watch/113701/isfaxanhekklhsiatoysothros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Πράγα: Η γέφυρα του Καρόλου που φτιάχτηκε από… αστρολόγους
@@ -330,6 +324,12 @@ https://www.tvopen.gr/watch/114772/pragahentyposiakhallaghfroyrasstokastro|webfu
 https://www.tvopen.gr/watch/114773/pragamonadikogeymastoestiatorioumodrekachnicky|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Σεϋχέλλες: Η γεμάτη χρώματα αγορά της πρωτεύουσας
 https://www.tvopen.gr/watch/116228/seyxelleshgemathxromataagorathsproteyoysas|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Δίκορφο: Ένας άγνωστος «παράδεισος» των Ιωαννίνων
+https://www.tvopen.gr/watch/112756/dikorfoenasagnostosc2abparadeisosc2bbtonioanninon|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Τζαμί Assabi: Αληθινή μαγεία στο κέντρο της πόλης
+https://www.tvopen.gr/watch/113700/tzamiassabialhthinhmageiastokentrothspolhs|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Ισφαχάν: Γεύμα στο Χατζημαχμούτ
+https://www.tvopen.gr/watch/113702/isfaxangeymastoxatzhmaxmoyt|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Σεϋχέλλες: Οι γιγάντιες χελώνες στο νησί Μουαγιέν
 https://www.tvopen.gr/watch/116231/seyxellesoigigantiesxelonesstonhsimoyagien|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Σεϋχέλλες: Το απόλυτο ηλιοβασίλεμα
@@ -990,6 +990,14 @@ https://www.tvopen.gr/watch/37254/eikonesmetontasodoysh7cxaniabe28099meros|webfu
 https://www.tvopen.gr/watch/38036/eikonesmetontasodoysh7cxaniage28099meros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Πάρος - Αντίπαρος, Α’ μέρος
 https://www.tvopen.gr/watch/38782/eikonesmetontasodoysh7cparosantiparosae28099meros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Αίγυπτος, Κάιρο Β’ μέρος
+https://www.tvopen.gr/watch/59408/eikonesmetontasodoysh7caigyptoskairobe28099meros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Αίγυπτος, Λούξορ
+https://www.tvopen.gr/watch/60347/eikonesmetontasodoysh7caigyptosloyxor|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Αίγυπτος, Ασουάν Α' μέρος
+https://www.tvopen.gr/watch/61328/eikonesmetontasodoysh7caigyptosasoyanameros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Αίγυπτος, Ασουάν Β’ μέρος
+https://www.tvopen.gr/watch/62282/eikonesmetontasodoysh7caigyptosasoyanbe28099meros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Πάρος - Αντίπαρος, Β’ μέρος
 https://www.tvopen.gr/watch/39693/eikonesmetontasodoysh7cparosantiparosbe28099meros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Πέλλα
@@ -1004,14 +1012,6 @@ https://www.tvopen.gr/watch/54594/eikonesmetontasodoysh7ceyrytaniage28099meros|w
 https://www.tvopen.gr/watch/55667/eikonesmetontasodoysh7cnayplio|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Αίγυπτος, Κάιρο Α’ μέρος
 https://www.tvopen.gr/watch/58446/eikonesmetontasodoysh7caigyptoskairoae28099meros|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Αίγυπτος, Κάιρο Β’ μέρος
-https://www.tvopen.gr/watch/59408/eikonesmetontasodoysh7caigyptoskairobe28099meros|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Αίγυπτος, Λούξορ
-https://www.tvopen.gr/watch/60347/eikonesmetontasodoysh7caigyptosloyxor|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Αίγυπτος, Ασουάν Α' μέρος
-https://www.tvopen.gr/watch/61328/eikonesmetontasodoysh7caigyptosasoyanameros|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Αίγυπτος, Ασουάν Β’ μέρος
-https://www.tvopen.gr/watch/62282/eikonesmetontasodoysh7caigyptosasoyanbe28099meros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Στοκχόλμη, Α’ μέρος
 https://www.tvopen.gr/watch/64193/eikonesmetontasodoysh7cstokxolmhae28099meros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Στοκχόλμη, B’ μέρος
