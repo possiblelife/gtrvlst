@@ -87,8 +87,7 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1/�
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1/Το.πρόβλημά.μου.με.τις.γυναίκες.(2008)
 #EXTINF:-1 group-title="ANT1 ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τοχάρτινοκουτί2021.jpg" ,Το χάρτινο κουτί (2021)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1/Το.χάρτινο.κουτί.(2021)
-#EXTINF:-1 group-title="ANT1 ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Υπότοφωςτουφεγγαριού2012.jpg" ,Υπό το φως του φεγγαριού (2012)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1/Υπό.το.φως.του.φεγγαριού.(2012)
+
 
 
 
@@ -642,8 +641,6 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/Τα.ψάρκα.(2000-2001)
 #EXTINF:-1 group-title="OMEGA ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τηντύχημουμέσα2014.jpg" ,Την τύχη μου μέσα (2014-2015)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/Την.τύχη.μου.μέσα.(2014-2015)
-#EXTINF:-1 group-title="OMEGA ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Το3οσημάδι2011.jpg" ,Το 3ο σημάδι (2011-2012)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/Το.3ο.σημάδι.(2011-2012)
 #EXTINF:-1 group-title="OMEGA ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τοδαχτυλίδιτηςφωτιάς2014.jpg" ,Το δαχτυλίδι της φωτιάς (2014-2016)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/Το.δαχτυλίδι.της.φωτιάς.(2014-2016)
 
