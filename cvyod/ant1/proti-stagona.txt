@@ -125,7 +125,7 @@ https://www.ant1live.com/webtv/seires/proti-stagona/epeisodio-62|webfulldig||||h
 #EXTINF:-1 group-title="Season 1",1.63
 https://www.ant1live.com/webtv/seires/proti-stagona/epeisodio-63|webfulldig||||https://www.dailymotion.com/video/x7vwhov|webdelayfulldig$$delay=4
 #EXTINF:-1 group-title="Season 1",1.64
-||||https://www.dailymotion.com/video/x7vwi0v|webdelayfulldig$$delay=4
+https://www.dailymotion.com/video/x7vwi0v|webdelayfulldig$$delay=4
 #EXTINF:-1 group-title="Season 1",1.65
 https://www.youtube.com/watch?v=ehZERAxm68Q||||https://www.dailymotion.com/video/x7vwi6f|webdelayfulldig$$delay=4
 #EXTINF:-1 group-title="Season 1",1.66
