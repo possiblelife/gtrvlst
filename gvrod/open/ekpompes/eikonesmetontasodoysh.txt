@@ -308,6 +308,12 @@ https://www.tvopen.gr/watch/112657/boltamebuggyoxhmatastoanatolikozagori|webfull
 https://www.tvopen.gr/watch/112750/megalopapigkotoc2abbarypyrobolikoc2bbstozagori|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Αρίστη, ένα παραδοσιακό καφενείο 200 ετών
 https://www.tvopen.gr/watch/112755/aristhenaparadosiakokafeneio200eton|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Δίκορφο: Ένας άγνωστος «παράδεισος» των Ιωαννίνων
+https://www.tvopen.gr/watch/112756/dikorfoenasagnostosc2abparadeisosc2bbtonioanninon|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Τζαμί Assabi: Αληθινή μαγεία στο κέντρο της πόλης
+https://www.tvopen.gr/watch/113700/tzamiassabialhthinhmageiastokentrothspolhs|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Ισφαχάν: Γεύμα στο Χατζημαχμούτ
+https://www.tvopen.gr/watch/113702/isfaxangeymastoxatzhmaxmoyt|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ισφαχάν: Η Εκκλησία του Σωτήρος
 https://www.tvopen.gr/watch/113701/isfaxanhekklhsiatoysothros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Πράγα: Η γέφυρα του Καρόλου που φτιάχτηκε από… αστρολόγους
@@ -324,12 +330,6 @@ https://www.tvopen.gr/watch/114772/pragahentyposiakhallaghfroyrasstokastro|webfu
 https://www.tvopen.gr/watch/114773/pragamonadikogeymastoestiatorioumodrekachnicky|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Σεϋχέλλες: Η γεμάτη χρώματα αγορά της πρωτεύουσας
 https://www.tvopen.gr/watch/116228/seyxelleshgemathxromataagorathsproteyoysas|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Δίκορφο: Ένας άγνωστος «παράδεισος» των Ιωαννίνων
-https://www.tvopen.gr/watch/112756/dikorfoenasagnostosc2abparadeisosc2bbtonioanninon|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Τζαμί Assabi: Αληθινή μαγεία στο κέντρο της πόλης
-https://www.tvopen.gr/watch/113700/tzamiassabialhthinhmageiastokentrothspolhs|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Ισφαχάν: Γεύμα στο Χατζημαχμούτ
-https://www.tvopen.gr/watch/113702/isfaxangeymastoxatzhmaxmoyt|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Σεϋχέλλες: Οι γιγάντιες χελώνες στο νησί Μουαγιέν
 https://www.tvopen.gr/watch/116231/seyxellesoigigantiesxelonesstonhsimoyagien|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Σεϋχέλλες: Το απόλυτο ηλιοβασίλεμα
@@ -912,6 +912,14 @@ https://www.tvopen.gr/watch/234010/otasosdoyshskaihomadatoyepiskeptontaithnistor
 https://www.tvopen.gr/watch/234011/xenaghshstooneirikoalpikotopiosthlimnhdoxa|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες - Τρίκαλα Κορινθίας
 https://www.tvopen.gr/watch/233758/eikonestrikalakorinthias|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",«Μυστικός Δείπνος» του Λεονάρντο ντα Βίντσι
+https://www.tvopen.gr/watch/234564/c2abmystikosdeipnosc2bbtoyleonarntontabintsi|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Σκάλα του Μιλάνο: H διασημότερη όπερα του κόσμου
+https://www.tvopen.gr/watch/234563/skalatoymilanohdiashmoterhoperatoykosmoy|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση – Μιλάνο
+https://www.tvopen.gr/watch/234347/eikonesmetontasodoyshmilano|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",ΣΝΙΚ: «Έλαβα θετικά μηνύματα είμαι πολύ καλά»
+https://www.tvopen.gr/watch/234682/snikc2abelabathetikamhnymataeimaipolykalac2bb|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Καππαδοκία, Α' μέρος
 https://www.tvopen.gr/watch/2307/eikonesmetontasodoysh7ckappadokiaameros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση |  Καππαδοκία Β' Μέρος

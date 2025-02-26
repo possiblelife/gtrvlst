@@ -1496,3 +1496,7 @@ https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/eleni-fi
 https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/140225|webvidfulldig
 #EXTINF:-1 group-title="Season 8",Αλέκος Τρυφωνίδης
 https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/alekos-tryfonidis|webvidfulldig
+#EXTINF:-1 group-title="Season 8",21/02/25
+https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/210225|webvidfulldig
+#EXTINF:-1 group-title="Season 8",Κωνσταντίνος Χριστοφόρου &amp; Κώστας Καραφώτης
+https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/konstantinos-hristoforoy-kostas-karafotis|webvidfulldig

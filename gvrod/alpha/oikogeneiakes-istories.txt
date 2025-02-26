@@ -1190,3 +1190,7 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=61879&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=61880&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Άδεια φωλιά
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=61881&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Κάτω από τη μηλιά
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=61956&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",ην ανάγκη
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=61957&showId=869&year=2025|webvidfulldig

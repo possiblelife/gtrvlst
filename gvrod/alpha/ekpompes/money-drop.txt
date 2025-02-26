@@ -8,3 +8,7 @@ https://www.alphatv.gr/show/money-drop/?vtype=player&vid=61855&showId=1651&year=
 https://www.alphatv.gr/show/money-drop/?vtype=player&vid=61911&showId=1651&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 30
 https://www.alphatv.gr/show/money-drop/?vtype=player&vid=61934&showId=1651&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 31
+https://www.alphatv.gr/show/money-drop/?vtype=player&vid=61935&showId=1651&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 32
+https://www.alphatv.gr/show/money-drop/?vtype=player&vid=61936&showId=1651&year=2025|webvidfulldig
