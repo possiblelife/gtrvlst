@@ -70,12 +70,36 @@ https://www.athinorama.gr/tv/programma/athlitikesmetadoseis/|webview zoom=100 sc
 https://program.ert.gr/tvsports.asp|webview zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://media.pamestoixima.gr/file/logo_horses.png" ,Pame Stoixima Racing (Ιπποδρομίες)
 https://odiehlsmslnew.akamaized.net/hls/live/2112246/odie3/odie_1000.m3u8
+#EXTINF:-1 group-title="WEB TV"  tvg-logo="https://static.casino.guru/pict/120221/Pame-Stoixima-500x500_dark.png",Pame Stoixima
+https://ns5.vermantiagaming.com/opap/livesports/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://i.ibb.co/hZyD1by/skai-hbb.png" tvg-website="https://www.skai.gr/tv/sports/" ,Skai Hybrid All Live Games
 https://www.skai.gr/tv/sports/|webview zoom=100 scroll=0,100
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://i.ibb.co/hZyD1by/skai-hbb.png" tvg-website="https://www.skai.gr/tv/sports/" tvg-name="SKAI HYBRID",SKAI HYBRID (ΟΧΙ 24/7)
+http://cdn5.smart-tv-data.com/skai/skaisport/mpeg.2ts
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://i.ibb.co/hZyD1by/skai-hbb.png" tvg-website="https://www.skai.gr/tv/sports/" tvg-name="SKAI HYBRID" ,SKAI HYBRID (ΟΧΙ 24/7) (ΕΝΑΛΛΑΚΤΙΚΟ)
+https://skai-live-sports.siliconweb.com/skai/livesport1/playlist.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://i.ibb.co/hZyD1by/skai-hbb.png" tvg-website="https://www.skai.gr/tv/sports/" tvg-name="SKAI HYBRID" ,SKAI HYBRID (ΟΧΙ 24/7) (ΕΝΑΛΛΑΚΤΙΚΟ2)
+https://skai-ligue1.siliconweb.com/skai/livesport1/playlist.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://i.ibb.co/hZyD1by/skai-hbb.png" tvg-website="https://www.skai.gr/tv/sports/" tvg-name="SKAI HYBRID2" ,SKAI HYBRID 2 (ΟΧΙ 24/7)
+http://cdn5.smart-tv-data.com/skai/skaisport2/mpeg.2ts
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://i.ibb.co/hZyD1by/skai-hbb.png" tvg-website="https://www.skai.gr/tv/sports/" tvg-name="SKAI HYBRID2" ,SKAI HYBRID 2 (ΟΧΙ 24/7) (ΕΝΑΛΛΑΚΤΙΚΟ)
+https://skai-live-sports.siliconweb.com/skai/livesport2/playlist.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://i.ibb.co/hZyD1by/skai-hbb.png" tvg-website="https://www.skai.gr/tv/sports/" tvg-name="SKAI HYBRID3" ,SKAI HYBRID 3 (ΟΧΙ 24/7)
+http://cdn5.smart-tv-data.com/skai/skaisport3/mpeg.2ts
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://i.ibb.co/nnNBKPx/logo.png" tvg-website="https://monobala.gr/" ,monobala All Live Games
 https://monobala.gr/category/web-tv/monobala-live/|webview zoom=100 scroll=0,100
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://www.megatv.com/wp-content/themes/whsk_newmegatv/common/imgs/livesports.png" tvg-website="https://www.megatv.com/megaplaylive/" ,Mega Live Play
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://i.ibb.co/nnNBKPx/logo.png" tvg-website="https://monobala.gr/" ,MONOBALA.GR  (ΟΧΙ 24/7)
+https://live-monobala.siliconweb.com/monobala/livesport2/playlist.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://i.ibb.co/nnNBKPx/logo.png" tvg-website="https://monobala.gr/" ,MONOBALA.GR 2 (ΟΧΙ 24/7)
+https://live-monobala.siliconweb.com/monobala/livesport1/playlist.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://i.ibb.co/nnNBKPx/logo.png" tvg-website="https://monobala.gr/" ,MONOBALA.GR 3 (ΟΧΙ 24/7)
+https://live-monobala.siliconweb.com/monobala/livesport3/playlist.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://i.ibb.co/nnNBKPx/logo.png" tvg-website="https://monobala.gr/" ,MONOBALA.GR 4 (ΟΧΙ 24/7)
+https://live-monobala.siliconweb.com/monobala/shows/playlist.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://www.megatv.com/wp-content/themes/whsk_newmegatv/common/imgs/livesports.png" tvg-website="https://www.megatv.com/megaplaylive/"  tvg-name="Mega Live Play" ,Mega Live Play
 https://streamcdnh10-c422e6f66e3a41029fa6cf83cab8b1d5.msvdn.net/live/S46747281/DJSPnDk0TaKs/playlist.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://www.megatv.com/wp-content/themes/whsk_newmegatv/common/imgs/livesports.png" tvg-website="https://www.megatv.com/megaplaylive/" tvg-name="Mega Live Play",Mega Live Play (ΕΝΑΛΛΑΚΤΙΚΟ)
+http://vid1.megatv-ctv.com/mega/megasport/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://img.onesignal.com/t/aa4f01d5-1349-424d-9c50-6ccfcf20dd0d.png" tvg-website="https://www.tvopen.gr/livegames#" ,OPEN All Live Games
 https://www.tvopen.gr/livegames#|webview zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://i.ibb.co/1ZHNXQK/ARGOSPORT-LOGO.jpg" tvg-website="https://argolidasport.gr/",Argolida Sport
@@ -88,8 +112,10 @@ http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
 https://ertflix.akamaized.net/ertlive/ertsports2/clrdef24724b/index.mpd
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports2" tvg-logo="https://i.ibb.co/mhGshmN/sports.jpg" tvg-name="ΕΡΤ SPORTS 2" tvg-website="https://www.ertflix.gr" ,ΕΡΤ SPORTS 2 (ΕΝΑΛΛΑΚΤΙΚΟ)
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="http://i.imgur.com/0Ovqq2f.png" tvg-website="http://www.tilesport.tv/index_live.php" ,TILESPORT (Youtube)
-https://www.youtube.com/@Tilesporttv-eb8ip/streams|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://www.planetecsat.com/wp-content/uploads/2022/10/motorvision.png" ,Motorvision TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://www.freelivesports.tv/wp-content/uploads/2023/01/motrosporttv_logo.png" ,Motorsport.tv
+https://7c8b579d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/T05PX01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRLcpAwQ1UjAR91t7RCVCNyL1iltU0W6J2zMTVSFQ=s48-c-k-c0x00ffffff-no-rj" tvg-website="https://www.sdna.gr/" ,SDNA (Youtube)
 https://www.youtube.com/@SDNA_webTV/streams|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://alfasports.tv/wp-content/uploads/2017/07/19650478_10213391687526137_730682022_o.png" tvg-website="https://alfasports.tv/",Alfa Sports TV
