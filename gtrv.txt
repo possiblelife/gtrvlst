@@ -449,7 +449,7 @@ https://ssh101-fl.bozztv.com/ssh101/tvioniathess/playlist.m3u8
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,=====   ΜΟΥΣΙΚΗ   ====
 http://.....
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/5hJYYjcX/extacy-tv-classical-music.png" ,Extacy TV Classic
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.ibb.co/5hJYYjcX/extacy-tv-classical-music.png" ,Extacy TV Classic
 https://eu1.streams.gr:8081/extacytvclassicalmusic/index.m3u8 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://i.ibb.co/5MKkNgy/Screenshot-2023-11-15-160115.png" ,MAD World
 https://ellastvmax.better-than.tv/freetv/madworldtv/index.m3u8
