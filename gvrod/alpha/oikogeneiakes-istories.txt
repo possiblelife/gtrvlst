@@ -1200,3 +1200,5 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=61958&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=61959&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Γυάλινη οροφή
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=61960&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Δανεικά και αγύριστα
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62023&showId=869&year=2025|webvidfulldig

@@ -910,16 +910,16 @@ https://www.tvopen.gr/watch/233295/omartyrikostoposekteleshstonkalabrytonkaitomo
 https://www.tvopen.gr/watch/234010/otasosdoyshskaihomadatoyepiskeptontaithnistorikhmonhtoyagioyblasioy|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ξενάγηση στο ονειρικό αλπικό τοπίο στη λίμνη Δόξα
 https://www.tvopen.gr/watch/234011/xenaghshstooneirikoalpikotopiosthlimnhdoxa|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες - Τρίκαλα Κορινθίας
-https://www.tvopen.gr/watch/233758/eikonestrikalakorinthias|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",«Μυστικός Δείπνος» του Λεονάρντο ντα Βίντσι
 https://www.tvopen.gr/watch/234564/c2abmystikosdeipnosc2bbtoyleonarntontabintsi|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Σκάλα του Μιλάνο: H διασημότερη όπερα του κόσμου
 https://www.tvopen.gr/watch/234563/skalatoymilanohdiashmoterhoperatoykosmoy|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση – Μιλάνο
-https://www.tvopen.gr/watch/234347/eikonesmetontasodoyshmilano|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",ΣΝΙΚ: «Έλαβα θετικά μηνύματα είμαι πολύ καλά»
-https://www.tvopen.gr/watch/234682/snikc2abelabathetikamhnymataeimaipolykalac2bb|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Διασχίζοντας τη μεσαιωνική γέφυρα Καστελβέκιο
+https://www.tvopen.gr/watch/235323/diasxizontasthmesaionikhgefyrakastelbekio|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Κάνοντας βόλτα στα στενά δρομάκια της Παλιάς Πόλης της Βερόνα
+https://www.tvopen.gr/watch/235324/kanontasboltastastenadromakiathspaliaspolhsthsberona|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Το «δέντρο της μνήμης» ρίζωσε στη Θεσσαλονίκη
+https://www.tvopen.gr/watch/235332/toc2abdentrothsmnhmhsc2bbrizosesththessalonikh|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Καππαδοκία, Α' μέρος
 https://www.tvopen.gr/watch/2307/eikonesmetontasodoysh7ckappadokiaameros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση |  Καππαδοκία Β' Μέρος
@@ -1372,3 +1372,9 @@ https://www.tvopen.gr/watch/231000/eikonesmetontasodoyshtynhsiabmeros|webfulldig
 https://www.tvopen.gr/watch/232433/eikonesmetontasodoyshkalabrytaameros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες - Καλάβρυτα B μέρος
 https://www.tvopen.gr/watch/233176/eikoneskalabrytabmeros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες - Τρίκαλα Κορινθίας
+https://www.tvopen.gr/watch/233758/eikonestrikalakorinthias|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση – Μιλάνο
+https://www.tvopen.gr/watch/234347/eikonesmetontasodoyshmilano|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες - Μιλάνο Β μέρος
+https://www.tvopen.gr/watch/235078/eikonesmilanobmeros|webfulldig

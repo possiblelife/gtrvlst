@@ -426,3 +426,6 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=210624&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 026 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Μπρουσκέτες με καπνιστό σολομό, Poke bowl, Light 
 Πανακότα
 https://www.omegatv.com.cy/cgibin/hweb?-A=210902&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 027 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Καλαμάρι Αγιορείτικο, Λαγάνα, Χούμους με 
+παντζάρι, Πουρέκια
+https://www.omegatv.com.cy/cgibin/hweb?-A=211155&-V=vod|webfulldig
