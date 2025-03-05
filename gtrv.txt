@@ -70,7 +70,7 @@ https://www.athinorama.gr/tv/programma/athlitikesmetadoseis/|webview zoom=100 sc
 https://program.ert.gr/tvsports.asp|webview zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://media.pamestoixima.gr/file/logo_horses.png" ,Pame Stoixima Racing (Ιπποδρομίες)
 https://odiehlsmslnew.akamaized.net/hls/live/2112246/odie3/odie_1000.m3u8
-#EXTINF:-1 group-title="WEB TV"  tvg-logo="https://static.casino.guru/pict/120221/Pame-Stoixima-500x500_dark.png",Pame Stoixima
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://static.casino.guru/pict/120221/Pame-Stoixima-500x500_dark.png",Pame Stoixima
 https://ns5.vermantiagaming.com/opap/livesports/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://i.ibb.co/hZyD1by/skai-hbb.png" tvg-website="https://www.skai.gr/tv/sports/" ,Skai Hybrid All Live Games
 https://www.skai.gr/tv/sports/|webview zoom=100 scroll=0,100
