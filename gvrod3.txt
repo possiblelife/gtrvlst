@@ -1260,37 +1260,37 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ant1/�
 http://.....
 #EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://goo.gl/q5aDRg" ,ΟΛΕΣ ΟΙ ΕΚΠΟΜΠΕΣ
 https://www.antenna.gr/shows|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/a354cf6a-d2cc-4c4c-b1e6-1d42a334778c.jpg" tvg-website="https://www.antenna.gr/kalimeraellada/videos" ,ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ
+#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.antenna.gr/imgHandler/1000/a354cf6a-d2cc-4c4c-b1e6-1d42a334778c.jpg" tvg-website="https://www.antenna.gr/kalimeraellada/videos" ,ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ant1/ekpompes/kalimeraellada.txt
-#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/1b5ce3c6-76c1-4545-ab73-626297bed8ff.jpg" tvg-website="https://www.antenna.gr/enwpiosenwpiw/videos" ,ΕΝΩΠΙΟΣ ΕΝΩΠΙΩ
+#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.antenna.gr/imgHandler/1000/1b5ce3c6-76c1-4545-ab73-626297bed8ff.jpg" tvg-website="https://www.antenna.gr/enwpiosenwpiw/videos" ,ΕΝΩΠΙΟΣ ΕΝΩΠΙΩ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ant1/ekpompes/enwpiosenwpiw.txt
-#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/63bcf867-9d2b-41ae-8228-aafed001bcbe.jpg" tvg-website="https://www.antenna.gr/proswpomeproswpo/videos" ,ΠΡΟΣΩΠΟ ΜΕ ΠΡΟΣΩΠΟ
+#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.antenna.gr/imgHandler/1000/63bcf867-9d2b-41ae-8228-aafed001bcbe.jpg" tvg-website="https://www.antenna.gr/proswpomeproswpo/videos" ,ΠΡΟΣΩΠΟ ΜΕ ΠΡΟΣΩΠΟ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ant1/ekpompes/proswpomeproswpo.txt
-#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/3b667966-5a9f-497d-8225-dcf8e9b6368f.jpg" tvg-website="https://www.antenna.gr/toproino/videos" ,ΤΟ ΠΡΩΙΝΟ
+#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.antenna.gr/imgHandler/1000/3b667966-5a9f-497d-8225-dcf8e9b6368f.jpg" tvg-website="https://www.antenna.gr/toproino/videos" ,ΤΟ ΠΡΩΙΝΟ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ant1/ekpompes/toproino.txt
-#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/ae328344-6da4-493d-9643-a2623ffcb689.jpg" tvg-website="https://www.antenna.gr/weekenders/videos" ,WEEKENDERS
+#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.antenna.gr/imgHandler/1000/ae328344-6da4-493d-9643-a2623ffcb689.jpg" tvg-website="https://www.antenna.gr/weekenders/videos" ,WEEKENDERS
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ant1/ekpompes/weekenders.txt
-#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/252cddc3-f001-4252-b9d2-f6bd15594494.jpg" tvg-website="https://www.antenna.gr/theroadshow/videos" ,THE ROADSHOW
+#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.antenna.gr/imgHandler/1000/252cddc3-f001-4252-b9d2-f6bd15594494.jpg" tvg-website="https://www.antenna.gr/theroadshow/videos" ,THE ROADSHOW
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ant1/ekpompes/theroadshow.txt
-#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/3d45f17d-5333-4449-a6f7-c63b676e5898.jpg" tvg-website="https://www.antenna.gr/roukzouk/videos" ,ROUK ZOUK
+#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.antenna.gr/imgHandler/1000/3d45f17d-5333-4449-a6f7-c63b676e5898.jpg" tvg-website="https://www.antenna.gr/roukzouk/videos" ,ROUK ZOUK
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ant1/ekpompes/roukzouk.txt
-#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/5a4196a3-8656-44de-8ef8-aff224ba7886.jpg" tvg-website="https://www.antenna.gr/5x5/videos" ,5X5
+#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.antenna.gr/imgHandler/1000/5a4196a3-8656-44de-8ef8-aff224ba7886.jpg" tvg-website="https://www.antenna.gr/5x5/videos" ,5X5
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ant1/ekpompes/5x5.txt
-#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/b50447da-d390-4261-9f48-2c8286be732b.jpg" tvg-website="https://www.antenna.gr/ekatommyriouxos/videos" ,ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ;
+#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.antenna.gr/imgHandler/1000/b50447da-d390-4261-9f48-2c8286be732b.jpg" tvg-website="https://www.antenna.gr/ekatommyriouxos/videos" ,ΠΟΙΟΣ ΘΕΛΕΙ ΝΑ ΓΙΝΕΙ ΕΚΑΤΟΜΜΥΡΙΟΥΧΟΣ;
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ant1/ekpompes/ekatommyriouxos.txt
-#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/64abf8aa-b2a0-408e-86fc-ba81e815892c.jpg" tvg-website="https://www.antenna.gr/the2nightshow/videos" ,THE 2NIGHT SHOW
+#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.antenna.gr/imgHandler/1000/64abf8aa-b2a0-408e-86fc-ba81e815892c.jpg" tvg-website="https://www.antenna.gr/the2nightshow/videos" ,THE 2NIGHT SHOW
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ant1/ekpompes/the2nightshow.txt
-#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/a7f37bb0-898a-4614-aa84-89775ce1d720.jpg" tvg-website="https://www.antenna.gr/dragonsden/videos" ,DRAGONS’ DEN GREECE
+#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.antenna.gr/imgHandler/1000/a7f37bb0-898a-4614-aa84-89775ce1d720.jpg" tvg-website="https://www.antenna.gr/dragonsden/videos" ,DRAGONS’ DEN GREECE
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ant1/ekpompes/dragonsden.txt
-#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/2a39b7d0-e535-47cb-a7d3-459131944763.jpg" tvg-website="https://www.antenna.gr/ygeia/videos" ,ΥΓΕΙΑ ΠΑΝΩ ΑΠ ΟΛΑ
+#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.antenna.gr/imgHandler/1000/2a39b7d0-e535-47cb-a7d3-459131944763.jpg" tvg-website="https://www.antenna.gr/ygeia/videos" ,ΥΓΕΙΑ ΠΑΝΩ ΑΠ ΟΛΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ant1/ekpompes/ygeia.txt
-#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/eced7c04-4382-4a40-8aee-d3b7c3640070.jpg" tvg-website="https://www.antenna.gr/formula1show/videos" ,FORMULA 1 SHOW
+#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.antenna.gr/imgHandler/1000/eced7c04-4382-4a40-8aee-d3b7c3640070.jpg" tvg-website="https://www.antenna.gr/formula1show/videos" ,FORMULA 1 SHOW
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/formula1show.txt
-#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/8316870e-2f06-4107-8f6a-c59b72cbb6eb.jpg" tvg-website="https://www.antenna.gr/valeknorrkiegine/videos" ,ΒΑΛΕ KNORR, ΚΙ ΕΓΙΝΕ!
+#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.antenna.gr/imgHandler/1000/8316870e-2f06-4107-8f6a-c59b72cbb6eb.jpg" tvg-website="https://www.antenna.gr/valeknorrkiegine/videos" ,ΒΑΛΕ KNORR, ΚΙ ΕΓΙΝΕ!
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/valeknorrkiegine.txt
-#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/3214a3bf-f825-4fb7-956f-af2908880d6c.jpg" tvg-website="https://www.antenna.gr/pantouyparxei/videos" ,ΠΑΝΤΟΥ ΥΠΑΡΧΕΙ
+#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.antenna.gr/imgHandler/1000/3214a3bf-f825-4fb7-956f-af2908880d6c.jpg" tvg-website="https://www.antenna.gr/pantouyparxei/videos" ,ΠΑΝΤΟΥ ΥΠΑΡΧΕΙ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/pantouyparxei.txt
-#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://ant1media.azureedge.net/imgHandler/1000/84762814-6d90-4345-8b04-8e2f8934672c.jpg" tvg-website="https://www.antenna.gr/bravenewgreece/videos" ,BRAVE NEW GREECE
+#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.antenna.gr/imgHandler/1000/84762814-6d90-4345-8b04-8e2f8934672c.jpg" tvg-website="https://www.antenna.gr/bravenewgreece/videos" ,BRAVE NEW GREECE
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/bravenewgreece.txt
 
 
