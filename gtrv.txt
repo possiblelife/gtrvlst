@@ -391,7 +391,7 @@ https://www.youtube.com/embed/xzdBItxiC-0
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://cdn-ilclhil.nitrocdn.com/eWiwNQQrWcpvzBgUbQsmdBXUAzgyPNfV/assets/images/optimized/rev-f7bc1c1/iviewtv.gr/wp-content/uploads/2024/05/cropped-iviewTV-smoll.png" ,i-view TV
 https://vdo.streams.gr:3979/live/wvoxtvlive.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/pQQTdzS/cropped-cropped-omikronlogo.png" ,OMIKRON TV
-https://media.kubikhost.com/first/index.m3u8
+https://media.omikrontv.gr/live/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/0pL23s3w/images.jpg"  ,VILLAGE WORLD
 http://ellastv.gotdns.com:88/freetv/village-world/index.m3u8
 
