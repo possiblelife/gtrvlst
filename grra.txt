@@ -1685,8 +1685,10 @@ http://.....
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/dcJFJ3s/logo-extacy.png" ,Extacy Radio
 https://kc1.crystalweb.net:8010/extacyradio
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/5hJYYjcX/extacy-tv-classical-music.png" ,Extacy TV Classic
-https://eu1.streams.gr:8081/extacytvclassicalmusic/index.m3u8 
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/gMBRJrJM/extacygr.png" tvg-name="Extacy TV GREEKS" ,Extacy TV GREEKS
+https://fr.crystalweb.net:1936/extacytvgreeks/extacytvgreeks/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/gMBRJrJM/extacygr.png" tvg-name="Extacy TV GREEKS" ,Extacy TV GREEKS
+https://www.twitch.tv/extacytvgreeks|weballdig
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/RbJdLfy/unnamed.png" ,Amigo Radio
 https://s42.radiolize.com/radio/8050/radio.mp3
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/KFPDLKK/angels.png" ,Radio Angels 
