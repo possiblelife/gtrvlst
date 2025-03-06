@@ -449,9 +449,9 @@ https://ssh101-fl.bozztv.com/ssh101/tvioniathess/playlist.m3u8
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,=====   ΜΟΥΣΙΚΗ   ====
 http://.....
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-id="extacygr" tvg-logo="https://i.ibb.co/5hJYYjcX/extacy-tv-classical-music.png" tvg-name="Extacy TV GREEKS" ,Extacy TV GREEKS
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-id="extacygr" tvg-logo="https://i.ibb.co/gMBRJrJM/extacygr.png" tvg-name="Extacy TV GREEKS" ,Extacy TV GREEKS
 https://fr.crystalweb.net:1936/extacytvgreeks/extacytvgreeks/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-id="extacygr" tvg-logo="https://i.ibb.co/5hJYYjcX/extacy-tv-classical-music.png" tvg-name="Extacy TV GREEKS" ,Extacy TV GREEKS
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-id="extacygr" tvg-logo="https://i.ibb.co/gMBRJrJM/extacygr.png" tvg-name="Extacy TV GREEKS" ,Extacy TV GREEKS
 https://www.twitch.tv/extacytvgreeks|weballdig
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://i.ibb.co/5MKkNgy/Screenshot-2023-11-15-160115.png" ,MAD World
 https://ellastvmax.better-than.tv/freetv/madworldtv/index.m3u8
