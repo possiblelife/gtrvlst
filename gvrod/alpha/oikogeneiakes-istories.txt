@@ -1202,3 +1202,9 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=61959&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=61960&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Δανεικά και αγύριστα
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62023&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Με την πρώτη ματιά
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62024&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Υπόθεση εργασίας
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62025&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Το μπλοκ
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62026&showId=869&year=2025|webvidfulldig
