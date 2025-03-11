@@ -135,8 +135,10 @@ https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 https://www.action24.gr/live-stream/|webdig
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="TVM" tvg-logo="https://i.ibb.co/7gQWfqM/aeolos.jpg" tvg-website="https://aeolos.tv/" ,AEOLOS (Β.Α. ΑΙΓΑΙΟΥ)
 https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="AIGAIOTV" tvg-logo="https://goo.gl/3EsuCz" tvg-website="https://www.aigaiotv.gr/" ,AIΓΑΙΟ (ΔΩΔΕΚΑΝΗΣΟΥ ΚΑΙ ΣΑΜΟΥ)
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="AIGAIOTV" tvg-logo="https://goo.gl/3EsuCz" tvg-name="AIΓΑΙΟ (ΔΩΔΕΚΑΝΗΣΟΥ ΚΑΙ ΣΑΜΟΥ)" tvg-website="https://www.aigaiotv.gr/" ,AIΓΑΙΟ (ΔΩΔΕΚΑΝΗΣΟΥ ΚΑΙ ΣΑΜΟΥ)
 https://ssh101-fl.bozztv.com/ssh101/aigaiotv/playlist.m3u8|Referer=https://v2.ssh101.com/
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="AIGAIOTV" tvg-logo="https://goo.gl/3EsuCz" tvg-name="AIΓΑΙΟ (ΔΩΔΕΚΑΝΗΣΟΥ ΚΑΙ ΣΑΜΟΥ)" tvg-website="https://www.aigaiotv.gr/" ,AIΓΑΙΟ (backup) (ΔΩΔΕΚΑΝΗΣΟΥ ΚΑΙ ΣΑΜΟΥ)
+https://fr.crystalweb.net:1936/aigaiotv/aigaiotv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ALERT" tvg-logo="https://i.ibb.co/0YgYKP1/alert-tv.png" tvg-website="https://www.alerttv.com.gr/" ,ALERT (ΑΤΤΙΚΗΣ)
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ALFA" tvg-logo="https://i.ibb.co/ZhSzkYv/alfa.jpg" tvg-website="https://www.youtube.com/@ALFATHLEORASH/featured" ,ALFA (ΑΝ. ΜΑΚΕΔΟΝΙΑΣ)
@@ -160,7 +162,7 @@ https://acheloostv.streamings.gr/live/stream/index.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="BEST TV" tvg-logo="http://4.bp.blogspot.com/-CSt3UGbihus/U_D9TOsr3CI/AAAAAAAAZv4/z1L9SCenBKo/s1600/best_tv.png" tvg-website="https://best-tv.gr/" ,BEST TV (ΠΕΛΟΠΟΝΝΗΣΟΥ)
 https://besttv.siliconweb.com/bestTV/live_abr/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="BERGINA" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fa28f343-2082-41e1-aa2d-2d7fbe1c7552-profile_image-300x300.png" tvg-website="https://www.verginanews.gr/" ,ΒΕΡΓΙΝΑ ΤΗΛΕΟΡΑΣΗ (Κ. ΜΑΚΕΔΟΝΙΑΣ)
-https://ssh101.bozztv.com/ssh101/verginatv/chunks.m3u8
+https://verginanews.gr:8443/hls_live/stream1.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="BLUE SKY" tvg-logo="https://i.ibb.co/6YDnHwS/bluesky.jpg" tvg-website="https://blueskytv.gr/" ,BLUE SKY (ΑΤΤΙΚΗΣ)
 https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="CENTER ΤΗΛΕΟΡΑΣΗ" tvg-logo="https://centertv.gr/wp-content/uploads/2020/03/center-logo-2.png" tvg-website="https://centertv.gr/" ,Center TV (ΑΝ. ΜΑΚΕΔΟΝΙΑΣ ΚΑΙ ΘΡΑΚΗΣ)
@@ -259,7 +261,9 @@ https://www.youtube.com/@superbchannelvideo|webepg zoom=100 scroll=0,0
 http://eco.streams.ovh:1935/syrostv1/syrostv1/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="THRAKINET" tvg-logo="https://goo.gl/oJ9YrY" tvg-website="https://www.thrakinet.tv/" ,ΘΡΑΚΗNET (ΑΝ. ΜΑΚΕΔΟΝΙΑΣ ΚΑΙ ΘΡΑΚΗΣ)
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="THESSALIA" tvg-logo="https://www.thessaliatv.gr/include/images/logo-rnews.png" tvg-website="https://www.thessaliatv.gr/" ,Θεσσαλία Τηλεόραση (ΘΕΣΣΑΛΙΑΣ)
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="THESSALIA" tvg-logo="https://www.thessaliatv.gr/include/images/logo-rnews.png" tvg-name="Θεσσαλία Τηλεόραση (ΘΕΣΣΑΛΙΑΣ)" tvg-website="https://www.thessaliatv.gr/" ,Θεσσαλία Τηλεόραση (ΘΕΣΣΑΛΙΑΣ)
+https://th.cloudskep.com/th/thess_hd/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="THESSALIA" tvg-logo="https://www.thessaliatv.gr/include/images/logo-rnews.png" tvg-name="Θεσσαλία Τηλεόραση (ΘΕΣΣΑΛΙΑΣ)" tvg-website="https://www.thessaliatv.gr/" ,Θεσσαλία Τηλεόραση (Backup) (ΘΕΣΣΑΛΙΑΣ)
 https://www.thessaliatv.gr/live/|webdig
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="TELEKRHTH" tvg-logo="https://telekriti.com/wp-content/uploads/2023/08/NEW-LOGO-4a-2-300x112.png" tvg-website="https://telekriti.com/" ,Tele ΚΡΗΤΗ (ΚΡΗΤΗΣ)
 https://neon.streams.gr:8081/telekriti/index.m3u8
