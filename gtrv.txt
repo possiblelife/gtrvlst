@@ -424,8 +424,6 @@ http://.....
 https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8 
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacy" tvg-logo="https://i.ibb.co/bs7j4wR/extacy-tv-new-logo.png" tvg-name="Extacy TV" ,Extacy TV (ΕΝΑΛΛΑΚΤΙΚΟ)
 https://www.twitch.tv/extacy_tv|weballdig
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ibb.co/6Px7RPQ/dipolo.jpg" ,Dtv6 (Δίπολο TV)
-https://channel.streams.ovh:8081/dipolotv/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ibb.co/bJGz0h3/cine1.jpg" ,Cinema Time
 https://ssh101-fl.bozztv.com/ssh101/cinematimetv/playlist.m3u8|Referer=https://v2.ssh101.com/
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ibb.co/Cn1PpW2/cine2.jpg" ,Cinema Time 2
