@@ -563,6 +563,8 @@ https://www.twitch.tv/pubtoons|webdig
 https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8?hdnts=st=1716944483~exp=1716948083~acl=!*/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/*!yuppTVCom_61_-1_01c5a9561a134685_BD_103.91.128.128/payload/yuppTVCom_61_-1_01c5a9561a134685_BD_103.91.128.128/*~hmac=a06f52adb102561f049ef1e699ba1146af13ddbaf0d52574327c257f504b2c8a&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=ENG&ads.content_genre=ENT&ads.channel=6591&ads.channel_name=CARTOONTVCLASSICS&ads.network_name=yupptv&ads.user=0
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/vZHtxQb.png" ,Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://i.ibb.co/svw8HbKh/Barbie-and-Friends-Fonts-76669280-1-312x208.png" ,Barbie and friends
+https://d1xqdnwy1bo05f.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jh1ol665g3amg/barb.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="http://tv.10dailythings.com/images/channels/GR/wb-kids/normal.png" ,WB KIDS (Youtube)
 https://www.youtube.com/@WBKidsInternational/videos|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://yt3.ggpht.com/hVpFyMI1aY-zEylSJo6WPD8-HoJfQZp14ZYp_HWNmG1azEakU5B1Qpsrh1OSXq5bYLKMJ_Jl=s48-c-k-c0x00ffffff-no-rj" tvg-website="https://www.zouzounia.tv/" ,Ζουζούνια live (Youtube)
@@ -590,8 +592,10 @@ https://www.youtube.com/@WordofGodGR/streams|webepg zoom=100 scroll=0,0
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-logo="https://yt3.ggpht.com/a/AATXAJxPN14nkBPdNoQAb5MQ_JJryWUhsyIXLJEOqg=s48-c-k-c0xffffffff-no-rj-mo" tvg-website="https://ecclesiatv.gr/" ,ecclesiaTV.gr
 https://ecclesiatv.gr/|webdig
-#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-logo="http://pemptousia.tv/assets/logo.png" tvg-website="http://pemptousia.tv/" ,ΠΕΜΠΤΟΥΣΙΑ TV
+#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-logo="http://pemptousia.tv/assets/logo.png" tvg-website="http://pemptousia.tv/" ,ΠΕΜΠΤΟΥΣΙΑ TV (YOUTUBE)
 https://www.youtube.com/embed/iZWXvz6vAKw
+#EXTINF:-1  group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://i.ibb.co/pvJD3YNY/FAROS-EKKLHSIA.png" ,FAROS TV
+https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/FAROS_TV_EKKLISIA.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqNtX4z3Gyf7utZdbH2ndH6qFnwhZAieOE8F9-VUcw=s176-c-k-c0x00ffffff-no-rj" tvg-website="https://www.ekklisiaonline.gr/" ,ΕΚΚΛΗΣΙΑ Online (YOUTUBE)
 https://www.youtube.com/@ekklisiaonline/streams|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-logo="https://yt3.googleusercontent.com/Rm8PLT_78FNBlVKyRrg_ceh23gUnANIKCWzMYC5rxXc5ZKeW1PlpR3AcrEDArgnnDHvNQcUtZtg=s176-c-k-c0x00ffffff-no-rj" ,ΕΚΚΛΗΣΙΑ ONLINE NEWS LIVE (YOUTUBE)
