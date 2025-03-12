@@ -920,6 +920,10 @@ https://www.tvopen.gr/watch/235323/diasxizontasthmesaionikhgefyrakastelbekio|web
 https://www.tvopen.gr/watch/235324/kanontasboltastastenadromakiathspaliaspolhsthsberona|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Το «δέντρο της μνήμης» ρίζωσε στη Θεσσαλονίκη
 https://www.tvopen.gr/watch/235332/toc2abdentrothsmnhmhsc2bbrizosesththessalonikh|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Βαρένα - Το χωριουδάκι που κλέβει καρδιές
+https://www.tvopen.gr/watch/236011/barenatoxorioydakipoyklebeikardies|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Ντε Λα Σπίγκα: Ο πιο κομψός πεζόδρομος του Μιλάνο
+https://www.tvopen.gr/watch/236012/ntelaspigkaopiokompsospezodromostoymilano|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Καππαδοκία, Α' μέρος
 https://www.tvopen.gr/watch/2307/eikonesmetontasodoysh7ckappadokiaameros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση |  Καππαδοκία Β' Μέρος
@@ -1378,3 +1382,5 @@ https://www.tvopen.gr/watch/233758/eikonestrikalakorinthias|webfulldig
 https://www.tvopen.gr/watch/234347/eikonesmetontasodoyshmilano|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες - Μιλάνο Β μέρος
 https://www.tvopen.gr/watch/235078/eikonesmilanobmeros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες - Μιλάνο Γ μέρος
+https://www.tvopen.gr/watch/236010/eikonesmilanogmeros|webfulldig

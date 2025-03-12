@@ -582,3 +582,7 @@ https://www.megatv.com/gtvshows/1840673/xamogela-kai-pali-23-02-2025/|webfulldig
 https://www.megatv.com/gtvshows/1849061/01-03-2025/|webfulldig
 #EXTINF:-1 group-title="Season 4",02/03/2025
 https://www.megatv.com/gtvshows/1850252/02-03-2025/|webfulldig
+#EXTINF:-1 group-title="Season 4",08/03/2025
+https://www.megatv.com/gtvshows/1856009/08-03-2025/|webfulldig
+#EXTINF:-1 group-title="Season 4",09/03/2025
+https://www.megatv.com/gtvshows/1858709/09-03-2025/|webfulldig

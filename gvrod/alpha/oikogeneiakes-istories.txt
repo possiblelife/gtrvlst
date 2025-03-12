@@ -1208,3 +1208,7 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62024&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62025&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Το μπλοκ
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62026&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Η πικρή αλήθεια
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62079&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Η νύφη το έσκασε
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62080&showId=869&year=2025|webvidfulldig

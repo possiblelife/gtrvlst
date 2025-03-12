@@ -1,11 +1,5 @@
 #EXTINF:-1 group-title="Σεζόν 8",ΕΠΕΙΣΟΔΙΟ 87
 https://www.alphatv.gr/show/deal/?vtype=player&vid=-1&showId=254&year=2025|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 8",ΕΠΕΙΣΟΔΙΟ 90
-https://www.alphatv.gr/show/deal/?vtype=player&vid=61825&showId=254&year=2025|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 8",ΕΠΕΙΣΟΔΙΟ 91
-https://www.alphatv.gr/show/deal/?vtype=player&vid=61826&showId=254&year=2025|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 8",ΕΠΕΙΣΟΔΙΟ 92
-https://www.alphatv.gr/show/deal/?vtype=player&vid=61827&showId=254&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 8",ΕΠΕΙΣΟΔΙΟ 93
 https://www.alphatv.gr/show/deal/?vtype=player&vid=61828&showId=254&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 8",ΕΠΕΙΣΟΔΙΟ 94
@@ -40,3 +34,7 @@ https://www.alphatv.gr/show/deal/?vtype=player&vid=62016&showId=254&year=2025|we
 https://www.alphatv.gr/show/deal/?vtype=player&vid=62017&showId=254&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 8",ΕΠΕΙΣΟΔΙΟ 109
 https://www.alphatv.gr/show/deal/?vtype=player&vid=62018&showId=254&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 8",ΕΠΕΙΣΟΔΙΟ 110
+https://www.alphatv.gr/show/deal/?vtype=player&vid=62074&showId=254&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 8",ΕΠΕΙΣΟΔΙΟ 111
+https://www.alphatv.gr/show/deal/?vtype=player&vid=62075&showId=254&year=2025|webvidfulldig

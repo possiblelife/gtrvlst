@@ -1502,3 +1502,7 @@ https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/210225|w
 https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/konstantinos-hristoforoy-kostas-karafotis|webvidfulldig
 #EXTINF:-1 group-title="Season 8",28/02/25
 https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/280225|webvidfulldig
+#EXTINF:-1 group-title="Season 8",07/03/25
+https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/070325|webvidfulldig
+#EXTINF:-1 group-title="Season 8",Στέφανος Στεφάνου
+https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/stefanos-stefanoy|webvidfulldig

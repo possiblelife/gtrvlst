@@ -240,3 +240,7 @@ https://www.megatv.com/gtvshows/1853459/05-03-25/|webfulldig
 https://www.megatv.com/gtvshows/1854698/06-03-25/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",07/03/25
 https://www.megatv.com/gtvshows/1855946/07-03-25/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",10/03/25
+https://www.megatv.com/gtvshows/1859987/10-03-25/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",11/03/25
+https://www.megatv.com/gtvshows/1861214/11-03-25/|webfulldig
