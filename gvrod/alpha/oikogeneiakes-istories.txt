@@ -1212,3 +1212,9 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62026&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62079&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Η νύφη το έσκασε
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62080&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Ο κόλακας
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62081&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Τα εν οίκω
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62082&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Το προφίλ
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62083&showId=869&year=2025|webvidfulldig

@@ -444,7 +444,7 @@ https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/ygiei
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/110225|webvidfulldig
 #EXTINF:-1 group-title="2024-2025",12/02/25
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/120225|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",12/02/25 - Λυθροδόντας
+#EXTINF:-1 group-title="2024-2025",12/02/25 - Λυθροδόντας
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/120225-lythrodontas|webvidfulldig
 #EXTINF:-1 group-title="2024-2025",13/02/25
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/130225|webvidfulldig
@@ -484,7 +484,7 @@ https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/25022
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/rabioles-haloymi-me-saltsa-ntomatas-kai-mpoyrata|webvidfulldig
 #EXTINF:-1 group-title="2024-2025",26/02/25
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/260225|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",26/02/25 - Λουβαράς
+#EXTINF:-1 group-title="2024-2025",26/02/25 - Λουβαράς
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/260225-loybaras|webvidfulldig
 #EXTINF:-1 group-title="2024-2025",27/02/25
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/270225|webvidfulldig
@@ -508,3 +508,15 @@ https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/07032
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/100325|webvidfulldig
 #EXTINF:-1 group-title="2024-2025",Κρεμώδης Κοτόσουπα με Κάρυ και Λαχανικά
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/kremodis-kotosoypa-me-kary-kai-lahanika|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",11/03/25
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/110325|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",Πικάντικο μαροκινό κοτόπουλο με πουργούρι και παστά φρούτα
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/pikantiko-marokino-kotopoylo-me-poyrgoyri-kai-pasta|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",12/03/25
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/120325|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",Classic Τιραμισού
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/classic-tiramisoy|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",12/03/25 - Λαζανιά
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/120325-lazania|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",13/03/25
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/130325|webvidfulldig
