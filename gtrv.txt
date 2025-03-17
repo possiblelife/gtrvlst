@@ -58,8 +58,6 @@ https://www.lakatamia.tv/app/chans/gr/stargreece.php|webepg zoom=100 scroll=0,10
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" tvg-name="ALPHA" tvg-website="https://www.alphatv.gr/" ,ALPHA HD
 https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" tvg-name="ALPHA" tvg-website="https://www.alphatv.gr/" ,ALPHA (1)
-https://stream3.anixe.net/live/alpha/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/553.27 (KHTML, like Gecko) Chrome/175.0.1847.859 Safari/553.27
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" tvg-name="ALPHA" tvg-website="https://www.alphatv.gr/" ,ALPHA (2)
 https://wow.anixa.tv/live/alpha/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/553.27 (KHTML, like Gecko) Chrome/175.0.1847.859 
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" tvg-name="ALPHA" tvg-website="https://www.alphatv.gr/" ,ALPHA (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
