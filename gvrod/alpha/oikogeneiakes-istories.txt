@@ -1218,3 +1218,7 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62081&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62082&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Το προφίλ
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62083&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Το όνειρο
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62150&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Το ξεκαθάρισμα
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62151&showId=869&year=2025|webvidfulldig

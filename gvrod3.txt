@@ -2070,6 +2070,8 @@ http://.....
 https://www.ant1live.com/webtv/psyhagogia|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2024-09/CasaDeMikel%206%20Poster.jpg?itok=3tVTQd7l" tvg-website="https://www.ant1live.com/webtv/psyhagogia/casa-de-mikel" ,Casa de Mikel
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1/ekpompes/casa-de-mikel.txt
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2025-02/IMG_1867.jpeg?itok=1fkh7q-G" tvg-website="https://www.ant1live.com/webtv/psyhagogia/allazoyme-xm" ,αλλάΖΟΥΜΕ by XM
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1/ekpompes/allazoumexm.txt
 #EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2024-09/Passenger%2024-25%20poster.jpg?itok=SMsmp33R" tvg-website="https://www.ant1live.com/webtv/psyhagogia/passenger" ,Passenger
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/ant1/ekpompes/passenger.txt
 
