@@ -474,6 +474,8 @@ https://kisstv.siliconweb.com/kissfm/kisstv/chunks.m3u8
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="https://i.ibb.co/k9dGbcN/baraza.jpg" tvg-website="https://app.barazaradio.com/" ,Baraza Greek Music Hits
 https://eco.streams.ovh:8081/barazatv/index.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="https://i.ibb.co/k9dGbcN/baraza.jpg" tvg-website="https://app.barazaradio.com/", Baraza Greek Music 2
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/relaxing/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="https://i.ibb.co/k9dGbcN/baraza.jpg" tvg-website="https://app.barazaradio.com/" ,Baraza RELAX MUSIC
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="https://i.ibb.co/k9dGbcN/baraza.jpg" tvg-website="https://app.barazaradio.com/" ,Baraza DJ MUSIC
