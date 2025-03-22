@@ -1118,6 +1118,8 @@ https://www.megatv.com/tvshows/1432262/epeisodio-119-11/|webfulldig
 https://www.megatv.com/tvshows/1432265/epeisodio-120-11/|webfulldig
 #EXTINF:-1 group-title="Γ' ΚΥΚΛΟΣ",Επεισόδιο 121
 https://www.megatv.com/tvshows/1432268/epeisodio-121-10/|webfulldig
+#EXTINF:-1 group-title="Γ' ΚΥΚΛΟΣ",Επεισόδιο 122
+https://www.megatv.com/tvshows/1432271/epeisodio-122-10/|webfulldig
 #EXTINF:-1 group-title="Γ' ΚΥΚΛΟΣ",Επεισόδιο 123
 https://www.megatv.com/tvshows/1438601/epeisodio-123-10/|webfulldig
 #EXTINF:-1 group-title="Γ' ΚΥΚΛΟΣ",Επεισόδιο 124
@@ -1462,3 +1464,5 @@ https://www.megatv.com/tvshows/1866578/epeisodio-108-13/|webfulldig
 https://www.megatv.com/tvshows/1868399/epeisodio-109-13/|webfulldig
 #EXTINF:-1 group-title="Δ΄ ΚΥΚΛΟΣ",Επεισόδιο 110
 https://www.megatv.com/tvshows/1869866/epeisodio-110-13/|webfulldig
+#EXTINF:-1 group-title="Δ΄ ΚΥΚΛΟΣ",Επεισόδιο 111
+https://www.megatv.com/tvshows/1872425/epeisodio-111-13/|webfulldig

@@ -1222,3 +1222,9 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62083&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62150&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Το ξεκαθάρισμα
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62151&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Η συμφωνία
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62152&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Bachelorette
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62153&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Ο καλός, ο κακός και ο ψεύτης
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62154&showId=869&year=2025|webvidfulldig
