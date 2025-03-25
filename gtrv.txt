@@ -400,7 +400,8 @@ https://vdo.streams.gr:3979/live/wvoxtvlive.m3u8
 https://media.omikrontv.gr/live/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/0pL23s3w/images.jpg"  ,VILLAGE WORLD
 http://ellastv.gotdns.com:88/freetv/village-world/index.m3u8
-
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/JFw8fzRY/athes-geo-tv.png"  ,ATHENS Geo. TV
+https://til.pp.ua:3813/stream/play.m3u8
 
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,===== ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ ====
