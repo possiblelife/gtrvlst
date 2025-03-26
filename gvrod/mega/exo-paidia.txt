@@ -76,3 +76,5 @@ https://www.megatv.com/tvshows/1860185/epeisodio-37-40/|webfulldig
 https://www.megatv.com/tvshows/1860197/epeisodio-38-40/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 40
 https://www.megatv.com/tvshows/1864718/epeisodio-40-39/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 41
+https://www.megatv.com/tvshows/1873757/epeisodio-41-37/|webfulldig

@@ -2378,3 +2378,5 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=211518&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=211525&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 6",21/03/2025 ΑΙΧΜΕΣ
 https://www.omegatv.com.cy/cgibin/hweb?-A=211532&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 6",24/03/2025 ΑΙΧΜΕΣ
+https://www.omegatv.com.cy/cgibin/hweb?-A=211795&-V=vod|webfulldig

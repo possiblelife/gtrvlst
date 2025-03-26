@@ -1228,3 +1228,5 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62152&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62153&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Ο καλός, ο κακός και ο ψεύτης
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62154&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Η ευχή
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62225&showId=869&year=2025|webvidfulldig
