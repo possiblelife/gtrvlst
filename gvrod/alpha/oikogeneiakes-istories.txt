@@ -1230,3 +1230,9 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62153&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62154&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Η ευχή
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62225&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Εκείνο το καλοκαίρι
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62226&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Η κλοπή
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62227&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Πάμε βόλτα
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62228&showId=869&year=2025|webvidfulldig

@@ -1,5 +1,3 @@
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 49
-https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=62087&showId=1653&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 50
 https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=62155&showId=1653&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 51
@@ -10,3 +8,5 @@ https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=62157&showId=1653&year=2
 https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=62229&showId=1653&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 54
 https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=62230&showId=1653&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 55
+https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=62231&showId=1653&year=2025|webvidfulldig

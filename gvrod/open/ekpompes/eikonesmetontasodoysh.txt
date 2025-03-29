@@ -1,7 +1,3 @@
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Καππαδοκία: Βόλτα με αερόστατο
-https://www.tvopen.gr/watch/1249/eikonesmetontasodoysh7ckappadokiaboltameaerostato|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Καππαδοκία: Στις υπόγειες πόλεις
-https://www.tvopen.gr/watch/1453/eikonesmetontasodoysh7ckappadokiastisypogeiespoleis|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | The Venetian: Ξενοδοχείο από άλλη ήπειρο
 https://www.tvopen.gr/watch/2408/eikonesmetontasodoysh7cthevenetianxenodoxeioapoallhhpeiro|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Stratosphere: Το ψηλότερο κτήριο στο Λας Βέγκας
@@ -10,6 +6,10 @@ https://www.tvopen.gr/watch/3127/eikonesmetontasodoysh7cstratospheretopshloterok
 https://www.tvopen.gr/watch/4152/eikonesmetontasodoysh7cmelrooyzodromosthsprotoporias|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Μπουρτζ Χαλίφα: Το ψηλότερο κτήριο του κόσμου
 https://www.tvopen.gr/watch/4498/eikonesmetontasodoysh7cmpoyrtzxalifatopshloterokthriotoykosmoy|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Καππαδοκία: Βόλτα με αερόστατο
+https://www.tvopen.gr/watch/1249/eikonesmetontasodoysh7ckappadokiaboltameaerostato|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Καππαδοκία: Στις υπόγειες πόλεις
+https://www.tvopen.gr/watch/1453/eikonesmetontasodoysh7ckappadokiastisypogeiespoleis|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Μπουρτζ Αλ Αράμπ: Το μοναδικό 7στερο ξενοδοχείο στον κόσμο
 https://www.tvopen.gr/watch/5083/eikonesmetontasodoysh7cmpoyrtzalaramptomonadiko7steroxenodoxeiostonkosmo|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Ουμπούτ: Το καταπράσινο κέντρο του Μπαλί
@@ -340,6 +340,10 @@ https://www.tvopen.gr/watch/116376/askhseisyogastisseyxelles|webfulldig
 https://www.tvopen.gr/watch/116469/taxidimekatamaranstapioomorfanhsiatonseyxellon|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Σεϋχέλλες: Στην πιο εντυπωσιακή παραλία του κόσμου
 https://www.tvopen.gr/watch/116470/seyxellessthnpioentyposiakhparaliatoykosmoy|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Νησί Κιουριές, Σεϋχέλλες: Στο βασίλειο των γιγάντιων χελωνών
+https://www.tvopen.gr/watch/116471/nhsikioyriesseyxellesstobasileiotongigantionxelonon|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Ρίο ντε Τζανέιρο: Στο άγαλμα του Χριστού Λυτρωτή
+https://www.tvopen.gr/watch/117403/riontetzaneirostoagalmatoyxristoylytroth|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ρίο ντε Τζανέιρο: H διάσημη παραλία Κοπακαμπάνα
 https://www.tvopen.gr/watch/117404/riontetzaneirohdiashmhparaliakopakampana|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Copacabana Palace: Το ιστορικό ξενοδοχείο του Ρίο ντε Τζανέιρο
@@ -358,10 +362,6 @@ https://www.tvopen.gr/watch/118490/ipanemahsikkaimodathparaliatoyriontetzaneiro|
 https://www.tvopen.gr/watch/118491/pthshmeanemopteropanoapotoriontetzaneiro|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Rio Scenarium: Το κλαμπ ζωντανός θρύλος του Ρίο ντε Τζανέιρο
 https://www.tvopen.gr/watch/118492/rioscenariumtoklampzontanosthrylostoyriontetzaneiro|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Νησί Κιουριές, Σεϋχέλλες: Στο βασίλειο των γιγάντιων χελωνών
-https://www.tvopen.gr/watch/116471/nhsikioyriesseyxellesstobasileiotongigantionxelonon|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Ρίο ντε Τζανέιρο: Στο άγαλμα του Χριστού Λυτρωτή
-https://www.tvopen.gr/watch/117403/riontetzaneirostoagalmatoyxristoylytroth|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ράφτινγκ στους καταρράκτες Ιγκουασού
 https://www.tvopen.gr/watch/118522/raftingkstoyskatarraktesigkoyasoy|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Καταρράκτες Ιγκουασού: Πάρκο πουλιών με 800 διαφορετικά είδη που ζουν ελεύθερα
@@ -1022,6 +1022,16 @@ https://www.tvopen.gr/watch/52906/eikonesmetontasodoysh7ceyrytaniaae28099meros|w
 https://www.tvopen.gr/watch/53742/eikonesmetontasodoysh7ceyrytaniabe28099meros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Ευρυτανία Γ’ μέρος
 https://www.tvopen.gr/watch/54594/eikonesmetontasodoysh7ceyrytaniage28099meros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Στοκχόλμη, Α’ μέρος
+https://www.tvopen.gr/watch/64193/eikonesmetontasodoysh7cstokxolmhae28099meros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Στοκχόλμη, B’ μέρος
+https://www.tvopen.gr/watch/65166/eikonesmetontasodoysh7cstokxolmhbe28099meros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Σουηδική Λαπωνία, Α’ μέρος
+https://www.tvopen.gr/watch/66131/eikonesmetontasodoysh7csoyhdikhlaponiaae28099meros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Σουηδική Λαπωνία, Β’ μέρος
+https://www.tvopen.gr/watch/67041/eikonesmetontasodoysh7csoyhdikhlaponiabe28099meros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Βαρκελώνη, Α’ μέρος
+https://www.tvopen.gr/watch/67908/eikonesmetontasodoysh7cbarkelonhae28099meros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Ναύπλιο
 https://www.tvopen.gr/watch/55667/eikonesmetontasodoysh7cnayplio|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Αίγυπτος, Κάιρο Α’ μέρος
@@ -1034,16 +1044,6 @@ https://www.tvopen.gr/watch/60347/eikonesmetontasodoysh7caigyptosloyxor|webfulld
 https://www.tvopen.gr/watch/61328/eikonesmetontasodoysh7caigyptosasoyanameros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Αίγυπτος, Ασουάν Β’ μέρος
 https://www.tvopen.gr/watch/62282/eikonesmetontasodoysh7caigyptosasoyanbe28099meros|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Στοκχόλμη, Α’ μέρος
-https://www.tvopen.gr/watch/64193/eikonesmetontasodoysh7cstokxolmhae28099meros|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Στοκχόλμη, B’ μέρος
-https://www.tvopen.gr/watch/65166/eikonesmetontasodoysh7cstokxolmhbe28099meros|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Σουηδική Λαπωνία, Α’ μέρος
-https://www.tvopen.gr/watch/66131/eikonesmetontasodoysh7csoyhdikhlaponiaae28099meros|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Σουηδική Λαπωνία, Β’ μέρος
-https://www.tvopen.gr/watch/67041/eikonesmetontasodoysh7csoyhdikhlaponiabe28099meros|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Βαρκελώνη, Α’ μέρος
-https://www.tvopen.gr/watch/67908/eikonesmetontasodoysh7cbarkelonhae28099meros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Βαρκελώνη, Β’ μέρος
 https://www.tvopen.gr/watch/68781/eikonesmetontasodoysh7cbarkelonhbe28099meros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Μεξικό, Α’ μέρος
