@@ -1236,3 +1236,7 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62226&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62227&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Πάμε βόλτα
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62228&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Κάτι μεταξύ μας
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62283&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Η ληστεία
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62284&showId=869&year=2025|webvidfulldig

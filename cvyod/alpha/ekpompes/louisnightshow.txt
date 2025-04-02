@@ -1514,3 +1514,7 @@ https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/thanasis
 https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/210325|webvidfulldig
 #EXTINF:-1 group-title="Season 8",Πυγμαλίων Δαδακαρίδης
 https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/pygmalion-dadakaridis|webvidfulldig
+#EXTINF:-1 group-title="Season 8",28/03/25
+https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/280325|webvidfulldig
+#EXTINF:-1 group-title="Season 8",Χάρης Ρώμας
+https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/haris-romas|webvidfulldig

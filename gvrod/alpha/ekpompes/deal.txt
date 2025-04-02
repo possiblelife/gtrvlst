@@ -40,3 +40,7 @@ https://www.alphatv.gr/show/deal/?vtype=player&vid=62222&showId=254&year=2025|we
 https://www.alphatv.gr/show/deal/?vtype=player&vid=62223&showId=254&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 8",ΕΠΕΙΣΟΔΙΟ 124
 https://www.alphatv.gr/show/deal/?vtype=player&vid=62224&showId=254&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 8",ΕΠΕΙΣΟΔΙΟ 125
+https://www.alphatv.gr/show/deal/?vtype=player&vid=62278&showId=254&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 8",ΕΠΕΙΣΟΔΙΟ 126
+https://www.alphatv.gr/show/deal/?vtype=player&vid=62279&showId=254&year=2025|webvidfulldig
