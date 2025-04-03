@@ -1522,6 +1522,8 @@ https://www.ertflix.gr/show/archives|webmulti zoom=100 scroll=0,0
 
 #EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΕΡΤ ====
 http://.....
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-description="https://raw.githubusercontent.com/possiblelife/gtrvlst/refs/heads/main/desc/ert/%CE%9C%CE%B1%CE%BC%CE%AC.%CF%83%CF%84%CE%B1.%CE%BA%CF%81%CF%85%CF%86%CE%AC.(2025)" tvg-logo="https://greek-movies.com/icon/series/%CE%9C%CE%B1%CE%BC%CE%AC%CF%83%CF%84%CE%B1%CE%BA%CF%81%CF%85%CF%86%CE%AC2025.jpg" ,Μαμά στα κρυφά (2025)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Μαμά.στα.κρυφά.(2025)
 #EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-description="https://github.com/possiblelife/gtrvlst/raw/refs/heads/main/desc/ert/%CE%91%CF%81%CF%87%CE%B5%CE%BB%CE%AC%CE%BF%CF%85.5.(2024-2025)" tvg-logo="https://greek-movies.com/icon/series/Αρχελάου52024.jpg" ,Αρχελάου 5 (2024-2025)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ert/Αρχελάου.5.(2024-2025)
 #EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-description="https://github.com/possiblelife/gtrvlst/raw/refs/heads/main/desc/ert/%CE%97.%CF%80%CE%B1%CF%81%CE%B1%CE%BB%CE%AF%CE%B1.(2023-2025)" tvg-logo="https://greek-movies.com/icon/series/Ηπαραλία2022.jpg" ,Η παραλία (2023-2025)
