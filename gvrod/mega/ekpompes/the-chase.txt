@@ -1,7 +1,3 @@
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 118
-https://www.megatv.com/gtvshows/1844714/epeisodio-118-7/|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 120
-https://www.megatv.com/gtvshows/1851950/epeisodio-120-7/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 121
 https://www.megatv.com/gtvshows/1853420/epeisodio-121-7/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 122
@@ -28,6 +24,8 @@ https://www.megatv.com/gtvshows/1866548/epeisodio-131-7/|webfulldig
 https://www.megatv.com/gtvshows/1866557/epeisodio-132-7/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 133
 https://www.megatv.com/gtvshows/1866566/epeisodio-133-7/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 133
+https://www.megatv.com/gtvshows/1866566/epeisodio-133-7/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 134
 https://www.megatv.com/gtvshows/1872422/epeisodio-134-7/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 135
@@ -46,3 +44,7 @@ https://www.megatv.com/gtvshows/1882607/epeisodio-140-7/|webfulldig
 https://www.megatv.com/gtvshows/1888877/epeisodio-143-6/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 142
 https://www.megatv.com/gtvshows/1888226/epeisodio-142-8/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 144
+https://www.megatv.com/gtvshows/1891400/epeisodio-144-6/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 145
+https://www.megatv.com/gtvshows/1891412/epeisodio-145-6/|webfulldig

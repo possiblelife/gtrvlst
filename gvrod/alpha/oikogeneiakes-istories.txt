@@ -1240,3 +1240,9 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62228&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62283&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Η ληστεία
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62284&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Δεν θα χωρίσουμε ποτέ
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62285&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Αξία ανεκτίμητη
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62286&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Βάζω λόγια
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62287&showId=869&year=2025|webvidfulldig

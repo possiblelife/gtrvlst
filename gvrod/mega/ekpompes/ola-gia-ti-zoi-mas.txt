@@ -508,3 +508,5 @@ https://www.megatv.com/gtvshows/1871285/epeisodio-253/|webfulldig
 https://www.megatv.com/gtvshows/1884848/epeisodio-254/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 255
 https://www.megatv.com/gtvshows/1884851/epeisodio-255/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 256
+https://www.megatv.com/gtvshows/1895369/epeisodio-256/|webfulldig
