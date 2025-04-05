@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="grtv" generator-info-url="">
+ <channel id="zeys">
+    <display-name lang="el">zeys</display-name>
+  </channel>
   <channel id="ert1">
     <display-name lang="el">ΕΡΤ1</display-name>
   </channel>
@@ -31874,7 +31877,6 @@ Live headlines,breaking news, analysis and interviews from Europe's News Centre.
    <icon src="https://www.egnatia.tv/sites/default/files/styles/fullscreen_gallery_l/public/2020-07/%CE%9D%CF%84%CE%BF%CE%BA-%CE%93%CE%B5%CE%BD%CE%B9%CE%BA%CE%BF.jpg?itok=MMJeYz3V"/>
    <desc lang="el">Ιστορία, εξέλιξη, υγεία. Πώς επηρεάζουν όλες αυτές οι εξελίξεις την ευημερία του ανθρώπου, αλλά και γενικά τον τρόπο ζωής του; Μια σειρά με πραγματικά περιστατικά και αποδεικτικά στοιχεία στην Εγνατία Τηλεόραση. </desc>
   </programme>
-
   <programme start="20250404000000 +0300" stop="20250404060000 +0300" channel="extacygr">
     <title lang="el">Ελληνικές ταινίες</title>
    <desc lang="el">Μια σειρά από κλασικές ελληνικές ταινίες που θα σας ταξιδέψουν στο παρελθόν.</desc>
@@ -32146,5 +32148,37 @@ Live headlines,breaking news, analysis and interviews from Europe's News Centre.
   <programme start="20250407060000 +0300" stop="20250407070000 +0300" channel="extacy">
     <title lang="el">Οι στάβλοι της Εριέτας Ζαΐμη</title>
    <desc lang="el">Μια εκκεντρική φυλακή γυναικών γίνεται το επίκεντρο απίθανων καταστάσεων, σατιρίζοντας την ελληνική κοινωνία με χιούμορ, ίντριγκες και ανατροπές.</desc>
+  </programme>
+ <programme start="20250405000000 +0300" stop="20250405070000 +0300" channel="zeys">
+    <title lang="el">Ξένες ταινίες</title>
+   <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
+  </programme>
+  <programme start="20250405070000 +0300" stop="20250405140000 +0300" channel="zeys">
+    <title lang="el">Παιδικό πρόγραμμα</title>
+   <desc lang="el">Το καλύτερο παιδικό πρόγραμμα για τους μικρούς μας φίλους.</desc>
+  </programme>
+  <programme start="20250405140000 +0300" stop="20250405170000 +0300" channel="zeys">
+    <title lang="el">Ελληνικές ταινίες</title>
+   <desc lang="el">Μια σειρά από κλασικές ελληνικές ταινίες που θα σας ταξιδέψουν στο παρελθόν.</desc>
+  </programme>
+  <programme start="20250405170000 +0300" stop="20250405235900 +0300" channel="zeys">
+     <title lang="el">Ξένες ταινίες</title>
+   <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
+  </programme>
+ <programme start="20250406000000 +0300" stop="20250406070000 +0300" channel="zeys">
+    <title lang="el">Ξένες ταινίες</title>
+   <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
+  </programme>
+  <programme start="20250406070000 +0300" stop="20250406140000 +0300" channel="zeys">
+    <title lang="el">Παιδικό πρόγραμμα</title>
+   <desc lang="el">Το καλύτερο παιδικό πρόγραμμα για τους μικρούς μας φίλους.</desc>
+  </programme>
+  <programme start="20250406140000 +0300" stop="20250406170000 +0300" channel="zeys">
+    <title lang="el">Ελληνικές ταινίες</title>
+   <desc lang="el">Μια σειρά από κλασικές ελληνικές ταινίες που θα σας ταξιδέψουν στο παρελθόν.</desc>
+  </programme>
+  <programme start="20250406170000 +0300" stop="20250406235900 +0300" channel="zeys">
+     <title lang="el">Ξένες ταινίες</title>
+   <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
   </programme>
 </tv>
