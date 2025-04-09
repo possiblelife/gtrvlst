@@ -116,3 +116,7 @@ https://v6.cloudskep.com/rikvod/geustiko/geustiko230325.mp4?attachment=true
 https://v6.cloudskep.com/rikvod/geustiko/geustiko290325.mp4?attachment=true
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Γευστικό Ταξίδι 30/03/25
 https://v6.cloudskep.com/rikvod/geustiko/geustiko300325.mp4?attachment=true
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Γευστικό Ταξίδι 05/04/25
+https://v6.cloudskep.com/rikvod/geustiko/geustiko050425.mp4?attachment=true
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Γευστικό Ταξίδι 06/04/25
+https://v6.cloudskep.com/rikvod/geustiko/geustiko060425.mp4?attachment=true

@@ -1246,3 +1246,7 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62285&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62286&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Βάζω λόγια
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62287&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Μικρές ιδιοτροπίες
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62352&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Ο ένοικος
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62353&showId=869&year=2025|webvidfulldig

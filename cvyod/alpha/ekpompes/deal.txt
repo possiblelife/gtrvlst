@@ -2890,3 +2890,7 @@ https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv/020425|webvidfulld
 https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv/030425|webvidfulldig
 #EXTINF:-1 group-title="Season 7",04/04/25
 https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv/040425|webvidfulldig
+#EXTINF:-1 group-title="Season 7",07/04/25
+https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv/070425|webvidfulldig
+#EXTINF:-1 group-title="Season 7",08/04/25
+https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv/080425|webvidfulldig

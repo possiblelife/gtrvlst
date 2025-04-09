@@ -2862,3 +2862,7 @@ https://www.star.gr/tv/psychagogia/shopping-star/242025-shopping-star|webfulldig
 https://www.star.gr/tv/psychagogia/shopping-star/342025-shopping-star|webfulldig
 #EXTINF:-1 group-title="Season 8",4.4.2025 - Shopping Star
 https://www.star.gr/tv/psychagogia/shopping-star/442025-shopping-star|webfulldig
+#EXTINF:-1 group-title="Season 8",7.4.2025 - Shopping Star
+https://www.star.gr/tv/psychagogia/shopping-star/742025-shopping-star|webfulldig
+#EXTINF:-1 group-title="Season 8",8.4.2025 - Shopping Star
+https://www.star.gr/tv/psychagogia/shopping-star/842025-shopping-star|webfulldig
