@@ -68,3 +68,5 @@ https://www.tvopen.gr/watch/236966/ypotheseis192f032f2025|webfulldig
 https://www.tvopen.gr/watch/237607/ypotheseis262f032f2025|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Υποθέσεις 02/04/2025
 https://www.tvopen.gr/watch/238264/ypotheseis022f042f2025|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Υποθέσεις 09/04/2025
+https://www.tvopen.gr/watch/238827/ypotheseis092f042f2025|webfulldig

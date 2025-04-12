@@ -578,3 +578,19 @@ https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/04042
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/070425|webvidfulldig
 #EXTINF:-1 group-title="2024-2025",Flatbreads
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/flatbreads|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",08/04/25
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/080425|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",Σοκολατένια μπισκότα thumbprint με γκανάζ σοκολάτας χαρουπιού
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/sokolatenia-mpiskota-thumbprint-me-gkanaz-sokolatas|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",09/04/25
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/090425|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",Μαρία Αριστοτέλους
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/maria-aristoteloys|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",Vegan κρέμα λεμόνι
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/vegan-krema-lemoni|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",10/04/25
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/100425|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",Μαργαρίτα Ζαχαρίου
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/margarita-zaharioy|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",Πασχαλινή μελόπιτα με αναρή
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/pashalini-melopita-me-anari|webvidfulldig

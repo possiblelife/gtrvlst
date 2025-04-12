@@ -1250,3 +1250,9 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62287&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62352&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Ο ένοικος
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62353&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Delivery
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62354&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Ψεύτικο προφίλ
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62355&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Μυθοπλασία
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62356&showId=869&year=2025|webvidfulldig
