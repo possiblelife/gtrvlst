@@ -942,6 +942,10 @@ https://www.tvopen.gr/watch/237937/eikonesmetontasodoyshkrakobiabe28099meros|web
 https://www.tvopen.gr/watch/238528/toparadosiakoanammatonfanarionstobrotslab|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Πάρκο Γουαζιένκι ή Πάρκο των Βασιλικών Λουτρών
 https://www.tvopen.gr/watch/238527/parkogoyazienkihparkotonbasilikonloytron|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Το Ενετικό λιμάνι της Ναυπάκτου
+https://www.tvopen.gr/watch/239055/toenetikolimanithsnaypaktoy|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Άνω Χώρα: Το «στολίδι» της Ορεινής Ναυπακτίας
+https://www.tvopen.gr/watch/239056/anoxoratoc2abstolidic2bbthsoreinhsnaypaktias|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Καππαδοκία, Α' μέρος
 https://www.tvopen.gr/watch/2307/eikonesmetontasodoysh7ckappadokiaameros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση |  Καππαδοκία Β' Μέρος
@@ -1408,3 +1412,5 @@ https://www.tvopen.gr/watch/236455/eikonesmetontasodoyshmetsobo|webfulldig
 https://www.tvopen.gr/watch/237188/eikonesmetontasodoyshkrakobia|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες - Πολωνία γ' μέρος
 https://www.tvopen.gr/watch/238440/eikonespoloniagmeros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες - Ναύπακτος
+https://www.tvopen.gr/watch/239053/eikonesnaypaktos|webfulldig

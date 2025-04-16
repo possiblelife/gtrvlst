@@ -1522,3 +1522,7 @@ https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/haris-ro
 https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/050425|webvidfulldig
 #EXTINF:-1 group-title="Season 8",Ελισάβετ Κωνσταντινίδου
 https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/elisabet-konstantinidoy|webvidfulldig
+#EXTINF:-1 group-title="Season 8",11/04/25
+https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/110425|webvidfulldig
+#EXTINF:-1 group-title="Season 8",Θέμης Γεωργαντάς
+https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/themis-georgantas|webvidfulldig

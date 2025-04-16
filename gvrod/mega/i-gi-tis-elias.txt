@@ -1490,3 +1490,7 @@ https://www.megatv.com/tvshows/1873736/epeisodio-121-12/|webfulldig
 https://www.megatv.com/tvshows/1873748/epeisodio-122-12/|webfulldig
 #EXTINF:-1 group-title="Δ΄ ΚΥΚΛΟΣ",Επεισόδιο 123
 https://www.megatv.com/tvshows/1873751/epeisodio-123-12/|webfulldig
+#EXTINF:-1 group-title="Δ΄ ΚΥΚΛΟΣ",Επεισόδιο 124
+https://www.megatv.com/tvshows/1899998/epeisodio-124-12/|webfulldig
+#EXTINF:-1 group-title="Δ΄ ΚΥΚΛΟΣ",Επεισόδιο 125
+https://www.megatv.com/tvshows/1900001/epeisodio-125-12/|webfulldig
