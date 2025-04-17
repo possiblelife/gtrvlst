@@ -84,6 +84,9 @@
   <channel id="extacy">
     <display-name lang="el">extacy</display-name>
   </channel>
+  <channel id="extacykids">
+    <display-name lang="el">extacykids</display-name>
+  </channel>
   <channel id="ALPHA">
     <display-name lang="el">ALPHA</display-name>
   </channel>
