@@ -411,18 +411,10 @@ https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEq
 http://.....
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacy" tvg-logo="https://i.ibb.co/bs7j4wR/extacy-tv-new-logo.png" tvg-name="Extacy TV" ,Extacy TV
 https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8 
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacy" tvg-logo="https://i.ibb.co/bs7j4wR/extacy-tv-new-logo.png" tvg-name="Extacy TV" ,Extacy TV (2)
-https://fr.crystalweb.net:1936/extacytv2/extacytv2/playlist.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacy" tvg-logo="https://i.ibb.co/bs7j4wR/extacy-tv-new-logo.png" tvg-name="Extacy TV" ,Extacy TV (3)
-https://www.twitch.tv/extacy_tv|weballdig
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="zeys" tvg-logo="https://i.ibb.co/ks7YJW4K/zeys-logo-aspro-kalo.png" ,ΖΕΥΣ CHANNEL
 https://fr.crystalweb.net:1936/zeustv/zeustv/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacygr" tvg-logo="https://i.ibb.co/gMBRJrJM/extacygr.png" tvg-name="Extacy TV GREEKS" ,Extacy TV GREEKS
 https://fr.crystalweb.net:1936/extacytvgreeks/extacytvgreeks/playlist.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacygr" tvg-logo="https://i.ibb.co/gMBRJrJM/extacygr.png" tvg-name="Extacy TV GREEKS" ,Extacy TV GREEKS (2)
-https://fr.crystalweb.net:1936/extacytvgreeks2/extacytvgreeks2/playlist.m3u8 
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacygr" tvg-logo="https://i.ibb.co/gMBRJrJM/extacygr.png" tvg-name="Extacy TV GREEKS" ,Extacy TV GREEKS (3)
-https://www.twitch.tv/extacytvgreeks|weballdig
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ibb.co/bJGz0h3/cine1.jpg" tvg-website="https://cinematime6.webnode.gr/",Cinema Time
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/cinematimetv/playlist.m3u8|Referer=https://ssh101.com/
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ibb.co/Cn1PpW2/cine2.jpg" tvg-website="https://cinematime6.webnode.gr/" ,Cinema Time 2
