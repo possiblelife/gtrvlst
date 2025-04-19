@@ -602,3 +602,9 @@ https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/14042
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/haris-sabba|webvidfulldig
 #EXTINF:-1 group-title="2024-2025",15/04/25
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/150425|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",16/04/25
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/160425|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",Raspberry Tiramisu
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/raspberry-tiramisu|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",16/04/25 - Πραστειό Κελλακίου
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/160425-prasteio-kellakioy|webvidfulldig
