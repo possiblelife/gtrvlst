@@ -415,8 +415,10 @@ https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8
 https://fr.crystalweb.net:1936/zeustv/zeustv/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacygr" tvg-logo="https://i.ibb.co/gMBRJrJM/extacygr.png"  ,Extacy TV GREEKS
 https://fr.crystalweb.net:1936/extacytvgreeks/extacytvgreeks/playlist.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacycin" tvg-logo="https://i.ibb.co/bs7j4wR/extacy-tv-new-logo.png"  ,Extacy TV CINEMA
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacycin" tvg-logo="https://i.ibb.co/SDYzBvZk/extacy-cinema-dark-696x392.jpg"  ,Extacy TV CINEMA
 https://fr.crystalweb.net:1936/extacytvcinema/extacytvcinema/playlist.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacycyp" tvg-logo="https://i.ibb.co/br83rNk/9f0c6632-b6bf-448b-a0b9-ea5cc2bdff33-channel-offline-image-1920x1080.jpg" ,Extacy TV Κύπρου
+https://fr.crystalweb.net:1936/extacytvcy/extacytvcy/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://goo.gl/ofVjvQ" ,NETV TORONTO
 https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://goo.gl/ofVjvQ" ,NETV EUROPE
