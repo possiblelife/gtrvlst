@@ -447,3 +447,6 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=212011&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 033 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
 -παραδοσιακές φλαούνες, παστίτσιο
 https://www.omegatv.com.cy/cgibin/hweb?-A=212100&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 034 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
+-Πίτα σούβλα και τυριά,Αναρόκρεμα με λευκή σοκολάτα ,Ρόλο μπακλαβά
+https://www.omegatv.com.cy/cgibin/hweb?-A=212472&-V=vod|webfulldig

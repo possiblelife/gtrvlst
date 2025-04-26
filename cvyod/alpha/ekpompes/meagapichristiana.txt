@@ -606,5 +606,19 @@ https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/15042
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/160425|webvidfulldig
 #EXTINF:-1 group-title="2024-2025",Raspberry Tiramisu
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/raspberry-tiramisu|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",16/04/25 - Πραστειό Κελλακίου
+#EXTINF:-1 group-title="2024-2025",16/04/25 - Πραστειό Κελλακίου
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/160425-prasteio-kellakioy|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",Εκμέκ με τσουρέκι
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/ekmek-me-tsoyreki|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",22/04/25
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/220425|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",23/04/25
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/230425|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",Σπύρος Παπαδόπουλος
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/spyros-papadopoylos|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",24/04/25
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/240425|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",Ρένια Λουϊζίδου
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/renia-loyizidoy-0|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",Ζυμαρικά ογκρατέν
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/zymarika-ogkraten|webvidfulldig
