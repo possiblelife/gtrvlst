@@ -5,8 +5,7 @@ http://www.allaboutandroid.gr/wp-content/uploads/2015/02/10362372_31926458828042
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΠΑΝΕΛΛΑΔΙΚΑ ====
 http://.....
 
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-logo="https://i.ibb.co/rVCRZ05/486381858-1225778389553578-2362630416338212923-n.jpg",TV MOSAIC (Επισκόπηση όλων των καναλιών)
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvmosaic/playlist.m3u8
+
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png",ERTFLIX LIVE
 https://www.ertflix.gr/epg/now-on-tv|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="https://i.ibb.co/Y71vkKs/ERT1.jpg" tvg-name="ΕΡΤ1" tvg-website="https://www.ertflix.gr" ,ΕΡΤ1 HD (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
