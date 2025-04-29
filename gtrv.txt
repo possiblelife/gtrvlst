@@ -342,9 +342,7 @@ https://srv.streamserver.gr:3451/stream/play.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://marontv.gr/wp-content/uploads/2021/03/marontv.png" tvg-website="https://marontv.gr/" , Maron TV
 https://raw.githubusercontent.com/And73Smi/search/refs/heads/main/streams/MARON_TV.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://www.nstv.gr/site/assets/files/2626/nstvlive.100x0.jpg" tvg-website="https://nstv.gr/" ,NStv.gr
-https://til.pp.ua:3262/live/nstv7live.m3u8
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://static.wixstatic.com/media/1af93f_c70d65efa2864a78b5ecee452437971f~mv2.png/v1/fill/w_265,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/xplore-vector_its-all-here-tagline-01_ed.png" ,XPLORE
-http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
+https://rtmp.win:3882/live/nstv7live.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://ypervasitv.gr/wp-content/uploads/2020/07/LOGO-%CE%A5%CE%A0%CE%95%CE%A1%CE%92%CE%91%CE%A3%CE%97-TV.png" tvg-website="https://ypervasitv.gr/" ,ypervasiTV (Youtube)
 https://www.youtube.com/@kinimaypervasi/streams|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/2qjgdgn/gr-london.jpg" tvg-website="https://www.greektvlondon.com/" ,Greek TV London
@@ -358,7 +356,7 @@ https://2-fss-1.streamhoster.com/pl_148/203374-5434856-1/chunklist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://stent.net.gr/images/stenttvlogo4.png" tvg-website="https://stent.net.gr/" ,Stent tv 
 https://live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/yQ997v6/konitsa-tv.jpg" tvg-website="https://konitsa-tv7.webnode.gr/" ,KONITSA TV
-https://fl1002.bozztv.com/ssh101/konitsalivetv/tracks-v1a1/mono.m3u8|Referer=https://v2.ssh101.com/
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/konitsalivetv/playlist.m3u8|Referer=https://v2.ssh101.com/
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" ,X TV
 https://m.twitch.tv/xtvision|webdig
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="http://tv.ime.gr//images/logo.png" tvg-website="http://tv.ime.gr/" ,IME Web TV
@@ -379,8 +377,7 @@ http://ellastv.gotdns.com:88/freetv/village-world/index.m3u8
 https://pro.free.hr:3236/stream/play.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/xqCtz20t/pronews.png"  ,ProNews
 https://pro.free.hr:3887/live/pronewslive.m3u8
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://www.thessalonikifair.gr/sites/default/files/partners/zeys_logo_aspro_kalo.png"  ,ΖΕΥS TV Θεσσαλονίκη
-https://www.twitch.tv/zefstv1|webdig
+
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,===== ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ ====
 http://.....
