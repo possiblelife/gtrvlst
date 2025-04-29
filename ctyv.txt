@@ -2,82 +2,60 @@
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-7JUwN0afLAI/WLsjPYSr6-I/AAAAAAAAAK4/rpoB9AuvPT4lb-Yn4_KV_ASHHSgjhTmhQCLcB/s1600/cyprus.png" ,===ΤΗΛΕΟΡΑΣΗ===
 https://4.bp.blogspot.com/-7JUwN0afLAI/WLsjPYSr6-I/AAAAAAAAAK4/rpoB9AuvPT4lb-Yn4_KV_ASHHSgjhTmhQCLcB/s1600/cyprus.png|webepg zoom=100 scroll=0,0
  
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="riksat" tvg-name="ΡΙΚ SAT" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/new_rik-sat-logo.original.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ SAT (ΕΠΙΛΟΓΗ 1)
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="riksat" tvg-name="ΡΙΚ SAT" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/new_rik-sat-logo.original.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ SAT
 https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="riksat" tvg-name="ΡΙΚ SAT" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/new_rik-sat-logo.original.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ SAT (ΕΠΙΛΟΓΗ 2)
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="riksat" tvg-name="ΡΙΚ SAT" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/new_rik-sat-logo.original.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ SAT - ΕΝΑΛΛΑΚΤΙΚΟ
 https://tv.rik.cy/live-tv/rik-sat/|webdig
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,Τηλεοπτικό Πρόγραμμα ΡΙΚ SAT 
-https://tv.rik.cy/schedule/|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik1" tvg-name="ΡΙΚ1" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/rik-tv-1.original.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ1
 http://l6.cloudskep.com/rikct/rik1/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik1" tvg-name="ΡΙΚ1" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/rik-tv-1.original.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ1 -ΕΝΑΛΛΑΚΤΙΚΟ
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik1" tvg-name="ΡΙΚ1" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/rik-tv-1.original.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ1 - ΕΝΑΛΛΑΚΤΙΚΟ
 https://tv.rik.cy/live-tv/rik-1/|webdig
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik1"  tvg-name="ΡΙΚ1" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/rik-tv-1.original.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ1 (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/cy/rik1cyprus.php|webfulldig
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,Τηλεοπτικό Πρόγραμμα ΡΙΚ1 
-https://tv.rik.cy/schedule/|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik2" tvg-name="ΡΙΚ2" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/rik-tv-2.original.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ2
 http://l6.cloudskep.com/rikct/rik2/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik2" tvg-name="ΡΙΚ2" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/rik-tv-2.original.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ2 - ΕΝΑΛΛΑΚΤΙΚΟ
 https://tv.rik.cy/live-tv/rik-2/|webdig
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik2" tvg-name="ΡΙΚ2" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/rik-tv-2.original.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ2 (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/cy/rik2image.php|webfulldig
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,Τηλεοπτικό Πρόγραμμα ΡΙΚ2
-https://tv.rik.cy/schedule/|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="RIK HD" tvg-name="ΡΙΚHD" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/new_rik-hd-logo.original.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚHD
 http://l6.cloudskep.com/rikct/rikhd/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="RIK HD" tvg-name="ΡΙΚHD" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/new_rik-hd-logo.original.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚHD -ΕΝΑΛΛΑΚΤΙΚΟ
 https://tv.rik.cy/live-tv/rik-hd/|webdig
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Mega" tvg-name="OMEGA" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" tvg-website="http://www.omegatv.com.cy/" ,OMEGA 
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Mega" tvg-name="OMEGA" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" tvg-website="http://www.omegatv.com.cy/" ,OMEGA
 http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Mega" tvg-name="OMEGA" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" tvg-website="http://www.omegatv.com.cy/" ,OMEGA - ΕΝΑΛΛΑΚΤΙΚΟ
 https://www.omegatv.com.cy/live/|weballdig
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="Mega" tvg-name="OMEGA" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" tvg-website="http://www.omegatv.com.cy/" ,OMEGA (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/cy/megacyimage.php|webfulldig
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,Τηλεοπτικό Πρόγραμμα OMEGA
-http://www.megatv.com.cy/cgibin/hweb?-V=megatvprogram&_FAA=1&-dmegatvprogramtod.html|webepg zoom=260 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Sigma" tvg-name="ΣΙΓΜΑ" tvg-logo="http://i.imgur.com/BMvgdlc.png" tvg-website="https://www.sigmatv.com/home" ,ΣΙΓΜΑ
 https://sl3.sigmatv.com/hls/live.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Sigma" tvg-name="ΣΙΓΜΑ" tvg-logo="http://i.imgur.com/BMvgdlc.png" tvg-website="https://www.sigmatv.com/home" ,ΣΙΓΜΑ (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/cy/sigmaimage.php|webfulldig
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,Τηλεοπτικό Πρόγραμμα ΣΙΓΜΑ
-http://www.sigmatv.com/schedule|webepg zoom=100 scroll=0,100
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="Alpha Cyprus" tvg-name="ΑΛΦΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" tvg-website="https://www.alphacyprus.com.cy/" ,ΑΛΦΑ 
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="Alpha Cyprus" tvg-name="ΑΛΦΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" tvg-website="https://www.alphacyprus.com.cy/" ,ΑΛΦΑ
 http://l4.cloudskep.com/alphacyp/acy/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="Alpha Cyprus" tvg-name="ΑΛΦΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" tvg-website="https://www.alphacyprus.com.cy/" ,ΑΛΦΑ - ΕΝΑΛΛΑΚΤΙΚΟ
 https://www.alphacyprus.com.cy/live|weballdig
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="Alpha Cyprus" tvg-name="ΑΛΦΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" tvg-website="https://www.alphacyprus.com.cy/" ,ΑΛΦΑ (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/cy/alphacyprus.php|webfulldig
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,Τηλεοπτικό Πρόγραμμα ΑΛΦΑ
-http://www.alphacyprus.com.cy/program|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="ANT1" tvg-name="ΑΝΤΕΝΝΑ" tvg-logo="https://goo.gl/q5aDRg" tvg-website="https://www.ant1live.com/" ,ΑΝΤΕΝΝΑ
 https://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="ANT1" tvg-name="ΑΝΤΕΝΝΑ" tvg-logo="https://goo.gl/q5aDRg" tvg-website="https://www.ant1live.com/" ,ΑΝΤΕΝΝΑ - ΕΝΑΛΛΑΚΤΙΚΗ
 https://www.ant1live.com/webtv/live|webdelayalldig
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="ANT1" tvg-name="ΑΝΤΕΝΝΑ" tvg-logo="https://goo.gl/q5aDRg" tvg-website="https://www.ant1live.com/" ,ΑΝΤΕΝΝΑ (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/cy/ant1cyprus.php|webfulldig
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,Τηλεοπτικό Πρόγραμμα ΑΝΤΕΝΝΑ
-https://www.antenna.gr/tvguide|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Capital" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" tvg-website="https://capitaltv.cy/" ,ΚΑΠΙΤΑΛ (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/cy/capitalcyprus.php|webfulldig
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,Τηλεοπτικό Πρόγραμμα ΚΑΠΙΤΑΛ
-https://www.cyta.com.cy/tv-guide|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Extra TV" tvg-logo="https://i.ibb.co/K6qFWYF/ONE-CY.png" ,ONE Channel CY (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/cy/extracyimage.php|webfulldig
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,Τηλεοπτικό Πρόγραμμα ONE Channel CY
-https://www.cyta.com.cy/tv-guide|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="Plus TV" tvg-logo="http://www.anacon.org/app/img/plus.jpg" ,ΠΛΑΣ (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/cy/pluscyimage.php|webfulldig
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,Τηλεοπτικό Πρόγραμμα ΠΛΑΣ
-https://www.cyta.com.cy/tv-guide|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Berginacy" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fa28f343-2082-41e1-aa2d-2d7fbe1c7552-profile_image-300x300.png" tvg-name="ΒΕΡΓΙΝΑ ΤV" tvg-website="https://verginatv.cy/" ,ΒΕΡΓΙΝΑ ΤV
 https://verginanews.gr:8443/hls_live/stream2.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Berginacy" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fa28f343-2082-41e1-aa2d-2d7fbe1c7552-profile_image-300x300.png" tvg-name="ΒΕΡΓΙΝΑ ΤV" tvg-website="https://verginatv.cy/" ,ΒΕΡΓΙΝΑ ΤV (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/cy/verginacyimage.php|webfulldig
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="smile" tvg-name="ΣΜΑΙΛ" tvg-logo="https://yt3.ggpht.com/-HQamnwjhf6M/AAAAAAAAAAI/AAAAAAAAAAA/RR0l9Otdjl4/s100-mo-c-c0xffffffff-rj-k-no/photo.jpg" tvg-website="https://www.smiletvcyprus.com/" ,ΣΜΑΙΛ
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="smile" tvg-logo="https://yt3.ggpht.com/-HQamnwjhf6M/AAAAAAAAAAI/AAAAAAAAAAA/RR0l9Otdjl4/s100-mo-c-c0xffffffff-rj-k-no/photo.jpg" tvg-website="https://www.smiletvcyprus.com/" ,ΣΜΑΙΛ
 https://s1.cystream.net/live/smile/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,Τηλεοπτικό Πρόγραμμα ΣΜΑΙΛ
-http://www.smiletvcyprus.com/gr/index.php/program/monday|webepg zoom=0 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="ert" tvg-logo="https://goo.gl/DLhMC3" tvg-website="https://www.ertflix.gr" ,Eρτ WORLD
 https://ertflix.s.llnwi.net/ertlive/ertworldc/default/index.mpd
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="Euronews" tvg-name="EURONEWS" tvg-logo="https://goo.gl/QMXKek" tvg-website="https://gr.euronews.com/" ,EURONEWS (Youtube)
@@ -98,3 +76,22 @@ https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3
 https://dev.aftermind.xyz/hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="http://vouli.tv/wp-content/uploads/2019/09/cropped-voulilogo-e1517760078658.png" tvg-website="https://vouli.tv/" ,Vouli.tv
 https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx
+
+#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,=====   ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ    ====
+http://.....
+#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,ΡΙΚSAT/ΡΙΚ1/ΡΙΚ2 (Τηλεοπτικό Πρόγραμμα)
+https://tv.rik.cy/schedule/|webepg zoom=100 scroll=0,100
+#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,OMEGA (Τηλεοπτικό Πρόγραμμα)
+http://www.megatv.com.cy/cgibin/hweb?-V=tvprogram&_FAA=1&-dtvprogramtod.html|webepg zoom=260 scroll=0,100
+#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,ΣΙΓΜΑ (Τηλεοπτικό Πρόγραμμα)
+http://www.sigmatv.com/schedule|webepg zoom=100 scroll=0,100
+#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,ΑΛΦΑ (Τηλεοπτικό Πρόγραμμα)
+http://www.alphacyprus.com.cy/program|webepg zoom=100 scroll=0,100
+#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,ΑΝΤΕΝΝΑ (Τηλεοπτικό Πρόγραμμα)
+https://www.antenna.gr/tvguide|webepg zoom=100 scroll=0,100
+#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,CYTA (Τηλεοπτικό Πρόγραμμα)
+https://epg.cyta.com.cy/tv-guide/el|webepg zoom=100 scroll=0,100
+#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,CABLENET (Τηλεοπτικό Πρόγραμμα)
+https://cablenet.com.cy/en/tv/tv-guide/|webepg zoom=100 scroll=0,100
+#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,Primetel (Τηλεοπτικό Πρόγραμμα)
+https://primetel.com.cy/view-the-guide-el|webepg zoom=100 scroll=0,100
