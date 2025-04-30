@@ -622,3 +622,9 @@ https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/24042
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/renia-loyizidoy-0|webvidfulldig
 #EXTINF:-1 group-title="2024-2025",Ζυμαρικά ογκρατέν
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/zymarika-ogkraten|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",25/04/25
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/250425|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",28/04/25
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/280425|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",Υγιεινό Tres Leches φράουλας
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/ygieino-tres-leches-fraoylas|webvidfulldig

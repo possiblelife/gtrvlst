@@ -272,3 +272,7 @@ https://www.megatv.com/gtvshows/1896575/06-04-2025-2/|webfulldig
 https://www.megatv.com/gtvshows/1903322/12-04-2025-2/|webfulldig
 #EXTINF:-1 group-title="Season 2",13/04/2025
 https://www.megatv.com/gtvshows/1905071/13-04-2025-2/|webfulldig
+#EXTINF:-1 group-title="Season 2",26/04/2025
+https://www.megatv.com/gtvshows/1919201/26-04-2025-2/|webfulldig
+#EXTINF:-1 group-title="Season 2",27/04/2025
+https://www.megatv.com/gtvshows/1920080/27-04-2025-2/|webfulldig
