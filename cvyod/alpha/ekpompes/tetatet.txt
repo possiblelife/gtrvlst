@@ -254,3 +254,55 @@ https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/230624-giorgos-
 https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/131024-annita-dimitrioy|webvidfulldig
 #EXTINF:-1 group-title="Season 5",20/10/24 - Καίτη Γαρμπή
 https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/201024-kaiti-garmpi|webvidfulldig
+#EXTINF:-1 group-title="Season 5",27/10/24 - Γιώργος Θεοφάνους
+https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/271024-giorgos-theofanoys|webvidfulldig
+#EXTINF:-1 group-title="Season 5",03/11/24 - Βίκυ Καγιά
+https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/031124-biky-kagia|webvidfulldig
+#EXTINF:-1 group-title="Season 5",10/11/24 - Σπύρος Πετρουλάκης
+https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/101124-spyros-petroylakis|webvidfulldig
+#EXTINF:-1 group-title="Season 5",17/11/24 - Χρύσα Ρώπα
+https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/171124-hrysa-ropa|webvidfulldig
+#EXTINF:-1 group-title="Season 5",24/11/24 - Αντίνοος Αλμπάνης
+https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/241124-antinoos-almpanis|webvidfulldig
+#EXTINF:-1 group-title="Season 5",01/12/24 - Λουκάς Φουρλάς
+https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/011224-loykas-foyrlas|webvidfulldig
+#EXTINF:-1 group-title="Season 5",08/12/24 - Κούλλης &amp; Κλαίρη Νικολάου
+https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/081224-koyllis-klairi-nikolaoy|webvidfulldig
+#EXTINF:-1 group-title="Season 5",15/12/24 - Έλενα Παπαρίζου
+https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/151224-elena-paparizoy|webvidfulldig
+#EXTINF:-1 group-title="Season 5",22/12/24 - Χρήστος Μάστορας
+https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/221224-hristos-mastoras|webvidfulldig
+#EXTINF:-1 group-title="Season 5",29/12/24 - Χαράλαμπος Προύντζος &amp; Γωγώ Αλεξανδρινού
+https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/291224-haralampos-proyntzos-gogo-alexandrinoy|webvidfulldig
+#EXTINF:-1 group-title="Season 5",05/01/25 - Ναταλία Γερμανού
+https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/050125-natalia-germanoy|webvidfulldig
+#EXTINF:-1 group-title="Season 5",12/01/25 - Τάνια Τσανακλίδου
+https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/120125-tania-tsanaklidoy|webvidfulldig
+#EXTINF:-1 group-title="Season 5",19/01/25 - Φοίβος Δεληβοριάς
+https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/190125-foibos-deliborias|webvidfulldig
+#EXTINF:-1 group-title="Season 5",26/01/25 - Δήμητρα Γαλάνη
+https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/260125-dimitra-galani|webvidfulldig
+#EXTINF:-1 group-title="Season 5",02/02/25 - Πάνος Μουζουράκης
+https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/020225-panos-moyzoyrakis|webvidfulldig
+#EXTINF:-1 group-title="Season 5",09/02/25 - Θάλεια Ματίκα &amp; Τάσος Ιορδανίδης
+https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/090225-thaleia-matika-tasos-iordanidis|webvidfulldig
+#EXTINF:-1 group-title="Season 5",16/02/25 - Στέφανος Κασσελάκης
+https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/160225-stefanos-kasselakis|webvidfulldig
+#EXTINF:-1 group-title="Season 5",23/02/25 - Γιώργος Τσαλακός
+https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/230225-giorgos-tsalakos|webvidfulldig
+#EXTINF:-1 group-title="Season 5",02/03/25 - Γιάννης Πάριος
+https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/020325-giannis-parios|webvidfulldig
+#EXTINF:-1 group-title="Season 5",09/03/25 - Πύρρος Δήμας
+https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/090325-pyrros-dimas|webvidfulldig
+#EXTINF:-1 group-title="Season 5",16/03/25 - Κωστής Μαραβέγιας
+https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/160325-kostis-marabegias|webvidfulldig
+#EXTINF:-1 group-title="Season 5",23/03/25 - Λένα Διβάνη
+https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/230325-lena-dibani|webvidfulldig
+#EXTINF:-1 group-title="Season 5",30/03/25 - Αλκίνοος Ιωαννίδης
+https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/300325-alkinoos-ioannidis|webvidfulldig
+#EXTINF:-1 group-title="Season 5",06/04/25 - Σπύρος Παπαδόπουλος &amp; Ρένια Λοιζίδου
+https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/060425-spyros-papadopoylos-renia-loizidoy|webvidfulldig
+#EXTINF:-1 group-title="Season 5",13/04/25 - Φώτης Σεργουλόπουλος
+https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/130425-fotis-sergoylopoylos|webvidfulldig
+#EXTINF:-1 group-title="Season 5",27/04/25 - Λίνα Νικολακοπούλου
+https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/270425-lina-nikolakopoyloy|webvidfulldig
