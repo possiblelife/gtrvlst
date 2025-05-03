@@ -333,6 +333,8 @@ http://ertflix.akamaized.net/ertlive/ertnews2/default/index.m3u8
 http://ertflix.akamaized.net/ertlive/ertnews3/default/index.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i0.wp.com/meganews.tv/wp-content/uploads/2023/03/1.png" tvg-website="https://www.megatv.com/meganews/" ,Mega News
 https://streamcdnb1-c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://www.skai.gr/tv/dist/images/BigBrother-button.png" tvg-website="https://www.skai.gr/tv/show/psuchagogia/big-brother/sezon-2024-2025/live" ,Big Brother
+https://cdn1.smart-tv-data.com/skai/skaiBB/manifest.mpd
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="http://i.imgur.com/GdgekUL.png" ,TV FILOPOLI
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="http://www.anacon.org/app/img/montreal.jpg" ,Montreal
