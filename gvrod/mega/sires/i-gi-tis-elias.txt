@@ -1510,3 +1510,7 @@ https://www.megatv.com/tvshows/1912040/epeisodio-131-12/|webfulldig
 https://www.megatv.com/tvshows/1912046/epeisodio-133-11/|webfulldig
 #EXTINF:-1 group-title="Δ΄ ΚΥΚΛΟΣ",Επεισόδιο 132
 https://www.megatv.com/tvshows/1912043/epeisodio-132-12/|webfulldig
+#EXTINF:-1 group-title="Δ΄ ΚΥΚΛΟΣ",Επεισόδιο 134
+https://www.megatv.com/tvshows/1912052/epeisodio-134-11/|webfulldig
+#EXTINF:-1 group-title="Δ΄ ΚΥΚΛΟΣ",Επεισόδιο 135
+https://www.megatv.com/tvshows/1912058/epeisodio-135-11/|webfulldig

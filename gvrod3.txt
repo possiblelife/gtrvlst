@@ -1482,9 +1482,9 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/e
 #EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/png/files/first_dates/2024/1st_look/first_dates-287x382.png" tvg-website="https://www.star.gr/tv/psychagogia/first-dates" ,FIRST DATES
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/ekpompes_arxio/first-dates.txt
 #EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/png/files/stars_system-2024/1st_look/stars_system_2023-24-287x382.png" tvg-website="https://www.star.gr/tv/psychagogia/stars-system" ,STARS SYSTEM
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/ekpompes_arxio/stars-system.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/ekpompes/stars-system.txt
 #EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/2/jpg/files/2022-01-11/traction_2021-22/traction_300x690_21-22.jpg" tvg-website="https://www.star.gr/tv/psychagogia/traction" ,TRACTION
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/ekpompes_arxio/traction.txt
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/ekpompes/traction.txt
 #EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/zina_to_vradi/blue_background/zina_to_vradi-blue-287x382.jpg" tvg-website="https://www.star.gr/tv/psychagogia/zina-to-vradu" ,ΖΗΝΑ ΤΟ ΒΡΑΔΥ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/star/ekpompes_arxio/zina-to-vradu.txt
 #EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/oi_100/2022-23/oi_100-287x382-2022-23.jpg" tvg-website="https://www.star.gr/tv/psychagogia/oi-100" ,ΟΙ 100

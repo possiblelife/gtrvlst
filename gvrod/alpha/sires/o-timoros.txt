@@ -8,3 +8,5 @@ https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=62466&showId=1653&year=2
 https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=62521&showId=1653&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 66
 https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=62522&showId=1653&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 67
+https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=62523&showId=1653&year=2025|webvidfulldig
