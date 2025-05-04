@@ -418,7 +418,9 @@ https://fr.crystalweb.net:1936/extacytvcy/extacytvcy/playlist.m3u8
 https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://goo.gl/ofVjvQ" ,NETV EUROPE
 https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ibb.co/88bGzz5/DIAVATA.jpg" ,DiavataTV 
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ibb.co/88bGzz5/DIAVATA.jpg" tvg-name="DiavataTV",DiavataTV
+http://ssh101stream.ssh101.com/akamaissh101/ssh101/diavatatvweb/playlist.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ibb.co/88bGzz5/DIAVATA.jpg" tvg-name="DiavataTV",DiavataTV - Εναλλακτικό
 https://www.twitch.tv/diavata_tv|webdig
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://reloadplay.com/wp-content/uploads/2017/04/Groovy-3-150x48.png" ,Groovy
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
