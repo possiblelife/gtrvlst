@@ -453,3 +453,6 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=212472&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 035 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
 -ΣΦΑΚΙΑΝΗ ΠΙΤΑ, BAO BUNS, BROWNIES ΠΡΩΤΕΪΝΗΣ
 https://www.omegatv.com.cy/cgibin/hweb?-A=212498&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 036 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
+-Ντόνατς, Τυρόπιτα, Πουτίγκα
+https://www.omegatv.com.cy/cgibin/hweb?-A=212653&-V=vod|webfulldig

@@ -1,7 +1,3 @@
-#EXTINF:-1 group-title="Σεζόν  ",ΤΗΛΕΤΑΙΝΙΑ 1
-https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=62464&showId=1653&year=2025|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν  ",ΤΗΛΕΤΑΙΝΙΑ 2
-https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=62465&showId=1653&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν  ",ΤΗΛΕΤΑΙΝΙΑ 3
 https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=62466&showId=1653&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 65
@@ -10,3 +6,7 @@ https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=62521&showId=1653&year=2
 https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=62522&showId=1653&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 67
 https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=62523&showId=1653&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 68
+https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=62581&showId=1653&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 69
+https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=62582&showId=1653&year=2025|webvidfulldig

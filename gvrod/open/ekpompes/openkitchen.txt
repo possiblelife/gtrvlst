@@ -94,16 +94,6 @@ https://www.tvopen.gr/watch/220702/c2abopenkitchenc2bb082f102f2024|webfulldig
 https://www.tvopen.gr/watch/220809/syntaghgiamexikanikoryzi|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",«OPEN Kitchen» 09/10/2024
 https://www.tvopen.gr/watch/220810/c2abopenkitchenc2bb092f102f2024|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για Cinnamon Cake
-https://www.tvopen.gr/watch/220811/syntaghgiacinnamoncake|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για Κόκορα παστιτσάδα
-https://www.tvopen.gr/watch/220922/syntaghgiakokorapastitsada|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",«OPEN Kitchen» 10/10/2024
-https://www.tvopen.gr/watch/220925/c2abopenkitchenc2bb102f102f2024|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για Θερμιώτικη τυρόπιτα
-https://www.tvopen.gr/watch/220926/syntaghgiathermiotikhtyropita|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για πίτα με κιμά μανιταριών και ανθότυρο
-https://www.tvopen.gr/watch/221036/syntaghgiapitamekimamanitarionkaianthotyro|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για Λιγκουίνι με πέστο φιστικιού
 https://www.tvopen.gr/watch/221038/syntaghgialigkoyinimepestofistikioy|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",«OPEN Kitchen» 11/10/2024
@@ -116,6 +106,16 @@ https://www.tvopen.gr/watch/221318/basikesarxesgiatokapnismatonkreaton|webfulldi
 https://www.tvopen.gr/watch/221320/c2abopenkitchenc2bb142f102f2024|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για ψητή τσιπούρα με σάλτσα ρατατούιγ
 https://www.tvopen.gr/watch/221321/syntaghgiapshthtsipoyramesaltsaratatoyig|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για Cinnamon Cake
+https://www.tvopen.gr/watch/220811/syntaghgiacinnamoncake|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για Κόκορα παστιτσάδα
+https://www.tvopen.gr/watch/220922/syntaghgiakokorapastitsada|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",«OPEN Kitchen» 10/10/2024
+https://www.tvopen.gr/watch/220925/c2abopenkitchenc2bb102f102f2024|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για Θερμιώτικη τυρόπιτα
+https://www.tvopen.gr/watch/220926/syntaghgiathermiotikhtyropita|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για πίτα με κιμά μανιταριών και ανθότυρο
+https://www.tvopen.gr/watch/221036/syntaghgiapitamekimamanitarionkaianthotyro|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Συνταγή για γαριδομακαρονάδα με πολύχρωμο πεννάκι
 https://www.tvopen.gr/watch/221427/syntaghgiagaridomakaronadamepolyxromopennaki|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ο μύθος που συνδέει τα αβγά με τη χοληστερίνη

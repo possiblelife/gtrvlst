@@ -520,3 +520,7 @@ https://www.megatv.com/gtvshows/1898909/epeisodio-259/|webfulldig
 https://www.megatv.com/gtvshows/1913231/epeisodio-260/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 261
 https://www.megatv.com/gtvshows/1913237/epeisodio-261/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 262
+https://www.megatv.com/gtvshows/1927469/epeisodio-262/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 263
+https://www.megatv.com/gtvshows/1927478/epeisodio-263/|webfulldig
