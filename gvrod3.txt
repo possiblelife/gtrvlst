@@ -1309,6 +1309,8 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ant1/e
 
 #EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== OPEN ====
 http://.....
+#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://parallaximag.gr/wp-content/uploads/2019/03/open-beyond-logo.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
+https://www.tvopen.gr/shows|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ" tvg-description="https://github.com/possiblelife/gtrvlst/raw/refs/heads/main/desc/Open/%CE%93%CE%B9%CE%B1.%CF%80%CE%AC%CE%BD%CF%84%CE%B1.%CF%80%CE%B1%CE%B9%CE%B4%CE%B9%CE%AC.(2018-2019)" tvg-logo="https://greek-movies.com/icon/series/Γιαπάνταπαιδιά2018.jpg" ,Για πάντα παιδιά (2018-2019)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/sires_arxio/Για.πάντα.παιδιά.(2018-2019)
 #EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ" tvg-description="https://github.com/possiblelife/gtrvlst/raw/refs/heads/main/desc/Open/%CE%95%CE%BB%CE%B5%CF%8D%CE%B8%CE%B5%CF%81%CE%B7.%CF%83%CF%87%CE%AD%CF%83%CE%B7.(2018-2019)" tvg-logo="https://greek-movies.com/icon/series/Ελεύθερησχέση2018.jpg" ,Ελεύθερη σχέση (2018-2019)
