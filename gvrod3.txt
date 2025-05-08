@@ -331,7 +331,7 @@ https://www.skai.gr/tv/episode/psuchagogia/souleimark-o-megaloprepis/2023-12-22-
 http://.....
 
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
-https://www.megatv.com/allshows/#GreekSeries|webvod zoom=100 scroll=0,0
+https://www.megatv.com/shows|webvod zoom=100 scroll=0,0
 
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-description="https://github.com/possiblelife/gtrvlst/raw/refs/heads/main/desc/Mega/%CE%97.%CE%B3%CE%B7.%CF%84%CE%B7%CF%82.%CE%B5%CE%BB%CE%B9%CE%AC%CF%82.(2021-2025)" tvg-logo="https://greek-movies.com/icon/series/Ηγητηςελιάς2021.jpg" ,Η γη της ελιάς (Megatv μόνο) (2021-2025)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/sires/i-gi-tis-elias.txt
