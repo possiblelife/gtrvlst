@@ -46,3 +46,5 @@ https://www.alphatv.gr/show/diafani-agapi/?vtype=player&vid=62330&showId=1654&ye
 https://www.alphatv.gr/show/diafani-agapi/?vtype=player&vid=62400&showId=1654&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 24
 https://www.alphatv.gr/show/diafani-agapi/?vtype=player&vid=62536&showId=1654&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 25
+https://www.alphatv.gr/show/diafani-agapi/?vtype=player&vid=62626&showId=1654&year=2025|webvidfulldig
