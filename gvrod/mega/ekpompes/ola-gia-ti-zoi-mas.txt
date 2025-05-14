@@ -94,8 +94,6 @@ https://www.megatv.com/gtvshows/642737/epeisodio-46-9/|webfulldig
 https://www.megatv.com/gtvshows/646906/epeisodio-47-9/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 48
 https://www.megatv.com/gtvshows/647556/epeisodio-48-9/|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 48
-https://www.megatv.com/gtvshows/647556/epeisodio-48-9/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 49
 https://www.megatv.com/gtvshows/654539/epeisodio-49-9/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 50
@@ -118,6 +116,8 @@ https://www.megatv.com/gtvshows/674778/epeisodio-57-7/|webfulldig
 https://www.megatv.com/gtvshows/675410/epeisodio-58-7/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 59
 https://www.megatv.com/gtvshows/679644/epeisodio-59-7/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 60
+https://www.megatv.com/gtvshows/679999/epeisodio-60-7/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 61
 https://www.megatv.com/gtvshows/684461/epeisodio-61-6/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 62
@@ -526,3 +526,5 @@ https://www.megatv.com/gtvshows/1927469/epeisodio-262/|webfulldig
 https://www.megatv.com/gtvshows/1927478/epeisodio-263/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 264
 https://www.megatv.com/gtvshows/1937366/epeisodio-264/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 265
+https://www.megatv.com/gtvshows/1937369/epeisodio-265/|webfulldig
