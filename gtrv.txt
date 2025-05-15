@@ -12,8 +12,6 @@ https://www.ertflix.gr/epg/now-on-tv|webepg zoom=100 scroll=0,100
 https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="https://i.ibb.co/Y71vkKs/ERT1.jpg" tvg-name="ΕΡΤ1" tvg-website="https://www.ertflix.gr" ,ΕΡΤ1 (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/gr/ert1s2image.php|webepg zoom=100 scroll=0,100
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="https://i.ibb.co/Y71vkKs/ERT1.jpg" tvg-name="ΕΡΤ1" tvg-website="https://www.ertflix.gr" ,ΕΡΤ1 (2)
-https://aliez.tv/live/x4xxsfru54hgbj4y48yx/|weballdig
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert2" tvg-logo="https://i.ibb.co/c6gWKyh/ERT2.jpg" tvg-name="ΕΡΤ2" tvg-website="https://www.ertflix.gr" ,ΕΡΤ2 HD (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
 https://ertflix.akamaized.net/ertlive/ert2/clrdef24828z/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert2" tvg-logo="https://i.ibb.co/c6gWKyh/ERT2.jpg" tvg-name="ΕΡΤ2" tvg-website="https://www.ertflix.gr" ,ΕΡΤ2 (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
