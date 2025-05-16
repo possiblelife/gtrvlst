@@ -313,8 +313,6 @@ http://www.anacon.org/app/chans/cy/ant1cyprus.php|webepg zoom=100 scroll=0,100
 http://www.anacon.org/app/chans/cy/capitalcyprus.php|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Extra TV" tvg-logo="https://i.ibb.co/K6qFWYF/ONE-CY.png" ,ONE Channel CY (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/cy/extracyimage.php|webepg zoom=100 scroll=0,100
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Extra TV" tvg-logo="https://i.ibb.co/K6qFWYF/ONE-CY.png" ,ONE Channel CY - ΕΝΑΛΛΑΚΤΙΚΟ
-http://62.210.211.188:2095/play/a00e
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="Plus TV" tvg-logo="http://www.anacon.org/app/img/plus.jpg" ,ΠΛΑΣ (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/cy/pluscyimage.php|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="smile" tvg-logo="https://yt3.ggpht.com/-HQamnwjhf6M/AAAAAAAAAAI/AAAAAAAAAAA/RR0l9Otdjl4/s100-mo-c-c0xffffffff-rj-k-no/photo.jpg" tvg-website="https://www.smiletvcyprus.com/" ,ΣΜΑΙΛ
@@ -333,16 +331,18 @@ https://ertflix.akamaized.net/ertlive/ertnews/default/playlist.m3u8
 http://195.226.218.10/vid/ertnews/mpeg.2ts
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://files.app.ertflix.gr/files/channels/ertnews-logo-800x300-f2.png?m=resize&w=200&h=80" tvg-website="https://www.ertflix.gr" ,ΕΡΤ News 2
 http://ertflix.akamaized.net/ertlive/ertnews2/default/index.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://files.app.ertflix.gr/files/channels/ertnews-logo-800x300-f2.png?m=resize&w=200&h=80" tvg-website="https://www.ertflix.gr" ,ΕΡΤ News 3
+http://ertflix.akamaized.net/ertlive/ertnews3/default/index.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/N6mqLBhr/eurovision-channel-ertflix-img-n.jpg" tvg-website="https://www.ertflix.gr"  tvg-name="Eurovision Channel" ,Eurovision Channel
 https://ertflix.akamaized.net/ertlive/seasonal/default/index.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/N6mqLBhr/eurovision-channel-ertflix-img-n.jpg" tvg-website="https://www.ertflix.gr"  tvg-name="Eurovision Channel" ,Eurovision Channel (1)
 https://cdn3.smart-tv-data.com/vid/ertnews2/playlist.m3u8
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://files.app.ertflix.gr/files/channels/ertnews-logo-800x300-f2.png?m=resize&w=200&h=80" tvg-website="https://www.ertflix.gr" ,ΕΡΤ News 3
-http://ertflix.akamaized.net/ertlive/ertnews3/default/index.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i0.wp.com/meganews.tv/wp-content/uploads/2023/03/1.png" tvg-website="https://www.megatv.com/meganews/" ,Mega News
 https://streamcdnb1-c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://www.skai.gr/tv/dist/images/BigBrother-button.png" tvg-website="https://www.skai.gr/tv/show/psuchagogia/big-brother/sezon-2024-2025/live" ,Big Brother
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/7NG8q9bd/bogbtother.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/big-brother/sezon-2024-2025/live" tvg-name="Big Brother" ,Big Brother
 https://cdn1.smart-tv-data.com/skai/skaiBB/manifest.mpd
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/7NG8q9bd/bogbtother.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/big-brother/sezon-2024-2025/live" tvg-name="Big Brother" ,Big Brother (1)
+https://foothubhd.online/greekchannels/bigbrother.php|webdeskepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="http://i.imgur.com/GdgekUL.png" ,TV FILOPOLI
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="http://www.anacon.org/app/img/montreal.jpg" ,Montreal
