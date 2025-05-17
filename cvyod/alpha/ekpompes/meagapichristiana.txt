@@ -664,3 +664,15 @@ https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/09052
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/120525|webvidfulldig
 #EXTINF:-1 group-title="2024-2025",Αρμένικα λαχματζούν με τορτίγιες ολικής άλεσης
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/armenika-lahmatzoyn-me-tortigies-olikis-alesis|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",13/05/25
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/130525|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",Άλεξ Παναγή
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/alex-panagi-1|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",Παγωτό με μπισκότα και πιστάτσιο
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/pagoto-me-mpiskota-kai-pistatsio|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",14/05/25
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/140525|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",14/05/25 - Βάβλα
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/140525-babla|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",15/05/25
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/150525|webvidfulldig

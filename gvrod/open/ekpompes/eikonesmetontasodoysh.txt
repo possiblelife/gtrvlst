@@ -706,16 +706,6 @@ https://www.tvopen.gr/watch/192082/cafc3a9knoseltoidiaiterhsaisthhtikhscafc3a9th
 https://www.tvopen.gr/watch/192083/romantikhboltasthnpaliapolhthsxaidelberghs|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Σεβίλλη: Στην πλατεία Σαλβαδόρ με την πανέμορφη εκκλησία
 https://www.tvopen.gr/watch/192726/sebillhsthnplateiasalbadormethnpanemorfhekklhsia|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",«Μικρή Βενετία»: Βόλτα στις γειτονιές με τα κανάλια
-https://www.tvopen.gr/watch/193515/c2abmikrhbenetiac2bbboltastisgeitoniesmetakanalia|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Κόρδοβα, Ισπανία: Τέμενος-Καθεδρικός, ένας μαυριτανικός θησαυρός αρχιτεκτονικής
-https://www.tvopen.gr/watch/194114/kordobaispaniatemenoskathedrikosenasmayritanikosthhsayrosarxitektonikhs|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Γρανάδα, Ισπανία: Παρατηρητήριο Σαν Νίκολας - Απίστευτη θέα στην Αλάμπρα
-https://www.tvopen.gr/watch/194115/granadaispaniaparathrhthriosannikolasapisteyththeasthnalampra|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Βόλτα στην παραμυθένια πόλη της Μπριζ
-https://www.tvopen.gr/watch/195227/boltasthnparamytheniapolhthsmpriz|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Μπριζ: Στην «καρδιά» της πόλης την πλατεία Μαρκτ
-https://www.tvopen.gr/watch/195228/mprizsthnc2abkardiac2bbthspolhsthnplateiamarkt|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Σάντα Καταλίνα Σεβίλλη: Μια ήσυχη γειτονιά μακριά από το κέντρο
 https://www.tvopen.gr/watch/192727/santakatalinasebillhmiahsyxhgeitoniamakriaapotokentro|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Πλατεία Κλεμπέρ–Στρασβούργο: Στην καρδιά των Χριστουγέννων
@@ -728,6 +718,16 @@ https://www.tvopen.gr/watch/193467/casadepilatosarxontikhkatoikiapoysetaxideyeis
 https://www.tvopen.gr/watch/193468/rontatopioomorfoxoriothsandaloysias|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Κολμάρ: Ένα μαγικό μέρος συνώνυμο της γραφικότητας και της ομορφιάς
 https://www.tvopen.gr/watch/193514/kolmarenamagikomerossynonymothsgrafikothtaskaithsomorfias|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",«Μικρή Βενετία»: Βόλτα στις γειτονιές με τα κανάλια
+https://www.tvopen.gr/watch/193515/c2abmikrhbenetiac2bbboltastisgeitoniesmetakanalia|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Κόρδοβα, Ισπανία: Τέμενος-Καθεδρικός, ένας μαυριτανικός θησαυρός αρχιτεκτονικής
+https://www.tvopen.gr/watch/194114/kordobaispaniatemenoskathedrikosenasmayritanikosthhsayrosarxitektonikhs|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Γρανάδα, Ισπανία: Παρατηρητήριο Σαν Νίκολας - Απίστευτη θέα στην Αλάμπρα
+https://www.tvopen.gr/watch/194115/granadaispaniaparathrhthriosannikolasapisteyththeasthnalampra|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Βόλτα στην παραμυθένια πόλη της Μπριζ
+https://www.tvopen.gr/watch/195227/boltasthnparamytheniapolhthsmpriz|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Μπριζ: Στην «καρδιά» της πόλης την πλατεία Μαρκτ
+https://www.tvopen.gr/watch/195228/mprizsthnc2abkardiac2bbthspolhsthnplateiamarkt|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Σφοδρή σύγκρουση ΝΔ – ΣΥΡΙΖΑ για σενάρια υπουργοποίησης Κασσελάκη το 2019
 https://www.tvopen.gr/watch/195281/sfodrhsygkroyshndsyrizagiasenariaypoyrgopoihshskasselakhto2019|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Άμστερνταμ: Βραδινή βόλτα στην αμαρτωλή συνοικία της πόλης
@@ -1058,16 +1058,6 @@ https://www.tvopen.gr/watch/60347/eikonesmetontasodoysh7caigyptosloyxor|webfulld
 https://www.tvopen.gr/watch/61328/eikonesmetontasodoysh7caigyptosasoyanameros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Αίγυπτος, Ασουάν Β’ μέρος
 https://www.tvopen.gr/watch/62282/eikonesmetontasodoysh7caigyptosasoyanbe28099meros|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Στοκχόλμη, Α’ μέρος
-https://www.tvopen.gr/watch/64193/eikonesmetontasodoysh7cstokxolmhae28099meros|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Στοκχόλμη, B’ μέρος
-https://www.tvopen.gr/watch/65166/eikonesmetontasodoysh7cstokxolmhbe28099meros|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Σουηδική Λαπωνία, Α’ μέρος
-https://www.tvopen.gr/watch/66131/eikonesmetontasodoysh7csoyhdikhlaponiaae28099meros|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Σουηδική Λαπωνία, Β’ μέρος
-https://www.tvopen.gr/watch/67041/eikonesmetontasodoysh7csoyhdikhlaponiabe28099meros|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Βαρκελώνη, Α’ μέρος
-https://www.tvopen.gr/watch/67908/eikonesmetontasodoysh7cbarkelonhae28099meros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Βαρκελώνη, Β’ μέρος
 https://www.tvopen.gr/watch/68781/eikonesmetontasodoysh7cbarkelonhbe28099meros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Μεξικό, Α’ μέρος
@@ -1080,6 +1070,16 @@ https://www.tvopen.gr/watch/73140/eikonesmetontasodoysh7cmexikoge28099meros|webf
 https://www.tvopen.gr/watch/74896/eikonesmetontasodoysh7cmexikode28099meros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Μονεμβασιά
 https://www.tvopen.gr/watch/75767/eikonesmetontasodoysh7cmonembasia|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Στοκχόλμη, Α’ μέρος
+https://www.tvopen.gr/watch/64193/eikonesmetontasodoysh7cstokxolmhae28099meros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Στοκχόλμη, B’ μέρος
+https://www.tvopen.gr/watch/65166/eikonesmetontasodoysh7cstokxolmhbe28099meros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Σουηδική Λαπωνία, Α’ μέρος
+https://www.tvopen.gr/watch/66131/eikonesmetontasodoysh7csoyhdikhlaponiaae28099meros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Σουηδική Λαπωνία, Β’ μέρος
+https://www.tvopen.gr/watch/67041/eikonesmetontasodoysh7csoyhdikhlaponiabe28099meros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Βαρκελώνη, Α’ μέρος
+https://www.tvopen.gr/watch/67908/eikonesmetontasodoysh7cbarkelonhae28099meros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Ελαφόνησος - Μυστράς - Σπάρτη
 https://www.tvopen.gr/watch/76609/eikonesmetontasodoysh7celafonhsosmystrassparth|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Ρέθυμνο, Α’ μέρος
