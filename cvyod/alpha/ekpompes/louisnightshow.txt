@@ -1538,3 +1538,7 @@ https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/hristos-
 https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/090525|webvidfulldig
 #EXTINF:-1 group-title="Season 8",Ευθύμιος Δίπλαρος
 https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/eythymios-diplaros|webvidfulldig
+#EXTINF:-1 group-title="Season 8",16/05/25
+https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/160525|webvidfulldig
+#EXTINF:-1 group-title="Season 8",Ανδρέας Γεωργίου
+https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/andreas-georgioy-0|webvidfulldig

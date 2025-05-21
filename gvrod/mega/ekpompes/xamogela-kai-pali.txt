@@ -618,3 +618,7 @@ https://www.megatv.com/gtvshows/1931663/04-05-2025/|webfulldig
 https://www.megatv.com/gtvshows/1940747/10-05-2025/|webfulldig
 #EXTINF:-1 group-title="Season 4",11/05/2025
 https://www.megatv.com/gtvshows/1941902/11-05-2025/|webfulldig
+#EXTINF:-1 group-title="Season 4",17/05/2025
+https://www.megatv.com/gtvshows/1950725/17-05-2025/|webfulldig
+#EXTINF:-1 group-title="Season 4",18/05/2025
+https://www.megatv.com/gtvshows/1952432/18-05-2025/|webfulldig
