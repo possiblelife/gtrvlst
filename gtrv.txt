@@ -12,6 +12,8 @@ https://www.ertflix.gr/epg/now-on-tv|webepg zoom=100 scroll=0,100
 https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="https://i.ibb.co/Y71vkKs/ERT1.jpg" tvg-name="ΕΡΤ1" tvg-website="https://www.ertflix.gr" ,ΕΡΤ1 HD (1)
 https://cdn4.smart-tv-data.com/vid/ert1/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="https://i.ibb.co/Y71vkKs/ERT1.jpg" tvg-name="ΕΡΤ1" tvg-website="https://www.ertflix.gr" ,ΕΡΤ1 HD (2)
+http://195.226.218.163/vid/ert1/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="https://i.ibb.co/Y71vkKs/ERT1.jpg" tvg-name="ΕΡΤ1" tvg-website="https://www.ertflix.gr" ,ΕΡΤ1 (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/gr/ert1s2image.php|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert2" tvg-logo="https://i.ibb.co/c6gWKyh/ERT2.jpg" tvg-name="ΕΡΤ2" tvg-website="https://www.ertflix.gr" ,ΕΡΤ2 HD (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
@@ -386,12 +388,21 @@ https://vdo.streams.gr:3979/live/wvoxtvlive.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/pQQTdzS/cropped-cropped-omikronlogo.png" ,OMIKRON TV
 https://media.omikrontv.gr/live/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/0pL23s3w/images.jpg"  ,VILLAGE WORLD
-http://ellastv.gotdns.com:88/freetv/village-world/index.m3u8
+https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://ellastvmax.com/wp-content/uploads/2022/01/ellastvmaxlogo.png"  ,ELLAS TV WORLD
+https://ellastvmax.ath.cx/freetv/promo/index.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/JFw8fzRY/athes-geo-tv.png"  ,ATHENS Geo. TV
 https://pro.free.hr:3236/stream/play.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/xqCtz20t/pronews.png"  ,ProNews
 https://pro.free.hr:3887/live/pronewslive.m3u8
-
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://www.kostv.gr/templates/reach/public/img/logo.png"  ,Kos TV
+https://eu1.streams.gr:8081/kostv/index.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://www.hlektra.gr/wp-content/uploads/2025/03/hlektra-logo.png"  ,Ηλέκτρα
+https://stream.gia.tv/giatv/giatv-hlektratv/hlektratv/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://grdiscovery.com/wp-content/uploads/2023/06/cropped-grd24.png"  ,GRD Channel
+https://eu1.streams.gr:8081/grdchannel/index.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" ,Choice TV!
+https://eu1.streams.gr:8081/choicetv/index.m3u8
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,===== ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ ====
 http://.....
@@ -427,7 +438,7 @@ https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://goo.gl/ofVjvQ" ,NETV EUROPE
 https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ibb.co/88bGzz5/DIAVATA.jpg" tvg-name="DiavataTV",DiavataTV
-https://stream.gia.tv/giatv/giatv-diavatatvonline/diavatatvonline/playlist.m3u8
+https://live20.bozztv.com/giatv/giatv-diavatatvonline/diavatatvonline/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ibb.co/88bGzz5/DIAVATA.jpg" tvg-name="DiavataTV",DiavataTV - Εναλλακτικό
 https://gia.tv/watchssh101.php?sn=diavatatvonline|webdig
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://reloadplay.com/wp-content/uploads/2017/04/Groovy-3-150x48.png" ,Groovy
@@ -445,7 +456,7 @@ https://ellastvmax.better-than.tv/freetv/village-world/index.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,=====   ΜΟΥΣΙΚΗ   ====
 http://.....
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://i.ibb.co/5MKkNgy/Screenshot-2023-11-15-160115.png" ,MAD World
-https://ellastvmax.better-than.tv/freetv/madworldtv/index.m3u8
+https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://i.ibb.co/7GL1WL6/ertmusic.jpg" tvg-name="ErtFlix Music" ,ErtFlix Music
 http://195.226.218.163/vid/ertplay5/mpeg.2ts
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://i.ibb.co/7GL1WL6/ertmusic.jpg" tvg-name="ErtFlix Music" ,ErtFlix Music (2)
@@ -559,6 +570,8 @@ https://www.youtube.com/@Oddbods/videos|webepg zoom=100 scroll=0,0
 http://.....
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-id="4Ε" tvg-logo="https://goo.gl/2eMR7A" tvg-website="https://tv4e.gr/index.php/" ,4E (Κ. ΜΑΚΕΔΟΝΙΑΣ )
 http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
+#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"   tvg-logo="https://i.ibb.co/sJMvQVW5/image.png" tvg-website="https://agiosioannistheologosmantoudiou.blogspot.com/" ,Άγιος Ιωάννης στο Μαντούδι Ευβοίας
+https://eu1.streams.gr:8081/agiosioannis/index.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-id="LYCHNOS" tvg-logo="https://goo.gl/pgniZC" tvg-website="http://i-m-patron.gr/lychnostv/" ,ΛΥΧΝΟC (ΠΕΛΟΠΟΝΝΗΣΟΥ)
 https://thor.mental-media.gr:19360/imp/imp.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-logo="https://i.ibb.co/LxBRJ5G/ms-icon-310x310.png" tvg-website="https://www.wordofgod.gr/media/el" ,WORD OF GOD live (YOUTUBE)
