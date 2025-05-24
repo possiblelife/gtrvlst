@@ -1,7 +1,3 @@
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 153
-https://www.megatv.com/gtvshows/1912730/epeisodio-153-6/|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 154
-https://www.megatv.com/gtvshows/1914002/epeisodio-154-6/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 155
 https://www.megatv.com/gtvshows/1914008/epeisodio-155-6/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 156
@@ -40,3 +36,9 @@ https://www.megatv.com/gtvshows/1948088/epeisodio-171-5/|webfulldig
 https://www.megatv.com/gtvshows/1948097/epeisodio-172-5/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 173
 https://www.megatv.com/gtvshows/1954271/epeisodio-173-5/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 174
+https://www.megatv.com/gtvshows/1957196/epeisodio-174-5/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 175
+https://www.megatv.com/gtvshows/1957214/epeisodio-175-5/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 176
+https://www.megatv.com/gtvshows/1957226/epeisodio-176-5/|webfulldig
