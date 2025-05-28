@@ -28,6 +28,16 @@ http://www.anacon.org/app/chans/gr/ert3s2image.php|webepg zoom=100 scroll=0,100
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1" tvg-logo="https://goo.gl/q5aDRg" tvg-name="ANT1" tvg-website="https://watch.antennaplus.gr/#/" ,ANT1 (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 https://anacon.org/app/chans/gr/ant1image.php|webepg zoom=100 scroll=0,100
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1" tvg-logo="https://goo.gl/q5aDRg" tvg-name="ANT1" tvg-website="https://watch.antennaplus.gr/#/" ,ANT1 HD (2)
+https://aliez.tv/live/t0qxjnp55ha9nl3r57ka/|weballdig
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1" tvg-logo="https://goo.gl/q5aDRg" tvg-name="ANT1" tvg-website="https://watch.antennaplus.gr/#/" ,ANT1 HD (2 backup1)
+https://aliez.tv/live/uab2p85ge9b1h98355dc/|weballdig
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1" tvg-logo="https://goo.gl/q5aDRg" tvg-name="ANT1" tvg-website="https://watch.antennaplus.gr/#/" ,ANT1 HD (2 backup2)
+https://aliez.tv/live/u48b9h2uckz3j6f4801d/|weballdig
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1" tvg-logo="https://goo.gl/q5aDRg" tvg-name="ANT1" tvg-website="https://watch.antennaplus.gr/#/" ,ANT1 HD (3)
+http://www.fawanews.com/Real%20Betis%20vs%20Chelsea%20---%20ENG%201.html|weballdig
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1" tvg-logo="https://goo.gl/q5aDRg" tvg-name="ANT1" tvg-website="https://watch.antennaplus.gr/#/" ,ANT1 HD (4)
+http://www.fawanews.com/Real%20Betis%20vs%20Chelsea%20---%20ENG%202.html|weballdig
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="Mega" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" tvg-name="MEGA" tvg-website="https://www.megatv.com/" ,MEGA HD (1)
 https://embed.vindral.com/?core.channelId=alteregomedia_megatv1_ci_6cc490c7-e5c6-486b-acf0-9bb9c20fa670&core.minBufferTime=2000&player.aspectRatio=16:9|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="Mega" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" tvg-name="MEGA" tvg-website="https://www.megatv.com/" ,MEGA (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
