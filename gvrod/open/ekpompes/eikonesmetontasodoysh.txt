@@ -712,16 +712,6 @@ https://www.tvopen.gr/watch/192727/santakatalinasebillhmiahsyxhgeitoniamakriaapo
 https://www.tvopen.gr/watch/192788/plateiaklemperstrasboyrgosthnkardiatonxristoygennon|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Mικρή Γαλλία – Στρασβούργο: Ρομαντικοί περίπατοι  δίπλα στον ποταμό Ιλλ
 https://www.tvopen.gr/watch/192789/mikrhgalliastrasboyrgoromantikoiperipatoidiplastonpotamoill|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Βόλτα στην παραμυθένια πόλη της Μπριζ
-https://www.tvopen.gr/watch/195227/boltasthnparamytheniapolhthsmpriz|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Μπριζ: Στην «καρδιά» της πόλης την πλατεία Μαρκτ
-https://www.tvopen.gr/watch/195228/mprizsthnc2abkardiac2bbthspolhsthnplateiamarkt|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σφοδρή σύγκρουση ΝΔ – ΣΥΡΙΖΑ για σενάρια υπουργοποίησης Κασσελάκη το 2019
-https://www.tvopen.gr/watch/195281/sfodrhsygkroyshndsyrizagiasenariaypoyrgopoihshskasselakhto2019|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Άμστερνταμ: Βραδινή βόλτα στην αμαρτωλή συνοικία της πόλης
-https://www.tvopen.gr/watch/195962/amsterntambradinhboltasthnamartolhsynoikiathspolhs|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Ρομαντική βόλτα στα κανάλια του Άμστερνταμ
-https://www.tvopen.gr/watch/195963/romantikhboltastakanaliatoyamsterntam|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Casa de Pilatos: Αρχοντική κατοικία που σε ταξιδεύει στον χρόνο
 https://www.tvopen.gr/watch/193467/casadepilatosarxontikhkatoikiapoysetaxideyeistonxrono|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ρόντα: Το πιο όμορφο χωριό της Ανδαλουσίας
@@ -734,6 +724,16 @@ https://www.tvopen.gr/watch/193515/c2abmikrhbenetiac2bbboltastisgeitoniesmetakan
 https://www.tvopen.gr/watch/194114/kordobaispaniatemenoskathedrikosenasmayritanikosthhsayrosarxitektonikhs|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Γρανάδα, Ισπανία: Παρατηρητήριο Σαν Νίκολας - Απίστευτη θέα στην Αλάμπρα
 https://www.tvopen.gr/watch/194115/granadaispaniaparathrhthriosannikolasapisteyththeasthnalampra|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Βόλτα στην παραμυθένια πόλη της Μπριζ
+https://www.tvopen.gr/watch/195227/boltasthnparamytheniapolhthsmpriz|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Μπριζ: Στην «καρδιά» της πόλης την πλατεία Μαρκτ
+https://www.tvopen.gr/watch/195228/mprizsthnc2abkardiac2bbthspolhsthnplateiamarkt|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Σφοδρή σύγκρουση ΝΔ – ΣΥΡΙΖΑ για σενάρια υπουργοποίησης Κασσελάκη το 2019
+https://www.tvopen.gr/watch/195281/sfodrhsygkroyshndsyrizagiasenariaypoyrgopoihshskasselakhto2019|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Άμστερνταμ: Βραδινή βόλτα στην αμαρτωλή συνοικία της πόλης
+https://www.tvopen.gr/watch/195962/amsterntambradinhboltasthnamartolhsynoikiathspolhs|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Ρομαντική βόλτα στα κανάλια του Άμστερνταμ
+https://www.tvopen.gr/watch/195963/romantikhboltastakanaliatoyamsterntam|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Το σπίτι της Άννας Φράνκ στο Άμστερνταμ
 https://www.tvopen.gr/watch/196653/tospitithsannasfrankstoamsterntam|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Βόλτα στους 9 δρόμους, την πιο όμορφη γωνιά του Άμστερνταμ
@@ -964,6 +964,12 @@ https://www.tvopen.gr/watch/242325/sthnperioxhinsantongkgkilgiatsaitexnhkaiparad
 https://www.tvopen.gr/watch/242326/olofosnamsaneinaitoshmakatatethenthsseoyl|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες - Νότια Κορέα
 https://www.tvopen.gr/watch/242210/eikonesnotiakorea|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Δάσος της Σεούλ
+https://www.tvopen.gr/watch/243016/dasosthsseoyl|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Περιοχή Γκάνγκναμ: Βιβλιοθήκη Starfield
+https://www.tvopen.gr/watch/243017/perioxhgkangknambibliothhkhstarfield|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Σεούλ
+https://www.tvopen.gr/watch/243018/eikonesmetontasodoyshseoyl|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Καππαδοκία, Α' μέρος
 https://www.tvopen.gr/watch/2307/eikonesmetontasodoysh7ckappadokiaameros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση |  Καππαδοκία Β' Μέρος
@@ -1282,10 +1288,6 @@ https://www.tvopen.gr/watch/177401/eikonesmetontasodoysh7ckosge28099meros|webful
 https://www.tvopen.gr/watch/178213/eikonesmetontasodoysh7cnaxosae28099meros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Νάξος, Β’ μέρος
 https://www.tvopen.gr/watch/178338/eikonesmetontasodoysh7cnaxosbe28099meros|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Κεφαλονιά, Α’ μέρος
-https://www.tvopen.gr/watch/178902/eikonesmetontasodoysh7ckefaloniaae28099meros|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Κεφαλονιά, Β’ μέρος
-https://www.tvopen.gr/watch/178978/eikonesmetontasodoysh7ckefaloniabe28099meros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Τήνος, Α’ μέρος
 https://www.tvopen.gr/watch/179616/eikonesmetontasodoysh7cthnosae28099meros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Τήνος, Β’ μέρος
@@ -1428,13 +1430,13 @@ https://www.tvopen.gr/watch/236010/eikonesmetontasodoyshmilanogmeros|webfulldig
 https://www.tvopen.gr/watch/236455/eikonesmetontasodoyshmetsobo|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Κρακοβία
 https://www.tvopen.gr/watch/237188/eikonesmetontasodoyshkrakobia|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες - Πολωνία γ' μέρος
-https://www.tvopen.gr/watch/238440/eikonespoloniagmeros|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες - Ναύπακτος
-https://www.tvopen.gr/watch/239053/eikonesnaypaktos|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες - Ελβετία
-https://www.tvopen.gr/watch/240172/eikoneselbetia|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες - Ελβετία β μέρος
-https://www.tvopen.gr/watch/240850/eikoneselbetiabmeros|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες - Ελβετία γ μέρος
-https://www.tvopen.gr/watch/241597/eikoneselbetiagmeros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες  με τον Τάσο Δούση - Πολωνία γ' μέρος
+https://www.tvopen.gr/watch/238440/eikonesmetontasodoyshpoloniagmeros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες  με τον Τάσο Δούση - Ναύπακτος
+https://www.tvopen.gr/watch/239053/eikonesmetontasodoyshnaypaktos|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες  με τον Τάσο Δούση - Ελβετία
+https://www.tvopen.gr/watch/240172/eikonesmetontasodoyshelbetia|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες  με τον Τάσο Δούση - Ελβετία β μέρος
+https://www.tvopen.gr/watch/240850/eikonesmetontasodoyshelbetiabmeros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες  με τον Τάσο Δούση - Ελβετία γ μέρος
+https://www.tvopen.gr/watch/241597/eikonesmetontasodoyshelbetiagmeros|webfulldig
