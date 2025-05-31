@@ -421,14 +421,20 @@ https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEq
 
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,=====   ΤΑΙΝΙΕΣ   ====
 http://.....
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacy" tvg-logo="https://i.ibb.co/bs7j4wR/extacy-tv-new-logo.png" ,Extacy TV
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacy" tvg-logo="https://i.ibb.co/bs7j4wR/extacy-tv-new-logo.png" tvg-name="Extacy TV" ,Extacy TV
 https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8 
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacy" tvg-logo="https://i.ibb.co/bs7j4wR/extacy-tv-new-logo.png" tvg-name="Extacy TV" ,Extacy TV (ΕΝΑΛΛΑΚΤΙΚΌ)
+https://www.twitch.tv/extacy_tv|weballdig
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="zeys" tvg-logo="https://i.ibb.co/ks7YJW4K/zeys-logo-aspro-kalo.png" ,ΖΕΥΣ CHANNEL
 https://fr.crystalweb.net:1936/zeustv/zeustv/playlist.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacygr" tvg-logo="https://i.ibb.co/gMBRJrJM/extacygr.png"  ,Extacy TV GREEKS
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacygr" tvg-logo="https://i.ibb.co/gMBRJrJM/extacygr.png" tvg-name="Extacy TV GREEKS" ,Extacy TV GREEKS
 https://fr.crystalweb.net:1936/extacytvgreeks/extacytvgreeks/playlist.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacycin" tvg-logo="https://i.ibb.co/SDYzBvZk/extacy-cinema-dark-696x392.jpg"  ,Extacy TV CINEMA
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacygr" tvg-logo="https://i.ibb.co/gMBRJrJM/extacygr.png" tvg-name="Extacy TV GREEKS" ,Extacy TV GREEKS (ΕΝΑΛΛΑΚΤΙΚΌ)
+https://www.twitch.tv/extacytvgreeks|weballdig
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacycin" tvg-logo="https://i.ibb.co/SDYzBvZk/extacy-cinema-dark-696x392.jpg" tvg-name="Extacy TV CINEMA" ,Extacy TV CINEMA
 https://fr.crystalweb.net:1936/extacytvcinema/extacytvcinema/playlist.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacycin" tvg-logo="https://i.ibb.co/SDYzBvZk/extacy-cinema-dark-696x392.jpg" tvg-name="Extacy TV CINEMA" ,Extacy TV CINEMA (ΕΝΑΛΛΑΚΤΙΚΌ)
+https://www.twitch.tv/extacytvcinema|weballdig
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacyser" tvg-logo="https://i.ibb.co/4wMSP52Z/extacyseries.png"  ,Extacy TV SERIES
 https://gra1.crystalweb.net:1936/extacytvseries/extacytvseries/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacycyp" tvg-logo="https://i.ibb.co/br83rNk/9f0c6632-b6bf-448b-a0b9-ea5cc2bdff33-channel-offline-image-1920x1080.jpg" ,Extacy TV Κύπρου
