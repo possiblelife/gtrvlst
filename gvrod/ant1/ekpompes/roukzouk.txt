@@ -1,9 +1,3 @@
-#EXTINF:-1 group-title="4η Σεζόν",ROUK ZOUK – ΕΠΕΙΣΟΔΙΟ 95
-https://www.antenna.gr/watch/1437306/rouk-zouk-epeisodio-95-4i-sezon|webvidfulldig
-#EXTINF:-1 group-title="4η Σεζόν",ROUK ZOUK – ΕΠΕΙΣΟΔΙΟ 96
-https://www.antenna.gr/watch/1437967/rouk-zouk-epeisodio-96-4i-sezon|webvidfulldig
-#EXTINF:-1 group-title="4η Σεζόν",ROUK ZOUK – ΕΠΕΙΣΟΔΙΟ 97
-https://www.antenna.gr/watch/1438259/rouk-zouk-epeisodio-97-4i-sezon|webvidfulldig
 #EXTINF:-1 group-title="4η Σεζόν",ROUK ZOUK – ΕΠΕΙΣΟΔΙΟ 98
 https://www.antenna.gr/watch/1438534/rouk-zouk-epeisodio-98-4i-sezon-|webvidfulldig
 #EXTINF:-1 group-title="4η Σεζόν",ROUK ZOUK – ΕΠΕΙΣΟΔΙΟ 99
@@ -32,6 +26,8 @@ https://www.antenna.gr/watch/1442998/rouk-zouk-epeisodio-109-4i-sezon-|webvidful
 https://www.antenna.gr/watch/1443393/rouk-zouk-epeisodio-110-4i-sezon|webvidfulldig
 #EXTINF:-1 group-title="4η Σεζόν",ROUK ZOUK – ΕΠΕΙΣΟΔΙΟ 111
 https://www.antenna.gr/watch/1444113/rouk-zouk-epeisodio-111-4i-sezon|webvidfulldig
+#EXTINF:-1 group-title="4η Σεζόν",ROUK ZOUK – ΕΠΕΙΣΟΔΙΟ 117
+https://www.antenna.gr/watch/1446896/rouk-zouk-epeisodio-117-4i-sezon-|webvidfulldig
 #EXTINF:-1 group-title="4η Σεζόν",ROUK ZOUK – ΕΠΕΙΣΟΔΙΟ 112
 https://www.antenna.gr/watch/1444528/rouk-zouk-epeisodio-112-4i-sezon-|webvidfulldig
 #EXTINF:-1 group-title="4η Σεζόν",ROUK ZOUK – ΕΠΕΙΣΟΔΙΟ 113
@@ -42,8 +38,6 @@ https://www.antenna.gr/watch/1445366/rouk-zouk-epeisodio-114-4i-sezon|webvidfull
 https://www.antenna.gr/watch/1445733/rouk-zouk-epeisodio-115-4i-sezon|webvidfulldig
 #EXTINF:-1 group-title="4η Σεζόν",ROUK ZOUK – ΕΠΕΙΣΟΔΙΟ 116
 https://www.antenna.gr/watch/1446498/rouk-zouk-epeisodio-116-4i-sezon|webvidfulldig
-#EXTINF:-1 group-title="4η Σεζόν",ROUK ZOUK – ΕΠΕΙΣΟΔΙΟ 117
-https://www.antenna.gr/watch/1446896/rouk-zouk-epeisodio-117-4i-sezon-|webvidfulldig
 #EXTINF:-1 group-title="4η Σεζόν",ROUK ZOUK – ΕΠΕΙΣΟΔΙΟ 118
 https://www.antenna.gr/watch/1447303/rouk-zouk-epeisodio-118-4i-sezon-|webvidfulldig
 #EXTINF:-1 group-title="4η Σεζόν",ROUK ZOUK – ΕΠΕΙΣΟΔΙΟ 119
@@ -812,3 +806,9 @@ https://www.antenna.gr/watch/1885095/rouk-zouk-epeisodio-150-8i-sezon|webvidfull
 https://www.antenna.gr/watch/1885811/rouk-zouk-epeisodio-151-8i-sezon|webvidfulldig
 #EXTINF:-1 group-title="8η ΣΕΖΟΝ",ROUK ZOUK - ΕΠΕΙΣΟΔΙΟ 152
 https://www.antenna.gr/watch/1886151/rouk-zouk-epeisodio-152-8i-sezon|webvidfulldig
+#EXTINF:-1 group-title="8η ΣΕΖΟΝ",ROUK ZOUK - ΕΠΕΙΣΟΔΙΟ 153
+https://www.antenna.gr/watch/1886451/rouk-zouk-epeisodio-153-8i-sezon|webvidfulldig
+#EXTINF:-1 group-title="8η ΣΕΖΟΝ",ROUK ZOUK - ΕΠΕΙΣΟΔΙΟ 154
+https://www.antenna.gr/watch/1886818/rouk-zouk-epeisodio-154-8i-sezon|webvidfulldig
+#EXTINF:-1 group-title="8η ΣΕΖΟΝ",ROUK ZOUK - ΕΠΕΙΣΟΔΙΟ 155
+https://www.antenna.gr/watch/1887115/rouk-zouk-epeisodio-155-8i-sezon|webvidfulldig
