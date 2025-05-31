@@ -32,16 +32,6 @@ https://anacon.org/app/chans/gr/ant1image.php|webepg zoom=100 scroll=0,100
 https://embed.vindral.com/?core.channelId=alteregomedia_megatv1_ci_6cc490c7-e5c6-486b-acf0-9bb9c20fa670&core.minBufferTime=2000&player.aspectRatio=16:9|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="Mega" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" tvg-name="MEGA" tvg-website="https://www.megatv.com/" ,MEGA (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 https://www.lakatamia.tv/app/chans/gr/megaimage.php|webepg zoom=100 scroll=0,100
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="Mega" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" tvg-name="MEGA" tvg-website="https://www.megatv.com/" ,MEGA (2 backup1)
-https://aliez.tv/live/uab2p85ge9b1h98355dc/|weballdig
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="Mega" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" tvg-name="MEGA" tvg-website="https://www.megatv.com/" ,MEGA (2 backup2)
-https://aliez.tv/live/4df8st7j9mcd6fh5waoi/|weballdig
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="Mega" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" tvg-name="MEGA" tvg-website="https://www.megatv.com/" ,MEGA (2 backup3)
-https://aliez.tv/live/u48b9h2uckz3j6f4801d/|weballdig
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="Mega" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" tvg-name="MEGA" tvg-website="https://www.megatv.com/" ,MEGA (3)
-https://daddylive.dad/embed/stream-66.php|webdelaydeskfulldig$$delay=1
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-id="Mega" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" tvg-name="MEGA" tvg-website="https://www.megatv.com/" ,MEGA (4)
-https://daddylive.dad/embed/stream-52.php|webdelaydeskfulldig$$delay=1
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="SKAI" tvg-logo="https://i.ibb.co/2MdmBxK/skai.jpg" tvg-name="SKAI" tvg-website="https://www.skaitv.gr/" ,SKAI HD
 https://skai-live.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="SKAI" tvg-logo="https://i.ibb.co/2MdmBxK/skai.jpg" tvg-name="SKAI" tvg-website="https://www.skaitv.gr/" ,SKAI (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
