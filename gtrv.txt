@@ -427,7 +427,7 @@ https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-extacytv/extacytv/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacygr" tvg-logo="https://i.ibb.co/gMBRJrJM/extacygr.png" tvg-name="Extacy TV GREEKS" ,Extacy TV GREEKS
 https://fr.crystalweb.net:1936/extacytvgreeks/extacytvgreeks/playlist.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacygr" tvg-logo="https://i.ibb.co/gMBRJrJM/extacygr.png" tvg-name="Extacy TV GREEKS" ,Extacy TV GREEKS 
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacygr" tvg-logo="https://i.ibb.co/gMBRJrJM/extacygr.png" tvg-name="Extacy TV GREEKS" ,Extacy TV GREEKS (ΕΝΑΛΛΑΚΤΙΚΌ)
 https://live20.bozztv.com/giatv/giatv-extacytvgreeks/extacytvgreeks/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacycin" tvg-logo="https://i.ibb.co/SDYzBvZk/extacy-cinema-dark-696x392.jpg" tvg-name="Extacy TV CINEMA" ,Extacy TV CINEMA
 https://fr.crystalweb.net:1936/extacytvcinema/extacytvcinema/playlist.m3u8
