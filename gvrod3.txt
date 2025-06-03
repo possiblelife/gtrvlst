@@ -819,6 +819,8 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ant1/s
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ant1/sires/magissaflegomenikardia.txt
 #EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-description="https://github.com/possiblelife/gtrvlst/raw/refs/heads/main/desc/Ant1/%CE%97.%CE%BC%CE%AC%CE%B3%CE%B9%CF%83%CF%83%CE%B1.(2023-2025)" tvg-logo="https://greek-movies.com/icon/series/Ημάγισσα2023.jpg" tvg-website="https://www.antenna.gr/magissaflegomenikardia/videos" ,Η μάγισσα ΦΛΕΓΟΜΕΝΗ ΚΑΡΔΙΑ (2023-2025)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ant1/sires/Η.μάγισσα.(2023-2024)
+#EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-description="https://github.com/possiblelife/gtrvlst/raw/refs/heads/main/desc/Ant1/%CE%A0%CE%B1%CE%B9%CF%87%CE%BD%CE%AF%CE%B4%CE%B9%CE%B1.%CE%B5%CE%BA%CE%B4%CE%AF%CE%BA%CE%B7%CF%83%CE%B7%CF%82.(2024-2025)" tvg-logo="https://greek-movies.com/icon/series/Παιχνίδιαεκδίκησης2024.jpg" ,Παιχνίδια εκδίκησης (2024)
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ant1/sires/Παιχνίδια.εκδίκησης.(2024)
 #EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-description="https://github.com/possiblelife/gtrvlst/raw/refs/heads/main/desc/Ant1/4xxx4.(2017-2018)" tvg-logo="https://greek-movies.com/icon/series/4xxx42017.jpg" ,4xxx4 (2017-2018)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ant1/sires_arxio/4xxx4.(2017-2018)
 #EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-description="https://github.com/possiblelife/gtrvlst/raw/refs/heads/main/desc/Ant1/7.%CE%B6%CF%89%CE%AD%CF%82.(2008)" tvg-logo="https://greek-movies.com/icon/series/7zwes.jpg" ,7 ζωές (2008)
@@ -1113,8 +1115,6 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ant1/s
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ant1/sires_arxio/Όσο.υπάρχει.αγάπη.(2001-2002)
 #EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-description="https://github.com/possiblelife/gtrvlst/raw/refs/heads/main/desc/Ant1/%CE%A0%CE%B1%CE%B3%CE%B9%CE%B4%CE%B5%CF%85%CE%BC%CE%AD%CE%BD%CE%BF%CE%B9.(2022-2024)" tvg-logo="https://greek-movies.com/icon/series/Παγιδευμένοι2022.jpg" ,Παγιδευμένοι (2022-2024)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ant1/sires_arxio/Παγιδευμένοι.(2022-2024)
-#EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-description="https://github.com/possiblelife/gtrvlst/raw/refs/heads/main/desc/Ant1/%CE%A0%CE%B1%CE%B9%CF%87%CE%BD%CE%AF%CE%B4%CE%B9%CE%B1.%CE%B5%CE%BA%CE%B4%CE%AF%CE%BA%CE%B7%CF%83%CE%B7%CF%82.(2024-2025)" tvg-logo="https://greek-movies.com/icon/series/Παιχνίδιαεκδίκησης2024.jpg" ,Παιχνίδια εκδίκησης (2024)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ant1/sires_arxio/Παιχνίδια.εκδίκησης.(2024)
 #EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-description="https://github.com/possiblelife/gtrvlst/raw/refs/heads/main/desc/Ant1/%CE%A0%CE%AC%CE%BD%CF%89.%CE%B1%CF%80%CF%8C.%CF%84%CE%BF.%CE%BD%CF%8C%CE%BC%CE%BF.(2007)" tvg-logo="https://greek-movies.com/icon/series/panwapotonomo.jpg" ,Πάνω από το νόμο (2007)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ant1/sires_arxio/Πάνω.από.το.νόμο.(2007)
 #EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-description="https://github.com/possiblelife/gtrvlst/raw/refs/heads/main/desc/Ant1/%CE%A0%CE%AC%CF%81%CE%B7%CF%82.%CE%BA%CE%B1%CE%B9.%CE%95%CE%BB%CE%AD%CE%BD%CE%B7.(2008)" tvg-logo="https://greek-movies.com/icon/series/pariskaieleni.jpg" ,Πάρης και Ελένη (2008)
