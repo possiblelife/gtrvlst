@@ -64,3 +64,5 @@ https://v6.cloudskep.com/rikvod/kyprosmegalio/kyprosmegalio110525.mp4?attachment
 https://v6.cloudskep.com/rikvod/kyprosmegalio/kyprosmegalio180525.mp4?attachment=true
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Κύπρος το Μεγαλείο σου 25/05/25
 https://v6.cloudskep.com/rikvod/kyprosmegalio/kyprosmegalio250525.mp4?attachment=true
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Κύπρος το Μεγαλείο σου 01/06/25
+https://v6.cloudskep.com/rikvod/kyprosmegalio/kyprosmegalio010625.mp4?attachment=true

@@ -1,12 +1,10 @@
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 74
-https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=62713&showId=1653&year=2025|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 75
-https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=62714&showId=1653&year=2025|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 76
-https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=62727&showId=1653&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 77
 https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=62776&showId=1653&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 78
 https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=62777&showId=1653&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 79
 https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=62778&showId=1653&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 80
+https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=62841&showId=1653&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 81
+https://www.alphatv.gr/show/o-timoros/?vtype=player&vid=62842&showId=1653&year=2025|webvidfulldig

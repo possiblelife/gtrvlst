@@ -110,3 +110,7 @@ https://www.megatv.com/tvshows/1954241/epeisodio-54-28/|webfulldig
 https://www.megatv.com/tvshows/1959605/epeisodio-55-28/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 56
 https://www.megatv.com/tvshows/1959608/epeisodio-56-27/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 57
+https://www.megatv.com/tvshows/1972826/epeisodio-57-27/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 58
+https://www.megatv.com/tvshows/1972829/epeisodio-58-26/|webfulldig

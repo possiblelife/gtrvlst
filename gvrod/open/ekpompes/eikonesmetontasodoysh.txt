@@ -962,14 +962,18 @@ https://www.tvopen.gr/watch/241640/katarraktestoyrhnoyoimegalyteroisthneyroph|we
 https://www.tvopen.gr/watch/242325/sthnperioxhinsantongkgkilgiatsaitexnhkaiparadosh|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ο λόφος Ναμσάν είναι το σήμα κατατεθέν της Σεούλ
 https://www.tvopen.gr/watch/242326/olofosnamsaneinaitoshmakatatethenthsseoyl|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες - Νότια Κορέα
-https://www.tvopen.gr/watch/242210/eikonesnotiakorea|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Νότια Κορέα
+https://www.tvopen.gr/watch/242210/eikonesmetontasodoyshnotiakorea|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Δάσος της Σεούλ
 https://www.tvopen.gr/watch/243016/dasosthsseoyl|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Περιοχή Γκάνγκναμ: Βιβλιοθήκη Starfield
 https://www.tvopen.gr/watch/243017/perioxhgkangknambibliothhkhstarfield|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Σεούλ
 https://www.tvopen.gr/watch/243018/eikonesmetontasodoyshseoyl|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Περίπατος στο Πάρκο Ανσάν με τις ανθισμένες κερασιές, Σεούλ - Νότια Κορέα
+https://www.tvopen.gr/watch/243726/peripatosstoparkoansanmetisanthismeneskerasiesseoylnotiakorea|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Χουανσόνγκ: Ένα φρούριο με μια θλιβερή ιστορία αιώνων, Σουβόν, Νότια Κορέα
+https://www.tvopen.gr/watch/243727/xoyansongkenafroyriomemiathliberhistoriaaiononsoybonnotiakorea|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Καππαδοκία, Α' μέρος
 https://www.tvopen.gr/watch/2307/eikonesmetontasodoysh7ckappadokiaameros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση |  Καππαδοκία Β' Μέρος
@@ -1440,3 +1444,5 @@ https://www.tvopen.gr/watch/240172/eikonesmetontasodoyshelbetia|webfulldig
 https://www.tvopen.gr/watch/240850/eikonesmetontasodoyshelbetiabmeros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες  με τον Τάσο Δούση - Ελβετία γ μέρος
 https://www.tvopen.gr/watch/241597/eikonesmetontasodoyshelbetiagmeros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Σεούλ γ' μέρος
+https://www.tvopen.gr/watch/243724/eikonesmetontasodoyshseoylgmeros|webfulldig
