@@ -1572,3 +1572,9 @@ https://www.megatv.com/tvshows/1959596/epeisodio-162-9/|webfulldig
 https://www.megatv.com/tvshows/1959599/epeisodio-163-10/|webfulldig
 #EXTINF:-1 group-title="Δ΄ ΚΥΚΛΟΣ",Επεισόδιο 164
 https://www.megatv.com/tvshows/1972805/epeisodio-164-10/|webfulldig
+#EXTINF:-1 group-title="Δ΄ ΚΥΚΛΟΣ",Τηλεταινία
+https://www.megatv.com/tvshows/1972811/tiletainia/|webfulldig
+#EXTINF:-1 group-title="Δ΄ ΚΥΚΛΟΣ",Επεισόδιο 165
+https://www.megatv.com/tvshows/1979521/epeisodio-165-10/|webfulldig
+#EXTINF:-1 group-title="Δ΄ ΚΥΚΛΟΣ",Επεισόδιο 166
+https://www.megatv.com/tvshows/1972814/epeisodio-166-9/|webfulldig

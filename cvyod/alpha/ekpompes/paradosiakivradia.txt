@@ -64,3 +64,5 @@ https://www.alphacyprus.com.cy/shows/entertainment/paradosiakivradia/webtv/10052
 https://www.alphacyprus.com.cy/shows/entertainment/paradosiakivradia/webtv/170525|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",31/05/25
 https://www.alphacyprus.com.cy/shows/entertainment/paradosiakivradia/webtv/310525|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",07/06/25
+https://www.alphacyprus.com.cy/shows/entertainment/paradosiakivradia/webtv/070625|webvidfulldig

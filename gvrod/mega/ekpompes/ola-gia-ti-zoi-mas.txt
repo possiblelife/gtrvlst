@@ -540,3 +540,7 @@ https://www.megatv.com/gtvshows/1960532/epeisodio-269/|webfulldig
 https://www.megatv.com/gtvshows/1967975/epeisodio-270/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 271
 https://www.megatv.com/gtvshows/1967978/epeisodio-271/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 272
+https://www.megatv.com/gtvshows/1978561/epeisodio-272/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 273
+https://www.megatv.com/gtvshows/1978567/epeisodio-273/|webfulldig

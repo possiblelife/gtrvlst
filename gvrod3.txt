@@ -1273,8 +1273,6 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ant1/e
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ant1/ekpompes/toproino.txt
 #EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.antenna.gr/imgHandler/1000/ae328344-6da4-493d-9643-a2623ffcb689.jpg" tvg-website="https://www.antenna.gr/weekenders/videos" ,WEEKENDERS
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ant1/ekpompes/weekenders.txt
-#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.antenna.gr/imgHandler/1000/252cddc3-f001-4252-b9d2-f6bd15594494.jpg" tvg-website="https://www.antenna.gr/theroadshow/videos" ,THE ROADSHOW
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ant1/ekpompes/theroadshow.txt
 #EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.antenna.gr/imgHandler/1000/3d45f17d-5333-4449-a6f7-c63b676e5898.jpg" tvg-website="https://www.antenna.gr/roukzouk/videos" ,ROUK ZOUK
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ant1/ekpompes/roukzouk.txt
 #EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.antenna.gr/imgHandler/1000/5a4196a3-8656-44de-8ef8-aff224ba7886.jpg" tvg-website="https://www.antenna.gr/5x5/videos" ,5X5
