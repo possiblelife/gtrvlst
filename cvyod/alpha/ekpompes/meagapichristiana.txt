@@ -744,3 +744,19 @@ https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/05062
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/060625|webvidfulldig
 #EXTINF:-1 group-title="2024-2025",Αλέξανδρος Μπουρδούμης
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/alexandros-mpoyrdoymis|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",10/06/25
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/100625|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",Peanut butter cookies με βρώμη
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/peanut-butter-cookies-me-bromi|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",10/06/25 - Αμίαντος
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/100625-amiantos|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",11/06/25
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/110625|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",Ηλίας Βαλάσης
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/ilias-balasis|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",Matcha Balls
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/matcha-balls|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",12/06/25
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/120625|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",Τρουφάκια τιραμισού
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/troyfakia-tiramisoy|webvidfulldig

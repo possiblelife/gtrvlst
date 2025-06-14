@@ -726,16 +726,6 @@ https://www.tvopen.gr/watch/194114/kordobaispaniatemenoskathedrikosenasmayritani
 https://www.tvopen.gr/watch/194115/granadaispaniaparathrhthriosannikolasapisteyththeasthnalampra|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Βόλτα στην παραμυθένια πόλη της Μπριζ
 https://www.tvopen.gr/watch/195227/boltasthnparamytheniapolhthsmpriz|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Μία συναρπαστική βόλτα στην Παλιά Πόλη της Αβάνας
-https://www.tvopen.gr/watch/197359/miasynarpastikhboltasthnpaliapolhthsabanas|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",La Bodeguita de Media: Το ιστορικό μπαρ των διασημοτήτων
-https://www.tvopen.gr/watch/197360/labodeguitademediatoistorikompartondiashmothton|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Καπιτώλιο της Αβάνας – Το σήμα κατατεθέν της πόλης
-https://www.tvopen.gr/watch/198061/kapitoliothsabanastoshmakatatethenthspolhs|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Κούβα: Τα μυστικά των πούρων σε τοπική φάρμα
-https://www.tvopen.gr/watch/198063/koybatamystikatonpoyronsetopikhfarma|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Κούβα: Ελ Κρίστο, βόλτα στην «καρδιά» της αληθινής Αβάνας
-https://www.tvopen.gr/watch/198883/koybaelkristoboltasthnc2abkardiac2bbthsalhthinhsabanas|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Μπριζ: Στην «καρδιά» της πόλης την πλατεία Μαρκτ
 https://www.tvopen.gr/watch/195228/mprizsthnc2abkardiac2bbthspolhsthnplateiamarkt|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Σφοδρή σύγκρουση ΝΔ – ΣΥΡΙΖΑ για σενάρια υπουργοποίησης Κασσελάκη το 2019
@@ -748,6 +738,16 @@ https://www.tvopen.gr/watch/195963/romantikhboltastakanaliatoyamsterntam|webfull
 https://www.tvopen.gr/watch/196653/tospitithsannasfrankstoamsterntam|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Βόλτα στους 9 δρόμους, την πιο όμορφη γωνιά του Άμστερνταμ
 https://www.tvopen.gr/watch/196654/boltastoys9dromoysthnpioomorfhgoniatoyamsterntam|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Μία συναρπαστική βόλτα στην Παλιά Πόλη της Αβάνας
+https://www.tvopen.gr/watch/197359/miasynarpastikhboltasthnpaliapolhthsabanas|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",La Bodeguita de Media: Το ιστορικό μπαρ των διασημοτήτων
+https://www.tvopen.gr/watch/197360/labodeguitademediatoistorikompartondiashmothton|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Καπιτώλιο της Αβάνας – Το σήμα κατατεθέν της πόλης
+https://www.tvopen.gr/watch/198061/kapitoliothsabanastoshmakatatethenthspolhs|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Κούβα: Τα μυστικά των πούρων σε τοπική φάρμα
+https://www.tvopen.gr/watch/198063/koybatamystikatonpoyronsetopikhfarma|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Κούβα: Ελ Κρίστο, βόλτα στην «καρδιά» της αληθινής Αβάνας
+https://www.tvopen.gr/watch/198883/koybaelkristoboltasthnc2abkardiac2bbthsalhthinhsabanas|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Αβάνα - La Corona: Ένα εργοστάσιο πούρων γεμάτο αρώματα και ιστορία
 https://www.tvopen.gr/watch/198884/abanalacoronaenaergostasiopoyrongematoaromatakaiistoria|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Κούβα: Χερσόνησος Ζαπάτα – Το μέρος όπου ζούσαν παλιά οι Ινδιάνοι

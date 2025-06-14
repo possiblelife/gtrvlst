@@ -1578,3 +1578,7 @@ https://www.megatv.com/tvshows/1972811/tiletainia/|webfulldig
 https://www.megatv.com/tvshows/1979521/epeisodio-165-10/|webfulldig
 #EXTINF:-1 group-title="Δ΄ ΚΥΚΛΟΣ",Επεισόδιο 166
 https://www.megatv.com/tvshows/1972814/epeisodio-166-9/|webfulldig
+#EXTINF:-1 group-title="Δ΄ ΚΥΚΛΟΣ",Επεισόδιο 167
+https://www.megatv.com/tvshows/1972817/epeisodio-167-9/|webfulldig
+#EXTINF:-1 group-title="Δ΄ ΚΥΚΛΟΣ",Επεισόδιο 168
+https://www.megatv.com/tvshows/1972820/epeisodio-168-10/|webfulldig
