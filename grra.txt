@@ -29,7 +29,7 @@ https://i4.streams.ovh/ic/lyrafm/stream
 #EXTINF:-1 group-title="ΑΘΗΝΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/galaxypink.png" ,Galaxy 92
 http://galaxy.live24.gr/galaxy9292
 #EXTINF:-1 group-title="ΑΘΗΝΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/lampsifm.png" ,Λάμψη 92.3
-http://lampsifmlive.mdc.akamaized.net/strmLampsi/userLampsi/playlist.m3u8
+https://az11.yesstreaming.net:8140/radio.mp3
 #EXTINF:-1 group-title="ΑΘΗΝΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/bestradio.png" ,Best 92.6
 http://best.live24.gr/best1222
 #EXTINF:-1 group-title="ΑΘΗΝΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/kiss929.png" ,Kiss FM 92.9
