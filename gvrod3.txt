@@ -218,8 +218,6 @@ http://.....
 
 #EXTINF:-1 group-title="ALPHA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΟΛΕΣ ΟΙ ΕΚΠΟΜΠΕΣ
 https://www.alphatv.gr/ekpompes/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2024-2025/SHOWS/MONEY_DROP/THUMB/THUMBNAILS_MONEY_1.jpg" tvg-website="https://www.alphatv.gr/show/money-drop/" ,MONEY DROP (2024-2025)
-SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/alpha/ekpompes/money-drop.txt
 #EXTINF:-1 group-title="ALPHA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2024-2025/SHOWS/MOUTSINAS/THUMB/THUMB_MOUTSINAS_1.png" tvg-website="https://www.alphatv.gr/show/nikos-moutsinas-vradiatika/" ,ΝΙΚΟΣ ΜΟΥΤΣΙΝΑΣ ΒΡΑΔΙΑΤΙΚΑ (2024-2025)
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/alpha/ekpompes_arxio/nikos-moutsinas-vradiatika.txt
 #EXTINF:-1 group-title="ALPHA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2024-2025/SHOWS/DEAL/PROMO/SMALL_DEAL_1.png" tvg-website="https://www.alphatv.gr/show/deal/" ,DEAL (2024-2025)
