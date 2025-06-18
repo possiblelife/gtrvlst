@@ -300,3 +300,7 @@ https://www.megatv.com/gtvshows/1972868/01-06-2025-2/|webfulldig
 https://www.megatv.com/gtvshows/1980901/07-06-2025-2/|webfulldig
 #EXTINF:-1 group-title="Season 2",08/06/2025
 https://www.megatv.com/gtvshows/1981867/08-06-2025-2/|webfulldig
+#EXTINF:-1 group-title="Season 2",14/06/2025
+https://www.megatv.com/gtvshows/1987990/14-06-2025-2/|webfulldig
+#EXTINF:-1 group-title="Season 2",15/06/2025
+https://www.megatv.com/gtvshows/1989724/15-06-2025-2/|webfulldig

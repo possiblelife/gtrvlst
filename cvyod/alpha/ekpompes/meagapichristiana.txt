@@ -760,3 +760,13 @@ https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/match
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/120625|webvidfulldig
 #EXTINF:-1 group-title="2024-2025",Τρουφάκια τιραμισού
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/troyfakia-tiramisoy|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",13/06/25
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/130625|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",Θοδωρής Αθερίδης
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/thodoris-atheridis|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",16/06/25
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/160625|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",Γιώτα Κρος
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/giota-kros-1|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",Ψωμί με Σπόρους
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/psomi-me-sporoys|webvidfulldig
