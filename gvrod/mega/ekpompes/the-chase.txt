@@ -1,7 +1,3 @@
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 172
-https://www.megatv.com/gtvshows/1948097/epeisodio-172-5/|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 173
-https://www.megatv.com/gtvshows/1954271/epeisodio-173-5/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 174
 https://www.megatv.com/gtvshows/1957196/epeisodio-174-5/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 175
@@ -40,3 +36,9 @@ https://www.megatv.com/gtvshows/1987051/epeisodio-190-5/|webfulldig
 https://www.megatv.com/gtvshows/1990309/epeisodio-191-5/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 192
 https://www.megatv.com/gtvshows/1992037/epeisodio-192-5/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 193
+https://www.megatv.com/gtvshows/1992358/epeisodio-193-5/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 194
+https://www.megatv.com/gtvshows/1993795/epeisodio-194-5/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 195
+https://www.megatv.com/gtvshows/1994362/epeisodio-195-5/|webfulldig

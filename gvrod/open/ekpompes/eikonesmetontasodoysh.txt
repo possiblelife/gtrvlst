@@ -50,10 +50,6 @@ https://www.tvopen.gr/watch/33485/ydramiaapisteythempeiriapanosegaidoyrakia|webf
 https://www.tvopen.gr/watch/33486/nhsidokosenasepigeiosparadeisosdiplasthnydra|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Παλαιοκαστρίτσα: Το κρυμμένο «διαμάντι» του Ιονίου
 https://www.tvopen.gr/watch/33856/palaiokastritsatokrymmenoc2abdiamantic2bbtoyionioy|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Οθωνοί: Στον μυστικό παράδεισο της Σπηλιάς της Καλυψώς
-https://www.tvopen.gr/watch/33925/othonoistonmystikoparadeisothssphliasthskalypsos|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Μήλος: Η παραλία Γέροντας με την εντυπωσιακή σπηλιά
-https://www.tvopen.gr/watch/34218/mhloshparaliagerontasmethnentyposiakhsphlia|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Κάστρο της Μήλου, το πιο όμορφο ηλιοβασίλεμα
 https://www.tvopen.gr/watch/34286/kastrothsmhloytopioomorfohliobasilema|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Μικρή Βενετία: Το «μπαλκόνι» της Μυκόνου
@@ -72,6 +68,10 @@ https://www.tvopen.gr/watch/37253/elafonhsihc2abkaraibikhc2bbthskrhths|webfulldi
 https://www.tvopen.gr/watch/38039/xorasfakiongrafikhkomopolhgiahremesdiakopes|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Παναγιά η Εκατονταπυλιανή: Η εκκλησία - «στολίδι» της Πάρου
 https://www.tvopen.gr/watch/38781/panagiahekatontapylianhhekklhsiac2abstolidic2bbthsparoy|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Οθωνοί: Στον μυστικό παράδεισο της Σπηλιάς της Καλυψώς
+https://www.tvopen.gr/watch/33925/othonoistonmystikoparadeisothssphliasthskalypsos|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Μήλος: Η παραλία Γέροντας με την εντυπωσιακή σπηλιά
+https://www.tvopen.gr/watch/34218/mhloshparaliagerontasmethnentyposiakhsphlia|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Λεύκες Πάρου: Το χωριό που εντυπωσιάζει από την πρώτη στιγμή
 https://www.tvopen.gr/watch/39694/leykesparoytoxoriopoyentyposiazeiapothnprothstigmh|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Λουτρά Πόζαρ: Θερμές πηγές και πανέμορφοι καταρράκτες
