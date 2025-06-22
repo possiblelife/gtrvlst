@@ -427,12 +427,20 @@ https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEq
 http://.....
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacy" tvg-logo="https://i.ibb.co/bs7j4wR/extacy-tv-new-logo.png" tvg-name="Extacy TV" ,Extacy TV
 https://live20.bozztv.com/giatv/giatv-extacytv/extacytv/playlist.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacy" tvg-logo="https://i.ibb.co/bs7j4wR/extacy-tv-new-logo.png" tvg-name="Extacy TV" ,Extacy TV (ΕΝΑΛΛΑΚΤΙΚΌ)
+https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8 
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacygr" tvg-logo="https://i.ibb.co/gMBRJrJM/extacygr.png" tvg-name="Extacy TV GREEKS" ,Extacy TV GREEKS
 https://live20.bozztv.com/giatv/giatv-extacytvgreeks/extacytvgreeks/playlist.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacygr" tvg-logo="https://i.ibb.co/gMBRJrJM/extacygr.png" tvg-name="Extacy TV GREEKS" ,Extacy TV GREEKS (ΕΝΑΛΛΑΚΤΙΚΌ)
+https://fr.crystalweb.net:1936/extacytvgreeks/extacytvgreeks/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacycin" tvg-logo="https://i.ibb.co/SDYzBvZk/extacy-cinema-dark-696x392.jpg" tvg-name="Extacy TV CINEMA" ,Extacy TV CINEMA
 https://live20.bozztv.com/giatv/giatv-extacytvcinema/extacytvcinema/playlist.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacycin" tvg-logo="https://i.ibb.co/SDYzBvZk/extacy-cinema-dark-696x392.jpg" tvg-name="Extacy TV CINEMA" ,Extacy TV CINEMA (ΕΝΑΛΛΑΚΤΙΚΌ)
+https://fr.crystalweb.net:1936/extacytvcinema/extacytvcinema/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacyser" tvg-logo="https://i.ibb.co/4wMSP52Z/extacyseries.png" tvg-name="Extacy TV SERIES" ,Extacy TV SERIES
 https://live20.bozztv.com/giatv/giatv-extacytvseries/extacytvseries/playlist.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacyser" tvg-logo="https://i.ibb.co/4wMSP52Z/extacyseries.png" tvg-name="Extacy TV SERIES" ,Extacy TV SERIES (ΕΝΑΛΛΑΚΤΙΚΌ)
+https://gra1.crystalweb.net:1936/extacytvseries/extacytvseries/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacycyp" tvg-logo="https://i.ibb.co/br83rNk/9f0c6632-b6bf-448b-a0b9-ea5cc2bdff33-channel-offline-image-1920x1080.jpg" ,Extacy TV Κύπρου
 https://fr.crystalweb.net:1936/extacytvcy/extacytvcy/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="zeys" tvg-logo="https://i.ibb.co/ks7YJW4K/zeys-logo-aspro-kalo.png" ,ΖΕΥΣ CHANNEL
