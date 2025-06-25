@@ -356,11 +356,7 @@ http://195.226.218.10/vid/ertnews/mpeg.2ts
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://files.app.ertflix.gr/files/channels/ertnews-logo-800x300-f2.png?m=resize&w=200&h=80" tvg-website="https://www.ertflix.gr" ,ΕΡΤ News 2
 http://ertflix.akamaized.net/ertlive/ertnews2/default/index.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://files.app.ertflix.gr/files/channels/ertnews-logo-800x300-f2.png?m=resize&w=200&h=80" tvg-website="https://www.ertflix.gr" ,ΕΡΤ News 3
-http://ertflix.akamaized.net/ertlive/ertnews3/default/index.m3u8
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/N6mqLBhr/eurovision-channel-ertflix-img-n.jpg" tvg-website="https://www.ertflix.gr"  tvg-name="Eurovision Channel" ,Eurovision Channel
-https://ertflix.akamaized.net/ertlive/seasonal/default/index.m3u8
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/N6mqLBhr/eurovision-channel-ertflix-img-n.jpg" tvg-website="https://www.ertflix.gr"  tvg-name="Eurovision Channel" ,Eurovision Channel (1)
-https://cdn3.smart-tv-data.com/vid/ertnews2/playlist.m3u8
+http://ertflix.akamaized.net/ertlive/ertnews3/default/index.m3u8 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i0.wp.com/meganews.tv/wp-content/uploads/2023/03/1.png" tvg-website="https://www.megatv.com/meganews/" ,Mega News
 https://streamcdnb1-c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/7NG8q9bd/bogbtother.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/big-brother/sezon-2024-2025/live" tvg-name="Big Brother" ,Big Brother
