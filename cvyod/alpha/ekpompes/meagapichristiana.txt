@@ -784,3 +784,15 @@ https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/makar
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/190625|webvidfulldig
 #EXTINF:-1 group-title="2024-2025",Τυροψωμάκια
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/tyropsomakia|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",20/06/25
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/200625|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",23/06/25
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/230625|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",Ιωάννα Λαμπροπούλου
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/ioanna-lampropoyloy-8|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",Παγωτό με φυστικοβούτυρο και μαύρη σοκολάτα
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/pagoto-me-fystikoboytyro-kai-mayri-sokolata|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",24/06/25
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/240625|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",Ασιάτικο bowl με σολομό bbq
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/asiatiko-bowl-me-solomo-bbq|webvidfulldig
