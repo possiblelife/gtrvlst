@@ -552,3 +552,5 @@ https://www.megatv.com/gtvshows/1985002/epeisodio-275/|webfulldig
 https://www.megatv.com/gtvshows/1994092/epeisodio-276/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 277
 https://www.megatv.com/gtvshows/1994095/epeisodio-277/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 278
+https://www.megatv.com/gtvshows/2006218/epeisodio-278/|webfulldig

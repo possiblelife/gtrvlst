@@ -796,3 +796,13 @@ https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/pagot
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/240625|webvidfulldig
 #EXTINF:-1 group-title="2024-2025",Ασιάτικο bowl με σολομό bbq
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/asiatiko-bowl-me-solomo-bbq|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",25/06/25
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/250625|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",25/06/25 - Πέρα Ορεινής
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/250625-pera-oreinis|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",26/06/25
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/260625|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",Γιώργος Γιαννόπουλος
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/giorgos-giannopoylos-0|webvidfulldig
+#EXTINF:-1 group-title="2024-2025",Πέννες με καπνιστή γαλοπούλα
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/pennes-me-kapnisti-galopoyla|webvidfulldig

@@ -1256,3 +1256,13 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62354&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62355&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Μυθοπλασία
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=62356&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Ένα μπράβο
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63025&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Τράνζιτ
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63026&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Οικονομικές ανισότητες
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63027&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Χιαστί
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63028&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Έξι με εφτάμισι
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63029&showId=869&year=2025|webvidfulldig

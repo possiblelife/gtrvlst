@@ -386,6 +386,8 @@ https://www.tvopen.gr/watch/119550/mpoyenosairestangkosooyseestiatoriothsmpoka|w
 https://www.tvopen.gr/watch/120604/kastrothsxioyenazontanomathhmaistorias|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Λιμάνι της Χίου: Το πιο ζωντανό σημείο της πόλης
 https://www.tvopen.gr/watch/120605/limanithsxioytopiozontanoshmeiothspolhs|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Λήμνος: Μία θαυμάστρια της εκπομπής κάνει έκπληξη στον Τάσο Δούση
+https://www.tvopen.gr/watch/123728/lhmnosmiathaymastriathsekpomphskaneiekplhxhstontasodoysh|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Μεστά: Το «οχυρωμένο» Μαστιχοχώρι της Χίου
 https://www.tvopen.gr/watch/120606/mestatoc2aboxyromenoc2bbmastixoxorithsxioy|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Πυργί: Το Μαστιχοχώρι με τα διάσημα ξυστά
@@ -406,8 +408,6 @@ https://www.tvopen.gr/watch/122850/mantamadosstonthaymatoyrgotaxiarxhmetoaysthro
 https://www.tvopen.gr/watch/122851/sykamiaenasaneggixtosparadeisossthlesbo|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Μόλυβος: Το ωραιότερο χωριό της Λέσβου
 https://www.tvopen.gr/watch/122852/molybostooraioteroxoriothslesboy|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Λήμνος: Μία θαυμάστρια της εκπομπής κάνει έκπληξη στον Τάσο Δούση
-https://www.tvopen.gr/watch/123728/lhmnosmiathaymastriathsekpomphskaneiekplhxhstontasodoysh|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Λήμνος: Κατιμέρια σε παραδοσιακή ταβέρνα
 https://www.tvopen.gr/watch/123729/lhmnoskatimeriaseparadosiakhtaberna|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Λήμνος: Αμμοθίνες
