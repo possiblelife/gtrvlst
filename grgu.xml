@@ -18931,10 +18931,6 @@
    <desc lang="el">Αν και στον περίγυρό τους φαίνονται απλές γειτόνισσες, η Νίνα και η Μαντλέν είναι στην πραγματικότητα δυο ερωτευμένες γυναίκες που κρύβουν για χρόνια τη σχέση τους. Ένα απρόσμενο γεγονός, όμως, φέρνει τα πάνω κάτω στη ζωή τους. (92')</desc>
    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/255/32/040035268112000800_1750398333264_S.jpg"/>
    <category>["Δραματική"]</category>
-   <credits>
-    <director>Φιλίπο Μενεγκέτι</director>
-    <actor>Μπάρμπαρα Σούκοβα, Μαρτίν Σεβαλιέ, Λεά Ντρουκέρ</actor>
-    </credits>
   </programme>
   <programme start="20250629213000 +0000" stop="20250629214500 +0000" channel="ert3">
     <title lang="el">Μικρές Ιστορίες</title>
@@ -31327,5 +31323,209 @@ Up-to-date coverage of all the events happening in Greece and around the world, 
   <programme start="20250703170000 +0300" stop="20250703235900 +0300" channel="extacykids">
     <title lang="el">Παιδικό πρόγραμμα</title>
    <desc lang="el">Το καλύτερο παιδικό πρόγραμμα για τους μικρούς μας φίλους.</desc>
+  </programme>
+  <programme start="20250630070000 +0300" stop="20250630120000 +0300" channel="extacy">
+    <title lang="el">Παιδικό Πρόγραμμα</title>
+   <desc lang="el">Το καλύτερο παιδικό πρόγραμμα για τους μικρούς μας φίλους</desc>
+  </programme>
+  <programme start="20250630120000 +0300" stop="20250630133000 +0300" channel="extacy">
+    <title lang="el">Ελληνική Ταινία</title>
+   <desc lang="el">Μια σειρά από κλασικές ελληνικές ταινίες που θα σας ταξιδέψουν στο παρελθόν</desc>
+  </programme>
+  <programme start="20250630133000 +0300" stop="20250630150000 +0300" channel="extacy">
+    <title lang="el">Ελληνική Ταινία 80’s - 90’s</title>
+   <desc lang="el">Κλασικές ελληνικές ταινίες από τις δεκαετίες του ’80 και του ’90 που θα σας ταξιδέψουν στο χρόνο</desc>
+  </programme>
+  <programme start="20250630150000 +0300" stop="20250630223000 +0300" channel="extacy">
+    <title lang="el">Ξένες Ταινίες</title>
+   <desc lang="el">Ανακαλύψτε εξαιρετικές ξένες ταινίες που θα σας εντυπωσιάσουν</desc>
+  </programme>
+  <programme start="20250630223000 +0300" stop="20250701000000 +0300" channel="extacy">
+    <title lang="el">Σύγχρονη Ελληνική Ταινία</title>
+   <desc lang="el">Ανακαλύψτε σύγχρονες ελληνικές ταινίες που αντανακλούν τη σύγχρονη ζωή και κουλτούρα</desc>
+  </programme>
+  <programme start="20250701000000 +0300" stop="20250701023000 +0300" channel="extacy">
+    <title lang="el">Extacy Movie Night</title>
+   <desc lang="el">Μια βραδιά γεμάτη με τις καλύτερες ταινίες του κινηματογράφου</desc>
+  </programme>
+  <programme start="20250630023000 +0300" stop="20250630070000 +0300" channel="extacy">
+    <title lang="el">Ξένες Ταινίες Τρόμου</title>
+   <desc lang="el">Μια επιλογή ανατριχιαστικών ξένων ταινιών τρόμου που θα σας κρατήσουν σε αγωνία</desc>
+  </programme>
+  <programme start="20250630070000 +0300" stop="20250630090000 +0300" channel="extacyser">
+    <title lang="el">Thunderbirds</title>
+   <desc lang="el">Thunderbirds Is A British Puppet Series Where A Team Saves Lives Using Futuristic Vehicles</desc>
+  </programme>
+  <programme start="20250630090000 +0300" stop="20250630120000 +0300" channel="extacyser">
+    <title lang="el">Battlestar Galactica</title>
+   <desc lang="el">Battlestar Galactica Is A Science Fiction Series Where The Last Humans Fight For Survival Against The Cylons</desc>
+  </programme>
+  <programme start="20250630120000 +0300" stop="20250630150000 +0300" channel="extacyser">
+    <title lang="el">Sen Anlat Karadeniz</title>
+   <desc lang="el">Sen Anlat Karadeniz Is The Turkish Title Of The Series Black Sea, Which Tells The Story Of A Woman’s Escape From Abuse And Her Fight For Freedom</desc>
+  </programme>
+  <programme start="20250630150000 +0300" stop="20250630163000 +0300" channel="extacyser">
+    <title lang="el">The Benny Hill</title>
+   <desc lang="el">Comedy series with fast-paced sketches, satire, and chases in a rapid tempo</desc>
+  </programme>
+  <programme start="20250630163000 +0300" stop="20250630180000 +0300" channel="extacyser">
+    <title lang="el">Baywatch</title>
+   <desc lang="el">Action drama series featuring lifeguards who save lives and experience intense personal stories on the beaches of California</desc>
+  </programme>
+  <programme start="20250630180000 +0300" stop="20250630223000 +0300" channel="extacyser">
+    <title lang="el">Suleiman The Magnificent</title>
+   <desc lang="el">Suleiman The Magnificent Is A Turkish Historical Series About The Life, Power, And Romantic Intrigues Of Sultan Suleiman</desc>
+  </programme>
+  <programme start="20250630223000 +0300" stop="20250701010000 +0300" channel="extacyser">
+    <title lang="el">Game of Thrones</title>
+   <desc lang="el">Game Of Thrones Is An Epic Fantasy Series With Battles, Intrigues, And A Struggle For Power In A Fictional World</desc>
+  </programme>
+  <programme start="20250630010000 +0300" stop="20250630023000 +0300" channel="extacyser">
+    <title lang="el">Mavra Mesanyhta</title>
+   <desc lang="el">A drama series with strong crime elements and dark family intrigues</desc>
+  </programme>
+  <programme start="20250630023000 +0300" stop="20250630040000 +0300" channel="extacyser">
+    <title lang="el">Ichni</title>
+   <desc lang="el">A mystery crime series that follows the revelations behind unsolved crimes</desc>
+  </programme>
+  <programme start="20250630040000 +0300" stop="20250630053000 +0300" channel="extacyser">
+    <title lang="el">Anatomia Enos Egklimatos</title>
+   <desc lang="el">Each episode is based on a true crime case with chilling narration</desc>
+  </programme>
+  <programme start="20250630053000 +0300" stop="20250630070000 +0300" channel="extacyser">
+    <title lang="el">Kokkinos Kyklos</title>
+   <desc lang="el">Standalone crime stories with intensity, suspense, and unpredictable developments</desc>
+  </programme>
+  <programme start="20250701070000 +0300" stop="20250701090000 +0300" channel="extacyser">
+    <title lang="el">Thunderbirds</title>
+   <desc lang="el">Thunderbirds Is A British Puppet Series Where A Team Saves Lives Using Futuristic Vehicles</desc>
+  </programme>
+  <programme start="20250701090000 +0300" stop="20250701120000 +0300" channel="extacyser">
+    <title lang="el">Battlestar Galactica</title>
+   <desc lang="el">Battlestar Galactica Is A Science Fiction Series Where The Last Humans Fight For Survival Against The Cylons</desc>
+  </programme>
+  <programme start="20250701120000 +0300" stop="20250701150000 +0300" channel="extacyser">
+    <title lang="el">Sen Anlat Karadeniz</title>
+   <desc lang="el">Sen Anlat Karadeniz Is The Turkish Title Of The Series Black Sea, Which Tells The Story Of A Woman’s Escape From Abuse And Her Fight For Freedom</desc>
+  </programme>
+  <programme start="20250701150000 +0300" stop="20250701163000 +0300" channel="extacyser">
+    <title lang="el">The Benny Hill</title>
+   <desc lang="el">Comedy series with fast-paced sketches, satire, and chases in a rapid tempo</desc>
+  </programme>
+  <programme start="20250701163000 +0300" stop="20250701180000 +0300" channel="extacyser">
+    <title lang="el">Baywatch</title>
+   <desc lang="el">Action drama series featuring lifeguards who save lives and experience intense personal stories on the beaches of California</desc>
+  </programme>
+  <programme start="20250701180000 +0300" stop="20250701223000 +0300" channel="extacyser">
+    <title lang="el">Suleiman The Magnificent</title>
+   <desc lang="el">Suleiman The Magnificent Is A Turkish Historical Series About The Life, Power, And Romantic Intrigues Of Sultan Suleiman</desc>
+  </programme>
+  <programme start="20250701223000 +0300" stop="20250702010000 +0300" channel="extacyser">
+    <title lang="el">Game of Thrones</title>
+   <desc lang="el">Game Of Thrones Is An Epic Fantasy Series With Battles, Intrigues, And A Struggle For Power In A Fictional World</desc>
+  </programme>
+  <programme start="20250701010000 +0300" stop="20250701023000 +0300" channel="extacyser">
+    <title lang="el">Mavra Mesanyhta</title>
+   <desc lang="el">A drama series with strong crime elements and dark family intrigues</desc>
+  </programme>
+  <programme start="20250701023000 +0300" stop="20250701040000 +0300" channel="extacyser">
+    <title lang="el">Ichni</title>
+   <desc lang="el">A mystery crime series that follows the revelations behind unsolved crimes</desc>
+  </programme>
+  <programme start="20250701040000 +0300" stop="20250701053000 +0300" channel="extacyser">
+    <title lang="el">Anatomia Enos Egklimatos</title>
+   <desc lang="el">Each episode is based on a true crime case with chilling narration</desc>
+  </programme>
+  <programme start="20250701053000 +0300" stop="20250701070000 +0300" channel="extacyser">
+    <title lang="el">Kokkinos Kyklos</title>
+   <desc lang="el">Standalone crime stories with intensity, suspense, and unpredictable developments</desc>
+  </programme>
+  <programme start="20250702070000 +0300" stop="20250702090000 +0300" channel="extacyser">
+    <title lang="el">Thunderbirds</title>
+   <desc lang="el">Thunderbirds Is A British Puppet Series Where A Team Saves Lives Using Futuristic Vehicles</desc>
+  </programme>
+  <programme start="20250702090000 +0300" stop="20250702120000 +0300" channel="extacyser">
+    <title lang="el">Battlestar Galactica</title>
+   <desc lang="el">Battlestar Galactica Is A Science Fiction Series Where The Last Humans Fight For Survival Against The Cylons</desc>
+  </programme>
+  <programme start="20250702120000 +0300" stop="20250702150000 +0300" channel="extacyser">
+    <title lang="el">Sen Anlat Karadeniz</title>
+   <desc lang="el">Sen Anlat Karadeniz Is The Turkish Title Of The Series Black Sea, Which Tells The Story Of A Woman’s Escape From Abuse And Her Fight For Freedom</desc>
+  </programme>
+  <programme start="20250702150000 +0300" stop="20250702163000 +0300" channel="extacyser">
+    <title lang="el">The Benny Hill</title>
+   <desc lang="el">Comedy series with fast-paced sketches, satire, and chases in a rapid tempo</desc>
+  </programme>
+  <programme start="20250702163000 +0300" stop="20250702180000 +0300" channel="extacyser">
+    <title lang="el">Baywatch</title>
+   <desc lang="el">Action drama series featuring lifeguards who save lives and experience intense personal stories on the beaches of California</desc>
+  </programme>
+  <programme start="20250702180000 +0300" stop="20250702223000 +0300" channel="extacyser">
+    <title lang="el">Suleiman The Magnificent</title>
+   <desc lang="el">Suleiman The Magnificent Is A Turkish Historical Series About The Life, Power, And Romantic Intrigues Of Sultan Suleiman</desc>
+  </programme>
+  <programme start="20250702223000 +0300" stop="20250703010000 +0300" channel="extacyser">
+    <title lang="el">Game of Thrones</title>
+   <desc lang="el">Game Of Thrones Is An Epic Fantasy Series With Battles, Intrigues, And A Struggle For Power In A Fictional World</desc>
+  </programme>
+  <programme start="20250702010000 +0300" stop="20250702023000 +0300" channel="extacyser">
+    <title lang="el">Mavra Mesanyhta</title>
+   <desc lang="el">A drama series with strong crime elements and dark family intrigues</desc>
+  </programme>
+  <programme start="20250702023000 +0300" stop="20250702040000 +0300" channel="extacyser">
+    <title lang="el">Ichni</title>
+   <desc lang="el">A mystery crime series that follows the revelations behind unsolved crimes</desc>
+  </programme>
+  <programme start="20250702040000 +0300" stop="20250702053000 +0300" channel="extacyser">
+    <title lang="el">Anatomia Enos Egklimatos</title>
+   <desc lang="el">Each episode is based on a true crime case with chilling narration</desc>
+  </programme>
+  <programme start="20250702053000 +0300" stop="20250702070000 +0300" channel="extacyser">
+    <title lang="el">Kokkinos Kyklos</title>
+   <desc lang="el">Standalone crime stories with intensity, suspense, and unpredictable developments</desc>
+  </programme>
+  <programme start="20250703070000 +0300" stop="20250703090000 +0300" channel="extacyser">
+    <title lang="el">Thunderbirds</title>
+   <desc lang="el">Thunderbirds Is A British Puppet Series Where A Team Saves Lives Using Futuristic Vehicles</desc>
+  </programme>
+  <programme start="20250703090000 +0300" stop="20250703120000 +0300" channel="extacyser">
+    <title lang="el">Battlestar Galactica</title>
+   <desc lang="el">Battlestar Galactica Is A Science Fiction Series Where The Last Humans Fight For Survival Against The Cylons</desc>
+  </programme>
+  <programme start="20250703120000 +0300" stop="20250703150000 +0300" channel="extacyser">
+    <title lang="el">Sen Anlat Karadeniz</title>
+   <desc lang="el">Sen Anlat Karadeniz Is The Turkish Title Of The Series Black Sea, Which Tells The Story Of A Woman’s Escape From Abuse And Her Fight For Freedom</desc>
+  </programme>
+  <programme start="20250703150000 +0300" stop="20250703163000 +0300" channel="extacyser">
+    <title lang="el">The Benny Hill</title>
+   <desc lang="el">Comedy series with fast-paced sketches, satire, and chases in a rapid tempo</desc>
+  </programme>
+  <programme start="20250703163000 +0300" stop="20250703180000 +0300" channel="extacyser">
+    <title lang="el">Baywatch</title>
+   <desc lang="el">Action drama series featuring lifeguards who save lives and experience intense personal stories on the beaches of California</desc>
+  </programme>
+  <programme start="20250703180000 +0300" stop="20250703223000 +0300" channel="extacyser">
+    <title lang="el">Suleiman The Magnificent</title>
+   <desc lang="el">Suleiman The Magnificent Is A Turkish Historical Series About The Life, Power, And Romantic Intrigues Of Sultan Suleiman</desc>
+  </programme>
+  <programme start="20250703223000 +0300" stop="20250703010000 +0300" channel="extacyser">
+    <title lang="el">Game of Thrones</title>
+   <desc lang="el">Game Of Thrones Is An Epic Fantasy Series With Battles, Intrigues, And A Struggle For Power In A Fictional World</desc>
+  </programme>
+  <programme start="20250703010000 +0300" stop="20250703023000 +0300" channel="extacyser">
+    <title lang="el">Mavra Mesanyhta</title>
+   <desc lang="el">A drama series with strong crime elements and dark family intrigues</desc>
+  </programme>
+  <programme start="20250703023000 +0300" stop="20250703040000 +0300" channel="extacyser">
+    <title lang="el">Ichni</title>
+   <desc lang="el">A mystery crime series that follows the revelations behind unsolved crimes</desc>
+  </programme>
+  <programme start="20250703040000 +0300" stop="20250703053000 +0300" channel="extacyser">
+    <title lang="el">Anatomia Enos Egklimatos</title>
+   <desc lang="el">Each episode is based on a true crime case with chilling narration</desc>
+  </programme>
+  <programme start="20250703053000 +0300" stop="20250703070000 +0300" channel="extacyser">
+    <title lang="el">Kokkinos Kyklos</title>
+   <desc lang="el">Standalone crime stories with intensity, suspense, and unpredictable developments</desc>
   </programme>
 </tv>
