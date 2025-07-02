@@ -1266,3 +1266,7 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63027&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63028&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Έξι με εφτάμισι
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63029&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Η αμπιγιέζ
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63089&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",O.K. μπούμερ
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63090&showId=869&year=2025|webvidfulldig

@@ -1562,3 +1562,7 @@ https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/anastasi
 https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/200625|webvidfulldig
 #EXTINF:-1 group-title="Season 8",To cast της θεατρικής παράστασης &quot;Αρκάς&quot;
 https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/cast-tis-theatrikis-parastasis-arkas|webvidfulldig
+#EXTINF:-1 group-title="Season 8",27/06/25
+https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/270625|webvidfulldig
+#EXTINF:-1 group-title="Season 8",Γιάννης Τσιμιτσέλης
+https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/giannis-tsimitselis|webvidfulldig

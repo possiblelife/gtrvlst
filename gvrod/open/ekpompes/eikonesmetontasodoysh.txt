@@ -62,10 +62,6 @@ https://www.tvopen.gr/watch/34651/mikrhbenetiatoc2abmpalkonic2bbthsmykonoy|webfu
 https://www.tvopen.gr/watch/34773/cavotagoosthbilaton15000eyro|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ρόδος: Στον παραμυθένιο κολπίσκο του Αγίου Παύλου
 https://www.tvopen.gr/watch/35365/rodosstonparamytheniokolpiskotoyagioypayloy|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Στο Παλάτι του Μεγάλου Μαγίστρου, το στολίδι της Ρόδου
-https://www.tvopen.gr/watch/35970/stopalatitoymegaloymagistroytostolidithsrodoy|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεϊτάν λιμάνια: Η παραδεισένια, αλλά καταραμένη παραλία
-https://www.tvopen.gr/watch/36585/seitanlimaniahparadeiseniaallakataramenhparalia|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ελαφονήσι: Η «Καραϊβική» της Κρήτης
 https://www.tvopen.gr/watch/37253/elafonhsihc2abkaraibikhc2bbthskrhths|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Χώρα Σφακίων: Γραφική κωμόπολη για ήρεμες διακοπές
@@ -84,6 +80,10 @@ https://www.tvopen.gr/watch/53748/theshc2abkleidic2bbenaperasmaapotoboyno|webful
 https://www.tvopen.gr/watch/53749/monhproysoyenamonasthripoykremetaiapotonbraxo|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Γεφύρι Βίνιανης: Ένα παραμυθένιο τοπίο
 https://www.tvopen.gr/watch/54595/gefyribinianhsenaparamytheniotopio|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Στο Παλάτι του Μεγάλου Μαγίστρου, το στολίδι της Ρόδου
+https://www.tvopen.gr/watch/35970/stopalatitoymegaloymagistroytostolidithsrodoy|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεϊτάν λιμάνια: Η παραδεισένια, αλλά καταραμένη παραλία
+https://www.tvopen.gr/watch/36585/seitanlimaniahparadeiseniaallakataramenhparalia|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Λίμνη Κρεμαστών, η υδάτινη ένωση δύο νομών
 https://www.tvopen.gr/watch/54596/limnhkremastonhydatinhenoshdyonomon|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Παλαμήδι, ένα επίτευγμα της βενετσιάνικης οχυρωματικής
@@ -386,8 +386,6 @@ https://www.tvopen.gr/watch/119550/mpoyenosairestangkosooyseestiatoriothsmpoka|w
 https://www.tvopen.gr/watch/120604/kastrothsxioyenazontanomathhmaistorias|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Λιμάνι της Χίου: Το πιο ζωντανό σημείο της πόλης
 https://www.tvopen.gr/watch/120605/limanithsxioytopiozontanoshmeiothspolhs|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Λήμνος: Μία θαυμάστρια της εκπομπής κάνει έκπληξη στον Τάσο Δούση
-https://www.tvopen.gr/watch/123728/lhmnosmiathaymastriathsekpomphskaneiekplhxhstontasodoysh|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Μεστά: Το «οχυρωμένο» Μαστιχοχώρι της Χίου
 https://www.tvopen.gr/watch/120606/mestatoc2aboxyromenoc2bbmastixoxorithsxioy|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Πυργί: Το Μαστιχοχώρι με τα διάσημα ξυστά
@@ -408,6 +406,8 @@ https://www.tvopen.gr/watch/122850/mantamadosstonthaymatoyrgotaxiarxhmetoaysthro
 https://www.tvopen.gr/watch/122851/sykamiaenasaneggixtosparadeisossthlesbo|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Μόλυβος: Το ωραιότερο χωριό της Λέσβου
 https://www.tvopen.gr/watch/122852/molybostooraioteroxoriothslesboy|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Λήμνος: Μία θαυμάστρια της εκπομπής κάνει έκπληξη στον Τάσο Δούση
+https://www.tvopen.gr/watch/123728/lhmnosmiathaymastriathsekpomphskaneiekplhxhstontasodoysh|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Λήμνος: Κατιμέρια σε παραδοσιακή ταβέρνα
 https://www.tvopen.gr/watch/123729/lhmnoskatimeriaseparadosiakhtaberna|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Λήμνος: Αμμοθίνες
@@ -988,6 +988,12 @@ https://www.tvopen.gr/watch/244911/eikonesmetontasodoyshleykada|webfulldig
 https://www.tvopen.gr/watch/245559/peripatosstonkentrikopezodromothsleykadas|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εγκρεμνοί: Στη διάσημη παραλία χωρίς κόσμο
 https://www.tvopen.gr/watch/245560/egkremnoisthdiashmhparaliaxoriskosmo|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Μένητες: Το καταπράσινο παραδοσιακό χωριό της Άνδρου
+https://www.tvopen.gr/watch/246186/menhtestokataprasinoparadosiakoxoriothsandroy|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Βόλτα στο Μπατσί στο ηλιοβασίλεμα
+https://www.tvopen.gr/watch/246188/boltastompatsistohliobasilema|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Άνδρος
+https://www.tvopen.gr/watch/246185/eikonesmetontasodoyshandros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Καππαδοκία, Α' μέρος
 https://www.tvopen.gr/watch/2307/eikonesmetontasodoysh7ckappadokiaameros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση |  Καππαδοκία Β' Μέρος

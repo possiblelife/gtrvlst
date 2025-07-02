@@ -392,3 +392,7 @@ https://www.megatv.com/gtvshows/2002264/25-06-25/|webfulldig
 https://www.megatv.com/gtvshows/2003665/26-06-25/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",27/06/25
 https://www.megatv.com/gtvshows/2005165/27-06-25/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",30/06/25
+https://www.megatv.com/gtvshows/2008963/30-06-25-2/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",01/07/25
+https://www.megatv.com/gtvshows/2010226/01-07-25/|webfulldig
