@@ -1224,7 +1224,7 @@ http://cast.radiohost.ovh:9054/;
 #EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/heat942.png" ,Heart 94.2
 http://netradio.live24.gr/heart942
 #EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/justradio93.png" ,Just Radio 93
-https://sp3.streams.ovh/7055/stream
+https://sp3.streams.ovh:7055/stream;
 #EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/livefm.png" ,Live fm 89.6
 http://eco.onestreaming.com:8033/;
 #EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/big/nrg95.png" ,NRG FM 95
