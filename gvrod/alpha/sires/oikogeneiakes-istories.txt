@@ -1270,3 +1270,9 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63029&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63089&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",O.K. μπούμερ
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63090&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Μπαμπάδες
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63091&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Ιδιωτικό χρέος
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63092&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Η πληνεργασία
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63093&showId=869&year=2025|webvidfulldig
