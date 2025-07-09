@@ -994,6 +994,8 @@ https://www.tvopen.gr/watch/246186/menhtestokataprasinoparadosiakoxoriothsandroy
 https://www.tvopen.gr/watch/246188/boltastompatsistohliobasilema|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Άνδρος
 https://www.tvopen.gr/watch/246185/eikonesmetontasodoyshandros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Η Ιερά Μονή Παναχράντου – Αγίου Παντελεήμονος της Άνδρου
+https://www.tvopen.gr/watch/246657/hieramonhpanaxrantoyagioypantelehmonosthsandroy|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Καππαδοκία, Α' μέρος
 https://www.tvopen.gr/watch/2307/eikonesmetontasodoysh7ckappadokiaameros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση |  Καππαδοκία Β' Μέρος
@@ -1096,6 +1098,14 @@ https://www.tvopen.gr/watch/61328/eikonesmetontasodoysh7caigyptosasoyanameros|we
 https://www.tvopen.gr/watch/62282/eikonesmetontasodoysh7caigyptosasoyanbe28099meros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Στοκχόλμη, Α’ μέρος
 https://www.tvopen.gr/watch/64193/eikonesmetontasodoysh7cstokxolmhae28099meros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Στοκχόλμη, B’ μέρος
+https://www.tvopen.gr/watch/65166/eikonesmetontasodoysh7cstokxolmhbe28099meros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Σουηδική Λαπωνία, Α’ μέρος
+https://www.tvopen.gr/watch/66131/eikonesmetontasodoysh7csoyhdikhlaponiaae28099meros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Σουηδική Λαπωνία, Β’ μέρος
+https://www.tvopen.gr/watch/67041/eikonesmetontasodoysh7csoyhdikhlaponiabe28099meros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Βαρκελώνη, Α’ μέρος
+https://www.tvopen.gr/watch/67908/eikonesmetontasodoysh7cbarkelonhae28099meros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Βαρκελώνη, Β’ μέρος
 https://www.tvopen.gr/watch/68781/eikonesmetontasodoysh7cbarkelonhbe28099meros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Μεξικό, Α’ μέρος
@@ -1110,14 +1120,6 @@ https://www.tvopen.gr/watch/74896/eikonesmetontasodoysh7cmexikode28099meros|webf
 https://www.tvopen.gr/watch/75767/eikonesmetontasodoysh7cmonembasia|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Ελαφόνησος - Μυστράς - Σπάρτη
 https://www.tvopen.gr/watch/76609/eikonesmetontasodoysh7celafonhsosmystrassparth|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Στοκχόλμη, B’ μέρος
-https://www.tvopen.gr/watch/65166/eikonesmetontasodoysh7cstokxolmhbe28099meros|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Σουηδική Λαπωνία, Α’ μέρος
-https://www.tvopen.gr/watch/66131/eikonesmetontasodoysh7csoyhdikhlaponiaae28099meros|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Σουηδική Λαπωνία, Β’ μέρος
-https://www.tvopen.gr/watch/67041/eikonesmetontasodoysh7csoyhdikhlaponiabe28099meros|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Βαρκελώνη, Α’ μέρος
-https://www.tvopen.gr/watch/67908/eikonesmetontasodoysh7cbarkelonhae28099meros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Ρέθυμνο, Α’ μέρος
 https://www.tvopen.gr/watch/78466/eikonesmetontasodoysh7crethymnoae28099meros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Ρέθυμνο, Β’ μέρος
@@ -1470,3 +1472,5 @@ https://www.tvopen.gr/watch/243724/eikonesmetontasodoyshseoylgmeros|webfulldig
 https://www.tvopen.gr/watch/244199/eikonesmetontasodoyshmpoysannotiakorea|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Λευκάδα β μέρος
 https://www.tvopen.gr/watch/245436/eikonesmetontasodoyshleykadabmeros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση – Άνδρος
+https://www.tvopen.gr/watch/246656/eikonesmetontasodoyshandros|webfulldig
