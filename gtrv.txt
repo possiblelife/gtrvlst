@@ -44,6 +44,8 @@ https://cdn5.smart-tv-data.com/ant1/ant1live/mpeg.2ts
 https://embed.vindral.com/?core.channelId=alteregomedia_megatv1_ci_6cc490c7-e5c6-486b-acf0-9bb9c20fa670&core.minBufferTime=2000&player.aspectRatio=16:9|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="Mega" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" tvg-name="MEGA" tvg-website="https://www.megatv.com/" ,MEGA HD (2)
 https://spark3.smart-tv-data.com/megaHD/megaHD/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="Mega" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" tvg-name="MEGA" tvg-website="https://www.megatv.com/" ,MEGA HD (3)
+https://speech9.anixa.tv/megaCC/mega/manifest.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="Mega" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" tvg-name="MEGA" tvg-website="https://www.megatv.com/" ,MEGA (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 https://www.lakatamia.tv/app/chans/gr/megaimage.php|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="SKAI" tvg-logo="https://i.ibb.co/2MdmBxK/skai.jpg" tvg-name="SKAI" tvg-website="https://www.skaitv.gr/" ,SKAI HD
@@ -357,8 +359,12 @@ http://195.226.218.10/vid/ertnews/mpeg.2ts
 http://ertflix.akamaized.net/ertlive/ertnews2/default/index.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://files.app.ertflix.gr/files/channels/ertnews-logo-800x300-f2.png?m=resize&w=200&h=80" tvg-website="https://www.ertflix.gr" ,ΕΡΤ News 3
 http://ertflix.akamaized.net/ertlive/ertnews3/default/index.m3u8 
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i0.wp.com/meganews.tv/wp-content/uploads/2023/03/1.png" tvg-website="https://www.megatv.com/meganews/" ,Mega News
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i0.wp.com/meganews.tv/wp-content/uploads/2023/03/1.png" tvg-website="https://www.megatv.com/meganews/" tvg-name="Mega News" ,Mega News
 https://streamcdnb1-c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i0.wp.com/meganews.tv/wp-content/uploads/2023/03/1.png" tvg-website="https://www.megatv.com/meganews/" tvg-name="Mega News" ,Mega News (2)
+https://vid1.megatv-ctv.com/mega/meganews/mpeg.2ts
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i0.wp.com/meganews.tv/wp-content/uploads/2023/03/1.png" tvg-website="https://www.megatv.com/meganews/" tvg-name="Mega News" ,Mega News (3)
+https://speech5.anixa.tv/megaCC/meganews/manifest.mpd
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/7NG8q9bd/bogbtother.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/big-brother/sezon-2024-2025/live" tvg-name="Big Brother" ,Big Brother
 https://cdn1.smart-tv-data.com/skai/skaiBB/manifest.mpd
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/7NG8q9bd/bogbtother.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/big-brother/sezon-2024-2025/live" tvg-name="Big Brother" ,Big Brother (1)
