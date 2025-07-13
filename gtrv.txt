@@ -36,10 +36,6 @@ https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
 https://spark3.smart-tv-data.com/ant1HD/ant1HD/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1" tvg-logo="https://goo.gl/q5aDRg" tvg-name="ANT1" tvg-website="https://watch.antennaplus.gr/#/" ,ANT1 (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 https://anacon.org/app/chans/gr/ant1image.php|webepg zoom=100 scroll=0,100
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-logo="https://www.antenna.gr/images/2025_FIFA_Club_World_Cup.svg.png" tvg-name="ANT1 FIFA CLUB WORLD CUP 2025" tvg-website="https://www.antenna.gr/fifa/live" ,ANT1 FIFA CLUB WORLD CUP 2025
-https://pcdn.antennaplus.gr/live/media0/antenna-gr/HLS/index.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-logo="https://www.antenna.gr/images/2025_FIFA_Club_World_Cup.svg.png" tvg-name="ANT1 FIFA CLUB WORLD CUP 2025" tvg-website="https://www.antenna.gr/fifa/live" ,ANT1 FIFA CLUB WORLD CUP 2025 (2)
-https://cdn5.smart-tv-data.com/ant1/ant1live/mpeg.2ts
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="Mega" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" tvg-name="MEGA" tvg-website="https://www.megatv.com/" ,MEGA HD (1)
 https://embed.vindral.com/?core.channelId=alteregomedia_megatv1_ci_6cc490c7-e5c6-486b-acf0-9bb9c20fa670&core.minBufferTime=2000&player.aspectRatio=16:9|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="Mega" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" tvg-name="MEGA" tvg-website="https://www.megatv.com/" ,MEGA HD (2)
