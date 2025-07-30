@@ -552,8 +552,6 @@ https://www.youtube.com/@WBKidsInternational/videos|webepg zoom=100 scroll=0,0
 https://www.youtube.com/@zouzounia_tv/videos|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/klapsoulinia.png" ,Κλαψουλίνια (Youtube)
 https://www.youtube.com/embed/76wyKYBnd28
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/Oddbods.png" ,Oddbods Live (Youtube)
-https://www.youtube.com/embed/CdlIyT-yDtI
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/Oddbods.png" ,Oddbods (Youtube)
 https://www.youtube.com/@Oddbods/videos|webepg zoom=100 scroll=0,0
 
