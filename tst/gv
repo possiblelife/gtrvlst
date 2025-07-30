@@ -6,7 +6,7 @@ http://www.allaboutandroid.gr/wp-content/uploads/2015/02/10362372_31926458828042
 http://.....
 
 
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png",ERTFLIX LIVE
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-logo="hub://logs/flixert.png",ERTFLIX LIVE
 https://www.ertflix.gr/epg/now-on-tv|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="https://i.ibb.co/Y71vkKs/ERT1.jpg" tvg-name="ΕΡΤ1" tvg-website="https://www.ertflix.gr" ,ΕΡΤ1 HD (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
 https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/playlist.m3u8
