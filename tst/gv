@@ -1,4 +1,4 @@
-#EXTINF:-1  tvg-logo="hub://logs/greek-flag-in-tv.jpg" , ===ΤΗΛΕΟΡΑΣΗ===
+#EXTINF:-1  tvg-logo="hub://logs/greek-flag-in-tv.png" , ===ΤΗΛΕΟΡΑΣΗ===
 hub://logs/tv.jpg|webview zoom=100 scroll=0,0
 
 
@@ -397,7 +397,7 @@ https://eu1.streams.gr:8081/kostv/index.m3u8
 https://live20.bozztv.com/giatv/giatv-hlektratv/hlektratv/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logs/grd24.png"  ,GRD Channel
 https://fr.crystalweb.net:1936/grdchannel/grdchannel/playlist.m3u8
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="choice.png" ,Choice TV!
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logs/choice.png" ,Choice TV!
 https://eu1.streams.gr:8081/choicetv/index.m3u8
 
 
