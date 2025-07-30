@@ -478,8 +478,6 @@ https://orange.live24.gr/orange9320
 https://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://goo.gl/kkjOp4"  tvg-name="ΖΟΥΓΚΛΑ" tvg-website="https://www.zougla.gr" ,ΖΟΥΓΚΛΑ (ΕΝΑΛΛΑΚΤΙΚΟ)
 https://www.zougla.gr/live|webdig
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://www.vibee.tv/wp-content/uploads/2019/10/logo_v2beat_page_small.jpg" tvg-website="https://www.vibee.tv/" ,V2Beat Live
-https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://i.ibb.co/Xk0tTzg/alithia-logo.jpg" tvg-website="https://www.alithia.gr/" ,Ράδιο TV Αλήθεια 
 https://www.alithia.gr/tv/live|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-id="panik-tv" tvg-logo="https://panikmusic.gr/wp-content/uploads/2020/03/logo-master1.png" tvg-website="https://panikmusic.gr/panik-tv/" ,Panik TV
