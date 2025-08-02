@@ -154,3 +154,7 @@ https://www.skai.gr/tv/episode/psuchagogia/big-brother/2025-07-23-23|webvidfulld
 https://www.skai.gr/tv/episode/psuchagogia/big-brother/2025-07-24-23|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2024-2025",Big Brother 25/07/2025 
 https://www.skai.gr/tv/episode/psuchagogia/big-brother/2025-07-25-23|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 2024-2025",Big Brother 26/07/2025 
+https://www.skai.gr/tv/episode/psuchagogia/big-brother/2025-07-26-22|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 2024-2025",Big Brother | Τελικός Live 27/07/2025 
+https://www.skai.gr/tv/episode/psuchagogia/big-brother/2025-07-27-21|webvidfulldig

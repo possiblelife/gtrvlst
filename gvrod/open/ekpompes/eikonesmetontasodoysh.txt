@@ -1486,3 +1486,7 @@ https://www.tvopen.gr/watch/244199/eikonesmetontasodoyshmpoysannotiakorea|webful
 https://www.tvopen.gr/watch/245436/eikonesmetontasodoyshleykadabmeros|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση – Άνδρος
 https://www.tvopen.gr/watch/246656/eikonesmetontasodoyshandros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Ρόδος Α'μέρος
+https://www.tvopen.gr/watch/248508/eikonesmetontasodoyshrodosameros|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Ρόδος Β μέρος
+https://www.tvopen.gr/watch/248526/eikonesmetontasodoyshrodosbmeros|webfulldig
