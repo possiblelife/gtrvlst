@@ -1852,7 +1852,7 @@ https://cast.radiohost.ovh/xradio?mp=/stream
 https://stream.zuccaradio.com/stream
 
 
-#EXTINF:-1 group-title="ΚΥΠΡΟΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΚΥΠΡΟΣ ====
+#EXTINF:-1 group-title="ΚΥΠΡΟΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΛΕΥΚΩΣΙΑ ΚΥΠΡΟΣ ====
 http://.....
 #EXTINF:-1 group-title="ΚΥΠΡΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/cy/high/deejaycy.png",Deejay 93,6 (Λευκωσία)
 https://live3.istoikona.net:18950/stream
@@ -1922,7 +1922,7 @@ https://n09.radiojar.com/gz6uqvnzanuvv
 https://stream.radiojar.com/mg7kftnzka3vv
 #EXTINF:-1 group-title="ΚΥΠΡΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/cy/high/noisecy.png",Noise Radio  (Λευκωσία)
 https://aaradioforyou.radioca.st/stream
-#EXTINF:-1 group-title="ΚΥΠΡΟΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΚΥΠΡΟΣ ====
+#EXTINF:-1 group-title="ΚΥΠΡΟΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΛΕΜΕΣΟΣ ΚΥΠΡΟΣ ====
 http://.....
 #EXTINF:-1 group-title="ΚΥΠΡΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/cy/high/choiceradio.png",Choice 104,3 (Λεμεσός)
 https://live3.istoikona.net/proxy/choice/stream
@@ -1936,7 +1936,7 @@ https://eco.onestreaming.com/proxy/cooleradio/stream
 https://stream.radiojar.com/1myzry1mbbuvv
 #EXTINF:-1 group-title="ΚΥΠΡΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/cy/high/imlemesou.png",Ραδιόφωνο Ιεράς Μητροπόλεως Λεμεσού 94.5 94,5 (Λεμεσός)
 http://93.109.209.123:9080/stream.mp3
-#EXTINF:-1 group-title="ΚΥΠΡΟΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΚΥΠΡΟΣ ====
+#EXTINF:-1 group-title="ΚΥΠΡΟΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΛΑΡΝΑΚΑ ΚΥΠΡΟΣ ====
 http://.....
 #EXTINF:-1 group-title="ΚΥΠΡΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/cy/high/ola97.jpg",OlA 97 (Λάρνακα)
 https://live3.istoikona.net/proxy/ola97/stream
