@@ -1850,7 +1850,10 @@ https://westradio.radioca.st/stream
 https://cast.radiohost.ovh/xradio?mp=/stream
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/zucca-radio.png",Zucca Radio  (Internet Radio)
 https://stream.zuccaradio.com/stream
-
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://resources.live24.gr/resources/images/stations/85b8179f-cad4-4e6a-b75e-feb51bd9b644.png" ,Jackson Palace Radio GR
+https://jacksonspalace.radioca.st/stream?type=http&nocache=220
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://resources.live24.gr/resources/images/stations/6c457cf0-ce85-43a9-9a5c-834b2ccbc4de.png" ,Disco FM
+https://stream.zeno.fm/8uhaz4x25bhvv
 
 #EXTINF:-1 group-title="ΚΥΠΡΟΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΛΕΥΚΩΣΙΑ ΚΥΠΡΟΣ ====
 http://.....
