@@ -631,6 +631,18 @@ https://fash1043.cloudycdn.services/store/_definst_/tmsp00043/vod/03/f7/372028/s
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/weatherspy.png" ,Weather-Spy
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/fox-news.png" ,Fox News
+https://fl3.moveonjoy.com/FOX_NEWS_CHANNEL/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/fox-now.png" ,Fox Now
+https://www.livenowfox.com/|weballdig
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/cbsnews.png" ,CBS News
+https://www.youtube.com/embed/fAtdxCiqX_o
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/africanews.png" ,Africa News
+https://www.youtube.com/embed/NQjabLGdP5g?si=3W683UnuiM7rXbjN
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/Canal24.png" ,Canal 24 Horas
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+
 
 
 #EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ"  tvg-logo="hub://logs/red.png" ,=====   ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ    ====
