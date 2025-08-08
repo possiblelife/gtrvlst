@@ -446,7 +446,10 @@ https://live.netmaxtv.com:1936/live/live/playlist.m3u8
 https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="hub://logs/village.png" ,Village World
 https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
-
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="hub://logs/+plus.png" ,+Plus
+https://stream.ioniantv.gr/ionian/live2/playlist.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="hub://logs/sierra.png" ,Sierra Channel
+https://fr.crystalweb.net:1936/sierra/sierra/playlist.m3u8
 
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/red.png" ,=====   ΜΟΥΣΙΚΗ   ====
