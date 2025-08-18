@@ -1953,7 +1953,6 @@ https://live3.istoikona.net/proxy/ola97/stream
 https://live3.istoikona.net/proxy/lgr93/stream
 #EXTINF:-1 group-title="ΚΥΠΡΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/cy/high/star937.png",Star FM 93,7 (Λάρνακα)
 http://eradio.networksolutions.com.cy:1935/StarFM/StarFM.stream/playlist.m3u8
-http://eradio.networksolutions.com.cy:1935/StarFM/StarFM.stream/playlist.m3u8
 #EXTINF:-1 group-title="ΚΥΠΡΟΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΑΜΜΟΧΩΣΤΟΣ ΚΥΠΡΟΣ ====
 http://.....
 #EXTINF:-1 group-title="ΚΥΠΡΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/cy/high/politiafamagusta.png",Πολιτία FM 106.7 (Αμμόχωστος)
