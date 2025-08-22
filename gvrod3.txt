@@ -1,4 +1,9 @@
-
+#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,ΠΡΟΣΟΧΗ!!!!!!!!!!
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αυτή η έκδοση θα λήξη 31/8/25.
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αναβαθμίσετε την εφαρμογή στην έκδοση 3.40_1
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
 
 
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ALPHA ====
@@ -322,7 +327,12 @@ https://www.skai.gr/tv/episode/psuchagogia/souleimark-o-megaloprepis/2023-12-22-
 
 
 
-
+#EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,ΠΡΟΣΟΧΗ!!!!!!!!!!
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αυτή η έκδοση θα λήξη 31/8/25.
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αναβαθμίσετε την εφαρμογή στην έκδοση 3.40_1
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== MEGA ====
 http://.....
 
@@ -796,7 +806,12 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/mega/e
 
 
 
-
+#EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,ΠΡΟΣΟΧΗ!!!!!!!!!!
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αυτή η έκδοση θα λήξη 31/8/25.
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αναβαθμίσετε την εφαρμογή στην έκδοση 3.40_1
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ANT1 ====
 http://.....
 #EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-logo="https://goo.gl/q5aDRg" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
@@ -1300,7 +1315,12 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/ant1/e
 
 
 
-
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,ΠΡΟΣΟΧΗ!!!!!!!!!!
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αυτή η έκδοση θα λήξη 31/8/25.
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αναβαθμίσετε την εφαρμογή στην έκδοση 3.40_1
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== OPEN ====
 http://.....
 #EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://parallaximag.gr/wp-content/uploads/2019/03/open-beyond-logo.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
@@ -1366,7 +1386,12 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/gvrod/open/e
 
 
 
-
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,ΠΡΟΣΟΧΗ!!!!!!!!!!
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αυτή η έκδοση θα λήξη 31/8/25.
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αναβαθμίσετε την εφαρμογή στην έκδοση 3.40_1
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== STAR ====
 http://.....
 
@@ -1519,6 +1544,12 @@ https://www.ertflix.gr/show/sport|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤFLIX" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Η ΕΡΤ ΘΥΜΑΤΑΙ (ΕΡΤFLIX)
 https://www.ertflix.gr/show/archives|webmulti zoom=100 scroll=0,0
 
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,ΠΡΟΣΟΧΗ!!!!!!!!!!
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αυτή η έκδοση θα λήξη 31/8/25.
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αναβαθμίσετε την εφαρμογή στην έκδοση 3.40_1
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΕΡΤ ====
 http://.....
 

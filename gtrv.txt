@@ -2,6 +2,12 @@
 http://www.allaboutandroid.gr/wp-content/uploads/2015/02/10362372_319264588280423_4566848749308524368_n.jpg|webview zoom=100 scroll=0,0
 
 
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,ΠΡΟΣΟΧΗ!!!!!!!!!!
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αυτή η έκδοση θα λήξη 31/8/25.
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αναβαθμίσετε την εφαρμογή στην έκδοση 3.40_1
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΠΑΝΕΛΛΑΔΙΚΑ ====
 http://.....
 
@@ -90,6 +96,12 @@ https://streamer-cache.grnet.gr/parliament/hls/webtv2.m3u8
 https://streamer-cache.grnet.gr/parliament/hls/webtv3.m3u8
 
 
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,ΠΡΟΣΟΧΗ!!!!!!!!!!
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αυτή η έκδοση θα λήξη 31/8/25.
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αναβαθμίσετε την εφαρμογή στην έκδοση 3.40_1
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
 
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,===== ΑΘΛΗΤΙΚΑ ====
 http://.....
@@ -132,6 +144,12 @@ https://www.youtube.com/@SDNA_webTV/streams|webepg zoom=100 scroll=0,0
 https://dev.aftermind.xyz/alfa_sports.html|webepg zoom=100 scroll=0,0
 
 
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,ΠΡΟΣΟΧΗ!!!!!!!!!!
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αυτή η έκδοση θα λήξη 31/8/25.
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αναβαθμίσετε την εφαρμογή στην έκδοση 3.40_1
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,===== ΠΕΡΙΦΕΡΕΙΑΚΑ ====
 http://.....
 
@@ -274,6 +292,12 @@ https://gra1.crystalweb.net:1936/tvkosmos/tvkosmos/playlist.m3u8
 https://www.youtube.com/@volcanotvsantorini927/streams|webepg zoom=100 scroll=0,0
 
 
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,ΠΡΟΣΟΧΗ!!!!!!!!!!
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αυτή η έκδοση θα λήξη 31/8/25.
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αναβαθμίσετε την εφαρμογή στην έκδοση 3.40_1
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,===== ΠΑΓΚΥΠΡΙΑ ====
 http://.....
 
@@ -330,7 +354,12 @@ https://verginanews.gr:8443/hls_live/stream2.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Berginacy" tvg-name="ΒΕΡΓΙΝΑ ΤV" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fa28f343-2082-41e1-aa2d-2d7fbe1c7552-profile_image-300x300.png" tvg-website="https://verginatv.cy/" ,ΒΕΡΓΙΝΑ ΤV (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/cy/verginacyimage.php|webepg zoom=100 scroll=0,100
 
-
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,ΠΡΟΣΟΧΗ!!!!!!!!!!
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αυτή η έκδοση θα λήξη 31/8/25.
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αναβαθμίσετε την εφαρμογή στην έκδοση 3.40_1
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,===== ΔΙΑΔΙΚΤΥΑΚΑ ====
 http://.....
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"   tvg-id="ert-news" tvg-logo="https://files.app.ertflix.gr/files/channels/ertnews-logo-800x300-f2.png?m=resize&w=200&h=80" tvg-name="ΕΡΤ News" tvg-website="https://www.ertflix.gr" ,ΕΡΤ News
@@ -396,6 +425,12 @@ https://fr.crystalweb.net:1936/grdchannel/grdchannel/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" ,Choice TV!
 https://eu1.streams.gr:8081/choicetv/index.m3u8
 
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,ΠΡΟΣΟΧΗ!!!!!!!!!!
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αυτή η έκδοση θα λήξη 31/8/25.
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αναβαθμίσετε την εφαρμογή στην έκδοση 3.40_1
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,===== ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ ====
 http://.....
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="http://www.anacon.org/app/img/faroscy.jpg" tvg-website="https://www.farosonair.com/" ,ΦΑΡΟΣ on Air
@@ -410,7 +445,12 @@ https://dev.aftermind.xyz/hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jr
 https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx
 
 
-
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,ΠΡΟΣΟΧΗ!!!!!!!!!!
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αυτή η έκδοση θα λήξη 31/8/25.
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αναβαθμίσετε την εφαρμογή στην έκδοση 3.40_1
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,=====   ΤΑΙΝΙΕΣ   ====
 http://.....
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacy" tvg-logo="https://i.ibb.co/bs7j4wR/extacy-tv-new-logo.png" tvg-name="Extacy TV" ,Extacy TV
@@ -441,7 +481,12 @@ https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
 https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
 
 
-
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,ΠΡΟΣΟΧΗ!!!!!!!!!!
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αυτή η έκδοση θα λήξη 31/8/25.
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αναβαθμίσετε την εφαρμογή στην έκδοση 3.40_1
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,=====   ΜΟΥΣΙΚΗ   ====
 http://.....
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://i.ibb.co/5MKkNgy/Screenshot-2023-11-15-160115.png" ,MAD World
@@ -501,7 +546,12 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/PXGqyLn.png" ,V2BEAT TV
 https://abr.de1se01.v2beat.live/playlist.m3u8
 
-
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,ΠΡΟΣΟΧΗ!!!!!!!!!!
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αυτή η έκδοση θα λήξη 31/8/25.
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αναβαθμίσετε την εφαρμογή στην έκδοση 3.40_1
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,=====   ΠΑΙΔΙΚΑ   ====
 http://.....
 
@@ -550,7 +600,12 @@ https://www.youtube.com/embed/CdlIyT-yDtI
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e5/Oddbods_logo.png" ,Oddbods (Youtube)
 https://www.youtube.com/@Oddbods/videos|webepg zoom=100 scroll=0,0
 
-
+#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,ΠΡΟΣΟΧΗ!!!!!!!!!!
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αυτή η έκδοση θα λήξη 31/8/25.
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αναβαθμίσετε την εφαρμογή στην έκδοση 3.40_1
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,=====   ΕΚΚΛΗΣΙΑΣΤΙΚΑ   ====
 http://.....
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-id="4Ε" tvg-logo="https://goo.gl/2eMR7A" tvg-website="https://tv4e.gr/index.php/" ,4E (Κ. ΜΑΚΕΔΟΝΙΑΣ )
@@ -574,7 +629,12 @@ https://www.youtube.com/@ekklisiaonline/streams|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-logo="https://yt3.googleusercontent.com/Rm8PLT_78FNBlVKyRrg_ceh23gUnANIKCWzMYC5rxXc5ZKeW1PlpR3AcrEDArgnnDHvNQcUtZtg=s176-c-k-c0x00ffffff-no-rj" ,ΕΚΚΛΗΣΙΑ ONLINE NEWS LIVE (YOUTUBE)
 https://www.youtube.com/@ekklisianews/streams|webepg zoom=100 scroll=0,0
 
-
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,ΠΡΟΣΟΧΗ!!!!!!!!!!
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αυτή η έκδοση θα λήξη 31/8/25.
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αναβαθμίσετε την εφαρμογή στην έκδοση 3.40_1
+https://i.ibb.co/zYVnfWJ/warngr.png|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,=====   ΔΙΕΘΝΗ ΔΙΚΤΥΑ    ====
 http://.....
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="ert" tvg-logo="https://i.ibb.co/2Z6rFsL/ERT-WORLD.jpg"  tvg-name="ΕΡΤ WORLD" tvg-website="https://www.ertflix.gr" ,ΕΡΤ WORLD WebTV
