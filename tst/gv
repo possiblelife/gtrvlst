@@ -368,7 +368,7 @@ http://theagenis.fhw.gr:8080/hls/maintv/index.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/hellenic_tv.png" tvg-website="https://www.hellenictv.net/" ,Hellenic TV
 https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/lapsi.png" tvg-website="https://www.gamostv.eu/" ,Λάμψη Tv
-https://livetv.streams.ovh:8081/lampsitv/index.m3u8
+https://pro.free.hr:3343/live/l1llive.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/iview.png" ,i-view TV
 https://www.twitch.tv/iviewtvgr|webdig
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logs/village.png"  ,VILLAGE WORLD
