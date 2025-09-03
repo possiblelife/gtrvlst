@@ -324,9 +324,9 @@ http://.....
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"   tvg-id="ert-news" tvg-logo="hub://logs/ertnews.png" tvg-name="ΕΡΤ News" tvg-website="https://www.ertflix.gr" ,ΕΡΤ News
 https://ertflix.akamaized.net/ertlive/ertnews/default/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"   tvg-id="ert-news" tvg-logo="hub://logs/ertnews.png" tvg-name="ΕΡΤ News" tvg-website="https://www.ertflix.gr" ,ΕΡΤ News (1)
-http://195.226.218.10/vid/ertnews/mpeg.2ts
+https://telmaco-cdn.akamaized.net/ertnews-cc/index.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"   tvg-id="ert-news" tvg-logo="hub://logs/ertnews.png" tvg-name="ΕΡΤ News" tvg-website="https://www.ertflix.gr" ,ΕΡΤ News (2)
-http://hbbtvapp.ert.gr/stream.php/v/vid_ertnews_mpeg.2ts
+http://ertflix.akamaized.net/ertlive/ertsports3/default/index.mpd
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/ertnews.png" tvg-website="https://www.ertflix.gr" ,ΕΡΤ News 2
 http://ertflix.akamaized.net/ertlive/ertnews2/default/index.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/ertnews.png" tvg-website="https://www.ertflix.gr" ,ΕΡΤ News 3
