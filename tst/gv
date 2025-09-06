@@ -418,6 +418,8 @@ https://eu1.servers10.com:8081/8386/index.m3u8
 https://eu1.servers10.com:8081/8388/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="zeys" tvg-logo="hub://logs/zeys.png" ,ΖΕΥΣ CHANNEL
 https://eu1.servers10.com:8081/8194/index.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="super" tvg-logo="hub://logs/tvsuper.png" ,Super TV
+https://eu1.servers10.com:8081/8196/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/nettv.png" ,NETV TORONTO
 https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/nettv.png" ,NETV EUROPE
