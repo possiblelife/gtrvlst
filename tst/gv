@@ -65,11 +65,11 @@ https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="maktv" tvg-logo="hub://logs/mak-tv.png" tvg-name="M.TV HD" tvg-website="https://watch.antennaplus.gr/#/" ,M.TV HD (GREECE ONLY)
 https://lcdn.antennaplus.gr/r444865966c0847fca53b9b0c133af7a9/eu-central-1/6415884360001/playlist_dvr.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="vouli" tvg-logo="hub://logs/VOULI.png" tvg-name="ΒΟΥΛΗ" tvg-website="https://www.hellenicparliament.gr/el/" ,ΒΟΥΛΗ
-https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+https://diavlos3.cnt.grnet.gr/parltv/webtv-1.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-logo="hub://logs/VOULI.png" tvg-name="ΒΟΥΛΗ" tvg-website="https://www.hellenicparliament.gr/el/" ,ΒΟΥΛΗ2
-https://streamer-cache.grnet.gr/parliament/hls/webtv2.m3u8
+https://diavlos3.cnt.grnet.gr/parltv/webtv-2.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-logo="hub://logs/VOULI.png" tvg-name="ΒΟΥΛΗ" tvg-website="https://www.hellenicparliament.gr/el/" ,ΒΟΥΛΗ3
-https://streamer-cache.grnet.gr/parliament/hls/webtv3.m3u8
+https://diavlos3.cnt.grnet.gr/parltv/webtv-3.sdp/playlist.m3u8
 
 
 
@@ -447,6 +447,8 @@ https://eu1.streams.gr:8081/choicetv/index.m3u8
 http://.....
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/mad_workd.png" ,MAD World
 https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/mad.png" ,MAD
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Mad.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/ertmusic.png" tvg-name="ErtFlix Music" ,ErtFlix Music
 http://195.226.218.163/vid/ertplay5/mpeg.2ts
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/ertmusic.png" tvg-name="ErtFlix Music" ,ErtFlix Music (2)
