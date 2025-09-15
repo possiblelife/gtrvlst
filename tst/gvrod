@@ -321,8 +321,6 @@ SERIES$$hub://gvrod/skai/ekpompes/i-ellada-psifizei.txt
 SERIES$$hub://gvrod/skai/ekpompes/pet-stories.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/docs/skotini_dekaetia/skoteinh_dekaetia_1280x720.jpg" tvg-website="https://www.skai.gr/tv/show/ntokimanter/skoteini-dekaetia-1964-1974/sezon-2024-2025#tab1" ,Σκοτεινή Δεκαετία 1964-1974 (2024-2025)
 SERIES$$hub://gvrod/skai/ekpompes/skoteini-dekaetia-1964-1974.txt
-#EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/still_standing/logos/ss_land.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/still-standing/sezon-2024-2025" ,Still Standing (2023-2024)
-SERIES$$hub://gvrod/skai/ekpompes/still-standing.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV  Photo archive/tv_photos_980_400/psyxagwgia_2/oragiafagito2.jpg"  tvg-website="https://www.skai.gr/tv/show/psuchagogia/ora-gia-fagito/sezon-2020-2021" ,Ώρα Για Φαγητό με την Αργυρώ(2020-2022)
 SERIES$$hub://gvrod/skai/ekpompes_arxio/ora-gia-fagito.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV  Photo archive/tv_photos_980_400/psyxagwgia_2/psixouli_landscape.jpg"  tvg-website="https://www.skai.gr/tv/show/psuchagogia/suntages-psuchis/archeio#tab1" ,Συνταγές Ψυχής(2020-2021)
@@ -798,22 +796,22 @@ SERIES$$hub://gvrod/mega/ekpompes/al-tsantiri-niouz.txt
 SERIES$$hub://gvrod/mega/ekpompes/buongiorno.txt
 #EXTINF:-1 group-title="MEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2022/09/ellinikestainiesposter-1.png" tvg-website="https://www.megatv.com/ekpompes/506423/the-chase/" ,The Chase
 SERIES$$hub://gvrod/mega/ekpompes/the-chase.txt
-#EXTINF:-1 group-title="MEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2022/09/POSTER_AKOMA-2.jpg" tvg-website="https://www.megatv.com/ekpompes/1154246/akoma-den-eides-tipota/" ,Ακόμα Δεν Είδες Τίποτα!
-SERIES$$hub://gvrod/mega/ekpompes/akoma-den-eides-tipota.txt
-#EXTINF:-1 group-title="MEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2023/11/POSTER__ΜΙΑΦΟΡΑΣΤΑΔΕΚΑΧΡΟΝΙΑ-copy.jpg" tvg-website="https://www.megatv.com/ekpompes/1253207/mia-fora-sta-10-xronia/" ,Μια Φορά στα 10 Χρόνια
-SERIES$$hub://gvrod/mega/ekpompes/mia-fora-sta-10-xronia.txt
-#EXTINF:-1 group-title="MEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2022/09/ΟΛΑ-ΓΙΑ-ΤΗ-ΖΩΗ-ΜΑΣ.jpg" tvg-website="https://www.megatv.com/ekpompes/510160/ola-gia-ti-zoi-mas/" ,Όλα για τη Ζωή μας Vita
-SERIES$$hub://gvrod/mega/ekpompes/ola-gia-ti-zoi-mas.txt
-#EXTINF:-1 group-title="MEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2022/09/POSTER_DANAH.jpg" tvg-website="https://www.megatv.com/ekpompes/55262/pame-danai/" ,Πάμε Δανάη!
-SERIES$$hub://gvrod/mega/ekpompes/pame-danai.txt
-#EXTINF:-1 group-title="MEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2021/06/POSTER_SPITI_MEGA_XATZHGIANNHS-copy.jpg" tvg-website="https://www.megatv.com/ekpompes/119434/spiti-me-to-mega/" ,Σπίτι με το Mega
-SERIES$$hub://gvrod/mega/ekpompes/spiti-me-to-mega.txt
 #EXTINF:-1 group-title="MEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2022/09/ΦΩΣ-ΣΤΟ-ΤΟΥΝΕΛ-2.jpg" tvg-website="https://www.megatv.com/ekpompes/457727/fos-sto-tounel/" ,Φως Στο Τούνελ
 SERIES$$hub://gvrod/mega/ekpompes/fos-sto-tounel.txt
 #EXTINF:-1 group-title="MEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2022/09/ellinikestainiesposter.png" tvg-website="https://www.megatv.com/ekpompes/482979/xamogela-kai-pali/" ,Χαμογέλα και Πάλι!
 SERIES$$hub://gvrod/mega/ekpompes/xamogela-kai-pali.txt
+#EXTINF:-1 group-title="MEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2022/09/POSTER_AKOMA-2.jpg" tvg-website="https://www.megatv.com/ekpompes/1154246/akoma-den-eides-tipota/" ,Ακόμα Δεν Είδες Τίποτα!
+SERIES$$hub://gvrod/mega/ekpompes_arxio/akoma-den-eides-tipota.txt
+#EXTINF:-1 group-title="MEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2023/11/POSTER__ΜΙΑΦΟΡΑΣΤΑΔΕΚΑΧΡΟΝΙΑ-copy.jpg" tvg-website="https://www.megatv.com/ekpompes/1253207/mia-fora-sta-10-xronia/" ,Μια Φορά στα 10 Χρόνια
+SERIES$$hub://gvrod/mega/ekpompes_arxio/mia-fora-sta-10-xronia.txt
+#EXTINF:-1 group-title="MEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2022/09/ΟΛΑ-ΓΙΑ-ΤΗ-ΖΩΗ-ΜΑΣ.jpg" tvg-website="https://www.megatv.com/ekpompes/510160/ola-gia-ti-zoi-mas/" ,Όλα για τη Ζωή μας Vita
+SERIES$$hub://gvrod/mega/ekpompes_arxio/ola-gia-ti-zoi-mas.txt
+#EXTINF:-1 group-title="MEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2022/09/POSTER_DANAH.jpg" tvg-website="https://www.megatv.com/ekpompes/55262/pame-danai/" ,Πάμε Δανάη!
+SERIES$$hub://gvrod/mega/ekpompes_arxio/pame-danai.txt
+#EXTINF:-1 group-title="MEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2021/06/POSTER_SPITI_MEGA_XATZHGIANNHS-copy.jpg" tvg-website="https://www.megatv.com/ekpompes/119434/spiti-me-to-mega/" ,Σπίτι με το Mega
+SERIES$$hub://gvrod/mega/ekpompes_arxio/spiti-me-to-mega.txt
 #EXTINF:-1 group-title="MEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2020/10/MEGA_STORIES-3.jpg" tvg-website="https://www.megatv.com/ekpompes/145561/mega-stories/" ,Mega Stories
-SERIES$$hub://gvrod/mega/ekpompes/mega-stories.txt
+SERIES$$hub://gvrod/mega/ekpompes_arxio/mega-stories.txt
 
 
 
