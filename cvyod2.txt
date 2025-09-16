@@ -213,6 +213,10 @@ http://.....
 
 #EXTINF:-1 group-title="ALPHA ΕΚΠΟΜΠΕΣ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΟΛΕΣ ΟΙ ΕΚΠΟΜΠΕΣ
 https://www.alphacyprus.com.cy/index.php/shows/entertainment|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/islandescapers.jpg?itok=wHPl_9Ht" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/islandescapers" ,ISLAND ESCAPERS
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/alpha/ekpompes/islandescapers.txt
+#EXTINF:-1 group-title="ALPHA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/noleftovers.jpg?itok=BgT9ufXF" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/noleftovers" ,NO LEFTOVERS
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/alpha/ekpompes/noleftovers.txt
 #EXTINF:-1 group-title="ALPHA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/christianaaristostelous-3.jpg?itok=364xofsL" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv" ,ΜΕ ΑΓΑΠΗ ΧΡΙΣΤΙΑΝΑ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/alpha/ekpompes/meagapichristiana.txt
 #EXTINF:-1 group-title="ALPHA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/louis-4.jpg?itok=UD6JhVK-" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv" ,ΛΟΥΗΣ NIGHT SHOW
@@ -225,6 +229,8 @@ SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/alpha/
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/alpha/ekpompes/poiosrwtaei.txt
 #EXTINF:-1 group-title="ALPHA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/tetatet.jpg?itok=155jiGKa" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv" ,ΤΕΤ-Α-ΤΕΤ ΣΤΟΝ ALPHA
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/alpha/ekpompes/tetatet.txt
+#EXTINF:-1 group-title="ALPHA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/sn-1_0.jpg?itok=rpWqj5kP" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/sundaynight" ,SUNDAY NIGHT
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/alpha/ekpompes/sundaynight.txt
 #EXTINF:-1 group-title="ALPHA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/secretsong.jpg?itok=I10wtvn4" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/thesecretsong/webtv" ,THE SECRET SONG
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/alpha/ekpompes_arxio/thesecretsong.txt
 #EXTINF:-1 group-title="ALPHA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/Just%20the%202%20of%20Us.jpg?itok=s2FrP38l" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/j2us/webtv" ,JUST THE 2 OF US
@@ -657,12 +663,16 @@ http://.....
 
 #EXTINF:-1 group-title="OMEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΟΛΕΣ ΟΙ ΕΚΠΟΜΠΕΣ
 https://www.omegatv.com.cy/cgibin/hweb?-V=tvshows&_FCATEGORY%3E=110001&_FCATEGORY%3C=110004&-Sr&-dtvshows.html&_VSECTION=7010|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="OMEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/portal-image.png" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=215588&-V=tvshows" ,ΠΑΜΕ ΠΑΡΕΑ
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/ekpompes/pameparea.txt
 #EXTINF:-1 group-title="OMEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/aixmes.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=157455&-V=tvshows" ,ΑΙΧΜΕΣ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/ekpompes/aixmes.txt
 #EXTINF:-1 group-title="OMEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/elanadeis-1-.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=149616&-V=tvshows" ,ΕΛΑ ΝΑ ΔΕΙΣ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/ekpompes/elanadeis-1-.txt
 #EXTINF:-1 group-title="OMEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/stavris-650x420.png" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=165385&-V=tvshows" ,ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/ekpompes/stavris.txt
+#EXTINF:-1 group-title="OMEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/cuisinovia.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=207576&-V=tvshows" ,CUISINOVIA
+SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/ekpompes/cuisinovia.txt
 #EXTINF:-1 group-title="OMEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/social-experiment-100x650-v1.png" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=207299&-V=tvshows" ,THE SOCIAL EXPERIMENT
 SERIES$$https://raw.githubusercontent.com/possiblelife/gtrvlst/main/cvyod/omega/ekpompes_arxio/social-experiment.txt
 #EXTINF:-1 group-title="OMEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/defacto-press.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=185851&-V=tvshows" ,DE FACTO
