@@ -264,19 +264,19 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=195525&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=195695&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 3",Σεζόν 03 Επεισόδιο 045 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
 https://www.omegatv.com.cy/cgibin/hweb?-A=195959&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 4",Σεζόν 04 Επεισόδιο 001 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
+#EXTINF:-1 group-title="Season 4",Σεζόν 04 Επεισόδιο 001 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - CHEESECAKE ME ΒΕΡΙΚΟΚΟ. ΣΑΛΑΤΑ ΜΕ ΒΕΡΙΚΟΚΟ, ΧΟΙΡΙΝΟ ΜΕ ΒΕΡΙΚΟΚΑ
 https://www.omegatv.com.cy/cgibin/hweb?-A=197569&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 4",Σεζόν 04 Επεισόδιο 002 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
+#EXTINF:-1 group-title="Season 4",Σεζόν 04 Επεισόδιο 002 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - ΚΕΙΚ ΓΕΩΓΡΑΦΙΑΣ. CHICKEN SANDWICH, ΜΑΚΑΡΟΝΙΑ ΜΕ ΚΙΜΑ
 https://www.omegatv.com.cy/cgibin/hweb?-A=197728&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 4",Σεζόν 04 Επεισόδιο 003 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
+#EXTINF:-1 group-title="Season 4",Σεζόν 04 Επεισόδιο 003 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - ΝΤΟΜΑΤΟΣΑΛΑΤΑ ΜΕ ΠΕΣΤΟ,ΝΤΟΜΑΤΟΚΕΦΤΕΔΕΣ,ΜΟΣΧΑΡΙ ΚΟΚΚΙΝΙΣΤΟ
 https://www.omegatv.com.cy/cgibin/hweb?-A=197900&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 4",Σεζόν 04 Επεισόδιο 004 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
+#EXTINF:-1 group-title="Season 4",Σεζόν 04 Επεισόδιο 004 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - APPLE CAKE, APPLE CINNAMON TOAST , APPLE PIE
 https://www.omegatv.com.cy/cgibin/hweb?-A=198073&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 4",Σεζόν 04 Επεισόδιο 005 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
+#EXTINF:-1 group-title="Season 4",Σεζόν 04 Επεισόδιο 005 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - PAELLIA, ΣΠΑΝΑΚΟΡΥΖΟ, ΡΥΖΟΓΑΛΟ
 https://www.omegatv.com.cy/cgibin/hweb?-A=198282&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 4",Σεζόν 04 Επεισόδιο 006 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
+#EXTINF:-1 group-title="Season 4",Σεζόν 04 Επεισόδιο 006 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ -ΜΕΛΙΤΖΑΝΕΣ ΚΟΚΚΙΝ.,ΜΕΛΙΤΖΑΝΟΣΑΛΑΤΑ ΜΕ ΚΑΛΑΜΑΡΙ, ΜΕΛΙΤΖ. ΠΟΜΙΛΟΡΙ
 https://www.omegatv.com.cy/cgibin/hweb?-A=198425&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 4",Σεζόν 04 Επεισόδιο 007 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
+#EXTINF:-1 group-title="Season 4",Σεζόν 04 Επεισόδιο 007 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - ΚΕΙΚ ΜΕ ΚΟΛΟΚΥΘΙ, ΚΟΛΟΚΥΘΙΑ ΓΕΜΙΣΤΑ ΑΥΓΟΛΕΜΟΝΟ, ΚΟΛΟΚΥΘΟΚΕΦΤΕΔΕΣ
 https://www.omegatv.com.cy/cgibin/hweb?-A=198576&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 4",Σεζόν 04 Επεισόδιο 008 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
 https://www.omegatv.com.cy/cgibin/hweb?-A=198795&-V=vod|webfulldig
@@ -356,129 +356,95 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=204758&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=205354&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 001 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ -  Apple Crumble, ΣΤΡΟΥΝΤΕΛ ΜΗΛΟΥ,Μηλόπιτα
 https://www.omegatv.com.cy/cgibin/hweb?-A=206440&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 002 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Σπιτικές κοτομπ, Σάντ. με γαλοπούλα Γρηγορίου, 
-Μπάρες με φυστικο
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 002 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Σπιτικές κοτομπ, Σάντ. με γαλοπούλα Γρηγορίου, Μπάρες με φυστικο
 https://www.omegatv.com.cy/cgibin/hweb?-A=206721&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 003 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Cinnamon Roll, Δανέζικα ρολάκια με κανέλα & 
-σταφ., κουλ. κανελα
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 003 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Cinnamon Roll, Δανέζικα ρολάκια με κανέλα & σταφ., κουλ. κανελα
 https://www.omegatv.com.cy/cgibin/hweb?-A=207025&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 004 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Corn dog, Noodles με τζίντζερ και σόγια, Μπισκότα 
-με τζίντζερ
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 004 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Corn dog, Noodles με τζίντζερ και σόγια, Μπισκότα με τζίντζερ
 https://www.omegatv.com.cy/cgibin/hweb?-A=207049&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 005 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - pistachio cookie, dubai cheesecake,pistachio 
-tiramisu
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 005 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - pistachio cookie, dubai cheesecake,pistachio tiramisu
 https://www.omegatv.com.cy/cgibin/hweb?-A=207192&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 006 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Μακαρονια Τρικολορε, Ριγκατόνι Αλφρέντο, λινγκ.ι 
-με θαλασσινα
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 006 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Μακαρονια Τρικολορε, Ριγκατόνι Αλφρέντο, λινγκ.ι με θαλασσινα
 https://www.omegatv.com.cy/cgibin/hweb?-A=207367&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 007 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Σάντουιτς με Virginia ham, Χοιρινά παϊδάκια,Γύρος 
-χοιρινός
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 007 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Σάντουιτς με Virginia ham, Χοιρινά παϊδάκια,Γύρος χοιρινός
 https://www.omegatv.com.cy/cgibin/hweb?-A=207488&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 008 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Κέικ με αχλάδια, Αχλάδι ποσέ με λευκή σοκολάτα
 https://www.omegatv.com.cy/cgibin/hweb?-A=207705&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 009 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ -Τυροκαυτ. φέτα & κρ.τυρί, Αρνάκι γιαχνί με πατ. & 
-ρεβίθια, ραβανί
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 009 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ -Τυροκαυτ. φέτα & κρ.τυρί, Αρνάκι γιαχνί με πατ. & ρεβίθια, ραβανί
 https://www.omegatv.com.cy/cgibin/hweb?-A=207910&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 010 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ-Λουβί σαλ. με λάχ., Saccottini 4 τυριά με σάλτσ.μαν/
-ριών, καραμελέ
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 010 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ-Λουβί σαλ. με λάχ., Saccottini 4 τυριά με σάλτσ.μαν/ριών, καραμελέ
 https://www.omegatv.com.cy/cgibin/hweb?-A=208034&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 011 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Πουργ. με κυπρ. λουκάνικα,Παστίτσιο μακ του 
-φούρνου, Πορτο/πιτα
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 011 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Πουργ. με κυπρ. λουκάνικα,Παστίτσιο μακ του φούρνου, Πορτο/πιτα
 https://www.omegatv.com.cy/cgibin/hweb?-A=208212&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 012 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Σαλάτα με γαρίδες, Γαρίδες σαγ.,Γαρίδες tempura 
-με πικ. μαγιονέζα
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 012 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Σαλάτα με γαρίδες, Γαρίδες σαγ.,Γαρίδες tempura με πικ. μαγιονέζα
 https://www.omegatv.com.cy/cgibin/hweb?-A=208373&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 013 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Σαλάτα superfood, Μοσχ.α μπιφτέκια με πατ. 
-φούρνου, Κέικ μπαν.
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 013 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Σαλάτα superfood, Μοσχ.α μπιφτέκια με πατ. φούρνου, Κέικ μπαν.
 https://www.omegatv.com.cy/cgibin/hweb?-A=208535&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 014 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Ρολό με κιμά και πατάτες φούρνου, Γλυκό ψωμάκι 
-μπριός με σοκολάτα
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 014 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Ρολό με κιμά και πατάτες φούρνου, Γλυκό ψωμάκι μπριός με σοκολάτα
 https://www.omegatv.com.cy/cgibin/hweb?-A=208684&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 015 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Ψαρόσουπα, Φακές με κριθαράκι και σπανάκι, 
-Ελιόπιτα
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 015 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Ψαρόσουπα, Φακές με κριθαράκι και σπανάκι, Ελιόπιτα
 https://www.omegatv.com.cy/cgibin/hweb?-A=208907&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 016 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Σκορδόψωμο, Gammon , Black forest Swiss roll
 https://www.omegatv.com.cy/cgibin/hweb?-A=209069&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 017 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ  - Γαλοπούλα στο τηγάνι , Christmas toffee pouting
 https://www.omegatv.com.cy/cgibin/hweb?-A=209375&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 018 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Σούπα μανιταριών , Βασιλόπιτα, Αρνάκι κότσι στο 
-φούρνο
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 018 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Σούπα μανιταριών , Βασιλόπιτα, Αρνάκι κότσι στο φούρνο
 https://www.omegatv.com.cy/cgibin/hweb?-A=209669&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 019 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Τηγανιά με λουκάνικα, Λουκουμάδες ,Δίπλες
 https://www.omegatv.com.cy/cgibin/hweb?-A=209693&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 020 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Tabbouleh, Shawarma, Osmalieh
 https://www.omegatv.com.cy/cgibin/hweb?-A=209860&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 021 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Cheese cake με λεύκη σοκολάτας, Σοκολατόπιτα 
-,Τούρτα σοκολάτας
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 021 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Cheese cake με λεύκη σοκολάτας, Σοκολατόπιτα ,Τούρτα σοκολάτας
 https://www.omegatv.com.cy/cgibin/hweb?-A=210118&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 022 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Φασολάκι γιαχνί, Κολοκυθόσουπα βελ., Ριζότο 
-κολοκ., Μανιτάρια φρ.
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 022 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Φασολάκι γιαχνί, Κολοκυθόσουπα βελ., Ριζότο κολοκ., Μανιτάρια φρ.
 https://www.omegatv.com.cy/cgibin/hweb?-A=210189&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 023 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Ψωμί focaccia Ντομ. & δεντρολ.,Στριφ.
-σπανακ. φέτα, Μπουγ. με κρ.
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 023 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Ψωμί focaccia Ντομ. & δεντρολ.,Στριφ.σπανακ. φέτα, Μπουγ. με κρ.
 https://www.omegatv.com.cy/cgibin/hweb?-A=210348&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 024 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Σαλ. μπουράτα, Μακαρονάδα 
-με ψαρον.& μανιτ, Μους σοκ.
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 024 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Σαλ. μπουράτα, Μακαρονάδα με ψαρον.& μανιτ, Μους σοκ.
 https://www.omegatv.com.cy/cgibin/hweb?-A=210502&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 025 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Χωριάτικη Σαλ. & ταχίνι,Ποικιλία σχάρας,  
-Πίττες της σάτζης
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 025 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Χωριάτικη Σαλ. & ταχίνι,Ποικιλία σχάρας,  Πίττες της σάτζης
 https://www.omegatv.com.cy/cgibin/hweb?-A=210624&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 026 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Μπρουσκέτες με καπνιστό σολομό, Poke bowl, Light 
-Πανακότα
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 026 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Μπρουσκέτες με καπνιστό σολομό, Poke bowl, Light Πανακότα
 https://www.omegatv.com.cy/cgibin/hweb?-A=210902&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 027 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Καλαμάρι Αγιορείτικο, Λαγάνα, Χούμους με 
-παντζάρι, Πουρέκια
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 027 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Καλαμάρι Αγιορείτικο, Λαγάνα, Χούμους με παντζάρι, Πουρέκια
 https://www.omegatv.com.cy/cgibin/hweb?-A=211155&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 028 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Σκορδοψωμο σε ψωμακι brioche. Schnitzel με 
-πατάτες. κεικ βανίλιας
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 028 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Σκορδοψωμο σε ψωμακι brioche. Schnitzel με πατάτες. κεικ βανίλιας
 https://www.omegatv.com.cy/cgibin/hweb?-A=211298&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 029 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ -  Ταχινόπιτα ταψιού, Μυδοπίλαφο, Φασόλια γίγαντες
 https://www.omegatv.com.cy/cgibin/hweb?-A=211368&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 030 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
--πατατοπαντζαροσαλάτα,μπακαλιάρος ΣΚΟΡΔΑΛΙΑ, ΧΑΛΒΑΣ ΚΑΤΣΑΡΟΛΑΣ
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 030 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ-πατατοπαντζαροσαλάτα,μπακαλιάρος ΣΚΟΡΔΑΛΙΑ, ΧΑΛΒΑΣ ΚΑΤΣΑΡΟΛΑΣ
 https://www.omegatv.com.cy/cgibin/hweb?-A=211799&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 031 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
--ΝΗΣΤΙΣΙΜΑ ΓΕΜΙΣΤΑ,ΤΗΓΑΝΗΤΟ ΚΑΛΑΜΑΡΙ ΜΕ ΤΑΡΑΜΑ,ΝΗΣΤΙΣΙΜΗ 
-ΔΟΥΚΙΣΣΑ
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 031 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ-ΝΗΣΤΙΣΙΜΑ ΓΕΜΙΣΤΑ,ΤΗΓΑΝΗΤΟ ΚΑΛΑΜΑΡΙ ΜΕ ΤΑΡΑΜΑ,ΝΗΣΤΙΣΙΜΗ ΔΟΥΚΙΣΣΑ
 https://www.omegatv.com.cy/cgibin/hweb?-A=211828&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 032 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
--πασχαλινή σαλάτα με αυγά, αρνί στη λαδόκολλα, τσουρέκι
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 032 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ-πασχαλινή σαλάτα με αυγά, αρνί στη λαδόκολλα, τσουρέκι
 https://www.omegatv.com.cy/cgibin/hweb?-A=212011&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 033 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
--παραδοσιακές φλαούνες, παστίτσιο
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 033 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ-παραδοσιακές φλαούνες, παστίτσιο
 https://www.omegatv.com.cy/cgibin/hweb?-A=212100&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 034 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
--Πίτα σούβλα και τυριά,Αναρόκρεμα με λευκή σοκολάτα ,Ρόλο μπακλαβά
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 034 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ-Πίτα σούβλα και τυριά,Αναρόκρεμα με λευκή σοκολάτα ,Ρόλο μπακλαβά
 https://www.omegatv.com.cy/cgibin/hweb?-A=212472&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 035 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
--ΣΦΑΚΙΑΝΗ ΠΙΤΑ, BAO BUNS, BROWNIES ΠΡΩΤΕΪΝΗΣ
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 035 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ-ΣΦΑΚΙΑΝΗ ΠΙΤΑ, BAO BUNS, BROWNIES ΠΡΩΤΕΪΝΗΣ
 https://www.omegatv.com.cy/cgibin/hweb?-A=212498&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 036 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
--Ντόνατς, Τυρόπιτα, Πουτίγκα
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 036 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ-Ντόνατς, Τυρόπιτα, Πουτίγκα
 https://www.omegatv.com.cy/cgibin/hweb?-A=212653&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 037 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
--Κοτόπουλο αλα κρεμ, Πέννες με τόνο, Τιραμισού
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 037 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ-Κοτόπουλο αλα κρεμ, Πέννες με τόνο, Τιραμισού
 https://www.omegatv.com.cy/cgibin/hweb?-A=212821&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 038 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
--Σαλάτα με noodles, Σολομός teriyaki, Μπάρες λεμονιού
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 038 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ-Σαλάτα με noodles, Σολομός teriyaki, Μπάρες λεμονιού
 https://www.omegatv.com.cy/cgibin/hweb?-A=212982&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 039 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
--Σαλάτα του Καίσαρα-Κοτόπουλο λεμονάτο -Ανάποδο Cheesecake
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 039 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ-Σαλάτα του Καίσαρα-Κοτόπουλο λεμονάτο -Ανάποδο Cheesecake
 https://www.omegatv.com.cy/cgibin/hweb?-A=213268&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 040 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
--Ομελέτα με γαλοπούλα και cottage cheese -Cheese steak
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 040 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ-Ομελέτα με γαλοπούλα και cottage cheese -Cheese steak
 https://www.omegatv.com.cy/cgibin/hweb?-A=213311&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 041 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
--Κολοκυθοκεφτέδες-Club sandwich-Παγωτό με Χουρμάδες
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 041 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ-Κολοκυθοκεφτέδες-Club sandwich-Παγωτό με Χουρμάδες
 https://www.omegatv.com.cy/cgibin/hweb?-A=213625&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 042 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
--Σαλάτα Caprese-Hot honey pizza-Γλυκιά pizza
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 042 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ-Σαλάτα Caprese-Hot honey pizza-Γλυκιά pizza
 https://www.omegatv.com.cy/cgibin/hweb?-A=213828&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 043 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
-- Monte Cristo French toast, Γλώσσα μενιέρ, Μιλφέιγ
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 043 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ- Monte Cristo French toast, Γλώσσα μενιέρ, Μιλφέιγ
 https://www.omegatv.com.cy/cgibin/hweb?-A=214039&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 044 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - Πάπια, Παγωτίνια, Σοκολατάκια με φιστίκια και καραμέλα
+https://www.omegatv.com.cy/cgibin/hweb?-A=215543&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 5",Σεζόν 05 Επεισόδιο 045 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ-Σαλάτα Ντάκος, χταπόδι ξυδάτο,  Κριθαράκι με γαρίδες, Μαχαλεπί
+https://www.omegatv.com.cy/cgibin/hweb?-A=215546&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 6",Σεζόν 06 Επεισόδιο 001 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ Σαλάτα με τυρί ,Χοιρινό /  Energy balls, Ραβιόλες στο φούρνο
 https://www.omegatv.com.cy/cgibin/hweb?-A=215773&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 6",Σεζόν 06 Επεισόδιο 002 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
--Κουπέπια/Χοιρινα φιλετάκια με κουμανταρία και λαχανικά/Ρυζόγαλο
+#EXTINF:-1 group-title="Season 6",Σεζόν 06 Επεισόδιο 002 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ-Κουπέπια/Χοιρινα φιλετάκια με κουμανταρία και λαχανικά/Ρυζόγαλο
 https://www.omegatv.com.cy/cgibin/hweb?-A=215992&-V=vod|webfulldig
