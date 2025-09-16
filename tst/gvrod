@@ -5,24 +5,25 @@ http://.....
 
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.alphatv.gr/web-tv/|webvod zoom=100 scroll=0,0
+
+#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2024-2025/ELLHNIKES/AGIOS-EROTAS/THUMB/THUMBNAILS_AGIOS.png" tvg-website="https://www.alphatv.gr/show/agios-erotas/" tvg-description="hub://desc/Alpha/Άγιος.έρωτας.(2024-2025)" ,ΑΓΙΟΣ ΕΡΩΤΑΣ (Aphatv μόνο) (2024-2026)
+SERIES$$hub://gvrod/alpha/sires/agios-erotas.txt
+#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2024-2025/ELLHNIKES/AGIOS-EROTAS/THUMB/THUMBNAILS_AGIOS.png" tvg-website="https://www.alphatv.gr/show/agios-erotas/" tvg-description="hub://desc/Alpha/Άγιος.έρωτας.(2024-2025)" ,ΑΓΙΟΣ ΕΡΩΤΑΣ (2024-2026)
+SERIES$$hub://gvrod/alpha/sires/Άγιος.έρωτας.(2024-2025)
+#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2024-2025/ELLHNIKES/GIATROS/THUMB/THUMBNAILS_GIATROS_1.png" tvg-website="https://www.alphatv.gr/show/o-giatros/" tvg-description="hub://desc/Alpha/Ο.γιατρός.(2023-2025)" ,Ο ΓΙΑΤΡΟΣ (2024-2026)
+SERIES$$hub://gvrod/alpha/sires/Ο.γιατρός.(2023-2024)
+#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2023-2024/SERIES/ELLINIKES/OIKOGENEIAKES/THUMBNAIL/THUMBNAILS_OIKOGEN.jpg" tvg-website="https://www.alphatv.gr/show/oikogeneiakes-istories/" tvg-description="hub://desc/Alpha/oikogeneiakes-istories" ,ΟΙΚΟΓΕΝΕΙΑΚΕΣ ΙΣΤΟΡΙΕΣ (2018-2026)
+SERIES$$hub://gvrod/alpha/sires/oikogeneiakes-istories.txt
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2024-2025/ELLHNIKES/DIAFANI/THUMB/THUMBNAILS_DIAFANH_1.png" tvg-website="https://www.alphatv.gr/show/diafani-agapi/" tvg-description="hub://desc/Alpha/Διάφανη.αγάπη.(2024-2025)" ,ΔΙΑΦΑΝΗ ΑΓΑΠΗ (Aphatv μόνο) (2024-2025)
 SERIES$$hub://gvrod/alpha/sires/diafani-agapi.txt
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2024-2025/ELLHNIKES/DIAFANI/THUMB/THUMBNAILS_DIAFANH_1.png" tvg-website="https://www.alphatv.gr/show/diafani-agapi/" tvg-description="hub://desc/Alpha/Διάφανη.αγάπη.(2024-2025)",ΔΙΑΦΑΝΗ ΑΓΑΠΗ (2024-2025)
 SERIES$$hub://gvrod/alpha/sires/Διάφανη.αγάπη.(2024)
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2024-2025/ELLHNIKES/TIMOROS/THUMB/THUMBNAILS_TIMOROS_1.png" tvg-website="https://www.alphatv.gr/show/o-timoros/" tvg-description="hub://desc/Alpha/Ο.τιμωρός.(2024-2025)" ,Ο ΤΙΜΩΡΟΣ (2024-2025)
 SERIES$$hub://gvrod/alpha/sires/Ο.τιμωρός.(2024-2025)
-#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2024-2025/ELLHNIKES/AGIOS-EROTAS/THUMB/THUMBNAILS_AGIOS.png" tvg-website="https://www.alphatv.gr/show/agios-erotas/" tvg-description="hub://desc/Alpha/Άγιος.έρωτας.(2024-2025)" ,ΑΓΙΟΣ ΕΡΩΤΑΣ (Aphatv μόνο) (2024-2025)
-SERIES$$hub://gvrod/alpha/sires/agios-erotas.txt
-#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2024-2025/ELLHNIKES/AGIOS-EROTAS/THUMB/THUMBNAILS_AGIOS.png" tvg-website="https://www.alphatv.gr/show/agios-erotas/" tvg-description="hub://desc/Alpha/Άγιος.έρωτας.(2024-2025)" ,ΑΓΙΟΣ ΕΡΩΤΑΣ (2024-2025)
-SERIES$$hub://gvrod/alpha/sires/Άγιος.έρωτας.(2024-2025)
-#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2024-2025/ELLHNIKES/GIATROS/THUMB/THUMBNAILS_GIATROS_1.png" tvg-website="https://www.alphatv.gr/show/o-giatros/" tvg-description="hub://desc/Alpha/Ο.γιατρός.(2023-2025)" ,Ο ΓΙΑΤΡΟΣ (2024-2025)
-SERIES$$hub://gvrod/alpha/sires/Ο.γιατρός.(2023-2024)
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2024-2025/ELLHNIKES/TZELA/THUMB/THUMB-TZELA-LOGO_NEW.jpg" tvg-website="https://www.alphatv.gr/show/i-katara-tis-tzelas-delafraga/" tvg-description="hub://desc/Alpha/Η.κατάρα.της.Τζέλας.Δελαφράγκα.(2024)" ,Η ΚΑΤΑΡΑ ΤΗΣ ΤΖΕΛΑΣ ΔΕΛΑΦΡΑΓΚΑ (2024)
 SERIES$$hub://gvrod/alpha/sires_arxio/Η.κατάρα.της.Τζέλας.Δελαφράγκα.(2024)
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2022-2023/SERIES/ELLINIKES/AMFIBOLIES/THUMBNAIL_AMFIVOLIES.png" tvg-website="https://www.alphatv.gr/show/amfivolies/" tvg-description="hub://desc/Alpha/Αμφιβολίες.(2022-2024)" ,ΑΜΦΙΒΟΛΙΕΣ (2022-2024)
 SERIES$$hub://gvrod/alpha/sires_arxio/Αμφιβολίες.(2022-2024)
-#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2023-2024/SERIES/ELLINIKES/OIKOGENEIAKES/THUMBNAIL/THUMBNAILS_OIKOGEN.jpg" tvg-website="https://www.alphatv.gr/show/oikogeneiakes-istories/" tvg-description="hub://desc/Alpha/oikogeneiakes-istories" ,ΟΙΚΟΓΕΝΕΙΑΚΕΣ ΙΣΤΟΡΙΕΣ (2018-2025)
-SERIES$$hub://gvrod/alpha/sires_arxio/oikogeneiakes-istories.txt
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2023-2024/SERIES/ELLINIKES/MOURMOURA/THUMB/THUMB-MOURMOURA.jpg" tvg-website="https://www.alphatv.gr/show/min-arxizeis-ti-moyrmoyra/" tvg-description="hub://desc/Alpha/Μην.αρχίζεις.τη.μουρμούρα.(2013-2024)" ,ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗ ΜΟΥΡΜΟΥΡΑ (2013-2024)
 SERIES$$hub://gvrod/alpha/sires_arxio/Μην.αρχίζεις.τη.μουρμούρα.(2013-2024)
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2022-2023/SERIES/ELLINIKES/SASMOS/THUMB/SMALL_SASMOS_7.png" tvg-website="https://www.alphatv.gr/show/sasmos/" tvg-description="hub://desc/Alpha/Σασμός.(2021-2024)" ,ΣΑΣΜΟΣ  (2021-2024)
@@ -229,8 +230,10 @@ http://.....
 
 #EXTINF:-1 group-title="ALPHA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΟΛΕΣ ΟΙ ΕΚΠΟΜΠΕΣ
 https://www.alphatv.gr/ekpompes/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ALPHA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2024-2025/SHOWS/MOUTSINAS/THUMB/THUMB_MOUTSINAS_1.png" tvg-website="https://www.alphatv.gr/show/nikos-moutsinas-vradiatika/" ,ΝΙΚΟΣ ΜΟΥΤΣΙΝΑΣ ΒΡΑΔΙΑΤΙΚΑ (2024-2025)
-SERIES$$hub://gvrod/alpha/ekpompes_arxio/nikos-moutsinas-vradiatika.txt
+
+
+#EXTINF:-1 group-title="ALPHA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2025-2026/SHOWS/SUPER-KATERINA/THUMB_KATEPINA.png" tvg-website="https://www.alphatv.gr/show/super-katerina/" ,SUPER ΚΑΤΕΡΙΝΑ (2021-2025)
+SERIES$$hub://gvrod/alpha/ekpompes/super-katerina.txt
 #EXTINF:-1 group-title="ALPHA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2024-2025/SHOWS/DEAL/PROMO/SMALL_DEAL_1.png" tvg-website="https://www.alphatv.gr/show/deal/" ,DEAL (2024-2025)
 SERIES$$hub://gvrod/alpha/ekpompes/deal.txt
 #EXTINF:-1 group-title="ALPHA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2024-2025/SHOWS/HAPPY/PROMO/SMALL_HAPPY_2.png" tvg-website="https://www.alphatv.gr/show/happy-day-ston-alpha/" ,HAPPY DAY ΣΤΟΝ ALPHA (2016-2025)
@@ -239,6 +242,12 @@ SERIES$$hub://gvrod/alpha/ekpompes/happy-day-ston-alpha.txt
 SERIES$$hub://gvrod/alpha/ekpompes/kitchen-lab.txt
 #EXTINF:-1 group-title="ALPHA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2024-2025/SHOWS/KALYTERA/THUMB/THUMB-KALYTERA_2.png" tvg-website="https://www.alphatv.gr/show/kalutera-de-ginetai/" ,ΚΑΛΥΤΕΡΑ ΔΕ ΓΙΝΕΤΑΙ! (2018-2025)
 SERIES$$hub://gvrod/alpha/ekpompes/kalutera-de-ginetai.txt
+#EXTINF:-1 group-title="ALPHA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2024-2025/SHOWS/AFTOPSIA/THUMB-AFTOPSIA.png" tvg-website="https://www.alphatv.gr/show/aytopsia/" ,ΑΥΤΟΨΙΑ (2015-2025)
+SERIES$$hub://gvrod/alpha/ekpompes/aytopsia.txt
+#EXTINF:-1 group-title="ALPHA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2024-2025/SHOWS/FOOD-TOUR/THUMB_AKIS.png" tvg-website="https://www.alphatv.gr/show/akis-food-tour/" ,AKIS' FOOD TOUR (2020-2025)
+SERIES$$hub://gvrod/alpha/ekpompes/akis-food-tour.txt
+#EXTINF:-1 group-title="ALPHA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2024-2025/SHOWS/MOUTSINAS/THUMB/THUMB_MOUTSINAS_1.png" tvg-website="https://www.alphatv.gr/show/nikos-moutsinas-vradiatika/" ,ΝΙΚΟΣ ΜΟΥΤΣΙΝΑΣ ΒΡΑΔΙΑΤΙΚΑ (2024-2025)
+SERIES$$hub://gvrod/alpha/ekpompes_arxio/nikos-moutsinas-vradiatika.txt
 #EXTINF:-1 group-title="ALPHA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" tvg-website="https://www.alphatv.gr/show/mesanuhta/?vtype=player&showId=923" ,ΜΕΣΑΝΥΧΤΑ (2021)
 https://www.alphatv.gr/show/mesanuhta/?vtype=player&showId=923|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ALPHA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" tvg-website="https://www.alphatv.gr/show/pame-paketo/?vtype=player&showId=834" ,ΠΑΜΕ ΠΑΚΕΤΟ (2019)
@@ -313,20 +322,26 @@ https://www.skai.gr/tv/shows/psuchagogia|webvod zoom=100 scroll=0,0
 SERIES$$hub://gvrod/skai/ekpompes/exatlon.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/toxoume/2025_2026/logos/toxoume_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/to-choume/sezon-2025-2026" ,Το 'Χουμε! (2025-2026)
 SERIES$$hub://gvrod/skai/ekpompes/to-choume.txt
+#EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/weekend_live/2025_2026/logos/weekend_live_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/weekend-live/sezon-2025-2026" ,Weekend Live (2025-2026)
+SERIES$$hub://gvrod/skai/ekpompes/weekend-live.txt
+#EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/mellon_ena/logos/mellon_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/mellon-ena/sezon-2025-2026" ,Μέλλον Ένα (2024-2026)
+SERIES$$hub://gvrod/skai/ekpompes/mellon-ena.txt
+#EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/plintirio/2024_2025/logos/plyntirio_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/pluntirio/sezon-2025-2026" ,Πλυντήριο (2024-2026)
+SERIES$$hub://gvrod/skai/ekpompes/pluntirio.txt
+#EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/psichagogia/2024_2025/pet_stories.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/pet-stories/pet-stories" ,Pet Stories (2025-2026)
+SERIES$$hub://gvrod/skai/ekpompes/pet-stories.txt
+#EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/i_ellada_psifizei/logos/ellada_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/i-ellada-psifizei/sezon-2024-2025" ,Η Ελλάδα Ψηφίζει (2024-2026)
+SERIES$$hub://gvrod/skai/ekpompes/i-ellada-psifizei.txt
+#EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV  Photo archive/tv_photos_980_400/psyxagwgia_2/1920x1080_bletsas.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/happy-traveller/sezon-2016-2017" ,Happy Traveller(2016-2026)
+SERIES$$hub://gvrod/skai/ekpompes/happy-traveller.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/big_brother/logos/bb_petros_landscape2.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/big-brother/sezon-2024-2025" ,Big Brother (2024-2025)
 SERIES$$hub://gvrod/skai/ekpompes/big-brother.txt
-#EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/i_ellada_psifizei/logos/ellada_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/i-ellada-psifizei/sezon-2024-2025" ,Η Ελλάδα Ψηφίζει (2024-2025)
-SERIES$$hub://gvrod/skai/ekpompes/i-ellada-psifizei.txt
-#EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/psichagogia/2024_2025/pet_stories.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/pet-stories/pet-stories" ,Pet Stories (2024-2025)
-SERIES$$hub://gvrod/skai/ekpompes/pet-stories.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/docs/skotini_dekaetia/skoteinh_dekaetia_1280x720.jpg" tvg-website="https://www.skai.gr/tv/show/ntokimanter/skoteini-dekaetia-1964-1974/sezon-2024-2025#tab1" ,Σκοτεινή Δεκαετία 1964-1974 (2024-2025)
 SERIES$$hub://gvrod/skai/ekpompes/skoteini-dekaetia-1964-1974.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV  Photo archive/tv_photos_980_400/psyxagwgia_2/oragiafagito2.jpg"  tvg-website="https://www.skai.gr/tv/show/psuchagogia/ora-gia-fagito/sezon-2020-2021" ,Ώρα Για Φαγητό με την Αργυρώ(2020-2022)
 SERIES$$hub://gvrod/skai/ekpompes_arxio/ora-gia-fagito.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV  Photo archive/tv_photos_980_400/psyxagwgia_2/psixouli_landscape.jpg"  tvg-website="https://www.skai.gr/tv/show/psuchagogia/suntages-psuchis/archeio#tab1" ,Συνταγές Ψυχής(2020-2021)
 SERIES$$hub://gvrod/skai/ekpompes_arxio/psuchis.txt
-#EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV  Photo archive/tv_photos_980_400/psyxagwgia_2/1920x1080_bletsas.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/happy-traveller/sezon-2016-2017" ,Happy Traveller(2016-2021)
-SERIES$$hub://gvrod/skai/ekpompes/happy-traveller.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/media_tv-editors/2022-fotos/202203/bbq_stories_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/bbq-stories/archeio#tab1" ,BBQ Stories(2021-2022)
 SERIES$$hub://gvrod/skai/ekpompes_arxio/bbq-stories.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/show/2024/savvato_me_filous/savvato_me_filous_l.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/sabbato-me-filous/sezon-2023-2024" ,Σάββατο με Φίλους (2023-2024)
@@ -802,6 +817,8 @@ SERIES$$hub://gvrod/mega/ekpompes/fos-sto-tounel.txt
 SERIES$$hub://gvrod/mega/ekpompes/xamogela-kai-pali.txt
 #EXTINF:-1 group-title="MEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2022/09/POSTER_AKOMA-2.jpg" tvg-website="https://www.megatv.com/ekpompes/1154246/akoma-den-eides-tipota/" ,Ακόμα Δεν Είδες Τίποτα!
 SERIES$$hub://gvrod/mega/ekpompes_arxio/akoma-den-eides-tipota.txt
+#EXTINF:-1 group-title="MEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2022/09/Image_SDG5_960X600.jpg" tvg-website="https://www.megatv.com/ekpompes/1968821/sto-dromo-gia-to-5ari/" ,Στον δρόμο για το 5άρι
+SERIES$$hub://gvrod/mega/ekpompes_arxio/sto-dromo-gia-to-5ari.txt
 #EXTINF:-1 group-title="MEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2023/11/POSTER__ΜΙΑΦΟΡΑΣΤΑΔΕΚΑΧΡΟΝΙΑ-copy.jpg" tvg-website="https://www.megatv.com/ekpompes/1253207/mia-fora-sta-10-xronia/" ,Μια Φορά στα 10 Χρόνια
 SERIES$$hub://gvrod/mega/ekpompes_arxio/mia-fora-sta-10-xronia.txt
 #EXTINF:-1 group-title="MEGA ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.megatv.com/wp-content/uploads/2022/09/ΟΛΑ-ΓΙΑ-ΤΗ-ΖΩΗ-ΜΑΣ.jpg" tvg-website="https://www.megatv.com/ekpompes/510160/ola-gia-ti-zoi-mas/" ,Όλα για τη Ζωή μας Vita
@@ -1372,22 +1389,27 @@ SERIES$$hub://gvrod/open/sires_arxio/Το.κόκκινο.ποτάμι.(2019-2023
 http://.....
 #EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://parallaximag.gr/wp-content/uploads/2019/03/open-beyond-logo.png" ,ΟΛΕΣ ΟΙ ΕΚΠΟΜΠΕΣ
 https://www.tvopen.gr/shows|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/3200cf29-f62d-4adb-b5d1-83c0b38b7bb9.jpg" tvg-website="https://www.tvopen.gr/openkitchen/videos" ,OPEN Kitchen
-SERIES$$hub://gvrod/open/ekpompes/openkitchen.txt
-#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/e002ac44-9151-4166-b5f9-1282b87539a4.jpg" tvg-website="https://www.tvopen.gr/chefsthnkoyzinasasmetonbaggelhdriska/videos" ,Chef στην κουζίνα σας
-SERIES$$hub://gvrod/open/ekpompes/chefsthnkoyzinasasmetonbaggelhdriska.txt
+
+#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/061c0a90-42d7-4021-b207-a5390a7cc3df.jpg" tvg-website="https://www.tvopen.gr/afterdark" ,After dark
+SERIES$$hub://gvrod/open/ekpompes/afterdark.txt
+#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/e56f0023-9427-43ca-8849-3a63384c4993.jpg" tvg-website="https://www.tvopen.gr/thelifemanifesto" ,The Life Manifesto
+SERIES$$hub://gvrod/open/ekpompes/thelifemanifesto.txt
 #EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/09eba744-d62c-4e48-ae85-d96fcfac3dc8.jpg" tvg-website="https://www.tvopen.gr/eikonesmetontasodoysh/videos" ,Εικόνες με τον Τάσο Δούση
 SERIES$$hub://gvrod/open/ekpompes/eikonesmetontasodoysh.txt
 #EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/ac7d0402-b4df-43e4-8e90-95944688dc0a.jpg" tvg-website="https://www.tvopen.gr/ypotheseis/videos" ,Υποθέσεις
 SERIES$$hub://gvrod/open/ekpompes/ypotheseis.txt
+#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/ab603085-59b3-48eb-ae1f-e386e019901e.jpg" tvg-website="https://www.tvopen.gr/kathemerachefmetonbaggelhdriska/videos" ,Κάθε μέρα chef με τον Βαγγέλη Δρίσκα
+SERIES$$hub://gvrod/open/ekpompes_arxio/kathemerachefmetonbaggelhdriska.txt
+#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/3200cf29-f62d-4adb-b5d1-83c0b38b7bb9.jpg" tvg-website="https://www.tvopen.gr/openkitchen/videos" ,OPEN Kitchen
+SERIES$$hub://gvrod/open/ekpompes/openkitchen.txt
+#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/e002ac44-9151-4166-b5f9-1282b87539a4.jpg" tvg-website="https://www.tvopen.gr/chefsthnkoyzinasasmetonbaggelhdriska/videos" ,Chef στην κουζίνα σας
+SERIES$$hub://gvrod/open/ekpompes/chefsthnkoyzinasasmetonbaggelhdriska.txt
 #EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/c986f91a-c9d7-456c-bc2b-7b9497558c50.jpg" tvg-website="https://www.tvopen.gr/anoixta/videos" ,Ανοιχτά
 SERIES$$hub://gvrod/open/ekpompes_arxio/anoixta.txt
 #EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/20668195-66ad-4a4d-b66d-b11a856c323e.jpg" tvg-website="https://www.tvopen.gr/annitakoita/videos" ,Αννίτα Κοίτα
 SERIES$$hub://gvrod/open/ekpompes_arxio/annitakoita.txt
 #EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/ba6d633b-1b48-406b-b9c9-e1d07145bba4.jpg" tvg-website="https://www.tvopen.gr/glykesalxhmeies/videos" ,Γλυκές αλχημείες
 SERIES$$hub://gvrod/open/ekpompes_arxio/glykesalxhmeies.txt
-#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/ab603085-59b3-48eb-ae1f-e386e019901e.jpg" tvg-website="https://www.tvopen.gr/kathemerachefmetonbaggelhdriska/videos" ,Κάθε μέρα chef με τον Βαγγέλη Δρίσκα
-SERIES$$hub://gvrod/open/ekpompes_arxio/kathemerachefmetonbaggelhdriska.txt
 #EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/d80572b9-0fb1-4238-a69f-604184d6537c.jpg" tvg-website="https://www.tvopen.gr/koyzinagiadyo/videos" ,Κουζίνα για δύο
 SERIES$$hub://gvrod/open/ekpompes_arxio/koyzinagiadyo.txt
 #EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="https://opentv-static.siliconweb.com/imgHandler/640/38f27ac0-ba73-4a39-9f80-9ae277962ffc.jpg" tvg-website="https://www.tvopen.gr/laba/videos" ,Λάβα
@@ -1495,6 +1517,13 @@ http://.....
 
 #EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://goo.gl/z2xi2U" ,ΟΛΕΣ ΟΙ ΕΚΠΟΜΠΕΣ
 https://www.star.gr/tv/psychagogia|webvod zoom=100 scroll=0,0
+
+#EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/png/files/route_360/temp/route360-287x382.webp" tvg-website="https://www.star.gr/tv/psychagogia/route-360" ,ROUTE 360
+SERIES$$hub://gvrod/star/ekpompes/route-360.txt
+#EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/jpeg/files/farma/2024/temp/farma-2024-25-287x382-koutsopoulos-temp.jpeg" tvg-website="https://www.star.gr/tv/psychagogia/farma" ,ΦΑΡΜΑ
+SERIES$$hub://gvrod/star/ekpompes/farma.txt
+#EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/png/files/first_dates/2024/1st_look/first_dates-287x382.png" tvg-website="https://www.star.gr/tv/psychagogia/first-dates" ,FIRST DATES
+SERIES$$hub://gvrod/star/ekpompes/first-dates.txt
 #EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/mc8-2024/final/mc-287x382_px_1.jpg" tvg-website="https://www.star.gr/tv/psychagogia/masterchef" ,MasterChef
 SERIES$$hub://gvrod/star/ekpompes/masterchef.txt
 #EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/png/files/breakfast_2024-25/final/breakfast_star_2024-25-640x736-finalb.png" tvg-website="https://www.star.gr/tv/psychagogia/breakfaststar" ,BREAKFAST@STAR
@@ -1507,10 +1536,6 @@ SERIES$$hub://gvrod/star/ekpompes/shopping-star.txt
 SERIES$$hub://gvrod/star/ekpompes/cash-or-trash.txt
 #EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/jpg/files/ttt_2024-25/semifinal/ttt_2024-25-287x382-semifinal.jpg" tvg-website="https://www.star.gr/tv/psychagogia/trohos-tis-tuhis" ,ΤΡΟΧΟΣ ΤΗΣ ΤΥΧΗΣ
 SERIES$$hub://gvrod/star/ekpompes/trohos-tis-tuhis.txt
-#EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/jpeg/files/farma/2024/temp/farma-2024-25-287x382-koutsopoulos-temp.jpeg" tvg-website="https://www.star.gr/tv/psychagogia/farma" ,ΦΑΡΜΑ
-SERIES$$hub://gvrod/star/ekpompes_arxio/farma.txt
-#EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/png/files/first_dates/2024/1st_look/first_dates-287x382.png" tvg-website="https://www.star.gr/tv/psychagogia/first-dates" ,FIRST DATES
-SERIES$$hub://gvrod/star/ekpompes_arxio/first-dates.txt
 #EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/png/files/stars_system-2024/1st_look/stars_system_2023-24-287x382.png" tvg-website="https://www.star.gr/tv/psychagogia/stars-system" ,STARS SYSTEM
 SERIES$$hub://gvrod/star/ekpompes/stars-system.txt
 #EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.star.gr/tv/images/287x382/2/jpg/files/2022-01-11/traction_2021-22/traction_300x690_21-22.jpg" tvg-website="https://www.star.gr/tv/psychagogia/traction" ,TRACTION
@@ -2250,6 +2275,11 @@ http://.....
 
 #EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΟΛΕΣ ΟΙ ΕΚΠΟΜΠΕΣ
 https://www.alphacyprus.com.cy/index.php/shows/entertainment|webvod zoom=100 scroll=0,0
+
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/islandescapers.jpg?itok=wHPl_9Ht" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/islandescapers" ,ISLAND ESCAPERS
+SERIES$$hub://cvyod/alpha/ekpompes/islandescapers.txt
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/noleftovers.jpg?itok=BgT9ufXF" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/noleftovers" ,NO LEFTOVERS
+SERIES$$hub://cvyod/alpha/ekpompes/noleftovers.txt
 #EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/christianaaristostelous-3.jpg?itok=364xofsL" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv" ,ΜΕ ΑΓΑΠΗ ΧΡΙΣΤΙΑΝΑ
 SERIES$$hub://cvyod/alpha/ekpompes/meagapichristiana.txt
 #EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/louis-4.jpg?itok=UD6JhVK-" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv" ,ΛΟΥΗΣ NIGHT SHOW
@@ -2262,6 +2292,8 @@ SERIES$$hub://cvyod/alpha/ekpompes/deal.txt
 SERIES$$hub://cvyod/alpha/ekpompes/poiosrwtaei.txt
 #EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/tetatet.jpg?itok=155jiGKa" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv" ,ΤΕΤ-Α-ΤΕΤ ΣΤΟΝ ALPHA
 SERIES$$hub://cvyod/alpha/ekpompes/tetatet.txt
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/sn-1_0.jpg?itok=rpWqj5kP" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/sundaynight" ,SUNDAY NIGHT
+SERIES$$hub://cvyod/alpha/ekpompes/sundaynight.txt
 #EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/secretsong.jpg?itok=I10wtvn4" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/thesecretsong/webtv" ,THE SECRET SONG
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/thesecretsong.txt
 #EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/Just the 2 of Us.jpg?itok=s2FrP38l" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/j2us/webtv" ,JUST THE 2 OF US
@@ -2694,12 +2726,17 @@ http://.....
 
 #EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΟΛΕΣ ΟΙ ΕΚΠΟΜΠΕΣ
 https://www.omegatv.com.cy/cgibin/hweb?-V=tvshows&_FCATEGORY>=110001&_FCATEGORY<=110004&-Sr&-dtvshows.html&_VSECTION=7010|webvod zoom=100 scroll=0,0
+
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/portal-image.png" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=215588&-V=tvshows" ,ΠΑΜΕ ΠΑΡΕΑ
+SERIES$$hub://cvyod/omega/ekpompes/pameparea.txt
 #EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/aixmes.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=157455&-V=tvshows" ,ΑΙΧΜΕΣ
 SERIES$$hub://cvyod/omega/ekpompes/aixmes.txt
 #EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/elanadeis-1-.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=149616&-V=tvshows" ,ΕΛΑ ΝΑ ΔΕΙΣ
 SERIES$$hub://cvyod/omega/ekpompes/elanadeis-1-.txt
 #EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/stavris-650x420.png" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=165385&-V=tvshows" ,ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
 SERIES$$hub://cvyod/omega/ekpompes/stavris.txt
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/cuisinovia.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=207576&-V=tvshows" ,CUISINOVIA
+SERIES$$hub://cvyod/omega/ekpompes/cuisinovia.txt
 #EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/social-experiment-100x650-v1.png" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=207299&-V=tvshows" ,THE SOCIAL EXPERIMENT
 SERIES$$hub://cvyod/omega/ekpompes_arxio/social-experiment.txt
 #EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/defacto-press.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=185851&-V=tvshows" ,DE FACTO

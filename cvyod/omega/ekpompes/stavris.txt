@@ -479,3 +479,6 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=213828&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=214039&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 6",Σεζόν 06 Επεισόδιο 001 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ Σαλάτα με τυρί ,Χοιρινό /  Energy balls, Ραβιόλες στο φούρνο
 https://www.omegatv.com.cy/cgibin/hweb?-A=215773&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 6",Σεζόν 06 Επεισόδιο 002 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
+-Κουπέπια/Χοιρινα φιλετάκια με κουμανταρία και λαχανικά/Ρυζόγαλο
+https://www.omegatv.com.cy/cgibin/hweb?-A=215992&-V=vod|webfulldig
