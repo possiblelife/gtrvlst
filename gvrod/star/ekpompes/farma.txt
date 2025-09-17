@@ -210,3 +210,5 @@ https://www.star.gr/tv/psychagogia/farma/17122024-farma-epeisodio-52-o-imiteliko
 https://www.star.gr/tv/psychagogia/farma/22122024-farma-epeisodio-53-o-megalos-telikos|webfulldig
 #EXTINF:-1 group-title="2025",15.9.2025 - Φάρμα - Πρεμιέρα
 https://www.star.gr/tv/psychagogia/farma/1592025-farma-premiera|webfulldig
+#EXTINF:-1 group-title="2025",16.9.2025 - Φάρμα - Επεισόδιο 2
+https://www.star.gr/tv/psychagogia/farma/1692025-farma-epeisodio-2|webfulldig

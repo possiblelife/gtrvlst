@@ -361,6 +361,8 @@ http://.....
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.megatv.com/shows|webvod zoom=100 scroll=0,0
 
+#EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-description="hub://desc/Mega/hotel.elvira" tvg-logo="https://www.megatv.com/wp-content/uploads/2025/05/Poster_HotelElvira_850X1090.jpg" ,HOTΕΛ ΕΛVIRA (Megatv μόνο) (2025)
+SERIES$$hub://gvrod/mega/sires/hotel-elvira.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-description="hub://desc/Mega/Η.γη.της.ελιάς.(2021-2025)" tvg-logo="https://greek-movies.com/icon/series/Ηγητηςελιάς2021.jpg" ,Η γη της ελιάς (Megatv μόνο) (2021-2025)
 SERIES$$hub://gvrod/mega/sires/i-gi-tis-elias.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-description="hub://desc/Mega/Η.γη.της.ελιάς.(2021-2025)" tvg-logo="https://greek-movies.com/icon/series/Ηγητηςελιάς2021.jpg" ,Η γη της ελιάς (2021-2025)
