@@ -432,14 +432,6 @@ https://eu1.servers10.com:8081/8380/index.m3u8
 https://eu1.servers10.com:8081/8382/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacycin" tvg-logo="hub://logs/extacy-cinema.png" tvg-name="Extacy TV CINEMA" ,Extacy TV CINEMA
 https://eu1.servers10.com:8081/8384/index.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacyser" tvg-logo="hub://logs/extacyseries.png" tvg-name="Extacy TV SERIES" ,Extacy TV SERIES
-https://eu1.servers10.com:8081/8386/index.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacycyp" tvg-logo="hub://logs/extacy_cy.png" ,Extacy TV Κύπρου
-https://eu1.servers10.com:8081/8388/index.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="zeys" tvg-logo="hub://logs/zeys.png" ,ΖΕΥΣ CHANNEL
-https://eu1.servers10.com:8081/8194/index.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="super" tvg-logo="hub://logs/tvsuper.png" ,Super TV
-https://eu1.servers10.com:8081/8196/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/nettv.png" ,NETV TORONTO
 https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/nettv.png" ,NETV EUROPE
