@@ -1554,12 +1554,6 @@ https://xroma985.live24.gr/xroma985
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΔΙΑΔΙΚΤΥΑΚΑ ====
 http://.....
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/99R6B3DR/radio.png" ,Extacy Radio
-https://stream.extacyradio.gr/stream/8060
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/twzcV6Wv/radiohits.png" ,Extacy Radio Hits
-https://stream.extacyradio.gr:8062/stream
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/BHmd4Lnz/8090.png" ,Extacy Radio Greek 80’s 90’s
-https://stream.extacyradio.gr:8068/stream
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/velvetfm.png",Velvet.  (Αθήνα)
 https://ice.onestreaming.com/velvetfm
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/AthensParty_Pride22.png",Athens Party  (Αθήνα)
