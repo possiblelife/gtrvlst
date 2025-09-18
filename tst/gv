@@ -426,12 +426,7 @@ https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEq
 
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/red.png" ,=====   ΤΑΙΝΙΕΣ   ====
 http://.....
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacy" tvg-logo="hub://logs/extacy-tv.png" tvg-name="Extacy TV" ,Extacy TV
-https://eu1.servers10.com:8081/8380/index.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacygr" tvg-logo="hub://logs/extacygr.png" tvg-name="Extacy TV GREEKS" ,Extacy TV GREEKS
-https://eu1.servers10.com:8081/8382/index.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacycin" tvg-logo="hub://logs/extacy-cinema.png" tvg-name="Extacy TV CINEMA" ,Extacy TV CINEMA
-https://eu1.servers10.com:8081/8384/index.m3u8
+
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/nettv.png" ,NETV TORONTO
 https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/nettv.png" ,NETV EUROPE
