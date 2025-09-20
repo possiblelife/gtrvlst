@@ -1,26 +1,4 @@
-#EXTINF:-1 group-title="ExtaCy" tvg-logo="https://i.ibb.co/ymBxhzvy/ic-channel.png" ,Επίσημες ανακοινώσεις
-https://extacygroup.gr/|webview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ExtaCy" tvg-logo="https://i.ibb.co/ymBxhzvy/ic-channel.png" ,Πύλη Υποστήριξης
-https://helpdesk.extacytv.gr|webview zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ExtaCy"  tvg-id="extacy" tvg-logo="https://i.ibb.co/9xNPgDr/tv.png" tvg-name="Extacy TV" ,Extacy TV
-https://eu1.servers10.com:8081/8380/index.m3u8
+https://live20.bozztv.com/giatv/giatv-extacytv/extacytv/playlist.m3u8
 #EXTINF:-1 group-title="ExtaCy"  tvg-id="extacygr" tvg-logo="https://i.ibb.co/Vpmd3p3M/greeks.png" tvg-name="Extacy TV GREEKS" ,Extacy TV GREEKS
-https://eu1.servers10.com:8081/8382/index.m3u8
-#EXTINF:-1 group-title="ExtaCy"  tvg-id="extacycin" tvg-logo="https://i.ibb.co/wrCBPWss/cinema.png" tvg-name="Extacy TV CINEMA" ,Extacy TV CINEMA
-https://eu1.servers10.com:8081/8384/index.m3u8
-#EXTINF:-1 group-title="ExtaCy"  tvg-id="extacyser" tvg-logo="https://i.ibb.co/7dZMVhgH/series.png" tvg-name="Extacy TV SERIES" ,Extacy TV SERIES
-https://eu1.servers10.com:8081/8386/index.m3u8
-#EXTINF:-1 group-title="ExtaCy"  tvg-id="extacycyp" tvg-logo="https://i.ibb.co/gF6mZ4Bx/cyprus.png" ,Extacy TV ΚΥΠΡΟΥ
-https://eu1.servers10.com:8081/8388/index.m3u8
-#EXTINF:-1 group-title="ExtaCy"  tvg-id="zeys" tvg-logo="https://i.ibb.co/ks7YJW4K/zeys-logo-aspro-kalo.png" ,ΖΕΥΣ CHANNEL
-https://eu1.servers10.com:8081/8194/index.m3u8
-#EXTINF:-1 group-title="ExtaCy"  tvg-id="super" tvg-logo="https://i.ibb.co/x8MmBr8p/tvsuper.png" ,Super TV
-https://eu1.servers10.com:8081/8196/index.m3u8
-#EXTINF:-1 group-title="ExtaCy"  tvg-id="extacykids"  tvg-logo="https://i.ibb.co/4Z86SNsW/kids.png" ,Extacy TV KIDS (Σύντομα κοντά σας)
-https://live20.bozztv.com/akamaissh101/ssh101/extacytvkids/playlist.m3u8
-#EXTINF:-1 group-title="ExtaCy"  tvg-logo="https://i.ibb.co/99R6B3DR/radio.png" ,Extacy Radio
-https://stream.extacyradio.gr/stream/8060
-#EXTINF:-1 group-title="ExtaCy"  tvg-logo="https://i.ibb.co/twzcV6Wv/radiohits.png" ,Extacy Radio Hits
-https://stream.extacyradio.gr:8062/stream
-#EXTINF:-1 group-title="ExtaCy"  tvg-logo="https://i.ibb.co/BHmd4Lnz/8090.png" ,Extacy Radio Greek 80’s 90’s
-https://stream.extacyradio.gr:8068/stream
+https://live20.bozztv.com/giatv/giatv-extacytvgreeks/extacytvgreeks/playlist.m3u8
