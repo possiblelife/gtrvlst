@@ -650,3 +650,7 @@ https://www.megatv.com/gtvshows/2007811/29-06-2025/|webfulldig
 https://www.megatv.com/gtvshows/2015911/05-07-2025/|webfulldig
 #EXTINF:-1 group-title="Season 4",06/07/2025
 https://www.megatv.com/gtvshows/2017279/06-07-2025/|webfulldig
+#EXTINF:-1 group-title="Season 5",20/09/2025
+https://www.megatv.com/gtvshows/2081557/20-09-2025/|webfulldig
+#EXTINF:-1 group-title="Season 5",21/09/2025
+https://www.megatv.com/gtvshows/2093608/21-09-2025/|webfulldig

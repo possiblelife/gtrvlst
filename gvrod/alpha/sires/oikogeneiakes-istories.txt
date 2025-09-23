@@ -1276,3 +1276,5 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63091&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63092&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Η πληνεργασία
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63093&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Τα άκρα αντίθετα
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63226&showId=869&year=2025|webvidfulldig

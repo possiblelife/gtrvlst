@@ -6,3 +6,7 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=216079&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=216090&-V=vod|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",18/09/2025 ΠΑΜΕ ΠΑΡΕΑ
 https://www.omegatv.com.cy/cgibin/hweb?-A=216095&-V=vod|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",19/09/2025 ΠΑΜΕ ΠΑΡΕΑ
+https://www.omegatv.com.cy/cgibin/hweb?-A=216106&-V=vod|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",22/09/2025 ΠΑΜΕ ΠΑΡΕΑ
+https://www.omegatv.com.cy/cgibin/hweb?-A=216117&-V=vod|webfulldig
