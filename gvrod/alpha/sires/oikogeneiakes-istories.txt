@@ -1278,3 +1278,5 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63092&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63093&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Τα άκρα αντίθετα
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63226&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Δύσκολος καιρός
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63227&showId=869&year=2025|webvidfulldig

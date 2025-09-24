@@ -6,6 +6,8 @@ http://.....
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.alphatv.gr/web-tv/|webvod zoom=100 scroll=0,0
 
+#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2025-2026/SEIRES/PORTO-LEONE/THUMB/PORTO_THUMB.png" tvg-website="https://www.alphatv.gr/show/porto-leone-sti-geitonia-me-ta-kokkina-fanaria/" tvg-description="hub://desc/Alpha/porto.leone.(2025)" ,Porto Leone – Στη γειτονιά με τα κόκκινα φανάρια (Aphatv μόνο) (2025)
+SERIES$$hub://gvrod/alpha/sires/porto-leone-sti-geitonia-me-ta-kokkina-fanaria.txt
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τοσπίτιδίπλαστοποτάμι2025.png" tvg-website="https://www.alphatv.gr/show/to-spiti-dipla-sto-potami/" tvg-description="hub://desc/Alpha/Το.σπίτι.δίπλα.στο.ποτάμι.(2025)" ,Το σπίτι δίπλα στο ποτάμι (Aphatv μόνο) (2025)
 SERIES$$hub://gvrod/alpha/sires/to-spiti-dipla-sto-potami.txt
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τοσπίτιδίπλαστοποτάμι2025.png" tvg-website="https://www.alphatv.gr/show/to-spiti-dipla-sto-potami/" tvg-description="hub://desc/Alpha/Το.σπίτι.δίπλα.στο.ποτάμι.(2025)" ,Το σπίτι δίπλα στο ποτάμι (2025)
