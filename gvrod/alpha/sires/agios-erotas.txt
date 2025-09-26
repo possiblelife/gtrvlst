@@ -1,13 +1,3 @@
-#EXTINF:-1 group-title="ΤΗΛΕΤΑΙΝΙΕΣ",ΤΗΛΕΤΑΙΝΙΑ 1
-https://www.alphatv.gr/show/agios-erotas/?vtype=player&vid=61539&showId=1652&year=2025|webvidfulldig
-#EXTINF:-1 group-title="ΤΗΛΕΤΑΙΝΙΕΣ",ΤΗΛΕΤΑΙΝΙΑ 2
-https://www.alphatv.gr/show/agios-erotas/?vtype=player&vid=61540&showId=1652&year=2025|webvidfulldig
-#EXTINF:-1 group-title="ΤΗΛΕΤΑΙΝΙΕΣ",ΤΗΛΕΤΑΙΝΙΑ 3
-https://www.alphatv.gr/show/agios-erotas/?vtype=player&vid=61541&showId=1652&year=2025|webvidfulldig
-#EXTINF:-1 group-title="ΤΗΛΕΤΑΙΝΙΕΣ",ΤΗΛΕΤΑΙΝΙΑ 4
-https://www.alphatv.gr/show/agios-erotas/?vtype=player&vid=61542&showId=1652&year=2025|webvidfulldig
-#EXTINF:-1 group-title="ΤΗΛΕΤΑΙΝΙΕΣ",ΤΗΛΕΤΑΙΝΙΑ 5
-https://www.alphatv.gr/show/agios-erotas/?vtype=player&vid=61543&showId=1652&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 1
 https://www.alphatv.gr/show/agios-erotas/?vtype=player&vid=60535&showId=1652&year=2024|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 2
@@ -308,3 +298,7 @@ https://www.alphatv.gr/show/agios-erotas/?vtype=player&vid=63122&showId=1652&yea
 https://www.alphatv.gr/show/agios-erotas/?vtype=player&vid=63156&showId=1652&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 150
 https://www.alphatv.gr/show/agios-erotas/?vtype=player&vid=63157&showId=1652&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 2",ΕΠΕΙΣΟΔΙΟ 1
+https://www.alphatv.gr/show/agios-erotas/?vtype=player&vid=63260&showId=1652&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 2",ΕΠΕΙΣΟΔΙΟ 2
+https://www.alphatv.gr/show/agios-erotas/?vtype=player&vid=63261&showId=1652&year=2025|webvidfulldig

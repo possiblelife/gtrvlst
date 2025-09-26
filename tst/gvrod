@@ -8,6 +8,8 @@ https://www.alphatv.gr/web-tv/|webvod zoom=100 scroll=0,0
 
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2025-2026/SEIRES/PORTO-LEONE/THUMB/PORTO_THUMB.png" tvg-website="https://www.alphatv.gr/show/porto-leone-sti-geitonia-me-ta-kokkina-fanaria/" tvg-description="hub://desc/Alpha/porto.leone.(2025)" ,Porto Leone – Στη γειτονιά με τα κόκκινα φανάρια (Aphatv μόνο) (2025)
 SERIES$$hub://gvrod/alpha/sires/porto-leone-sti-geitonia-me-ta-kokkina-fanaria.txt
+#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2025-2026/SEIRES/PORTO-LEONE/THUMB/PORTO_THUMB.png" tvg-website="https://www.alphatv.gr/show/porto-leone-sti-geitonia-me-ta-kokkina-fanaria/" tvg-description="hub://desc/Alpha/porto.leone.(2025)" ,Porto Leone – Στη γειτονιά με τα κόκκινα φανάρια (2025)
+SERIES$$hub://gvrod/alpha/sires/Porto.Leone.(2025)
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τοσπίτιδίπλαστοποτάμι2025.png" tvg-website="https://www.alphatv.gr/show/to-spiti-dipla-sto-potami/" tvg-description="hub://desc/Alpha/Το.σπίτι.δίπλα.στο.ποτάμι.(2025)" ,Το σπίτι δίπλα στο ποτάμι (Aphatv μόνο) (2025)
 SERIES$$hub://gvrod/alpha/sires/to-spiti-dipla-sto-potami.txt
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Τοσπίτιδίπλαστοποτάμι2025.png" tvg-website="https://www.alphatv.gr/show/to-spiti-dipla-sto-potami/" tvg-description="hub://desc/Alpha/Το.σπίτι.δίπλα.στο.ποτάμι.(2025)" ,Το σπίτι δίπλα στο ποτάμι (2025)
@@ -853,11 +855,15 @@ https://www.antenna.gr/shows|webvod zoom=100 scroll=0,0
 https://watch.antennaplus.gr/#/series|webvod zoom=100 scroll=0,0
 
 
-#EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-description="hub://desc/Ant1/Σέρρες.(2022)" tvg-logo="https://greek-movies.com/icon/series/Σέρρες2022.jpg" tvg-website="hhttps://www.antenna.gr/serres" ,Σέρρες (2022-2025)
+#EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-description="hub://desc/Ant1/Παιχνίδια.εκδίκησης.(2024-2025)" tvg-logo="https://greek-movies.com/icon/series/Παιχνίδιαεκδίκησης2024.jpg" ,Παιχνίδια εκδίκησης (2024-2026)
+SERIES$$hub://gvrod/ant1/sires/Παιχνίδια.εκδίκησης.(2024)
+#EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-description="hub://desc/Ant1/Σέρρες.(2022)" tvg-logo="https://greek-movies.com/icon/series/Σέρρες2022.jpg" tvg-website="hhttps://www.antenna.gr/serres" ,Σέρρες (Ant1.gr μόνο)(2022-2025)
+SERIES$$hub://gvrod/ant1/sires/serres.txt
+#EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-description="hub://desc/Ant1/Σέρρες.(2022)" tvg-logo="https://greek-movies.com/icon/series/Σέρρες2022.jpg" tvg-website="hhttps://www.antenna.gr/serres" ,Σέρρες (2022-2026)
 SERIES$$hub://gvrod/ant1/sires/Σέρρες.(2022)
 #EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-description="hub://desc/Ant1/Γιατί.ρε.πατέρα.(2025)" tvg-logo="https://greek-movies.com/icon/series/Γιατίρεπατέρα2025.jpg" tvg-website="https://www.antenna.gr/giatirepatera/videos" ,Γιατί ρε πατέρα; (Ant1.gr μόνο) (2025-2026)
 SERIES$$hub://gvrod/ant1/sires/giatirepatera.txt
-#EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-description="hub://desc/Ant1/Γιατί.ρε.πατέρα.(2025)" tvg-logo="https://greek-movies.com/icon/series/Γιατίρεπατέρα2025.jpg" tvg-website="https://www.antenna.gr/giatirepatera/videos" ,Γιατί ρε πατέρα; (2025)
+#EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-description="hub://desc/Ant1/Γιατί.ρε.πατέρα.(2025)" tvg-logo="https://greek-movies.com/icon/series/Γιατίρεπατέρα2025.jpg" tvg-website="https://www.antenna.gr/giatirepatera/videos" ,Γιατί ρε πατέρα;  (2025-2026)
 SERIES$$hub://gvrod/ant1/sires/giatirepatera.txt
 #EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-description="hub://desc/Ant1/Grand.hotel.(2024-2025)" tvg-logo="https://greek-movies.com/icon/series/Grandhotel2024.jpg" tvg-website="https://www.antenna.gr/grandhotel/videos" ,Grand hotel (Ant1.gr μόνο) (2024-2026)
 SERIES$$hub://gvrod/ant1/sires/grandhotel.txt
@@ -867,8 +873,6 @@ SERIES$$hub://gvrod/ant1/sires/Grand.hotel.(2024-2025)
 SERIES$$hub://gvrod/ant1/sires/VIΠ.καλά.γεράματα.(2024)
 #EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-description="hub://desc/Ant1/Η.μάγισσα.(2023-2025)" tvg-logo="https://greek-movies.com/icon/series/Ημάγισσα2023.jpg" tvg-website="https://www.antenna.gr/magissaflegomenikardia/videos" ,Η μάγισσα ΦΛΕΓΟΜΕΝΗ ΚΑΡΔΙΑ (2023-2025)
 SERIES$$hub://gvrod/ant1/sires/Η.μάγισσα.(2023-2024)
-#EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-description="hub://desc/Ant1/Παιχνίδια.εκδίκησης.(2024-2025)" tvg-logo="https://greek-movies.com/icon/series/Παιχνίδιαεκδίκησης2024.jpg" ,Παιχνίδια εκδίκησης (2024-2025)
-SERIES$$hub://gvrod/ant1/sires/Παιχνίδια.εκδίκησης.(2024)
 #EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-description="hub://desc/Ant1/4xxx4.(2017-2018)" tvg-logo="https://greek-movies.com/icon/series/4xxx42017.jpg" ,4xxx4 (2017-2018)
 SERIES$$hub://gvrod/ant1/sires_arxio/4xxx4.(2017-2018)
 #EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-description="hub://desc/Ant1/7.ζωές.(2008)" tvg-logo="https://greek-movies.com/icon/series/7zwes.jpg" ,7 ζωές (2008)

@@ -352,3 +352,5 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=214037&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=214038&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 001 CUISINOVIA -Fingers γαλοπούλας στο φούρνο - Cup cakes μπανάνας με σοκολάτα
 https://www.omegatv.com.cy/cgibin/hweb?-A=216121&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 002 CUISINOVIAΣαρδέλες ψητές με ντοματίνια - Aμερικάνικα μπισκότα
+https://www.omegatv.com.cy/cgibin/hweb?-A=216145&-V=vod|webfulldig
