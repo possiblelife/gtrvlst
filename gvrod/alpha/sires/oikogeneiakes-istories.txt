@@ -1284,3 +1284,5 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63227&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63228&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",όκερ
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63229&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Το τρίτο πρόσωπο
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63230&showId=869&year=2025|webvidfulldig
