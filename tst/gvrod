@@ -6,6 +6,10 @@ http://.....
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.alphatv.gr/web-tv/|webvod zoom=100 scroll=0,0
 
+#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2025-2026/SEIRES/NA-ME-LES-MAMA/THUMB/THUMB_MAMA_1.png" tvg-website="https://www.alphatv.gr/show/na-me-les-mama/" tvg-description="hub://desc/Alpha/Να.με.λες.μαμά.(2025)" ,Να με λες μαμά (Aphatv μόνο) (2025)
+SERIES$$hub://gvrod/alpha/sires/na-me-les-mama.txt
+#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2025-2026/SEIRES/NA-ME-LES-MAMA/THUMB/THUMB_MAMA_1.png" tvg-website="https://www.alphatv.gr/show/na-me-les-mama/" tvg-description="hub://desc/Alpha/Να.με.λες.μαμά.(2025)" ,Να με λες μαμά (2025)
+SERIES$$hub://gvrod/alpha/sires/Να.με.λες.μαμά.(2025)
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2025-2026/SEIRES/PORTO-LEONE/THUMB/PORTO_THUMB.png" tvg-website="https://www.alphatv.gr/show/porto-leone-sti-geitonia-me-ta-kokkina-fanaria/" tvg-description="hub://desc/Alpha/porto.leone.(2025)" ,Porto Leone – Στη γειτονιά με τα κόκκινα φανάρια (Aphatv μόνο) (2025)
 SERIES$$hub://gvrod/alpha/sires/porto-leone-sti-geitonia-me-ta-kokkina-fanaria.txt
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2025-2026/SEIRES/PORTO-LEONE/THUMB/PORTO_THUMB.png" tvg-website="https://www.alphatv.gr/show/porto-leone-sti-geitonia-me-ta-kokkina-fanaria/" tvg-description="hub://desc/Alpha/porto.leone.(2025)" ,Porto Leone – Στη γειτονιά με τα κόκκινα φανάρια (2025)
@@ -326,6 +330,8 @@ http://.....
 
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://i.ibb.co/2MdmBxK/skai.jpg" ,ΟΛΕΣ ΟΙ  ΕΚΠΟΜΠΕΣ
 https://www.skai.gr/tv/shows/psuchagogia|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/voice/2025_2026/logos/voice_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/The-Voice-of-Greece/sezon-2025-2026" ,The Voice of Greece (2025-2026)
+SERIES$$hub://gvrod/skai/ekpompes/The-Voice-of-Greece.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/exathlon/2025_2026/logos/karavas_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/exatlon/sezon-2025-2026" ,Exathlon (2025-2026)
 SERIES$$hub://gvrod/skai/ekpompes/exatlon.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/toxoume/2025_2026/logos/toxoume_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/to-choume/sezon-2025-2026" ,Το 'Χουμε! (2025-2026)
@@ -1450,10 +1456,15 @@ http://.....
 
 #EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ" tvg-logo="https://goo.gl/z2xi2U" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.star.gr/tv/seires|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ"  tvg-description="hub://desc/Star/Cherchez.la.femme.(1995)" tvg-logo="https://greek-movies.com/icon/series/Cherchezlafemme1995.jpg" ,Cherchez la femme (1995)
-SERIES$$hub://gvrod/star/sires_arxio/Cherchez.la.femme.(1995)
+
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ"  tvg-description="hub://desc/Star/Τα.φαντάσματα.(2025)" tvg-logo="https://greek-movies.com/icon/series/Ταφαντάσματα2025.jpg" ,Τα Φαντάσματα (Star tv only)(2025)
+SERIES$$hub://gvrod/star/sires/ta-fadasmata.txt
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ"  tvg-description="hub://desc/Star/Τα.φαντάσματα.(2025)" tvg-logo="https://greek-movies.com/icon/series/Ταφαντάσματα2025.jpg" ,Τα Φαντάσματα (2025)
+SERIES$$hub://gvrod/star/sires/Τα.φαντάσματα.(2025)
 #EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ"  tvg-description="hub://desc/Star/IQ.160.(2023-2024)" tvg-logo="https://greek-movies.com/icon/series/IQ1602023.jpg" ,IQ 160 (2023-2024)
 SERIES$$hub://gvrod/star/sires_arxio/IQ.160.(2023-2024)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ"  tvg-description="hub://desc/Star/Cherchez.la.femme.(1995)" tvg-logo="https://greek-movies.com/icon/series/Cherchezlafemme1995.jpg" ,Cherchez la femme (1995)
+SERIES$$hub://gvrod/star/sires_arxio/Cherchez.la.femme.(1995)
 #EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ"  tvg-description="hub://desc/Star/Άγιο.είχαμε.(2001-2002)" tvg-logo="https://greek-movies.com/icon/series/Άγιοείχαμε2001.jpg" ,Άγιο είχαμε (2001-2002)
 SERIES$$hub://gvrod/star/sires_arxio/Άγιο.είχαμε.(2001-2002)
 #EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ"  tvg-description="hub://desc/Star/Αρένα.(2017)" tvg-logo="https://greek-movies.com/icon/series/Αρένα2017.jpg" ,Αρένα (2017)

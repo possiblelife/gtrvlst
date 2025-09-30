@@ -1630,3 +1630,7 @@ https://www.alphacyprus.com.cy/shows/ellinikes-seires/igitiselias/webtv/s4-epeis
 https://www.alphacyprus.com.cy/shows/ellinikes-seires/igitiselias/webtv/s5-epeisodio-1|webvidfulldig
 #EXTINF:-1 group-title="Season 5",Σ5 - Επεισόδιο 2
 https://www.alphacyprus.com.cy/shows/ellinikes-seires/igitiselias/webtv/s5-epeisodio-2|webvidfulldig
+#EXTINF:-1 group-title="Season 5",Σ5 - Επεισόδιο 3
+https://www.alphacyprus.com.cy/shows/ellinikes-seires/igitiselias/webtv/s5-epeisodio-3|webvidfulldig
+#EXTINF:-1 group-title="Season 5",Σ5 - Επεισόδιο 4
+https://www.alphacyprus.com.cy/shows/ellinikes-seires/igitiselias/webtv/s5-epeisodio-4|webvidfulldig

@@ -354,3 +354,9 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=214038&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=216121&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 002 CUISINOVIAΣαρδέλες ψητές με ντοματίνια - Aμερικάνικα μπισκότα
 https://www.omegatv.com.cy/cgibin/hweb?-A=216145&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 003 CUISINOVIAΜΠΙΦΤΕΚΙΑ με λαχανικά - Μπάρες με μύρτιλα
+https://www.omegatv.com.cy/cgibin/hweb?-A=216202&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 004 CUISINOVIA Σαλάτα με νεκταρίνια και κατσικίσιο - ΑΝΑΠΟΔΟ ΚΕΪΚ ΜΕ ΝΕΚΤΑΡΙΝΙΑ
+https://www.omegatv.com.cy/cgibin/hweb?-A=216206&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 005 CUISINOVIA Μακαρονάδα με κοτόπουλο και ντοματίνια - ΚΕΙΚ ΣΟΚΟΛΑΤΑΣ ΜΕ ΓΙΑΟΥΡΤΙ
+https://www.omegatv.com.cy/cgibin/hweb?-A=216228&-V=vod|webfulldig

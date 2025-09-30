@@ -1568,3 +1568,7 @@ https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/270625|w
 https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/giannis-tsimitselis|webvidfulldig
 #EXTINF:-1 group-title="Season 8",Season Finale [Live] 04/07/25
 https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/season-finale-live-040725|webvidfulldig
+#EXTINF:-1 group-title="Season 9",26/09/25
+https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/260925|webvidfulldig
+#EXTINF:-1 group-title="Season 9",Σοφία Χατζηπαντελή
+https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/sofia-hatzipanteli|webvidfulldig
