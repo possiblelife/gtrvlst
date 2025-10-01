@@ -96,13 +96,17 @@ https://www.tvopen.gr/livegames#|webview zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="hub://logs/ARGOSPORT.png" tvg-website="https://argolidasport.gr/",Argolida Sport (Youtube)
 https://www.youtube.com/@ARGOLIDASPOR-NEWS/streams|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports" tvg-logo="hub://logs/ert_sports1.png" tvg-name="ΕΡΤ SPORTS 1" tvg-website="https://www.ertflix.gr" ,ΕΡΤ SPORTS 1 (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
-https://ertflix.akamaized.net/ertlive/ertsports1/clrdef24724a/index.mpd
+https://ertflix-greece.siliconweb.com/mpegts/618618_3479292/master_mpegts.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports1" tvg-logo="hub://logs/ert_sports1.png" tvg-name="ΕΡΤ SPORTS 1" tvg-website="https://www.ertflix.gr" ,ΕΡΤ SPORTS 1 (ΕΝΑΛΛΑΚΤΙΚΟ)
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports2" tvg-logo="hub://logs/ert_sports2.png" tvg-name="ΕΡΤ SPORTS 2" tvg-website="https://www.ertflix.gr" ,ΕΡΤ SPORTS 2 (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
-https://ertflix.akamaized.net/ertlive/ertsports2/clrdef24724b/index.mpd
+https://ertflix-greece.siliconweb.com/mpegts/618618_3479295/master_mpegts.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports2" tvg-logo="hub://logs/ert_sports2.png" tvg-name="ΕΡΤ SPORTS 2" tvg-website="https://www.ertflix.gr" ,ΕΡΤ SPORTS 2 (ΕΝΑΛΛΑΚΤΙΚΟ)
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports2" tvg-logo="hub://logs/ert_sports3.png" tvg-name="ΕΡΤ SPORTS 3" tvg-website="https://www.ertflix.gr" ,ΕΡΤ SPORTS 3
+https://ertflix-greece.siliconweb.com/mpegts/618618_3479298/master_mpegts.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports2" tvg-logo="hub://logs/ert_sports3.png" tvg-name="ΕΡΤ SPORTS 3" tvg-website="https://www.ertflix.gr" ,ΕΡΤ SPORTS 3 (ΕΝΑΛΛΑΚΤΙΚΟ)
+http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay3_mpeg.2ts
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="hub://logs/motorvision.png" ,Motorvision TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://www.freelivesports.tv/wp-content/uploads/2023/01/motrosporttv_logo.png" ,Motorsport.tv
@@ -321,7 +325,7 @@ https://anacon.org/app/chans/cy/verginacyimage.php|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/red.png" ,===== ΔΙΑΔΙΚΤΥΑΚΑ ====
 http://.....
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"   tvg-id="ert-news" tvg-logo="hub://logs/ertnews.png" tvg-name="ΕΡΤ News" tvg-website="https://www.ertflix.gr" ,ΕΡΤ News
-https://ertflix.akamaized.net/ertlive/ertnews/default/playlist.m3u8
+http://ertflix.siliconweb.com/mpegts/618618_2341569/master_mpegts.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"   tvg-id="ert-news" tvg-logo="hub://logs/ertnews.png" tvg-name="ΕΡΤ News" tvg-website="https://www.ertflix.gr" ,ΕΡΤ News (1)
 https://telmaco-cdn.akamaized.net/ertnews-cc/index.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"   tvg-id="ert-news" tvg-logo="hub://logs/ertnews.png" tvg-name="ΕΡΤ News" tvg-website="https://www.ertflix.gr" ,ΕΡΤ News (2)
