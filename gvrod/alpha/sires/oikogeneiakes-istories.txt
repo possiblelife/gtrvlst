@@ -1288,3 +1288,7 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63229&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63230&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Πολεμική τέχνη
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63294&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Αίθουσα αναμονής
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63295&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",ιρά
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63296&showId=869&year=2025|webvidfulldig

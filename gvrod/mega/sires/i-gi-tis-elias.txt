@@ -1634,3 +1634,7 @@ https://www.megatv.com/tvshows/2092864/epeisodio-7-111/|webfulldig
 https://www.megatv.com/tvshows/2092873/epeisodio-8-111/|webfulldig
 #EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 9
 https://www.megatv.com/tvshows/2092876/epeisodio-9-110/|webfulldig
+#EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 10
+https://www.megatv.com/tvshows/2092882/epeisodio-10-108/|webfulldig
+#EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 11
+https://www.megatv.com/tvshows/2106439/epeisodio-11-107/|webfulldig
