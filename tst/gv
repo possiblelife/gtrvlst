@@ -30,6 +30,8 @@ https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
 https://lcdn.antennaplus.gr/r86d08d448885424196f6cd3ddc5d1489/eu-central-1/6415884360001/playlist_dvr.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1" tvg-logo="hub://logs/ANT1.png" tvg-name="ANT1" tvg-website="https://watch.antennaplus.gr/#/" ,ANT1 HD (3)
 http://31.121.110.30:4000/play/a028/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1" tvg-logo="hub://logs/ANT1.png" tvg-name="ANT1" tvg-website="https://watch.antennaplus.gr/#/" ,ANT1 HD (2)
+https://aliez.tv/live/uab2p85ge9b1h98355dc/|weballdig
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1" tvg-logo="hub://logs/ANT1.png" tvg-name="ANT1" tvg-website="https://watch.antennaplus.gr/#/" ,ANT1 (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 https://anacon.org/app/chans/gr/ant1image.php|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="Mega" tvg-logo="hub://logs/mega.png" tvg-name="MEGA" tvg-website="https://www.megatv.com/" ,MEGA HD (1)
