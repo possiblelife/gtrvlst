@@ -1292,3 +1292,7 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63294&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63295&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",ιρά
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63296&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Μπούμερανγκ
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63297&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Red flags
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63298&showId=869&year=2025|webvidfulldig

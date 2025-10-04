@@ -94,6 +94,8 @@ https://www.tvopen.gr/watch/55675/mpoyrtzihprothfylakhtoykolokotronh|webvidfulld
 https://www.tvopen.gr/watch/58456/pyramidatoyxeopamesastontafotoybasilia|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Στη Νεκρόπολη όπου οι άνθρωποι ζουν μέσα στους τάφους
 https://www.tvopen.gr/watch/58457/sthnekropolhopoyoianthropoizoynmesastoystafoys|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Το αιγυπτιακό μουσείο μέσα στις αίθουσες του Τουταγχαμών
+https://www.tvopen.gr/watch/59410/toaigyptiakomoyseiomesastisaithoysestoytoytagxamon|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Στη θαυματουργή εκκλησία του Αγίου Γεωργίου
 https://www.tvopen.gr/watch/59411/sththaymatoyrghekklhsiatoyagioygeorgioy|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Αερόστατο: Μια ξεχωριστή εμπειρία πάνω από τον Νείλο
@@ -114,8 +116,6 @@ https://www.tvopen.gr/watch/64194/gamlastanmesasthnpaliapolhthsstokxolmhs|webvid
 https://www.tvopen.gr/watch/64195/stokxolmhbasilikotheatrokaitoagalmapoythermainetai|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Κέντρο Στοκχόλμης: Πάνω σε εντυπωσιακές γέφυρες
 https://www.tvopen.gr/watch/65169/kentrostokxolmhspanoseentyposiakesgefyres|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Το αιγυπτιακό μουσείο μέσα στις αίθουσες του Τουταγχαμών
-https://www.tvopen.gr/watch/59410/toaigyptiakomoyseiomesastisaithoysestoytoytagxamon|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Αγορά Saluhall: Ένας ναός γαστρονομίας σαν παλάτι
 https://www.tvopen.gr/watch/65170/agorasaluhallenasnaosgastronomiassanpalati|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Σνόουμομπίλ: Χιλιόμετρα μαγείας στον Αρκτικό Κύκλο
@@ -424,6 +424,8 @@ https://www.tvopen.gr/watch/124612/pyrgostomesaionikoxoriothssantorinhs|webvidfu
 https://www.tvopen.gr/watch/125688/tohfaisteiothssantorinhskaihagnosthopshtoynhsioy|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ιπτάμενο φόρεμα: Έτσι έχει γίνει viral η Σαντορίνη σε όλο τον κόσμο
 https://www.tvopen.gr/watch/125689/iptamenoforemaetsiexeigineiviralhsantorinhseolotonkosmo|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Παναγιά Κανάλα: Η ιστορία της θαυματουργής εικόνας
+https://www.tvopen.gr/watch/128620/panagiakanalahistoriathsthaymatoyrghseikonas|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Φηρά: Βόλτα στα μαγαζιά
 https://www.tvopen.gr/watch/125690/fhraboltastamagazia|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Σαντορίνη - Οία: Το πιο διάσημο χωριό με το μαγευτικό ηλιοβασίλεμα
@@ -444,8 +446,6 @@ https://www.tvopen.gr/watch/127749/sifnosxrysophghtomonasthritoy1600|webvidfulld
 https://www.tvopen.gr/watch/127750/sifnosgastronomikesapolayseissthnapollonia|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Σίφνος: Για γλυκό στο «Κίτρινο Ποδήλατο»
 https://www.tvopen.gr/watch/127751/sifnosgiaglykostoc2abkitrinopodhlatoc2bb|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Παναγιά Κανάλα: Η ιστορία της θαυματουργής εικόνας
-https://www.tvopen.gr/watch/128620/panagiakanalahistoriathsthaymatoyrghseikonas|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Δρυοπίδα: Ξενάγηση στο πιο γραφικό χωριό της Κύνθου
 https://www.tvopen.gr/watch/128621/dryopidaxenaghshstopiografikoxoriothskynthoy|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Παραλία Κολώνα: Από τις ομορφότερες παραλίες του Αιγαίου
@@ -776,6 +776,14 @@ https://www.tvopen.gr/watch/203152/matemoyezanzibarhenaxorioakatergastodiamantit
 https://www.tvopen.gr/watch/203153/noyngkoyienaapotapioomorfamerhthszanzibarhs|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Στόουν Τάουν: Η πρωτεύουσα της Ζανζιβάρης
 https://www.tvopen.gr/watch/203810/stooyntaoynhproteyoysathszanzibarhs|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Κέντουα: μια παραδεισένια παραλία στην καρδιά της Ζανζιβάρης
+https://www.tvopen.gr/watch/203811/kentoyamiaparadeiseniaparaliasthnkardiathszanzibarhs|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Μαλδίβες: Πρωινή βόλτα στη μοντέρνα περιοχή Χουλουμάλε
+https://www.tvopen.gr/watch/204537/maldibesproinhboltasthmonternaperioxhxoyloymale|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Ifuru Island - Μαλδίβες: Άφιξη σ’ έναν εξωτικό παράδεισο
+https://www.tvopen.gr/watch/204538/ifuruislandmaldibesafixhse28099enanexotikoparadeiso|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Κατάδυση στον μαγευτικό βυθό των Μαλδιβών
+https://www.tvopen.gr/watch/205279/katadyshstonmageytikobythotonmaldibon|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Μαλδίβες: Επίσκεψη στο Ούνγκου Φάρου για να δούμε τη ζωή των ντόπιων
 https://www.tvopen.gr/watch/205280/maldibesepiskepshstooyngkoyfaroygianadoymethzohtonntopion|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Καμπιέλο: Η παλαιότερη συνοικία με αέρα νότιας Ιταλίας
@@ -790,14 +798,6 @@ https://www.tvopen.gr/watch/206611/stonnaotoyagioyspyridonatoypolioyxoythskerkyr
 https://www.tvopen.gr/watch/206637/exereynoymethnpaliapolhthsnikaias|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ανακαλύπτουμε το χωριό-οχηρό Εζ
 https://www.tvopen.gr/watch/206638/anakalyptoymetoxoriooxhroez|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Κέντουα: μια παραδεισένια παραλία στην καρδιά της Ζανζιβάρης
-https://www.tvopen.gr/watch/203811/kentoyamiaparadeiseniaparaliasthnkardiathszanzibarhs|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Μαλδίβες: Πρωινή βόλτα στη μοντέρνα περιοχή Χουλουμάλε
-https://www.tvopen.gr/watch/204537/maldibesproinhboltasthmonternaperioxhxoyloymale|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Ifuru Island - Μαλδίβες: Άφιξη σ’ έναν εξωτικό παράδεισο
-https://www.tvopen.gr/watch/204538/ifuruislandmaldibesafixhse28099enanexotikoparadeiso|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Κατάδυση στον μαγευτικό βυθό των Μαλδιβών
-https://www.tvopen.gr/watch/205279/katadyshstonmageytikobythotonmaldibon|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Περπατάμε στην κομψή και γοητευτική πλατεία Μασένα
 https://www.tvopen.gr/watch/207055/perpatamesthnkompshkaigohteytikhplateiamasena|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Βόλτα στο μικρό και γραφικό λιμάνι της Νίκαιας
