@@ -58,6 +58,8 @@ http://31.121.110.30:4000/play/a02c/index.m3u8|User-Agent=Mozilla/5.0 (Windows N
 https://anacon.org/app/chans/gr/alphaimage.php|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="OPEN BEYOND" tvg-logo="hub://logs/open.png" tvg-name="OPEN Beyond TV" tvg-website="https://www.tvopen.gr/" ,OPEN Beyond TV
 https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="OPEN BEYOND" tvg-logo="hub://logs/open.png" tvg-name="OPEN Beyond TV" tvg-website="https://www.tvopen.gr/" ,OPEN Beyond TV (2)
+https://spark3.smart-tv-data.com/openHD/openHD/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/608.24 (KHTML, like Gecko) Chrome/121.0.4477.950 Safari/608.24
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="OPEN BEYOND" tvg-logo="hub://logs/open.png" tvg-name="OPEN Beyond TV" tvg-website="https://www.tvopen.gr/" ,OPEN Beyond TV (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 https://anacon.org/app/chans/gr/openimage.php|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="maktv" tvg-logo="hub://logs/mak-tv.png" tvg-name="M.TV HD" tvg-website="https://watch.antennaplus.gr/#/" ,M.TV HD
