@@ -452,3 +452,5 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=215992&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=216119&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 6",Σεζόν 06 Επεισόδιο 004 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ Muffins με τυρί και γαλοπούλα/ Κεφτεδάκια / Μπάρες
 https://www.omegatv.com.cy/cgibin/hweb?-A=216229&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 6",Σεζόν 06 Επεισόδιο 005 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ Μηλοπιτάκια/ Χοιρινό μπούτι ψητό με πατάτες/ Μπρουσκέτα με μήλο
+https://www.omegatv.com.cy/cgibin/hweb?-A=216455&-V=vod|webfulldig

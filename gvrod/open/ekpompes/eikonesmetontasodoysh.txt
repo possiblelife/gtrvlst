@@ -424,8 +424,6 @@ https://www.tvopen.gr/watch/124612/pyrgostomesaionikoxoriothssantorinhs|webvidfu
 https://www.tvopen.gr/watch/125688/tohfaisteiothssantorinhskaihagnosthopshtoynhsioy|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ιπτάμενο φόρεμα: Έτσι έχει γίνει viral η Σαντορίνη σε όλο τον κόσμο
 https://www.tvopen.gr/watch/125689/iptamenoforemaetsiexeigineiviralhsantorinhseolotonkosmo|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Παναγιά Κανάλα: Η ιστορία της θαυματουργής εικόνας
-https://www.tvopen.gr/watch/128620/panagiakanalahistoriathsthaymatoyrghseikonas|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Φηρά: Βόλτα στα μαγαζιά
 https://www.tvopen.gr/watch/125690/fhraboltastamagazia|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Σαντορίνη - Οία: Το πιο διάσημο χωριό με το μαγευτικό ηλιοβασίλεμα
@@ -446,6 +444,8 @@ https://www.tvopen.gr/watch/127749/sifnosxrysophghtomonasthritoy1600|webvidfulld
 https://www.tvopen.gr/watch/127750/sifnosgastronomikesapolayseissthnapollonia|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Σίφνος: Για γλυκό στο «Κίτρινο Ποδήλατο»
 https://www.tvopen.gr/watch/127751/sifnosgiaglykostoc2abkitrinopodhlatoc2bb|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Παναγιά Κανάλα: Η ιστορία της θαυματουργής εικόνας
+https://www.tvopen.gr/watch/128620/panagiakanalahistoriathsthaymatoyrghseikonas|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Δρυοπίδα: Ξενάγηση στο πιο γραφικό χωριό της Κύνθου
 https://www.tvopen.gr/watch/128621/dryopidaxenaghshstopiografikoxoriothskynthoy|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Παραλία Κολώνα: Από τις ομορφότερες παραλίες του Αιγαίου
@@ -1020,6 +1020,10 @@ https://www.tvopen.gr/watch/249030/korhssiatolimanitoynhsioymeoraiaparalia|webvi
 https://www.tvopen.gr/watch/249031/panagiakastrianhxtismenhsebraxometheatoaigaio|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Κέα
 https://www.tvopen.gr/watch/249029/eikonesmetontasodoyshkea|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Αμάλφι Α' μέρος
+https://www.tvopen.gr/watch/253665/amalfiameros|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Αμάλφι Β μέρος
+https://www.tvopen.gr/watch/253667/amalfibmeros|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Καππαδοκία, Α' μέρος
 https://www.tvopen.gr/watch/2307/eikonesmetontasodoysh7ckappadokiaameros|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση |  Καππαδοκία Β' Μέρος
@@ -1194,6 +1198,8 @@ https://www.tvopen.gr/watch/100866/eikonesmetontasodoysh7ckeiptaoynbe28099meros|
 https://www.tvopen.gr/watch/102927/eikonesmetontasodoysh7cethnikoparkokroygkernotiaafrikh|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Ιράν-Τεχεράνη
 https://www.tvopen.gr/watch/104058/eikonesmetontasodoysh7cirantexeranh|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες 05/10/2025: Πρώτος προορισμός της σεζόν, η ονειρική ακτή Αμάλφι
+https://www.tvopen.gr/watch/253666/eikones052f102f2025protosproorismosthssezonhoneirikhakthamalfi|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Ιράν-Σιράζ
 https://www.tvopen.gr/watch/105092/eikonesmetontasodoysh7ciransiraz|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Ιράν-Γιαζντ

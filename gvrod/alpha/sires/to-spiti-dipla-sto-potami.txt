@@ -1,2 +1,6 @@
 #EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 1+2
 https://www.alphatv.gr/show/to-spiti-dipla-sto-potami/?vtype=player&vid=63231&showId=1754&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 3
+https://www.alphatv.gr/show/to-spiti-dipla-sto-potami/?vtype=player&vid=63322&showId=1754&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 4
+https://www.alphatv.gr/show/to-spiti-dipla-sto-potami/?vtype=player&vid=63323&showId=1754&year=2025|webvidfulldig

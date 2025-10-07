@@ -366,3 +366,7 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=216299&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=216400&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 008 CUISINOVIAΣΟΥΤΖΟΥΚΑΚΙΑ ΜΕ ΦΕΤΑ ΚΑΙ ΝΤΟΜΑΤΑ - Γλυκό με αμύγδαλο και σοκολάτα
 https://www.omegatv.com.cy/cgibin/hweb?-A=216398&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 009 CUISINOVIAΧωριάτικα μακαρόνια με κοτόπουλο και σπανάκι - Μικρά πρέτσελ με τυρί
+https://www.omegatv.com.cy/cgibin/hweb?-A=216435&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 010 CUISINOVIAΠατσαβουρόπιτα, Σοκολατένιος κορμός
+https://www.omegatv.com.cy/cgibin/hweb?-A=216416&-V=vod|webfulldig

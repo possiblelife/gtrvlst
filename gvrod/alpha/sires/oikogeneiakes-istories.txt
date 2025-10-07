@@ -1296,3 +1296,5 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63296&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63297&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Red flags
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63298&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Ξεπαρεού
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63349&showId=869&year=2025|webvidfulldig
