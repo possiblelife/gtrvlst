@@ -782,12 +782,6 @@ https://www.tvopen.gr/watch/203811/kentoyamiaparadeiseniaparaliasthnkardiathszan
 https://www.tvopen.gr/watch/204537/maldibesproinhboltasthmonternaperioxhxoyloymale|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ifuru Island - Μαλδίβες: Άφιξη σ’ έναν εξωτικό παράδεισο
 https://www.tvopen.gr/watch/204538/ifuruislandmaldibesafixhse28099enanexotikoparadeiso|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Κατάδυση στον μαγευτικό βυθό των Μαλδιβών
-https://www.tvopen.gr/watch/205279/katadyshstonmageytikobythotonmaldibon|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Μαλδίβες: Επίσκεψη στο Ούνγκου Φάρου για να δούμε τη ζωή των ντόπιων
-https://www.tvopen.gr/watch/205280/maldibesepiskepshstooyngkoyfaroygianadoymethzohtonntopion|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Καμπιέλο: Η παλαιότερη συνοικία με αέρα νότιας Ιταλίας
-https://www.tvopen.gr/watch/205883/kampielohpalaioterhsynoikiameaeranotiasitalias|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Παλιά Περίθεια: Το ορεινό χωριό – φάντασμα της Κέρκυρας
 https://www.tvopen.gr/watch/205884/paliaperitheiatooreinoxoriofantasmathskerkyras|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Απολαμβάνουμε την παλιά πόλη της Κέρκυρας στο ξημέρωμα
@@ -804,6 +798,12 @@ https://www.tvopen.gr/watch/207055/perpatamesthnkompshkaigohteytikhplateiamasena
 https://www.tvopen.gr/watch/207058/boltastomikrokaigrafikolimanithsnikaias|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Αντίμπ: H πόλη όπου έζησαν ο Νίκος Καζαντζάκης και ο Πάμπλο Πικάσο
 https://www.tvopen.gr/watch/207978/antimphpolhopoyezhsanonikoskazantzakhskaiopamplopikaso|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Κατάδυση στον μαγευτικό βυθό των Μαλδιβών
+https://www.tvopen.gr/watch/205279/katadyshstonmageytikobythotonmaldibon|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Μαλδίβες: Επίσκεψη στο Ούνγκου Φάρου για να δούμε τη ζωή των ντόπιων
+https://www.tvopen.gr/watch/205280/maldibesepiskepshstooyngkoyfaroygianadoymethzohtonntopion|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Καμπιέλο: Η παλαιότερη συνοικία με αέρα νότιας Ιταλίας
+https://www.tvopen.gr/watch/205883/kampielohpalaioterhsynoikiameaeranotiasitalias|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Σαιν Τροπέ: Απολαμβάνουμε πανοραμική θέα από το κάστρο της πόλης
 https://www.tvopen.gr/watch/207979/saintropeapolambanoymepanoramikhtheaapotokastrothspolhs|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Το σπίτι της γάτας – Ρίγα: Mια παλιά ιστορία εκδίκησης

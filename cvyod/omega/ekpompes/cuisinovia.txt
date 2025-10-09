@@ -370,3 +370,5 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=216398&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=216435&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 010 CUISINOVIAΠατσαβουρόπιτα, Σοκολατένιος κορμός
 https://www.omegatv.com.cy/cgibin/hweb?-A=216416&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 011 CUISINOVIAΑσιατική σαλάτα με γαρίδες, Τιραμισού τσιζκέικ
+https://www.omegatv.com.cy/cgibin/hweb?-A=216589&-V=vod|webfulldig

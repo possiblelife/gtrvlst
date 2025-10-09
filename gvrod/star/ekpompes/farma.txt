@@ -222,3 +222,7 @@ https://www.star.gr/tv/psychagogia/farma/2992025-farma-epeisodio-5|webfulldig
 https://www.star.gr/tv/psychagogia/farma/3092025-farma-epeisodio-6|webfulldig
 #EXTINF:-1 group-title="2025",6.10.2025 - Φάρμα - Επεισόδιο 7
 https://www.star.gr/tv/psychagogia/farma/6102025-farma-epeisodio-7|webfulldig
+#EXTINF:-1 group-title="2025",7.10.2025 - Φάρμα - Επεισόδιο 8
+https://www.star.gr/tv/psychagogia/farma/7102025-farma-epeisodio-8|webfulldig
+#EXTINF:-1 group-title="2025",8.10.2025 - Φάρμα - Επεισόδιο 9
+https://www.star.gr/tv/psychagogia/farma/8102025-farma-epeisodio-9|webfulldig
