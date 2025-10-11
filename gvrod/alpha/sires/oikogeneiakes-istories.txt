@@ -1302,3 +1302,7 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63349&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63374&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Άσπρο πρόβατο
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63375&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Καπνός
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63376&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Το πρώτο βήμα
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63377&showId=869&year=2025|webvidfulldig
