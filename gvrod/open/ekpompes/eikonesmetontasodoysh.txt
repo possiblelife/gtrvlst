@@ -1024,6 +1024,16 @@ https://www.tvopen.gr/watch/249029/eikonesmetontasodoyshkea|webvidfulldig
 https://www.tvopen.gr/watch/253665/amalfiameros|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Αμάλφι Β μέρος
 https://www.tvopen.gr/watch/253667/amalfibmeros|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Σαλαμίνα
+https://www.tvopen.gr/watch/254193/salamina|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Σαλαμίνα
+https://www.tvopen.gr/watch/254194/salamina|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Σαλαμίνα
+https://www.tvopen.gr/watch/254195/salamina|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Το μαγευτικό Φιόρντο ντι Φουρόρε, είναι ανάμεσα στους βράχους και τη θάλασσα.
+https://www.tvopen.gr/watch/254192/tomageytikofiorntontifoyroreeinaianamesastoysbraxoyskaiththalassa|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Σάντα Μαρία Μαγδαληνή: Με την εντυπωσιακή βεράντα και θέα
+https://www.tvopen.gr/watch/254196/santamariamagdalhnhmethnentyposiakhberantakaithea|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Καππαδοκία, Α' μέρος
 https://www.tvopen.gr/watch/2307/eikonesmetontasodoysh7ckappadokiaameros|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση |  Καππαδοκία Β' Μέρος
@@ -1202,6 +1212,8 @@ https://www.tvopen.gr/watch/104058/eikonesmetontasodoysh7cirantexeranh|webvidful
 https://www.tvopen.gr/watch/253666/eikones052f102f2025protosproorismosthssezonhoneirikhakthamalfi|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Ιράν-Σιράζ
 https://www.tvopen.gr/watch/105092/eikonesmetontasodoysh7ciransiraz|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Ακτή Αμάλφι
+https://www.tvopen.gr/watch/254190/eikonesmetontasodoyshakthamalfi|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Ιράν-Γιαζντ
 https://www.tvopen.gr/watch/105791/eikonesmetontasodoysh7cirangiaznt|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Ιράν-Ισφαχάν, Α' μέρος

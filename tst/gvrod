@@ -6,6 +6,14 @@ http://.....
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.alphatv.gr/web-tv/|webvod zoom=100 scroll=0,0
 
+#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2025-2026/SEIRES/TROMEROI-GONEIS/THUMB-TROMEROI-GONEIS.png" tvg-website="https://www.alphatv.gr/show/tromeroi-goneis/" tvg-description="hub://desc/Alpha/Τρομεροί.γονείς.(2025)" ,Τρομεροί γονείς (Aphatv μόνο) (2025)
+SERIES$$hub://gvrod/alpha/sires/tromeroi-goneis.txt
+#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2025-2026/SEIRES/TROMEROI-GONEIS/THUMB-TROMEROI-GONEIS.png" tvg-website="https://www.alphatv.gr/show/tromeroi-goneis/" tvg-description="hub://desc/Alpha/Τρομεροί.γονείς.(2025)" ,Τρομεροί γονείς (2025)
+SERIES$$hub://gvrod/alpha/sires/Τρομεροί.γονείς.(2025)
+#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2025-2026/SEIRES/NA-MAGAPAS/THUMB_NA-MAGAPAS.png" tvg-website="https://www.alphatv.gr/show/na-m-agapas/" tvg-description="hub://desc/Alpha/Να.μ.αγαπάς.(2025)" ,Να μ' αγαπάς (Aphatv μόνο) (2025)
+SERIES$$hub://gvrod/alpha/sires/na-m-agapas.txt
+#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2025-2026/SEIRES/NA-MAGAPAS/THUMB_NA-MAGAPAS.png" tvg-website="https://www.alphatv.gr/show/na-m-agapas/" tvg-description="hub://desc/Alpha/Να.μ.αγαπάς.(2025)" ,Να μ' αγαπάς (2025)
+SERIES$$hub://gvrod/alpha/sires/Να.μ.αγαπάς.(2025)
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2025-2026/SEIRES/NA-ME-LES-MAMA/THUMB/THUMB_MAMA_1.png" tvg-website="https://www.alphatv.gr/show/na-me-les-mama/" tvg-description="hub://desc/Alpha/Να.με.λες.μαμά.(2025)" ,Να με λες μαμά (Aphatv μόνο) (2025)
 SERIES$$hub://gvrod/alpha/sires/na-me-les-mama.txt
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2025-2026/SEIRES/NA-ME-LES-MAMA/THUMB/THUMB_MAMA_1.png" tvg-website="https://www.alphatv.gr/show/na-me-les-mama/" tvg-description="hub://desc/Alpha/Να.με.λες.μαμά.(2025)" ,Να με λες μαμά (2025)
@@ -330,6 +338,13 @@ http://.....
 
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://i.ibb.co/2MdmBxK/skai.jpg" ,ΟΛΕΣ ΟΙ  ΕΚΠΟΜΠΕΣ
 https://www.skai.gr/tv/shows/psuchagogia|webvod zoom=100 scroll=0,0
+
+
+
+#EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/diaxorizo_ti_thesi_mou/2025_-_2026/diaxvrizw_ti_thesi_mou1_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/diachorizo-ti-thesi-mou/sezon-2025-2026" ,Διαχωρίζω τη Θέση Μου (2025-2026)
+SERIES$$hub://gvrod/skai/ekpompes/diachorizo-ti-thesi-mou.txt
+#EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/the_wall/2025_2026/logos/the_wall_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/the-wall/sezon-2025-2026" ,The Wall (2025-2026)
+SERIES$$hub://gvrod/skai/ekpompes/the-wall.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/voice/2025_2026/logos/voice_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/The-Voice-of-Greece/sezon-2025-2026" ,The Voice of Greece (2025-2026)
 SERIES$$hub://gvrod/skai/ekpompes/The-Voice-of-Greece.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/exathlon/2025_2026/logos/karavas_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/exatlon/sezon-2025-2026" ,Exathlon (2025-2026)

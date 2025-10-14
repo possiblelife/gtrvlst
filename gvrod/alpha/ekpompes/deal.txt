@@ -1,2 +1,32 @@
-#EXTINF:-1 group-title="Σεζόν 8",ΕΠΕΙΣΟΔΙΟ 87
-https://www.alphatv.gr/show/deal/?vtype=player&vid=-1&showId=254&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 1
+https://www.alphatv.gr/show/deal/?vtype=player&vid=63221&showId=254&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 2
+https://www.alphatv.gr/show/deal/?vtype=player&vid=63222&showId=254&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 3
+https://www.alphatv.gr/show/deal/?vtype=player&vid=63223&showId=254&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 4
+https://www.alphatv.gr/show/deal/?vtype=player&vid=63224&showId=254&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 5
+https://www.alphatv.gr/show/deal/?vtype=player&vid=63225&showId=254&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 6
+https://www.alphatv.gr/show/deal/?vtype=player&vid=63289&showId=254&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 7
+https://www.alphatv.gr/show/deal/?vtype=player&vid=63290&showId=254&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 8
+https://www.alphatv.gr/show/deal/?vtype=player&vid=63291&showId=254&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 9
+https://www.alphatv.gr/show/deal/?vtype=player&vid=63292&showId=254&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 10
+https://www.alphatv.gr/show/deal/?vtype=player&vid=63293&showId=254&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 11
+https://www.alphatv.gr/show/deal/?vtype=player&vid=63350&showId=254&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 12
+https://www.alphatv.gr/show/deal/?vtype=player&vid=63370&showId=254&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 13
+https://www.alphatv.gr/show/deal/?vtype=player&vid=63371&showId=254&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 14
+https://www.alphatv.gr/show/deal/?vtype=player&vid=63372&showId=254&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 15
+https://www.alphatv.gr/show/deal/?vtype=player&vid=63373&showId=254&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 16
+https://www.alphatv.gr/show/deal/?vtype=player&vid=63436&showId=254&year=2025|webvidfulldig
