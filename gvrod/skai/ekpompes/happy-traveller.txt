@@ -120,10 +120,54 @@ https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2017-03-11-18|webvidf
 https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2017-03-18-18|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1&2",Μαδρίτη 13/05/2017                            
 https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2017-05-13-18|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 4",Μαυρίκιο | Μέρος Α 22/06/2019                            
+#EXTINF:-1 group-title="Σεζόν 3",Λίμνη Πλαστήρα
+https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2018-06-10-18|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 3",Πάργα, Παξοί, Αχέροντας
+https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2018-06-17-18|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 3",Σαμόα
+https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2018-07-01-16|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 3",Χανιά
+https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2018-07-08-16|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 3",Λετονία | Μέρος A
+https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2018-07-15-17|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 3",Λετονία | Μέρος B
+https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2018-07-22-18|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 3",Λετονία | Μέρος Γ
+https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2018-07-29-18|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 3",Κρουαζιέρα | Μέρος Α
+https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2018-09-29-16|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 3",Κρουαζιέρα | Μέρος Β
+https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2018-09-30-16|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 3",Πέλλα
+https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2018-10-06-16|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 3",Σερβική Δημοκρατία της Βοσνίας | Μέρος Α
+https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2018-10-07-16|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 3",Σερβική Δημοκρατία της Βοσνίας | Μέρος Β
+https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2018-10-13-16|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 4",Άλπεις | Ελβετία
+https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2019-04-20-16|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 4",Άλπεις | Ιταλία
+https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2019-05-04-16|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 4",Γεωργία
+https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2019-05-11-16|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 4",Αρμενία
+https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2019-05-18-16|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 4",Βρυξέλλες & Ρότερνταμ
+https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2019-05-25-16|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 4",Βερολίνο
+https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2019-06-01-16|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 4",Εσθονία
+https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2019-06-08-16|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 4",Λιθουανία
+https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2019-06-15-16|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 4",Μαυρίκιο | Μέρος Α
 https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2019-06-22-16|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 4",Σαουδική Αραβία | Μέρος Α 06/07/2019                            
+#EXTINF:-1 group-title="Σεζόν 4",Μαυρίκιο | Μέρος Β
+https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2019-06-29-16|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 4",Σαουδική Αραβία | Μέρος Α
 https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2019-07-06-16|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 4",Σαουδική Αραβία | Μέρος Β
+https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2019-07-13-16|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 5",Φλόριντα | Μέρος Γ 08/02/2020                            
 https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2020-02-08-17|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 5",Ευρυτανία | Μέρος Β 07/03/2020                            
@@ -554,3 +598,11 @@ https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2025-07-27-16|webvidf
 https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2025-08-03-16|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 10",Τήνος | Μέρος Β'
 https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2025-08-10-17|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 11", Ρίο ντε Τζανέιρο | Μέρος Α'
+https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2025-09-21-16|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 11",Ρίο ντε Τζανέιρο | Μέρος Β'
+https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2025-09-28-16|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 11",Μάντσεστερ και Λίβερπουλ
+https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2025-10-05-16|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 11",Αίγινα
+https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2025-10-12-16|webvidfulldig
