@@ -1656,3 +1656,7 @@ https://www.megatv.com/tvshows/2105047/epeisodio-18-92/|webfulldig
 https://www.megatv.com/tvshows/2105050/epeisodio-19-89/|webfulldig
 #EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 20
 https://www.megatv.com/tvshows/2119327/epeisodio-20-89/|webfulldig
+#EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 21
+https://www.megatv.com/tvshows/2119330/epeisodio-21-77/|webfulldig
+#EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 22
+https://www.megatv.com/tvshows/2119336/epeisodio-22-78/|webfulldig

@@ -376,3 +376,7 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=216589&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=216600&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 013 CUISINOVIAΚοτόπουλο και λαχανικά στο ταψί, Μπισκότι με αμύγδαλα και χαλεπιανά.
 https://www.omegatv.com.cy/cgibin/hweb?-A=216607&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 014 CUISINOVIAΡΥΖΙ ΜΕ ΚΟΤΟΠΟΥΛΟ ΚΑΙ ΜΑΝΙΤΑΡΙΑ
+https://www.omegatv.com.cy/cgibin/hweb?-A=216761&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 015 CUISINOVIACaesar salad, Κορμός με φρούτα του δάσους
+https://www.omegatv.com.cy/cgibin/hweb?-A=216763&-V=vod|webfulldig

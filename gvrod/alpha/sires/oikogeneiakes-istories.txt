@@ -1308,3 +1308,7 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63376&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63377&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Αφιλόξενος τόπος
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63430&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",ντελεσμένος μέλλοντας
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63432&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Ψεύτικα διαμάντια
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63433&showId=869&year=2025|webvidfulldig
