@@ -749,11 +749,11 @@ SERIES$$hub://cvyod/omega/ekpompes_arxio/oopene.txt
 
 
 
-#EXTINF:-1 group-title="RIK ΣΕΙΡΕΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== RIK ΚΥΠΡΟΣ ====
-http://.....
 
-#EXTINF:-1 group-title="RIK ΣΕΙΡΕΣ" tvg-logo="https://i.ibb.co/cJtshcJ/rik-logo.png" ,ΟΛΟ ΤΟ ΑΡΧΕΙΟ
-https://digital-herodotus.eu/archive/video/categories/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="RIK ΣΕΙΡΕΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== RIK ====
+http://.....
+#EXTINF:-1 group-title="RIK ΣΕΙΡΕΣ" tvg-logo="https://i.ibb.co/cJtshcJ/rik-logo.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
+https://tv.rik.cy/category/seires/|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="RIK ΣΕΙΡΕΣ" tvg-description="hub://desc/RIK/Τρικυμία.(2022-2025)" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/TRYKIMIA_S.eccd178c.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/trikumia/" ,Τρικυμία (2022-2025)
 SERIES$$hub://cvyod/rik/sires/trikumia.txt
 #EXTINF:-1 group-title="RIK ΣΕΙΡΕΣ" tvg-description="hub://desc/RIK/Περικλής.τζαι.Εριέττα.(2023-2025)" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/PERIKLIS_TZAI_ERIETTA_-_PORTRAIT.17f294d5.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/perikles-tzai-erietta/" ,Περικλής τζαι Εριέττα (2023-2025)
@@ -771,25 +771,36 @@ SERIES$$hub://cvyod/rik/sires_arxio/sta-oria.txt
 
 
 
-#EXTINF:-1 group-title="RIK ΕΚΠΟΜΠΕΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== RIK ΚΥΠΡΟΣ ====
+#EXTINF:-1 group-title="RIK ΕΚΠΟΜΠΕΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== RIK ====
 http://.....
 
-#EXTINF:-1 group-title="RIK ΕΚΠΟΜΠΕΣ" tvg-logo="https://i.ibb.co/cJtshcJ/rik-logo.png" ,ΟΛΟ ΤΟ ΑΡΧΕΙΟ
-https://digital-herodotus.eu/archive/video/categories/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="RIK ΕΚΠΟΜΠΕΣ" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/OMORFH_MERA_S.598a4d19.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/omorphe-mera/" ,Όμορφη Μέρα
-SERIES$$hub://cvyod/rik/ekpompes/omorphe-mera.txt
-#EXTINF:-1 group-title="RIK ΕΚΠΟΜΠΕΣ" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2024/10/10/FILOI_GIA_PANTA_B.2e16d0ba.fill-450x253.jpg" tvg-website="https://tv.rik.cy/el/show/philoi-gia-panta/" ,Φίλοι για Πάντα
-SERIES$$hub://cvyod/rik/ekpompes/philoi-gia-panta.txt
-#EXTINF:-1 group-title="RIK ΕΚΠΟΜΠΕΣ" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2024/10/10/STON_ASTERION_TIS_NOTES_S.2e16d0ba.fill-350x500.jpg" tvg-website="https://tv.rik.cy/el/show/ston-asterion-tis-notes/" ,Στων Αστεριών τις Νότες
-SERIES$$hub://cvyod/rik/ekpompes/ston-asterion-tis-notes.txt
-#EXTINF:-1 group-title="RIK ΕΚΠΟΜΠΕΣ" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2024/10/10/KYPROS_TO_MEGALEIO_SOU_S.2e16d0ba.fill-350x500.jpg" tvg-website="https://tv.rik.cy/el/show/kupros-to-megaleio-sou/" ,Κύπρος το Μεγαλείο σου
-SERIES$$hub://cvyod/rik/ekpompes/kupros-to-megaleio-sou.txt
+#EXTINF:-1 group-title="RIK ΕΚΠΟΜΠΕΣ" tvg-logo="https://i.ibb.co/cJtshcJ/rik-logo.png" ,ΟΛΕΣ ΟΙ ΕΚΠΟΜΠΕΣ
+https://tv.rik.cy/category/psukhagogia/|webvod zoom=100 scroll=0,0
+
+#EXTINF:-1 group-title="RIK ΕΚΠΟΜΠΕΣ" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/S_EKTOS_DIADROMHS.2e16d0ba.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/ektos-diadromes/" ,Εκτος Διαδρομης
+SERIES$$hub://cvyod/rik/ekpompes/ektos-diadromes.txt
+#EXTINF:-1 group-title="RIK ΕΚΠΟΜΠΕΣ" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/19/MHN_KAPSEIS_KOUZINA_S.2e16d0ba.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/men-kapseis-ten-kouzina/" ,Μην Καψεις την Κουζινα
+SERIES$$hub://cvyod/rik/ekpompes/men-kapseis-ten-kouzina.txt
 #EXTINF:-1 group-title="RIK ΕΚΠΟΜΠΕΣ" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2024/10/10/GEYSTIKO_TAKSIDI_S.2e16d0ba.fill-350x500.jpg" tvg-website="https://tv.rik.cy/el/show/geustiko-taxidi/" ,Γευστικό Ταξίδι
 SERIES$$hub://cvyod/rik/ekpompes/geustiko-taxidi.txt
-#EXTINF:-1 group-title="RIK ΕΚΠΟΜΠΕΣ" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOUZINA_SE_RODES_Portrait.deb631d4.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/kouzina-se-rodes/" ,Κουζίνα σε Ρόδες
-SERIES$$hub://cvyod/rik/ekpompes_arxio/kouzina-se-rodes.txt
+#EXTINF:-1 group-title="RIK ΕΚΠΟΜΠΕΣ" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/TIKKI_TOKKO_S.2e16d0ba.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/ttikki-ttokko/" ,Ττικκι Ττοκκο
+SERIES$$hub://cvyod/rik/ekpompes/ttikki-ttokko.txt
+#EXTINF:-1 group-title="RIK ΕΚΠΟΜΠΕΣ" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/S_STO_NHSI.2e16d0ba.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/sto-nesi/" ,Στο Νησί
+SERIES$$hub://cvyod/rik/ekpompes/sto-nesi.txt
+#EXTINF:-1 group-title="RIK ΕΚΠΟΜΠΕΣ" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/S_XORION.2e16d0ba.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/khorion/" ,ΧωριΟΝ
+SERIES$$hub://cvyod/rik/ekpompes/khorion.txt
+#EXTINF:-1 group-title="RIK ΕΚΠΟΜΠΕΣ" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/OMORFH_MERA_S.598a4d19.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/omorphe-mera/" ,Όμορφη Μέρα
+SERIES$$hub://cvyod/rik/ekpompes/omorphe-mera.txt
+#EXTINF:-1 group-title="RIK ΕΚΠΟΜΠΕΣ" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2024/10/10/STON_ASTERION_TIS_NOTES_S.2e16d0ba.fill-350x500.jpg" tvg-website="https://tv.rik.cy/el/show/ston-asterion-tis-notes/" ,Στων Αστεριών τις Νότες
+SERIES$$hub://cvyod/rik/ekpompes/ston-asterion-tis-notes.txt
 #EXTINF:-1 group-title="RIK ΕΚΠΟΜΠΕΣ" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/GEFSTIKO_TAKSIDI_S.20d561ad.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/geustiko-taxidi-sto-khorio/" ,Γευστικό Ταξίδι στο Χωριό
 SERIES$$hub://cvyod/rik/ekpompes_arxio/geustiko-taxidi-sto-khorio.txt
+#EXTINF:-1 group-title="RIK ΕΚΠΟΜΠΕΣ" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2024/10/10/FILOI_GIA_PANTA_B.2e16d0ba.fill-450x253.jpg" tvg-website="https://tv.rik.cy/el/show/philoi-gia-panta/" ,Φίλοι για Πάντα
+SERIES$$hub://cvyod/rik/ekpompes/philoi-gia-panta.txt
+#EXTINF:-1 group-title="RIK ΕΚΠΟΜΠΕΣ" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2024/10/10/KYPROS_TO_MEGALEIO_SOU_S.2e16d0ba.fill-350x500.jpg" tvg-website="https://tv.rik.cy/el/show/kupros-to-megaleio-sou/" ,Κύπρος το Μεγαλείο σου
+SERIES$$hub://cvyod/rik/ekpompes/kupros-to-megaleio-sou.txt
+#EXTINF:-1 group-title="RIK ΕΚΠΟΜΠΕΣ" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOUZINA_SE_RODES_Portrait.deb631d4.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/kouzina-se-rodes/" ,Κουζίνα σε Ρόδες
+SERIES$$hub://cvyod/rik/ekpompes_arxio/kouzina-se-rodes.txt
 #EXTINF:-1 group-title="RIK ΕΚΠΟΜΠΕΣ" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/PARADOSIAKH_VRADIA_S.14377fd0.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/paradosiake-bradia/" ,Παραδοσιακή Βραδιά
 SERIES$$hub://cvyod/rik/ekpompes_arxio/paradosiake-bradia.txt
 #EXTINF:-1 group-title="RIK ΕΚΠΟΜΠΕΣ" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/KOITA_ME_STA_MATIA_small.2e16d0ba.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/koita-me-sta-matia/" ,Κοίτα με στα Μάτια
@@ -806,11 +817,11 @@ SERIES$$hub://cvyod/rik/ekpompes_arxio/kodikas-siopes.txt
 
 
 
-#EXTINF:-1 group-title="RIK ΑΡΧΕΙΟ ΣΕΙΡΕΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== RIK ΑΡΧΕΙΟ ΣΕΙΡΕΣ ΚΥΠΡΟΣ ====
+#EXTINF:-1 group-title="RIK ΑΡΧΕΙΟ ΣΕΙΡΕΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== RIK ΑΡΧΕΙΟ ΣΕΙΡΕΣ ====
 http://.....
 
-#EXTINF:-1 group-title="RIK ΑΡΧΕΙΟ ΣΕΙΡΕΣ" tvg-logo="https://i.ibb.co/cJtshcJ/rik-logo.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
-https://tv.rik.cy/category/seires/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="RIK ΑΡΧΕΙΟ ΣΕΙΡΕΣ" tvg-logo="https://i.ibb.co/cJtshcJ/rik-logo.png" ,ΟΛΟ ΤΟ ΑΡΧΕΙΟ
+https://digital-herodotus.eu/archive/video/categories/|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="RIK ΑΡΧΕΙΟ ΣΕΙΡΕΣ" tvg-logo="https://i.vimeocdn.com/video/1528511355-323440cbc4d762a15325257222da6b98719e59d8e81dd792dcb97b0c37c50781-d_640" tvg-website="https://digital-herodotus.eu/archive/video/items/8847/katothkion-tes-madares-002/?page=1" ,ΚΑΤΩΘΚΙΟΝ ΤΗΣ ΜΑΔΑΡΗΣ (1967) (ΣΕΙΡΑ)
 SERIES$$hub://cvyod/rik/arxio/katothkion-tes-madares.txt
 #EXTINF:-1 group-title="RIK ΑΡΧΕΙΟ ΣΕΙΡΕΣ" tvg-description="hub://desc/RIK/Η.Φροσού.(1977)" tvg-logo="https://i.vimeocdn.com/video/760847306-9ab8b0531f5261f5245f4f705598e4b301b21ae8f88f9cb6ab46d0a86a68d3b0-d_640" tvg-website="https://digital-herodotus.eu/archive/video/items/1845/e-phrosou-a002/?page=1" ,Η ΦΡΟΣΟΥ (1977) (ΣΕΙΡΑ)
@@ -913,7 +924,7 @@ SERIES$$hub://cvyod/rik/arxio/khronographema.txt
 http://.....
 
 #EXTINF:-1 group-title="RIK ΑΡΧΕΙΟ ΤΑΙΝΙΕΣ" tvg-logo="https://i.ibb.co/cJtshcJ/rik-logo.png" ,ΟΛΕΣ ΟΙ ΤΑΙΝΙΕΣ
-https://tv.rik.cy/category/seires/|webvod zoom=100 scroll=0,0
+https://digital-herodotus.eu/archive/video/categories/|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="RIK ΑΡΧΕΙΟ ΤΑΙΝΙΕΣ" tvg-logo="https://i.vimeocdn.com/video/764482094-4dca5d3929eeb4f9e4d36c55cd6d6ac57799184a3d73bd270093d2c580ddec60-d_640" tvg-website="https://digital-herodotus.eu/archive/video/items/2246/e-elia-tou-ae-basile/?page=1" ,Η ΕΛΙΑ ΤΟΥ ΑΗ ΒΑΣΙΛΗ(29/12/1973)
 https://digital-herodotus.eu/archive/video/items/2246/e-elia-tou-ae-basile/?page=1|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="RIK ΑΡΧΕΙΟ ΤΑΙΝΙΕΣ" tvg-logo="https://i.vimeocdn.com/video/751222690-f892265a6c17b431f2bf5eb7fbbe07166737df7b82b80551ec36f980e715f1f3-d_640" tvg-website="https://digital-herodotus.eu/archive/video/items/963/to-damalin-tou-upermakhou/?page=1" ,ΤΟ ΔΑΜΑΛΙΝ ΤΟΥ ΥΠΕΡΜΑΧΟΥ(08/11/1974)
