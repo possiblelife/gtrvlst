@@ -1312,3 +1312,7 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63430&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63432&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Ψεύτικα διαμάντια
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63433&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Πολύ μεταξύ μας
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63434&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Η απαίτηση
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63435&showId=869&year=2025|webvidfulldig

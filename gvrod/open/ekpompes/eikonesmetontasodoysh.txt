@@ -794,10 +794,6 @@ https://www.tvopen.gr/watch/205884/paliaperitheiatooreinoxoriofantasmathskerkyra
 https://www.tvopen.gr/watch/206610/apolambanoymethnpaliapolhthskerkyrasstoxhmeroma|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Στον ναό του Αγίου Σπυρίδωνα του πολιούχου της Κέρκυρας
 https://www.tvopen.gr/watch/206611/stonnaotoyagioyspyridonatoypolioyxoythskerkyras|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εξερευνούμε την παλιά πόλη της Νίκαιας
-https://www.tvopen.gr/watch/206637/exereynoymethnpaliapolhthsnikaias|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Ανακαλύπτουμε το χωριό-οχηρό Εζ
-https://www.tvopen.gr/watch/206638/anakalyptoymetoxoriooxhroez|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Περπατάμε στην κομψή και γοητευτική πλατεία Μασένα
 https://www.tvopen.gr/watch/207055/perpatamesthnkompshkaigohteytikhplateiamasena|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Βόλτα στο μικρό και γραφικό λιμάνι της Νίκαιας
@@ -816,6 +812,10 @@ https://www.tvopen.gr/watch/210040/perihghshsthmageytikhpaliapolhtoytalin|webvid
 https://www.tvopen.gr/watch/210041/plateiadhmarxeioyperikyklomenhapomesaionikakthria|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ξενάγηση στον ιστορικό ναό του Αγίου Νικολάου, του πολιούχου της πόλης
 https://www.tvopen.gr/watch/210575/xenaghshstonistorikonaotoyagioynikolaoytoypolioyxoythspolhs|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εξερευνούμε την παλιά πόλη της Νίκαιας
+https://www.tvopen.gr/watch/206637/exereynoymethnpaliapolhthsnikaias|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Ανακαλύπτουμε το χωριό-οχηρό Εζ
+https://www.tvopen.gr/watch/206638/anakalyptoymetoxoriooxhroez|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Άνω Βαθύ: Παραδοσιακός οικισμός απείρου κάλλους
 https://www.tvopen.gr/watch/210576/anobathyparadosiakosoikismosapeiroykalloys|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Καρδαμύλη: Εξερευνούμε το κρυφό «διαμάντι» της Μάνης
@@ -1208,12 +1208,8 @@ https://www.tvopen.gr/watch/100866/eikonesmetontasodoysh7ckeiptaoynbe28099meros|
 https://www.tvopen.gr/watch/102927/eikonesmetontasodoysh7cethnikoparkokroygkernotiaafrikh|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Ιράν-Τεχεράνη
 https://www.tvopen.gr/watch/104058/eikonesmetontasodoysh7cirantexeranh|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες 05/10/2025: Πρώτος προορισμός της σεζόν, η ονειρική ακτή Αμάλφι
-https://www.tvopen.gr/watch/253666/eikones052f102f2025protosproorismosthssezonhoneirikhakthamalfi|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Ιράν-Σιράζ
 https://www.tvopen.gr/watch/105092/eikonesmetontasodoysh7ciransiraz|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Ακτή Αμάλφι
-https://www.tvopen.gr/watch/254190/eikonesmetontasodoyshakthamalfi|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Ιράν-Γιαζντ
 https://www.tvopen.gr/watch/105791/eikonesmetontasodoysh7cirangiaznt|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Ιράν-Ισφαχάν, Α' μέρος
@@ -1520,3 +1516,7 @@ https://www.tvopen.gr/watch/246656/eikonesmetontasodoyshandros|webvidfulldig
 https://www.tvopen.gr/watch/248508/eikonesmetontasodoyshrodosameros|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Ρόδος Β μέρος
 https://www.tvopen.gr/watch/248526/eikonesmetontasodoyshrodosbmeros|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες 05/10/2025: Πρώτος προορισμός της σεζόν, η ονειρική ακτή Αμάλφι
+https://www.tvopen.gr/watch/253666/eikones052f102f2025protosproorismosthssezonhoneirikhakthamalfi|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Ακτή Αμάλφι
+https://www.tvopen.gr/watch/254190/eikonesmetontasodoyshakthamalfi|webvidfulldig

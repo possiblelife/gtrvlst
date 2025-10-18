@@ -1,7 +1,3 @@
-#EXTINF:-1 group-title="4η Σεζόν",ROUK ZOUK – ΕΠΕΙΣΟΔΙΟ 141
-https://www.antenna.gr/watch/1458990/rouk-zouk-epeisodio-141-4i-sezon|webvidfulldig
-#EXTINF:-1 group-title="4η Σεζόν",ROUK ZOUK – ΕΠΕΙΣΟΔΙΟ 142
-https://www.antenna.gr/watch/1459423/rouk-zouk-epeisodio-142-4i-sezon|webvidfulldig
 #EXTINF:-1 group-title="4η Σεζόν",ROUK ZOUK – ΕΠΕΙΣΟΔΙΟ 143
 https://www.antenna.gr/watch/1459747/rouk-zouk-epeisodio-143-4i-sezon|webvidfulldig
 #EXTINF:-1 group-title="4η Σεζόν",ROUK ZOUK – ΕΠΕΙΣΟΔΙΟ 144
@@ -96,18 +92,18 @@ https://www.antenna.gr/watch/1676731/rouk-zouk-epeisodio-29-7i-sezon|webvidfulld
 https://www.antenna.gr/watch/1677073/rouk-zouk-epeisodio-30-7i-sezon|webvidfulldig
 #EXTINF:-1 group-title="7η ΣΕΖΟΝ",ROUK ZOUK - ΕΠΕΙΣΟΔΙΟ 31
 https://www.antenna.gr/watch/1677720/rouk-zouk-epeisodio-31-7i-sezon|webvidfulldig
-#EXTINF:-1 group-title="7η ΣΕΖΟΝ",ROUK ZOUK - ΕΠΕΙΣΟΔΙΟ 32
-https://www.antenna.gr/watch/1678056/rouk-zouk-epeisodio-32-7i-sezon|webvidfulldig
-#EXTINF:-1 group-title="7η ΣΕΖΟΝ",ROUK ZOUK - ΕΠΕΙΣΟΔΙΟ 33
-https://www.antenna.gr/watch/1678411/rouk-zouk-epeisodio-33-7i-sezon|webvidfulldig
-#EXTINF:-1 group-title="7η ΣΕΖΟΝ",ROUK ZOUK - ΕΠΕΙΣΟΔΙΟ 34
-https://www.antenna.gr/watch/1678645/rouk-zouk-epeisodio-34-7i-sezon|webvidfulldig
 #EXTINF:-1 group-title="7η ΣΕΖΟΝ",ROUK ZOUK - ΕΠΕΙΣΟΔΙΟ 35
 https://www.antenna.gr/watch/1678909/rouk-zouk-epeisodio-35-7i-sezon|webvidfulldig
 #EXTINF:-1 group-title="7η ΣΕΖΟΝ",ROUK ZOUK - ΕΠΕΙΣΟΔΙΟ 36
 https://www.antenna.gr/watch/1679660/rouk-zouk-epeisodio-36-7i-sezon|webvidfulldig
 #EXTINF:-1 group-title="7η ΣΕΖΟΝ",ROUK ZOUK - ΕΠΕΙΣΟΔΙΟ 37
 https://www.antenna.gr/watch/1679914/rouk-zouk-epeisodio-37-7i-sezon|webvidfulldig
+#EXTINF:-1 group-title="7η ΣΕΖΟΝ",ROUK ZOUK - ΕΠΕΙΣΟΔΙΟ 32
+https://www.antenna.gr/watch/1678056/rouk-zouk-epeisodio-32-7i-sezon|webvidfulldig
+#EXTINF:-1 group-title="7η ΣΕΖΟΝ",ROUK ZOUK - ΕΠΕΙΣΟΔΙΟ 33
+https://www.antenna.gr/watch/1678411/rouk-zouk-epeisodio-33-7i-sezon|webvidfulldig
+#EXTINF:-1 group-title="7η ΣΕΖΟΝ",ROUK ZOUK - ΕΠΕΙΣΟΔΙΟ 34
+https://www.antenna.gr/watch/1678645/rouk-zouk-epeisodio-34-7i-sezon|webvidfulldig
 #EXTINF:-1 group-title="7η ΣΕΖΟΝ",ROUK ZOUK - ΕΠΕΙΣΟΔΙΟ 38
 https://www.antenna.gr/watch/1680230/rouk-zouk-epeisodio-38-7i-sezon|webvidfulldig
 #EXTINF:-1 group-title="7η ΣΕΖΟΝ",ROUK ZOUK - ΕΠΕΙΣΟΔΙΟ 39
@@ -812,3 +808,7 @@ https://www.antenna.gr/watch/1919335/rouk-zouk-epeisodio-16-9i-sezon|webvidfulld
 https://www.antenna.gr/watch/1919587/rouk-zouk-epeisodio-17-9i-sezon|webvidfulldig
 #EXTINF:-1 group-title="9η ΣΕΖΟΝ",ROUK ZOUK - ΕΠΕΙΣΟΔΙΟ 18
 https://www.antenna.gr/watch/1919939/rouk-zouk-epeisodio-18-9i-sezon|webvidfulldig
+#EXTINF:-1 group-title="9η ΣΕΖΟΝ",ROUK ZOUK - ΕΠΕΙΣΟΔΙΟ 19
+https://www.antenna.gr/watch/1920248/rouk-zouk-epeisodio-19-9i-sezon|webvidfulldig
+#EXTINF:-1 group-title="9η ΣΕΖΟΝ",ROUK ZOUK - ΕΠΕΙΣΟΔΙΟ 20
+https://www.antenna.gr/watch/1920522/rouk-zouk-epeisodio-20-9i-sezon|webvidfulldig

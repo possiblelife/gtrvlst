@@ -46,3 +46,7 @@ https://www.megatv.com/gtvshows/2123467/epeisodio-22-17/|webfulldig
 https://www.megatv.com/gtvshows/2124454/epeisodio-23-17/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 24
 https://www.megatv.com/gtvshows/2126179/epeisodio-24-17/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 25
+https://www.megatv.com/gtvshows/2126185/epeisodio-25-15/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 26
+https://www.megatv.com/gtvshows/2128090/epeisodio-26-15/|webfulldig

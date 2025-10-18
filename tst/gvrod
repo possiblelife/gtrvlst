@@ -339,8 +339,12 @@ http://.....
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://i.ibb.co/2MdmBxK/skai.jpg" ,ΟΛΕΣ ΟΙ  ΕΚΠΟΜΠΕΣ
 https://www.skai.gr/tv/shows/psuchagogia|webvod zoom=100 scroll=0,0
 
-
-
+#EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/stin_agkalia_tou_fani/2025_2026/logos/fanis_landscape2.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/stin-agkalia-tou-fani/sezon-2025-2026" ,Στην Αγκαλιά του Φάνη (2024-2026)
+SERIES$$hub://gvrod/skai/ekpompes/stin-agkalia-tou-fani.txt
+#EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/i_ellada_psifizei/logos/ellada_psifizei_new_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/i-ellada-psifizei/sezon-2025-2026" ,Η Ελλάδα Ψηφίζει (2024-2026)
+SERIES$$hub://gvrod/skai/ekpompes/i-ellada-psifizei.txt
+#EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/the_floor/logos/the_floor1_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/the-floor/sezon-2025-2026" ,The Floor (2025-2026)
+SERIES$$hub://gvrod/skai/ekpompes/the-floor.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/diaxorizo_ti_thesi_mou/2025_-_2026/diaxvrizw_ti_thesi_mou1_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/diachorizo-ti-thesi-mou/sezon-2025-2026" ,Διαχωρίζω τη Θέση Μου (2025-2026)
 SERIES$$hub://gvrod/skai/ekpompes/diachorizo-ti-thesi-mou.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/the_wall/2025_2026/logos/the_wall_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/the-wall/sezon-2025-2026" ,The Wall (2025-2026)
@@ -359,8 +363,6 @@ SERIES$$hub://gvrod/skai/ekpompes/mellon-ena.txt
 SERIES$$hub://gvrod/skai/ekpompes/pluntirio.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/psichagogia/2024_2025/pet_stories.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/pet-stories/pet-stories" ,Pet Stories (2025-2026)
 SERIES$$hub://gvrod/skai/ekpompes/pet-stories.txt
-#EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/i_ellada_psifizei/logos/ellada_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/i-ellada-psifizei/sezon-2024-2025" ,Η Ελλάδα Ψηφίζει (2024-2026)
-SERIES$$hub://gvrod/skai/ekpompes/i-ellada-psifizei.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/1/TV  Photo archive/tv_photos_980_400/psyxagwgia_2/1920x1080_bletsas.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/happy-traveller/sezon-2016-2017" ,Happy Traveller(2016-2026)
 SERIES$$hub://gvrod/skai/ekpompes/happy-traveller.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/big_brother/logos/bb_petros_landscape2.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/big-brother/sezon-2024-2025" ,Big Brother (2024-2025)
