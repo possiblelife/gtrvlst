@@ -1316,3 +1316,5 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63433&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63434&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Η απαίτηση
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63435&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Η γαμοβάφτιση
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63511&showId=869&year=2025|webvidfulldig

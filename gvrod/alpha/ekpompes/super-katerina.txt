@@ -1672,3 +1672,5 @@ https://www.alphatv.gr/show/super-katerina/?vtype=player&vid=63479&showId=1314&y
 https://www.alphatv.gr/show/super-katerina/?vtype=player&vid=63488&showId=1314&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 5",17/10/25
 https://www.alphatv.gr/show/super-katerina/?vtype=player&vid=63496&showId=1314&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 5",20/10/25
+https://www.alphatv.gr/show/super-katerina/?vtype=player&vid=63524&showId=1314&year=2025|webvidfulldig
