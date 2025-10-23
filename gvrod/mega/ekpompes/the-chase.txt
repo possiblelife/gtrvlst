@@ -1,5 +1,3 @@
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 1
-https://www.megatv.com/gtvshows/2095036/epeisodio-1-24/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 2
 https://www.megatv.com/gtvshows/2095708/epeisodio-2-23/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 3
@@ -56,3 +54,7 @@ https://www.megatv.com/gtvshows/2130289/epeisodio-27-16/|webfulldig
 https://www.megatv.com/gtvshows/2130295/epeisodio-28-16/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 29
 https://www.megatv.com/gtvshows/2130301/epeisodio-29-16/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 30
+https://www.megatv.com/gtvshows/2133754/epeisodio-30-16/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 31
+https://www.megatv.com/gtvshows/2135986/epeisodio-31-17/|webfulldig

@@ -388,3 +388,7 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=216773&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=216783&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 019 CUISINOVIAΚρύα σαλάτα με ρύζι και γαρίδες, Τάρτα μπράουνι και γκανάζ φουντουκιού
 https://www.omegatv.com.cy/cgibin/hweb?-A=216784&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 020 CUISINOVIAΚοτόπουλο με κόκκινο πέστο και ριγκατόνι , Κέικ κανέλας με καρύδια
+https://www.omegatv.com.cy/cgibin/hweb?-A=216848&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 021 CUISINOVIAΚριθαρότο με μανιτάρια, ΚΑΡΒΕΛΙ ΜΕ ΧΑΛΟΥΜΙ ΚΑΙ ΕΛΙΕΣ
+https://www.omegatv.com.cy/cgibin/hweb?-A=216885&-V=vod|webfulldig

@@ -454,3 +454,7 @@ https://www.megatv.com/gtvshows/2127238/16-10-25/|webfulldig
 https://www.megatv.com/gtvshows/2128696/17-10-25/|webfulldig
 #EXTINF:-1 group-title="Κύκλος 2",20/10/25
 https://www.megatv.com/gtvshows/2132470/20-10-25/|webfulldig
+#EXTINF:-1 group-title="Κύκλος 2",21/10/25
+https://www.megatv.com/gtvshows/2133820/21-10-25/|webfulldig
+#EXTINF:-1 group-title="Κύκλος 2",22/10/25
+https://www.megatv.com/gtvshows/2135221/22-10-25/|webfulldig
