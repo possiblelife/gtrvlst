@@ -18,38 +18,6 @@
   <channel id="extacy">
     <display-name lang="el">extacy</display-name>
   </channel>
-  <programme start="20251022000000 +0300" stop="20251022060000 +0300" channel="extacygr">
-    <title lang="el">Ελληνικές ταινίες</title>
-   <desc lang="el">Μια σειρά από κλασικές ελληνικές ταινίες που θα σας ταξιδέψουν στο παρελθόν.</desc>
-  </programme>
-  <programme start="20251022060000 +0300" stop="20251022120000 +0300" channel="extacygr">
-    <title lang="el">Ελληνικές ταινίες</title>
-   <desc lang="el">Μια σειρά από κλασικές ελληνικές ταινίες που θα σας ταξιδέψουν στο παρελθόν.</desc>
-  </programme>
-  <programme start="20251022120000 +0300" stop="20251022180000 +0300" channel="extacygr">
-    <title lang="el">Ελληνικές ταινίες</title>
-   <desc lang="el">Μια σειρά από κλασικές ελληνικές ταινίες που θα σας ταξιδέψουν στο παρελθόν.</desc>
-  </programme>
-  <programme start="20251022180000 +0300" stop="20251022235900 +0300" channel="extacygr">
-    <title lang="el">Ελληνικές ταινίες</title>
-   <desc lang="el">Μια σειρά από κλασικές ελληνικές ταινίες που θα σας ταξιδέψουν στο παρελθόν.</desc>
-  </programme>
-  <programme start="20251023000000 +0300" stop="20251023060000 +0300" channel="extacygr">
-    <title lang="el">Ελληνικές ταινίες</title>
-   <desc lang="el">Μια σειρά από κλασικές ελληνικές ταινίες που θα σας ταξιδέψουν στο παρελθόν.</desc>
-  </programme>
-  <programme start="20251023060000 +0300" stop="20251023120000 +0300" channel="extacygr">
-    <title lang="el">Ελληνικές ταινίες</title>
-   <desc lang="el">Μια σειρά από κλασικές ελληνικές ταινίες που θα σας ταξιδέψουν στο παρελθόν.</desc>
-  </programme>
-  <programme start="20251023120000 +0300" stop="20251023180000 +0300" channel="extacygr">
-    <title lang="el">Ελληνικές ταινίες</title>
-   <desc lang="el">Μια σειρά από κλασικές ελληνικές ταινίες που θα σας ταξιδέψουν στο παρελθόν.</desc>
-  </programme>
-  <programme start="20251023180000 +0300" stop="20251023235900 +0300" channel="extacygr">
-    <title lang="el">Ελληνικές ταινίες</title>
-   <desc lang="el">Μια σειρά από κλασικές ελληνικές ταινίες που θα σας ταξιδέψουν στο παρελθόν.</desc>
-  </programme>
   <programme start="20251024000000 +0300" stop="20251024060000 +0300" channel="extacygr">
     <title lang="el">Ελληνικές ταινίες</title>
    <desc lang="el">Μια σειρά από κλασικές ελληνικές ταινίες που θα σας ταξιδέψουν στο παρελθόν.</desc>
@@ -82,37 +50,37 @@
     <title lang="el">Ελληνικές ταινίες</title>
    <desc lang="el">Μια σειρά από κλασικές ελληνικές ταινίες που θα σας ταξιδέψουν στο παρελθόν.</desc>
   </programme>
-  <programme start="20251022000000 +0300" stop="20251022070000 +0300" channel="zeys">
-    <title lang="el">Ξένες ταινίες</title>
-   <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
-  </programme>
-  <programme start="20251022070000 +0300" stop="20251022140000 +0300" channel="zeys">
-    <title lang="el">Παιδικό πρόγραμμα</title>
-   <desc lang="el">Το καλύτερο παιδικό πρόγραμμα για τους μικρούς μας φίλους.</desc>
-  </programme>
-  <programme start="20251022140000 +0300" stop="20251022170000 +0300" channel="zeys">
+  <programme start="20251026000000 +0300" stop="20251026060000 +0300" channel="extacygr">
     <title lang="el">Ελληνικές ταινίες</title>
    <desc lang="el">Μια σειρά από κλασικές ελληνικές ταινίες που θα σας ταξιδέψουν στο παρελθόν.</desc>
   </programme>
-  <programme start="20251022170000 +0300" stop="20251022235900 +0300" channel="zeys">
-    <title lang="el">Ξένες ταινίες</title>
-   <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
-  </programme>
-  <programme start="20251023000000 +0300" stop="20251023070000 +0300" channel="zeys">
-    <title lang="el">Ξένες ταινίες</title>
-   <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
-  </programme>
-  <programme start="20251023070000 +0300" stop="20251023140000 +0300" channel="zeys">
-    <title lang="el">Παιδικό πρόγραμμα</title>
-   <desc lang="el">Το καλύτερο παιδικό πρόγραμμα για τους μικρούς μας φίλους.</desc>
-  </programme>
-  <programme start="20251023140000 +0300" stop="20251023170000 +0300" channel="zeys">
+  <programme start="20251026060000 +0300" stop="20251026120000 +0300" channel="extacygr">
     <title lang="el">Ελληνικές ταινίες</title>
    <desc lang="el">Μια σειρά από κλασικές ελληνικές ταινίες που θα σας ταξιδέψουν στο παρελθόν.</desc>
   </programme>
-  <programme start="20251023170000 +0300" stop="20251023235900 +0300" channel="zeys">
-    <title lang="el">Ξένες ταινίες</title>
-   <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
+  <programme start="20251026120000 +0300" stop="20251026180000 +0300" channel="extacygr">
+    <title lang="el">Ελληνικές ταινίες</title>
+   <desc lang="el">Μια σειρά από κλασικές ελληνικές ταινίες που θα σας ταξιδέψουν στο παρελθόν.</desc>
+  </programme>
+  <programme start="20251026180000 +0300" stop="20251026235900 +0300" channel="extacygr">
+    <title lang="el">Ελληνικές ταινίες</title>
+   <desc lang="el">Μια σειρά από κλασικές ελληνικές ταινίες που θα σας ταξιδέψουν στο παρελθόν.</desc>
+  </programme>
+  <programme start="20251027000000 +0300" stop="20251027060000 +0300" channel="extacygr">
+    <title lang="el">Ελληνικές ταινίες</title>
+   <desc lang="el">Μια σειρά από κλασικές ελληνικές ταινίες που θα σας ταξιδέψουν στο παρελθόν.</desc>
+  </programme>
+  <programme start="20251027060000 +0300" stop="20251027120000 +0300" channel="extacygr">
+    <title lang="el">Ελληνικές ταινίες</title>
+   <desc lang="el">Μια σειρά από κλασικές ελληνικές ταινίες που θα σας ταξιδέψουν στο παρελθόν.</desc>
+  </programme>
+  <programme start="20251027120000 +0300" stop="20251027180000 +0300" channel="extacygr">
+    <title lang="el">Ελληνικές ταινίες</title>
+   <desc lang="el">Μια σειρά από κλασικές ελληνικές ταινίες που θα σας ταξιδέψουν στο παρελθόν.</desc>
+  </programme>
+  <programme start="20251027180000 +0300" stop="20251027235900 +0300" channel="extacygr">
+    <title lang="el">Ελληνικές ταινίες</title>
+   <desc lang="el">Μια σειρά από κλασικές ελληνικές ταινίες που θα σας ταξιδέψουν στο παρελθόν.</desc>
   </programme>
   <programme start="20251024000000 +0300" stop="20251024070000 +0300" channel="zeys">
     <title lang="el">Ξένες ταινίες</title>
@@ -146,35 +114,35 @@
     <title lang="el">Ξένες ταινίες</title>
    <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
   </programme>
-  <programme start="20251022000000 +0300" stop="20251022070000 +0300" channel="extacycin">
+  <programme start="20251026000000 +0300" stop="20251026070000 +0300" channel="zeys">
     <title lang="el">Ξένες ταινίες</title>
    <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
   </programme>
-  <programme start="20251022070000 +0300" stop="20251022140000 +0300" channel="extacycin">
+  <programme start="20251026070000 +0300" stop="20251026140000 +0300" channel="zeys">
+    <title lang="el">Παιδικό πρόγραμμα</title>
+   <desc lang="el">Το καλύτερο παιδικό πρόγραμμα για τους μικρούς μας φίλους.</desc>
+  </programme>
+  <programme start="20251026140000 +0300" stop="20251026170000 +0300" channel="zeys">
+    <title lang="el">Ελληνικές ταινίες</title>
+   <desc lang="el">Μια σειρά από κλασικές ελληνικές ταινίες που θα σας ταξιδέψουν στο παρελθόν.</desc>
+  </programme>
+  <programme start="20251026170000 +0300" stop="20251026235900 +0300" channel="zeys">
     <title lang="el">Ξένες ταινίες</title>
    <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
   </programme>
-  <programme start="20251022140000 +0300" stop="20251022170000 +0300" channel="extacycin">
+  <programme start="20251027000000 +0300" stop="20251027070000 +0300" channel="zeys">
     <title lang="el">Ξένες ταινίες</title>
    <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
   </programme>
-  <programme start="20251022170000 +0300" stop="20251022235900 +0300" channel="extacycin">
-    <title lang="el">Ξένες ταινίες</title>
-   <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
+  <programme start="20251027070000 +0300" stop="20251027140000 +0300" channel="zeys">
+    <title lang="el">Παιδικό πρόγραμμα</title>
+   <desc lang="el">Το καλύτερο παιδικό πρόγραμμα για τους μικρούς μας φίλους.</desc>
   </programme>
-  <programme start="20251023000000 +0300" stop="20251023070000 +0300" channel="extacycin">
-    <title lang="el">Ξένες ταινίες</title>
-   <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
+  <programme start="20251027140000 +0300" stop="20251027170000 +0300" channel="zeys">
+    <title lang="el">Ελληνικές ταινίες</title>
+   <desc lang="el">Μια σειρά από κλασικές ελληνικές ταινίες που θα σας ταξιδέψουν στο παρελθόν.</desc>
   </programme>
-  <programme start="20251023070000 +0300" stop="20251023140000 +0300" channel="extacycin">
-    <title lang="el">Ξένες ταινίες</title>
-   <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
-  </programme>
-  <programme start="20251023140000 +0300" stop="20251023170000 +0300" channel="extacycin">
-    <title lang="el">Ξένες ταινίες</title>
-   <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
-  </programme>
-  <programme start="20251023170000 +0300" stop="20251023235900 +0300" channel="extacycin">
+  <programme start="20251027170000 +0300" stop="20251027235900 +0300" channel="zeys">
     <title lang="el">Ξένες ταινίες</title>
    <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
   </programme>
@@ -210,37 +178,37 @@
     <title lang="el">Ξένες ταινίες</title>
    <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
   </programme>
-  <programme start="20251022000000 +0300" stop="20251022070000 +0300" channel="extacykids">
-    <title lang="el">Παιδικό πρόγραμμα</title>
-   <desc lang="el">Το καλύτερο παιδικό πρόγραμμα για τους μικρούς μας φίλους.</desc>
+  <programme start="20251026000000 +0300" stop="20251026070000 +0300" channel="extacycin">
+    <title lang="el">Ξένες ταινίες</title>
+   <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
   </programme>
-  <programme start="20251022070000 +0300" stop="20251022140000 +0300" channel="extacykids">
-    <title lang="el">Παιδικό πρόγραμμα</title>
-   <desc lang="el">Το καλύτερο παιδικό πρόγραμμα για τους μικρούς μας φίλους.</desc>
+  <programme start="20251026070000 +0300" stop="20251026140000 +0300" channel="extacycin">
+    <title lang="el">Ξένες ταινίες</title>
+   <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
   </programme>
-  <programme start="20251022140000 +0300" stop="20251022170000 +0300" channel="extacykids">
-    <title lang="el">Παιδικό πρόγραμμα</title>
-   <desc lang="el">Το καλύτερο παιδικό πρόγραμμα για τους μικρούς μας φίλους.</desc>
+  <programme start="20251026140000 +0300" stop="20251026170000 +0300" channel="extacycin">
+    <title lang="el">Ξένες ταινίες</title>
+   <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
   </programme>
-  <programme start="20251022170000 +0300" stop="20251022235900 +0300" channel="extacykids">
-    <title lang="el">Παιδικό πρόγραμμα</title>
-   <desc lang="el">Το καλύτερο παιδικό πρόγραμμα για τους μικρούς μας φίλους.</desc>
+  <programme start="20251026170000 +0300" stop="20251026235900 +0300" channel="extacycin">
+    <title lang="el">Ξένες ταινίες</title>
+   <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
   </programme>
-  <programme start="20251023000000 +0300" stop="20251023070000 +0300" channel="extacykids">
-    <title lang="el">Παιδικό πρόγραμμα</title>
-   <desc lang="el">Το καλύτερο παιδικό πρόγραμμα για τους μικρούς μας φίλους.</desc>
+  <programme start="20251027000000 +0300" stop="20251027070000 +0300" channel="extacycin">
+    <title lang="el">Ξένες ταινίες</title>
+   <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
   </programme>
-  <programme start="20251023070000 +0300" stop="20251023140000 +0300" channel="extacykids">
-    <title lang="el">Παιδικό πρόγραμμα</title>
-   <desc lang="el">Το καλύτερο παιδικό πρόγραμμα για τους μικρούς μας φίλους.</desc>
+  <programme start="20251027070000 +0300" stop="20251027140000 +0300" channel="extacycin">
+    <title lang="el">Ξένες ταινίες</title>
+   <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
   </programme>
-  <programme start="20251023140000 +0300" stop="20251023170000 +0300" channel="extacykids">
-    <title lang="el">Παιδικό πρόγραμμα</title>
-   <desc lang="el">Το καλύτερο παιδικό πρόγραμμα για τους μικρούς μας φίλους.</desc>
+  <programme start="20251027140000 +0300" stop="20251027170000 +0300" channel="extacycin">
+    <title lang="el">Ξένες ταινίες</title>
+   <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
   </programme>
-  <programme start="20251023170000 +0300" stop="20251023235900 +0300" channel="extacykids">
-    <title lang="el">Παιδικό πρόγραμμα</title>
-   <desc lang="el">Το καλύτερο παιδικό πρόγραμμα για τους μικρούς μας φίλους.</desc>
+  <programme start="20251027170000 +0300" stop="20251027235900 +0300" channel="extacycin">
+    <title lang="el">Ξένες ταινίες</title>
+   <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
   </programme>
   <programme start="20251024000000 +0300" stop="20251024070000 +0300" channel="extacykids">
     <title lang="el">Παιδικό πρόγραμμα</title>
@@ -274,213 +242,37 @@
     <title lang="el">Παιδικό πρόγραμμα</title>
    <desc lang="el">Το καλύτερο παιδικό πρόγραμμα για τους μικρούς μας φίλους.</desc>
   </programme>
-  <programme start="20251022000000 +0300" stop="20251022004500 +0300" channel="extacyser">
-    <title lang="el">Μαύρα Μεσάνυχτα</title>
-   <desc lang="el">Δραματική σειρά με έντονο αστυνομικό στοιχείο και σκοτεινές οικογενειακές ίντριγκες.</desc>
+  <programme start="20251026000000 +0300" stop="20251026070000 +0300" channel="extacykids">
+    <title lang="el">Παιδικό πρόγραμμα</title>
+   <desc lang="el">Το καλύτερο παιδικό πρόγραμμα για τους μικρούς μας φίλους.</desc>
   </programme>
-  <programme start="20251022004500 +0300" stop="20251022013000 +0300" channel="extacyser">
-    <title lang="el">Οι στάβλοι της Εριέτας Ζαΐμη</title>
-   <desc lang="el"></desc>
+  <programme start="20251026070000 +0300" stop="20251026140000 +0300" channel="extacykids">
+    <title lang="el">Παιδικό πρόγραμμα</title>
+   <desc lang="el">Το καλύτερο παιδικό πρόγραμμα για τους μικρούς μας φίλους.</desc>
   </programme>
-  <programme start="20251022013000 +0300" stop="20251022021500 +0300" channel="extacyser">
-    <title lang="el">Ιχνη</title>
-   <desc lang="el">Αστυνομική σειρά μυστηρίου που ακολουθεί τις αποκαλύψεις πίσω από ανεξιχνίαστα εγκλήματα.</desc>
+  <programme start="20251026140000 +0300" stop="20251026170000 +0300" channel="extacykids">
+    <title lang="el">Παιδικό πρόγραμμα</title>
+   <desc lang="el">Το καλύτερο παιδικό πρόγραμμα για τους μικρούς μας φίλους.</desc>
   </programme>
-  <programme start="20251022021500 +0300" stop="20251022030000 +0300" channel="extacyser">
-    <title lang="el">Ανατομία Ενός Εγκλήματος</title>
-   <desc lang="el">Κάθε επεισόδιο βασίζεται σε αληθινή υπόθεση εγκλήματος με ανατριχιαστική αφήγηση.</desc>
+  <programme start="20251026170000 +0300" stop="20251026235900 +0300" channel="extacykids">
+    <title lang="el">Παιδικό πρόγραμμα</title>
+   <desc lang="el">Το καλύτερο παιδικό πρόγραμμα για τους μικρούς μας φίλους.</desc>
   </programme>
-  <programme start="20251022030000 +0300" stop="20251022034500 +0300" channel="extacyser">
-    <title lang="el">Οι Ιστορίες Του Αστυνόμου Μπέκα</title>
-   <desc lang="el"></desc>
+  <programme start="20251027000000 +0300" stop="20251027070000 +0300" channel="extacykids">
+    <title lang="el">Παιδικό πρόγραμμα</title>
+   <desc lang="el">Το καλύτερο παιδικό πρόγραμμα για τους μικρούς μας φίλους.</desc>
   </programme>
-  <programme start="20251022034500 +0300" stop="20251022043000 +0300" channel="extacyser">
-    <title lang="el">10η Εντολή</title>
-   <desc lang="el"></desc>
+  <programme start="20251027070000 +0300" stop="20251027140000 +0300" channel="extacykids">
+    <title lang="el">Παιδικό πρόγραμμα</title>
+   <desc lang="el">Το καλύτερο παιδικό πρόγραμμα για τους μικρούς μας φίλους.</desc>
   </programme>
-  <programme start="20251022043000 +0300" stop="20251022051500 +0300" channel="extacyser">
-    <title lang="el">Κόκκινος Κύκλος</title>
-   <desc lang="el">Αυτοτελείς ιστορίες εγκλήματος με ένταση, σασπένς και απρόβλεπτες εξελίξεις.</desc>
+  <programme start="20251027140000 +0300" stop="20251027170000 +0300" channel="extacykids">
+    <title lang="el">Παιδικό πρόγραμμα</title>
+   <desc lang="el">Το καλύτερο παιδικό πρόγραμμα για τους μικρούς μας φίλους.</desc>
   </programme>
-  <programme start="20251022051500 +0300" stop="20251022060000 +0300" channel="extacyser">
-    <title lang="el">Ο 3ος Νόμος</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251022060000 +0300" stop="20251022064500 +0300" channel="extacyser">
-    <title lang="el">Οικογενειακές ιστορίες</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251022064500 +0300" stop="20251022073000 +0300" channel="extacyser">
-    <title lang="el">Σπίτι απ'την αρχή</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251022073000 +0300" stop="20251022081500 +0300" channel="extacyser">
-    <title lang="el">Εφιάλτης Στη Κουζίνα</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251022081500 +0300" stop="20251022090000 +0300" channel="extacyser">
-    <title lang="el">Είμαστε Στον Αέρα</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251022090000 +0300" stop="20251022094500 +0300" channel="extacyser">
-    <title lang="el">Ντόλτσε Βίτα</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251022094500 +0300" stop="20251022103000 +0300" channel="extacyser">
-    <title lang="el">Οι μικρομεσαίοι</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251022103000 +0300" stop="20251022111500 +0300" channel="extacyser">
-    <title lang="el">Το Δις Εξαμαρτείν</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251022111500 +0300" stop="20251022120000 +0300" channel="extacyser">
-    <title lang="el">Ορκος Σιωπής</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251022120000 +0300" stop="20251022150000 +0300" channel="extacyser">
-    <title lang="el">Μαύρη Θάλασσα</title>
-   <desc lang="el">Η Μαύρη Θάλασσα είναι τουρκική σειρά που αφηγείται την απόδραση μιας γυναίκας από την κακοποίηση και τον αγώνα της για ελευθερία.</desc>
-  </programme>
-  <programme start="20251022150000 +0300" stop="20251022154500 +0300" channel="extacyser">
-    <title lang="el">Θα Σε Δω Στο Πλοίο</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251022154500 +0300" stop="20251022163000 +0300" channel="extacyser">
-    <title lang="el">Λαβ Σόρρυ</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251022163000 +0300" stop="20251022171500 +0300" channel="extacyser">
-    <title lang="el">Εμείς κι Εμείς</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251022171500 +0300" stop="20251022180000 +0300" channel="extacyser">
-    <title lang="el">Η Λάμψη</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251022180000 +0300" stop="20251022210000 +0300" channel="extacyser">
-    <title lang="el">Σουλεϊμάν ο Μεγαλοπρεπής</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251022210000 +0300" stop="20251022214500 +0300" channel="extacyser">
-    <title lang="el">Της Αγάπης Μαχαιριά</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251022214500 +0300" stop="20251022223000 +0300" channel="extacyser">
-    <title lang="el">Το Κόκκινο Ποτάμι</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251022223000 +0300" stop="20251022231500 +0300" channel="extacyser">
-    <title lang="el">Ελληνοφρένεια</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251022231500 +0300" stop="20251023000000 +0300" channel="extacyser">
-    <title lang="el">Στο Παρά 5</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251023000000 +0300" stop="20251023004500 +0300" channel="extacyser">
-    <title lang="el">Μαύρα Μεσάνυχτα</title>
-   <desc lang="el">Δραματική σειρά με έντονο αστυνομικό στοιχείο και σκοτεινές οικογενειακές ίντριγκες.</desc>
-  </programme>
-  <programme start="20251023004500 +0300" stop="20251023013000 +0300" channel="extacyser">
-    <title lang="el">Οι στάβλοι της Εριέτας Ζαΐμη</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251023013000 +0300" stop="20251023021500 +0300" channel="extacyser">
-    <title lang="el">Ιχνη</title>
-   <desc lang="el">Αστυνομική σειρά μυστηρίου που ακολουθεί τις αποκαλύψεις πίσω από ανεξιχνίαστα εγκλήματα.</desc>
-  </programme>
-  <programme start="20251023021500 +0300" stop="20251023030000 +0300" channel="extacyser">
-    <title lang="el">Ανατομία Ενός Εγκλήματος</title>
-   <desc lang="el">Κάθε επεισόδιο βασίζεται σε αληθινή υπόθεση εγκλήματος με ανατριχιαστική αφήγηση.</desc>
-  </programme>
-  <programme start="20251023030000 +0300" stop="20251023034500 +0300" channel="extacyser">
-    <title lang="el">Οι Ιστορίες Του Αστυνόμου Μπέκα</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251023034500 +0300" stop="20251023043000 +0300" channel="extacyser">
-    <title lang="el">10η Εντολή</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251023043000 +0300" stop="20251023051500 +0300" channel="extacyser">
-    <title lang="el">Κόκκινος Κύκλος</title>
-   <desc lang="el">Αυτοτελείς ιστορίες εγκλήματος με ένταση, σασπένς και απρόβλεπτες εξελίξεις.</desc>
-  </programme>
-  <programme start="20251023051500 +0300" stop="20251023060000 +0300" channel="extacyser">
-    <title lang="el">Ο 3ος Νόμος</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251023060000 +0300" stop="20251023064500 +0300" channel="extacyser">
-    <title lang="el">Οικογενειακές ιστορίες</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251023064500 +0300" stop="20251023073000 +0300" channel="extacyser">
-    <title lang="el">Σπίτι απ'την αρχή</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251023073000 +0300" stop="20251023081500 +0300" channel="extacyser">
-    <title lang="el">Εφιάλτης Στη Κουζίνα</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251023081500 +0300" stop="20251023090000 +0300" channel="extacyser">
-    <title lang="el">Είμαστε Στον Αέρα</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251023090000 +0300" stop="20251023094500 +0300" channel="extacyser">
-    <title lang="el">Ντόλτσε Βίτα</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251023094500 +0300" stop="20251023103000 +0300" channel="extacyser">
-    <title lang="el">Οι μικρομεσαίοι</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251023103000 +0300" stop="20251023111500 +0300" channel="extacyser">
-    <title lang="el">Το Δις Εξαμαρτείν</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251023111500 +0300" stop="20251023120000 +0300" channel="extacyser">
-    <title lang="el">Ορκος Σιωπής</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251023120000 +0300" stop="20251023150000 +0300" channel="extacyser">
-    <title lang="el">Μαύρη Θάλασσα</title>
-   <desc lang="el">Η Μαύρη Θάλασσα είναι τουρκική σειρά που αφηγείται την απόδραση μιας γυναίκας από την κακοποίηση και τον αγώνα της για ελευθερία.</desc>
-  </programme>
-  <programme start="20251023150000 +0300" stop="20251023154500 +0300" channel="extacyser">
-    <title lang="el">Θα Σε Δω Στο Πλοίο</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251023154500 +0300" stop="20251023163000 +0300" channel="extacyser">
-    <title lang="el">Λαβ Σόρρυ</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251023163000 +0300" stop="20251023171500 +0300" channel="extacyser">
-    <title lang="el">Εμείς κι Εμείς</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251023171500 +0300" stop="20251023180000 +0300" channel="extacyser">
-    <title lang="el">Η Λάμψη</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251023180000 +0300" stop="20251023210000 +0300" channel="extacyser">
-    <title lang="el">Σουλεϊμάν ο Μεγαλοπρεπής</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251023210000 +0300" stop="20251023214500 +0300" channel="extacyser">
-    <title lang="el">Της Αγάπης Μαχαιριά</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251023214500 +0300" stop="20251023223000 +0300" channel="extacyser">
-    <title lang="el">Το Κόκκινο Ποτάμι</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251023223000 +0300" stop="20251023231500 +0300" channel="extacyser">
-    <title lang="el">Ελληνοφρένεια</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251023231500 +0300" stop="20251024000000 +0300" channel="extacyser">
-    <title lang="el">Στο Παρά 5</title>
-   <desc lang="el"></desc>
+  <programme start="20251027170000 +0300" stop="20251027235900 +0300" channel="extacykids">
+    <title lang="el">Παιδικό πρόγραμμα</title>
+   <desc lang="el">Το καλύτερο παιδικό πρόγραμμα για τους μικρούς μας φίλους.</desc>
   </programme>
   <programme start="20251024000000 +0300" stop="20251024004500 +0300" channel="extacyser">
     <title lang="el">Μαύρα Μεσάνυχτα</title>
@@ -686,113 +478,217 @@
     <title lang="el">Ελληνοφρένεια</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251025231500 +0300" stop="20251025000000 +0300" channel="extacyser">
+  <programme start="20251025231500 +0300" stop="20251026000000 +0300" channel="extacyser">
     <title lang="el">Στο Παρά 5</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251022070000 +0300" stop="20251022090000 +0300" channel="extacy">
-    <title lang="el">Παιδικό πρόγραμμα</title>
-   <desc lang="el">Το καλύτερο παιδικό πρόγραμμα για τους μικρούς μας φίλους.</desc>
+  <programme start="20251026000000 +0300" stop="20251026004500 +0300" channel="extacyser">
+    <title lang="el">Μαύρα Μεσάνυχτα</title>
+   <desc lang="el">Δραματική σειρά με έντονο αστυνομικό στοιχείο και σκοτεινές οικογενειακές ίντριγκες.</desc>
   </programme>
-  <programme start="20251022090000 +0300" stop="20251022120000 +0300" channel="extacy">
-    <title lang="el">Ελληνικές ταινίες</title>
-   <desc lang="el">Μια σειρά από κλασικές ελληνικές ταινίες που θα σας ταξιδέψουν στο παρελθόν.</desc>
+  <programme start="20251026004500 +0300" stop="20251026013000 +0300" channel="extacyser">
+    <title lang="el">Οι στάβλοι της Εριέτας Ζαΐμη</title>
+   <desc lang="el"></desc>
   </programme>
-  <programme start="20251022120000 +0300" stop="20251022160000 +0300" channel="extacy">
-    <title lang="el">Ξένες Ταινίες</title>
-   <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
+  <programme start="20251026013000 +0300" stop="20251026021500 +0300" channel="extacyser">
+    <title lang="el">Ιχνη</title>
+   <desc lang="el">Αστυνομική σειρά μυστηρίου που ακολουθεί τις αποκαλύψεις πίσω από ανεξιχνίαστα εγκλήματα.</desc>
   </programme>
-  <programme start="20251022160000 +0300" stop="20251022170000 +0300" channel="extacy">
-    <title lang="el">Παντρεμένοι με παιδιά</title>
-   <desc lang="el">Ο Άλ και η Πέγκυ Μπάντι αντιμετωπίζουν την καθημερινότητα με καυστικό χιούμορ, ενώ τα παιδιά τους προκαλούν ακόμα περισσότερο χάος.</desc>
+  <programme start="20251026021500 +0300" stop="20251026030000 +0300" channel="extacyser">
+    <title lang="el">Ανατομία Ενός Εγκλήματος</title>
+   <desc lang="el">Κάθε επεισόδιο βασίζεται σε αληθινή υπόθεση εγκλήματος με ανατριχιαστική αφήγηση.</desc>
   </programme>
-  <programme start="20251022170000 +0300" stop="20251022180000 +0300" channel="extacy">
-    <title lang="el">Ο ιππότης της ασφάλτου</title>
-   <desc lang="el">Ο ήρωας της πόλης μάχεται κατά του εγκλήματος και της αδικίας.</desc>
+  <programme start="20251026030000 +0300" stop="20251026034500 +0300" channel="extacyser">
+    <title lang="el">Οι Ιστορίες Του Αστυνόμου Μπέκα</title>
+   <desc lang="el"></desc>
   </programme>
-  <programme start="20251022180000 +0300" stop="20251022190000 +0300" channel="extacy">
-    <title lang="el">9-1-1</title>
-   <desc lang="el">Η συναρπαστική σειρά έρχεται για να προσφέρει ανδρεναλίνη, δράση και συγκίνηση, ακολουθώντας τις ζωές των πρώτων ανταποκριτών που ρισκάρουν τα πάντα για να σώσουν ζωές!</desc>
+  <programme start="20251026034500 +0300" stop="20251026043000 +0300" channel="extacyser">
+    <title lang="el">10η Εντολή</title>
+   <desc lang="el"></desc>
   </programme>
-  <programme start="20251022190000 +0300" stop="20251022200000 +0300" channel="extacy">
-    <title lang="el">MacGyver</title>
-   <desc lang="el">Ο ΜακΓκάιβερ είναι ένας εξαιρετικά ευφυής και πολυτεχνίτης ήρωας.</desc>
+  <programme start="20251026043000 +0300" stop="20251026051500 +0300" channel="extacyser">
+    <title lang="el">Κόκκινος Κύκλος</title>
+   <desc lang="el">Αυτοτελείς ιστορίες εγκλήματος με ένταση, σασπένς και απρόβλεπτες εξελίξεις.</desc>
   </programme>
-  <programme start="20251022200000 +0300" stop="20251022210000 +0300" channel="extacy">
-    <title lang="el">Lost: Οι Αγνοούμενοι</title>
-   <desc lang="el">Το Lost ακολουθεί μια ομάδα επιζώντων που προσγειώνονται σε ένα απομακρυσμένο νησί μετά από μια αεροπορική συντριβή.</desc>
+  <programme start="20251026051500 +0300" stop="20251026060000 +0300" channel="extacyser">
+    <title lang="el">Ο 3ος Νόμος</title>
+   <desc lang="el"></desc>
   </programme>
-  <programme start="20251022210000 +0300" stop="20251022220000 +0300" channel="extacy">
-    <title lang="el">House MD</title>
-   <desc lang="el">Η ιστορία ενός ιδιοφυούς γιατρού που σώζει ζωές.</desc>
+  <programme start="20251026060000 +0300" stop="20251026064500 +0300" channel="extacyser">
+    <title lang="el">Οικογενειακές ιστορίες</title>
+   <desc lang="el"></desc>
   </programme>
-  <programme start="20251022220000 +0300" stop="20251022230000 +0300" channel="extacy">
-    <title lang="el">The 100</title>
-   <desc lang="el">Το The 100 είναι μια μεταποκαλυπτική σειρά επιβίωσης, γεμάτη προδοσίες, δύσκολες επιλογές και συνεχείς μάχες με εχθρούς και τη συνείδηση των ηρώων.</desc>
+  <programme start="20251026064500 +0300" stop="20251026073000 +0300" channel="extacyser">
+    <title lang="el">Σπίτι απ'την αρχή</title>
+   <desc lang="el"></desc>
   </programme>
-  <programme start="20251022230000 +0300" stop="20251023000000 +0300" channel="extacy">
-    <title lang="el">Vampire Diaries</title>
-   <desc lang="el">Μια έφηβη ερωτεύεται τον μυστηριώδη Στέφαν, αγνοώντας πως αυτός και ο αδελφός του κρύβουν σκοτεινά μυστικά.</desc>
+  <programme start="20251026073000 +0300" stop="20251026081500 +0300" channel="extacyser">
+    <title lang="el">Εφιάλτης Στη Κουζίνα</title>
+   <desc lang="el"></desc>
   </programme>
-  <programme start="20251023000000 +0300" stop="20251023010000 +0300" channel="extacy">
-    <title lang="el">X-Files</title>
-   <desc lang="el">Εξερεύνηση ανεξήγητων φαινομένων και μυστηρίων του κόσμου.</desc>
+  <programme start="20251026081500 +0300" stop="20251026090000 +0300" channel="extacyser">
+    <title lang="el">Είμαστε Στον Αέρα</title>
+   <desc lang="el"></desc>
   </programme>
-  <programme start="20251023010000 +0300" stop="20251023070000 +0300" channel="extacy">
-    <title lang="el">Ξένες Ταινίες Τρόμου</title>
-   <desc lang="el">Μια επιλογή από δυνατές ταινίες τρόμου που θα σας καθηλώσουν κάθε βράδυ με αγωνία και ανατριχίλα.</desc>
+  <programme start="20251026090000 +0300" stop="20251026094500 +0300" channel="extacyser">
+    <title lang="el">Ντόλτσε Βίτα</title>
+   <desc lang="el"></desc>
   </programme>
-  <programme start="20251023070000 +0300" stop="20251023090000 +0300" channel="extacy">
-    <title lang="el">Παιδικό πρόγραμμα</title>
-   <desc lang="el">Το καλύτερο παιδικό πρόγραμμα για τους μικρούς μας φίλους.</desc>
+  <programme start="20251026094500 +0300" stop="20251026103000 +0300" channel="extacyser">
+    <title lang="el">Οι μικρομεσαίοι</title>
+   <desc lang="el"></desc>
   </programme>
-  <programme start="20251023090000 +0300" stop="20251023120000 +0300" channel="extacy">
-    <title lang="el">Ελληνικές ταινίες</title>
-   <desc lang="el">Μια σειρά από κλασικές ελληνικές ταινίες που θα σας ταξιδέψουν στο παρελθόν.</desc>
+  <programme start="20251026103000 +0300" stop="20251026111500 +0300" channel="extacyser">
+    <title lang="el">Το Δις Εξαμαρτείν</title>
+   <desc lang="el"></desc>
   </programme>
-  <programme start="20251023120000 +0300" stop="20251023160000 +0300" channel="extacy">
-    <title lang="el">Ξένες Ταινίες</title>
-   <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
+  <programme start="20251026111500 +0300" stop="20251026120000 +0300" channel="extacyser">
+    <title lang="el">Ορκος Σιωπής</title>
+   <desc lang="el"></desc>
   </programme>
-  <programme start="20251023160000 +0300" stop="20251023170000 +0300" channel="extacy">
-    <title lang="el">Παντρεμένοι με παιδιά</title>
-   <desc lang="el">Ο Άλ και η Πέγκυ Μπάντι αντιμετωπίζουν την καθημερινότητα με καυστικό χιούμορ, ενώ τα παιδιά τους προκαλούν ακόμα περισσότερο χάος.</desc>
+  <programme start="20251026120000 +0300" stop="20251026150000 +0300" channel="extacyser">
+    <title lang="el">Μαύρη Θάλασσα</title>
+   <desc lang="el">Η Μαύρη Θάλασσα είναι τουρκική σειρά που αφηγείται την απόδραση μιας γυναίκας από την κακοποίηση και τον αγώνα της για ελευθερία.</desc>
   </programme>
-  <programme start="20251023170000 +0300" stop="20251023180000 +0300" channel="extacy">
-    <title lang="el">Ο ιππότης της ασφάλτου</title>
-   <desc lang="el">Ο ήρωας της πόλης μάχεται κατά του εγκλήματος και της αδικίας.</desc>
+  <programme start="20251026150000 +0300" stop="20251026154500 +0300" channel="extacyser">
+    <title lang="el">Θα Σε Δω Στο Πλοίο</title>
+   <desc lang="el"></desc>
   </programme>
-  <programme start="20251023180000 +0300" stop="20251023190000 +0300" channel="extacy">
-    <title lang="el">9-1-1</title>
-   <desc lang="el">Η συναρπαστική σειρά έρχεται για να προσφέρει ανδρεναλίνη, δράση και συγκίνηση, ακολουθώντας τις ζωές των πρώτων ανταποκριτών που ρισκάρουν τα πάντα για να σώσουν ζωές!</desc>
+  <programme start="20251026154500 +0300" stop="20251026163000 +0300" channel="extacyser">
+    <title lang="el">Λαβ Σόρρυ</title>
+   <desc lang="el"></desc>
   </programme>
-  <programme start="20251023190000 +0300" stop="20251023200000 +0300" channel="extacy">
-    <title lang="el">MacGyver</title>
-   <desc lang="el">Ο ΜακΓκάιβερ είναι ένας εξαιρετικά ευφυής και πολυτεχνίτης ήρωας.</desc>
+  <programme start="20251026163000 +0300" stop="20251026171500 +0300" channel="extacyser">
+    <title lang="el">Εμείς κι Εμείς</title>
+   <desc lang="el"></desc>
   </programme>
-  <programme start="20251023200000 +0300" stop="20251023210000 +0300" channel="extacy">
-    <title lang="el">Lost: Οι Αγνοούμενοι</title>
-   <desc lang="el">Το Lost ακολουθεί μια ομάδα επιζώντων που προσγειώνονται σε ένα απομακρυσμένο νησί μετά από μια αεροπορική συντριβή.</desc>
+  <programme start="20251026171500 +0300" stop="20251026180000 +0300" channel="extacyser">
+    <title lang="el">Η Λάμψη</title>
+   <desc lang="el"></desc>
   </programme>
-  <programme start="20251023210000 +0300" stop="20251023220000 +0300" channel="extacy">
-    <title lang="el">House MD</title>
-   <desc lang="el">Η ιστορία ενός ιδιοφυούς γιατρού που σώζει ζωές.</desc>
+  <programme start="20251026180000 +0300" stop="20251026210000 +0300" channel="extacyser">
+    <title lang="el">Σουλεϊμάν ο Μεγαλοπρεπής</title>
+   <desc lang="el"></desc>
   </programme>
-  <programme start="20251023220000 +0300" stop="20251023230000 +0300" channel="extacy">
-    <title lang="el">The 100</title>
-   <desc lang="el">Το The 100 είναι μια μεταποκαλυπτική σειρά επιβίωσης, γεμάτη προδοσίες, δύσκολες επιλογές και συνεχείς μάχες με εχθρούς και τη συνείδηση των ηρώων.</desc>
+  <programme start="20251026210000 +0300" stop="20251026214500 +0300" channel="extacyser">
+    <title lang="el">Της Αγάπης Μαχαιριά</title>
+   <desc lang="el"></desc>
   </programme>
-  <programme start="20251023230000 +0300" stop="20251024000000 +0300" channel="extacy">
-    <title lang="el">Vampire Diaries</title>
-   <desc lang="el">Μια έφηβη ερωτεύεται τον μυστηριώδη Στέφαν, αγνοώντας πως αυτός και ο αδελφός του κρύβουν σκοτεινά μυστικά.</desc>
+  <programme start="20251026214500 +0300" stop="20251026223000 +0300" channel="extacyser">
+    <title lang="el">Το Κόκκινο Ποτάμι</title>
+   <desc lang="el"></desc>
   </programme>
-  <programme start="20251024000000 +0300" stop="20251024010000 +0300" channel="extacy">
-    <title lang="el">X-Files</title>
-   <desc lang="el">Εξερεύνηση ανεξήγητων φαινομένων και μυστηρίων του κόσμου.</desc>
+  <programme start="20251026223000 +0300" stop="20251026231500 +0300" channel="extacyser">
+    <title lang="el">Ελληνοφρένεια</title>
+   <desc lang="el"></desc>
   </programme>
-  <programme start="20251024010000 +0300" stop="20251024070000 +0300" channel="extacy">
-    <title lang="el">Ξένες Ταινίες Τρόμου</title>
-   <desc lang="el">Μια επιλογή από δυνατές ταινίες τρόμου που θα σας καθηλώσουν κάθε βράδυ με αγωνία και ανατριχίλα.</desc>
+  <programme start="20251026231500 +0300" stop="20251027000000 +0300" channel="extacyser">
+    <title lang="el">Στο Παρά 5</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251027000000 +0300" stop="20251027004500 +0300" channel="extacyser">
+    <title lang="el">Μαύρα Μεσάνυχτα</title>
+   <desc lang="el">Δραματική σειρά με έντονο αστυνομικό στοιχείο και σκοτεινές οικογενειακές ίντριγκες.</desc>
+  </programme>
+  <programme start="20251027004500 +0300" stop="20251027013000 +0300" channel="extacyser">
+    <title lang="el">Οι στάβλοι της Εριέτας Ζαΐμη</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251027013000 +0300" stop="20251027021500 +0300" channel="extacyser">
+    <title lang="el">Ιχνη</title>
+   <desc lang="el">Αστυνομική σειρά μυστηρίου που ακολουθεί τις αποκαλύψεις πίσω από ανεξιχνίαστα εγκλήματα.</desc>
+  </programme>
+  <programme start="20251027021500 +0300" stop="20251027030000 +0300" channel="extacyser">
+    <title lang="el">Ανατομία Ενός Εγκλήματος</title>
+   <desc lang="el">Κάθε επεισόδιο βασίζεται σε αληθινή υπόθεση εγκλήματος με ανατριχιαστική αφήγηση.</desc>
+  </programme>
+  <programme start="20251027030000 +0300" stop="20251027034500 +0300" channel="extacyser">
+    <title lang="el">Οι Ιστορίες Του Αστυνόμου Μπέκα</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251027034500 +0300" stop="20251027043000 +0300" channel="extacyser">
+    <title lang="el">10η Εντολή</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251027043000 +0300" stop="20251027051500 +0300" channel="extacyser">
+    <title lang="el">Κόκκινος Κύκλος</title>
+   <desc lang="el">Αυτοτελείς ιστορίες εγκλήματος με ένταση, σασπένς και απρόβλεπτες εξελίξεις.</desc>
+  </programme>
+  <programme start="20251027051500 +0300" stop="20251027060000 +0300" channel="extacyser">
+    <title lang="el">Ο 3ος Νόμος</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251027060000 +0300" stop="20251027064500 +0300" channel="extacyser">
+    <title lang="el">Οικογενειακές ιστορίες</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251027064500 +0300" stop="20251027073000 +0300" channel="extacyser">
+    <title lang="el">Σπίτι απ'την αρχή</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251027073000 +0300" stop="20251027081500 +0300" channel="extacyser">
+    <title lang="el">Εφιάλτης Στη Κουζίνα</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251027081500 +0300" stop="20251027090000 +0300" channel="extacyser">
+    <title lang="el">Είμαστε Στον Αέρα</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251027090000 +0300" stop="20251027094500 +0300" channel="extacyser">
+    <title lang="el">Ντόλτσε Βίτα</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251027094500 +0300" stop="20251027103000 +0300" channel="extacyser">
+    <title lang="el">Οι μικρομεσαίοι</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251027103000 +0300" stop="20251027111500 +0300" channel="extacyser">
+    <title lang="el">Το Δις Εξαμαρτείν</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251027111500 +0300" stop="20251027120000 +0300" channel="extacyser">
+    <title lang="el">Ορκος Σιωπής</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251027120000 +0300" stop="20251027150000 +0300" channel="extacyser">
+    <title lang="el">Μαύρη Θάλασσα</title>
+   <desc lang="el">Η Μαύρη Θάλασσα είναι τουρκική σειρά που αφηγείται την απόδραση μιας γυναίκας από την κακοποίηση και τον αγώνα της για ελευθερία.</desc>
+  </programme>
+  <programme start="20251027150000 +0300" stop="20251027154500 +0300" channel="extacyser">
+    <title lang="el">Θα Σε Δω Στο Πλοίο</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251027154500 +0300" stop="20251027163000 +0300" channel="extacyser">
+    <title lang="el">Λαβ Σόρρυ</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251027163000 +0300" stop="20251027171500 +0300" channel="extacyser">
+    <title lang="el">Εμείς κι Εμείς</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251027171500 +0300" stop="20251027180000 +0300" channel="extacyser">
+    <title lang="el">Η Λάμψη</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251027180000 +0300" stop="20251027210000 +0300" channel="extacyser">
+    <title lang="el">Σουλεϊμάν ο Μεγαλοπρεπής</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251027210000 +0300" stop="20251027214500 +0300" channel="extacyser">
+    <title lang="el">Της Αγάπης Μαχαιριά</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251027214500 +0300" stop="20251027223000 +0300" channel="extacyser">
+    <title lang="el">Το Κόκκινο Ποτάμι</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251027223000 +0300" stop="20251027231500 +0300" channel="extacyser">
+    <title lang="el">Ελληνοφρένεια</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251027231500 +0300" stop="20251027000000 +0300" channel="extacyser">
+    <title lang="el">Στο Παρά 5</title>
+   <desc lang="el"></desc>
   </programme>
   <programme start="20251024070000 +0300" stop="20251024090000 +0300" channel="extacy">
     <title lang="el">Παιδικό πρόγραμμα</title>
@@ -866,11 +762,91 @@
     <title lang="el">Ταινία Disney</title>
    <desc lang="el">Αγαπημένες ταινίες της Disney για όλη την οικογένεια.</desc>
   </programme>
-  <programme start="20251025230000 +0300" stop="20251025010000 +0300" channel="extacy">
+  <programme start="20251025230000 +0300" stop="20251026010000 +0300" channel="extacy">
     <title lang="el">Extacy Movie Night</title>
    <desc lang="el">Μια βραδιά γεμάτη με τις καλύτερες ταινίες του κινηματογράφου.</desc>
   </programme>
-  <programme start="20251025010000 +0300" stop="20251025070000 +0300" channel="extacy">
+  <programme start="20251026010000 +0300" stop="20251026070000 +0300" channel="extacy">
     <title lang="el">Ξένες ταινίες</title>
    <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
+  </programme>
+  <programme start="20251026070000 +0300" stop="20251026120000 +0300" channel="extacy">
+    <title lang="el">Παιδικό πρόγραμμα</title>
+   <desc lang="el">Το καλύτερο παιδικό πρόγραμμα για τους μικρούς μας φίλους.</desc>
+  </programme>
+  <programme start="20251026120000 +0300" stop="20251026153000 +0300" channel="extacy">
+    <title lang="el">Ελληνικές ταινίες</title>
+   <desc lang="el">Μια σειρά από κλασικές ελληνικές ταινίες που θα σας ταξιδέψουν στο παρελθόν.</desc>
+  </programme>
+  <programme start="20251026153000 +0300" stop="20251026180000 +0300" channel="extacy">
+    <title lang="el">Ξένες ταινίες</title>
+   <desc lang="el">Μια διεθνής παραγωγή που θα σας κρατήσει σε αγωνία.</desc>
+  </programme>
+  <programme start="20251026180000 +0300" stop="20251026210000 +0300" channel="extacy">
+    <title lang="el">Ξένες ταινίες</title>
+   <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
+  </programme>
+  <programme start="20251026210000 +0300" stop="20251026230000 +0300" channel="extacy">
+    <title lang="el">Ταινία Disney</title>
+   <desc lang="el">Αγαπημένες ταινίες της Disney για όλη την οικογένεια.</desc>
+  </programme>
+  <programme start="20251026230000 +0300" stop="20251027010000 +0300" channel="extacy">
+    <title lang="el">Extacy Movie Night</title>
+   <desc lang="el">Μια βραδιά γεμάτη με τις καλύτερες ταινίες του κινηματογράφου.</desc>
+  </programme>
+  <programme start="20251027010000 +0300" stop="20251027070000 +0300" channel="extacy">
+    <title lang="el">Ξένες ταινίες</title>
+   <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
+  </programme>
+  <programme start="20251027070000 +0300" stop="20251027090000 +0300" channel="extacy">
+    <title lang="el">Παιδικό πρόγραμμα</title>
+   <desc lang="el">Το καλύτερο παιδικό πρόγραμμα για τους μικρούς μας φίλους.</desc>
+  </programme>
+  <programme start="20251027090000 +0300" stop="20251027120000 +0300" channel="extacy">
+    <title lang="el">Ελληνικές ταινίες</title>
+   <desc lang="el">Μια σειρά από κλασικές ελληνικές ταινίες που θα σας ταξιδέψουν στο παρελθόν.</desc>
+  </programme>
+  <programme start="20251027120000 +0300" stop="20251027160000 +0300" channel="extacy">
+    <title lang="el">Ξένες Ταινίες</title>
+   <desc lang="el">Ανακαλύψτε μεγάλες ξένες ταινίες που θα σας εντυπωσιάσουν.</desc>
+  </programme>
+  <programme start="20251027160000 +0300" stop="20251027170000 +0300" channel="extacy">
+    <title lang="el">Παντρεμένοι με παιδιά</title>
+   <desc lang="el">Ο Άλ και η Πέγκυ Μπάντι αντιμετωπίζουν την καθημερινότητα με καυστικό χιούμορ, ενώ τα παιδιά τους προκαλούν ακόμα περισσότερο χάος.</desc>
+  </programme>
+  <programme start="20251027170000 +0300" stop="20251027180000 +0300" channel="extacy">
+    <title lang="el">Ο ιππότης της ασφάλτου</title>
+   <desc lang="el">Ο ήρωας της πόλης μάχεται κατά του εγκλήματος και της αδικίας.</desc>
+  </programme>
+  <programme start="20251027180000 +0300" stop="20251027190000 +0300" channel="extacy">
+    <title lang="el">9-1-1</title>
+   <desc lang="el">Η συναρπαστική σειρά έρχεται για να προσφέρει ανδρεναλίνη, δράση και συγκίνηση, ακολουθώντας τις ζωές των πρώτων ανταποκριτών που ρισκάρουν τα πάντα για να σώσουν ζωές!</desc>
+  </programme>
+  <programme start="20251027190000 +0300" stop="20251027200000 +0300" channel="extacy">
+    <title lang="el">MacGyver</title>
+   <desc lang="el">Ο ΜακΓκάιβερ είναι ένας εξαιρετικά ευφυής και πολυτεχνίτης ήρωας.</desc>
+  </programme>
+  <programme start="20251027200000 +0300" stop="20251027210000 +0300" channel="extacy">
+    <title lang="el">Lost: Οι Αγνοούμενοι</title>
+   <desc lang="el">Το Lost ακολουθεί μια ομάδα επιζώντων που προσγειώνονται σε ένα απομακρυσμένο νησί μετά από μια αεροπορική συντριβή.</desc>
+  </programme>
+  <programme start="20251027210000 +0300" stop="20251027220000 +0300" channel="extacy">
+    <title lang="el">House MD</title>
+   <desc lang="el">Η ιστορία ενός ιδιοφυούς γιατρού που σώζει ζωές.</desc>
+  </programme>
+  <programme start="20251027220000 +0300" stop="20251027230000 +0300" channel="extacy">
+    <title lang="el">The 100</title>
+   <desc lang="el">Το The 100 είναι μια μεταποκαλυπτική σειρά επιβίωσης, γεμάτη προδοσίες, δύσκολες επιλογές και συνεχείς μάχες με εχθρούς και τη συνείδηση των ηρώων.</desc>
+  </programme>
+  <programme start="20251027230000 +0300" stop="20251027000000 +0300" channel="extacy">
+    <title lang="el">Vampire Diaries</title>
+   <desc lang="el">Μια έφηβη ερωτεύεται τον μυστηριώδη Στέφαν, αγνοώντας πως αυτός και ο αδελφός του κρύβουν σκοτεινά μυστικά.</desc>
+  </programme>
+  <programme start="20251027000000 +0300" stop="20251027010000 +0300" channel="extacy">
+    <title lang="el">X-Files</title>
+   <desc lang="el">Εξερεύνηση ανεξήγητων φαινομένων και μυστηρίων του κόσμου.</desc>
+  </programme>
+  <programme start="20251027010000 +0300" stop="20251027070000 +0300" channel="extacy">
+    <title lang="el">Ξένες Ταινίες Τρόμου</title>
+   <desc lang="el">Μια επιλογή από δυνατές ταινίες τρόμου που θα σας καθηλώσουν κάθε βράδυ με αγωνία και ανατριχίλα.</desc>
   </programme>
