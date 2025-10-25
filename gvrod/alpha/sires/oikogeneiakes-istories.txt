@@ -1322,3 +1322,7 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63511&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63528&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Ραδιουργίες
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63538&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Το διαζύγιο
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63539&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Πρώτη φορά
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63540&showId=869&year=2025|webvidfulldig
