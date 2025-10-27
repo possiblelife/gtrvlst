@@ -5609,7 +5609,7 @@ Live headlines,breaking news, analysis and interviews from Europe's News Centre.
     <desc lang="el">Live headlines,breaking news, analysis and interviews from Europe's News Centre.
 Live headlines,breaking news, analysis and interviews from Europe's News Centre.</desc>
   </programme>
-  <programme start="20251027064500 +0300" stop="20251027093000 +0300" channel="rik1">
+  <programme start="20251027064500 +0200" stop="20251027093000 +0200" channel="rik1">
     <title lang="el">Πρώτη Ενημέρωση</title>
    <desc lang="el">Καθημερινή ενημερωτική εκπομπή που μεταφέρει υπεύθυνα και έγκαιρα όλες τις εξελίξεις από την Κύπρο και τον κόσμο.
 Με πλήρες δελτίο ειδήσεων, ζωντανές συνδέσεις, ρεπορτάζ και ανταποκρίσεις, καθώς και φιλοξενούμενους στο στούντιο που σχολιάζουν και αναλύουν την επικαιρότητα.
@@ -5619,7 +5619,7 @@ Live headlines,breaking news, analysis and interviews from Europe's News Centre.
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/23/PROTH_ii_ENHMEROSH_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251027093000 +0300" stop="20251027110000 +0300" channel="rik1">
+  <programme start="20251027093000 +0200" stop="20251027110000 +0200" channel="rik1">
     <title lang="el">Όμορφη Μέρα</title>
    <desc lang="el">Με όμορφη και χαλαρή διάθεση, με κέφι και ποικιλία θεμάτων, η Όμορφη Μέρα επανέρχεται ανανεωμένη. Ψυχαγωγία, πολιτισμός, μαγειρική, ομορφιά, υγεία.
 Δημοσιογραφική επιμέλεια, Παρουσίαση: Αγγελική Νικηφόρου
@@ -5627,7 +5627,7 @@ Live headlines,breaking news, analysis and interviews from Europe's News Centre.
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/12/S_OMORFH_MERA_25.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251027110000 +0300" stop="20251027140000 +0300" channel="rik1">
+  <programme start="20251027110000 +0200" stop="20251027140000 +0200" channel="rik1">
     <title lang="el">Από Μέρα σε Μέρα</title>
    <desc lang="el">Μεσημβρινή, ζωντανή, ενημερωτική εκπομπή που παρουσιάζει και αναλύει όλη την επικαιρότητα της ημέρας. Με συζητήσεις, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις, η εκπομπή μεταφέρει τον παλμό της επικαιρότητας και τις εξελίξεις στον τοπικό και διεθνή χώρο, με σοβαρότητα και υπευθυνότητα. Καθημερινά από τις 11:00 μέχρι τις 14:00.
 Δημοσιογραφική Επιμέλεια-Παρουσίαση: Κώστας Κωνσταντίνου, Τάσος Χριστοδούλου, Κατερίνα Χαραλάμπους
@@ -5637,15 +5637,15 @@ Live headlines,breaking news, analysis and interviews from Europe's News Centre.
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/23/APO_MERA_S_NEW.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251027140000 +0300" stop="20251027143000 +0300" channel="rik1">
+  <programme start="20251027140000 +0200" stop="20251027143000 +0200" channel="rik1">
     <title lang="el">Ειδήσεις</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251027143000 +0300" stop="20251027153000 +0300" channel="rik1">
+  <programme start="20251027143000 +0200" stop="20251027153000 +0200" channel="rik1">
     <title lang="el">Εμείς κι ο Κόσμος μας</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251027153000 +0300" stop="20251027160000 +0300" channel="rik1">
+  <programme start="20251027153000 +0200" stop="20251027160000 +0200" channel="rik1">
     <title lang="el">Γευστικό Ταξίδι</title>
    <desc lang="el">Εκπομπή μαγειρικής που μας ταξιδεύει σε γεύσεις και αρώματα από την τοπική και τη διεθνή κουζίνα. Ο chef Χρίστος Χριστοδούλου, μοιράζεται μαζί μας τις δικές του μαγειρικές εμπειρίες.
 Κάθε Πέμπτη και Παρασκευή &quot;Γευστικό Ταξίδι στο χωριό&quot;. Μέσα από τις ομορφιές της κυπριακής υπαίθρου και τους ανθρώπους της, ανακαλύπτουμε σπάνιες συνταγές και συνθέτουμε τη γαστρονομική κουλτούρα του νησιού μας.
@@ -5656,19 +5656,19 @@ Live headlines,breaking news, analysis and interviews from Europe's News Centre.
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/19/GEYSTIKO_TAKSIDI_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251027160000 +0300" stop="20251027163000 +0300" channel="rik1">
+  <programme start="20251027160000 +0200" stop="20251027163000 +0200" channel="rik1">
     <title lang="el">Καμώματα τζι Αρώματα</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251027163000 +0300" stop="20251027180000 +0300" channel="rik1">
+  <programme start="20251027163000 +0200" stop="20251027180000 +0200" channel="rik1">
     <title lang="el">p.m. ΣΤΟ ΡΙΚ</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251027180000 +0300" stop="20251027183000 +0300" channel="rik1">
+  <programme start="20251027180000 +0200" stop="20251027183000 +0200" channel="rik1">
     <title lang="el">Ειδήσεις στις 18:00</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251027183000 +0300" stop="20251027190000 +0300" channel="rik1">
+  <programme start="20251027183000 +0200" stop="20251027190000 +0200" channel="rik1">
     <title lang="el">Μην Κάψεις την Κουζίνα</title>
    <desc lang="el">Για δεύτερη συνεχή χρονιά η αγαπημένη ψυχαγωγική εκπομπή με δόση…μαγειρικής, σας κρατά συντροφιά.
 Επώνυμοι, πολιτικοί, ηθοποιοί, παρουσιαστές, και όχι μόνο, βάζουν ποδιά, περνούν από διασκεδαστικές δοκιμασίες και καλούνται να μαγειρέψουν χωρίς να κάψουν την κουζίνα.
@@ -5678,7 +5678,7 @@ Live headlines,breaking news, analysis and interviews from Europe's News Centre.
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/19/MHN_KAPSEIS_KOUZINA_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251027190000 +0300" stop="20251027200000 +0300" channel="rik1">
+  <programme start="20251027190000 +0200" stop="20251027200000 +0200" channel="rik1">
     <title lang="el">Τρικυμία</title>
    <desc lang="el">Ο τέταρτος κύκλος της σειράς μας βρίσκει στην Κύπρο του 1886, σε ένα ταξίδι στην ιστορία του τόπου μας και τον καθημερινό αγώνα για επιβίωση. Οι ήρωές μας παλεύουν με κάθε λογής αντιξοότητες, με πειρασμούς, με ανεκπλήρωτους πόθους και έρωτες, για την κάθαρση των ψυχών τους. Σε μυθοπλαστικά πάντα πλαίσια, φέτος θα δοθεί ιδιαίτερη έμφαση στο να γνωρίσει ο θεατής ιστορικά στοιχεία για την Κύπρο του χθες. Επίσης, μέσα από την ποίηση του εθνικού μας ποιητή Βασίλη Μιχαηλίδη, αναδεικνύονται οι πτυχές του παρελθόντος σε μια Κύπρο που βίωσε άπειρες τρικυμίες μα ποτέ δεν έχασε την ελπίδα για την πολυπόθητη γαλήνη.
 Συμμετέχουν οι ηθοποιοί: Νεοκλής Νεοκλέους, Ανδρούλλα Ηρακλέους, Ανδρέας Τσουρής,
@@ -5692,19 +5692,19 @@ Live headlines,breaking news, analysis and interviews from Europe's News Centre.
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/TRIKYMIA_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251027200000 +0300" stop="20251027210000 +0300" channel="rik1">
+  <programme start="20251027200000 +0200" stop="20251027210000 +0200" channel="rik1">
     <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251027210000 +0300" stop="20251027220000 +0300" channel="rik1">
+  <programme start="20251027210000 +0200" stop="20251027220000 +0200" channel="rik1">
     <title lang="el">Ηλέκτρα</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251027220000 +0300" stop="20251027224500 +0300" channel="rik1">
+  <programme start="20251027220000 +0200" stop="20251027224500 +0200" channel="rik1">
     <title lang="el">Ο Όρκος</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251027224500 +0300" stop="20251028000000 +0300" channel="rik1">
+  <programme start="20251027224500 +0200" stop="20251028000000 +0200" channel="rik1">
     <title lang="el">Γκολ και Θέαμα</title>
    <desc lang="el">Η ανάλυση της αγωνιστικής, τα πρόσωπα που ξεχώρισαν, συνεντεύξεις των πρωταγωνιστών και οι επίμαχες φάσεις. Η ελλαδική και η διεθνής ποδοσφαιρική επικαιρότητα. Στο στούντιο προσκεκλημένοι, προπονητές, ποδοσφαιριστές και αθλητικοί παράγοντες του τόπου.
 
@@ -5713,7 +5713,7 @@ Live headlines,breaking news, analysis and interviews from Europe's News Centre.
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/GOAL_K_THEAMA_sS.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251028004500 +0300" stop="20251028011500 +0300" channel="rik1">
+  <programme start="20251028004500 +0200" stop="20251028011500 +0200" channel="rik1">
     <title lang="el">Μην Κάψεις την Κουζίνα</title>
    <desc lang="el">Για δεύτερη συνεχή χρονιά η αγαπημένη ψυχαγωγική εκπομπή με δόση…μαγειρικής, σας κρατά συντροφιά.
 Επώνυμοι, πολιτικοί, ηθοποιοί, παρουσιαστές, και όχι μόνο, βάζουν ποδιά, περνούν από διασκεδαστικές δοκιμασίες και καλούνται να μαγειρέψουν χωρίς να κάψουν την κουζίνα.
@@ -5723,11 +5723,11 @@ Live headlines,breaking news, analysis and interviews from Europe's News Centre.
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/19/MHN_KAPSEIS_KOUZINA_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251028011500 +0300" stop="20251028021500 +0300" channel="rik1">
+  <programme start="20251028011500 +0200" stop="20251028021500 +0200" channel="rik1">
     <title lang="el">Ειδήσεις</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028021500 +0300" stop="20251028034500 +0300" channel="rik1">
+  <programme start="20251028021500 +0200" stop="20251028034500 +0200" channel="rik1">
     <title lang="el">Όμορφη Μέρα</title>
    <desc lang="el">Με όμορφη και χαλαρή διάθεση, με κέφι και ποικιλία θεμάτων, η Όμορφη Μέρα επανέρχεται ανανεωμένη. Ψυχαγωγία, πολιτισμός, μαγειρική, ομορφιά, υγεία.
 Δημοσιογραφική επιμέλεια, Παρουσίαση: Αγγελική Νικηφόρου
@@ -5735,11 +5735,11 @@ Live headlines,breaking news, analysis and interviews from Europe's News Centre.
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/12/S_OMORFH_MERA_25.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251028034500 +0300" stop="20251027044500 +0300" channel="rik1">
+  <programme start="20251028034500 +0200" stop="20251027044500 +0200" channel="rik1">
     <title lang="el">Εμείς κι ο Κόσμος μας</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251027044500 +0300" stop="20251027051500 +0300" channel="rik1">
+  <programme start="20251027044500 +0200" stop="20251027051500 +0200" channel="rik1">
     <title lang="el">Γευστικό Ταξίδι</title>
    <desc lang="el">Εκπομπή μαγειρικής που μας ταξιδεύει σε γεύσεις και αρώματα από την τοπική και τη διεθνή κουζίνα. Ο chef Χρίστος Χριστοδούλου, μοιράζεται μαζί μας τις δικές του μαγειρικές εμπειρίες.
 Κάθε Πέμπτη και Παρασκευή &quot;Γευστικό Ταξίδι στο χωριό&quot;. Μέσα από τις ομορφιές της κυπριακής υπαίθρου και τους ανθρώπους της, ανακαλύπτουμε σπάνιες συνταγές και συνθέτουμε τη γαστρονομική κουλτούρα του νησιού μας.
@@ -5750,15 +5750,15 @@ Live headlines,breaking news, analysis and interviews from Europe's News Centre.
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/19/GEYSTIKO_TAKSIDI_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251027051500 +0300" stop="20251027060000 +0300" channel="rik1">
+  <programme start="20251027051500 +0200" stop="20251027060000 +0200" channel="rik1">
     <title lang="el">Ο Όρκος</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251027060000 +0300" stop="20251027070000 +0300" channel="rik1">
+  <programme start="20251027060000 +0200" stop="20251027070000 +0200" channel="rik1">
     <title lang="el">Ηλέκτρα</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251027070000 +0300" stop="20251027074500 +0300" channel="rik1">
+  <programme start="20251027070000 +0200" stop="20251027074500 +0200" channel="rik1">
     <title lang="el">Τρικυμία</title>
    <desc lang="el">Ο τέταρτος κύκλος της σειράς μας βρίσκει στην Κύπρο του 1886, σε ένα ταξίδι στην ιστορία του τόπου μας και τον καθημερινό αγώνα για επιβίωση. Οι ήρωές μας παλεύουν με κάθε λογής αντιξοότητες, με πειρασμούς, με ανεκπλήρωτους πόθους και έρωτες, για την κάθαρση των ψυχών τους. Σε μυθοπλαστικά πάντα πλαίσια, φέτος θα δοθεί ιδιαίτερη έμφαση στο να γνωρίσει ο θεατής ιστορικά στοιχεία για την Κύπρο του χθες. Επίσης, μέσα από την ποίηση του εθνικού μας ποιητή Βασίλη Μιχαηλίδη, αναδεικνύονται οι πτυχές του παρελθόντος σε μια Κύπρο που βίωσε άπειρες τρικυμίες μα ποτέ δεν έχασε την ελπίδα για την πολυπόθητη γαλήνη.
 Συμμετέχουν οι ηθοποιοί: Νεοκλής Νεοκλέους, Ανδρούλλα Ηρακλέους, Ανδρέας Τσουρής,
@@ -5772,91 +5772,35 @@ Live headlines,breaking news, analysis and interviews from Europe's News Centre.
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/TRIKYMIA_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251027063000 +0300" stop="20251027065500 +0300" channel="rik2">
-    <title lang="el">Step by Step</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251027065500 +0300" stop="20251027072000 +0300" channel="rik2">
-    <title lang="el">Full House</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251027072000 +0300" stop="20251027081000 +0300" channel="rik2">
-    <title lang="el">Wild at Heart</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251027081000 +0300" stop="20251027090000 +0300" channel="rik2">
-    <title lang="el">Παιδική Ζώνη</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251027090000 +0300" stop="20251027093000 +0300" channel="rik2">
-    <title lang="el">Ποπ Κορν</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251027093000 +0300" stop="20251027153000 +0300" channel="rik2">
-    <title lang="el">Παιδική Ζώνη</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251027153000 +0300" stop="20251027162000 +0300" channel="rik2">
-    <title lang="el">Wild at Heart</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251027162000 +0300" stop="20251027170500 +0300" channel="rik2">
-    <title lang="el">Battle of the Atlantic</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251027170500 +0300" stop="20251027173000 +0300" channel="rik2">
-    <title lang="el">Step by Step</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251027173000 +0300" stop="20251027180000 +0300" channel="rik2">
-    <title lang="el">Full House</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251027180000 +0300" stop="20251027183000 +0300" channel="rik2">
-    <title lang="el">Μάθε Τέχνη κι Άστηνε</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251027183000 +0300" stop="20251027193000 +0300" channel="rik2">
-    <title lang="el">Atlantic Crossing</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251027193000 +0300" stop="20251027194500 +0300" channel="rik2">
-    <title lang="el">Ο Δρόμος έχει τη δική του Ιστορία</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251027194500 +0300" stop="20251027195000 +0300" channel="rik2">
-    <title lang="el">Ειδήσεις στην αγγλική</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251027195000 +0300" stop="20251027200000 +0300" channel="rik2">
+  <programme start="20251027195000 +0200" stop="20251027200000 +0200" channel="rik2">
     <title lang="el">Ειδήσεις στην τουρκική</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251027200000 +0300" stop="20251027210000 +0300" channel="rik2">
+  <programme start="20251027200000 +0200" stop="20251027210000 +0200" channel="rik2">
     <title lang="el">Κεντρικό Δελτίο Ειδήσεων στη Νοηματική</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251027210000 +0300" stop="20251027220000 +0300" channel="rik2">
+  <programme start="20251027210000 +0200" stop="20251027220000 +0200" channel="rik2">
     <title lang="el">Hotel Portofino</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251027220000 +0300" stop="20251027230000 +0300" channel="rik2">
+  <programme start="20251027220000 +0200" stop="20251027230000 +0200" channel="rik2">
     <title lang="el">Boat Story</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251027230000 +0300" stop="20251027235000 +0300" channel="rik2">
+  <programme start="20251027230000 +0200" stop="20251027235000 +0200" channel="rik2">
     <title lang="el">Atlantic Crossing</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251027235000 +0300" stop="20251028005000 +0300" channel="rik2">
+  <programme start="20251027235000 +0200" stop="20251028005000 +0200" channel="rik2">
     <title lang="el">Εμείς κι ο Κόσμος μας</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028005000 +0300" stop="20251028010000 +0300" channel="rik2">
+  <programme start="20251028005000 +0200" stop="20251028010000 +0200" channel="rik2">
     <title lang="el">Ειδήσεις στην αγγλική και τουρκική</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028010000 +0300" stop="20251027040000 +0300" channel="rik2">
+  <programme start="20251028010000 +0200" stop="20251027040000 +0200" channel="rik2">
     <title lang="el">Από Μέρα σε Μέρα</title>
    <desc lang="el">Μεσημβρινή, ζωντανή, ενημερωτική εκπομπή που παρουσιάζει και αναλύει όλη την επικαιρότητα της ημέρας. Με συζητήσεις, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις, η εκπομπή μεταφέρει τον παλμό της επικαιρότητας και τις εξελίξεις στον τοπικό και διεθνή χώρο, με σοβαρότητα και υπευθυνότητα. Καθημερινά από τις 11:00 μέχρι τις 14:00.
 Δημοσιογραφική Επιμέλεια-Παρουσίαση: Κώστας Κωνσταντίνου, Τάσος Χριστοδούλου, Κατερίνα Χαραλάμπους
@@ -5866,15 +5810,15 @@ Live headlines,breaking news, analysis and interviews from Europe's News Centre.
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/23/APO_MERA_S_NEW.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251027040000 +0300" stop="20251027045000 +0300" channel="rik2">
+  <programme start="20251027040000 +0200" stop="20251027045000 +0200" channel="rik2">
     <title lang="el">Hotel Portofino</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251027045000 +0300" stop="20251027051500 +0300" channel="rik2">
+  <programme start="20251027045000 +0200" stop="20251027051500 +0200" channel="rik2">
     <title lang="el">Μάθε Τέχνη κι Άστηνε</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251027051500 +0300" stop="20251027054500 +0300" channel="rik2">
+  <programme start="20251027051500 +0200" stop="20251027054500 +0200" channel="rik2">
     <title lang="el">Στο Νησί</title>
    <desc lang="el">Ένα μοναδικό ταξίδι στην άγνωστη φύση της Κύπρου.
 Μια νέα εκπομπή μας καλεί να γνωρίσουμε την Κύπρο… αλλιώς.
@@ -5886,11 +5830,81 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/S_STO_NHSI.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251027054500 +0300" stop="20251027063000 +0300" channel="rik2">
+  <programme start="20251027054500 +0200" stop="20251027063000 +0200" channel="rik2">
     <title lang="el">Battle of the Atlantic</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251027064500 +0300" stop="20251027093000 +0300" channel="riksat">
+  <programme start="20251027063000 +0200" stop="20251027065500 +0200" channel="rik2">
+    <title lang="el">Step by Step</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251027065500 +0200" stop="20251027072000 +0200" channel="rik2">
+    <title lang="el">Full House</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251027072000 +0200" stop="20251027081000 +0200" channel="rik2">
+    <title lang="el">Wild at Heart</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251027081000 +0200" stop="20251027090000 +0200" channel="rik2">
+    <title lang="el">Παιδική Ζώνη</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251027090000 +0200" stop="20251027093000 +0200" channel="rik2">
+    <title lang="el">Ποπ Κορν</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251027093000 +0200" stop="20251027153000 +0200" channel="rik2">
+    <title lang="el">Παιδική Ζώνη</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251027153000 +0200" stop="20251027162000 +0200" channel="rik2">
+    <title lang="el">Wild at Heart</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251027162000 +0200" stop="20251027170500 +0200" channel="rik2">
+    <title lang="el">Battle of the Atlantic</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251027170500 +0200" stop="20251027173000 +0200" channel="rik2">
+    <title lang="el">Step by Step</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251027173000 +0200" stop="20251027180000 +0200" channel="rik2">
+    <title lang="el">Full House</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251027180000 +0200" stop="20251027183000 +0200" channel="rik2">
+    <title lang="el">Μάθε Τέχνη κι Άστηνε</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251027183000 +0200" stop="20251027193000 +0200" channel="rik2">
+    <title lang="el">Atlantic Crossing</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251027193000 +0200" stop="20251027194500 +0200" channel="rik2">
+    <title lang="el">Ο Δρόμος έχει τη δική του Ιστορία</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251027194500 +0200" stop="20251027195000 +0200" channel="rik2">
+    <title lang="el">Ειδήσεις στην αγγλική</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251027060000 +0200" stop="20251027064500 +0200" channel="riksat">
+    <title lang="el">Τρικυμία</title>
+   <desc lang="el">Ο τέταρτος κύκλος της σειράς μας βρίσκει στην Κύπρο του 1886, σε ένα ταξίδι στην ιστορία του τόπου μας και τον καθημερινό αγώνα για επιβίωση. Οι ήρωές μας παλεύουν με κάθε λογής αντιξοότητες, με πειρασμούς, με ανεκπλήρωτους πόθους και έρωτες, για την κάθαρση των ψυχών τους. Σε μυθοπλαστικά πάντα πλαίσια, φέτος θα δοθεί ιδιαίτερη έμφαση στο να γνωρίσει ο θεατής ιστορικά στοιχεία για την Κύπρο του χθες. Επίσης, μέσα από την ποίηση του εθνικού μας ποιητή Βασίλη Μιχαηλίδη, αναδεικνύονται οι πτυχές του παρελθόντος σε μια Κύπρο που βίωσε άπειρες τρικυμίες μα ποτέ δεν έχασε την ελπίδα για την πολυπόθητη γαλήνη.
+Συμμετέχουν οι ηθοποιοί: Νεοκλής Νεοκλέους, Ανδρούλλα Ηρακλέους, Ανδρέας Τσουρής,
+Γεώργιος Αναγιώτος, Μαρίνος Κόνσολος, Εύρος Βασιλείου, Μαρία Φιακά, Γιάννα Λευκάτη
+Αλέξανδρος Μαρτίδης, Έλενα Ολυμπίου, Χρυσή Κασιώτη, Μάριος Δημητρίου
+
+Σεναριογράφοι: Μιχάλης Παπαδόπουλος, Μαρίνα Βρόντη, Αντρέας Σιεητττάνης, Δημήτρης Τοκαρής
+Επιμέλεια σεναρίων: Δημήτρης Τοκαρής
+Σκηνοθεσία: Ρομίνα Πολυμνίου
+Παραγωγή: Galinis Production Studio Ltd
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/TRIKYMIA_S.2e16d0ba.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20251027064500 +0200" stop="20251027093000 +0200" channel="riksat">
     <title lang="el">Πρώτη Ενημέρωση</title>
    <desc lang="el">Καθημερινή ενημερωτική εκπομπή που μεταφέρει υπεύθυνα και έγκαιρα όλες τις εξελίξεις από την Κύπρο και τον κόσμο.
 Με πλήρες δελτίο ειδήσεων, ζωντανές συνδέσεις, ρεπορτάζ και ανταποκρίσεις, καθώς και φιλοξενούμενους στο στούντιο που σχολιάζουν και αναλύουν την επικαιρότητα.
@@ -5900,7 +5914,7 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/23/PROTH_ii_ENHMEROSH_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251027093000 +0300" stop="20251027110000 +0300" channel="riksat">
+  <programme start="20251027093000 +0200" stop="20251027110000 +0200" channel="riksat">
     <title lang="el">Όμορφη Μέρα</title>
    <desc lang="el">Με όμορφη και χαλαρή διάθεση, με κέφι και ποικιλία θεμάτων, η Όμορφη Μέρα επανέρχεται ανανεωμένη. Ψυχαγωγία, πολιτισμός, μαγειρική, ομορφιά, υγεία.
 Δημοσιογραφική επιμέλεια, Παρουσίαση: Αγγελική Νικηφόρου
@@ -5908,7 +5922,7 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/12/S_OMORFH_MERA_25.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251027110000 +0300" stop="20251027140000 +0300" channel="riksat">
+  <programme start="20251027110000 +0200" stop="20251027140000 +0200" channel="riksat">
     <title lang="el">Από Μέρα σε Μέρα</title>
    <desc lang="el">Μεσημβρινή, ζωντανή, ενημερωτική εκπομπή που παρουσιάζει και αναλύει όλη την επικαιρότητα της ημέρας. Με συζητήσεις, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις, η εκπομπή μεταφέρει τον παλμό της επικαιρότητας και τις εξελίξεις στον τοπικό και διεθνή χώρο, με σοβαρότητα και υπευθυνότητα. Καθημερινά από τις 11:00 μέχρι τις 14:00.
 Δημοσιογραφική Επιμέλεια-Παρουσίαση: Κώστας Κωνσταντίνου, Τάσος Χριστοδούλου, Κατερίνα Χαραλάμπους
@@ -5918,15 +5932,15 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/23/APO_MERA_S_NEW.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251027140000 +0300" stop="20251027143000 +0300" channel="riksat">
+  <programme start="20251027140000 +0200" stop="20251027143000 +0200" channel="riksat">
     <title lang="el">Ειδήσεις</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251027143000 +0300" stop="20251027153000 +0300" channel="riksat">
+  <programme start="20251027143000 +0200" stop="20251027153000 +0200" channel="riksat">
     <title lang="el">Εμείς κι ο Κόσμος μας</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251027153000 +0300" stop="20251027160000 +0300" channel="riksat">
+  <programme start="20251027153000 +0200" stop="20251027160000 +0200" channel="riksat">
     <title lang="el">Γευστικό Ταξίδι</title>
    <desc lang="el">Εκπομπή μαγειρικής που μας ταξιδεύει σε γεύσεις και αρώματα από την τοπική και τη διεθνή κουζίνα. Ο chef Χρίστος Χριστοδούλου, μοιράζεται μαζί μας τις δικές του μαγειρικές εμπειρίες.
 Κάθε Πέμπτη και Παρασκευή &quot;Γευστικό Ταξίδι στο χωριό&quot;. Μέσα από τις ομορφιές της κυπριακής υπαίθρου και τους ανθρώπους της, ανακαλύπτουμε σπάνιες συνταγές και συνθέτουμε τη γαστρονομική κουλτούρα του νησιού μας.
@@ -5937,19 +5951,19 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/19/GEYSTIKO_TAKSIDI_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251027160000 +0300" stop="20251027163000 +0300" channel="riksat">
+  <programme start="20251027160000 +0200" stop="20251027163000 +0200" channel="riksat">
     <title lang="el">Καμώματα τζι Αρώματα</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251027163000 +0300" stop="20251027180000 +0300" channel="riksat">
+  <programme start="20251027163000 +0200" stop="20251027180000 +0200" channel="riksat">
     <title lang="el">p.m. ΣΤΟ ΡΙΚ</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251027180000 +0300" stop="20251027183000 +0300" channel="riksat">
+  <programme start="20251027180000 +0200" stop="20251027183000 +0200" channel="riksat">
     <title lang="el">Ειδήσεις στις 18:00</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251027183000 +0300" stop="20251027190000 +0300" channel="riksat">
+  <programme start="20251027183000 +0200" stop="20251027190000 +0200" channel="riksat">
     <title lang="el">Μην Κάψεις την Κουζίνα</title>
    <desc lang="el">Για δεύτερη συνεχή χρονιά η αγαπημένη ψυχαγωγική εκπομπή με δόση…μαγειρικής, σας κρατά συντροφιά.
 Επώνυμοι, πολιτικοί, ηθοποιοί, παρουσιαστές, και όχι μόνο, βάζουν ποδιά, περνούν από διασκεδαστικές δοκιμασίες και καλούνται να μαγειρέψουν χωρίς να κάψουν την κουζίνα.
@@ -5959,11 +5973,11 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/19/MHN_KAPSEIS_KOUZINA_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251027190000 +0300" stop="20251027193500 +0300" channel="riksat">
+  <programme start="20251027190000 +0200" stop="20251027193500 +0200" channel="riksat">
     <title lang="el">Βήματα στην Άμμο</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251027193500 +0300" stop="20251027200000 +0300" channel="riksat">
+  <programme start="20251027193500 +0200" stop="20251027200000 +0200" channel="riksat">
     <title lang="el">Στο Νησί</title>
    <desc lang="el">Ένα μοναδικό ταξίδι στην άγνωστη φύση της Κύπρου.
 Μια νέα εκπομπή μας καλεί να γνωρίσουμε την Κύπρο… αλλιώς.
@@ -5975,11 +5989,11 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/S_STO_NHSI.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251027200000 +0300" stop="20251027210000 +0300" channel="riksat">
+  <programme start="20251027200000 +0200" stop="20251027210000 +0200" channel="riksat">
     <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251027210000 +0300" stop="20251027220000 +0300" channel="riksat">
+  <programme start="20251027210000 +0200" stop="20251027220000 +0200" channel="riksat">
     <title lang="el">Τρικυμία</title>
    <desc lang="el">Ο τέταρτος κύκλος της σειράς μας βρίσκει στην Κύπρο του 1886, σε ένα ταξίδι στην ιστορία του τόπου μας και τον καθημερινό αγώνα για επιβίωση. Οι ήρωές μας παλεύουν με κάθε λογής αντιξοότητες, με πειρασμούς, με ανεκπλήρωτους πόθους και έρωτες, για την κάθαρση των ψυχών τους. Σε μυθοπλαστικά πάντα πλαίσια, φέτος θα δοθεί ιδιαίτερη έμφαση στο να γνωρίσει ο θεατής ιστορικά στοιχεία για την Κύπρο του χθες. Επίσης, μέσα από την ποίηση του εθνικού μας ποιητή Βασίλη Μιχαηλίδη, αναδεικνύονται οι πτυχές του παρελθόντος σε μια Κύπρο που βίωσε άπειρες τρικυμίες μα ποτέ δεν έχασε την ελπίδα για την πολυπόθητη γαλήνη.
 Συμμετέχουν οι ηθοποιοί: Νεοκλής Νεοκλέους, Ανδρούλλα Ηρακλέους, Ανδρέας Τσουρής,
@@ -5993,19 +6007,19 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/TRIKYMIA_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251027220000 +0300" stop="20251027224500 +0300" channel="riksat">
+  <programme start="20251027220000 +0200" stop="20251027224500 +0200" channel="riksat">
     <title lang="el">Στην Άκρη του Παράδεισου</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251027224500 +0300" stop="20251028000000 +0300" channel="riksat">
+  <programme start="20251027224500 +0200" stop="20251028000000 +0200" channel="riksat">
     <title lang="el">Γκολ και Θέμα</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028010000 +0300" stop="20251028012000 +0300" channel="riksat">
+  <programme start="20251028010000 +0200" stop="20251028012000 +0200" channel="riksat">
     <title lang="el">Ειδήσεις στην αγγλική και τουρκική</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028012000 +0300" stop="20251028030000 +0300" channel="riksat">
+  <programme start="20251028012000 +0200" stop="20251028030000 +0200" channel="riksat">
     <title lang="el">Όμορφη Μέρα</title>
    <desc lang="el">Με όμορφη και χαλαρή διάθεση, με κέφι και ποικιλία θεμάτων, η Όμορφη Μέρα επανέρχεται ανανεωμένη. Ψυχαγωγία, πολιτισμός, μαγειρική, ομορφιά, υγεία.
 Δημοσιογραφική επιμέλεια, Παρουσίαση: Αγγελική Νικηφόρου
@@ -6013,15 +6027,15 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/12/S_OMORFH_MERA_25.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251028030000 +0300" stop="20251027040000 +0300" channel="riksat">
+  <programme start="20251028030000 +0200" stop="20251027040000 +0200" channel="riksat">
     <title lang="el">Ειδήσεις</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251027040000 +0300" stop="20251027044000 +0300" channel="riksat">
+  <programme start="20251027040000 +0200" stop="20251027044000 +0200" channel="riksat">
     <title lang="el">Βήματα στην Άμμο</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251027044000 +0300" stop="20251027050000 +0300" channel="riksat">
+  <programme start="20251027044000 +0200" stop="20251027050000 +0200" channel="riksat">
     <title lang="el">Στο Νησί</title>
    <desc lang="el">Ένα μοναδικό ταξίδι στην άγνωστη φύση της Κύπρου.
 Μια νέα εκπομπή μας καλεί να γνωρίσουμε την Κύπρο… αλλιώς.
@@ -6033,45 +6047,31 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/S_STO_NHSI.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251027050000 +0300" stop="20251027060000 +0300" channel="riksat">
+  <programme start="20251027050000 +0200" stop="20251027060000 +0200" channel="riksat">
     <title lang="el">Γκολ και Θέμα</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251027060000 +0300" stop="20251027064500 +0300" channel="riksat">
-    <title lang="el">Τρικυμία</title>
-   <desc lang="el">Ο τέταρτος κύκλος της σειράς μας βρίσκει στην Κύπρο του 1886, σε ένα ταξίδι στην ιστορία του τόπου μας και τον καθημερινό αγώνα για επιβίωση. Οι ήρωές μας παλεύουν με κάθε λογής αντιξοότητες, με πειρασμούς, με ανεκπλήρωτους πόθους και έρωτες, για την κάθαρση των ψυχών τους. Σε μυθοπλαστικά πάντα πλαίσια, φέτος θα δοθεί ιδιαίτερη έμφαση στο να γνωρίσει ο θεατής ιστορικά στοιχεία για την Κύπρο του χθες. Επίσης, μέσα από την ποίηση του εθνικού μας ποιητή Βασίλη Μιχαηλίδη, αναδεικνύονται οι πτυχές του παρελθόντος σε μια Κύπρο που βίωσε άπειρες τρικυμίες μα ποτέ δεν έχασε την ελπίδα για την πολυπόθητη γαλήνη.
-Συμμετέχουν οι ηθοποιοί: Νεοκλής Νεοκλέους, Ανδρούλλα Ηρακλέους, Ανδρέας Τσουρής,
-Γεώργιος Αναγιώτος, Μαρίνος Κόνσολος, Εύρος Βασιλείου, Μαρία Φιακά, Γιάννα Λευκάτη
-Αλέξανδρος Μαρτίδης, Έλενα Ολυμπίου, Χρυσή Κασιώτη, Μάριος Δημητρίου
-
-Σεναριογράφοι: Μιχάλης Παπαδόπουλος, Μαρίνα Βρόντη, Αντρέας Σιεητττάνης, Δημήτρης Τοκαρής
-Επιμέλεια σεναρίων: Δημήτρης Τοκαρής
-Σκηνοθεσία: Ρομίνα Πολυμνίου
-Παραγωγή: Galinis Production Studio Ltd
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/TRIKYMIA_S.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20251028074500 +0300" stop="20251028100000 +0300" channel="rik1">
+  <programme start="20251028074500 +0200" stop="20251028100000 +0200" channel="rik1">
     <title lang="el">Προσφύγων Μνήμες</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028100000 +0300" stop="20251028103000 +0300" channel="rik1">
+  <programme start="20251028100000 +0200" stop="20251028103000 +0200" channel="rik1">
     <title lang="el">Πανηγυρική Δοξολογία για την επέτειο του ιστορικού quot;ΌΧΙquot;</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028103000 +0300" stop="20251028110000 +0300" channel="rik1">
+  <programme start="20251028103000 +0200" stop="20251028110000 +0200" channel="rik1">
     <title lang="el">Κύπρος Ένα Προσκύνημα</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028110000 +0300" stop="20251028120000 +0300" channel="rik1">
+  <programme start="20251028110000 +0200" stop="20251028120000 +0200" channel="rik1">
     <title lang="el">Τετραλογία-Ο Τόπος εν ο Άνθρωπος quot;Ξεχασμένοι Ήρωεςquot;</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028120000 +0300" stop="20251028124000 +0300" channel="rik1">
+  <programme start="20251028120000 +0200" stop="20251028124000 +0200" channel="rik1">
     <title lang="el">Το Έπος του 1940 στη Βόρεια Ήπειρο</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028124000 +0300" stop="20251028133000 +0300" channel="rik1">
+  <programme start="20251028124000 +0200" stop="20251028133000 +0200" channel="rik1">
     <title lang="el">Κώδικας Σιωπής</title>
    <desc lang="el">Εκπομπές με ιστορικό περιεχόμενο. Ντοκουμέντα και άλλο ανεκτίμητο οπτικοακουστικό υλικό από το πλούσιο αρχείο του ΡΙΚ. Συνεντεύξεις και μαρτυρίες από πρωταγωνιστές των γεγονότων.
 Έρευνα – Παρουσίαση: Πέτρος Μελαΐσης
@@ -6079,7 +6079,7 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/29/KODIKAS_SIOPH_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251028133000 +0300" stop="20251028140000 +0300" channel="rik1">
+  <programme start="20251028133000 +0200" stop="20251028140000 +0200" channel="rik1">
     <title lang="el">Χρονογράφημα</title>
    <desc lang="el">Χρονογράφημα, ένα μαγικό κουτί, το ανοίξαμε μαζί και ταξιδεύουμε στον χρόνο.
 Επαναφέρουμε στιγμές από μια Κύπρο μακρινή, καταγράφουμε μαρτυρίες με πυξίδα το μοναδικό Αρχείο του ΡΙΚ. Ξετυλίγουμε το νήμα της ιστορίας από το χθες στο σήμερα και ανακαλύπτουμε στοιχεία που καθόρισαν την Κύπρο και τους ανθρώπους της.
@@ -6088,15 +6088,15 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/XRONOGRAFHMA_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251028140000 +0300" stop="20251028143000 +0300" channel="rik1">
+  <programme start="20251028140000 +0200" stop="20251028143000 +0200" channel="rik1">
     <title lang="el">Ειδήσεις</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028143000 +0300" stop="20251028153000 +0300" channel="rik1">
+  <programme start="20251028143000 +0200" stop="20251028153000 +0200" channel="rik1">
     <title lang="el">Εμείς κι ο Κόσμος μας</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028153000 +0300" stop="20251028160000 +0300" channel="rik1">
+  <programme start="20251028153000 +0200" stop="20251028160000 +0200" channel="rik1">
     <title lang="el">Γευστικό Ταξίδι</title>
    <desc lang="el">Εκπομπή μαγειρικής που μας ταξιδεύει σε γεύσεις και αρώματα από την τοπική και τη διεθνή κουζίνα. Ο chef Χρίστος Χριστοδούλου, μοιράζεται μαζί μας τις δικές του μαγειρικές εμπειρίες.
 Κάθε Πέμπτη και Παρασκευή &quot;Γευστικό Ταξίδι στο χωριό&quot;. Μέσα από τις ομορφιές της κυπριακής υπαίθρου και τους ανθρώπους της, ανακαλύπτουμε σπάνιες συνταγές και συνθέτουμε τη γαστρονομική κουλτούρα του νησιού μας.
@@ -6107,23 +6107,23 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/19/GEYSTIKO_TAKSIDI_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251028160000 +0300" stop="20251028163000 +0300" channel="rik1">
+  <programme start="20251028160000 +0200" stop="20251028163000 +0200" channel="rik1">
     <title lang="el">Καμώματα τζι Αρώματα</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028163000 +0300" stop="20251028170000 +0300" channel="rik1">
+  <programme start="20251028163000 +0200" stop="20251028170000 +0200" channel="rik1">
     <title lang="el">Προορισμός Άουσβιτς</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028170000 +0300" stop="20251028180000 +0300" channel="rik1">
+  <programme start="20251028170000 +0200" stop="20251028180000 +0200" channel="rik1">
     <title lang="el">Λεύτερες</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028180000 +0300" stop="20251028183000 +0300" channel="rik1">
+  <programme start="20251028180000 +0200" stop="20251028183000 +0200" channel="rik1">
     <title lang="el">Ειδήσεις στις 18:00</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028183000 +0300" stop="20251028190000 +0300" channel="rik1">
+  <programme start="20251028183000 +0200" stop="20251028190000 +0200" channel="rik1">
     <title lang="el">Μην Κάψεις την Κουζίνα</title>
    <desc lang="el">Για δεύτερη συνεχή χρονιά η αγαπημένη ψυχαγωγική εκπομπή με δόση…μαγειρικής, σας κρατά συντροφιά.
 Επώνυμοι, πολιτικοί, ηθοποιοί, παρουσιαστές, και όχι μόνο, βάζουν ποδιά, περνούν από διασκεδαστικές δοκιμασίες και καλούνται να μαγειρέψουν χωρίς να κάψουν την κουζίνα.
@@ -6133,7 +6133,7 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/19/MHN_KAPSEIS_KOUZINA_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251028190000 +0300" stop="20251028200000 +0300" channel="rik1">
+  <programme start="20251028190000 +0200" stop="20251028200000 +0200" channel="rik1">
     <title lang="el">Τρικυμία</title>
    <desc lang="el">Ο τέταρτος κύκλος της σειράς μας βρίσκει στην Κύπρο του 1886, σε ένα ταξίδι στην ιστορία του τόπου μας και τον καθημερινό αγώνα για επιβίωση. Οι ήρωές μας παλεύουν με κάθε λογής αντιξοότητες, με πειρασμούς, με ανεκπλήρωτους πόθους και έρωτες, για την κάθαρση των ψυχών τους. Σε μυθοπλαστικά πάντα πλαίσια, φέτος θα δοθεί ιδιαίτερη έμφαση στο να γνωρίσει ο θεατής ιστορικά στοιχεία για την Κύπρο του χθες. Επίσης, μέσα από την ποίηση του εθνικού μας ποιητή Βασίλη Μιχαηλίδη, αναδεικνύονται οι πτυχές του παρελθόντος σε μια Κύπρο που βίωσε άπειρες τρικυμίες μα ποτέ δεν έχασε την ελπίδα για την πολυπόθητη γαλήνη.
 Συμμετέχουν οι ηθοποιοί: Νεοκλής Νεοκλέους, Ανδρούλλα Ηρακλέους, Ανδρέας Τσουρής,
@@ -6147,23 +6147,23 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/TRIKYMIA_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251028200000 +0300" stop="20251028210000 +0300" channel="rik1">
+  <programme start="20251028200000 +0200" stop="20251028210000 +0200" channel="rik1">
     <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028210000 +0300" stop="20251028220000 +0300" channel="rik1">
+  <programme start="20251028210000 +0200" stop="20251028220000 +0200" channel="rik1">
     <title lang="el">Ηλέκτρα</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028220000 +0300" stop="20251028224500 +0300" channel="rik1">
+  <programme start="20251028220000 +0200" stop="20251028224500 +0200" channel="rik1">
     <title lang="el">Ο Όρκος</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028224500 +0300" stop="20251028234500 +0300" channel="rik1">
+  <programme start="20251028224500 +0200" stop="20251028234500 +0200" channel="rik1">
     <title lang="el">Λεύτερες</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028234500 +0300" stop="20251029004500 +0300" channel="rik1">
+  <programme start="20251028234500 +0200" stop="20251029004500 +0200" channel="rik1">
     <title lang="el">Τρικυμία</title>
    <desc lang="el">Ο τέταρτος κύκλος της σειράς μας βρίσκει στην Κύπρο του 1886, σε ένα ταξίδι στην ιστορία του τόπου μας και τον καθημερινό αγώνα για επιβίωση. Οι ήρωές μας παλεύουν με κάθε λογής αντιξοότητες, με πειρασμούς, με ανεκπλήρωτους πόθους και έρωτες, για την κάθαρση των ψυχών τους. Σε μυθοπλαστικά πάντα πλαίσια, φέτος θα δοθεί ιδιαίτερη έμφαση στο να γνωρίσει ο θεατής ιστορικά στοιχεία για την Κύπρο του χθες. Επίσης, μέσα από την ποίηση του εθνικού μας ποιητή Βασίλη Μιχαηλίδη, αναδεικνύονται οι πτυχές του παρελθόντος σε μια Κύπρο που βίωσε άπειρες τρικυμίες μα ποτέ δεν έχασε την ελπίδα για την πολυπόθητη γαλήνη.
 Συμμετέχουν οι ηθοποιοί: Νεοκλής Νεοκλέους, Ανδρούλλα Ηρακλέους, Ανδρέας Τσουρής,
@@ -6177,7 +6177,7 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/TRIKYMIA_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251029004500 +0300" stop="20251029011500 +0300" channel="rik1">
+  <programme start="20251029004500 +0200" stop="20251029011500 +0200" channel="rik1">
     <title lang="el">Μην Κάψεις την Κουζίνα</title>
    <desc lang="el">Για δεύτερη συνεχή χρονιά η αγαπημένη ψυχαγωγική εκπομπή με δόση…μαγειρικής, σας κρατά συντροφιά.
 Επώνυμοι, πολιτικοί, ηθοποιοί, παρουσιαστές, και όχι μόνο, βάζουν ποδιά, περνούν από διασκεδαστικές δοκιμασίες και καλούνται να μαγειρέψουν χωρίς να κάψουν την κουζίνα.
@@ -6187,15 +6187,15 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/19/MHN_KAPSEIS_KOUZINA_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251029011500 +0300" stop="20251029021500 +0300" channel="rik1">
+  <programme start="20251029011500 +0200" stop="20251029021500 +0200" channel="rik1">
     <title lang="el">Ειδήσεις</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029021500 +0300" stop="20251029030000 +0300" channel="rik1">
+  <programme start="20251029021500 +0200" stop="20251029030000 +0200" channel="rik1">
     <title lang="el">Τετραλογία-Ο Τόπος εν ο Άνθρωπος quot;Ξεχασμένοι Ήρωεςquot;</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029030000 +0300" stop="20251029034500 +0300" channel="rik1">
+  <programme start="20251029030000 +0200" stop="20251029034500 +0200" channel="rik1">
     <title lang="el">Κώδικας Σιωπής</title>
    <desc lang="el">Εκπομπές με ιστορικό περιεχόμενο. Ντοκουμέντα και άλλο ανεκτίμητο οπτικοακουστικό υλικό από το πλούσιο αρχείο του ΡΙΚ. Συνεντεύξεις και μαρτυρίες από πρωταγωνιστές των γεγονότων.
 Έρευνα – Παρουσίαση: Πέτρος Μελαΐσης
@@ -6203,7 +6203,7 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/29/KODIKAS_SIOPH_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251029034500 +0300" stop="20251028041500 +0300" channel="rik1">
+  <programme start="20251029034500 +0200" stop="20251028041500 +0200" channel="rik1">
     <title lang="el">Γευστικό Ταξίδι</title>
    <desc lang="el">Εκπομπή μαγειρικής που μας ταξιδεύει σε γεύσεις και αρώματα από την τοπική και τη διεθνή κουζίνα. Ο chef Χρίστος Χριστοδούλου, μοιράζεται μαζί μας τις δικές του μαγειρικές εμπειρίες.
 Κάθε Πέμπτη και Παρασκευή &quot;Γευστικό Ταξίδι στο χωριό&quot;. Μέσα από τις ομορφιές της κυπριακής υπαίθρου και τους ανθρώπους της, ανακαλύπτουμε σπάνιες συνταγές και συνθέτουμε τη γαστρονομική κουλτούρα του νησιού μας.
@@ -6214,15 +6214,15 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/19/GEYSTIKO_TAKSIDI_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251028041500 +0300" stop="20251028050000 +0300" channel="rik1">
+  <programme start="20251028041500 +0200" stop="20251028050000 +0200" channel="rik1">
     <title lang="el">Ο Όρκος</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028050000 +0300" stop="20251028060000 +0300" channel="rik1">
+  <programme start="20251028050000 +0200" stop="20251028060000 +0200" channel="rik1">
     <title lang="el">Ηλέκτρα</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028060000 +0300" stop="20251028064500 +0300" channel="rik1">
+  <programme start="20251028060000 +0200" stop="20251028064500 +0200" channel="rik1">
     <title lang="el">Τρικυμία</title>
    <desc lang="el">Ο τέταρτος κύκλος της σειράς μας βρίσκει στην Κύπρο του 1886, σε ένα ταξίδι στην ιστορία του τόπου μας και τον καθημερινό αγώνα για επιβίωση. Οι ήρωές μας παλεύουν με κάθε λογής αντιξοότητες, με πειρασμούς, με ανεκπλήρωτους πόθους και έρωτες, για την κάθαρση των ψυχών τους. Σε μυθοπλαστικά πάντα πλαίσια, φέτος θα δοθεί ιδιαίτερη έμφαση στο να γνωρίσει ο θεατής ιστορικά στοιχεία για την Κύπρο του χθες. Επίσης, μέσα από την ποίηση του εθνικού μας ποιητή Βασίλη Μιχαηλίδη, αναδεικνύονται οι πτυχές του παρελθόντος σε μια Κύπρο που βίωσε άπειρες τρικυμίες μα ποτέ δεν έχασε την ελπίδα για την πολυπόθητη γαλήνη.
 Συμμετέχουν οι ηθοποιοί: Νεοκλής Νεοκλέους, Ανδρούλλα Ηρακλέους, Ανδρέας Τσουρής,
@@ -6236,87 +6236,87 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/TRIKYMIA_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251028063000 +0300" stop="20251028065500 +0300" channel="rik2">
+  <programme start="20251028063000 +0200" stop="20251028065500 +0200" channel="rik2">
     <title lang="el">Step by Step</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028065500 +0300" stop="20251028072000 +0300" channel="rik2">
+  <programme start="20251028065500 +0200" stop="20251028072000 +0200" channel="rik2">
     <title lang="el">Full House</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028072000 +0300" stop="20251028081000 +0300" channel="rik2">
+  <programme start="20251028072000 +0200" stop="20251028081000 +0200" channel="rik2">
     <title lang="el">Wild at Heart</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028081000 +0300" stop="20251028153000 +0300" channel="rik2">
+  <programme start="20251028081000 +0200" stop="20251028153000 +0200" channel="rik2">
     <title lang="el">Παιδική Ζώνη</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028153000 +0300" stop="20251028162000 +0300" channel="rik2">
+  <programme start="20251028153000 +0200" stop="20251028162000 +0200" channel="rik2">
     <title lang="el">Wild at Heart</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028162000 +0300" stop="20251028171000 +0300" channel="rik2">
+  <programme start="20251028162000 +0200" stop="20251028171000 +0200" channel="rik2">
     <title lang="el">Battle of the Atlantic</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028171000 +0300" stop="20251028173500 +0300" channel="rik2">
+  <programme start="20251028171000 +0200" stop="20251028173500 +0200" channel="rik2">
     <title lang="el">Step by Step</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028173500 +0300" stop="20251028180000 +0300" channel="rik2">
+  <programme start="20251028173500 +0200" stop="20251028180000 +0200" channel="rik2">
     <title lang="el">Full House</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028180000 +0300" stop="20251028183000 +0300" channel="rik2">
+  <programme start="20251028180000 +0200" stop="20251028183000 +0200" channel="rik2">
     <title lang="el">Μάθε Τέχνη κι Άστηνε</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028183000 +0300" stop="20251028185000 +0300" channel="rik2">
+  <programme start="20251028183000 +0200" stop="20251028185000 +0200" channel="rik2">
     <title lang="el">Euromaxx Clips</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028185000 +0300" stop="20251028210000 +0300" channel="rik2">
+  <programme start="20251028185000 +0200" stop="20251028210000 +0200" channel="rik2">
     <title lang="el">UEFA Women#x27;s Nations League/ΑΛΒΑΝΙΑ-ΚΥΠΡΟΣ Αγώνας</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028210000 +0300" stop="20251028210500 +0300" channel="rik2">
+  <programme start="20251028210000 +0200" stop="20251028210500 +0200" channel="rik2">
     <title lang="el">Ειδήσεις στην αγγλική</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028210500 +0300" stop="20251028211500 +0300" channel="rik2">
+  <programme start="20251028210500 +0200" stop="20251028211500 +0200" channel="rik2">
     <title lang="el">Ειδήσεις στην τουρκική</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028211500 +0300" stop="20251028220500 +0300" channel="rik2">
+  <programme start="20251028211500 +0200" stop="20251028220500 +0200" channel="rik2">
     <title lang="el">Hotel Portofino</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028220500 +0300" stop="20251028230500 +0300" channel="rik2">
+  <programme start="20251028220500 +0200" stop="20251028230500 +0200" channel="rik2">
     <title lang="el">Boat Story</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028230500 +0300" stop="20251029000000 +0300" channel="rik2">
+  <programme start="20251028230500 +0200" stop="20251029000000 +0200" channel="rik2">
     <title lang="el">Battle of the Atlantic</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029010000 +0300" stop="20251029011500 +0300" channel="rik2">
+  <programme start="20251029010000 +0200" stop="20251029011500 +0200" channel="rik2">
     <title lang="el">Ειδήσεις στην αγγλική και τουρκική</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029011500 +0300" stop="20251029020500 +0300" channel="rik2">
+  <programme start="20251029011500 +0200" stop="20251029020500 +0200" channel="rik2">
     <title lang="el">Hotel Portofino</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029020500 +0300" stop="20251029030000 +0300" channel="rik2">
+  <programme start="20251029020500 +0200" stop="20251029030000 +0200" channel="rik2">
     <title lang="el">Boat Story</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029030000 +0300" stop="20251029033000 +0300" channel="rik2">
+  <programme start="20251029030000 +0200" stop="20251029033000 +0200" channel="rik2">
     <title lang="el">Μάθε Τέχνη κι Άστηνε</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029033000 +0300" stop="20251028040000 +0300" channel="rik2">
+  <programme start="20251029033000 +0200" stop="20251028040000 +0200" channel="rik2">
     <title lang="el">Χρονογράφημα</title>
    <desc lang="el">Χρονογράφημα, ένα μαγικό κουτί, το ανοίξαμε μαζί και ταξιδεύουμε στον χρόνο.
 Επαναφέρουμε στιγμές από μια Κύπρο μακρινή, καταγράφουμε μαρτυρίες με πυξίδα το μοναδικό Αρχείο του ΡΙΚ. Ξετυλίγουμε το νήμα της ιστορίας από το χθες στο σήμερα και ανακαλύπτουμε στοιχεία που καθόρισαν την Κύπρο και τους ανθρώπους της.
@@ -6325,11 +6325,11 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/XRONOGRAFHMA_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251028040000 +0300" stop="20251028045000 +0300" channel="rik2">
+  <programme start="20251028040000 +0200" stop="20251028045000 +0200" channel="rik2">
     <title lang="el">Ernest Hemingway</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028045000 +0300" stop="20251028051500 +0300" channel="rik2">
+  <programme start="20251028045000 +0200" stop="20251028051500 +0200" channel="rik2">
     <title lang="el">ΧωριΟΝ</title>
    <desc lang="el">Παρουσίαση: Χριστιάνα Αντωνίου
 Σκηνοθεσία/Μοντάζ: Ελίνα Αντωνίου
@@ -6341,7 +6341,7 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/S_XORION.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251028051500 +0300" stop="20251028054500 +0300" channel="rik2">
+  <programme start="20251028051500 +0200" stop="20251028054500 +0200" channel="rik2">
     <title lang="el">Εκτός Διαδρομής</title>
    <desc lang="el">Απίστευτες περιπέτειες στη νέα ταξιδιωτική – ψυχαγωγική εκπομπή με θέματα που αφορούν τις υπαίθριες δραστηριότητες, τη φύση και το περιβάλλον.
 Παρουσίαση: Άριστος Αριστείδου, Πανίκος Πιλάλης
@@ -6350,31 +6350,31 @@ Project Manager: Άριστος Αριστείδου
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/S_EKTOS_DIADROMHS.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251028054500 +0300" stop="20251028063000 +0300" channel="rik2">
+  <programme start="20251028054500 +0200" stop="20251028063000 +0200" channel="rik2">
     <title lang="el">Battle of the Atlantic</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028074500 +0300" stop="20251028100000 +0300" channel="riksat">
+  <programme start="20251028074500 +0200" stop="20251028100000 +0200" channel="riksat">
     <title lang="el">Προσφύγων Μνήμες</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028100000 +0300" stop="20251028103000 +0300" channel="riksat">
+  <programme start="20251028100000 +0200" stop="20251028103000 +0200" channel="riksat">
     <title lang="el">Πανηγυρική Δοξολογία για την επέτειο του ιστορικού quot;ΌΧΙquot;</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028103000 +0300" stop="20251028110000 +0300" channel="riksat">
+  <programme start="20251028103000 +0200" stop="20251028110000 +0200" channel="riksat">
     <title lang="el">Κύπρος Ένα Προσκύνημα</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028110000 +0300" stop="20251028120000 +0300" channel="riksat">
+  <programme start="20251028110000 +0200" stop="20251028120000 +0200" channel="riksat">
     <title lang="el">Τετραλογία-Ο Τόπος εν ο Άνθρωπος quot;Ξεχασμένοι Ήρωεςquot;</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028120000 +0300" stop="20251028124000 +0300" channel="riksat">
+  <programme start="20251028120000 +0200" stop="20251028124000 +0200" channel="riksat">
     <title lang="el">Το Έπος του 1940 στη Βόρεια Ήπειρο</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028124000 +0300" stop="20251028140000 +0300" channel="riksat">
+  <programme start="20251028124000 +0200" stop="20251028140000 +0200" channel="riksat">
     <title lang="el">Κώδικας Σιωπής</title>
    <desc lang="el">Εκπομπές με ιστορικό περιεχόμενο. Ντοκουμέντα και άλλο ανεκτίμητο οπτικοακουστικό υλικό από το πλούσιο αρχείο του ΡΙΚ. Συνεντεύξεις και μαρτυρίες από πρωταγωνιστές των γεγονότων.
 Έρευνα – Παρουσίαση: Πέτρος Μελαΐσης
@@ -6382,15 +6382,15 @@ Project Manager: Άριστος Αριστείδου
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/29/KODIKAS_SIOPH_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251028140000 +0300" stop="20251028143000 +0300" channel="riksat">
+  <programme start="20251028140000 +0200" stop="20251028143000 +0200" channel="riksat">
     <title lang="el">Ειδήσεις</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028143000 +0300" stop="20251028153000 +0300" channel="riksat">
+  <programme start="20251028143000 +0200" stop="20251028153000 +0200" channel="riksat">
     <title lang="el">Εμείς κι ο Κόσμος μας</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028153000 +0300" stop="20251028160000 +0300" channel="riksat">
+  <programme start="20251028153000 +0200" stop="20251028160000 +0200" channel="riksat">
     <title lang="el">Γευστικό Ταξίδι</title>
    <desc lang="el">Εκπομπή μαγειρικής που μας ταξιδεύει σε γεύσεις και αρώματα από την τοπική και τη διεθνή κουζίνα. Ο chef Χρίστος Χριστοδούλου, μοιράζεται μαζί μας τις δικές του μαγειρικές εμπειρίες.
 Κάθε Πέμπτη και Παρασκευή &quot;Γευστικό Ταξίδι στο χωριό&quot;. Μέσα από τις ομορφιές της κυπριακής υπαίθρου και τους ανθρώπους της, ανακαλύπτουμε σπάνιες συνταγές και συνθέτουμε τη γαστρονομική κουλτούρα του νησιού μας.
@@ -6401,19 +6401,19 @@ Project Manager: Άριστος Αριστείδου
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/19/GEYSTIKO_TAKSIDI_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251028160000 +0300" stop="20251028163000 +0300" channel="riksat">
+  <programme start="20251028160000 +0200" stop="20251028163000 +0200" channel="riksat">
     <title lang="el">Καμώματα τζι Αρώματα</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028163000 +0300" stop="20251028180000 +0300" channel="riksat">
+  <programme start="20251028163000 +0200" stop="20251028180000 +0200" channel="riksat">
     <title lang="el">Προορισμός Άουσβιτς</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028180000 +0300" stop="20251028183000 +0300" channel="riksat">
+  <programme start="20251028180000 +0200" stop="20251028183000 +0200" channel="riksat">
     <title lang="el">Ειδήσεις στις 18:00</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028183000 +0300" stop="20251028190000 +0300" channel="riksat">
+  <programme start="20251028183000 +0200" stop="20251028190000 +0200" channel="riksat">
     <title lang="el">Μην Κάψεις την Κουζίνα</title>
    <desc lang="el">Για δεύτερη συνεχή χρονιά η αγαπημένη ψυχαγωγική εκπομπή με δόση…μαγειρικής, σας κρατά συντροφιά.
 Επώνυμοι, πολιτικοί, ηθοποιοί, παρουσιαστές, και όχι μόνο, βάζουν ποδιά, περνούν από διασκεδαστικές δοκιμασίες και καλούνται να μαγειρέψουν χωρίς να κάψουν την κουζίνα.
@@ -6423,11 +6423,11 @@ Project Manager: Άριστος Αριστείδου
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/19/MHN_KAPSEIS_KOUZINA_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251028190000 +0300" stop="20251028194000 +0300" channel="riksat">
+  <programme start="20251028190000 +0200" stop="20251028194000 +0200" channel="riksat">
     <title lang="el">Βήματα στην Άμμο</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028194000 +0300" stop="20251028200000 +0300" channel="riksat">
+  <programme start="20251028194000 +0200" stop="20251028200000 +0200" channel="riksat">
     <title lang="el">Χρονογράφημα</title>
    <desc lang="el">Χρονογράφημα, ένα μαγικό κουτί, το ανοίξαμε μαζί και ταξιδεύουμε στον χρόνο.
 Επαναφέρουμε στιγμές από μια Κύπρο μακρινή, καταγράφουμε μαρτυρίες με πυξίδα το μοναδικό Αρχείο του ΡΙΚ. Ξετυλίγουμε το νήμα της ιστορίας από το χθες στο σήμερα και ανακαλύπτουμε στοιχεία που καθόρισαν την Κύπρο και τους ανθρώπους της.
@@ -6436,11 +6436,11 @@ Project Manager: Άριστος Αριστείδου
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/XRONOGRAFHMA_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251028200000 +0300" stop="20251028210000 +0300" channel="riksat">
+  <programme start="20251028200000 +0200" stop="20251028210000 +0200" channel="riksat">
     <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028210000 +0300" stop="20251028220000 +0300" channel="riksat">
+  <programme start="20251028210000 +0200" stop="20251028220000 +0200" channel="riksat">
     <title lang="el">Τρικυμία</title>
    <desc lang="el">Ο τέταρτος κύκλος της σειράς μας βρίσκει στην Κύπρο του 1886, σε ένα ταξίδι στην ιστορία του τόπου μας και τον καθημερινό αγώνα για επιβίωση. Οι ήρωές μας παλεύουν με κάθε λογής αντιξοότητες, με πειρασμούς, με ανεκπλήρωτους πόθους και έρωτες, για την κάθαρση των ψυχών τους. Σε μυθοπλαστικά πάντα πλαίσια, φέτος θα δοθεί ιδιαίτερη έμφαση στο να γνωρίσει ο θεατής ιστορικά στοιχεία για την Κύπρο του χθες. Επίσης, μέσα από την ποίηση του εθνικού μας ποιητή Βασίλη Μιχαηλίδη, αναδεικνύονται οι πτυχές του παρελθόντος σε μια Κύπρο που βίωσε άπειρες τρικυμίες μα ποτέ δεν έχασε την ελπίδα για την πολυπόθητη γαλήνη.
 Συμμετέχουν οι ηθοποιοί: Νεοκλής Νεοκλέους, Ανδρούλλα Ηρακλέους, Ανδρέας Τσουρής,
@@ -6454,11 +6454,11 @@ Project Manager: Άριστος Αριστείδου
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/TRIKYMIA_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251028220000 +0300" stop="20251028223000 +0300" channel="riksat">
+  <programme start="20251028220000 +0200" stop="20251028223000 +0200" channel="riksat">
     <title lang="el">Στην Άκρη του Παράδεισου</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028223000 +0300" stop="20251028230000 +0300" channel="riksat">
+  <programme start="20251028223000 +0200" stop="20251028230000 +0200" channel="riksat">
     <title lang="el">Γευστικό Ταξίδι</title>
    <desc lang="el">Εκπομπή μαγειρικής που μας ταξιδεύει σε γεύσεις και αρώματα από την τοπική και τη διεθνή κουζίνα. Ο chef Χρίστος Χριστοδούλου, μοιράζεται μαζί μας τις δικές του μαγειρικές εμπειρίες.
 Κάθε Πέμπτη και Παρασκευή &quot;Γευστικό Ταξίδι στο χωριό&quot;. Μέσα από τις ομορφιές της κυπριακής υπαίθρου και τους ανθρώπους της, ανακαλύπτουμε σπάνιες συνταγές και συνθέτουμε τη γαστρονομική κουλτούρα του νησιού μας.
@@ -6469,15 +6469,15 @@ Project Manager: Άριστος Αριστείδου
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/19/GEYSTIKO_TAKSIDI_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251028230000 +0300" stop="20251029000000 +0300" channel="riksat">
+  <programme start="20251028230000 +0200" stop="20251029000000 +0200" channel="riksat">
     <title lang="el">Λεύτερες</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029010000 +0300" stop="20251029012000 +0300" channel="riksat">
+  <programme start="20251029010000 +0200" stop="20251029012000 +0200" channel="riksat">
     <title lang="el">Ειδήσεις στην αγγλική και τουρκική</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029012000 +0300" stop="20251029030000 +0300" channel="riksat">
+  <programme start="20251029012000 +0200" stop="20251029030000 +0200" channel="riksat">
     <title lang="el">Όμορφη Μέρα</title>
    <desc lang="el">Με όμορφη και χαλαρή διάθεση, με κέφι και ποικιλία θεμάτων, η Όμορφη Μέρα επανέρχεται ανανεωμένη. Ψυχαγωγία, πολιτισμός, μαγειρική, ομορφιά, υγεία.
 Δημοσιογραφική επιμέλεια, Παρουσίαση: Αγγελική Νικηφόρου
@@ -6485,15 +6485,15 @@ Project Manager: Άριστος Αριστείδου
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/12/S_OMORFH_MERA_25.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251029030000 +0300" stop="20251028040000 +0300" channel="riksat">
+  <programme start="20251029030000 +0200" stop="20251028040000 +0200" channel="riksat">
     <title lang="el">Ειδήσεις</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028040000 +0300" stop="20251028043000 +0300" channel="riksat">
+  <programme start="20251028040000 +0200" stop="20251028043000 +0200" channel="riksat">
     <title lang="el">Βήματα στην Άμμο</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028043000 +0300" stop="20251028050000 +0300" channel="riksat">
+  <programme start="20251028043000 +0200" stop="20251028050000 +0200" channel="riksat">
     <title lang="el">Χρονογράφημα</title>
    <desc lang="el">Χρονογράφημα, ένα μαγικό κουτί, το ανοίξαμε μαζί και ταξιδεύουμε στον χρόνο.
 Επαναφέρουμε στιγμές από μια Κύπρο μακρινή, καταγράφουμε μαρτυρίες με πυξίδα το μοναδικό Αρχείο του ΡΙΚ. Ξετυλίγουμε το νήμα της ιστορίας από το χθες στο σήμερα και ανακαλύπτουμε στοιχεία που καθόρισαν την Κύπρο και τους ανθρώπους της.
@@ -6502,11 +6502,11 @@ Project Manager: Άριστος Αριστείδου
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/XRONOGRAFHMA_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251028050000 +0300" stop="20251028060000 +0300" channel="riksat">
+  <programme start="20251028050000 +0200" stop="20251028060000 +0200" channel="riksat">
     <title lang="el">Λεύτερες</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251028060000 +0300" stop="20251028064500 +0300" channel="riksat">
+  <programme start="20251028060000 +0200" stop="20251028064500 +0200" channel="riksat">
     <title lang="el">Τρικυμία</title>
    <desc lang="el">Ο τέταρτος κύκλος της σειράς μας βρίσκει στην Κύπρο του 1886, σε ένα ταξίδι στην ιστορία του τόπου μας και τον καθημερινό αγώνα για επιβίωση. Οι ήρωές μας παλεύουν με κάθε λογής αντιξοότητες, με πειρασμούς, με ανεκπλήρωτους πόθους και έρωτες, για την κάθαρση των ψυχών τους. Σε μυθοπλαστικά πάντα πλαίσια, φέτος θα δοθεί ιδιαίτερη έμφαση στο να γνωρίσει ο θεατής ιστορικά στοιχεία για την Κύπρο του χθες. Επίσης, μέσα από την ποίηση του εθνικού μας ποιητή Βασίλη Μιχαηλίδη, αναδεικνύονται οι πτυχές του παρελθόντος σε μια Κύπρο που βίωσε άπειρες τρικυμίες μα ποτέ δεν έχασε την ελπίδα για την πολυπόθητη γαλήνη.
 Συμμετέχουν οι ηθοποιοί: Νεοκλής Νεοκλέους, Ανδρούλλα Ηρακλέους, Ανδρέας Τσουρής,
@@ -6520,7 +6520,76 @@ Project Manager: Άριστος Αριστείδου
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/TRIKYMIA_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251029064500 +0300" stop="20251029093000 +0300" channel="rik1">
+  <programme start="20251029234500 +0200" stop="20251030004500 +0200" channel="rik1">
+    <title lang="el">Τρικυμία</title>
+   <desc lang="el">Ο τέταρτος κύκλος της σειράς μας βρίσκει στην Κύπρο του 1886, σε ένα ταξίδι στην ιστορία του τόπου μας και τον καθημερινό αγώνα για επιβίωση. Οι ήρωές μας παλεύουν με κάθε λογής αντιξοότητες, με πειρασμούς, με ανεκπλήρωτους πόθους και έρωτες, για την κάθαρση των ψυχών τους. Σε μυθοπλαστικά πάντα πλαίσια, φέτος θα δοθεί ιδιαίτερη έμφαση στο να γνωρίσει ο θεατής ιστορικά στοιχεία για την Κύπρο του χθες. Επίσης, μέσα από την ποίηση του εθνικού μας ποιητή Βασίλη Μιχαηλίδη, αναδεικνύονται οι πτυχές του παρελθόντος σε μια Κύπρο που βίωσε άπειρες τρικυμίες μα ποτέ δεν έχασε την ελπίδα για την πολυπόθητη γαλήνη.
+Συμμετέχουν οι ηθοποιοί: Νεοκλής Νεοκλέους, Ανδρούλλα Ηρακλέους, Ανδρέας Τσουρής,
+Γεώργιος Αναγιώτος, Μαρίνος Κόνσολος, Εύρος Βασιλείου, Μαρία Φιακά, Γιάννα Λευκάτη
+Αλέξανδρος Μαρτίδης, Έλενα Ολυμπίου, Χρυσή Κασιώτη, Μάριος Δημητρίου
+
+Σεναριογράφοι: Μιχάλης Παπαδόπουλος, Μαρίνα Βρόντη, Αντρέας Σιεητττάνης, Δημήτρης Τοκαρής
+Επιμέλεια σεναρίων: Δημήτρης Τοκαρής
+Σκηνοθεσία: Ρομίνα Πολυμνίου
+Παραγωγή: Galinis Production Studio Ltd
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/TRIKYMIA_S.2e16d0ba.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20251030004500 +0200" stop="20251030011500 +0200" channel="rik1">
+    <title lang="el">Μην Κάψεις την Κουζίνα</title>
+   <desc lang="el">Για δεύτερη συνεχή χρονιά η αγαπημένη ψυχαγωγική εκπομπή με δόση…μαγειρικής, σας κρατά συντροφιά.
+Επώνυμοι, πολιτικοί, ηθοποιοί, παρουσιαστές, και όχι μόνο, βάζουν ποδιά, περνούν από διασκεδαστικές δοκιμασίες και καλούνται να μαγειρέψουν χωρίς να κάψουν την κουζίνα.
+
+
+Παρουσίαση: Αθηνά Βιολάρη, Αλέξανδρος ΤαραμουντάςΕπιμέλεια Παραγωγής – Σκηνοθεσία: Κόριννα Αβρααμίδου Εκτέλεση Παραγωγής: Blue Cow Studios
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/19/MHN_KAPSEIS_KOUZINA_S.2e16d0ba.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20251030011500 +0200" stop="20251030021500 +0200" channel="rik1">
+    <title lang="el">Ειδήσεις</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251030021500 +0200" stop="20251030034500 +0200" channel="rik1">
+    <title lang="el">Όμορφη Μέρα</title>
+   <desc lang="el">Με όμορφη και χαλαρή διάθεση, με κέφι και ποικιλία θεμάτων, η Όμορφη Μέρα επανέρχεται ανανεωμένη. Ψυχαγωγία, πολιτισμός, μαγειρική, ομορφιά, υγεία.
+Δημοσιογραφική επιμέλεια, Παρουσίαση: Αγγελική Νικηφόρου
+Επιμέλεια Παραγωγής - Σκηνοθεσία: Σόνια Δημητρίου και Χρυστάλλα Αυγουστή
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/12/S_OMORFH_MERA_25.2e16d0ba.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20251030034500 +0200" stop="20251029041500 +0200" channel="rik1">
+    <title lang="el">Γευστικό Ταξίδι</title>
+   <desc lang="el">Εκπομπή μαγειρικής που μας ταξιδεύει σε γεύσεις και αρώματα από την τοπική και τη διεθνή κουζίνα. Ο chef Χρίστος Χριστοδούλου, μοιράζεται μαζί μας τις δικές του μαγειρικές εμπειρίες.
+Κάθε Πέμπτη και Παρασκευή &quot;Γευστικό Ταξίδι στο χωριό&quot;. Μέσα από τις ομορφιές της κυπριακής υπαίθρου και τους ανθρώπους της, ανακαλύπτουμε σπάνιες συνταγές και συνθέτουμε τη γαστρονομική κουλτούρα του νησιού μας.
+
+Παρουσίαση: Χρίστος Χριστοδούλου
+Επιμέλεια Παραγωγής-Σκηνοθεσία: Μενέλαος Χατζηστυλλής
+
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/19/GEYSTIKO_TAKSIDI_S.2e16d0ba.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20251029041500 +0200" stop="20251029050000 +0200" channel="rik1">
+    <title lang="el">Ο Όρκος</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251029050000 +0200" stop="20251029060000 +0200" channel="rik1">
+    <title lang="el">Ηλέκτρα</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251029060000 +0200" stop="20251029064500 +0200" channel="rik1">
+    <title lang="el">Τρικυμία</title>
+   <desc lang="el">Ο τέταρτος κύκλος της σειράς μας βρίσκει στην Κύπρο του 1886, σε ένα ταξίδι στην ιστορία του τόπου μας και τον καθημερινό αγώνα για επιβίωση. Οι ήρωές μας παλεύουν με κάθε λογής αντιξοότητες, με πειρασμούς, με ανεκπλήρωτους πόθους και έρωτες, για την κάθαρση των ψυχών τους. Σε μυθοπλαστικά πάντα πλαίσια, φέτος θα δοθεί ιδιαίτερη έμφαση στο να γνωρίσει ο θεατής ιστορικά στοιχεία για την Κύπρο του χθες. Επίσης, μέσα από την ποίηση του εθνικού μας ποιητή Βασίλη Μιχαηλίδη, αναδεικνύονται οι πτυχές του παρελθόντος σε μια Κύπρο που βίωσε άπειρες τρικυμίες μα ποτέ δεν έχασε την ελπίδα για την πολυπόθητη γαλήνη.
+Συμμετέχουν οι ηθοποιοί: Νεοκλής Νεοκλέους, Ανδρούλλα Ηρακλέους, Ανδρέας Τσουρής,
+Γεώργιος Αναγιώτος, Μαρίνος Κόνσολος, Εύρος Βασιλείου, Μαρία Φιακά, Γιάννα Λευκάτη
+Αλέξανδρος Μαρτίδης, Έλενα Ολυμπίου, Χρυσή Κασιώτη, Μάριος Δημητρίου
+
+Σεναριογράφοι: Μιχάλης Παπαδόπουλος, Μαρίνα Βρόντη, Αντρέας Σιεητττάνης, Δημήτρης Τοκαρής
+Επιμέλεια σεναρίων: Δημήτρης Τοκαρής
+Σκηνοθεσία: Ρομίνα Πολυμνίου
+Παραγωγή: Galinis Production Studio Ltd
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/TRIKYMIA_S.2e16d0ba.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20251029064500 +0200" stop="20251029093000 +0200" channel="rik1">
     <title lang="el">Πρώτη Ενημέρωση</title>
    <desc lang="el">Καθημερινή ενημερωτική εκπομπή που μεταφέρει υπεύθυνα και έγκαιρα όλες τις εξελίξεις από την Κύπρο και τον κόσμο.
 Με πλήρες δελτίο ειδήσεων, ζωντανές συνδέσεις, ρεπορτάζ και ανταποκρίσεις, καθώς και φιλοξενούμενους στο στούντιο που σχολιάζουν και αναλύουν την επικαιρότητα.
@@ -6530,7 +6599,7 @@ Project Manager: Άριστος Αριστείδου
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/23/PROTH_ii_ENHMEROSH_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251029093000 +0300" stop="20251029110000 +0300" channel="rik1">
+  <programme start="20251029093000 +0200" stop="20251029110000 +0200" channel="rik1">
     <title lang="el">Όμορφη Μέρα</title>
    <desc lang="el">Με όμορφη και χαλαρή διάθεση, με κέφι και ποικιλία θεμάτων, η Όμορφη Μέρα επανέρχεται ανανεωμένη. Ψυχαγωγία, πολιτισμός, μαγειρική, ομορφιά, υγεία.
 Δημοσιογραφική επιμέλεια, Παρουσίαση: Αγγελική Νικηφόρου
@@ -6538,7 +6607,7 @@ Project Manager: Άριστος Αριστείδου
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/12/S_OMORFH_MERA_25.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251029110000 +0300" stop="20251029140000 +0300" channel="rik1">
+  <programme start="20251029110000 +0200" stop="20251029140000 +0200" channel="rik1">
     <title lang="el">Από Μέρα σε Μέρα</title>
    <desc lang="el">Μεσημβρινή, ζωντανή, ενημερωτική εκπομπή που παρουσιάζει και αναλύει όλη την επικαιρότητα της ημέρας. Με συζητήσεις, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις, η εκπομπή μεταφέρει τον παλμό της επικαιρότητας και τις εξελίξεις στον τοπικό και διεθνή χώρο, με σοβαρότητα και υπευθυνότητα. Καθημερινά από τις 11:00 μέχρι τις 14:00.
 Δημοσιογραφική Επιμέλεια-Παρουσίαση: Κώστας Κωνσταντίνου, Τάσος Χριστοδούλου, Κατερίνα Χαραλάμπους
@@ -6548,15 +6617,15 @@ Project Manager: Άριστος Αριστείδου
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/23/APO_MERA_S_NEW.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251029140000 +0300" stop="20251029143000 +0300" channel="rik1">
+  <programme start="20251029140000 +0200" stop="20251029143000 +0200" channel="rik1">
     <title lang="el">Ειδήσεις</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029143000 +0300" stop="20251029153000 +0300" channel="rik1">
+  <programme start="20251029143000 +0200" stop="20251029153000 +0200" channel="rik1">
     <title lang="el">Εμείς κι ο Κόσμος μας</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029153000 +0300" stop="20251029160000 +0300" channel="rik1">
+  <programme start="20251029153000 +0200" stop="20251029160000 +0200" channel="rik1">
     <title lang="el">Γευστικό Ταξίδι</title>
    <desc lang="el">Εκπομπή μαγειρικής που μας ταξιδεύει σε γεύσεις και αρώματα από την τοπική και τη διεθνή κουζίνα. Ο chef Χρίστος Χριστοδούλου, μοιράζεται μαζί μας τις δικές του μαγειρικές εμπειρίες.
 Κάθε Πέμπτη και Παρασκευή &quot;Γευστικό Ταξίδι στο χωριό&quot;. Μέσα από τις ομορφιές της κυπριακής υπαίθρου και τους ανθρώπους της, ανακαλύπτουμε σπάνιες συνταγές και συνθέτουμε τη γαστρονομική κουλτούρα του νησιού μας.
@@ -6567,19 +6636,19 @@ Project Manager: Άριστος Αριστείδου
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/19/GEYSTIKO_TAKSIDI_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251029160000 +0300" stop="20251029163000 +0300" channel="rik1">
+  <programme start="20251029160000 +0200" stop="20251029163000 +0200" channel="rik1">
     <title lang="el">Καμώματα τζι Αρώματα</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029163000 +0300" stop="20251029180000 +0300" channel="rik1">
+  <programme start="20251029163000 +0200" stop="20251029180000 +0200" channel="rik1">
     <title lang="el">p.m. ΣΤΟ ΡΙΚ</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029180000 +0300" stop="20251029183000 +0300" channel="rik1">
+  <programme start="20251029180000 +0200" stop="20251029183000 +0200" channel="rik1">
     <title lang="el">Ειδήσεις στις 18:00</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029183000 +0300" stop="20251029190000 +0300" channel="rik1">
+  <programme start="20251029183000 +0200" stop="20251029190000 +0200" channel="rik1">
     <title lang="el">Μην Κάψεις την Κουζίνα</title>
    <desc lang="el">Για δεύτερη συνεχή χρονιά η αγαπημένη ψυχαγωγική εκπομπή με δόση…μαγειρικής, σας κρατά συντροφιά.
 Επώνυμοι, πολιτικοί, ηθοποιοί, παρουσιαστές, και όχι μόνο, βάζουν ποδιά, περνούν από διασκεδαστικές δοκιμασίες και καλούνται να μαγειρέψουν χωρίς να κάψουν την κουζίνα.
@@ -6589,7 +6658,7 @@ Project Manager: Άριστος Αριστείδου
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/19/MHN_KAPSEIS_KOUZINA_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251029190000 +0300" stop="20251029200000 +0300" channel="rik1">
+  <programme start="20251029190000 +0200" stop="20251029200000 +0200" channel="rik1">
     <title lang="el">Τρικυμία</title>
    <desc lang="el">Ο τέταρτος κύκλος της σειράς μας βρίσκει στην Κύπρο του 1886, σε ένα ταξίδι στην ιστορία του τόπου μας και τον καθημερινό αγώνα για επιβίωση. Οι ήρωές μας παλεύουν με κάθε λογής αντιξοότητες, με πειρασμούς, με ανεκπλήρωτους πόθους και έρωτες, για την κάθαρση των ψυχών τους. Σε μυθοπλαστικά πάντα πλαίσια, φέτος θα δοθεί ιδιαίτερη έμφαση στο να γνωρίσει ο θεατής ιστορικά στοιχεία για την Κύπρο του χθες. Επίσης, μέσα από την ποίηση του εθνικού μας ποιητή Βασίλη Μιχαηλίδη, αναδεικνύονται οι πτυχές του παρελθόντος σε μια Κύπρο που βίωσε άπειρες τρικυμίες μα ποτέ δεν έχασε την ελπίδα για την πολυπόθητη γαλήνη.
 Συμμετέχουν οι ηθοποιοί: Νεοκλής Νεοκλέους, Ανδρούλλα Ηρακλέους, Ανδρέας Τσουρής,
@@ -6603,19 +6672,19 @@ Project Manager: Άριστος Αριστείδου
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/TRIKYMIA_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251029200000 +0300" stop="20251029210000 +0300" channel="rik1">
+  <programme start="20251029200000 +0200" stop="20251029210000 +0200" channel="rik1">
     <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029210000 +0300" stop="20251029220000 +0300" channel="rik1">
+  <programme start="20251029210000 +0200" stop="20251029220000 +0200" channel="rik1">
     <title lang="el">Ηλέκτρα</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029220000 +0300" stop="20251029224500 +0300" channel="rik1">
+  <programme start="20251029220000 +0200" stop="20251029224500 +0200" channel="rik1">
     <title lang="el">Ο Όρκος</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029224500 +0300" stop="20251029234500 +0300" channel="rik1">
+  <programme start="20251029224500 +0200" stop="20251029234500 +0200" channel="rik1">
     <title lang="el">Προκλήσεις</title>
    <desc lang="el">Επικαιρική εκπομπή με επίκεντρο τις πολιτικές εξελίξεις στην Κύπρο και διεθνώς. Στόχος η ουσιαστική ανάλυση από πολιτικούς, ακαδημαϊκούς και από τους ίδιους τους πρωταγωνιστές.
 
@@ -6624,136 +6693,67 @@ Project Manager: Άριστος Αριστείδου
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/PROKLHSEIS_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251029234500 +0300" stop="20251030004500 +0300" channel="rik1">
-    <title lang="el">Τρικυμία</title>
-   <desc lang="el">Ο τέταρτος κύκλος της σειράς μας βρίσκει στην Κύπρο του 1886, σε ένα ταξίδι στην ιστορία του τόπου μας και τον καθημερινό αγώνα για επιβίωση. Οι ήρωές μας παλεύουν με κάθε λογής αντιξοότητες, με πειρασμούς, με ανεκπλήρωτους πόθους και έρωτες, για την κάθαρση των ψυχών τους. Σε μυθοπλαστικά πάντα πλαίσια, φέτος θα δοθεί ιδιαίτερη έμφαση στο να γνωρίσει ο θεατής ιστορικά στοιχεία για την Κύπρο του χθες. Επίσης, μέσα από την ποίηση του εθνικού μας ποιητή Βασίλη Μιχαηλίδη, αναδεικνύονται οι πτυχές του παρελθόντος σε μια Κύπρο που βίωσε άπειρες τρικυμίες μα ποτέ δεν έχασε την ελπίδα για την πολυπόθητη γαλήνη.
-Συμμετέχουν οι ηθοποιοί: Νεοκλής Νεοκλέους, Ανδρούλλα Ηρακλέους, Ανδρέας Τσουρής,
-Γεώργιος Αναγιώτος, Μαρίνος Κόνσολος, Εύρος Βασιλείου, Μαρία Φιακά, Γιάννα Λευκάτη
-Αλέξανδρος Μαρτίδης, Έλενα Ολυμπίου, Χρυσή Κασιώτη, Μάριος Δημητρίου
-
-Σεναριογράφοι: Μιχάλης Παπαδόπουλος, Μαρίνα Βρόντη, Αντρέας Σιεητττάνης, Δημήτρης Τοκαρής
-Επιμέλεια σεναρίων: Δημήτρης Τοκαρής
-Σκηνοθεσία: Ρομίνα Πολυμνίου
-Παραγωγή: Galinis Production Studio Ltd
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/TRIKYMIA_S.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20251030004500 +0300" stop="20251030011500 +0300" channel="rik1">
-    <title lang="el">Μην Κάψεις την Κουζίνα</title>
-   <desc lang="el">Για δεύτερη συνεχή χρονιά η αγαπημένη ψυχαγωγική εκπομπή με δόση…μαγειρικής, σας κρατά συντροφιά.
-Επώνυμοι, πολιτικοί, ηθοποιοί, παρουσιαστές, και όχι μόνο, βάζουν ποδιά, περνούν από διασκεδαστικές δοκιμασίες και καλούνται να μαγειρέψουν χωρίς να κάψουν την κουζίνα.
-
-
-Παρουσίαση: Αθηνά Βιολάρη, Αλέξανδρος ΤαραμουντάςΕπιμέλεια Παραγωγής – Σκηνοθεσία: Κόριννα Αβρααμίδου Εκτέλεση Παραγωγής: Blue Cow Studios
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/19/MHN_KAPSEIS_KOUZINA_S.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20251030011500 +0300" stop="20251030021500 +0300" channel="rik1">
-    <title lang="el">Ειδήσεις</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251030021500 +0300" stop="20251030034500 +0300" channel="rik1">
-    <title lang="el">Όμορφη Μέρα</title>
-   <desc lang="el">Με όμορφη και χαλαρή διάθεση, με κέφι και ποικιλία θεμάτων, η Όμορφη Μέρα επανέρχεται ανανεωμένη. Ψυχαγωγία, πολιτισμός, μαγειρική, ομορφιά, υγεία.
-Δημοσιογραφική επιμέλεια, Παρουσίαση: Αγγελική Νικηφόρου
-Επιμέλεια Παραγωγής - Σκηνοθεσία: Σόνια Δημητρίου και Χρυστάλλα Αυγουστή
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/12/S_OMORFH_MERA_25.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20251030034500 +0300" stop="20251029041500 +0300" channel="rik1">
-    <title lang="el">Γευστικό Ταξίδι</title>
-   <desc lang="el">Εκπομπή μαγειρικής που μας ταξιδεύει σε γεύσεις και αρώματα από την τοπική και τη διεθνή κουζίνα. Ο chef Χρίστος Χριστοδούλου, μοιράζεται μαζί μας τις δικές του μαγειρικές εμπειρίες.
-Κάθε Πέμπτη και Παρασκευή &quot;Γευστικό Ταξίδι στο χωριό&quot;. Μέσα από τις ομορφιές της κυπριακής υπαίθρου και τους ανθρώπους της, ανακαλύπτουμε σπάνιες συνταγές και συνθέτουμε τη γαστρονομική κουλτούρα του νησιού μας.
-
-Παρουσίαση: Χρίστος Χριστοδούλου
-Επιμέλεια Παραγωγής-Σκηνοθεσία: Μενέλαος Χατζηστυλλής
-
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/19/GEYSTIKO_TAKSIDI_S.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20251029041500 +0300" stop="20251029050000 +0300" channel="rik1">
-    <title lang="el">Ο Όρκος</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251029050000 +0300" stop="20251029060000 +0300" channel="rik1">
-    <title lang="el">Ηλέκτρα</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251029060000 +0300" stop="20251029064500 +0300" channel="rik1">
-    <title lang="el">Τρικυμία</title>
-   <desc lang="el">Ο τέταρτος κύκλος της σειράς μας βρίσκει στην Κύπρο του 1886, σε ένα ταξίδι στην ιστορία του τόπου μας και τον καθημερινό αγώνα για επιβίωση. Οι ήρωές μας παλεύουν με κάθε λογής αντιξοότητες, με πειρασμούς, με ανεκπλήρωτους πόθους και έρωτες, για την κάθαρση των ψυχών τους. Σε μυθοπλαστικά πάντα πλαίσια, φέτος θα δοθεί ιδιαίτερη έμφαση στο να γνωρίσει ο θεατής ιστορικά στοιχεία για την Κύπρο του χθες. Επίσης, μέσα από την ποίηση του εθνικού μας ποιητή Βασίλη Μιχαηλίδη, αναδεικνύονται οι πτυχές του παρελθόντος σε μια Κύπρο που βίωσε άπειρες τρικυμίες μα ποτέ δεν έχασε την ελπίδα για την πολυπόθητη γαλήνη.
-Συμμετέχουν οι ηθοποιοί: Νεοκλής Νεοκλέους, Ανδρούλλα Ηρακλέους, Ανδρέας Τσουρής,
-Γεώργιος Αναγιώτος, Μαρίνος Κόνσολος, Εύρος Βασιλείου, Μαρία Φιακά, Γιάννα Λευκάτη
-Αλέξανδρος Μαρτίδης, Έλενα Ολυμπίου, Χρυσή Κασιώτη, Μάριος Δημητρίου
-
-Σεναριογράφοι: Μιχάλης Παπαδόπουλος, Μαρίνα Βρόντη, Αντρέας Σιεητττάνης, Δημήτρης Τοκαρής
-Επιμέλεια σεναρίων: Δημήτρης Τοκαρής
-Σκηνοθεσία: Ρομίνα Πολυμνίου
-Παραγωγή: Galinis Production Studio Ltd
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/TRIKYMIA_S.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20251029063000 +0300" stop="20251029065500 +0300" channel="rik2">
+  <programme start="20251029063000 +0200" stop="20251029065500 +0200" channel="rik2">
     <title lang="el">Step by Step</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029065500 +0300" stop="20251029072000 +0300" channel="rik2">
+  <programme start="20251029065500 +0200" stop="20251029072000 +0200" channel="rik2">
     <title lang="el">full House</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029072000 +0300" stop="20251029081000 +0300" channel="rik2">
+  <programme start="20251029072000 +0200" stop="20251029081000 +0200" channel="rik2">
     <title lang="el">Wild at Heart</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029081000 +0300" stop="20251029153000 +0300" channel="rik2">
+  <programme start="20251029081000 +0200" stop="20251029153000 +0200" channel="rik2">
     <title lang="el">Παιδική Ζώνη</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029153000 +0300" stop="20251029162000 +0300" channel="rik2">
+  <programme start="20251029153000 +0200" stop="20251029162000 +0200" channel="rik2">
     <title lang="el">Wild at Heart</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029162000 +0300" stop="20251029170500 +0300" channel="rik2">
+  <programme start="20251029162000 +0200" stop="20251029170500 +0200" channel="rik2">
     <title lang="el">Battle of the Atlantic</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029170500 +0300" stop="20251029173000 +0300" channel="rik2">
+  <programme start="20251029170500 +0200" stop="20251029173000 +0200" channel="rik2">
     <title lang="el">Step by Step</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029173000 +0300" stop="20251029193000 +0300" channel="rik2">
+  <programme start="20251029173000 +0200" stop="20251029193000 +0200" channel="rik2">
     <title lang="el">Atlantic Crossing</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029193000 +0300" stop="20251029194000 +0300" channel="rik2">
+  <programme start="20251029193000 +0200" stop="20251029194000 +0200" channel="rik2">
     <title lang="el">Ο Δρόμος έχει τη δική του Ιστορία</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029194000 +0300" stop="20251029195000 +0300" channel="rik2">
+  <programme start="20251029194000 +0200" stop="20251029195000 +0200" channel="rik2">
     <title lang="el">Ειδήσεις στην αγγλική</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029195000 +0300" stop="20251029200000 +0300" channel="rik2">
+  <programme start="20251029195000 +0200" stop="20251029200000 +0200" channel="rik2">
     <title lang="el">Ειδήσεις στην τουρκική</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029200000 +0300" stop="20251029210000 +0300" channel="rik2">
+  <programme start="20251029200000 +0200" stop="20251029210000 +0200" channel="rik2">
     <title lang="el">Κεντρικό Δελτίο Ειδήσεων στη Νοηματική</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029210000 +0300" stop="20251029220000 +0300" channel="rik2">
+  <programme start="20251029210000 +0200" stop="20251029220000 +0200" channel="rik2">
     <title lang="el">Hotel Portofino</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029220000 +0300" stop="20251029230000 +0300" channel="rik2">
+  <programme start="20251029220000 +0200" stop="20251029230000 +0200" channel="rik2">
     <title lang="el">Boat Story</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029230000 +0300" stop="20251030000000 +0300" channel="rik2">
+  <programme start="20251029230000 +0200" stop="20251030000000 +0200" channel="rik2">
     <title lang="el">Εμείς κι ο Κόσμος μας</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030001000 +0300" stop="20251030031000 +0300" channel="rik2">
+  <programme start="20251030001000 +0200" stop="20251030031000 +0200" channel="rik2">
     <title lang="el">Από Μέρα σε Μέρα</title>
    <desc lang="el">Μεσημβρινή, ζωντανή, ενημερωτική εκπομπή που παρουσιάζει και αναλύει όλη την επικαιρότητα της ημέρας. Με συζητήσεις, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις, η εκπομπή μεταφέρει τον παλμό της επικαιρότητας και τις εξελίξεις στον τοπικό και διεθνή χώρο, με σοβαρότητα και υπευθυνότητα. Καθημερινά από τις 11:00 μέχρι τις 14:00.
 Δημοσιογραφική Επιμέλεια-Παρουσίαση: Κώστας Κωνσταντίνου, Τάσος Χριστοδούλου, Κατερίνα Χαραλάμπους
@@ -6763,22 +6763,22 @@ Project Manager: Άριστος Αριστείδου
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/23/APO_MERA_S_NEW.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251030031000 +0300" stop="20251029040500 +0300" channel="rik2">
+  <programme start="20251030031000 +0200" stop="20251029040500 +0200" channel="rik2">
     <title lang="el">Hotel Portofino</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029040500 +0300" stop="20251029060000 +0300" channel="rik2">
+  <programme start="20251029040500 +0200" stop="20251029060000 +0200" channel="rik2">
     <title lang="el">Atlantic Crossing</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029060000 +0300" stop="20251029063000 +0300" channel="rik2">
+  <programme start="20251029060000 +0200" stop="20251029063000 +0200" channel="rik2">
     <title lang="el">Ύπαιθρος</title>
    <desc lang="el">Δημοσιογραφική Επιμέλεια – Παρουσίαση: Θεόδουλος ΚουλλαπήΕπιμέλεια Παραγωγής – Σκηνοθεσία: Έλλη Χατζηπαρασκευά  
 Μια εκπομπή αφιερωμένη στον αγροτικό κόσμο της Κύπρου. Με επίκεντρο τους ίδιους τους ανθρώπους που παραμένουν δεμένοι με τη γη, αναδεικνύεται η καθημερινότητά τους, οι δυσκολίες αλλά και οι προοπτικές που ανοίγονται για τη ζωή στην ύπαιθρο. Παράλληλα, προβάλλονται δράσεις, προγράμματα και πρωτοβουλίες που στηρίζουν τον αγροτικό τομέα, αναδεικνύουν τον πολιτισμό της κυπριακής γης και κρατούν ζωντανή την παράδοση. 
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/S_YPAITHROS.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251029064500 +0300" stop="20251029093000 +0300" channel="riksat">
+  <programme start="20251029064500 +0200" stop="20251029093000 +0200" channel="riksat">
     <title lang="el">Πρώτη Ενημέρωση</title>
    <desc lang="el">Καθημερινή ενημερωτική εκπομπή που μεταφέρει υπεύθυνα και έγκαιρα όλες τις εξελίξεις από την Κύπρο και τον κόσμο.
 Με πλήρες δελτίο ειδήσεων, ζωντανές συνδέσεις, ρεπορτάζ και ανταποκρίσεις, καθώς και φιλοξενούμενους στο στούντιο που σχολιάζουν και αναλύουν την επικαιρότητα.
@@ -6788,7 +6788,7 @@ Project Manager: Άριστος Αριστείδου
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/23/PROTH_ii_ENHMEROSH_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251029093000 +0300" stop="20251029110000 +0300" channel="riksat">
+  <programme start="20251029093000 +0200" stop="20251029110000 +0200" channel="riksat">
     <title lang="el">Όμορφη Μέρα</title>
    <desc lang="el">Με όμορφη και χαλαρή διάθεση, με κέφι και ποικιλία θεμάτων, η Όμορφη Μέρα επανέρχεται ανανεωμένη. Ψυχαγωγία, πολιτισμός, μαγειρική, ομορφιά, υγεία.
 Δημοσιογραφική επιμέλεια, Παρουσίαση: Αγγελική Νικηφόρου
@@ -6796,7 +6796,7 @@ Project Manager: Άριστος Αριστείδου
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/12/S_OMORFH_MERA_25.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251029110000 +0300" stop="20251029140000 +0300" channel="riksat">
+  <programme start="20251029110000 +0200" stop="20251029140000 +0200" channel="riksat">
     <title lang="el">Από Μέρα σε Μέρα</title>
    <desc lang="el">Μεσημβρινή, ζωντανή, ενημερωτική εκπομπή που παρουσιάζει και αναλύει όλη την επικαιρότητα της ημέρας. Με συζητήσεις, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις, η εκπομπή μεταφέρει τον παλμό της επικαιρότητας και τις εξελίξεις στον τοπικό και διεθνή χώρο, με σοβαρότητα και υπευθυνότητα. Καθημερινά από τις 11:00 μέχρι τις 14:00.
 Δημοσιογραφική Επιμέλεια-Παρουσίαση: Κώστας Κωνσταντίνου, Τάσος Χριστοδούλου, Κατερίνα Χαραλάμπους
@@ -6806,15 +6806,15 @@ Project Manager: Άριστος Αριστείδου
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/23/APO_MERA_S_NEW.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251029140000 +0300" stop="20251029143000 +0300" channel="riksat">
+  <programme start="20251029140000 +0200" stop="20251029143000 +0200" channel="riksat">
     <title lang="el">Ειδήσεις</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029143000 +0300" stop="20251029153000 +0300" channel="riksat">
+  <programme start="20251029143000 +0200" stop="20251029153000 +0200" channel="riksat">
     <title lang="el">Εμείς κι ο Κόσμος μας</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029153000 +0300" stop="20251029160000 +0300" channel="riksat">
+  <programme start="20251029153000 +0200" stop="20251029160000 +0200" channel="riksat">
     <title lang="el">Γευστικό Ταξίδι</title>
    <desc lang="el">Εκπομπή μαγειρικής που μας ταξιδεύει σε γεύσεις και αρώματα από την τοπική και τη διεθνή κουζίνα. Ο chef Χρίστος Χριστοδούλου, μοιράζεται μαζί μας τις δικές του μαγειρικές εμπειρίες.
 Κάθε Πέμπτη και Παρασκευή &quot;Γευστικό Ταξίδι στο χωριό&quot;. Μέσα από τις ομορφιές της κυπριακής υπαίθρου και τους ανθρώπους της, ανακαλύπτουμε σπάνιες συνταγές και συνθέτουμε τη γαστρονομική κουλτούρα του νησιού μας.
@@ -6825,19 +6825,19 @@ Project Manager: Άριστος Αριστείδου
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/19/GEYSTIKO_TAKSIDI_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251029160000 +0300" stop="20251029163000 +0300" channel="riksat">
+  <programme start="20251029160000 +0200" stop="20251029163000 +0200" channel="riksat">
     <title lang="el">Καμώματα τζι Αρώματα</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029163000 +0300" stop="20251029180000 +0300" channel="riksat">
+  <programme start="20251029163000 +0200" stop="20251029180000 +0200" channel="riksat">
     <title lang="el">p.m. ΣΤΟ ΡΙΚ</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029180000 +0300" stop="20251029183000 +0300" channel="riksat">
+  <programme start="20251029180000 +0200" stop="20251029183000 +0200" channel="riksat">
     <title lang="el">Ειδήσεις στις 18:00</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029183000 +0300" stop="20251029190000 +0300" channel="riksat">
+  <programme start="20251029183000 +0200" stop="20251029190000 +0200" channel="riksat">
     <title lang="el">Μην Κάψεις την Κουζίνα</title>
    <desc lang="el">Για δεύτερη συνεχή χρονιά η αγαπημένη ψυχαγωγική εκπομπή με δόση…μαγειρικής, σας κρατά συντροφιά.
 Επώνυμοι, πολιτικοί, ηθοποιοί, παρουσιαστές, και όχι μόνο, βάζουν ποδιά, περνούν από διασκεδαστικές δοκιμασίες και καλούνται να μαγειρέψουν χωρίς να κάψουν την κουζίνα.
@@ -6847,22 +6847,22 @@ Project Manager: Άριστος Αριστείδου
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/19/MHN_KAPSEIS_KOUZINA_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251029190000 +0300" stop="20251029193000 +0300" channel="riksat">
+  <programme start="20251029190000 +0200" stop="20251029193000 +0200" channel="riksat">
     <title lang="el">Βήματα στην Άμμο</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029193000 +0300" stop="20251029200000 +0300" channel="riksat">
+  <programme start="20251029193000 +0200" stop="20251029200000 +0200" channel="riksat">
     <title lang="el">Ύπαιθρος</title>
    <desc lang="el">Δημοσιογραφική Επιμέλεια – Παρουσίαση: Θεόδουλος ΚουλλαπήΕπιμέλεια Παραγωγής – Σκηνοθεσία: Έλλη Χατζηπαρασκευά  
 Μια εκπομπή αφιερωμένη στον αγροτικό κόσμο της Κύπρου. Με επίκεντρο τους ίδιους τους ανθρώπους που παραμένουν δεμένοι με τη γη, αναδεικνύεται η καθημερινότητά τους, οι δυσκολίες αλλά και οι προοπτικές που ανοίγονται για τη ζωή στην ύπαιθρο. Παράλληλα, προβάλλονται δράσεις, προγράμματα και πρωτοβουλίες που στηρίζουν τον αγροτικό τομέα, αναδεικνύουν τον πολιτισμό της κυπριακής γης και κρατούν ζωντανή την παράδοση. 
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/S_YPAITHROS.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251029200000 +0300" stop="20251029210000 +0300" channel="riksat">
+  <programme start="20251029200000 +0200" stop="20251029210000 +0200" channel="riksat">
     <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029210000 +0300" stop="20251029220000 +0300" channel="riksat">
+  <programme start="20251029210000 +0200" stop="20251029220000 +0200" channel="riksat">
     <title lang="el">Τρικυμία</title>
    <desc lang="el">Ο τέταρτος κύκλος της σειράς μας βρίσκει στην Κύπρο του 1886, σε ένα ταξίδι στην ιστορία του τόπου μας και τον καθημερινό αγώνα για επιβίωση. Οι ήρωές μας παλεύουν με κάθε λογής αντιξοότητες, με πειρασμούς, με ανεκπλήρωτους πόθους και έρωτες, για την κάθαρση των ψυχών τους. Σε μυθοπλαστικά πάντα πλαίσια, φέτος θα δοθεί ιδιαίτερη έμφαση στο να γνωρίσει ο θεατής ιστορικά στοιχεία για την Κύπρο του χθες. Επίσης, μέσα από την ποίηση του εθνικού μας ποιητή Βασίλη Μιχαηλίδη, αναδεικνύονται οι πτυχές του παρελθόντος σε μια Κύπρο που βίωσε άπειρες τρικυμίες μα ποτέ δεν έχασε την ελπίδα για την πολυπόθητη γαλήνη.
 Συμμετέχουν οι ηθοποιοί: Νεοκλής Νεοκλέους, Ανδρούλλα Ηρακλέους, Ανδρέας Τσουρής,
@@ -6876,11 +6876,11 @@ Project Manager: Άριστος Αριστείδου
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/TRIKYMIA_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251029220000 +0300" stop="20251029224500 +0300" channel="riksat">
+  <programme start="20251029220000 +0200" stop="20251029224500 +0200" channel="riksat">
     <title lang="el">Στην Άκρη του Παράδεισου</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029224500 +0300" stop="20251030000000 +0300" channel="riksat">
+  <programme start="20251029224500 +0200" stop="20251030000000 +0200" channel="riksat">
     <title lang="el">Προκλήσεις</title>
    <desc lang="el">Επικαιρική εκπομπή με επίκεντρο τις πολιτικές εξελίξεις στην Κύπρο και διεθνώς. Στόχος η ουσιαστική ανάλυση από πολιτικούς, ακαδημαϊκούς και από τους ίδιους τους πρωταγωνιστές.
 
@@ -6889,11 +6889,11 @@ Project Manager: Άριστος Αριστείδου
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/PROKLHSEIS_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251030010000 +0300" stop="20251030012000 +0300" channel="riksat">
+  <programme start="20251030010000 +0200" stop="20251030012000 +0200" channel="riksat">
     <title lang="el">Ειδήσεις στην αγγλική και τουρκική</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030012000 +0300" stop="20251030030000 +0300" channel="riksat">
+  <programme start="20251030012000 +0200" stop="20251030030000 +0200" channel="riksat">
     <title lang="el">Όμορφη Μέρα</title>
    <desc lang="el">Με όμορφη και χαλαρή διάθεση, με κέφι και ποικιλία θεμάτων, η Όμορφη Μέρα επανέρχεται ανανεωμένη. Ψυχαγωγία, πολιτισμός, μαγειρική, ομορφιά, υγεία.
 Δημοσιογραφική επιμέλεια, Παρουσίαση: Αγγελική Νικηφόρου
@@ -6901,22 +6901,22 @@ Project Manager: Άριστος Αριστείδου
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/12/S_OMORFH_MERA_25.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251030030000 +0300" stop="20251029040000 +0300" channel="riksat">
+  <programme start="20251030030000 +0200" stop="20251029040000 +0200" channel="riksat">
     <title lang="el">Ειδήσεις</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029040000 +0300" stop="20251029043000 +0300" channel="riksat">
+  <programme start="20251029040000 +0200" stop="20251029043000 +0200" channel="riksat">
     <title lang="el">Βήματα στην Άμμο</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251029043000 +0300" stop="20251029050000 +0300" channel="riksat">
+  <programme start="20251029043000 +0200" stop="20251029050000 +0200" channel="riksat">
     <title lang="el">Ύπαιθρος</title>
    <desc lang="el">Δημοσιογραφική Επιμέλεια – Παρουσίαση: Θεόδουλος ΚουλλαπήΕπιμέλεια Παραγωγής – Σκηνοθεσία: Έλλη Χατζηπαρασκευά  
 Μια εκπομπή αφιερωμένη στον αγροτικό κόσμο της Κύπρου. Με επίκεντρο τους ίδιους τους ανθρώπους που παραμένουν δεμένοι με τη γη, αναδεικνύεται η καθημερινότητά τους, οι δυσκολίες αλλά και οι προοπτικές που ανοίγονται για τη ζωή στην ύπαιθρο. Παράλληλα, προβάλλονται δράσεις, προγράμματα και πρωτοβουλίες που στηρίζουν τον αγροτικό τομέα, αναδεικνύουν τον πολιτισμό της κυπριακής γης και κρατούν ζωντανή την παράδοση. 
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/S_YPAITHROS.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251029050000 +0300" stop="20251029060000 +0300" channel="riksat">
+  <programme start="20251029050000 +0200" stop="20251029060000 +0200" channel="riksat">
     <title lang="el">Προκλήσεις</title>
    <desc lang="el">Επικαιρική εκπομπή με επίκεντρο τις πολιτικές εξελίξεις στην Κύπρο και διεθνώς. Στόχος η ουσιαστική ανάλυση από πολιτικούς, ακαδημαϊκούς και από τους ίδιους τους πρωταγωνιστές.
 
@@ -6925,7 +6925,7 @@ Project Manager: Άριστος Αριστείδου
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/PROKLHSEIS_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251029060000 +0300" stop="20251029064500 +0300" channel="riksat">
+  <programme start="20251029060000 +0200" stop="20251029064500 +0200" channel="riksat">
     <title lang="el">Τρικυμία</title>
    <desc lang="el">Ο τέταρτος κύκλος της σειράς μας βρίσκει στην Κύπρο του 1886, σε ένα ταξίδι στην ιστορία του τόπου μας και τον καθημερινό αγώνα για επιβίωση. Οι ήρωές μας παλεύουν με κάθε λογής αντιξοότητες, με πειρασμούς, με ανεκπλήρωτους πόθους και έρωτες, για την κάθαρση των ψυχών τους. Σε μυθοπλαστικά πάντα πλαίσια, φέτος θα δοθεί ιδιαίτερη έμφαση στο να γνωρίσει ο θεατής ιστορικά στοιχεία για την Κύπρο του χθες. Επίσης, μέσα από την ποίηση του εθνικού μας ποιητή Βασίλη Μιχαηλίδη, αναδεικνύονται οι πτυχές του παρελθόντος σε μια Κύπρο που βίωσε άπειρες τρικυμίες μα ποτέ δεν έχασε την ελπίδα για την πολυπόθητη γαλήνη.
 Συμμετέχουν οι ηθοποιοί: Νεοκλής Νεοκλέους, Ανδρούλλα Ηρακλέους, Ανδρέας Τσουρής,
@@ -6939,7 +6939,7 @@ Project Manager: Άριστος Αριστείδου
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/TRIKYMIA_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251030064500 +0300" stop="20251030093000 +0300" channel="rik1">
+  <programme start="20251030064500 +0200" stop="20251030093000 +0200" channel="rik1">
     <title lang="el">Πρώτη Ενημέρωση</title>
    <desc lang="el">Καθημερινή ενημερωτική εκπομπή που μεταφέρει υπεύθυνα και έγκαιρα όλες τις εξελίξεις από την Κύπρο και τον κόσμο.
 Με πλήρες δελτίο ειδήσεων, ζωντανές συνδέσεις, ρεπορτάζ και ανταποκρίσεις, καθώς και φιλοξενούμενους στο στούντιο που σχολιάζουν και αναλύουν την επικαιρότητα.
@@ -6949,7 +6949,7 @@ Project Manager: Άριστος Αριστείδου
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/23/PROTH_ii_ENHMEROSH_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251030093000 +0300" stop="20251030110000 +0300" channel="rik1">
+  <programme start="20251030093000 +0200" stop="20251030110000 +0200" channel="rik1">
     <title lang="el">Όμορφη Μέρα</title>
    <desc lang="el">Με όμορφη και χαλαρή διάθεση, με κέφι και ποικιλία θεμάτων, η Όμορφη Μέρα επανέρχεται ανανεωμένη. Ψυχαγωγία, πολιτισμός, μαγειρική, ομορφιά, υγεία.
 Δημοσιογραφική επιμέλεια, Παρουσίαση: Αγγελική Νικηφόρου
@@ -6957,7 +6957,7 @@ Project Manager: Άριστος Αριστείδου
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/12/S_OMORFH_MERA_25.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251030110000 +0300" stop="20251030140000 +0300" channel="rik1">
+  <programme start="20251030110000 +0200" stop="20251030140000 +0200" channel="rik1">
     <title lang="el">Από Μέρα σε Μέρα</title>
    <desc lang="el">Μεσημβρινή, ζωντανή, ενημερωτική εκπομπή που παρουσιάζει και αναλύει όλη την επικαιρότητα της ημέρας. Με συζητήσεις, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις, η εκπομπή μεταφέρει τον παλμό της επικαιρότητας και τις εξελίξεις στον τοπικό και διεθνή χώρο, με σοβαρότητα και υπευθυνότητα. Καθημερινά από τις 11:00 μέχρι τις 14:00.
 Δημοσιογραφική Επιμέλεια-Παρουσίαση: Κώστας Κωνσταντίνου, Τάσος Χριστοδούλου, Κατερίνα Χαραλάμπους
@@ -6967,31 +6967,31 @@ Project Manager: Άριστος Αριστείδου
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/23/APO_MERA_S_NEW.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251030140000 +0300" stop="20251030143000 +0300" channel="rik1">
+  <programme start="20251030140000 +0200" stop="20251030143000 +0200" channel="rik1">
     <title lang="el">Ειδήσεις</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030143000 +0300" stop="20251030153000 +0300" channel="rik1">
+  <programme start="20251030143000 +0200" stop="20251030153000 +0200" channel="rik1">
     <title lang="el">Εμείς κι ο Κόσμος μας</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030153000 +0300" stop="20251030160000 +0300" channel="rik1">
+  <programme start="20251030153000 +0200" stop="20251030160000 +0200" channel="rik1">
     <title lang="el">Γευστικό Ταξίδι στο Χωριό</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030160000 +0300" stop="20251030163000 +0300" channel="rik1">
+  <programme start="20251030160000 +0200" stop="20251030163000 +0200" channel="rik1">
     <title lang="el">Καμώματα τζι Αρώματα</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030163000 +0300" stop="20251030180000 +0300" channel="rik1">
+  <programme start="20251030163000 +0200" stop="20251030180000 +0200" channel="rik1">
     <title lang="el">p.m. ΣΤΟ ΡΙΚ</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030180000 +0300" stop="20251030183000 +0300" channel="rik1">
+  <programme start="20251030180000 +0200" stop="20251030183000 +0200" channel="rik1">
     <title lang="el">Ειδήσεις στις 18:00</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030183000 +0300" stop="20251030190000 +0300" channel="rik1">
+  <programme start="20251030183000 +0200" stop="20251030190000 +0200" channel="rik1">
     <title lang="el">Μην Κάψεις την Κουζίνα</title>
    <desc lang="el">Για δεύτερη συνεχή χρονιά η αγαπημένη ψυχαγωγική εκπομπή με δόση…μαγειρικής, σας κρατά συντροφιά.
 Επώνυμοι, πολιτικοί, ηθοποιοί, παρουσιαστές, και όχι μόνο, βάζουν ποδιά, περνούν από διασκεδαστικές δοκιμασίες και καλούνται να μαγειρέψουν χωρίς να κάψουν την κουζίνα.
@@ -7001,7 +7001,7 @@ Project Manager: Άριστος Αριστείδου
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/19/MHN_KAPSEIS_KOUZINA_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251030190000 +0300" stop="20251030200000 +0300" channel="rik1">
+  <programme start="20251030190000 +0200" stop="20251030200000 +0200" channel="rik1">
     <title lang="el">Τρικυμία</title>
    <desc lang="el">Ο τέταρτος κύκλος της σειράς μας βρίσκει στην Κύπρο του 1886, σε ένα ταξίδι στην ιστορία του τόπου μας και τον καθημερινό αγώνα για επιβίωση. Οι ήρωές μας παλεύουν με κάθε λογής αντιξοότητες, με πειρασμούς, με ανεκπλήρωτους πόθους και έρωτες, για την κάθαρση των ψυχών τους. Σε μυθοπλαστικά πάντα πλαίσια, φέτος θα δοθεί ιδιαίτερη έμφαση στο να γνωρίσει ο θεατής ιστορικά στοιχεία για την Κύπρο του χθες. Επίσης, μέσα από την ποίηση του εθνικού μας ποιητή Βασίλη Μιχαηλίδη, αναδεικνύονται οι πτυχές του παρελθόντος σε μια Κύπρο που βίωσε άπειρες τρικυμίες μα ποτέ δεν έχασε την ελπίδα για την πολυπόθητη γαλήνη.
 Συμμετέχουν οι ηθοποιοί: Νεοκλής Νεοκλέους, Ανδρούλλα Ηρακλέους, Ανδρέας Τσουρής,
@@ -7015,19 +7015,19 @@ Project Manager: Άριστος Αριστείδου
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/TRIKYMIA_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251030200000 +0300" stop="20251030210000 +0300" channel="rik1">
+  <programme start="20251030200000 +0200" stop="20251030210000 +0200" channel="rik1">
     <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030210000 +0300" stop="20251030220000 +0300" channel="rik1">
+  <programme start="20251030210000 +0200" stop="20251030220000 +0200" channel="rik1">
     <title lang="el">Ηλέκτρα</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030220000 +0300" stop="20251030224500 +0300" channel="rik1">
+  <programme start="20251030220000 +0200" stop="20251030224500 +0200" channel="rik1">
     <title lang="el">Ο Όρκος</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030224500 +0300" stop="20251030231500 +0300" channel="rik1">
+  <programme start="20251030224500 +0200" stop="20251030231500 +0200" channel="rik1">
     <title lang="el">Στο Νησί</title>
    <desc lang="el">Ένα μοναδικό ταξίδι στην άγνωστη φύση της Κύπρου.
 Μια νέα εκπομπή μας καλεί να γνωρίσουμε την Κύπρο… αλλιώς.
@@ -7039,7 +7039,7 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/S_STO_NHSI.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251030231500 +0300" stop="20251031001500 +0300" channel="rik1">
+  <programme start="20251030231500 +0200" stop="20251031001500 +0200" channel="rik1">
     <title lang="el">Τρικυμία</title>
    <desc lang="el">Ο τέταρτος κύκλος της σειράς μας βρίσκει στην Κύπρο του 1886, σε ένα ταξίδι στην ιστορία του τόπου μας και τον καθημερινό αγώνα για επιβίωση. Οι ήρωές μας παλεύουν με κάθε λογής αντιξοότητες, με πειρασμούς, με ανεκπλήρωτους πόθους και έρωτες, για την κάθαρση των ψυχών τους. Σε μυθοπλαστικά πάντα πλαίσια, φέτος θα δοθεί ιδιαίτερη έμφαση στο να γνωρίσει ο θεατής ιστορικά στοιχεία για την Κύπρο του χθες. Επίσης, μέσα από την ποίηση του εθνικού μας ποιητή Βασίλη Μιχαηλίδη, αναδεικνύονται οι πτυχές του παρελθόντος σε μια Κύπρο που βίωσε άπειρες τρικυμίες μα ποτέ δεν έχασε την ελπίδα για την πολυπόθητη γαλήνη.
 Συμμετέχουν οι ηθοποιοί: Νεοκλής Νεοκλέους, Ανδρούλλα Ηρακλέους, Ανδρέας Τσουρής,
@@ -7053,7 +7053,7 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/TRIKYMIA_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251031001500 +0300" stop="20251031004500 +0300" channel="rik1">
+  <programme start="20251031001500 +0200" stop="20251031004500 +0200" channel="rik1">
     <title lang="el">Μην Κάψεις την Κουζίνα</title>
    <desc lang="el">Για δεύτερη συνεχή χρονιά η αγαπημένη ψυχαγωγική εκπομπή με δόση…μαγειρικής, σας κρατά συντροφιά.
 Επώνυμοι, πολιτικοί, ηθοποιοί, παρουσιαστές, και όχι μόνο, βάζουν ποδιά, περνούν από διασκεδαστικές δοκιμασίες και καλούνται να μαγειρέψουν χωρίς να κάψουν την κουζίνα.
@@ -7063,15 +7063,15 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/19/MHN_KAPSEIS_KOUZINA_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251031004500 +0300" stop="20251031011500 +0300" channel="rik1">
+  <programme start="20251031004500 +0200" stop="20251031011500 +0200" channel="rik1">
     <title lang="el">Καμώματα τζι Αρώματα</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251031011500 +0300" stop="20251031021500 +0300" channel="rik1">
+  <programme start="20251031011500 +0200" stop="20251031021500 +0200" channel="rik1">
     <title lang="el">Ειδήσεις</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251031021500 +0300" stop="20251031034500 +0300" channel="rik1">
+  <programme start="20251031021500 +0200" stop="20251031034500 +0200" channel="rik1">
     <title lang="el">Όμορφη Μέρα</title>
    <desc lang="el">Με όμορφη και χαλαρή διάθεση, με κέφι και ποικιλία θεμάτων, η Όμορφη Μέρα επανέρχεται ανανεωμένη. Ψυχαγωγία, πολιτισμός, μαγειρική, ομορφιά, υγεία.
 Δημοσιογραφική επιμέλεια, Παρουσίαση: Αγγελική Νικηφόρου
@@ -7079,19 +7079,19 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/12/S_OMORFH_MERA_25.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251031034500 +0300" stop="20251030041500 +0300" channel="rik1">
+  <programme start="20251031034500 +0200" stop="20251030041500 +0200" channel="rik1">
     <title lang="el">Γευστικό Ταξίδι στο Χωριό</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030041500 +0300" stop="20251030051500 +0300" channel="rik1">
+  <programme start="20251030041500 +0200" stop="20251030051500 +0200" channel="rik1">
     <title lang="el">Ηλέκτρα</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030051500 +0300" stop="20251030060000 +0300" channel="rik1">
+  <programme start="20251030051500 +0200" stop="20251030060000 +0200" channel="rik1">
     <title lang="el">Ο Όρκος</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030060000 +0300" stop="20251030064500 +0300" channel="rik1">
+  <programme start="20251030060000 +0200" stop="20251030064500 +0200" channel="rik1">
     <title lang="el">Τρικυμία</title>
    <desc lang="el">Ο τέταρτος κύκλος της σειράς μας βρίσκει στην Κύπρο του 1886, σε ένα ταξίδι στην ιστορία του τόπου μας και τον καθημερινό αγώνα για επιβίωση. Οι ήρωές μας παλεύουν με κάθε λογής αντιξοότητες, με πειρασμούς, με ανεκπλήρωτους πόθους και έρωτες, για την κάθαρση των ψυχών τους. Σε μυθοπλαστικά πάντα πλαίσια, φέτος θα δοθεί ιδιαίτερη έμφαση στο να γνωρίσει ο θεατής ιστορικά στοιχεία για την Κύπρο του χθες. Επίσης, μέσα από την ποίηση του εθνικού μας ποιητή Βασίλη Μιχαηλίδη, αναδεικνύονται οι πτυχές του παρελθόντος σε μια Κύπρο που βίωσε άπειρες τρικυμίες μα ποτέ δεν έχασε την ελπίδα για την πολυπόθητη γαλήνη.
 Συμμετέχουν οι ηθοποιοί: Νεοκλής Νεοκλέους, Ανδρούλλα Ηρακλέους, Ανδρέας Τσουρής,
@@ -7105,79 +7105,79 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/TRIKYMIA_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251030063000 +0300" stop="20251030070000 +0300" channel="rik2">
+  <programme start="20251030063000 +0200" stop="20251030070000 +0200" channel="rik2">
     <title lang="el">Step by Step</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030070000 +0300" stop="20251030075000 +0300" channel="rik2">
+  <programme start="20251030070000 +0200" stop="20251030075000 +0200" channel="rik2">
     <title lang="el">Wild at Heart</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030075000 +0300" stop="20251030153000 +0300" channel="rik2">
+  <programme start="20251030075000 +0200" stop="20251030153000 +0200" channel="rik2">
     <title lang="el">Παιδική Ζώνη</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030153000 +0300" stop="20251030161000 +0300" channel="rik2">
+  <programme start="20251030153000 +0200" stop="20251030161000 +0200" channel="rik2">
     <title lang="el">Wild at Heart</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030161000 +0300" stop="20251030170500 +0300" channel="rik2">
+  <programme start="20251030161000 +0200" stop="20251030170500 +0200" channel="rik2">
     <title lang="el">Legends vs Modern Icons</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030170500 +0300" stop="20251030173500 +0300" channel="rik2">
+  <programme start="20251030170500 +0200" stop="20251030173500 +0200" channel="rik2">
     <title lang="el">Step by Step</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030173500 +0300" stop="20251030180000 +0300" channel="rik2">
+  <programme start="20251030173500 +0200" stop="20251030180000 +0200" channel="rik2">
     <title lang="el">Full House</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030180000 +0300" stop="20251030183000 +0300" channel="rik2">
+  <programme start="20251030180000 +0200" stop="20251030183000 +0200" channel="rik2">
     <title lang="el">Μάθε Τέχνη κι Άστηνε</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030183000 +0300" stop="20251030193000 +0300" channel="rik2">
+  <programme start="20251030183000 +0200" stop="20251030193000 +0200" channel="rik2">
     <title lang="el">Great Escapes</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030193000 +0300" stop="20251030194000 +0300" channel="rik2">
+  <programme start="20251030193000 +0200" stop="20251030194000 +0200" channel="rik2">
     <title lang="el">Ο Δρόμος έχει τη δική του Ιστορία</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030194000 +0300" stop="20251030195000 +0300" channel="rik2">
+  <programme start="20251030194000 +0200" stop="20251030195000 +0200" channel="rik2">
     <title lang="el">Ειδήσεις στην αγγλική</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030195000 +0300" stop="20251030200000 +0300" channel="rik2">
+  <programme start="20251030195000 +0200" stop="20251030200000 +0200" channel="rik2">
     <title lang="el">Ειδήσεις στην τουρκική</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030200000 +0300" stop="20251030210000 +0300" channel="rik2">
+  <programme start="20251030200000 +0200" stop="20251030210000 +0200" channel="rik2">
     <title lang="el">Κεντρικό Δελτίο Ειδήσεων στη Νοηματική</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030210000 +0300" stop="20251030220000 +0300" channel="rik2">
+  <programme start="20251030210000 +0200" stop="20251030220000 +0200" channel="rik2">
     <title lang="el">Hotel Portofino</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030220000 +0300" stop="20251030230000 +0300" channel="rik2">
+  <programme start="20251030220000 +0200" stop="20251030230000 +0200" channel="rik2">
     <title lang="el">Boat Story</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030230000 +0300" stop="20251030235000 +0300" channel="rik2">
+  <programme start="20251030230000 +0200" stop="20251030235000 +0200" channel="rik2">
     <title lang="el">Great Escapes</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030235000 +0300" stop="20251031005000 +0300" channel="rik2">
+  <programme start="20251030235000 +0200" stop="20251031005000 +0200" channel="rik2">
     <title lang="el">Εμείς κι ο Κόσμος μας</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251031005000 +0300" stop="20251031010000 +0300" channel="rik2">
+  <programme start="20251031005000 +0200" stop="20251031010000 +0200" channel="rik2">
     <title lang="el">Ειδήσεις στην αγγλική και τουρκική</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251031010000 +0300" stop="20251030040000 +0300" channel="rik2">
+  <programme start="20251031010000 +0200" stop="20251030040000 +0200" channel="rik2">
     <title lang="el">Από Μέρα σε Μέρα</title>
    <desc lang="el">Μεσημβρινή, ζωντανή, ενημερωτική εκπομπή που παρουσιάζει και αναλύει όλη την επικαιρότητα της ημέρας. Με συζητήσεις, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις, η εκπομπή μεταφέρει τον παλμό της επικαιρότητας και τις εξελίξεις στον τοπικό και διεθνή χώρο, με σοβαρότητα και υπευθυνότητα. Καθημερινά από τις 11:00 μέχρι τις 14:00.
 Δημοσιογραφική Επιμέλεια-Παρουσίαση: Κώστας Κωνσταντίνου, Τάσος Χριστοδούλου, Κατερίνα Χαραλάμπους
@@ -7187,19 +7187,19 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/23/APO_MERA_S_NEW.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251030040000 +0300" stop="20251030050000 +0300" channel="rik2">
+  <programme start="20251030040000 +0200" stop="20251030050000 +0200" channel="rik2">
     <title lang="el">Hotel Portofino</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030050000 +0300" stop="20251030055000 +0300" channel="rik2">
+  <programme start="20251030050000 +0200" stop="20251030055000 +0200" channel="rik2">
     <title lang="el">Legends vs Modern Icons</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030055000 +0300" stop="20251030063000 +0300" channel="rik2">
+  <programme start="20251030055000 +0200" stop="20251030063000 +0200" channel="rik2">
     <title lang="el">Μάθε Τέχνη κι Άστηνε</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030064500 +0300" stop="20251030093000 +0300" channel="riksat">
+  <programme start="20251030064500 +0200" stop="20251030093000 +0200" channel="riksat">
     <title lang="el">Πρώτη Ενημέρωση</title>
    <desc lang="el">Καθημερινή ενημερωτική εκπομπή που μεταφέρει υπεύθυνα και έγκαιρα όλες τις εξελίξεις από την Κύπρο και τον κόσμο.
 Με πλήρες δελτίο ειδήσεων, ζωντανές συνδέσεις, ρεπορτάζ και ανταποκρίσεις, καθώς και φιλοξενούμενους στο στούντιο που σχολιάζουν και αναλύουν την επικαιρότητα.
@@ -7209,7 +7209,7 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/23/PROTH_ii_ENHMEROSH_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251030093000 +0300" stop="20251030110000 +0300" channel="riksat">
+  <programme start="20251030093000 +0200" stop="20251030110000 +0200" channel="riksat">
     <title lang="el">Όμορφη Μέρα</title>
    <desc lang="el">Με όμορφη και χαλαρή διάθεση, με κέφι και ποικιλία θεμάτων, η Όμορφη Μέρα επανέρχεται ανανεωμένη. Ψυχαγωγία, πολιτισμός, μαγειρική, ομορφιά, υγεία.
 Δημοσιογραφική επιμέλεια, Παρουσίαση: Αγγελική Νικηφόρου
@@ -7217,7 +7217,7 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/12/S_OMORFH_MERA_25.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251030110000 +0300" stop="20251030140000 +0300" channel="riksat">
+  <programme start="20251030110000 +0200" stop="20251030140000 +0200" channel="riksat">
     <title lang="el">Από Μέρα σε Μέρα</title>
    <desc lang="el">Μεσημβρινή, ζωντανή, ενημερωτική εκπομπή που παρουσιάζει και αναλύει όλη την επικαιρότητα της ημέρας. Με συζητήσεις, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις, η εκπομπή μεταφέρει τον παλμό της επικαιρότητας και τις εξελίξεις στον τοπικό και διεθνή χώρο, με σοβαρότητα και υπευθυνότητα. Καθημερινά από τις 11:00 μέχρι τις 14:00.
 Δημοσιογραφική Επιμέλεια-Παρουσίαση: Κώστας Κωνσταντίνου, Τάσος Χριστοδούλου, Κατερίνα Χαραλάμπους
@@ -7227,31 +7227,31 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/23/APO_MERA_S_NEW.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251030140000 +0300" stop="20251030143000 +0300" channel="riksat">
+  <programme start="20251030140000 +0200" stop="20251030143000 +0200" channel="riksat">
     <title lang="el">Ειδήσεις</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030143000 +0300" stop="20251030153000 +0300" channel="riksat">
+  <programme start="20251030143000 +0200" stop="20251030153000 +0200" channel="riksat">
     <title lang="el">Εμείς κι ο Κόσμος μας</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030153000 +0300" stop="20251030160000 +0300" channel="riksat">
+  <programme start="20251030153000 +0200" stop="20251030160000 +0200" channel="riksat">
     <title lang="el">Γευστικό Ταξίδι στο Χωριό</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030160000 +0300" stop="20251030163000 +0300" channel="riksat">
+  <programme start="20251030160000 +0200" stop="20251030163000 +0200" channel="riksat">
     <title lang="el">Καμώματα τζι Αρώματα</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030163000 +0300" stop="20251030180000 +0300" channel="riksat">
+  <programme start="20251030163000 +0200" stop="20251030180000 +0200" channel="riksat">
     <title lang="el">p.m. Στο ΡΙΚ</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030180000 +0300" stop="20251030183000 +0300" channel="riksat">
+  <programme start="20251030180000 +0200" stop="20251030183000 +0200" channel="riksat">
     <title lang="el">Ειδήσεις στις 18:00</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030183000 +0300" stop="20251030190000 +0300" channel="riksat">
+  <programme start="20251030183000 +0200" stop="20251030190000 +0200" channel="riksat">
     <title lang="el">Μην Κάψεις την Κουζίνα</title>
    <desc lang="el">Για δεύτερη συνεχή χρονιά η αγαπημένη ψυχαγωγική εκπομπή με δόση…μαγειρικής, σας κρατά συντροφιά.
 Επώνυμοι, πολιτικοί, ηθοποιοί, παρουσιαστές, και όχι μόνο, βάζουν ποδιά, περνούν από διασκεδαστικές δοκιμασίες και καλούνται να μαγειρέψουν χωρίς να κάψουν την κουζίνα.
@@ -7261,15 +7261,15 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/19/MHN_KAPSEIS_KOUZINA_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251030190000 +0300" stop="20251030200000 +0300" channel="riksat">
+  <programme start="20251030190000 +0200" stop="20251030200000 +0200" channel="riksat">
     <title lang="el">Βήματα στην Άμμο</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030200000 +0300" stop="20251030210000 +0300" channel="riksat">
+  <programme start="20251030200000 +0200" stop="20251030210000 +0200" channel="riksat">
     <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030210000 +0300" stop="20251030220000 +0300" channel="riksat">
+  <programme start="20251030210000 +0200" stop="20251030220000 +0200" channel="riksat">
     <title lang="el">Τρικυμία</title>
    <desc lang="el">Ο τέταρτος κύκλος της σειράς μας βρίσκει στην Κύπρο του 1886, σε ένα ταξίδι στην ιστορία του τόπου μας και τον καθημερινό αγώνα για επιβίωση. Οι ήρωές μας παλεύουν με κάθε λογής αντιξοότητες, με πειρασμούς, με ανεκπλήρωτους πόθους και έρωτες, για την κάθαρση των ψυχών τους. Σε μυθοπλαστικά πάντα πλαίσια, φέτος θα δοθεί ιδιαίτερη έμφαση στο να γνωρίσει ο θεατής ιστορικά στοιχεία για την Κύπρο του χθες. Επίσης, μέσα από την ποίηση του εθνικού μας ποιητή Βασίλη Μιχαηλίδη, αναδεικνύονται οι πτυχές του παρελθόντος σε μια Κύπρο που βίωσε άπειρες τρικυμίες μα ποτέ δεν έχασε την ελπίδα για την πολυπόθητη γαλήνη.
 Συμμετέχουν οι ηθοποιοί: Νεοκλής Νεοκλέους, Ανδρούλλα Ηρακλέους, Ανδρέας Τσουρής,
@@ -7283,11 +7283,11 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/TRIKYMIA_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251030220000 +0300" stop="20251030223000 +0300" channel="riksat">
+  <programme start="20251030220000 +0200" stop="20251030223000 +0200" channel="riksat">
     <title lang="el">Στην Άκρη του Παράδεισου</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030223000 +0300" stop="20251030230000 +0300" channel="riksat">
+  <programme start="20251030223000 +0200" stop="20251030230000 +0200" channel="riksat">
     <title lang="el">Στο Νησί</title>
    <desc lang="el">Ένα μοναδικό ταξίδι στην άγνωστη φύση της Κύπρου.
 Μια νέα εκπομπή μας καλεί να γνωρίσουμε την Κύπρο… αλλιώς.
@@ -7299,11 +7299,11 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/S_STO_NHSI.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251030230000 +0300" stop="20251031000000 +0300" channel="riksat">
+  <programme start="20251030230000 +0200" stop="20251031000000 +0200" channel="riksat">
     <title lang="el">Εμείς κι ο Κόσμος μας</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251031002000 +0300" stop="20251031015000 +0300" channel="riksat">
+  <programme start="20251031002000 +0200" stop="20251031015000 +0200" channel="riksat">
     <title lang="el">Όμορφη Μέρα</title>
    <desc lang="el">Με όμορφη και χαλαρή διάθεση, με κέφι και ποικιλία θεμάτων, η Όμορφη Μέρα επανέρχεται ανανεωμένη. Ψυχαγωγία, πολιτισμός, μαγειρική, ομορφιά, υγεία.
 Δημοσιογραφική επιμέλεια, Παρουσίαση: Αγγελική Νικηφόρου
@@ -7311,15 +7311,15 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/12/S_OMORFH_MERA_25.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251031015000 +0300" stop="20251031021000 +0300" channel="riksat">
+  <programme start="20251031015000 +0200" stop="20251031021000 +0200" channel="riksat">
     <title lang="el">Γευστικό Ταξίδι στο Χωριό</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251031021000 +0300" stop="20251031034000 +0300" channel="riksat">
+  <programme start="20251031021000 +0200" stop="20251031034000 +0200" channel="riksat">
     <title lang="el">Ειδήσεις</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251031034000 +0300" stop="20251030041000 +0300" channel="riksat">
+  <programme start="20251031034000 +0200" stop="20251030041000 +0200" channel="riksat">
     <title lang="el">Χρονογράφημα</title>
    <desc lang="el">Χρονογράφημα, ένα μαγικό κουτί, το ανοίξαμε μαζί και ταξιδεύουμε στον χρόνο.
 Επαναφέρουμε στιγμές από μια Κύπρο μακρινή, καταγράφουμε μαρτυρίες με πυξίδα το μοναδικό Αρχείο του ΡΙΚ. Ξετυλίγουμε το νήμα της ιστορίας από το χθες στο σήμερα και ανακαλύπτουμε στοιχεία που καθόρισαν την Κύπρο και τους ανθρώπους της.
@@ -7328,7 +7328,7 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/XRONOGRAFHMA_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251030041000 +0300" stop="20251030045000 +0300" channel="riksat">
+  <programme start="20251030041000 +0200" stop="20251030045000 +0200" channel="riksat">
     <title lang="el">Μην Κάψεις την Κουζίνα</title>
    <desc lang="el">Για δεύτερη συνεχή χρονιά η αγαπημένη ψυχαγωγική εκπομπή με δόση…μαγειρικής, σας κρατά συντροφιά.
 Επώνυμοι, πολιτικοί, ηθοποιοί, παρουσιαστές, και όχι μόνο, βάζουν ποδιά, περνούν από διασκεδαστικές δοκιμασίες και καλούνται να μαγειρέψουν χωρίς να κάψουν την κουζίνα.
@@ -7338,7 +7338,7 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/19/MHN_KAPSEIS_KOUZINA_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251030045000 +0300" stop="20251030052000 +0300" channel="riksat">
+  <programme start="20251030045000 +0200" stop="20251030052000 +0200" channel="riksat">
     <title lang="el">Στο Νησί</title>
    <desc lang="el">Ένα μοναδικό ταξίδι στην άγνωστη φύση της Κύπρου.
 Μια νέα εκπομπή μας καλεί να γνωρίσουμε την Κύπρο… αλλιώς.
@@ -7350,15 +7350,15 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/S_STO_NHSI.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251030052000 +0300" stop="20251030055000 +0300" channel="riksat">
+  <programme start="20251030052000 +0200" stop="20251030055000 +0200" channel="riksat">
     <title lang="el">Στην Άκρη του Παράδεισου</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030055000 +0300" stop="20251030061000 +0300" channel="riksat">
+  <programme start="20251030055000 +0200" stop="20251030061000 +0200" channel="riksat">
     <title lang="el">Γευστικό Ταξίδι στο Χωριό</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251030061000 +0300" stop="20251030064500 +0300" channel="riksat">
+  <programme start="20251030061000 +0200" stop="20251030064500 +0200" channel="riksat">
     <title lang="el">Τρικυμία</title>
    <desc lang="el">Ο τέταρτος κύκλος της σειράς μας βρίσκει στην Κύπρο του 1886, σε ένα ταξίδι στην ιστορία του τόπου μας και τον καθημερινό αγώνα για επιβίωση. Οι ήρωές μας παλεύουν με κάθε λογής αντιξοότητες, με πειρασμούς, με ανεκπλήρωτους πόθους και έρωτες, για την κάθαρση των ψυχών τους. Σε μυθοπλαστικά πάντα πλαίσια, φέτος θα δοθεί ιδιαίτερη έμφαση στο να γνωρίσει ο θεατής ιστορικά στοιχεία για την Κύπρο του χθες. Επίσης, μέσα από την ποίηση του εθνικού μας ποιητή Βασίλη Μιχαηλίδη, αναδεικνύονται οι πτυχές του παρελθόντος σε μια Κύπρο που βίωσε άπειρες τρικυμίες μα ποτέ δεν έχασε την ελπίδα για την πολυπόθητη γαλήνη.
 Συμμετέχουν οι ηθοποιοί: Νεοκλής Νεοκλέους, Ανδρούλλα Ηρακλέους, Ανδρέας Τσουρής,
