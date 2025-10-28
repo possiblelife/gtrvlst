@@ -76,3 +76,5 @@ https://www.alphacyprus.com.cy/shows/entertainment/paradosiakivradia/webtv/04102
 https://www.alphacyprus.com.cy/shows/entertainment/paradosiakivradia/webtv/111025|webvidfulldig
 #EXTINF:-1 group-title="Season 1",18/10/25
 https://www.alphacyprus.com.cy/shows/entertainment/paradosiakivradia/webtv/181025|webvidfulldig
+#EXTINF:-1 group-title="Season 1",25/10/25
+https://www.alphacyprus.com.cy/shows/entertainment/paradosiakivradia/webtv/251025|webvidfulldig

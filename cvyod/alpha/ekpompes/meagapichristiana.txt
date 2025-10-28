@@ -142,3 +142,7 @@ https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/22102
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/231025|webvidfulldig
 #EXTINF:-1 group-title="2025-2026",Δροσερή σαλάτα με καλαμπίκι, δυόσμο και τραγανό μπέικον
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/droseri-salata-me-kalampiki-dyosmo-kai-tragano-mpeikon|webvidfulldig
+#EXTINF:-1 group-title="2025-2026",24/10/25
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/241025|webvidfulldig
+#EXTINF:-1 group-title="2025-2026",Τάσος Τρύφωνος
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/tasos-tryfonos-7|webvidfulldig
