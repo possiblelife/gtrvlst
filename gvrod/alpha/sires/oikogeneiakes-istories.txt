@@ -1324,9 +1324,13 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63528&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63538&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Το διαζύγιο
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63539&showId=869&year=2025|webvidfulldig
-#EXTINF:-1 group-title="2025",Πρώτη φορά
-https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63540&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",κδίκηση
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63663&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Με όλο τον σεβασμό
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63596&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Πρώτη φορά
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63597&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Απωθημένο
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63598&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Ο μεγάλος αδελφός
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63599&showId=869&year=2025|webvidfulldig

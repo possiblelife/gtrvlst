@@ -102,8 +102,6 @@ https://www.tvopen.gr/watch/59411/sththaymatoyrghekklhsiatoyagioygeorgioy|webvid
 https://www.tvopen.gr/watch/60348/aerostatomiaxexoristhempeiriapanoapotonneilo|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Κοιλάδα των Βασιλέων: Μέσα στον τάφο του Τουταγχαμών
 https://www.tvopen.gr/watch/60349/koiladatonbasileonmesastontafotoytoytagxamon|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Ice Hotel: Η ναυαρχίδα του τουρισμού στη Σουηδία
-https://www.tvopen.gr/watch/67043/icehotelhnayarxidatoytoyrismoysthsoyhdia|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Με ποταμόπλοιο στο ομορφότερο κομμάτι του Νείλου
 https://www.tvopen.gr/watch/61330/mepotamoploiostoomorfoterokommatitoyneiloy|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Κόμ Όμπο: Στον ναό του κροκόδειλου Θεού
@@ -124,6 +122,8 @@ https://www.tvopen.gr/watch/65170/agorasaluhallenasnaosgastronomiassanpalati|web
 https://www.tvopen.gr/watch/66132/snooymompilxiliometramageiasstonarktikokyklo|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Arctic Bath: Σε ένα μοναδικό ξενοδοχείο που επιπλέει
 https://www.tvopen.gr/watch/66133/arcticbathseenamonadikoxenodoxeiopoyepipleei|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Ice Hotel: Η ναυαρχίδα του τουρισμού στη Σουηδία
+https://www.tvopen.gr/watch/67043/icehotelhnayarxidatoytoyrismoysthsoyhdia|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Έλκηθρο με χάσκι στον Αρκτικό κύκλο
 https://www.tvopen.gr/watch/67044/elkhthromexaskistonarktikokyklo|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Παλάτι Γκουέλ: Το αριστούργημα του Γκαουντί στη Λα Ράμπλα
@@ -1034,8 +1034,6 @@ https://www.tvopen.gr/watch/254195/salamina|webvidfulldig
 https://www.tvopen.gr/watch/254192/tomageytikofiorntontifoyroreeinaianamesastoysbraxoyskaiththalassa|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Σάντα Μαρία Μαγδαληνή: Με την εντυπωσιακή βεράντα και θέα
 https://www.tvopen.gr/watch/254196/santamariamagdalhnhmethnentyposiakhberantakaithea|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση – Νάπολη
-https://www.tvopen.gr/watch/254671/eikonesmetontasodoyshnapolh|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Πιάτσα ντελ Πλεμισίτο: Σύμβολο ελευθερίας και ενότητας
 https://www.tvopen.gr/watch/254675/piatsantelplemisitosymboloeleytheriaskaienothtas|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Γκαλερία Ουμπέρτο Α’: Η διαχρονική εμπορική στοά της Νάπολης
@@ -1044,8 +1042,6 @@ https://www.tvopen.gr/watch/254677/gkaleriaoympertoae28099hdiaxronikhemporikhsto
 https://www.tvopen.gr/watch/255216/tooslohproteyoysasyndyazeifiordkaipolitismo|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Κοινοβούλιο: Το κτήριο σύμβολο της πολιτικής ζωής
 https://www.tvopen.gr/watch/255218/koinoboyliotokthriosymbolothspolitikhszohs|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση – Νορβηγία
-https://www.tvopen.gr/watch/255213/eikonesmetontasodoyshnorbhgia|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Καππαδοκία, Α' μέρος
 https://www.tvopen.gr/watch/2307/eikonesmetontasodoysh7ckappadokiaameros|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση |  Καππαδοκία Β' Μέρος
@@ -1532,3 +1528,7 @@ https://www.tvopen.gr/watch/248526/eikonesmetontasodoyshrodosbmeros|webvidfulldi
 https://www.tvopen.gr/watch/253666/eikones052f102f2025protosproorismosthssezonhoneirikhakthamalfi|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Ακτή Αμάλφι
 https://www.tvopen.gr/watch/254190/eikonesmetontasodoyshakthamalfi|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση – Νάπολη
+https://www.tvopen.gr/watch/254671/eikonesmetontasodoyshnapolh|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση – Νορβηγία
+https://www.tvopen.gr/watch/255213/eikonesmetontasodoyshnorbhgia|webvidfulldig

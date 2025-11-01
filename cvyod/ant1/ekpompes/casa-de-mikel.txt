@@ -461,15 +461,15 @@ https://www.ant1live.com/webtv/psyhagogia/casa-de-mikel/epeisodio-24/05/2025|web
 #EXTINF:-1 group-title="Season6",ΕΠΕΙΣΟΔΙΟ 36 (31/05/2025)
 https://www.ant1live.com/webtv/psyhagogia/casa-de-mikel/epeisodio-31/05/2025|webfulldig
 #EXTINF:-1 group-title="Season6",ΕΠΕΙΣΟΔΙΟ 37 (07/06/2025)
-https://www.ant1live.com/webtv/psyhagogia/casa-de-mikel/epeisodio-07/06/2025
+https://www.ant1live.com/webtv/psyhagogia/casa-de-mikel/epeisodio-07/06/2025|webfulldig
 #EXTINF:-1 group-title="Season6",ΕΠΕΙΣΟΔΙΟ 38 (14/06/2025)
-https://www.ant1live.com/webtv/psyhagogia/casa-de-mikel/epeisodio-14/06/2025
+https://www.ant1live.com/webtv/psyhagogia/casa-de-mikel/epeisodio-14/06/2025|webfulldig
 #EXTINF:-1 group-title="Season6",ΕΠΕΙΣΟΔΙΟ 39 (31/05/2025)
-https://www.ant1live.com/webtv/psyhagogia/casa-de-mikel/epeisodio-21/06/2025
+https://www.ant1live.com/webtv/psyhagogia/casa-de-mikel/epeisodio-21/06/2025|webfulldig
 #EXTINF:-1 group-title="Season6",ΕΠΕΙΣΟΔΙΟ 40 (21/06/2025)
-https://www.ant1live.com/webtv/psyhagogia/casa-de-mikel/epeisodio-28/06/2025
+https://www.ant1live.com/webtv/psyhagogia/casa-de-mikel/epeisodio-28/06/2025|webfulldig
 #EXTINF:-1 group-title="Season6",ΕΠΕΙΣΟΔΙΟ 41 (05/07/2025)
-https://www.ant1live.com/webtv/psyhagogia/casa-de-mikel/epeisodio-05/07/2025
+https://www.ant1live.com/webtv/psyhagogia/casa-de-mikel/epeisodio-05/07/2025|webfulldig
 #EXTINF:-1 group-title="Season7",ΕΠΕΙΣΟΔΙΟ 01 (20/09/2025)
 https://www.ant1live.com/webtv/podcasts/psyhagogia/casa-de-mikel/epeisodio-20/09/2025|webfulldig
 #EXTINF:-1 group-title="Season7",ΕΠΕΙΣΟΔΙΟ 02 (27/09/2025)
@@ -480,3 +480,5 @@ https://www.ant1live.com/webtv/podcasts/psyhagogia/casa-de-mikel/epeisodio-04/10
 https://www.ant1live.com/webtv/podcasts/psyhagogia/casa-de-mikel/epeisodio-11/10/2025|webfulldig
 #EXTINF:-1 group-title="Season7",ΕΠΕΙΣΟΔΙΟ 05 (18/10/2025)
 https://www.ant1live.com/webtv/podcasts/psyhagogia/casa-de-mikel/epeisodio-18/10/2025|webfulldig
+#EXTINF:-1 group-title="Season7",ΕΠΕΙΣΟΔΙΟ 06 (25/10/2025)
+https://www.ant1live.com/webtv/podcasts/psyhagogia/casa-de-mikel/epeisodio-25/10/2025|webfulldig

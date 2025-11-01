@@ -290,3 +290,5 @@ https://www.alphatv.gr/show/aytopsia/?vtype=player&vid=63402&showId=843&year=202
 https://www.alphatv.gr/show/aytopsia/?vtype=player&vid=63448&showId=843&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",23/10/25
 https://www.alphatv.gr/show/aytopsia/?vtype=player&vid=63577&showId=843&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",30/10/25
+https://www.alphatv.gr/show/aytopsia/?vtype=player&vid=63646&showId=843&year=2025|webvidfulldig
