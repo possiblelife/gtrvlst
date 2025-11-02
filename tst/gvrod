@@ -39,11 +39,11 @@ SERIES$$hub://gvrod/alpha/sires/Ο.γιατρός.(2023-2024)
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2023-2024/SERIES/ELLINIKES/OIKOGENEIAKES/THUMBNAIL/THUMBNAILS_OIKOGEN.jpg" tvg-website="https://www.alphatv.gr/show/oikogeneiakes-istories/" tvg-description="hub://desc/Alpha/oikogeneiakes-istories" ,ΟΙΚΟΓΕΝΕΙΑΚΕΣ ΙΣΤΟΡΙΕΣ (2018-2026)
 SERIES$$hub://gvrod/alpha/sires/oikogeneiakes-istories.txt
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2024-2025/ELLHNIKES/DIAFANI/THUMB/THUMBNAILS_DIAFANH_1.png" tvg-website="https://www.alphatv.gr/show/diafani-agapi/" tvg-description="hub://desc/Alpha/Διάφανη.αγάπη.(2024-2025)" ,ΔΙΑΦΑΝΗ ΑΓΑΠΗ (Aphatv μόνο) (2024-2025)
-SERIES$$hub://gvrod/alpha/sires/diafani-agapi.txt
+SERIES$$hub://gvrod/alpha/sires_arxio/diafani-agapi.txt
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2024-2025/ELLHNIKES/DIAFANI/THUMB/THUMBNAILS_DIAFANH_1.png" tvg-website="https://www.alphatv.gr/show/diafani-agapi/" tvg-description="hub://desc/Alpha/Διάφανη.αγάπη.(2024-2025)",ΔΙΑΦΑΝΗ ΑΓΑΠΗ (2024-2025)
-SERIES$$hub://gvrod/alpha/sires/Διάφανη.αγάπη.(2024)
+SERIES$$hub://gvrod/alpha/sires_arxio/Διάφανη.αγάπη.(2024)
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2024-2025/ELLHNIKES/TIMOROS/THUMB/THUMBNAILS_TIMOROS_1.png" tvg-website="https://www.alphatv.gr/show/o-timoros/" tvg-description="hub://desc/Alpha/Ο.τιμωρός.(2024-2025)" ,Ο ΤΙΜΩΡΟΣ (2024-2025)
-SERIES$$hub://gvrod/alpha/sires/Ο.τιμωρός.(2024-2025)
+SERIES$$hub://gvrod/alpha/sires_arxio/Ο.τιμωρός.(2024-2025)
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2024-2025/ELLHNIKES/TZELA/THUMB/THUMB-TZELA-LOGO_NEW.jpg" tvg-website="https://www.alphatv.gr/show/i-katara-tis-tzelas-delafraga/" tvg-description="hub://desc/Alpha/Η.κατάρα.της.Τζέλας.Δελαφράγκα.(2024)" ,Η ΚΑΤΑΡΑ ΤΗΣ ΤΖΕΛΑΣ ΔΕΛΑΦΡΑΓΚΑ (2024)
 SERIES$$hub://gvrod/alpha/sires_arxio/Η.κατάρα.της.Τζέλας.Δελαφράγκα.(2024)
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2022-2023/SERIES/ELLINIKES/AMFIBOLIES/THUMBNAIL_AMFIVOLIES.png" tvg-website="https://www.alphatv.gr/show/amfivolies/" tvg-description="hub://desc/Alpha/Αμφιβολίες.(2022-2024)" ,ΑΜΦΙΒΟΛΙΕΣ (2022-2024)
@@ -394,6 +394,9 @@ http://.....
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.megatv.com/shows|webvod zoom=100 scroll=0,0
 
+
+#EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-description="hub://desc/Mega/mia-nyxta-mono" tvg-logo="https://www.megatv.com/wp-content/uploads/2025/10/Poster_mianyxtamono_850X1090_b.jpg" ,Μια νύχτα μόνο (Megatv μόνο) (2025)
+SERIES$$hub://gvrod/mega/sires/mia-nyxta-mono.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-description="hub://desc/Mega/hotel.elvira" tvg-logo="https://www.megatv.com/wp-content/uploads/2025/05/Poster_HotelElvira_850X1090.jpg" ,HOTΕΛ ΕΛVIRA (Megatv μόνο) (2025)
 SERIES$$hub://gvrod/mega/sires/hotel-elvira.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-description="hub://desc/Mega/hotel.elvira" tvg-logo="https://greek-movies.com/icon/series/HotelElvira2025.jpg" ,HOTΕΛ ΕΛVIRA (2025)
@@ -403,15 +406,11 @@ SERIES$$hub://gvrod/mega/sires/i-gi-tis-elias.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-description="hub://desc/Mega/Η.γη.της.ελιάς.(2021-2025)" tvg-logo="https://greek-movies.com/icon/series/Ηγητηςελιάς2021.jpg" ,Η γη της ελιάς (2021-2025)
 SERIES$$hub://gvrod/mega/sires/Η.γη.της.ελιάς.(2021-2025)
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-description="hub://desc/Mega/Άγιος.Παΐσιος.από.τα.Φάρασα.στον.ουρανό.(2022-2025)" tvg-logo="https://greek-movies.com/icon/series/ΆγιοςΠαΐσιοςαπόταΦάρασαστονουρανό2022.jpg" ,Άγιος Παΐσιος από τα Φάρασα στον ουρανό (2022-2025)
-SERIES$$hub://gvrod/mega/sires/Άγιος.Παΐσιος.από.τα.Φάρασα.στον.ουρανό.(2022-2025)
-#EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-description="hub://desc/Mega/Έχω.παιδιά.(2024-2025)" tvg-logo="https://greek-movies.com/icon/series/Έχωπαιδιά2024.jpg" ,Έχω παιδιά (Megatv μόνο) (2024)
-SERIES$$hub://gvrod/mega/sires/exo-paidia.txt
+SERIES$$hub://gvrod/mega/sires_arxio/Άγιος.Παΐσιος.από.τα.Φάρασα.στον.ουρανό.(2022-2025)
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-description="hub://desc/Mega/Έχω.παιδιά.(2024-2025)" tvg-logo="https://greek-movies.com/icon/series/Έχωπαιδιά2024.jpg" ,Έχω παιδιά (2024)
-SERIES$$hub://gvrod/mega/sires/Έχω.παιδιά.(2024)
-#EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-description="hub://desc/Mega/Ταμπού.(2024-2025)" tvg-logo="https://greek-movies.com/icon/series/Ταμπού2024.jpg" ,Ταμπού (Megatv μόνο) (2024)
-SERIES$$hub://gvrod/mega/sires/tampou.txt
+SERIES$$hub://gvrod/mega/sires_arxio/Έχω.παιδιά.(2024)
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-description="hub://desc/Mega/Ταμπού.(2024-2025)" tvg-logo="https://greek-movies.com/icon/series/Ταμπού2024.jpg" ,Ταμπού (2024)
-SERIES$$hub://gvrod/mega/sires/Ταμπού.(2024)
+SERIES$$hub://gvrod/mega/sires_arxio/Ταμπού.(2024)
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-description="hub://desc/Mega/Famagusta.(2024)" tvg-logo="https://greek-movies.com/icon/series/Famagusta2024.jpg" ,Famagusta (Megatv μόνο) (2024)
 SERIES$$hub://gvrod/mega/sires_arxio/famagusta.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-description="hub://desc/Mega/Famagusta.(2024)" tvg-logo="https://greek-movies.com/icon/series/Famagusta2024.jpg" ,Famagusta (2024)
@@ -898,9 +897,9 @@ SERIES$$hub://gvrod/ant1/sires/grandhotel.txt
 #EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-description="hub://desc/Ant1/Grand.hotel.(2024-2025)" tvg-logo="https://greek-movies.com/icon/series/Grandhotel2024.jpg" tvg-website="https://www.antenna.gr/grandhotel/videos" ,Grand hotel (2024-2026)
 SERIES$$hub://gvrod/ant1/sires/Grand.hotel.(2024-2025)
 #EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-description="hub://desc/Ant1/VIΠ.καλά.γεράματα.(2024-2025)" tvg-logo="https://greek-movies.com/icon/series/VIΠ2024.jpg" tvg-website="https://www.antenna.gr/vip/videos" ,VIΠ καλά γεράματα (2024-2025)
-SERIES$$hub://gvrod/ant1/sires/VIΠ.καλά.γεράματα.(2024)
+SERIES$$hub://gvrod/ant1/sires_arxio/VIΠ.καλά.γεράματα.(2024)
 #EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-description="hub://desc/Ant1/Η.μάγισσα.(2023-2025)" tvg-logo="https://greek-movies.com/icon/series/Ημάγισσα2023.jpg" tvg-website="https://www.antenna.gr/magissaflegomenikardia/videos" ,Η μάγισσα ΦΛΕΓΟΜΕΝΗ ΚΑΡΔΙΑ (2023-2025)
-SERIES$$hub://gvrod/ant1/sires/Η.μάγισσα.(2023-2024)
+SERIES$$hub://gvrod/ant1/sires_arxio/Η.μάγισσα.(2023-2024)
 #EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-description="hub://desc/Ant1/4xxx4.(2017-2018)" tvg-logo="https://greek-movies.com/icon/series/4xxx42017.jpg" ,4xxx4 (2017-2018)
 SERIES$$hub://gvrod/ant1/sires_arxio/4xxx4.(2017-2018)
 #EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-description="hub://desc/Ant1/7.ζωές.(2008)" tvg-logo="https://greek-movies.com/icon/series/7zwes.jpg" ,7 ζωές (2008)
@@ -1647,11 +1646,11 @@ SERIES$$hub://gvrod/ert/sires/Το.δίχτυ.(2024)
 #EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-description="hub://desc/ert/Το.παιδί.(2025)" tvg-logo="https://greek-movies.com/icon/series/Τοπαιδί2025.jpg" ,Το παιδί (2025)
 SERIES$$hub://gvrod/ert/sires/Το.παιδί.(2025)
 #EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-description="hub://desc/ert/Απαραίτητο.φως.(2025)" tvg-logo="https://greek-movies.com/icon/series/Απαραίτητοφως2025.jpg" ,Απαραίτητο φως (2025)
-SERIES$$hub://gvrod/ert/sires/Απαραίτητο.φως.(2025)
+SERIES$$hub://gvrod/ert/sires_arxio/Απαραίτητο.φως.(2025)
 #EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-description="hub://desc/ert/Μαμά.στα.κρυφά.(2025)" tvg-logo="https://greek-movies.com/icon/series/Μαμάστακρυφά2025.jpg" ,Μαμά στα κρυφά (2025)
-SERIES$$hub://gvrod/ert/sires/Μαμά.στα.κρυφά.(2025)
+SERIES$$hub://gvrod/ert/sires_arxio/Μαμά.στα.κρυφά.(2025)
 #EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-description="hub://desc/ert/Η.παραλία.(2023-2025)" tvg-logo="https://greek-movies.com/icon/series/Ηπαραλία2022.jpg" ,Η παραλία (2023-2025)
-SERIES$$hub://gvrod/ert/sires/Η.παραλία.(2023-2025)
+SERIES$$hub://gvrod/ert/sires_arxio/Η.παραλία.(2023-2025)
 #EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-description="hub://desc/ert/Αρχελάου.5.(2024-2025)" tvg-logo="https://greek-movies.com/icon/series/Αρχελάου52024.jpg" ,Αρχελάου 5 (2024-2025)
 SERIES$$hub://gvrod/ert/sires_arxio/Αρχελάου.5.(2024-2025)
 #EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-description="hub://desc/ert/300...και.δύο.(2022)" tvg-logo="https://greek-movies.com/icon/series/300καιδύο2022.jpg" ,300...και δύο (2022)
