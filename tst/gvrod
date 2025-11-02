@@ -2236,7 +2236,8 @@ http://.....
 #EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.alphacyprus.com.cy/shows/ellinikes-seires|webvod zoom=100 scroll=0,0
 
- 
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-description="hub://desc/Alpha/Το.σόι.σου.(2014-2019)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/to_soi_soy_2_3.jpg?itok=EQK7sK6u" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/tosoisou/webtv" ,ΤΟ ΣΟΪ ΣΟΥ (2014-2019)
+SERIES$$hub://cvyod/alpha/sires/tosoisou.txt
 #EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/beba-cover_0.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/beba" tvg-description="hub://desc/Alphacy/beba.(2025)" ,ΜΠΕΜΠΑ (2025)
 SERIES$$hub://cvyod/alpha/sires/beba.txt
 #EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-description="hub://desc/Alpha/Άγιος.έρωτας.(2024-2025)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/ae.jpg?itok=54PmyZyP" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/agioserotas/webtv" ,ΑΓΙΟΣ ΕΡΩΤΑΣ (2024-2025)
@@ -2291,8 +2292,6 @@ SERIES$$hub://cvyod/alpha/sires_arxio/erwtasmeta.txt
 SERIES$$hub://cvyod/alpha/sires_arxio/familia.txt
 #EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-description="hub://desc/Ant1/Γυναίκα.χωρίς.όνομα.(2018-2020)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/accordion-1_9.jpg?itok=T9XO6rPy" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/gynaikaxwrisonoma/webtv" ,ΓΥΝΑΙΚΑ ΧΩΡΙΣ ΟΝΟΜΑ (2018-2020)
 SERIES$$hub://cvyod/alpha/sires_arxio/gynaikaxwrisonoma.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-description="hub://desc/Alpha/Το.σόι.σου.(2014-2019)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/to_soi_soy_2_3.jpg?itok=EQK7sK6u" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/tosoisou/webtv" ,ΤΟ ΣΟΪ ΣΟΥ (2014-2019)
-SERIES$$hub://cvyod/alpha/sires_arxio/tosoisou.txt
 #EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-description="hub://desc/Alpha/Σπίτι.είναι....(2019)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/spiti_einai._1.jpg?itok=tXE3ByaX" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/spitieinai/webtv" ,ΣΠΙΤΙ ΕΙΝΑΙ (2019)
 SERIES$$hub://cvyod/alpha/sires_arxio/spitieinai.txt
 #EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-description="hub://desc/Alphacy/Μπλε.(2018-2019)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/mble-full-shadow.jpg?itok=Majuvz48" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/mple/webtv" ,ΜΠΛΕ (2018-2019)
