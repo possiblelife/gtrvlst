@@ -2239,22 +2239,22 @@ https://www.alphacyprus.com.cy/shows/ellinikes-seires|webvod zoom=100 scroll=0,0
  
 #EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/beba-cover_0.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/beba" tvg-description="hub://desc/Alphacy/beba.(2025)" ,ΜΠΕΜΠΑ (2025)
 SERIES$$hub://cvyod/alpha/sires/beba.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/TZELA.jpg?itok=Eic9f8Sz" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/tzela" tvg-description="hub://desc/Alpha/Η.κατάρα.της.Τζέλας.Δελαφράγκα.(2024)" ,Η ΚΑΤΑΡΑ ΤΗΣ ΤΖΕΛΑΣ ΔΕΛΑΦΡΑΓΚΑ (2024)
-SERIES$$hub://cvyod/alpha/sires/tzela.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-description="hub://desc/Mega/Έχω.παιδιά.(2024-2025)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/exwpaidia.jpg?itok=4sT3cS-H" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/exwpaidia/webtv" ,ΕΧΩ ΠΑΙΔΙΑ (2024-2025)
-SERIES$$hub://cvyod/alpha/sires/exwpaidia.txt
 #EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-description="hub://desc/Alpha/Άγιος.έρωτας.(2024-2025)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/ae.jpg?itok=54PmyZyP" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/agioserotas/webtv" ,ΑΓΙΟΣ ΕΡΩΤΑΣ (2024-2025)
 SERIES$$hub://cvyod/alpha/sires/agioserotas.txt
 #EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-description="hub://desc/Mega/Η.γη.της.ελιάς.(2021-2025)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/GITISELIAS_0.jpg?itok=lV1cnXFi" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/igitiselias/webtv" ,Η ΓΗ ΤΗΣ ΕΛΙΑΣ (2021-2025)
 SERIES$$hub://cvyod/alpha/sires/igitiselias.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-description="hub://desc/Mega/Ταμπού.(2024-2025)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/temp-header-web_4.jpg?itok=uo5z4Pmj" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/taboo/webtv" ,ΤΑΜΠΟΥ (2024-2025)
-SERIES$$hub://cvyod/alpha/sires/taboo.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-description="hub://desc/Alpha/Ο.τιμωρός.(2024-2025)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/temp-header-web_2.jpg?itok=TLc7jfC8" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/timoros/webtv" ,Ο ΤΙΜΩΡΟΣ (2024-2025)
-SERIES$$hub://cvyod/alpha/sires/timoros.txt
 #EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-description="hub://desc/Alpha/Ο.γιατρός.(2023-2025)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/o giatros-web.jpg?itok=-bq52_zr" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/ogiatros/webtv" ,Ο ΓΙΑΤΡΟΣ (2023-2025)
 SERIES$$hub://cvyod/alpha/sires/ogiatros.txt
 #EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-description="hub://desc/Alpha/oikogeneiakes-istories" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/webtv-oikogeneiakes-istories.jpg?itok=8k6oPWfa" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/oikogeneiakesistories/webtv" ,ΟΙΚΟΓΕΝΕΙΑΚΕΣ ΙΣΤΟΡΙΕΣ (2018-2025)
 SERIES$$hub://cvyod/alpha/sires/oikogeneiakesistories.txt
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/TZELA.jpg?itok=Eic9f8Sz" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/tzela" tvg-description="hub://desc/Alpha/Η.κατάρα.της.Τζέλας.Δελαφράγκα.(2024)" ,Η ΚΑΤΑΡΑ ΤΗΣ ΤΖΕΛΑΣ ΔΕΛΑΦΡΑΓΚΑ (2024)
+SERIES$$hub://cvyod/alpha/sires_arxio/tzela.txt
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-description="hub://desc/Mega/Έχω.παιδιά.(2024-2025)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/exwpaidia.jpg?itok=4sT3cS-H" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/exwpaidia/webtv" ,ΕΧΩ ΠΑΙΔΙΑ (2024-2025)
+SERIES$$hub://cvyod/alpha/sires_arxio/exwpaidia.txt
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-description="hub://desc/Mega/Ταμπού.(2024-2025)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/temp-header-web_4.jpg?itok=uo5z4Pmj" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/taboo/webtv" ,ΤΑΜΠΟΥ (2024-2025)
+SERIES$$hub://cvyod/alpha/sires_arxio/taboo.txt
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-description="hub://desc/Alpha/Ο.τιμωρός.(2024-2025)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/temp-header-web_2.jpg?itok=TLc7jfC8" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/timoros/webtv" ,Ο ΤΙΜΩΡΟΣ (2024-2025)
+SERIES$$hub://cvyod/alpha/sires_arxio/timoros.txt
 #EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-description="hub://desc/Alpha/Αμφιβολίες.(2022-2024)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/amfivolies.jpg?itok=dYjLyjEx" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/amfivolies/webtv" ,ΑΜΦΙΒΟΛΙΕΣ (2022-2024)
 SERIES$$hub://cvyod/alpha/sires_arxio/amfivolies.txt
 #EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-description="hub://desc/Mega/Famagusta.(2024)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/famagusta.jpg?itok=00ijKr38" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/famagusta/webtv" ,FAMAGUSTA (2024)
