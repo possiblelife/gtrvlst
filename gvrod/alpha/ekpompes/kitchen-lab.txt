@@ -910,3 +910,7 @@ https://www.alphatv.gr/show/kitchen-lab/?vtype=player&vid=63417&showId=928&year=
 https://www.alphatv.gr/show/kitchen-lab/?vtype=player&vid=63500&showId=928&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 8",19/10/25
 https://www.alphatv.gr/show/kitchen-lab/?vtype=player&vid=63506&showId=928&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 8",01/11/25
+https://www.alphatv.gr/show/kitchen-lab/?vtype=player&vid=63666&showId=928&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 8",02/11/25
+https://www.alphatv.gr/show/kitchen-lab/?vtype=player&vid=63667&showId=928&year=2025|webvidfulldig
