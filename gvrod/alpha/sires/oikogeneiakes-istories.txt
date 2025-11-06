@@ -1336,3 +1336,7 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63598&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63599&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Ο σπάταλος
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63691&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Μελβούρνη
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63692&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Απολύομαι
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63693&showId=869&year=2025|webvidfulldig

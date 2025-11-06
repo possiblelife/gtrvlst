@@ -460,3 +460,5 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=216785&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=216786&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 6",Σεζόν 06 Επεισόδιο 008 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣΚολοκύθα / Κολοκύθα tempura bites με σος γιουρτιού/Pumpkin banana
 https://www.omegatv.com.cy/cgibin/hweb?-A=217108&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 6",Σεζόν 06 Επεισόδιο 009 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣΣαλάτα με φιστίκι/Pasta al pesto con pollo/Pistachio cheesecake
+https://www.omegatv.com.cy/cgibin/hweb?-A=217366&-V=vod|webfulldig
