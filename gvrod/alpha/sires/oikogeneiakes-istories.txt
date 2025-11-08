@@ -1340,3 +1340,7 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63691&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63692&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Απολύομαι
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63693&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Ο άντρας μου
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63694&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Ψηφιακή αποχή
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63695&showId=869&year=2025|webvidfulldig
