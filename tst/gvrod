@@ -290,6 +290,11 @@ http://.....
 
 #EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-logo="https://i.ibb.co/2MdmBxK/skai.jpg" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.skaitv.gr/shows/seires|webvod zoom=100 scroll=0,0
+
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-description="hub://desc/Skai/tote-vs-tora" tvg-logo="https://media.skaitv.gr/images/450/0/files/tote_vs_tora/2025-2026/tote_kai_twra_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/seires/tote-vs-tora/sezon-2025-2026" ,Τότε και Τώρα (SKAItv μόνο)(2025-2026)
+SERIES$$hub://gvrod/skai/sires/tote-vs-tora.txt
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-description="hub://desc/Skai/tote-vs-tora" tvg-logo="https://media.skaitv.gr/images/450/0/files/tote_vs_tora/2025-2026/tote_kai_twra_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/seires/tote-vs-tora/sezon-2025-2026" ,Τότε και Τώρα (2025-2026)
+SERIES$$hub://gvrod/skai/sires/Τότε.και.τώρα.(2025)
 #EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-description="hub://desc/Skai/Bahar" tvg-logo="https://media.skaitv.gr/images/450/0/files/bahar/logos/bl_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/seires/bahar-kainourgia-archi/sezon-2023-2024#tab1" ,Bahar - Καινούργια Αρχή (2023-2024)
 SERIES$$hub://gvrod/skai/sires_arxio/Bahar.txt
 #EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-description="hub://desc/Skai/8.λέξεις.(2019-2021)" tvg-logo="https://greek-movies.com/icon/series/8λέξεις2019.jpg" ,8 λέξεις (2019-2021)
