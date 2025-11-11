@@ -56,13 +56,13 @@ https://ice.onestreaming.com/rockon
 #EXTINF:-1 group-title="ΑΘΗΝΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/arionlaikos.png",Arion Λαϊκός  (Αθήνα)
 https://ice.onestreaming.com/arionlaikos
 #EXTINF:-1 group-title="ΑΘΗΝΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/akous_palko.png",Akous. Πάλκο  (Αθήνα)
-text/html; charset=utf-8
+https://live.akous.gr/akouspalko
 #EXTINF:-1 group-title="ΑΘΗΝΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/lampsifm.png",Λάμψη 92,3 (Αθήνα)
 https://az11.yesstreaming.net:8140/radio.mp3
 #EXTINF:-1 group-title="ΑΘΗΝΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/wonder.png",Wonder  (Αθήνα)
 https://ice.onestreaming.com/wonder
 #EXTINF:-1 group-title="ΑΘΗΝΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/akous_deluxe2021.png",Akous. Domotel Deluxe  (Αθήνα)
-text/html; charset=utf-8
+https://live.akous.gr/akousdeluxe
 #EXTINF:-1 group-title="ΑΘΗΝΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/easy972.png",Easy 97,2 (Αθήνα)
 https://stream.rcs.revma.com/xx0x3502b9hvv
 #EXTINF:-1 group-title="ΑΘΗΝΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/1046myradio.png",My Radio 104,6 (Αθήνα)
@@ -92,7 +92,7 @@ https://loveradio.live24.gr/loveradio-1000
 #EXTINF:-1 group-title="ΑΘΗΝΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/ert-deuteroprogramma.png",ΕΡΤ Δεύτερο Πρόγραμμα 103,7 (Αθήνα)
 https://radiostreaming.ert.gr/ert-deftero
 #EXTINF:-1 group-title="ΑΘΗΝΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/akous_80s.png",Akous. 80s  (Αθήνα)
-text/html; charset=utf-8
+https://ice2.onestreaming.com/akous80s
 #EXTINF:-1 group-title="ΑΘΗΝΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/arionchristmas.png",Arion Christmas  (Αθήνα)
 https://ice.onestreaming.com/arionchristmas
 #EXTINF:-1 group-title="ΑΘΗΝΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/athenspartyrnb.png",Athens Party RNB  (Αθήνα)
@@ -1567,15 +1567,15 @@ https://ice.onestreaming.com/rockon
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/arionlaikos.png",Arion Λαϊκός  (Αθήνα)
 https://ice.onestreaming.com/arionlaikos
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/akous_palko.png",Akous. Πάλκο  (Αθήνα)
-text/html; charset=utf-8
+https://live.akous.gr/akouspalko
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/dertiwebradio.png",Derti  (Internet Radio)
 https://derti.live24.gr/derty1000
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/wonder.png",Wonder  (Αθήνα)
 https://ice.onestreaming.com/wonder
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/akous_deluxe2021.png",Akous. Domotel Deluxe  (Αθήνα)
-text/html; charset=utf-8
+https://live.akous.gr/akousdeluxe
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/akous_gazi.png",Akous. Gazi  (Αθήνα)
-text/html; charset=utf-8
+https://live.akous.gr/akousgazi
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/arionstigmes.png",Arion Στιγμές  (Αθήνα)
 https://ice.onestreaming.com/arionstigmes
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/kalokairaki-3.png",Καλοκαιράκι  (Αθήνα)
@@ -1583,9 +1583,9 @@ https://ice.onestreaming.com/kalokairaki
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/lakkasouli.png",Λάκκα Σούλι Radio  (Internet Radio)
 https://eco.onestreaming.com/proxy/lakkasouli/stream
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/akous_breeze.png",Akous. Breeze  (Αθήνα)
-text/html; charset=utf-8
+https://live.akous.gr/akousbreeze
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/akous_80s.png",Akous. 80s  (Αθήνα)
-text/html; charset=utf-8
+https://ice2.onestreaming.com/akous80s
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/arionchristmas.png",Arion Christmas  (Αθήνα)
 https://ice.onestreaming.com/arionchristmas
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/athenspartyrnb.png",Athens Party RNB  (Αθήνα)
