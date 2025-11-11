@@ -30,3 +30,7 @@ https://www.skai.gr/tv/episode/psuchagogia/weekend-live/2025-10-26-14|webvidfull
 https://www.skai.gr/tv/episode/psuchagogia/weekend-live/2025-11-01-14|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2025-2026",Weekend Live 02/11/2025 
 https://www.skai.gr/tv/episode/psuchagogia/weekend-live/2025-11-02-14|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 2025-2026",Weekend Live 08/11/2025 
+https://www.skai.gr/tv/episode/psuchagogia/weekend-live/2025-11-08-14|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 2025-2026",Weekend Live 09/11/2025 
+https://www.skai.gr/tv/episode/psuchagogia/weekend-live/2025-11-09-14|webvidfulldig
