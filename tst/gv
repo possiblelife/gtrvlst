@@ -610,8 +610,10 @@ https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="hub://logs/tv5monde.png" tvg-name="TV5 Monde" tvg-website="https://www.tv5monde.com/" ,TV5 Monde (2)
 https://ertflix.akamaized.net/ertlive/tv5/default/playlist.m3u8
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="hub://logs/bbc-news-global.png" tvg-website="https://www.bbc.com/news/world" ,BBC World News
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="hub://logs/bbc-news-global.png" tvg-name="BBC World News" tvg-website="https://www.bbc.com/news/world" ,BBC World News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="hub://logs/bbc-news-global.png" tvg-name="BBC World News" tvg-website="https://www.bbc.com/news/world" ,BBC World News (2)
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="hub://logs/rai_news.png" tvg-website="https://www.rainews.it/" ,Rai News 24
 https://www.rainews.it/notiziari/rainews24|webdig
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-id="Sky News" tvg-logo="hub://logs/sky-news.png"  tvg-website="https://news.sky.com/" ,Sky News
