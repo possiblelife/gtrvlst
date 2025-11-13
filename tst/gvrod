@@ -898,7 +898,7 @@ SERIES$$hub://gvrod/ant1/sires/Σέρρες.(2022)
 #EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-description="hub://desc/Ant1/Γιατί.ρε.πατέρα.(2025)" tvg-logo="https://greek-movies.com/icon/series/Γιατίρεπατέρα2025.jpg" tvg-website="https://www.antenna.gr/giatirepatera/videos" ,Γιατί ρε πατέρα; (Ant1.gr μόνο) (2025-2026)
 SERIES$$hub://gvrod/ant1/sires/giatirepatera.txt
 #EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-description="hub://desc/Ant1/Γιατί.ρε.πατέρα.(2025)" tvg-logo="https://greek-movies.com/icon/series/Γιατίρεπατέρα2025.jpg" tvg-website="https://www.antenna.gr/giatirepatera/videos" ,Γιατί ρε πατέρα;  (2025-2026)
-SERIES$$hub://gvrod/ant1/sires/giatirepatera.txt
+SERIES$$hub://gvrod/ant1/sires/Γιατί.ρε.πατέρα;.(2025)
 #EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-description="hub://desc/Ant1/Grand.hotel.(2024-2025)" tvg-logo="https://greek-movies.com/icon/series/Grandhotel2024.jpg" tvg-website="https://www.antenna.gr/grandhotel/videos" ,Grand hotel (Ant1.gr μόνο) (2024-2026)
 SERIES$$hub://gvrod/ant1/sires/grandhotel.txt
 #EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-description="hub://desc/Ant1/Grand.hotel.(2024-2025)" tvg-logo="https://greek-movies.com/icon/series/Grandhotel2024.jpg" tvg-website="https://www.antenna.gr/grandhotel/videos" ,Grand hotel (2024-2026)
