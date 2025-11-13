@@ -466,10 +466,6 @@ https://www.tvopen.gr/watch/137439/diadhloseisalliossthmpogkotaenafantasmagoriko
 https://www.tvopen.gr/watch/137440/mpogkotaplateiampolibarhaylhtonthaymaton|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Graffiti tours: Η παγκόσμια «Μέκκα των γκράφιτι»
 https://www.tvopen.gr/watch/138659/graffititourshpagkosmiac2abmekkatongkrafitic2bb|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Κομμούνα 13: Η μόνη φαβέλα στον κόσμο για τουρισμό
-https://www.tvopen.gr/watch/143144/kommoyna13hmonhfabelastonkosmogiatoyrismo|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Πομπλάδο: Η «Μέκκα της παγκόσμιας διασκέδασης»
-https://www.tvopen.gr/watch/143145/pompladohc2abmekkathspagkosmiasdiaskedashsc2bb|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Μπογκοτά: Βόλτα στην Καντελαρία, το εντυπωσιακό ιστορικό κέντρο
 https://www.tvopen.gr/watch/138660/mpogkotaboltasthnkantelariatoentyposiakoistorikokentro|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ξενάγηση στον αλάτινο καθεδρικό ναό στη Ζιπακίρα της Κολομβίας
@@ -488,6 +484,10 @@ https://www.tvopen.gr/watch/142142/kolombiagketsemanisthnenallaktikhkaimpoemgeit
 https://www.tvopen.gr/watch/142143/c2abbromikoc2bbalalatinikhamerikhotixeiroterogiabrady|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Σαν Ντιέγκο: Η γειτονιά της αριστοκρατίας στην Καρταχένα με τα σπίτια της Σακίρα
 https://www.tvopen.gr/watch/142144/sanntiegkohgeitoniathsaristokratiassthnkartaxenametaspitiathssakira|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Κομμούνα 13: Η μόνη φαβέλα στον κόσμο για τουρισμό
+https://www.tvopen.gr/watch/143144/kommoyna13hmonhfabelastonkosmogiatoyrismo|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Πομπλάδο: Η «Μέκκα της παγκόσμιας διασκέδασης»
+https://www.tvopen.gr/watch/143145/pompladohc2abmekkathspagkosmiasdiaskedashsc2bb|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Μπελέμ: Ο περίτεχνος πύργος στη Λισαβόνα που συναρπάζει
 https://www.tvopen.gr/watch/144247/mpelemoperitexnospyrgossthlisabonapoysynarpazei|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Μνημείο Ανακαλύψεων – Εντυπωσιακό στην όχθη του Τάγου

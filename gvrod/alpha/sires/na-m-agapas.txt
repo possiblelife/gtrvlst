@@ -46,3 +46,7 @@ https://www.alphatv.gr/show/na-m-agapas/?vtype=player&vid=63733&showId=1764&year
 https://www.alphatv.gr/show/na-m-agapas/?vtype=player&vid=63744&showId=1764&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 24
 https://www.alphatv.gr/show/na-m-agapas/?vtype=player&vid=63811&showId=1764&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 25
+https://www.alphatv.gr/show/na-m-agapas/?vtype=player&vid=63821&showId=1764&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 26
+https://www.alphatv.gr/show/na-m-agapas/?vtype=player&vid=63830&showId=1764&year=2025|webvidfulldig

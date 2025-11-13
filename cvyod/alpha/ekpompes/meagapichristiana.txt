@@ -190,3 +190,11 @@ https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/mpift
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/071125|webvidfulldig
 #EXTINF:-1 group-title="2025-2026",Ελένη Σιδερά
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/eleni-sidera-3|webvidfulldig
+#EXTINF:-1 group-title="2025-2026",10/11/25
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/101125|webvidfulldig
+#EXTINF:-1 group-title="2025-2026",Γρηγόρης Γεωργίου
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/grigoris-georgioy-0|webvidfulldig
+#EXTINF:-1 group-title="2025-2026",11/11/25
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/111125|webvidfulldig
+#EXTINF:-1 group-title="2025-2026",Scrambled eggs σε τυρένιο ψωμί
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/scrambled-eggs-se-tyrenio-psomi|webvidfulldig

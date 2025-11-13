@@ -1346,3 +1346,7 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63694&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63695&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Οι συνυφάδες
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63768&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Το σκάνδαλο
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63769&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Κάθε Παρασκευή
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63770&showId=869&year=2025|webvidfulldig
