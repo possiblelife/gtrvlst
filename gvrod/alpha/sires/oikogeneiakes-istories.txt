@@ -1350,3 +1350,7 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63768&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63769&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Κάθε Παρασκευή
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63770&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Έστω και αργά
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63771&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Ο μάγειρας
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63772&showId=869&year=2025|webvidfulldig
