@@ -1702,3 +1702,7 @@ https://www.megatv.com/tvshows/2143276/epeisodio-41-39/|webfulldig
 https://www.megatv.com/tvshows/2143279/epeisodio-42-39/|webfulldig
 #EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 43
 https://www.megatv.com/tvshows/2143285/epeisodio-43-37/|webfulldig
+#EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 44
+https://www.megatv.com/tvshows/2147044/epeisodio-44-33/|webfulldig
+#EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 45
+https://www.megatv.com/tvshows/2147050/epeisodio-45-35/|webfulldig

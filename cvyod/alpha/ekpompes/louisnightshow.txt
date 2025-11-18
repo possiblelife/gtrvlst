@@ -1584,3 +1584,5 @@ https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/241025|w
 https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/311025|webvidfulldig
 #EXTINF:-1 group-title="Season 9",07/11/25
 https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/071125|webvidfulldig
+#EXTINF:-1 group-title="Season 9",14/11/25
+https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv/141125|webvidfulldig

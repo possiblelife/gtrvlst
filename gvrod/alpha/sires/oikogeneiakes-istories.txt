@@ -1354,3 +1354,5 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63770&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63771&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Ο μάγειρας
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63772&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Η παραπομπή
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63857&showId=869&year=2025|webvidfulldig
