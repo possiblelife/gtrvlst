@@ -412,12 +412,7 @@ https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEq
 
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/red.png" ,=====   ΤΑΙΝΙΕΣ   ====
 http://.....
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacy" tvg-logo="hub://logs/extacy-tv.png" tvg-name="Extacy TV" ,Extacy TV
-https://eu1.servers10.com:8081/8238/index.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacygr" tvg-logo="hub://logs/extacygr.png" tvg-name="Extacy TV GREEKS" ,Extacy TV GREEKS
-https://eu1.servers10.com:8081/8242/index.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacycin" tvg-logo="hub://logs/extacy-cinema.png" tvg-name="Extacy TV CINEMA" ,Extacy TV CINEMA
-https://eu1.servers10.com:8081/8244/index.m3u8
+
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacyser" tvg-logo="hub://logs/extacyseries.png" tvg-name="Extacy TV SERIES" ,Extacy TV SERIES
 https://eu1.servers10.com:8081/8284/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/sierra.png" ,Sierra Channel
