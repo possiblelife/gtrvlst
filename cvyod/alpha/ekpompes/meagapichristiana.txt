@@ -216,3 +216,7 @@ https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/georg
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/171125|webvidfulldig
 #EXTINF:-1 group-title="2025-2026",Σοκολατένιες καριόκες
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/sokolatenies-kariokes|webvidfulldig
+#EXTINF:-1 group-title="2025-2026",18/11/25
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/181125|webvidfulldig
+#EXTINF:-1 group-title="2025-2026",Σοκολατόπιτα στο τηγάνι
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/sokolatopita-sto-tigani|webvidfulldig

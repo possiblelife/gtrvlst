@@ -1356,3 +1356,7 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63771&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63772&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Η παραπομπή
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63857&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Η διανομή
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63858&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Βαλάντια
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63859&showId=869&year=2025|webvidfulldig

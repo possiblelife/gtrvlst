@@ -18,3 +18,7 @@ https://www.megatv.com/tvshows/2159140/epeisodio-8-112/|webfulldig
 https://www.megatv.com/tvshows/2166607/epeisodio-9-112/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 10
 https://www.megatv.com/tvshows/2166619/epeisodio-10-109/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 11
+https://www.megatv.com/tvshows/2166622/epeisodio-11-110/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 12
+https://www.megatv.com/tvshows/2170510/epeisodio-12-108/|webfulldig
