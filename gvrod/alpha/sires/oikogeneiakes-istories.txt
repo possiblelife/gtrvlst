@@ -1360,3 +1360,7 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63857&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63858&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Βαλάντια
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63859&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Μαζί δεν κάνουμε
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63860&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Οικογενειακή εκδρομή
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63861&showId=869&year=2025|webvidfulldig

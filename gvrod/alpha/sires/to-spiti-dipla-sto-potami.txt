@@ -29,4 +29,6 @@ https://www.alphatv.gr/show/to-spiti-dipla-sto-potami/?vtype=player&vid=63777&sh
 #EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 16
 https://www.alphatv.gr/show/to-spiti-dipla-sto-potami/?vtype=player&vid=63778&showId=1754&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 17
-https://www.alphatv.gr/show/to-spiti-dipla-sto-potami/?vtype=player&vid=63869&showId=1754&year=2025|webvidfulldig
+https://www.alphatv.gr/show/to-spiti-dipla-sto-potami/?vtype=player&vid=63914&showId=1754&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 18
+https://www.alphatv.gr/show/to-spiti-dipla-sto-potami/?vtype=player&vid=63917&showId=1754&year=2025|webvidfulldig
