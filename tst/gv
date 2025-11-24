@@ -411,8 +411,6 @@ https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEq
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/red.png" ,=====   ΤΑΙΝΙΕΣ   ====
 http://.....
 
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacyser" tvg-logo="hub://logs/extacyseries.png" tvg-name="Extacy TV SERIES" ,Extacy TV SERIES
-https://eu1.servers10.com:8081/8284/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/sierra.png" ,Sierra Channel
 https://fr.crystalweb.net:1936/sierra/sierra/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/nettv.png" ,NETV TORONTO
