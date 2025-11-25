@@ -1,5 +1,3 @@
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 5
-https://www.alphatv.gr/show/tromeroi-goneis/?vtype=player&vid=63567&showId=1763&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 6
 https://www.alphatv.gr/show/tromeroi-goneis/?vtype=player&vid=63568&showId=1763&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 7
@@ -14,3 +12,7 @@ https://www.alphatv.gr/show/tromeroi-goneis/?vtype=player&vid=63753&showId=1763&
 https://www.alphatv.gr/show/tromeroi-goneis/?vtype=player&vid=63855&showId=1763&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 12
 https://www.alphatv.gr/show/tromeroi-goneis/?vtype=player&vid=63856&showId=1763&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 13
+https://www.alphatv.gr/show/tromeroi-goneis/?vtype=player&vid=63933&showId=1763&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 14
+https://www.alphatv.gr/show/tromeroi-goneis/?vtype=player&vid=63934&showId=1763&year=2025|webvidfulldig

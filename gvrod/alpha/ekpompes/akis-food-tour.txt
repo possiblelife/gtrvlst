@@ -92,3 +92,5 @@ https://www.alphatv.gr/show/akis-food-tour/?vtype=player&vid=63501&showId=1093&y
 https://www.alphatv.gr/show/akis-food-tour/?vtype=player&vid=63593&showId=1093&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 4",ΕΠΕΙΣΟΔΙΟ 3
 https://www.alphatv.gr/show/akis-food-tour/?vtype=player&vid=63781&showId=1093&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 4",ΕΠΕΙΣΟΔΙΟ 4
+https://www.alphatv.gr/show/akis-food-tour/?vtype=player&vid=63941&showId=1093&year=2025|webvidfulldig

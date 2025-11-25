@@ -500,3 +500,5 @@ https://www.megatv.com/gtvshows/2170525/19-11-25-2/|webfulldig
 https://www.megatv.com/gtvshows/2171875/20-11-25/|webfulldig
 #EXTINF:-1 group-title="Κύκλος 2",21/11/25
 https://www.megatv.com/gtvshows/2173282/21-11-25/|webfulldig
+#EXTINF:-1 group-title="Κύκλος 2",24/11/25
+https://www.megatv.com/gtvshows/2176489/24-11-25/|webfulldig
