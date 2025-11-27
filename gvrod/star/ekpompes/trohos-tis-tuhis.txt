@@ -3052,8 +3052,6 @@ https://www.star.gr/tv/psychagogia/trohos-tis-tuhis/29102025-trohos-tis-tuhis|we
 https://www.star.gr/tv/psychagogia/trohos-tis-tuhis/30102025-trohos-tis-tuhis|webfulldig
 #EXTINF:-1 group-title="Season 9",31.10.2025 - Τρόχος της Τύχης
 https://www.star.gr/tv/psychagogia/trohos-tis-tuhis/31102025-trohos-tis-tuhis|webfulldig
-#EXTINF:-1 group-title="Season 9",11.11.2025 - Τροχός της Τύχης
-https://www.star.gr/tv/psychagogia/trohos-tis-tuhis/11112025-trohos-tis-tuhis|webfulldig
 #EXTINF:-1 group-title="Season 9",12.11.2025 - Τροχός της Τύχης
 https://www.star.gr/tv/psychagogia/trohos-tis-tuhis/12112025-trohos-tis-tuhis|webfulldig
 #EXTINF:-1 group-title="Season 9",13.11.2025 - Τροχός της Τύχης
@@ -3076,3 +3074,7 @@ https://www.star.gr/tv/psychagogia/trohos-tis-tuhis/21112025-trohos-tis-tuhis|we
 https://www.star.gr/tv/psychagogia/trohos-tis-tuhis/23112025-trohos-tis-tuhis|webfulldig
 #EXTINF:-1 group-title="Season 9",24.11.2025 - Τροχός της Τύχης
 https://www.star.gr/tv/psychagogia/trohos-tis-tuhis/24112025-trohos-tis-tuhis|webfulldig
+#EXTINF:-1 group-title="Season 9",25.11.2025 - Τρόχος της Τύχης
+https://www.star.gr/tv/psychagogia/trohos-tis-tuhis/25112025-trohos-tis-tuhis|webfulldig
+#EXTINF:-1 group-title="Season 9",26.11.2025 - Τροχός της Τύχης
+https://www.star.gr/tv/psychagogia/trohos-tis-tuhis/26112025-trohos-tis-tuhis|webfulldig

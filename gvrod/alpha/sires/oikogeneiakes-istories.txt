@@ -1366,3 +1366,7 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63860&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63861&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Αίτημα φιλίας
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63944&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Πατέρας Χ2
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63945&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Ο δικηγόρος
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63946&showId=869&year=2025|webvidfulldig

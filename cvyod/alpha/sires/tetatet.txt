@@ -320,3 +320,7 @@ https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/251025-grigoris
 https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/011125-teos-proedros-tis-kypriakis-dimokratias-k-nikos|webvidfulldig
 #EXTINF:-1 group-title="Season 6",08/11/25 - Σμαράγδα Καρύδη
 https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/081125-smaragda-karydi|webvidfulldig
+#EXTINF:-1 group-title="Season 6",15/11/25 - Δημήτρης Σταρόβας
+https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/151125-dimitris-starobas|webvidfulldig
+#EXTINF:-1 group-title="Season 6",22/11/25 - Φώτης Γεωργίδης
+https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv/221125-fotis-georgidis|webvidfulldig
