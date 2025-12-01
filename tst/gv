@@ -457,6 +457,8 @@ https://ertflix.akamaized.net/ertlive/music/default/index.mpd
 https://mad.gr/mad-radio/live-streaming/|youtubedig
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/kisshd.png" ,KISS HD
 https://kisstv.siliconweb.com/kissfm/kisstv/chunks.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="hub://logs/baraza.png" tvg-website="https://app.barazaradio.com/" ,Baraza TV 80-90s-00s
+https://media2.streambrothers.com:19360/8116/8116.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="hub://logs/baraza.png" tvg-website="https://app.barazaradio.com/" ,Baraza 80'S MUSIC
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="hub://logs/baraza.png" tvg-website="https://app.barazaradio.com/" ,Baraza Greek Music Hits
