@@ -50,3 +50,5 @@ https://www.ant1live.com/webtv/podcasts/psyhagogia/passenger/epeisodio-1|webfull
 https://www.ant1live.com/webtv/podcasts/psyhagogia/passenger/epeisodio-2|webfulldig
 #EXTINF:-1 group-title="Season3",ΕΠΕΙΣΟΔΙΟ 3
 https://www.ant1live.com/webtv/podcasts/psyhagogia/passenger/epeisodio-3|webfulldig
+#EXTINF:-1 group-title="Season3",ΕΠΕΙΣΟΔΙΟ 4
+https://www.ant1live.com/webtv/podcasts/psyhagogia/passenger/epeisodio-4|webfulldig

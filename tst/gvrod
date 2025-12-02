@@ -891,8 +891,6 @@ https://watch.antennaplus.gr/#/series|webvod zoom=100 scroll=0,0
 SERIES$$hub://gvrod/ant1/sires/Ο.δικαστής.(2025)
 #EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-description="hub://desc/Ant1/Παιχνίδια.εκδίκησης.(2024-2025)" tvg-logo="https://greek-movies.com/icon/series/Παιχνίδιαεκδίκησης2024.jpg" ,Παιχνίδια εκδίκησης (2024-2026)
 SERIES$$hub://gvrod/ant1/sires/Παιχνίδια.εκδίκησης.(2024)
-#EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-description="hub://desc/Ant1/Σέρρες.(2022)" tvg-logo="https://greek-movies.com/icon/series/Σέρρες2022.jpg" tvg-website="hhttps://www.antenna.gr/serres" ,Σέρρες (Ant1.gr μόνο)(2022-2025)
-SERIES$$hub://gvrod/ant1/sires/serres.txt
 #EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-description="hub://desc/Ant1/Σέρρες.(2022)" tvg-logo="https://greek-movies.com/icon/series/Σέρρες2022.jpg" tvg-website="hhttps://www.antenna.gr/serres" ,Σέρρες (2022-2026)
 SERIES$$hub://gvrod/ant1/sires/Σέρρες.(2022)
 #EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-description="hub://desc/Ant1/Γιατί.ρε.πατέρα.(2025)" tvg-logo="https://greek-movies.com/icon/series/Γιατίρεπατέρα2025.jpg" tvg-website="https://www.antenna.gr/giatirepatera/videos" ,Γιατί ρε πατέρα; (Ant1.gr μόνο) (2025-2026)
