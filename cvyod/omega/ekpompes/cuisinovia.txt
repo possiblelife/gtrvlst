@@ -450,3 +450,5 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=218107&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=218108&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 050 CUISINOVIAMανιταρόσουπα με τυρί Mascarpone, Τραγανές μπουκιές με καραμέλα
 https://www.omegatv.com.cy/cgibin/hweb?-A=218114&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 051 CUISINOVIAΠΑΣΤΙΤΣΙΟ με μελιτζάνες και κιμά, ΤΡΟΥΦΕΣ ΣΟΚΟΛΑΤΑΣ
+https://www.omegatv.com.cy/cgibin/hweb?-A=218125&-V=vod|webfulldig

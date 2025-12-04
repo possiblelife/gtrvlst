@@ -1376,3 +1376,7 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63947&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=63948&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Ο άτυχος
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64014&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Η διάκριση
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64015&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Ιδιαίτερα μαθήματα
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64016&showId=869&year=2025|webvidfulldig
