@@ -1380,3 +1380,7 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64014&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64015&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Ιδιαίτερα μαθήματα
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64016&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",ην αρένα
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64017&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Κάνσελ
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64018&showId=869&year=2025|webvidfulldig
