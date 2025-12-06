@@ -399,7 +399,8 @@ https://gra1.crystalweb.net:1936/xalastratv/xalastratv/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/greece24/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logs/pontos.png" ,PONTOS TV
 https://rtmp.win:3842/live/recme1live.m3u8
-
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logs/channel8.png" ,Channel 8
+https://www.channel8.gr/|weballdig
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="hub://logs/red.png" ,===== ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ ====
 http://.....
@@ -444,8 +445,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/tvioniathess/playlist.m3u8
 https://vdo.alphaserver.gr:3128/stream/play.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="hub://logs/Dipolo.png" ,Dipolo TV
 https://channel.streams.ovh:8081/dipolotv/index.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="hub://logs/channel8.png" ,Channel 8
-https://www.channel8.gr/|weballdig
+
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/red.png" ,=====   ΜΟΥΣΙΚΗ   ====
 http://.....
