@@ -444,6 +444,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/tvioniathess/playlist.m3u8
 https://vdo.alphaserver.gr:3128/stream/play.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="hub://logs/Dipolo.png" ,Dipolo TV
 https://channel.streams.ovh:8081/dipolotv/index.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="hub://logs/channel8.png" ,Channel 8
+https://www.channel8.gr/|weballdig
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/red.png" ,=====   ΜΟΥΣΙΚΗ   ====
 http://.....
