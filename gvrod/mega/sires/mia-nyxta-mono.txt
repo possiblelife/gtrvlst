@@ -34,3 +34,7 @@ https://www.megatv.com/tvshows/2183542/epeisodio-16-101/|webfulldig
 https://www.megatv.com/tvshows/2184214/epeisodio-17-99/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 18
 https://www.megatv.com/tvshows/2184220/epeisodio-18-96/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 19
+https://www.megatv.com/tvshows/2190835/epeisodio-19-93/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 20
+https://www.megatv.com/tvshows/2190841/epeisodio-20-93/|webfulldig

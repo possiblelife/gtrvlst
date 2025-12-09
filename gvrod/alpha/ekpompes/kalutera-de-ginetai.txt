@@ -1132,3 +1132,7 @@ https://www.alphatv.gr/show/kalutera-de-ginetai/?vtype=player&vid=63960&showId=9
 https://www.alphatv.gr/show/kalutera-de-ginetai/?vtype=player&vid=64010&showId=913&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 9",30/11/25
 https://www.alphatv.gr/show/kalutera-de-ginetai/?vtype=player&vid=64029&showId=913&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",06/12/25
+https://www.alphatv.gr/show/kalutera-de-ginetai/?vtype=player&vid=64100&showId=913&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",07/12/25
+https://www.alphatv.gr/show/kalutera-de-ginetai/?vtype=player&vid=64102&showId=913&year=2025|webvidfulldig

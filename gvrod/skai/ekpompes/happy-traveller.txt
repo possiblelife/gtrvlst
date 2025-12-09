@@ -620,3 +620,5 @@ https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2025-11-15-16|webvidf
 https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2025-11-22-16|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 11",Happy Traveller  | Ψηλορείτης | Α' Μέρος
 https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2025-11-29-16|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 11",Happy Traveller  | Ψηλορείτης | Μέρος Β'
+https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2025-12-06-16|webvidfulldig

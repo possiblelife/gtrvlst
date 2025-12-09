@@ -458,3 +458,5 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=218247&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=218248&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 054 CUISINOVIAΧριστουγεννιάτικο κέικ
 https://www.omegatv.com.cy/cgibin/hweb?-A=218249&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 055 CUISINOVIAΚρύα νουντλ , Σαλάτα με μελιτζάνες, Σαλάτα με παντζάρια και σπανάκι
+https://www.omegatv.com.cy/cgibin/hweb?-A=218258&-V=vod|webfulldig
