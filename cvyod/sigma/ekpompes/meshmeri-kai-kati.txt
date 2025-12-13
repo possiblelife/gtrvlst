@@ -3888,3 +3888,7 @@ https://www.sigmatv.com/shows/meshmeri-kai-kati/episodes/43002|webvidfulldig
 https://www.sigmatv.com/shows/meshmeri-kai-kati/episodes/43005|webvidfulldig
 #EXTINF:-1 group-title="2025/26",Μεσημέρι 10.12.25
 https://www.sigmatv.com/shows/meshmeri-kai-kati/episodes/43008|webvidfulldig
+#EXTINF:-1 group-title="2025/26",Μεσημέρι 11.12.25
+https://www.sigmatv.com/shows/meshmeri-kai-kati/episodes/43129|webvidfulldig
+#EXTINF:-1 group-title="2025/26",Μεσημέρι 12.12.25
+https://www.sigmatv.com/shows/meshmeri-kai-kati/episodes/43014|webvidfulldig

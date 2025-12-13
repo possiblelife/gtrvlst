@@ -1740,3 +1740,7 @@ https://www.megatv.com/tvshows/2189506/epeisodio-60-27/|webfulldig
 https://www.megatv.com/tvshows/2189509/epeisodio-61-26/|webfulldig
 #EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 62
 https://www.megatv.com/tvshows/2189512/epeisodio-62-25/|webfulldig
+#EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 63
+https://www.megatv.com/tvshows/2189515/epeisodio-63-25/|webfulldig
+#EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 64
+https://www.megatv.com/tvshows/2189518/epeisodio-64-24/|webfulldig

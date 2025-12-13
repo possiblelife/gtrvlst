@@ -464,3 +464,5 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=218258&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=218271&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 057 CUISINOVIAΨαρονέφρι με σος Μπερνέζ, Τάρτα σοκολάτας με καραμέλα
 https://www.omegatv.com.cy/cgibin/hweb?-A=218272&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 058 CUISINOVIAΖυμαρικά Αλφρέντο, στο φούρνο, Χριστουγεννιάτικα μπισκότα ψυγείου
+https://www.omegatv.com.cy/cgibin/hweb?-A=218277&-V=vod|webfulldig

@@ -1,7 +1,3 @@
-#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 38
-https://www.alphatv.gr/show/deal/?vtype=player&vid=63757&showId=254&year=2025|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 39
-https://www.alphatv.gr/show/deal/?vtype=player&vid=63758&showId=254&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 40
 https://www.alphatv.gr/show/deal/?vtype=player&vid=63759&showId=254&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 41
@@ -40,3 +36,7 @@ https://www.alphatv.gr/show/deal/?vtype=player&vid=64129&showId=254&year=2025|we
 https://www.alphatv.gr/show/deal/?vtype=player&vid=64130&showId=254&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 58
 https://www.alphatv.gr/show/deal/?vtype=player&vid=64131&showId=254&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 59
+https://www.alphatv.gr/show/deal/?vtype=player&vid=64132&showId=254&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 60
+https://www.alphatv.gr/show/deal/?vtype=player&vid=64133&showId=254&year=2025|webvidfulldig
