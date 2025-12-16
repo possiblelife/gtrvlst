@@ -1394,3 +1394,5 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64136&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64137&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Μια νύφη για τον άντρα μου
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64138&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Οι κολλιτσίδες
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64209&showId=869&year=2025|webvidfulldig

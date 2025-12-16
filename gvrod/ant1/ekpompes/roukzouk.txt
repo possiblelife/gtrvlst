@@ -118,18 +118,18 @@ https://www.antenna.gr/watch/1691146/rouk-zouk-epeisodio-65-7i-sezon|webvidfulld
 https://www.antenna.gr/watch/1691456/rouk-zouk-eortastiko-epeisodio-1-7i-sezon|webvidfulldig
 #EXTINF:-1 group-title="7η ΣΕΖΟΝ",ROUK ZOUK - ΕΟΡΤΑΣΤΙΚΟ - ΕΠΕΙΣΟΔΙΟ 2
 https://www.antenna.gr/watch/1691567/rouk-zouk-eortastiko-epeisodio-2-7i-sezon|webvidfulldig
-#EXTINF:-1 group-title="7η ΣΕΖΟΝ",ROUK ZOUK - ΕΟΡΤΑΣΤΙΚΟ - ΕΠΕΙΣΟΔΙΟ 3
-https://www.antenna.gr/watch/1692621/rouk-zouk-eortastiko-epeisodio-3-7i-sezon|webvidfulldig
-#EXTINF:-1 group-title="7η ΣΕΖΟΝ",ROUK ZOUK - ΕΠΕΙΣΟΔΙΟ 66
-https://www.antenna.gr/watch/1693818/rouk-zouk-epeisodio-66-7i-sezon|webvidfulldig
-#EXTINF:-1 group-title="7η ΣΕΖΟΝ",ROUK ZOUK - ΕΠΕΙΣΟΔΙΟ 67
-https://www.antenna.gr/watch/1693963/rouk-zouk-epeisodio-67-7i-sezon|webvidfulldig
 #EXTINF:-1 group-title="7η ΣΕΖΟΝ",ROUK ZOUK - ΕΠΕΙΣΟΔΙΟ 68
 https://www.antenna.gr/watch/1694160/rouk-zouk-epeisodio-68-7i-sezon|webvidfulldig
 #EXTINF:-1 group-title="7η ΣΕΖΟΝ",ROUK ZOUK - ΕΠΕΙΣΟΔΙΟ 69
 https://www.antenna.gr/watch/1694368/rouk-zouk-epeisodio-69-7i-sezon|webvidfulldig
 #EXTINF:-1 group-title="7η ΣΕΖΟΝ",ROUK ZOUK - ΕΠΕΙΣΟΔΙΟ 70
 https://www.antenna.gr/watch/1694526/rouk-zouk-epeisodio-70-7i-sezon|webvidfulldig
+#EXTINF:-1 group-title="7η ΣΕΖΟΝ",ROUK ZOUK - ΕΟΡΤΑΣΤΙΚΟ - ΕΠΕΙΣΟΔΙΟ 3
+https://www.antenna.gr/watch/1692621/rouk-zouk-eortastiko-epeisodio-3-7i-sezon|webvidfulldig
+#EXTINF:-1 group-title="7η ΣΕΖΟΝ",ROUK ZOUK - ΕΠΕΙΣΟΔΙΟ 66
+https://www.antenna.gr/watch/1693818/rouk-zouk-epeisodio-66-7i-sezon|webvidfulldig
+#EXTINF:-1 group-title="7η ΣΕΖΟΝ",ROUK ZOUK - ΕΠΕΙΣΟΔΙΟ 67
+https://www.antenna.gr/watch/1693963/rouk-zouk-epeisodio-67-7i-sezon|webvidfulldig
 #EXTINF:-1 group-title="7η ΣΕΖΟΝ",ROUK ZOUK - ΕΠΕΙΣΟΔΙΟ 71
 https://www.antenna.gr/watch/1695093/rouk-zouk-epeisodio-71-7i-sezon|webvidfulldig
 #EXTINF:-1 group-title="7η ΣΕΖΟΝ",ROUK ZOUK - ΕΠΕΙΣΟΔΙΟ 72
@@ -836,3 +836,5 @@ https://www.antenna.gr/watch/1935739/rouk-zouk-epeisodio-53-9i-sezon|webvidfulld
 https://www.antenna.gr/watch/1936034/rouk-zouk-epeisodio-54-9i-sezon|webvidfulldig
 #EXTINF:-1 group-title="9η ΣΕΖΟΝ",ROUK ZOUK - ΕΠΕΙΣΟΔΙΟ 55
 https://www.antenna.gr/watch/1936319/rouk-zouk-epeisodio-55-9i-sezon|webvidfulldig
+#EXTINF:-1 group-title="9η ΣΕΖΟΝ",ROUK ZOUK - ΕΠΕΙΣΟΔΙΟ 56
+https://www.antenna.gr/watch/1936953/rouk-zouk-epeisodio-56-9i-sezon|webvidfulldig

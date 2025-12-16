@@ -126,3 +126,5 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=218265&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=218276&-V=vod|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",11/12/2025 ΠΑΜΕ ΠΑΡΕΑ
 https://www.omegatv.com.cy/cgibin/hweb?-A=218414&-V=vod|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",12/12/2025 ΠΑΜΕ ΠΑΡΕΑ
+https://www.omegatv.com.cy/cgibin/hweb?-A=218417&-V=vod|webfulldig
