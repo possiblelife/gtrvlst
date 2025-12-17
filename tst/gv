@@ -253,8 +253,11 @@ https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 http://eco.streams.ovh:1935/syrostv1/syrostv1/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="THRAKINET" tvg-logo="hub://logs/THRAKINET.png" tvg-website="https://www.thrakinet.tv/" ,ΘΡΑΚΗNET (ΑΝ. ΜΑΚΕΔΟΝΙΑΣ ΚΑΙ ΘΡΑΚΗΣ)
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="THESSALIA" tvg-logo="hub://logs/thessalia.png" tvg-name="Θεσσαλία Τηλεόραση (ΘΕΣΣΑΛΙΑΣ)" tvg-website="https://www.thessaliatv.gr/" ,Θεσσαλία Τηλεόραση (ΘΕΣΣΑΛΙΑΣ)
-https://www.thessaliatv.gr/live/|webdig
+
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="THESSALIA" tvg-logo="hub://logs/thessalia.png" tvg-name="Θεσσαλία Τηλεόραση (ΘΕΣΣΑΛΙΑΣ)" tvg-name="Θεσσαλία Τηλεόραση (ΘΕΣΣΑΛΙΑΣ)" tvg-website="https://www.thessaliatv.gr/" ,Θεσσαλία Τηλεόραση (ΘΕΣΣΑΛΙΑΣ)
+https://thessaliachannel.gr:3339/live/thesstvlive.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&referer=https://live.thessaliatv.gr/
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="THESSALIA" tvg-logo="hub://logs/thessalia.png" tvg-name="Θεσσαλία Τηλεόραση (ΘΕΣΣΑΛΙΑΣ)" tvg-name="Θεσσαλία Τηλεόραση (ΘΕΣΣΑΛΙΑΣ)" tvg-website="https://www.thessaliatv.gr/" ,Θεσσαλία Τηλεόραση (2) (ΘΕΣΣΑΛΙΑΣ)
+https://www.thessaliatv.gr/live/|weballdig
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="TELEKRHTH" tvg-logo="hub://logs/tele_kriti.png" tvg-website="https://telekriti.com/" ,Tele ΚΡΗΤΗ (ΚΡΗΤΗΣ)
 https://neon.streams.gr:8081/telekriti/index.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="TOP CHANNEL" tvg-logo="hub://logs/top.png" tvg-name="TOP CHANNEL (Δ. ΜΑΚΕΔΟΝΙΑΣ)" tvg-website="https://top-channel.gr/" ,TOP CHANNEL (Δ. ΜΑΚΕΔΟΝΙΑΣ)
