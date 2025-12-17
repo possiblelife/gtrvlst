@@ -52,20 +52,22 @@ https://aliez.tv/live/35d7zu879grqvfjjpfzn/|weballdig
 https://verginanews.gr:8443/hls_live/stream2.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="smile" tvg-logo="https://yt3.ggpht.com/-HQamnwjhf6M/AAAAAAAAAAI/AAAAAAAAAAA/RR0l9Otdjl4/s100-mo-c-c0xffffffff-rj-k-no/photo.jpg" tvg-website="https://www.smiletvcyprus.com/" ,ΣΜΑΙΛ
 https://s1.cystream.net/live/smile/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="ert" tvg-logo="https://goo.gl/DLhMC3" tvg-website="https://www.ertflix.gr" ,Eρτ WORLD
-https://ertflix.s.llnwi.net/ertlive/ertworldc/default/index.mpd
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="Euronews" tvg-name="EURONEWS" tvg-logo="https://goo.gl/QMXKek" tvg-website="https://gr.euronews.com/" ,EURONEWS (Youtube)
-https://www.youtube.com/embed/uWIhV9gQClg
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="ert" tvg-logo="https://goo.gl/DLhMC3"  tvg-name="Eρτ WORLD" tvg-website="https://www.ertflix.gr" ,Eρτ WORLD
+https://ertflix-ertworld.siliconweb.com/mpegts/618618_3479286/media_mpegts_0.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="ert" tvg-logo="https://goo.gl/DLhMC3"  tvg-name="Eρτ WORLD" tvg-website="https://www.ertflix.gr" ,Eρτ WORLD (2)
+http://hbbtvapp.ert.gr/stream.php/v/vid_ertworld_mpeg.2ts
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="ert" tvg-logo="https://goo.gl/DLhMC3"  tvg-name="Eρτ WORLD" tvg-website="https://www.ertflix.gr" ,Eρτ WORLD (3)
+https://cdn3.smart-tv-data.com/vid/ertworld/manifest.mpd
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="Euronews" tvg-logo="https://goo.gl/QMXKek"  tvg-website="https://gr.euronews.com/" ,Euronews GR
+https://www.youtube.com/watch?v=uWIhV9gQClg
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="Euronews" tvg-logo="https://goo.gl/QMXKek"  tvg-website="https://gr.euronews.com/" ,Euronews EN
+https://www.youtube.com/@euronews/live
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="Euronews" tvg-name="EURONEWS" tvg-logo="https://goo.gl/QMXKek" tvg-website="https://gr.euronews.com/" ,EURONEWS (2)
 https://ertflix.akamaized.net/ertlive/euronewsgr/default/index.mpd
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://anacon.org/app/img/faroscy.jpg" tvg-website="https://www.farosonair.com/" ,ΦΑΡΟΣ on Air
 https://s1.cystream.net/live/faros1/chunks.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://anacon.org/app/img/faroscy.jpg" tvg-website="https://www.farosonair.com/" ,ΦΑΡΟΣ on Air2
 https://s1.cystream.net/live/faros2/chunks.m3u8
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/gMRtf94/CyprusTV.png" tvg-website="https://www.cypruslivetv.cy/" ,Cyprus TV
-https://www.cypruslivetv.cy/CmsMedia/Uploads/Videos/Live/stream/stream.m3u8
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/br83rNk/9f0c6632-b6bf-448b-a0b9-ea5cc2bdff33-channel-offline-image-1920x1080.jpg" ,Extacy TV Κύπρου
-https://fr.crystalweb.net:1936/extacytvcy/extacytvcy/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://alfasports.tv/wp-content/uploads/2017/07/19650478_10213391687526137_730682022_o.png" tvg-website="https://alfasports.tv/" ,Alfa Sports TV
 https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="http://citychannel.live/wp-content/uploads/2019/08/cropped-53146093_327305117905839_3890747505498914816_n.png" tvg-website="https://citychannel.live/" ,City Channel
