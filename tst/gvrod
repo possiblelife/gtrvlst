@@ -2475,89 +2475,89 @@ SERIES$$hub://cvyod/alpha/ekpompes_arxio/soundtrackoflove.txt
 http://.....
 
 
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Paidiko-programma.jpg" tvg-website="https://www.sigmatv.com/shows/kids" ,Παιδικό Πρόγραμμα
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κινουμένων σχεδίων" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Paidiko-programma.jpg" tvg-website="https://www.sigmatv.com/shows/kids" ,Παιδικό Πρόγραμμα
 SERIES$$hub://cvyod/sigma/sires_arxio/kids.txt
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/Άλλα.λόγια.θκειε.παπά.(2019)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Alla_Logia_thkie_papa_540x304.png" tvg-website="https://www.sigmatv.com/shows/alla-logia-thkie-papa" ,Άλλα λόγια θκειε παπά (2019)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Sigma/Άλλα.λόγια.θκειε.παπά.(2019)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Alla_Logia_thkie_papa_540x304.png" tvg-website="https://www.sigmatv.com/shows/alla-logia-thkie-papa" ,Άλλα λόγια θκειε παπά (2019)
 SERIES$$hub://cvyod/sigma/sires_arxio/alla-logia-thkie-papa.txt
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/Άσπρα.μπαλόνια.(2011-2013)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-aspra-mpalonia.jpg" tvg-website="https://www.sigmatv.com/shows/aspra-mpalonia" ,Άσπρα Μπαλόνια (2011-13)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Sigma/Άσπρα.μπαλόνια.(2011-2013)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-aspra-mpalonia.jpg" tvg-website="https://www.sigmatv.com/shows/aspra-mpalonia" ,Άσπρα Μπαλόνια (2011-13)
 SERIES$$hub://cvyod/sigma/sires_arxio/aspra-mpalonia.txt
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/Έλα.πάρε.με.(2010-2011)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-ela-pare-me.jpg" tvg-website="https://www.sigmatv.com/shows/elapareme" ,Έλα πάρε με (2010-11)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Sigma/Έλα.πάρε.με.(2010-2011)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-ela-pare-me.jpg" tvg-website="https://www.sigmatv.com/shows/elapareme" ,Έλα πάρε με (2010-11)
 SERIES$$hub://cvyod/sigma/sires_arxio/elapareme.txt
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Star/Όρκος.σιωπής.(2014-2015)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Orkos-siopis.jpg" tvg-website="https://www.sigmatv.com/shows/orkos" ,Όρκος σιωπής (2014-15)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Star/Όρκος.σιωπής.(2014-2015)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Orkos-siopis.jpg" tvg-website="https://www.sigmatv.com/shows/orkos" ,Όρκος σιωπής (2014-15)
 SERIES$$hub://cvyod/sigma/sires_arxio/orkos.txt
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/Όταν.μεγαλώσω.(2012)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Otan_Megaloso_Logo_540x304.png" tvg-website="https://www.sigmatv.com/shows/otan-megaloso" ,Όταν μεγαλώσω (2006)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Sigma/Όταν.μεγαλώσω.(2012)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Otan_Megaloso_Logo_540x304.png" tvg-website="https://www.sigmatv.com/shows/otan-megaloso" ,Όταν μεγαλώσω (2006)
 SERIES$$hub://cvyod/sigma/sires_arxio/otan-megaloso.txt
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/Αλλού.ξημερωμένοι.(2010-2011)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-allou-ximeromenoi.jpg" tvg-website="https://www.sigmatv.com/shows/allou-ximeromenoi" ,Αλλού ξημερωμένοι (2010-11)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Sigma/Αλλού.ξημερωμένοι.(2010-2011)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-allou-ximeromenoi.jpg" tvg-website="https://www.sigmatv.com/shows/allou-ximeromenoi" ,Αλλού ξημερωμένοι (2010-11)
 SERIES$$hub://cvyod/sigma/sires_arxio/allou-ximeromenoi.txt
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/Ανεράδες.(2022-2023)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Anerades_white.jpg" tvg-website="https://www.sigmatv.com/shows/anerades" ,Ανεράδες (2022-23)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Sigma/Ανεράδες.(2022-2023)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Anerades_white.jpg" tvg-website="https://www.sigmatv.com/shows/anerades" ,Ανεράδες (2022-23)
 SERIES$$hub://cvyod/sigma/sires_arxio/anerades.txt
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/spetseris" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-vasilis-mixailides.jpg" tvg-website="https://www.sigmatv.com/shows/spetseris" ,Βασίλης Μιχαηλίδης (2005-2006)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="ρομαντική, κοινωνική" tvg-description="hub://desc/Sigma/spetseris" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-vasilis-mixailides.jpg" tvg-website="https://www.sigmatv.com/shows/spetseris" ,Βασίλης Μιχαηλίδης Ο Σπετσέρης (2005-2006)
 SERIES$$hub://cvyod/sigma/sires_arxio/spetseris.txt
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/Βασιλική.(2005-2006)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-vasiliki.jpg" tvg-website="https://www.sigmatv.com/shows/vasiliki" ,Βασιλική (2005-06)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα, κοινωνική" tvg-description="hub://desc/Sigma/Βασιλική.(2005-2006)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-vasiliki.jpg" tvg-website="https://www.sigmatv.com/shows/vasiliki" ,Βασιλική (2005-06)
 SERIES$$hub://cvyod/sigma/sires_arxio/vasiliki.txt
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/Βουράτε.γειτόνοι.(2001-2010)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logos-9.jpg" tvg-website="https://www.sigmatv.com/shows/vourate" ,Βουράτε Γειτόνοι (2001-10)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Sigma/Βουράτε.γειτόνοι.(2001-2010)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logos-9.jpg" tvg-website="https://www.sigmatv.com/shows/vourate" ,Βουράτε Γειτόνοι (2001-10)
 SERIES$$hub://cvyod/sigma/sires_arxio/vourate.txt
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/Βρέχει.έρωτα.(2016)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-vrexei-erota.jpg" tvg-website="https://www.sigmatv.com/shows/vrexei-erwta" ,Βρέχει έρωτα (2015)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Sigma/Βρέχει.έρωτα.(2016)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-vrexei-erota.jpg" tvg-website="https://www.sigmatv.com/shows/vrexei-erwta" ,Βρέχει έρωτα (2015)
 SERIES$$hub://cvyod/sigma/sires_arxio/vrexei-erwta.txt
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/Γαλάτεια.(2016-2020)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-GALATEIA.jpg" tvg-website="https://www.sigmatv.com/shows/galatia" ,Γαλάτεια (2016-20)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Sigma/Γαλάτεια.(2016-2020)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-GALATEIA.jpg" tvg-website="https://www.sigmatv.com/shows/galatia" ,Γαλάτεια (2016-20)
 SERIES$$hub://cvyod/sigma/sires_arxio/galatia.txt
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/Επιστροφή.(2008-2010)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-epistrofi.jpg" tvg-website="https://www.sigmatv.com/shows/epistrofi" ,Επιστροφή (2008-09)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Sigma/Επιστροφή.(2008-2010)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-epistrofi.jpg" tvg-website="https://www.sigmatv.com/shows/epistrofi" ,Επιστροφή (2008-09)
 SERIES$$hub://cvyod/sigma/sires_arxio/epistrofi.txt
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/7.ουρανοί.και.σύννεφα.αλήτες.(2012-2015)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-7ouranoi.jpg" tvg-website="https://www.sigmatv.com/shows/eftaouranoi" ,Εφτά ουρανοί (2012-15)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Sigma/7.ουρανοί.και.σύννεφα.αλήτες.(2012-2015)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-7ouranoi.jpg" tvg-website="https://www.sigmatv.com/shows/eftaouranoi" ,Εφτά ουρανοί (2012-15)
 SERIES$$hub://cvyod/sigma/sires_arxio/eftaouranoi.txt
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/Βεντέτα.(2006-2008)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Venteta_540x304.jpg" tvg-website="https://www.sigmatv.com/shows/venteta" ,Η Βεντέτα (2006-08)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Sigma/Βεντέτα.(2006-2008)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Venteta_540x304.jpg" tvg-website="https://www.sigmatv.com/shows/venteta" ,Η Βεντέτα (2006-08)
 SERIES$$hub://cvyod/sigma/sires_arxio/venteta.txt
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/Η.πεθερά.(2020-2022)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-s-logo.jpg" tvg-website="https://www.sigmatv.com/shows/pethera" ,Η Πεθερά (2020-22)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Sigma/Η.πεθερά.(2020-2022)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-s-logo.jpg" tvg-website="https://www.sigmatv.com/shows/pethera" ,Η Πεθερά (2020-22)
 SERIES$$hub://cvyod/sigma/sires_arxio/pethera.txt
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/Θα.γυρίσει.ο.τροχός.(2016)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-tha-gyrisei-o-troxos.png" tvg-website="https://www.sigmatv.com/shows/tha-girisi-o-troxos" ,Θα γυρίσει ο τροχός (2016)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Sigma/Θα.γυρίσει.ο.τροχός.(2016)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-tha-gyrisei-o-troxos.png" tvg-website="https://www.sigmatv.com/shows/tha-girisi-o-troxos" ,Θα γυρίσει ο τροχός (2016)
 SERIES$$hub://cvyod/sigma/sires_arxio/tha-girisi-o-troxos.txt
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/Κατά.λάθος.(2015)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Katalathos.jpg" tvg-website="https://www.sigmatv.com/shows/katalathos" ,Κατά Λάθος (2015)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Sigma/Κατά.λάθος.(2015)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Katalathos.jpg" tvg-website="https://www.sigmatv.com/shows/katalathos" ,Κατά Λάθος (2015)
 SERIES$$hub://cvyod/sigma/sires_arxio/katalathos.txt
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/Καταιγίδα.(2015)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Kataigida.jpg" tvg-website="https://www.sigmatv.com/shows/kataigida" ,Καταιγίδα (2015)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Sigma/Καταιγίδα.(2015)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Kataigida.jpg" tvg-website="https://www.sigmatv.com/shows/kataigida" ,Καταιγίδα (2015)
 SERIES$$hub://cvyod/sigma/sires_arxio/kataigida.txt
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/Κρυφός.Καιάδας.(2015)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Krifos-Kaiadas.jpg" tvg-website="https://www.sigmatv.com/shows/kaiadas" ,Κρυφός Καιάδας (2015)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Sigma/Κρυφός.Καιάδας.(2015)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Krifos-Kaiadas.jpg" tvg-website="https://www.sigmatv.com/shows/kaiadas" ,Κρυφός Καιάδας (2015)
 SERIES$$hub://cvyod/sigma/sires_arxio/Κρυφός.Καιάδας.(2015)
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/Λόγια.του.αέρα.(2015-2016)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Logia-tou-aera.jpg" tvg-website="https://www.sigmatv.com/shows/logia" ,Λόγια του αέρα (2015)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Sigma/Λόγια.του.αέρα.(2015-2016)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Logia-tou-aera.jpg" tvg-website="https://www.sigmatv.com/shows/logia" ,Λόγια του αέρα (2015)
 SERIES$$hub://cvyod/sigma/sires_arxio/logia.txt
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/Μίλα.μου.(2007-2009)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-mila-mou.jpg" tvg-website="https://www.sigmatv.com/shows/milamou" ,Μίλα μου (2007-09)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Sigma/Μίλα.μου.(2007-2009)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-mila-mou.jpg" tvg-website="https://www.sigmatv.com/shows/milamou" ,Μίλα μου (2007-09)
 SERIES$$hub://cvyod/sigma/sires_arxio/milamou.txt
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/Μόνο.μια.φορά.(2009-2010)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-mono-mia-fora.jpg" tvg-website="https://www.sigmatv.com/shows/monomiafora" ,Μόνο μια φορά (2009-10)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Sigma/Μόνο.μια.φορά.(2009-2010)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-mono-mia-fora.jpg" tvg-website="https://www.sigmatv.com/shows/monomiafora" ,Μόνο μια φορά (2009-10)
 SERIES$$hub://cvyod/sigma/sires_arxio/monomiafora.txt
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/Οι.αδιάφθοροι.(2000-2002)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Oi_Adiafthoroi_Logo_540x304_-2.png" tvg-website="https://www.sigmatv.com/shows/adiafthoroi" ,Οι Αδιάφθοροι (2000-02)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Sigma/Οι.αδιάφθοροι.(2000-2002)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Oi_Adiafthoroi_Logo_540x304_-2.png" tvg-website="https://www.sigmatv.com/shows/adiafthoroi" ,Οι Αδιάφθοροι (2000-02)
 SERIES$$hub://cvyod/sigma/sires_arxio/adiafthoroi.txt
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/Οι.Τάκκοι.(2002-2006)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Oi_Takkoi_Logo_540x304.png" tvg-website="https://www.sigmatv.com/shows/takkoi" ,Οι Τάκκοι (2003-06)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Sigma/Οι.Τάκκοι.(2002-2006)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Oi_Takkoi_Logo_540x304.png" tvg-website="https://www.sigmatv.com/shows/takkoi" ,Οι Τάκκοι (2003-06)
 SERIES$$hub://cvyod/sigma/sires_arxio/takkoi.txt
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/Παντρεμένοι.κι.οι.δυο.(2018-2019)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/pantremenoi.jpg" tvg-website="https://www.sigmatv.com/shows/pantremenoi-ki-oi-dio" ,Παντρεμένοι κι οι δυο (2018-19)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Sigma/Παντρεμένοι.κι.οι.δυο.(2018-2019)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/pantremenoi.jpg" tvg-website="https://www.sigmatv.com/shows/pantremenoi-ki-oi-dio" ,Παντρεμένοι κι οι δυο (2018-19)
 SERIES$$hub://cvyod/sigma/sires_arxio/pantremenoi-ki-oi-dio.txt
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/Σε.φόντο.κόκκινο.(2008-2012)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-fonto-kokkino.jpg" tvg-website="https://www.sigmatv.com/shows/fontokokkino" ,Σε Φόντο Κόκκινο (2008-12)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Sigma/Σε.φόντο.κόκκινο.(2008-2012)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-fonto-kokkino.jpg" tvg-website="https://www.sigmatv.com/shows/fontokokkino" ,Σε Φόντο Κόκκινο (2008-12)
 SERIES$$hub://cvyod/sigma/sires_arxio/fontokokkino.txt
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/xrisopsara" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Ta_Xrisopsara_Logo_540x304.jpg" tvg-website="https://www.sigmatv.com/shows/xrisopsara" ,Τα Χρυσόψαρα (2005-06)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Sigma/xrisopsara" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Ta_Xrisopsara_Logo_540x304.jpg" tvg-website="https://www.sigmatv.com/shows/xrisopsara" ,Τα Χρυσόψαρα (2005-06)
 SERIES$$hub://cvyod/sigma/sires_arxio/xrisopsara.txt
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/Το.μυστικό.της.παλιάς.γέφυρας.(2016-2017)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-palia-gefira.png" tvg-website="https://www.sigmatv.com/shows/palia_gefira" ,Το μυστικό της παλιάς γέφυρας (2016-2017)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Sigma/Το.μυστικό.της.παλιάς.γέφυρας.(2016-2017)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-palia-gefira.png" tvg-website="https://www.sigmatv.com/shows/palia_gefira" ,Το μυστικό της παλιάς γέφυρας (2016-2017)
 SERIES$$hub://cvyod/sigma/sires_arxio/palia_gefira.txt
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/Αδάμαστη.καρδιά.(2013-2014)" tvg-logo="https://greek-movies.com/icon/series/Αδάμαστηκαρδιά2013.jpg" ,Αδάμαστη καρδιά (2013-2014)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Sigma/Αδάμαστη.καρδιά.(2013-2014)" tvg-logo="https://greek-movies.com/icon/series/Αδάμαστηκαρδιά2013.jpg" ,Αδάμαστη καρδιά (2013-2014)
 SERIES$$hub://cvyod/sigma/sires_arxio/Αδάμαστη.καρδιά.(2013-2014)
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/Ακτή.ονείρων.(1998-1999)" tvg-logo="https://greek-movies.com/icon/series/Ακτήονείρων1998.jpg" ,Ακτή ονείρων (1998-1999)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Sigma/Ακτή.ονείρων.(1998-1999)" tvg-logo="https://greek-movies.com/icon/series/Ακτήονείρων1998.jpg" ,Ακτή ονείρων (1998-1999)
 SERIES$$hub://cvyod/sigma/sires_arxio/Ακτή.ονείρων.(1998-1999)
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/Ζωή.ποδήλατο.(2006-2008)" tvg-logo="https://greek-movies.com/icon/series/zwipodilato.jpg" ,Ζωή ποδήλατο (2006-2008)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Sigma/Ζωή.ποδήλατο.(2006-2008)" tvg-logo="https://greek-movies.com/icon/series/zwipodilato.jpg" ,Ζωή ποδήλατο (2006-2008)
 SERIES$$hub://cvyod/sigma/sires_arxio/Ζωή.ποδήλατο.(2006-2008)
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/Η.εκδίκηση.ενός.αγγέλου.(2014-2015)" tvg-logo="https://greek-movies.com/icon/series/Ηεκδίκησηενόςαγγέλου2014.jpg" ,Η εκδίκηση ενός αγγέλου (2014-2015)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Sigma/Η.εκδίκηση.ενός.αγγέλου.(2014-2015)" tvg-logo="https://greek-movies.com/icon/series/Ηεκδίκησηενόςαγγέλου2014.jpg" ,Η εκδίκηση ενός αγγέλου (2014-2015)
 SERIES$$hub://cvyod/sigma/sires_arxio/Η.εκδίκηση.ενός.αγγέλου.(2014-2015)
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/Καραόλοι.αλα.κρεμ.(2008-2009)" tvg-logo="https://greek-movies.com/icon/series/karaoloialakrem.jpg" ,Καραόλοι αλα κρεμ (2008-2009)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Sigma/Καραόλοι.αλα.κρεμ.(2008-2009)" tvg-logo="https://greek-movies.com/icon/series/karaoloialakrem.jpg" ,Καραόλοι αλα κρεμ (2008-2009)
 SERIES$$hub://cvyod/sigma/sires_arxio/Καραόλοι.αλα.κρεμ.(2008-2009)
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/Κύριε.Πρόεδρε.(2001)" tvg-logo="https://greek-movies.com/icon/series/ΚύριεΠρόεδρε2001.jpg" ,Κύριε Πρόεδρε (2001)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία, οικογενειακή" tvg-description="hub://desc/Sigma/Κύριε.Πρόεδρε.(2001)" tvg-logo="https://greek-movies.com/icon/series/ΚύριεΠρόεδρε2001.jpg" ,Κύριε Πρόεδρε (2001)
 SERIES$$hub://cvyod/sigma/sires_arxio/Κύριε.Πρόεδρε.(2001)
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/Ο.δρόμος.του.πεπρωμένου.(2016-2017)" tvg-logo="https://greek-movies.com/icon/series/Οδρόμοςτουπεπρωμένου2016.jpg" ,Ο δρόμος του πεπρωμένου (2016-2017)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία, ρομαντική" tvg-description="hub://desc/Sigma/Ο.δρόμος.του.πεπρωμένου.(2016-2017)" tvg-logo="https://greek-movies.com/icon/series/Οδρόμοςτουπεπρωμένου2016.jpg" ,Ο δρόμος του πεπρωμένου (2016-2017)
 SERIES$$hub://cvyod/sigma/sires_arxio/Ο.δρόμος.του.πεπρωμένου.(2016-2017)
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/Ούνα.ράτσα.(2002-2003)" tvg-logo="https://greek-movies.com/icon/series/Ούναράτσα2002.jpg" ,Ούνα ράτσα (2002-2003)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Sigma/Ούνα.ράτσα.(2002-2003)" tvg-logo="https://greek-movies.com/icon/series/Ούναράτσα2002.jpg" ,Ούνα ράτσα (2002-2003)
 SERIES$$hub://cvyod/sigma/sires_arxio/Ούνα.ράτσα.(2002-2003)
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/Προδοσίες.(2016-2017)" tvg-logo="https://greek-movies.com/icon/series/Προδοσίες2016.jpg" ,Προδοσίες (2016-2017)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Sigma/Προδοσίες.(2016-2017)" tvg-logo="https://greek-movies.com/icon/series/Προδοσίες2016.jpg" ,Προδοσίες (2016-2017)
 SERIES$$hub://cvyod/sigma/sires_arxio/Προδοσίες.(2016-2017)
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/Σ'.αγαπώ.(2003-2004)" tvg-logo="https://greek-movies.com/icon/series/σαγαπώ.jpg" ,Σ' αγαπώ (2003-2004)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Sigma/Σ'.αγαπώ.(2003-2004)" tvg-logo="https://greek-movies.com/icon/series/σαγαπώ.jpg" ,Σ' αγαπώ (2003-2004)
 SERIES$$hub://cvyod/sigma/sires_arxio/Σ'.αγαπώ.(2003-2004)
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/Τα.κοπέλια.(2001-2003)" tvg-logo="https://greek-movies.com/icon/series/Τακοπέλια2001.jpg" ,Τα κοπέλια (2001-2003)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Sigma/Τα.κοπέλια.(2001-2003)" tvg-logo="https://greek-movies.com/icon/series/Τακοπέλια2001.jpg" ,Τα κοπέλια (2001-2003)
 SERIES$$hub://cvyod/sigma/sires_arxio/Τα.κοπέλια.(2001-2003)
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Sigma/Τερέζα.(2016)" tvg-logo="https://greek-movies.com/icon/series/Τερέζα2016.jpg" ,Τερέζα (2016)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Sigma/Τερέζα.(2016)" tvg-logo="https://greek-movies.com/icon/series/Τερέζα2016.jpg" ,Τερέζα (2016)
 SERIES$$hub://cvyod/sigma/sires_arxio/Τερέζα.(2016)
 
 
@@ -2716,73 +2716,71 @@ http://.....
 
 #EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.omegatv.com.cy/cgibin/hweb?-V=tvshows&_FCATEGORY>=110001&_FCATEGORY<=110004&-Sr&-dtvshows.html&_VSECTION=7010|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Star/IQ.160.(2023-2024)" tvg-logo="http://www.omegatv.com.cy/pictures/2019/iq160.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=188271&-V=tvshows" ,IQ 160 (2023-2024)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Star/IQ.160.(2023-2024)" tvg-logo="http://www.omegatv.com.cy/pictures/2019/iq160.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=188271&-V=tvshows" ,IQ 160 (2023-2024)
 SERIES$$hub://cvyod/omega/sires_arxio/iq160.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Open/Έρωτας.φυγάς.(2022-2024)" tvg-logo="https://www.omegatv.com.cy/pictures/2019/erwtas-650x420.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=183392&-V=tvshows" ,ΕΡΩΤΑΣ ΦΥΓΑΣ (2022-2024)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Open/Έρωτας.φυγάς.(2022-2024)" tvg-logo="https://www.omegatv.com.cy/pictures/2019/erwtas-650x420.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=183392&-V=tvshows" ,ΕΡΩΤΑΣ ΦΥΓΑΣ (2022-2024)
 SERIES$$hub://cvyod/omega/sires_arxio/erwtas.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Open/Η.δική.μας.οικογένεια.(2022-2023)" tvg-logo="https://www.omegatv.com.cy/pictures/2023/hdikhmasoikogeneia.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=195847&-V=tvshows" ,Η ΔΙΚΗ ΜΑΣ ΟΙΚΟΓΕΝΕΙΑ (2022-2023)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="οικογενειακή" tvg-description="hub://desc/Open/Η.δική.μας.οικογένεια.(2022-2023)" tvg-logo="https://www.omegatv.com.cy/pictures/2023/hdikhmasoikogeneia.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=195847&-V=tvshows" ,Η ΔΙΚΗ ΜΑΣ ΟΙΚΟΓΕΝΕΙΑ (2022-2023)
 SERIES$$hub://cvyod/omega/sires_arxio/hdikhmasoikogeneia.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Open/Σαν.ψέμα.(2024)" tvg-logo="https://www.omegatv.com.cy/pictures/2023/1000x650-v8.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=204068&-V=tvshows" ,ΣΑΝ ΨΕΜΑ (2024)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="ρομαντική" tvg-description="hub://desc/Open/Σαν.ψέμα.(2024)" tvg-logo="https://www.omegatv.com.cy/pictures/2023/1000x650-v8.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=204068&-V=tvshows" ,ΣΑΝ ΨΕΜΑ (2024)
 SERIES$$hub://cvyod/omega/sires_arxio/1000x650-v8.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Star/Στα.σύνορα.(2023-2024)" tvg-logo="https://www.omegatv.com.cy/pictures/2023/1000x650-v6.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=200070&-V=tvshows" ,ΣΤΑ ΣΥΝΟΡΑ (2023-2024)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Star/Στα.σύνορα.(2023-2024)" tvg-logo="https://www.omegatv.com.cy/pictures/2023/1000x650-v6.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=200070&-V=tvshows" ,ΣΤΑ ΣΥΝΟΡΑ (2023-2024)
 SERIES$$hub://cvyod/omega/sires_arxio/1000x650-v6.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Omega/Σημεία.και.τέρατα.(2015)" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180824_simiakaiterata.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=97692&-V=tvshows" ,ΣΗΜΕΙΑ ΚΑΙ ΤΕΡΑΤΑ (2015)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/Σημεία.και.τέρατα.(2015)" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180824_simiakaiterata.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=97692&-V=tvshows" ,ΣΗΜΕΙΑ ΚΑΙ ΤΕΡΑΤΑ (2015)
 SERIES$$hub://cvyod/omega/sires_arxio/20180824_simiakaiterata.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Omega/Μια.του.κλέφτη.(2021)" tvg-logo="https://www.omegatv.com.cy/pictures/2019/mia-tou-klefti.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=179305&-V=tvshows" ,ΜΙΑ ΤΟΥ ΚΛΕΦΤΗ (2021)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/Μια.του.κλέφτη.(2021)" tvg-logo="https://www.omegatv.com.cy/pictures/2019/mia-tou-klefti.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=179305&-V=tvshows" ,ΜΙΑ ΤΟΥ ΚΛΕΦΤΗ (2021)
 SERIES$$hub://cvyod/omega/sires_arxio/mia-tou-klefti.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Omega/Στο.Αλαλούμ.(2018)" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180824_alaloum.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=140126&-V=tvshows" ,ΣΤΟ ΑΛΑΛΟΥΜ (2018)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/Στο.Αλαλούμ.(2018)" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180824_alaloum.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=140126&-V=tvshows" ,ΣΤΟ ΑΛΑΛΟΥΜ (2018)
 SERIES$$hub://cvyod/omega/sires_arxio/20180824_alaloum.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Omega/Η.μαμά.λείπει.ταξίδι.για.δουλειές.(2016-2017)" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180824_imamaleipei.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=122975&-V=tvshows" ,Η ΜΑΜΑ ΛΕΙΠΕΙ ΤΑΞΙΔΙ ΓΙΑ ΔΟΥΛΕΙΕΣ (2016-2017)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/Η.μαμά.λείπει.ταξίδι.για.δουλειές.(2016-2017)" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180824_imamaleipei.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=122975&-V=tvshows" ,Η ΜΑΜΑ ΛΕΙΠΕΙ ΤΑΞΙΔΙ ΓΙΑ ΔΟΥΛΕΙΕΣ (2016-2017)
 SERIES$$hub://cvyod/omega/sires_arxio/20180824_imamaleipei.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Omega/Ζωή.μου.(2016-2017)" tvg-logo="https://www.omegatv.com.cy/pictures/20160822_zoimou.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=122976&-V=tvshows" ,ΖΩΗ ΜΟΥ (2016-2017)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Omega/Ζωή.μου.(2016-2017)" tvg-logo="https://www.omegatv.com.cy/pictures/20160822_zoimou.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=122976&-V=tvshows" ,ΖΩΗ ΜΟΥ (2016-2017)
 SERIES$$hub://cvyod/omega/sires_arxio/20160822_zoimou.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Omega/20181109_giatros" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20181109_giatros.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=139531&-V=tvshows" ,ΜΠΡΑΒΟ ΓΙΑΤΡΕ ΜΟΥ (2018)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/20181109_giatros" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20181109_giatros.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=139531&-V=tvshows" ,ΜΠΡΑΒΟ ΓΙΑΤΡΕ ΜΟΥ (2018)
 SERIES$$hub://cvyod/omega/sires_arxio/20181109_giatros.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Omega/20180301_ou_pseudomartirisis" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180301_ou_pseudomartirisis.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=138435&-V=tvshows" ,ΟΥ ΨΕΥΔΟΜΑΡΤΥΡΗΣΕΙΣ (2018)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/20180301_ou_pseudomartirisis" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180301_ou_pseudomartirisis.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=138435&-V=tvshows" ,ΟΥ ΨΕΥΔΟΜΑΡΤΥΡΗΣΕΙΣ (2018)
 SERIES$$hub://cvyod/omega/sires_arxio/20180301_ou_pseudomartirisis.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Omega/20180309_deyteri_zoi" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180309_deyteri_zoi.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=138638&-V=tvshows" ,ΔΕΥΤΕΡΗ ΖΩΗ ΔΕΝ ΕΧΕΙ (2018)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/20180309_deyteri_zoi" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180309_deyteri_zoi.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=138638&-V=tvshows" ,ΔΕΥΤΕΡΗ ΖΩΗ ΔΕΝ ΕΧΕΙ (2018)
 SERIES$$hub://cvyod/omega/sires_arxio/20180309_deyteri_zoi.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Omega/20180222_reunion" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180222_reunion.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=138226&-V=tvshows" ,REUNION (2018)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/20180222_reunion" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180222_reunion.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=138226&-V=tvshows" ,REUNION (2018)
 SERIES$$hub://cvyod/omega/sires_arxio/20180222_reunion.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Omega/20180216_ou_mixeuseis" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180216_ou_mixeuseis.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=138079&-V=tvshows" ,ΟΥ ΜΟΙΧΕΥΣΕΙΣ (2018)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/20180216_ou_mixeuseis" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180216_ou_mixeuseis.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=138079&-V=tvshows" ,ΟΥ ΜΟΙΧΕΥΣΕΙΣ (2018)
 SERIES$$hub://cvyod/omega/sires_arxio/20180216_ou_mixeuseis.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Omega/20181108_gata" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20181108_gata.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=138040&-V=tvshows" ,ΟΥΤΕ ΓΑΤΑ ΟΥΤΕ ΖΗΜΙΑ (2018)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/20181108_gata" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20181108_gata.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=138040&-V=tvshows" ,ΟΥΤΕ ΓΑΤΑ ΟΥΤΕ ΖΗΜΙΑ (2018)
 SERIES$$hub://cvyod/omega/sires_arxio/20181108_gata.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Omega/20180202_perasmenes_mou_agapes" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180202_perasmenes_mou_agapes.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=137648&-V=tvshows" ,ΠΕΡΑΣΜΕΝΕΣ ΜΟΥ ΑΓΑΠΕΣ (2018)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/20180202_perasmenes_mou_agapes" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180202_perasmenes_mou_agapes.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=137648&-V=tvshows" ,ΠΕΡΑΣΜΕΝΕΣ ΜΟΥ ΑΓΑΠΕΣ (2018)
 SERIES$$hub://cvyod/omega/sires_arxio/20180202_perasmenes_mou_agapes.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Omega/9.μήνες.(2015-2017)" tvg-logo="https://greek-movies.com/icon/series/9μήνες2015.jpg" ,9 μήνες (2015-2017)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Omega/9.μήνες.(2015-2017)" tvg-logo="https://greek-movies.com/icon/series/9μήνες2015.jpg" ,9 μήνες (2015-2017)
 SERIES$$hub://cvyod/omega/sires_arxio/9.μήνες.(2015-2017)
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Omega/Daddy.cool.(2012)" tvg-logo="https://greek-movies.com/icon/series/Daddycool2012.jpg" ,Daddy cool (2012)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/Daddy.cool.(2012)" tvg-logo="https://greek-movies.com/icon/series/Daddycool2012.jpg" ,Daddy cool (2012)
 SERIES$$hub://cvyod/omega/sires_arxio/Daddy.cool.(2012)
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Omega/Dr_.Ιπποκράτης.(2015)" tvg-logo="https://greek-movies.com/icon/series/DrΙπποκράτης2015.jpg" ,Dr Ιπποκράτης (2015)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/Dr_.Ιπποκράτης.(2015)" tvg-logo="https://greek-movies.com/icon/series/DrΙπποκράτης2015.jpg" ,Dr Ιπποκράτης (2015)
 SERIES$$hub://cvyod/omega/sires_arxio/Dr.Ιπποκράτης.(2015)
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Omega/Ανήσυχα.χρόνια.(1999-2000)" tvg-logo="https://greek-movies.com/icon/series/Ανήσυχαχρόνια1999.jpg" ,Ανήσυχα χρόνια (1999-2000)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα, ιστορική" tvg-description="hub://desc/Omega/Ανήσυχα.χρόνια.(1999-2000)" tvg-logo="https://greek-movies.com/icon/series/Ανήσυχαχρόνια1999.jpg" ,Ανήσυχα χρόνια (1999-2000)
 SERIES$$hub://cvyod/omega/sires_arxio/Ανήσυχα.χρόνια.(1999-2000)
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Omega/Ένοχα.μυστικά.(2012)" tvg-logo="https://greek-movies.com/icon/series/Ένοχαμυστικά2012.jpg" ,Ένοχα μυστικά (2012)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Omega/Ένοχα.μυστικά.(2012)" tvg-logo="https://greek-movies.com/icon/series/Ένοχαμυστικά2012.jpg" ,Ένοχα μυστικά (2012)
 SERIES$$hub://cvyod/omega/sires_arxio/Ένοχα.μυστικά.(2012)
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Omega/Ζωή.λαχείο.(2013)" tvg-logo="https://greek-movies.com/icon/series/Ζωήλαχείο2014.jpg" ,Ζωή λαχείο (2013)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/Ζωή.λαχείο.(2013)" tvg-logo="https://greek-movies.com/icon/series/Ζωήλαχείο2014.jpg" ,Ζωή λαχείο (2013)
 SERIES$$hub://cvyod/omega/sires_arxio/Ζωή.λαχείο.(2013)
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Omega/Κάθε.κατεργάρης.στον.πάγκο.του.(1998-1999)" tvg-logo="https://greek-movies.com/icon/series/Κάθεκατεργάρηςστονπάγκοτου1998.jpg" ,Κάθε κατεργάρης στον πάγκο του (1998-1999)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/Κάθε.κατεργάρης.στον.πάγκο.του.(1998-1999)" tvg-logo="https://greek-movies.com/icon/series/Κάθεκατεργάρηςστονπάγκοτου1998.jpg" ,Κάθε κατεργάρης στον πάγκο του (1998-1999)
 SERIES$$hub://cvyod/omega/sires_arxio/Κάθε.κατεργάρης.στον.πάγκο.του.(1998-1999)
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-logo="https://greek-movies.com/icon/series/Καλλίττεραενγίνεται.jpg" ,Καλλίττερα εν γίνεται (2000-2001)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-logo="https://greek-movies.com/icon/series/Καλλίττεραενγίνεται.jpg" ,Καλλίττερα εν γίνεται (2000-2001)
 SERIES$$hub://cvyod/omega/sires_arxio/Καλλίττερα.εν.γίνεται.(2000-2001)
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Omega/Μηδέν.(2012)" tvg-logo="https://greek-movies.com/icon/series/Μηδέν2012.jpg" ,Μηδέν (2012)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Omega/Μηδέν.(2012)" tvg-logo="https://greek-movies.com/icon/series/Μηδέν2012.jpg" ,Μηδέν (2012)
 SERIES$$hub://cvyod/omega/sires_arxio/Μηδέν.(2012)
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Omega/Οι.διπλάρες.(1994-1995)" tvg-logo="https://greek-movies.com/icon/series/οιδιπλάρες.jpg" ,Οι διπλάρες (1994-1995)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/Οι.διπλάρες.(1994-1995)" tvg-logo="https://greek-movies.com/icon/series/οιδιπλάρες.jpg" ,Οι διπλάρες (1994-1995)
 SERIES$$hub://cvyod/omega/sires_arxio/Οι.διπλάρες.(1994-1995)
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Omega/Οι.κληρονόμοι.(2002-2003)" tvg-logo="https://greek-movies.com/icon/series/Οικληρονόμοι2002.jpg" ,Οι κληρονόμοι (2002-2003)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/Οι.κληρονόμοι.(2002-2003)" tvg-logo="https://greek-movies.com/icon/series/Οικληρονόμοι2002.jpg" ,Οι κληρονόμοι (2002-2003)
 SERIES$$hub://cvyod/omega/sires_arxio/Οι.κληρονόμοι.(2002-2003)
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Omega/Όνειρο.ήταν.(2013-2014)" tvg-logo="https://greek-movies.com/icon/series/Όνειροήταν2013.jpg" ,Όνειρο ήταν (2013-2014)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική, κοινωνική" tvg-description="hub://desc/Omega/Όνειρο.ήταν.(2013-2014)" tvg-logo="https://greek-movies.com/icon/series/Όνειροήταν2013.jpg" ,Όνειρο ήταν (2013-2014)
 SERIES$$hub://cvyod/omega/sires_arxio/Όνειρο.ήταν.(2013-2014)
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Omega/Πόρτα.κλειδωμένη.(2012-2013)" tvg-logo="https://greek-movies.com/icon/series/Πόρτακλειδωμένη2012.jpg" ,Πόρτα κλειδωμένη (2012-2013)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα, κοινωνική" tvg-description="hub://desc/Omega/Πόρτα.κλειδωμένη.(2012-2013)" tvg-logo="https://greek-movies.com/icon/series/Πόρτακλειδωμένη2012.jpg" ,Πόρτα κλειδωμένη (2012-2013)
 SERIES$$hub://cvyod/omega/sires_arxio/Πόρτα.κλειδωμένη.(2012-2013)
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Omega/Σημεία.και.τέρατα.(2015)" tvg-logo="https://greek-movies.com/icon/series/Σημείακαιτέρατα2015.jpg" ,Σημεία και τέρατα (2015)
-SERIES$$hub://cvyod/omega/sires_arxio/Σημεία.και.τέρατα.(2015)
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Omega/Τα.ψάρκα.(2000-2001)" tvg-logo="https://greek-movies.com/icon/series/ταψάρκα.jpg" ,Τα ψάρκα (2000-2001)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/Τα.ψάρκα.(2000-2001)" tvg-logo="https://greek-movies.com/icon/series/ταψάρκα.jpg" ,Τα ψάρκα (2000-2001)
 SERIES$$hub://cvyod/omega/sires_arxio/Τα.ψάρκα.(2000-2001)
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Omega/Την.τύχη.μου.μέσα.(2014-2015)" tvg-logo="https://greek-movies.com/icon/series/Τηντύχημουμέσα2014.jpg" ,Την τύχη μου μέσα (2014-2015)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/Την.τύχη.μου.μέσα.(2014-2015)" tvg-logo="https://greek-movies.com/icon/series/Τηντύχημουμέσα2014.jpg" ,Την τύχη μου μέσα (2014-2015)
 SERIES$$hub://cvyod/omega/sires_arxio/Την.τύχη.μου.μέσα.(2014-2015)
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/Omega/Το.δαχτυλίδι.της.φωτιάς.(2014-2016)" tvg-logo="https://greek-movies.com/icon/series/Τοδαχτυλίδιτηςφωτιάς2014.jpg" ,Το δαχτυλίδι της φωτιάς (2014-2016)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα, κοινωνική" tvg-description="hub://desc/Omega/Το.δαχτυλίδι.της.φωτιάς.(2014-2016)" tvg-logo="https://greek-movies.com/icon/series/Τοδαχτυλίδιτηςφωτιάς2014.jpg" ,Το δαχτυλίδι της φωτιάς (2014-2016)
 SERIES$$hub://cvyod/omega/sires_arxio/Το.δαχτυλίδι.της.φωτιάς.(2014-2016)
 
 
@@ -2883,17 +2881,17 @@ SERIES$$hub://cvyod/omega/ekpompes_arxio/oopene.txt
 http://.....
 #EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-logo="https://i.ibb.co/cJtshcJ/rik-logo.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://tv.rik.cy/category/seires/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/RIK/Τρικυμία.(2022-2025)" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/TRYKIMIA_S.eccd178c.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/trikumia/" ,Τρικυμία (2022-2025)
+#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/RIK/Τρικυμία.(2022-2025)" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/TRYKIMIA_S.eccd178c.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/trikumia/" ,Τρικυμία (2022-2025)
 SERIES$$hub://cvyod/rik/sires/trikumia.txt
-#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/RIK/Περικλής.τζαι.Εριέττα.(2023-2025)" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/PERIKLIS_TZAI_ERIETTA_-_PORTRAIT.17f294d5.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/perikles-tzai-erietta/" ,Περικλής τζαι Εριέττα (2023-2025)
+#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα, έγκλημα" tvg-description="hub://desc/RIK/Περικλής.τζαι.Εριέττα.(2023-2025)" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/PERIKLIS_TZAI_ERIETTA_-_PORTRAIT.17f294d5.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/perikles-tzai-erietta/" ,Περικλής τζαι Εριέττα (2023-2025)
 SERIES$$hub://cvyod/rik/sires/perikles-tzai-erietta.txt
-#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/RIK/Θυμάρι.και.αλμύρα.(2024)" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2024/10/10/THYMARI__ALMYRA_S.2e16d0ba.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/thumari-kai-almura/" ,Θυμάρι και Αλμύρα (2024)
+#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα, κοινωνική" tvg-description="hub://desc/RIK/Θυμάρι.και.αλμύρα.(2024)" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2024/10/10/THYMARI__ALMYRA_S.2e16d0ba.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/thumari-kai-almura/" ,Θυμάρι και Αλμύρα (2024)
 SERIES$$hub://cvyod/rik/sires_arxio/thumari-kai-almura.txt
-#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/RIK/Ειρήνη.Πάσι.(2021-2024)" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/EIRHNH_PASI_S.48e03a4c.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/eirene-pasi/" ,Ειρήνη Πάσι (2021-2024)
+#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/RIK/Ειρήνη.Πάσι.(2021-2024)" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/EIRHNH_PASI_S.48e03a4c.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/eirene-pasi/" ,Ειρήνη Πάσι (2021-2024)
 SERIES$$hub://cvyod/rik/sires_arxio/eirene-pasi.txt
-#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/RIK/Ο.Σωτήρης.της.νέας.εποχής.(2024)" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/SOTHRHS_SMALL.2e16d0ba.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/o-soteres-tes-neas-epokhes/" ,Ο Σωτήρης της νέας εποχής (2024)
+#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/RIK/Ο.Σωτήρης.της.νέας.εποχής.(2024)" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/SOTHRHS_SMALL.2e16d0ba.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/o-soteres-tes-neas-epokhes/" ,Ο Σωτήρης της νέας εποχής (2024)
 SERIES$$hub://cvyod/rik/sires_arxio/o-soteres-tes-neas-epokhes.txt
-#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-description="hub://desc/RIK/Στα.όρια.(2023)" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/STA_ORIA__-_PORTRAIT.362ba04e.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/sta-oria/" ,Στα Όρια (2023)
+#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="έγκλημα" tvg-description="hub://desc/RIK/Στα.όρια.(2023)" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/STA_ORIA__-_PORTRAIT.362ba04e.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/sta-oria/" ,Στα Όρια (2023)
 SERIES$$hub://cvyod/rik/sires_arxio/sta-oria.txt
 
 
@@ -2995,13 +2993,13 @@ SERIES$$hub://cvyod/rik/arxio/ttophallos-o-klonarites.txt
 SERIES$$hub://cvyod/rik/arxio/petros-o-protos.txt
 #EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΑΡΧΕΙΟ ΣΕΙΡΕΣ" tvg-description="hub://desc/RIK/Εγώ.η.Λητώ.Δομέστικα.(1995)" tvg-logo="https://i.vimeocdn.com/video/760557939-16ff1c4f0df05e62eb3599146b6255ca79be12b92539935fffa9fa1a52d607ff-d_640" tvg-website="https://digital-herodotus.eu/archive/video/items/1700/ego-e-leto-domestika-a002/?page=7" ,ΕΓΩ Η ΛΗΤΩ ΔΟΜΕΣΤΙΚΑ (1995) (ΣΕΙΡΑ)
 SERIES$$hub://cvyod/rik/arxio/ego-e-leto-domestika.txt
-#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΑΡΧΕΙΟ ΣΕΙΡΕΣ" tvg-description="hub://desc/RIK/Μανώλης.&.Κατίνα.(1994-2003)" tvg-logo="https://i.vimeocdn.com/video/1556588042-22b54377f7e284f67fbb0ad3b2d06f8614203ff86a17d04f2b71f782306eb9f2-d_640" tvg-website="https://digital-herodotus.eu/archive/video/items/8920/manoles-kai-katina-a010-poleitai-e-enoikiazetai/?page=8" ,ΜΑΝΩΛΗΣ ΚΑΙ ΚΑΤΙΝΑ (1995) (ΣΕΙΡΑ)
+#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΑΡΧΕΙΟ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/RIK/Μανώλης.&.Κατίνα.(1994-2003)" tvg-logo="https://i.vimeocdn.com/video/1556588042-22b54377f7e284f67fbb0ad3b2d06f8614203ff86a17d04f2b71f782306eb9f2-d_640" tvg-website="https://digital-herodotus.eu/archive/video/items/8920/manoles-kai-katina-a010-poleitai-e-enoikiazetai/?page=8" ,ΜΑΝΩΛΗΣ ΚΑΙ ΚΑΤΙΝΑ (1995) (ΣΕΙΡΑ)
 SERIES$$hub://cvyod/rik/arxio/manoles-kai-katina.txt
-#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΑΡΧΕΙΟ ΣΕΙΡΕΣ" tvg-description="hub://desc/RIK/Το.καφενείο.(1996-2006)" tvg-logo="https://i.vimeocdn.com/video/772668584-798fccfaea522642b61ec7941b4bece873fe59eb19ce908ba7171ec116b8dac7-d_640" tvg-website="https://digital-herodotus.eu/archive/video/items/2890/to-kapheneio-a001-to-skullaki-tes-kurias/?page=10" ,ΤΟ ΚΑΦΕΝΕΙΟ (1996) (ΣΕΙΡΑ)
+#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΑΡΧΕΙΟ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/RIK/Το.καφενείο.(1996-2006)" tvg-logo="https://i.vimeocdn.com/video/772668584-798fccfaea522642b61ec7941b4bece873fe59eb19ce908ba7171ec116b8dac7-d_640" tvg-website="https://digital-herodotus.eu/archive/video/items/2890/to-kapheneio-a001-to-skullaki-tes-kurias/?page=10" ,ΤΟ ΚΑΦΕΝΕΙΟ (1996) (ΣΕΙΡΑ)
 SERIES$$hub://cvyod/rik/arxio/to-kapheneio.txt
 #EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΑΡΧΕΙΟ ΣΕΙΡΕΣ" tvg-logo="https://i.vimeocdn.com/video/757459859-ef2772634bfe0cffbd129ddb8a2d6be89617318a04549da61d244b3bfb89c9dd-d_640" tvg-website="https://digital-herodotus.eu/archive/video/items/1566/oi-ornithes-t-aristophane-001/?page=10" ,ΟΙ ΟΡΝΙΘΕΣ Τ' ΑΡΙΣΤΟΦΑΝΗ (1996) (ΣΕΙΡΑ)
 SERIES$$hub://cvyod/rik/arxio/oi-ornithes-t-aristophane.txt
-#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΑΡΧΕΙΟ ΣΕΙΡΕΣ" tvg-description="hub://desc/RIK/Ιστορίες.του.χωρκού.(1996-2011)" tvg-logo="https://i.vimeocdn.com/video/771196732-a3e1f5370f14f5720729cf778e6a24e9a2b14bc80fdc78ca53d3f1c23baa3636-d_640" tvg-website="https://digital-herodotus.eu/archive/video/items/2772/istories-tou-khorkou-001/?page=10" ,ΙΣΤΟΡΙΕΣ ΤΟΥ ΧΩΡΚΟΥ (1996) (ΣΕΙΡΑ)
+#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΑΡΧΕΙΟ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/RIK/Ιστορίες.του.χωρκού.(1996-2011)" tvg-logo="https://i.vimeocdn.com/video/771196732-a3e1f5370f14f5720729cf778e6a24e9a2b14bc80fdc78ca53d3f1c23baa3636-d_640" tvg-website="https://digital-herodotus.eu/archive/video/items/2772/istories-tou-khorkou-001/?page=10" ,ΙΣΤΟΡΙΕΣ ΤΟΥ ΧΩΡΚΟΥ (1996) (ΣΕΙΡΑ)
 SERIES$$hub://cvyod/rik/arxio/istories-tou-khorkou.txt
 #EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΑΡΧΕΙΟ ΣΕΙΡΕΣ" tvg-logo="https://i.vimeocdn.com/video/1443577012-3d9522c36692820e568ca25e293637588485342e7c322daf66400392a1e3cb4d-d_640" tvg-website="https://digital-herodotus.eu/archive/video/items/8477/odos-aksiotheas-001-erkhetai-o-koses/?page=14" ,ΟΔΟΣ ΑΞΙΟΘΕΑΣ (1998) (ΣΕΙΡΑ)
 SERIES$$hub://cvyod/rik/arxio/odos-aksiotheas.txt
@@ -3041,7 +3039,7 @@ SERIES$$hub://cvyod/rik/arxio/petrino-potami.txt
 SERIES$$hub://cvyod/rik/arxio/khalkina-khronia.txt
 #EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΑΡΧΕΙΟ ΣΕΙΡΕΣ" tvg-description="hub://desc/RIK/Η.κυρά.του.μεταξιού.(2017-2018)" tvg-logo="https://i.vimeocdn.com/video/955550748-c6773538bbf93b929649e9f848a3efa018cb665328bd6101cc0a0b2267c9c2a3-d_640" tvg-website="https://digital-herodotus.eu/archive/video/items/7142/e-kura-tou-metaksiou-a001-a002-a003/?page=131" ,Η ΚΥΡΑ ΤΟΥ ΜΕΤΑΞΙΟΥ (2017-2018) (ΣΕΙΡΑ)
 SERIES$$hub://cvyod/rik/arxio/e-kura-tou-metaksiou.txt
-#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΑΡΧΕΙΟ ΣΕΙΡΕΣ" tvg-description="hub://desc/RIK/Πεταλούδα.(2018-2019)" tvg-logo="https://i.vimeocdn.com/video/1415972414-5f8e0e8888ab170b8a9eb4ef3fbfe5a4f53445c667587f36c934e21abf0f75ea-d_640" tvg-website="https://digital-herodotus.eu/archive/video/items/8239/petalouda-a001/?page=142" ,ΠΕΤΑΛΟΥΔΑ (2018-2019) (ΣΕΙΡΑ)
+#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΑΡΧΕΙΟ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/RIK/Πεταλούδα.(2018-2019)" tvg-logo="https://i.vimeocdn.com/video/1415972414-5f8e0e8888ab170b8a9eb4ef3fbfe5a4f53445c667587f36c934e21abf0f75ea-d_640" tvg-website="https://digital-herodotus.eu/archive/video/items/8239/petalouda-a001/?page=142" ,ΠΕΤΑΛΟΥΔΑ (2018-2019) (ΣΕΙΡΑ)
 SERIES$$hub://cvyod/rik/arxio/petalouda.txt
 #EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΑΡΧΕΙΟ ΣΕΙΡΕΣ" tvg-logo="https://i.vimeocdn.com/video/1292216092-7b56d045e7f7f2cc4775a25a6f1f56d0683c9830034087d5b_640" tvg-website="https://digital-herodotus.eu/archive/search-results/?search=ΧΡΟΝΟΓΡΑΦΗΜΑ" ,ΧΡΟΝΟΓΡΑΦΗΜΑ (2018) (ΣΕΙΡΑ)
 SERIES$$hub://cvyod/rik/arxio/khronographema.txt
