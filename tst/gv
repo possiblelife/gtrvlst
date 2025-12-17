@@ -659,8 +659,6 @@ https://fl7.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 https://www.livenowfox.com/|weballdig
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/cbsnews.png" ,CBS News
 https://www.youtube.com/embed/fAtdxCiqX_o
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/africanews.png" ,Africa News
-https://www.youtube.com/embed/NQjabLGdP5g?si=3W683UnuiM7rXbjN
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/Canal24.png" ,Canal 24 Horas
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
