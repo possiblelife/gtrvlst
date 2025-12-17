@@ -62,7 +62,6 @@ https://cdn3.smart-tv-data.com/vid/ertworld/manifest.mpd
 https://www.youtube.com/watch?v=uWIhV9gQClg
 #EXTINF:-1 group-title="INTERNATIONAL"  tvg-id="Euronews" tvg-name="EURONEWS" tvg-logo="https://goo.gl/QMXKek" tvg-website="https://gr.euronews.com/" ,Euronews EN
 https://www.youtube.com/@euronews/live
-
 #EXTINF:-1 group-title="WEBTV"  tvg-logo="https://anacon.org/app/img/faroscy.jpg" tvg-website="https://www.farosonair.com/" ,FAROS on Air
 https://s1.cystream.net/live/faros1/chunks.m3u8
 #EXTINF:-1 group-title="WEBTV"  tvg-logo="https://anacon.org/app/img/faroscy.jpg" tvg-website="https://www.farosonair.com/" ,FAROS on Air2
