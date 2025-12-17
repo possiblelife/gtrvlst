@@ -565,7 +565,7 @@ https://www.youtube.com/@WBKidsInternational/videos|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/zouzounia.png" tvg-website="https://www.zouzounia.tv/" ,ΑΓΑΠΗΜΕΝΑ ΠΑΙΔΙΚΑ ΤΡΑΓΟΥΔΙΑ με τα Ζουζούνια (Youtube)
 https://www.youtube.com/@zouzounia_tv/videos|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/klapsoulinia.png" ,Κλαψουλίνια (Youtube)
-https://www.youtube.com/embed/76wyKYBnd28
+https://www.youtube.com/watch?v=76wyKYBnd28
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/Oddbods.png" ,Oddbods (Youtube)
 https://www.youtube.com/@Oddbods/videos|webepg zoom=100 scroll=0,0
 
@@ -579,13 +579,13 @@ https://eu1.streams.gr:8081/agiosioannis/index.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-id="LYCHNOS" tvg-logo="hub://logs/LYXNOC.png" tvg-website="http://i-m-patron.gr/lychnostv/" ,ΛΥΧΝΟC (ΠΕΛΟΠΟΝΝΗΣΟΥ)
 https://thor.mental-media.gr:19360/imp/imp.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-logo="hub://logs/word_of_god.png" tvg-website="https://www.wordofgod.gr/media/el" ,WORD OF GOD live (YOUTUBE)
-https://www.youtube.com/embed/bl_jfMbP2LU
+https://www.youtube.com/watch?v=bl_jfMbP2LU
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-logo="hub://logs/word_of_god.png" tvg-website="https://www.wordofgod.gr/media/el" ,WORD OF GOD (YOUTUBE)
 https://www.youtube.com/@WordofGodGR/streams|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-logo="hub://logs/ekkisia_tv.png" ,Εκκλησία tv HD
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-logo="hub://logs/ecclesiatv.png" tvg-website="https://ecclesiatv.gr/" ,ecclesiaTV.gr
-https://www.youtube.com/embed/6b807pC42ZU
+https://www.youtube.com/watch?v=6b807pC42ZU
 #EXTINF:-1  group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ" tvg-logo="hub://logs/FAROS-EKKLHSIA.png" ,FAROS TV
 https://www.twitch.tv/farostv1959|webdig
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-logo="hub://logs/ekklisia_online.png" tvg-website="https://www.ekklisiaonline.gr/" ,ΕΚΚΛΗΣΙΑ Online (YOUTUBE)
@@ -616,7 +616,7 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="RT" tvg-logo="hub://logs/Russia-today.png" tvg-name="Russia Today" tvg-website="https://www.rt.com/" ,Russia Today (2)
 https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8?
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/france24.png" tvg-website="https://www.france24.com/en/" ,FRANCE 24 (Youtube)
-https://www.youtube.com/embed/live_stream?channel=UCQfwfsi5VrQ8yKZ-UWmAEFg&modestbranding=1
+https://www.youtube.com/watch?v=Ap-UM1O9RBU
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/cnn.png" tvg-name="CNN International" tvg-website="https://edition.cnn.com/" ,CNN International
 https://cdn-fr1-eu.lncnetworks.host/hls/cnni_live/index.m3u8|referer=https://livenewschat.eu/
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/cnn.png" tvg-name="CNN International" tvg-website="https://edition.cnn.com/" ,CNN International-2
@@ -658,7 +658,7 @@ https://fl7.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/fox-now.png" ,Fox Now
 https://www.livenowfox.com/|weballdig
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/cbsnews.png" ,CBS News
-https://www.youtube.com/embed/fAtdxCiqX_o
+https://www.youtube.com/watch?v=fAtdxCiqX_o
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/Canal24.png" ,Canal 24 Horas
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
