@@ -294,3 +294,13 @@ https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/11122
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/121225|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Χοιρινές μπουκιές με καρύδι, φουντούκι, μέλι - μουστάρδα
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/hoirines-mpoykies-me-karydi-foyntoyki-meli-moystarda|webvidfulldig
+#EXTINF:-1 group-title="2025-2026",15/12/25
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/151225|webvidfulldig
+#EXTINF:-1 group-title="2025-2026",16/12/25
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/161225|webvidfulldig
+#EXTINF:-1 group-title="2025-2026",Πατάτες με τα αυγά
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/patates-me-ta-ayga|webvidfulldig
+#EXTINF:-1 group-title="2025-2026",17/12/25
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/171225|webvidfulldig
+#EXTINF:-1 group-title="2025-2026",Μελομακάρονα με φιστίκια αιγινής
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/melomakarona-me-fistikia-aiginis|webvidfulldig

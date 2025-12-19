@@ -360,8 +360,6 @@ SERIES$$hub://gvrod/skai/ekpompes/diachorizo-ti-thesi-mou.txt
 SERIES$$hub://gvrod/skai/ekpompes/the-wall.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/voice/2025_2026/logos/voice_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/The-Voice-of-Greece/sezon-2025-2026" ,The Voice of Greece (2025-2026)
 SERIES$$hub://gvrod/skai/ekpompes/The-Voice-of-Greece.txt
-#EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/exathlon/2025_2026/logos/karavas_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/exatlon/sezon-2025-2026" ,Exathlon (2025-2026)
-SERIES$$hub://gvrod/skai/ekpompes/exatlon.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/toxoume/2025_2026/logos/toxoume_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/to-choume/sezon-2025-2026" ,Το 'Χουμε! (2025-2026)
 SERIES$$hub://gvrod/skai/ekpompes/to-choume.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/weekend_live/2025_2026/logos/weekend_live_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/weekend-live/sezon-2025-2026" ,Weekend Live (2025-2026)
