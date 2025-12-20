@@ -2,10 +2,10 @@
 https://www.antenna.gr/watch/j4xetf1pa2n1jveghjpuy9js/grand-hotel-epeisodio-33|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",GRAND HOTEL – ΤΗΛΕΤΑΙΝΙΑ 05
 https://www.antenna.gr/watch/h7jum0xfx1slfder3smhcfky/grand-hotel-tiletainia-05|webvidfulldig
-#EXTINF:-1 group-title="2ος ΚΥΚΛΟΣ",GRAND HOTEL – ΕΠΕΙΣΟΔΙΟ 04
-https://www.antenna.gr/watch/ebo338i6mrrashri4jjrgd9p/grand-hotel-2os-kyklos-epeisodio-04|webvidfulldig
 #EXTINF:-1 group-title="2ος ΚΥΚΛΟΣ",GRAND HOTEL – ΕΠΕΙΣΟΔΙΟ 03
 https://www.antenna.gr/watch/h1n1oo1260s6q0qhgal3jwf3/grand-hotel-2os-kyklos-epeisodio-03|webvidfulldig
+#EXTINF:-1 group-title="2ος ΚΥΚΛΟΣ",GRAND HOTEL – ΕΠΕΙΣΟΔΙΟ 04
+https://www.antenna.gr/watch/ebo338i6mrrashri4jjrgd9p/grand-hotel-2os-kyklos-epeisodio-04|webvidfulldig
 #EXTINF:-1 group-title="2ος ΚΥΚΛΟΣ",GRAND HOTEL – ΕΠΕΙΣΟΔΙΟ 05
 https://www.antenna.gr/watch/a5rlnh82np65v2asje23c0mc/grand-hotel-2os-kyklos-epeisodio-05|webvidfulldig
 #EXTINF:-1 group-title="2ος ΚΥΚΛΟΣ",GRAND HOTEL – ΕΠΕΙΣΟΔΙΟ 06
@@ -48,14 +48,6 @@ https://www.antenna.gr/watch/tq03x1ify5g4w296100p2do2/grand-hotel-2os-kyklos-epe
 https://www.antenna.gr/watch/wod4bjmw10qy7t7hbr6xbv2f/grand-hotel-2os-kyklos-epeisodio-24|webvidfulldig
 #EXTINF:-1 group-title="2ος ΚΥΚΛΟΣ",GRAND HOTEL – ΕΠΕΙΣΟΔΙΟ 25
 https://www.antenna.gr/watch/wof6t3zts6xl219cbh7e0bb1/grand-hotel-2os-kyklos-epeisodio-25|webvidfulldig
-#EXTINF:-1 group-title="2ος ΚΥΚΛΟΣ",GRAND HOTEL – ΕΠΕΙΣΟΔΙΟ 38
-https://www.antenna.gr/watch/qg9qzi0ygnrrzfze4mvnz2ag/grand-hotel-2os-kyklos-epeisodio-38|webvidfulldig
-#EXTINF:-1 group-title="2ος ΚΥΚΛΟΣ",GRAND HOTEL – ΕΠΕΙΣΟΔΙΟ 37
-https://www.antenna.gr/watch/acsjoflj6j653po2o5qe12cm/grand-hotel-2os-kyklos-epeisodio-37|webvidfulldig
-#EXTINF:-1 group-title="2ος ΚΥΚΛΟΣ",GRAND HOTEL – ΕΠΕΙΣΟΔΙΟ 39
-https://www.antenna.gr/watch/k7skjn1mh9nysj9de21smapv/grand-hotel-2os-kyklos-epeisodio-39|webvidfulldig
-#EXTINF:-1 group-title="2ος ΚΥΚΛΟΣ",GRAND HOTEL – ΕΠΕΙΣΟΔΙΟ 40
-https://www.antenna.gr/watch/iniplpfs1xmptlymwrxiibn4/grand-hotel-2os-kyklos-epeisodio-40|webvidfulldig
 #EXTINF:-1 group-title="2ος ΚΥΚΛΟΣ",GRAND HOTEL – ΕΠΕΙΣΟΔΙΟ 26
 https://www.antenna.gr/watch/icdnk8afu26kgb84q8dk960b/grand-hotel-2os-kyklos-epeisodio-26|webvidfulldig
 #EXTINF:-1 group-title="2ος ΚΥΚΛΟΣ",GRAND HOTEL – ΕΠΕΙΣΟΔΙΟ 27
@@ -64,6 +56,14 @@ https://www.antenna.gr/watch/s5w8pneew2376d73be7slk97/grand-hotel-2os-kyklos-epe
 https://www.antenna.gr/watch/soii03tlr9f0hj66rdb243q5/grand-hotel-2os-kyklos-epeisodio-28|webvidfulldig
 #EXTINF:-1 group-title="2ος ΚΥΚΛΟΣ",GRAND HOTEL – ΕΠΕΙΣΟΔΙΟ 29
 https://www.antenna.gr/watch/jbmwp4s7h7prj93tzd8ipt7x/grand-hotel-2os-kyklos-epeisodio-29|webvidfulldig
+#EXTINF:-1 group-title="2ος ΚΥΚΛΟΣ",GRAND HOTEL – ΕΠΕΙΣΟΔΙΟ 37
+https://www.antenna.gr/watch/acsjoflj6j653po2o5qe12cm/grand-hotel-2os-kyklos-epeisodio-37|webvidfulldig
+#EXTINF:-1 group-title="2ος ΚΥΚΛΟΣ",GRAND HOTEL – ΕΠΕΙΣΟΔΙΟ 38
+https://www.antenna.gr/watch/qg9qzi0ygnrrzfze4mvnz2ag/grand-hotel-2os-kyklos-epeisodio-38|webvidfulldig
+#EXTINF:-1 group-title="2ος ΚΥΚΛΟΣ",GRAND HOTEL – ΕΠΕΙΣΟΔΙΟ 39
+https://www.antenna.gr/watch/k7skjn1mh9nysj9de21smapv/grand-hotel-2os-kyklos-epeisodio-39|webvidfulldig
+#EXTINF:-1 group-title="2ος ΚΥΚΛΟΣ",GRAND HOTEL – ΕΠΕΙΣΟΔΙΟ 40
+https://www.antenna.gr/watch/iniplpfs1xmptlymwrxiibn4/grand-hotel-2os-kyklos-epeisodio-40|webvidfulldig
 #EXTINF:-1 group-title="2ος ΚΥΚΛΟΣ",GRAND HOTEL – ΕΠΕΙΣΟΔΙΟ 41
 https://www.antenna.gr/watch/ig71e9dp7z87z74i7ilgp8ai/grand-hotel-2os-kyklos-epeisodio-41|webvidfulldig
 #EXTINF:-1 group-title="2ος ΚΥΚΛΟΣ",GRAND HOTEL – ΕΠΕΙΣΟΔΙΟ 42
@@ -72,9 +72,9 @@ https://www.antenna.gr/watch/a70r5p9peiczyz2lus1uhlzn/grand-hotel-2os-kyklos-epe
 https://www.antenna.gr/watch/ff07qk0ao0z5ar3onwj4a0jj/grand-hotel-2os-kyklos-epeisodio-43|webvidfulldig
 #EXTINF:-1 group-title="2ος ΚΥΚΛΟΣ",GRAND HOTEL – ΕΠΕΙΣΟΔΙΟ 44
 https://www.antenna.gr/watch/gjpwq045kxrrexk64wyngd96/grand-hotel-2os-kyklos-epeisodio-44|webvidfulldig
-#EXTINF:-1 group-title="2ος ΚΥΚΛΟΣ",GRAND HOTEL – ΕΠΕΙΣΟΔΙΟ 46
-https://www.antenna.gr/watch/iswtse2hxgwmn8tnaeke8yn8/grand-hotel-2os-kyklos-epeisodio-46|webvidfulldig
 #EXTINF:-1 group-title="2ος ΚΥΚΛΟΣ",GRAND HOTEL – ΕΠΕΙΣΟΔΙΟ 45
 https://www.antenna.gr/watch/gaim2ll7jwfi0hgielma5ecm/grand-hotel-2os-kyklos-epeisodio-45|webvidfulldig
+#EXTINF:-1 group-title="2ος ΚΥΚΛΟΣ",GRAND HOTEL – ΕΠΕΙΣΟΔΙΟ 46
+https://www.antenna.gr/watch/iswtse2hxgwmn8tnaeke8yn8/grand-hotel-2os-kyklos-epeisodio-46|webvidfulldig
 #EXTINF:-1 group-title="2ος ΚΥΚΛΟΣ",GRAND HOTEL – ΕΠΕΙΣΟΔΙΟ 47
 https://www.antenna.gr/watch/fmpj297sb0lirwtgu0i6ojbn/grand-hotel-2os-kyklos-epeisodio-47|webvidfulldig
