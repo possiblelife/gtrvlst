@@ -31687,61 +31687,6 @@ Project Manager: Άριστος Αριστείδου
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/TRIKYMIA_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251223064500 +0200" stop="20251223093000 +0200" channel="rik1">
-    <title lang="el">Πρώτη Ενημέρωση</title>
-   <desc lang="el">Καθημερινή ενημερωτική εκπομπή που μεταφέρει υπεύθυνα και έγκαιρα όλες τις εξελίξεις από την Κύπρο και τον κόσμο.
-Με πλήρες δελτίο ειδήσεων, ζωντανές συνδέσεις, ρεπορτάζ και ανταποκρίσεις, καθώς και φιλοξενούμενους στο στούντιο που σχολιάζουν και αναλύουν την επικαιρότητα.
-Δημοσιογραφική Επιμέλεια / Παρουσίαση: Σταύρος Κυπριανού, Σταυριανή Κωνσταντίνου
-Επιμέλεια / Παρουσίαση Δελτίου: Ευγενία Σέργη
-Επιμέλεια Παραγωγής – Συντονισμός: Πανίκος Νικολάου
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/23/PROTH_ii_ENHMEROSH_S.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20251223093000 +0200" stop="20251223110000 +0200" channel="rik1">
-    <title lang="el">Όμορφη Μέρα</title>
-   <desc lang="el">Με όμορφη και χαλαρή διάθεση, με κέφι και ποικιλία θεμάτων, η Όμορφη Μέρα επανέρχεται ανανεωμένη. Ψυχαγωγία, πολιτισμός, μαγειρική, ομορφιά, υγεία.
-Δημοσιογραφική επιμέλεια, Παρουσίαση: Αγγελική Νικηφόρου
-Επιμέλεια Παραγωγής - Σκηνοθεσία: Σόνια Δημητρίου και Χρυστάλλα Αυγουστή
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/12/S_OMORFH_MERA_25.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20251223110000 +0200" stop="20251223140000 +0200" channel="rik1">
-    <title lang="el">Από Μέρα σε Μέρα</title>
-   <desc lang="el">Μεσημβρινή, ζωντανή, ενημερωτική εκπομπή που παρουσιάζει και αναλύει όλη την επικαιρότητα της ημέρας. Με συζητήσεις, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις, η εκπομπή μεταφέρει τον παλμό της επικαιρότητας και τις εξελίξεις στον τοπικό και διεθνή χώρο, με σοβαρότητα και υπευθυνότητα. Καθημερινά από τις 11:00 μέχρι τις 14:00.
-Δημοσιογραφική Επιμέλεια-Παρουσίαση: Κώστας Κωνσταντίνου, Τάσος Χριστοδούλου, Κατερίνα Χαραλάμπους
-Επιμέλεια Παραγωγής –Σκηνοθεσία: Άντρεα Αγγελίδου, Ζωή Σοφού, Άντρη Κωνσταντίνου
-εσημβρινή, ζωντανή, ενημερωτική εκπομπή που παρουσιάζει και αναλύει όλη την επικαιρότητα της ημέρας. Με συζητήσεις, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις, η εκπομπή μεταφέρει τον παλμό της επικαιρότητας και τις εξελίξεις στον τοπικό και διεθνή χώρο, με σοβαρότητα και υπευθυνότητα.
-Δημοσιογραφική Επιμέλεια-Παρουσίαση: Κώστας Κωνσταντίνου, Τάσος Χριστοδούλου, Κατερίνα ΧαραλάμπουςΕπιμέλεια Παραγωγής –Σκηνοθεσία: Άντρεα Αγγελίδου, Ζωή Σοφού, Άντρη Κωνσταντίνου
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/23/APO_MERA_S_NEW.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20251223140000 +0200" stop="20251223143000 +0200" channel="rik1">
-    <title lang="el">Ειδήσεις</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251223143000 +0200" stop="20251223153000 +0200" channel="rik1">
-    <title lang="el">Εμείς κι ο Κόσμος μας</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251223153000 +0200" stop="20251223160000 +0200" channel="rik1">
-    <title lang="el">Γευστικό Ταξίδι</title>
-   <desc lang="el">Εκπομπή μαγειρικής που μας ταξιδεύει σε γεύσεις και αρώματα από την τοπική και τη διεθνή κουζίνα. Ο chef Χρίστος Χριστοδούλου, μοιράζεται μαζί μας τις δικές του μαγειρικές εμπειρίες.
-Κάθε Πέμπτη και Παρασκευή &quot;Γευστικό Ταξίδι στο χωριό&quot;. Μέσα από τις ομορφιές της κυπριακής υπαίθρου και τους ανθρώπους της, ανακαλύπτουμε σπάνιες συνταγές και συνθέτουμε τη γαστρονομική κουλτούρα του νησιού μας.
-
-Παρουσίαση: Χρίστος Χριστοδούλου
-Επιμέλεια Παραγωγής-Σκηνοθεσία: Μενέλαος Χατζηστυλλής
-
-</desc>
-   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/19/GEYSTIKO_TAKSIDI_S.2e16d0ba.fill-350x500.jpg"/>
-  </programme>
-  <programme start="20251223160000 +0200" stop="20251223163000 +0200" channel="rik1">
-    <title lang="el">Καμώματα τζι Αρώματα</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251223163000 +0200" stop="20251223180000 +0200" channel="rik1">
-    <title lang="el">p.m. ΣΤΟ ΡΙΚ</title>
-   <desc lang="el"></desc>
-  </programme>
   <programme start="20251223180000 +0200" stop="20251223183000 +0200" channel="rik1">
     <title lang="el">Ειδήσεις στις 18:00</title>
    <desc lang="el"></desc>
@@ -31849,15 +31794,25 @@ Project Manager: Άριστος Αριστείδου
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/TRIKYMIA_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251223222000 +0200" stop="20251223230000 +0200" channel="rik2">
-    <title lang="el">Open Doors Monaco</title>
-   <desc lang="el"></desc>
+  <programme start="20251223064500 +0200" stop="20251223093000 +0200" channel="rik1">
+    <title lang="el">Πρώτη Ενημέρωση</title>
+   <desc lang="el">Καθημερινή ενημερωτική εκπομπή που μεταφέρει υπεύθυνα και έγκαιρα όλες τις εξελίξεις από την Κύπρο και τον κόσμο.
+Με πλήρες δελτίο ειδήσεων, ζωντανές συνδέσεις, ρεπορτάζ και ανταποκρίσεις, καθώς και φιλοξενούμενους στο στούντιο που σχολιάζουν και αναλύουν την επικαιρότητα.
+Δημοσιογραφική Επιμέλεια / Παρουσίαση: Σταύρος Κυπριανού, Σταυριανή Κωνσταντίνου
+Επιμέλεια / Παρουσίαση Δελτίου: Ευγενία Σέργη
+Επιμέλεια Παραγωγής – Συντονισμός: Πανίκος Νικολάου
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/23/PROTH_ii_ENHMEROSH_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251223230000 +0200" stop="20251224000000 +0200" channel="rik2">
-    <title lang="el">Εμείς κι ο Κόσμος μας</title>
-   <desc lang="el"></desc>
+  <programme start="20251223093000 +0200" stop="20251223110000 +0200" channel="rik1">
+    <title lang="el">Όμορφη Μέρα</title>
+   <desc lang="el">Με όμορφη και χαλαρή διάθεση, με κέφι και ποικιλία θεμάτων, η Όμορφη Μέρα επανέρχεται ανανεωμένη. Ψυχαγωγία, πολιτισμός, μαγειρική, ομορφιά, υγεία.
+Δημοσιογραφική επιμέλεια, Παρουσίαση: Αγγελική Νικηφόρου
+Επιμέλεια Παραγωγής - Σκηνοθεσία: Σόνια Δημητρίου και Χρυστάλλα Αυγουστή
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/12/S_OMORFH_MERA_25.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251224001000 +0200" stop="20251224031000 +0200" channel="rik2">
+  <programme start="20251223110000 +0200" stop="20251223140000 +0200" channel="rik1">
     <title lang="el">Από Μέρα σε Μέρα</title>
    <desc lang="el">Μεσημβρινή, ζωντανή, ενημερωτική εκπομπή που παρουσιάζει και αναλύει όλη την επικαιρότητα της ημέρας. Με συζητήσεις, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις, η εκπομπή μεταφέρει τον παλμό της επικαιρότητας και τις εξελίξεις στον τοπικό και διεθνή χώρο, με σοβαρότητα και υπευθυνότητα. Καθημερινά από τις 11:00 μέχρι τις 14:00.
 Δημοσιογραφική Επιμέλεια-Παρουσίαση: Κώστας Κωνσταντίνου, Τάσος Χριστοδούλου, Κατερίνα Χαραλάμπους
@@ -31867,24 +31822,31 @@ Project Manager: Άριστος Αριστείδου
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/23/APO_MERA_S_NEW.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-  <programme start="20251224031000 +0200" stop="20251224034000 +0200" channel="rik2">
-    <title lang="el">Χωρίς Αποσκευες</title>
+  <programme start="20251223140000 +0200" stop="20251223143000 +0200" channel="rik1">
+    <title lang="el">Ειδήσεις</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251224034000 +0200" stop="20251223043000 +0200" channel="rik2">
-    <title lang="el">Coolest Places to Stay</title>
+  <programme start="20251223143000 +0200" stop="20251223153000 +0200" channel="rik1">
+    <title lang="el">Εμείς κι ο Κόσμος μας</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251223043000 +0200" stop="20251223050000 +0200" channel="rik2">
-    <title lang="el">Χωρίς Αποσκευες</title>
+  <programme start="20251223153000 +0200" stop="20251223160000 +0200" channel="rik1">
+    <title lang="el">Γευστικό Ταξίδι</title>
+   <desc lang="el">Εκπομπή μαγειρικής που μας ταξιδεύει σε γεύσεις και αρώματα από την τοπική και τη διεθνή κουζίνα. Ο chef Χρίστος Χριστοδούλου, μοιράζεται μαζί μας τις δικές του μαγειρικές εμπειρίες.
+Κάθε Πέμπτη και Παρασκευή &quot;Γευστικό Ταξίδι στο χωριό&quot;. Μέσα από τις ομορφιές της κυπριακής υπαίθρου και τους ανθρώπους της, ανακαλύπτουμε σπάνιες συνταγές και συνθέτουμε τη γαστρονομική κουλτούρα του νησιού μας.
+
+Παρουσίαση: Χρίστος Χριστοδούλου
+Επιμέλεια Παραγωγής-Σκηνοθεσία: Μενέλαος Χατζηστυλλής
+
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/19/GEYSTIKO_TAKSIDI_S.2e16d0ba.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20251223160000 +0200" stop="20251223163000 +0200" channel="rik1">
+    <title lang="el">Καμώματα τζι Αρώματα</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251223050000 +0200" stop="20251223055000 +0200" channel="rik2">
-    <title lang="el">Eight is Enough</title>
-   <desc lang="el"></desc>
-  </programme>
-  <programme start="20251223055000 +0200" stop="20251223063000 +0200" channel="rik2">
-    <title lang="el">All Creatures Great and Small</title>
+  <programme start="20251223163000 +0200" stop="20251223180000 +0200" channel="rik1">
+    <title lang="el">p.m. ΣΤΟ ΡΙΚ</title>
    <desc lang="el"></desc>
   </programme>
   <programme start="20251223070000 +0200" stop="20251223153000 +0200" channel="rik2">
@@ -31945,6 +31907,44 @@ Project Manager: Άριστος Αριστείδου
   </programme>
   <programme start="20251223215000 +0200" stop="20251223222000 +0200" channel="rik2">
     <title lang="el">Christmas Clips</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251223222000 +0200" stop="20251223230000 +0200" channel="rik2">
+    <title lang="el">Open Doors Monaco</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251223230000 +0200" stop="20251224000000 +0200" channel="rik2">
+    <title lang="el">Εμείς κι ο Κόσμος μας</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251224001000 +0200" stop="20251224031000 +0200" channel="rik2">
+    <title lang="el">Από Μέρα σε Μέρα</title>
+   <desc lang="el">Μεσημβρινή, ζωντανή, ενημερωτική εκπομπή που παρουσιάζει και αναλύει όλη την επικαιρότητα της ημέρας. Με συζητήσεις, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις, η εκπομπή μεταφέρει τον παλμό της επικαιρότητας και τις εξελίξεις στον τοπικό και διεθνή χώρο, με σοβαρότητα και υπευθυνότητα. Καθημερινά από τις 11:00 μέχρι τις 14:00.
+Δημοσιογραφική Επιμέλεια-Παρουσίαση: Κώστας Κωνσταντίνου, Τάσος Χριστοδούλου, Κατερίνα Χαραλάμπους
+Επιμέλεια Παραγωγής –Σκηνοθεσία: Άντρεα Αγγελίδου, Ζωή Σοφού, Άντρη Κωνσταντίνου
+εσημβρινή, ζωντανή, ενημερωτική εκπομπή που παρουσιάζει και αναλύει όλη την επικαιρότητα της ημέρας. Με συζητήσεις, ρεπορτάζ, ζωντανές συνδέσεις και ανταποκρίσεις, η εκπομπή μεταφέρει τον παλμό της επικαιρότητας και τις εξελίξεις στον τοπικό και διεθνή χώρο, με σοβαρότητα και υπευθυνότητα.
+Δημοσιογραφική Επιμέλεια-Παρουσίαση: Κώστας Κωνσταντίνου, Τάσος Χριστοδούλου, Κατερίνα ΧαραλάμπουςΕπιμέλεια Παραγωγής –Σκηνοθεσία: Άντρεα Αγγελίδου, Ζωή Σοφού, Άντρη Κωνσταντίνου
+</desc>
+   <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/23/APO_MERA_S_NEW.2e16d0ba.fill-350x500.jpg"/>
+  </programme>
+  <programme start="20251224031000 +0200" stop="20251224034000 +0200" channel="rik2">
+    <title lang="el">Χωρίς Αποσκευες</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251224034000 +0200" stop="20251223043000 +0200" channel="rik2">
+    <title lang="el">Coolest Places to Stay</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251223043000 +0200" stop="20251223050000 +0200" channel="rik2">
+    <title lang="el">Χωρίς Αποσκευες</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251223050000 +0200" stop="20251223055000 +0200" channel="rik2">
+    <title lang="el">Eight is Enough</title>
+   <desc lang="el"></desc>
+  </programme>
+  <programme start="20251223055000 +0200" stop="20251223063000 +0200" channel="rik2">
+    <title lang="el">All Creatures Great and Small</title>
    <desc lang="el"></desc>
   </programme>
   <programme start="20251223064500 +0200" stop="20251223093000 +0200" channel="riksat">
@@ -33661,71 +33661,71 @@ Project Manager: Άριστος Αριστείδου
     <title lang="el">Στο Παρά 5</title>
    <desc lang="el"></desc>
   </programme>
-  <programme start="20251224070000 +0200" stop="20251221120000 +0200" channel="extacy">
+  <programme start="20251221070000 +0200" stop="20251221120000 +0200" channel="extacy">
     <title lang="el">Παιδικό πρόγραμμα</title>
    <desc lang="el">Το καλύτερο παιδικό πρόγραμμα για τους μικρούς μας φίλους.</desc>
   </programme>
-  <programme start="20251224120000 +0200" stop="20251221150000 +0200" channel="extacy">
+  <programme start="20251221120000 +0200" stop="20251221150000 +0200" channel="extacy">
     <title lang="el">Ελληνικές ταινίες 80ς-90ς</title>
    <desc lang="el">Μια σειρά από κλασικές ελληνικές ταινίες που θα σας ταξιδέψουν στο παρελθόν.</desc>
   </programme>
-  <programme start="20251224150000 +0200" stop="20251221203000 +0200" channel="extacy">
+  <programme start="20251221150000 +0200" stop="20251221203000 +0200" channel="extacy">
     <title lang="el">Ξένες ταινίες</title>
    <desc lang="el">Μια διεθνής παραγωγή που θα σας κρατήσει σε αγωνία.</desc>
   </programme>
-  <programme start="20251224203000 +0200" stop="20251221220000 +0200" channel="extacy">
+  <programme start="20251221203000 +0200" stop="20251221220000 +0200" channel="extacy">
     <title lang="el">Ταινία Disney</title>
    <desc lang="el">Αγαπημένες ταινίες της Disney για όλη την οικογένεια.</desc>
   </programme>
-  <programme start="20251224220000 +0200" stop="20251222010000 +0200" channel="extacy">
+  <programme start="20251221220000 +0200" stop="20251222010000 +0200" channel="extacy">
     <title lang="el">Extacy Movie Night</title>
    <desc lang="el">Μια βραδιά γεμάτη με τις καλύτερες ταινίες του κινηματογράφου.</desc>
   </programme>
-  <programme start="20251224010000 +0200" stop="20251222070000 +0200" channel="extacy">
+  <programme start="20251222010000 +0200" stop="20251222070000 +0200" channel="extacy">
     <title lang="el">Extacy Horror Night</title>
    <desc lang="el">Μια επιλογή από δυνατές ταινίες τρόμου που θα σας καθηλώσουν κάθε βράδυ με αγωνία και ανατριχίλα.</desc>
   </programme>
-  <programme start="20251224070000 +0200" stop="20251222120000 +0200" channel="extacy">
+  <programme start="20251222070000 +0200" stop="20251222120000 +0200" channel="extacy">
     <title lang="el">Παιδικό πρόγραμμα</title>
    <desc lang="el">Το καλύτερο παιδικό πρόγραμμα για τους μικρούς μας φίλους.</desc>
   </programme>
-  <programme start="20251224120000 +0200" stop="20251222150000 +0200" channel="extacy">
+  <programme start="20251222120000 +0200" stop="20251222150000 +0200" channel="extacy">
     <title lang="el">Ελληνικές ταινίες 80ς-90ς</title>
    <desc lang="el">Μια σειρά από κλασικές ελληνικές ταινίες που θα σας ταξιδέψουν στο παρελθόν.</desc>
   </programme>
-  <programme start="20251224150000 +0200" stop="20251222203000 +0200" channel="extacy">
+  <programme start="20251222150000 +0200" stop="20251222203000 +0200" channel="extacy">
     <title lang="el">Ξένες ταινίες</title>
    <desc lang="el">Μια διεθνής παραγωγή που θα σας κρατήσει σε αγωνία.</desc>
   </programme>
-  <programme start="20251224203000 +0200" stop="20251222220000 +0200" channel="extacy">
+  <programme start="20251222203000 +0200" stop="20251222220000 +0200" channel="extacy">
     <title lang="el">Ταινία Disney</title>
    <desc lang="el">Αγαπημένες ταινίες της Disney για όλη την οικογένεια.</desc>
   </programme>
-  <programme start="20251224220000 +0200" stop="20251223010000 +0200" channel="extacy">
+  <programme start="20251222220000 +0200" stop="20251223010000 +0200" channel="extacy">
     <title lang="el">Extacy Movie Night</title>
    <desc lang="el">Μια βραδιά γεμάτη με τις καλύτερες ταινίες του κινηματογράφου.</desc>
   </programme>
-  <programme start="20251224010000 +0200" stop="20251224070000 +0200" channel="extacy">
+  <programme start="20251223010000 +0200" stop="20251224070000 +0200" channel="extacy">
     <title lang="el">Extacy Horror Night</title>
    <desc lang="el">Μια επιλογή από δυνατές ταινίες τρόμου που θα σας καθηλώσουν κάθε βράδυ με αγωνία και ανατριχίλα.</desc>
   </programme>
-  <programme start="20251224070000 +0200" stop="20251223120000 +0200" channel="extacy">
+  <programme start="20251223070000 +0200" stop="20251223120000 +0200" channel="extacy">
     <title lang="el">Παιδικό πρόγραμμα</title>
    <desc lang="el">Το καλύτερο παιδικό πρόγραμμα για τους μικρούς μας φίλους.</desc>
   </programme>
-  <programme start="20251224120000 +0200" stop="20251223150000 +0200" channel="extacy">
+  <programme start="20251223120000 +0200" stop="20251223150000 +0200" channel="extacy">
     <title lang="el">Ελληνικές ταινίες 80ς-90ς</title>
    <desc lang="el">Μια σειρά από κλασικές ελληνικές ταινίες που θα σας ταξιδέψουν στο παρελθόν.</desc>
   </programme>
-  <programme start="20251224150000 +0200" stop="20251223203000 +0200" channel="extacy">
+  <programme start="20251223150000 +0200" stop="20251223203000 +0200" channel="extacy">
     <title lang="el">Ξένες ταινίες</title>
    <desc lang="el">Μια διεθνής παραγωγή που θα σας κρατήσει σε αγωνία.</desc>
   </programme>
-  <programme start="20251224203000 +0200" stop="20251223220000 +0200" channel="extacy">
+  <programme start="20251223203000 +0200" stop="20251223220000 +0200" channel="extacy">
     <title lang="el">Ταινία Disney</title>
    <desc lang="el">Αγαπημένες ταινίες της Disney για όλη την οικογένεια.</desc>
   </programme>
-  <programme start="20251224220000 +0200" stop="20251224010000 +0200" channel="extacy">
+  <programme start="20251223220000 +0200" stop="20251224010000 +0200" channel="extacy">
     <title lang="el">Extacy Movie Night</title>
    <desc lang="el">Μια βραδιά γεμάτη με τις καλύτερες ταινίες του κινηματογράφου.</desc>
   </programme>
