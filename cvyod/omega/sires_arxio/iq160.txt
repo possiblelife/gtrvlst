@@ -70,3 +70,5 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=218118&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=218267&-V=vod|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 03 Επεισόδιο 008 IQ 160
 https://www.omegatv.com.cy/cgibin/hweb?-A=218429&-V=vod|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Σεζόν 03 Επεισόδιο 009 IQ 160
+https://www.omegatv.com.cy/cgibin/hweb?-A=218653&-V=vod|webfulldig

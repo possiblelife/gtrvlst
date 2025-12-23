@@ -650,8 +650,6 @@ https://v6.cloudskep.com/rikvod/omorfimerakathemera/omorfi110625.mp4?attachment=
 https://v6.cloudskep.com/rikvod/omorfimerakathemera/omorfi120625.mp4?attachment=true
 #EXTINF:-1 group-title="Season 2",Όμορφη Μέρα 13/06/25
 https://v6.cloudskep.com/rikvod/omorfimerakathemera/omorfi130625.mp4?attachment=true
-#EXTINF:-1 group-title="Season 3",Όμορφη Μέρα 15/12/25
-https://v6.cloudskep.com/rikvod/omorfimerakathemera2/omorfi151225.mp4?attachment=true
 #EXTINF:-1 group-title="Season 3",Όμορφη Μέρα 16/12/25
 https://v6.cloudskep.com/rikvod/omorfimerakathemera2/omorfi161225.mp4?attachment=true
 #EXTINF:-1 group-title="Season 3",Όμορφη Μέρα 17/12/25
@@ -660,3 +658,5 @@ https://v6.cloudskep.com/rikvod/omorfimerakathemera2/omorfi171225.mp4?attachment
 https://v6.cloudskep.com/rikvod/omorfimerakathemera2/omorfi181225.mp4?attachment=true
 #EXTINF:-1 group-title="Season 3",Όμορφη Μέρα 19/12/25
 https://v6.cloudskep.com/rikvod/omorfimerakathemera2/omorfi191225.mp4?attachment=true
+#EXTINF:-1 group-title="Season 3",Όμορφη Μέρα 22/12/25
+https://v6.cloudskep.com/rikvod/omorfimerakathemera2/omorfi221225.mp4?attachment=true

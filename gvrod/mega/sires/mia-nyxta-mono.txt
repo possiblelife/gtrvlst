@@ -46,3 +46,7 @@ https://www.megatv.com/tvshows/2200318/epeisodio-22-80/|webfulldig
 https://www.megatv.com/tvshows/2200324/epeisodio-23-77/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 24
 https://www.megatv.com/tvshows/2200330/epeisodio-24-78/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 25
+https://www.megatv.com/tvshows/2208388/epeisodio-25-74/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 26
+https://www.megatv.com/tvshows/2208394/epeisodio-26-72/|webfulldig
