@@ -1406,3 +1406,7 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64223&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64224&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Αδέρφια
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64285&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Μετ&#39; εμποδίων
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64286&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",Το ανίψι μου
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64287&showId=869&year=2025|webvidfulldig

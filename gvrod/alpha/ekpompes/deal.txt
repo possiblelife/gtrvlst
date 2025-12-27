@@ -1,11 +1,3 @@
-#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 46
-https://www.alphatv.gr/show/deal/?vtype=player&vid=63949&showId=254&year=2025|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 47
-https://www.alphatv.gr/show/deal/?vtype=player&vid=63950&showId=254&year=2025|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 48
-https://www.alphatv.gr/show/deal/?vtype=player&vid=63951&showId=254&year=2025|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 49
-https://www.alphatv.gr/show/deal/?vtype=player&vid=63952&showId=254&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 50
 https://www.alphatv.gr/show/deal/?vtype=player&vid=63953&showId=254&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 51
@@ -40,3 +32,7 @@ https://www.alphatv.gr/show/deal/?vtype=player&vid=64219&showId=254&year=2025|we
 https://www.alphatv.gr/show/deal/?vtype=player&vid=64220&showId=254&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 66
 https://www.alphatv.gr/show/deal/?vtype=player&vid=64282&showId=254&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 67
+https://www.alphatv.gr/show/deal/?vtype=player&vid=64283&showId=254&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 68
+https://www.alphatv.gr/show/deal/?vtype=player&vid=64284&showId=254&year=2025|webvidfulldig
