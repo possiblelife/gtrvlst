@@ -316,11 +316,9 @@ https://verginanews.gr:8443/hls_live/stream2.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/red.png" ,===== ΔΙΑΔΙΚΤΥΑΚΑ ====
 http://.....
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"   tvg-id="ert-news" tvg-logo="hub://logs/ertnews.png" tvg-name="ΕΡΤ News" tvg-website="https://www.ertflix.gr" ,ΕΡΤ News
-http://ertflix.siliconweb.com/mpegts/618618_2341569/master_mpegts.m3u8
+https://cdn3.smart-tv-data.com/vid/ertnews/manifest.mpd
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"   tvg-id="ert-news" tvg-logo="hub://logs/ertnews.png" tvg-name="ΕΡΤ News" tvg-website="https://www.ertflix.gr" ,ΕΡΤ News (1)
 http://ertflix.ascdn.broadpeak.io/ertlive/ertnews/default/index.m3u8
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"   tvg-id="ert-news" tvg-logo="hub://logs/ertnews.png" tvg-name="ΕΡΤ News" tvg-website="https://www.ertflix.gr" ,ΕΡΤ News (2)
-http://ertflix.akamaized.net/ertlive/ertsports3/default/index.mpd
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/ertnews.png" tvg-website="https://www.ertflix.gr" ,ΕΡΤ News 2
 http://ertflix.siliconweb.com/cmaf/618618_3479304/index.mpd
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/ertnews.png" tvg-website="https://www.ertflix.gr" ,ΕΡΤ News 3
@@ -357,16 +355,12 @@ https://2-fss-1.streamhoster.com/pl_148/203374-5434856-1/chunklist.m3u8
 https://live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logs/konitsa-tv.png" tvg-website="https://konitsa-tv7.webnode.gr/" ,KONITSA TV
 https://live20.bozztv.com/akamaissh101/ssh101/konitsalivetv/playlist.m3u8
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logs/xtv.png" ,X TV
-https://m.twitch.tv/xtvision|webdig
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logs/ime_webtv.png" tvg-website="http://tv.ime.gr/" ,IME Web TV
 http://theagenis.fhw.gr:8080/hls/maintv/index.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/hellenic_tv.png" tvg-website="https://www.hellenictv.net/" ,Hellenic TV
 https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/lapsi.png" tvg-website="https://www.gamostv.eu/" ,Λάμψη Tv
 https://webm.pp.ua:59000/lampsitv.webm
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/iview.png" ,i-view TV
-https://www.twitch.tv/iviewtvgr|webdig
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logs/village.png"  ,VILLAGE WORLD
 https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logs/athes-geo-tv.png"  ,ATHENS Geo. TV
@@ -393,8 +387,7 @@ https://pro.free.hr:3887/live/pronewslive.m3u8
 https://www.twitch.tv/extrapronewstv|weballdig
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logs/plutontv.png" ,Pluton TV
 https://web.onair-radio.eu/plutontv/plutontv/playlist.m3u8
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logs/patratv.png" ,Patra TV
-https://live20.bozztv.com/akamaissh101/ssh101/myptv2025/playlist.m3u8
+
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="hub://logs/red.png" ,===== ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ ====
 http://.....
@@ -441,8 +434,6 @@ https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
 https://eu1.streams.gr:8081/choicetv/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="hub://logs/ionia.png" ,ΙΩΝΙΑ ΤV
 https://live20.bozztv.com/akamaissh101/ssh101/tvioniathess/playlist.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="hub://logs/ionia.png" ,SPESIAL TV
-https://vdo.alphaserver.gr:3128/stream/play.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="hub://logs/Dipolo.png" ,Dipolo TV
 https://channel.streams.ovh:8081/dipolotv/index.m3u8
 
@@ -457,8 +448,6 @@ https://stream.castr.com/677fafaf8ca2a4c22070dcd7/live_630666b0fe9911ef8b76c5c61
 https://rtmp.streams.ovh:8081/netvmusic/index.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/ertmusic.png" tvg-name="ErtFlix Music" ,ErtFlix Music
 http://195.226.218.163/vid/ertplay5/mpeg.2ts
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/ertmusic.png" tvg-name="ErtFlix Music" ,ErtFlix Music (2)
-https://ertflix.akamaized.net/ertlive/music/default/index.mpd
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/mad_radio.png" tvg-website="https://mad.tv/mad-radio/live-streaming/" ,Mad Radio 106.2 (Youtube)
 https://mad.gr/mad-radio/live-streaming/|youtubedig
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/kisshd.png" ,KISS HD
@@ -475,8 +464,6 @@ https://gra1.crystalweb.net:1936/barazatv/barazatv/playlist.m3u8
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="hub://logs/baraza.png" tvg-website="https://app.barazaradio.com/" ,Baraza DJ MUSIC
 https://gra1.crystalweb.net:1936/barazadjmusic/barazadjmusic/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="hub://logs/baraza.png" tvg-website="https://app.barazaradio.com/" ,Baraza MUSIC TV
-https://media2.streambrothers.com:19360/8106/8106.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="hub://logs/real-music.png" tvg-website="http://www.realmusic.gr/" ,Real Music TV
 https://webtv.topwebhost.gr:3302/stream/play.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/THLE_MOUSIKH.png" ,ΤΗΛΕ ΜΟΥΣΙΚΗ
@@ -511,8 +498,6 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="hub://logs/v2b.png" ,V2BEAT TV
 https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="hub://logs/net_music.png" ,ΝΕΤ ΜUSIC
-https://us1.vectromdigital.com:1936/netvmusic/netvmusic/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="hub://logs/onar.png" ,ONAR TV
 https://live20.bozztv.com/akamaissh101/ssh101/onarradiotv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="hub://logs/dejavufm.png" ,Dejavufm
@@ -601,7 +586,7 @@ https://www.youtube.com/@euronews/live
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="hub://logs/africanews.png tvg-website="https://www.africanews.com/live/" ,AfricaNews
 https://www.youtube.com/watch?v=NQjabLGdP5g
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="Al Jazeera English" tvg-logo="hub://logs/alzaera.png" tvg-website="https://www.aljazeera.com/" ,Al Jazeera
-https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="RT" tvg-logo="hub://logs/Russia-today.png"  tvg-name="Russia Today" tvg-website="https://www.rt.com/" ,Russia Today
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="RT" tvg-logo="hub://logs/Russia-today.png" tvg-name="Russia Today" tvg-website="https://www.rt.com/" ,Russia Today (2)
@@ -616,14 +601,10 @@ https://cdn-de1-eu.lncnetworks.host/hls/cnni_live/index.m3u8|referer=https://liv
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="hub://logs/dw.png" tvg-name="DW" tvg-website="https://www.dw.com/en/" ,DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="hub://logs/dw.png" tvg-name="DW" tvg-website="https://www.dw.com/en/" ,DW (2)
-https://ertflix.akamaized.net/ertlive/dw/default/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="hub://logs/bloomberg.png" tvg-website="https://www.bloomberg.com/" ,Bloomberg
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="hub://logs/tv5monde.png" tvg-name="TV5 Monde" tvg-website="https://www.tv5monde.com/" ,TV5 Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="hub://logs/tv5monde.png" tvg-name="TV5 Monde" tvg-website="https://www.tv5monde.com/" ,TV5 Monde (2)
-https://ertflix.akamaized.net/ertlive/tv5/default/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="hub://logs/bbc-news-global.png" tvg-name="BBC World News" tvg-website="https://www.bbc.com/news/world" ,BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="hub://logs/bbc-news-global.png" tvg-name="BBC World News" tvg-website="https://www.bbc.com/news/world" ,BBC World News (2)
@@ -640,12 +621,10 @@ https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/fashio_tv.png" tvg-website="https://www.fashiontv.com/"  ,Fashion TV
 https://fash1043.cloudycdn.services/store/_definst_/tmsp00043/vod/03/f7/372028/se9_CELEB_INTE_658220.smil/playlist.m3u8
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/Love-Nature-1.png" ,Love-Nature4k
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/weatherspy.png" ,Weather-Spy
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/fox-news.png" ,Fox News
-https://fl7.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+https://fl41.moveonjoy.com/FOX_NEWS_CHANNEL/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/fox-now.png" ,Fox Now
 https://www.livenowfox.com/|weballdig
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/cbsnews.png" ,CBS News
