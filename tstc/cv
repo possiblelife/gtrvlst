@@ -33,8 +33,6 @@ https://ottstream.iptv.prime-tel.net/streaming-web/SigmaLive/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Sigma" tvg-name="ΣΙΓΜΑ" tvg-logo="http://i.imgur.com/BMvgdlc.png" tvg-website="https://www.sigmatv.com/home" ,ΣΙΓΜΑ (2)
 http://31.121.110.30:4000/play/a025/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="Alpha Cyprus" tvg-name="ΑΛΦΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" tvg-website="https://www.alphacyprus.com.cy/" ,ΑΛΦΑ
-http://l4.cloudskep.com/alphacyp/acy/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="Alpha Cyprus" tvg-name="ΑΛΦΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" tvg-website="https://www.alphacyprus.com.cy/" ,ΑΛΦΑ - ΕΝΑΛΛΑΚΤΙΚΟ
 https://www.alphacyprus.com.cy/live|weballdig
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="ANT1" tvg-name="ΑΝΤΕΝΝΑ" tvg-logo="https://goo.gl/q5aDRg" tvg-website="https://www.ant1live.com/" ,ΑΝΤΕΝΝΑ
 https://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
