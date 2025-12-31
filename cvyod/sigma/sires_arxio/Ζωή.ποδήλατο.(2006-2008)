@@ -149,7 +149,7 @@ https://www.youtube.com/watch?v=DYroO9WYzQA
 #EXTINF:-1 group-title="Season 1",1.076
 https://www.youtube.com/watch?v=-KQz4UPgQvk
 #EXTINF:-1 group-title="Season 1",1.077
-https://www.youtube.com/watch?v=yrrpseMIKAE||||https://www.youtube.com/watch?v=WaAGoJ6Gim8
+https://www.youtube.com/watch?v=yrrpseMIKAE
 #EXTINF:-1 group-title="Season 1",1.078
 https://www.youtube.com/watch?v=5iqgj5jzxgM
 #EXTINF:-1 group-title="Season 1",1.079
@@ -173,7 +173,7 @@ https://www.youtube.com/watch?v=QhHbbEnAYQQ||||https://www.youtube.com/watch?v=u
 #EXTINF:-1 group-title="Season 1",1.088
 https://www.youtube.com/watch?v=cs85dJ7ETts
 #EXTINF:-1 group-title="Season 1",1.089
-https://www.youtube.com/watch?v=pmDGouteHd0||||https://www.youtube.com/watch?v=x-NGaTWheg8
+https://www.youtube.com/watch?v=x-NGaTWheg8
 #EXTINF:-1 group-title="Season 1",1.090
 https://www.youtube.com/watch?v=DDO48nTfP14
 #EXTINF:-1 group-title="Season 1",1.091
@@ -203,7 +203,7 @@ https://www.youtube.com/watch?v=bnBZLT7eMfw||||https://www.youtube.com/watch?v=w
 #EXTINF:-1 group-title="Season 1",1.103
 https://www.youtube.com/watch?v=SF_sI7ajGLA||||https://www.youtube.com/watch?v=icd-2BXGbEw
 #EXTINF:-1 group-title="Season 1",1.104
-https://www.youtube.com/watch?v=empSUX1N_zA||||https://www.youtube.com/watch?v=aV_oDPFJoS4||||https://www.youtube.com/watch?v=NA9Em3xKiXQ
+https://www.youtube.com/watch?v=aV_oDPFJoS4||||https://www.youtube.com/watch?v=NA9Em3xKiXQ
 #EXTINF:-1 group-title="Season 1",1.105
 https://www.youtube.com/watch?v=vE58zHPuJag||||https://www.youtube.com/watch?v=Wld9suy8Hco
 #EXTINF:-1 group-title="Season 1",1.106
@@ -227,13 +227,13 @@ https://www.youtube.com/watch?v=XSBeXdBrxmU||||https://www.youtube.com/watch?v=X
 #EXTINF:-1 group-title="Season 1",1.115
 https://www.youtube.com/watch?v=0PiNaIo-3jk
 #EXTINF:-1 group-title="Season 1",1.116
-https://www.youtube.com/watch?v=2Vzzs8s7IbY||||https://www.youtube.com/watch?v=LEir3_-jEe0
+https://www.youtube.com/watch?v=2Vzzs8s7IbY
 #EXTINF:-1 group-title="Season 1",1.117
 https://www.youtube.com/watch?v=PZcdEum34b0||||https://www.youtube.com/watch?v=3sm0xPxb1JA
 #EXTINF:-1 group-title="Season 1",1.118
 https://www.youtube.com/watch?v=n7gVLM9zE24||||https://www.youtube.com/watch?v=6hvuJ3_Hdx4
 #EXTINF:-1 group-title="Season 1",1.119
-https://www.youtube.com/watch?v=RjOwJppXNqY||||https://www.youtube.com/watch?v=X0Gb7UM6mO4
+https://www.youtube.com/watch?v=RjOwJppXNqY
 #EXTINF:-1 group-title="Season 1",1.120
 https://www.youtube.com/watch?v=oalhRfR38dQ
 #EXTINF:-1 group-title="Season 1",1.121
@@ -256,8 +256,6 @@ https://www.youtube.com/watch?v=CNLEuxfhuxY
 https://www.youtube.com/watch?v=jVOc_mOa_WI
 #EXTINF:-1 group-title="Season 1",1.130
 https://www.youtube.com/watch?v=KslBP8pF0n4
-#EXTINF:-1 group-title="Season 1",1.132
-https://www.youtube.com/watch?v=KnYn4jvX8rg
 #EXTINF:-1 group-title="Season 1",1.133
 https://www.youtube.com/watch?v=iR3ztSLOB7Q
 #EXTINF:-1 group-title="Season 1",1.134
@@ -276,8 +274,6 @@ https://www.youtube.com/watch?v=j2q1fFOCDdQ||||https://www.youtube.com/watch?v=H
 https://www.youtube.com/watch?v=B7EX-X8HA_s||||https://www.youtube.com/watch?v=iu-zjdZQ2ko
 #EXTINF:-1 group-title="Season 2",2.007
 https://www.youtube.com/watch?v=IsVCyFquQ1I||||https://www.youtube.com/watch?v=DrYEasID_Zk
-#EXTINF:-1 group-title="Season 2",2.008
-https://www.youtube.com/watch?v=WgTAEhRWqSI
 #EXTINF:-1 group-title="Season 2",2.009
 https://www.youtube.com/watch?v=LCXZ1nkuiII||||https://www.youtube.com/watch?v=dakB_bqWr9Q
 #EXTINF:-1 group-title="Season 2",2.010
@@ -341,7 +337,7 @@ https://www.youtube.com/watch?v=qzlwU5okiRU||||https://www.youtube.com/watch?v=s
 #EXTINF:-1 group-title="Season 2",2.042
 https://www.youtube.com/watch?v=_FSf7SF0Qrg
 #EXTINF:-1 group-title="Season 2",2.043
-https://www.youtube.com/watch?v=nqawWHQFHyk||||https://www.youtube.com/watch?v=q3dMuZU4zE4
+https://www.youtube.com/watch?v=q3dMuZU4zE4
 #EXTINF:-1 group-title="Season 2",2.044
 https://www.youtube.com/watch?v=Segn_AaHf-s
 #EXTINF:-1 group-title="Season 2",2.045
@@ -410,8 +406,6 @@ https://www.youtube.com/watch?v=AoV1rpcxkkQ
 https://www.youtube.com/watch?v=wwCH2QLHmBw
 #EXTINF:-1 group-title="Season 2",2.077
 https://www.youtube.com/watch?v=aPtBafbEgwc||||https://www.youtube.com/watch?v=S9UZrSwC5bA
-#EXTINF:-1 group-title="Season 2",2.078
-https://www.youtube.com/watch?v=xkmC30-BDHo
 #EXTINF:-1 group-title="Season 2",2.080
 https://www.youtube.com/watch?v=ZYW6uKYS7As
 #EXTINF:-1 group-title="Season 2",2.081
@@ -427,13 +421,13 @@ https://www.youtube.com/watch?v=w7W3FKhh6l0
 #EXTINF:-1 group-title="Season 2",2.087
 https://www.youtube.com/watch?v=_kH0-Z7Fe1I
 #EXTINF:-1 group-title="Season 2",2.088
-https://www.youtube.com/watch?v=4ZEgj9uKbg4||||https://www.youtube.com/watch?v=QganxQrB7oI
+https://www.youtube.com/watch?v=4ZEgj9uKbg4
 #EXTINF:-1 group-title="Season 2",2.089
 https://www.youtube.com/watch?v=ARD9vBJ-1T0
 #EXTINF:-1 group-title="Season 2",2.090
 https://www.youtube.com/watch?v=aIMdJvcPo20
 #EXTINF:-1 group-title="Season 2",2.091
-https://www.youtube.com/watch?v=L1xm2ohxlSI||||https://www.youtube.com/watch?v=fOlQl4BqssM
+https://www.youtube.com/watch?v=L1xm2ohxlSI
 #EXTINF:-1 group-title="Season 2",2.092
 https://www.youtube.com/watch?v=CIqM01AodwQ
 #EXTINF:-1 group-title="Season 2",2.093
@@ -459,7 +453,7 @@ https://www.youtube.com/watch?v=o0lsN4g9QVk
 #EXTINF:-1 group-title="Season 2",2.103
 https://www.youtube.com/watch?v=lkRyDMPy5cA
 #EXTINF:-1 group-title="Season 2",2.104
-https://www.youtube.com/watch?v=Hsv4cvoAngo||||https://www.youtube.com/watch?v=7TjvSfAhh70
+https://www.youtube.com/watch?v=7TjvSfAhh70
 #EXTINF:-1 group-title="Season 2",2.105
 https://www.youtube.com/watch?v=YdARG_ySi24
 #EXTINF:-1 group-title="Season 2",2.106
