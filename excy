@@ -5,6 +5,8 @@ https://eu1.servers10.com:8081/8364/index.m3u8
 #EXTINF:-1 group-title="ExtaCy"  tvg-id="extacygr" tvg-logo="https://i.ibb.co/Vpmd3p3M/greeks.png" tvg-name="Extacy TV GREEKS" ,Extacy TV GREEKS (2)
 https://eu1.servers10.com:8081/8242/index.m3u8
 #EXTINF:-1 group-title="ExtaCy"  tvg-id="extacycin" tvg-logo="https://i.ibb.co/wrCBPWss/cinema.png" tvg-name="Extacy TV CINEMA" ,Extacy TV CINEMA
+https://eu1.servers10.com:8081/8376/index.m3u8
+#EXTINF:-1 group-title="ExtaCy"  tvg-id="extacycin" tvg-logo="https://i.ibb.co/wrCBPWss/cinema.png" tvg-name="Extacy TV CINEMA" ,Extacy TV CINEMA (2)
 https://eu1.servers10.com:8081/8244/index.m3u8
 #EXTINF:-1 group-title="ExtaCy"  tvg-id="extacyser" tvg-logo="https://i.ibb.co/7dZMVhgH/series.png" tvg-name="Extacy TV SERIES" ,Extacy TV SERIES
 https://eu1.servers10.com:8081/8284/index.m3u8

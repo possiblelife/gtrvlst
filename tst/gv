@@ -369,8 +369,10 @@ https://s1.cystream.net/live/faros2/chunks.m3u8
 http://.....
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacy" tvg-logo="hub://logs/extacy-tv.png" tvg-name="Extacy TV" ,Extacy TV
 https://eu1.servers10.com:8081/8238/index.m3u8
-#EXTINF:-1 group-title="ExtaCy"  tvg-id="extacygr" tvg-logo="hub://logs/extacygr.png" tvg-name="Extacy TV GREEKS" ,Extacy TV GREEKS
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacygr" tvg-logo="hub://logs/extacygr.png" tvg-name="Extacy TV GREEKS" ,Extacy TV GREEKS
 https://eu1.servers10.com:8081/8364/index.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacycin" tvg-logo="extacy-cinema.png" tvg-name="Extacy TV CINEMA" ,Extacy TV CINEMA
+https://eu1.servers10.com:8081/8376/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-id="ANTCOMEDY" tvg-logo="hub://logs/ant1_comedy.png" ,ANT1 Comedy
 https://lcdn.antennaplus.gr/r2921141ed585493580aba05cf37a76cb/eu-central-1/6415884360001/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-id="ANTDRAMA" tvg-logo="hub://logs/ant1_drama.png" ,ANT1 Drama
