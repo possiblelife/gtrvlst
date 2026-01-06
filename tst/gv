@@ -91,7 +91,8 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-sam
 https://eu.linear.zype.com/34713153-3597-42c0-bd0d-5023c3f60585/7823e98c-2e5f-49cf-8e73-425e237b86ff-hls4/live.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="hub://logs/sdna.png" tvg-website="https://www.sdna.gr/" ,SDNA (Youtube)
 https://www.youtube.com/@SDNA_webTV/streams|webepg zoom=100 scroll=0,0
-
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://alfasports.tv/wp-content/uploads/2017/07/19650478_10213391687526137_730682022_o.png" tvg-website="https://alfasports.tv/" ,Alfa Sports TV
+https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&Referer=https://dev.aftermind.xyz/alfa_sports.html
 
 
 
