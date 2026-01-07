@@ -6,7 +6,7 @@ https://eu1.servers10.com:8081/8364/index.m3u8
 https://eu1.servers10.com:8081/8376/index.m3u8
 #EXTINF:-1 group-title="ExtaCy"  tvg-id="extacykids" tvg-logo="https://i.ibb.co/BK72zbY1/extacy-kids.jpg" tvg-name="EXTACY TV KIDS" ,EXTACY TV KIDS
 https://eu1.servers10.com:8081/8046/index.m3u8
-#EXTINF:-1 group-title="ExtaCy"  tvg-id="extacydiscovey" tvg-logo="https://i.ibb.co/fZB4ysg/extacy-disc.jpg" tvg-name="EXTACY TV DISCOVERY" ,EXTACY TV DISCOVERY
+#EXTINF:-1 group-title="ExtaCy"  tvg-id="extacydiscovey" tvg-logo="https://i.ibb.co/tT6R0qQV/extacy-disc.jpg" tvg-name="EXTACY TV DISCOVERY" ,EXTACY TV DISCOVERY
 https://eu1.servers10.com:8081/8232/index.m3u8
 #EXTINF:-1 group-title="ExtaCy"  tvg-id="extacymusic" tvg-logo="https://i.ibb.co/tj8qn77/extacy-music.jpg" tvg-name="EXTACY TV MUSIC" ,EXTACY TV MUSIC
 https://eu1.servers10.com:8081/8164/index.m3u8
