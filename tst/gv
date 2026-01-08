@@ -282,6 +282,8 @@ https://verginanews.gr:8443/hls_live/stream2.m3u8
 http://.....
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-id="extacydiscovey" tvg-logo="hub://logs/extacy_disc.jpg" ,EXTACY TV DISCOVERY
 https://eu1.servers10.com:8081/8232/index.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-id="europeone" tvg-logo="https://i.ibb.co/rR8JdfVX/europe1.png" tvg-name="EUROPE ONE" ,EUROPE ONE
+https://eu1.servers10.com:8081/8226/index.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-id="EGNATIA" tvg-logo="hub://logs/egnatia.png" tvg-website="https://www.egnatia.tv/" ,ΕΓΝΑΤΙΑ
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/pellatv.png" tvg-website="https://www.pellatv.gr/" ,Pella tv
@@ -381,6 +383,8 @@ https://eu1.servers10.com:8081/8238/index.m3u8
 https://eu1.servers10.com:8081/8364/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacycin" tvg-logo="hub://logs/extacy-cinema.png" tvg-name="Extacy TV CINEMA" ,Extacy TV CINEMA
 https://eu1.servers10.com:8081/8376/index.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="zeys" tvg-logo="https://i.ibb.co/84Q1j5Zp/zeys.png" tvg-name="ΖΕΥΣ TV" ,ΖΕΥΣ TV
+https://eu1.servers10.com:8081/8242/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-id="ANTCOMEDY" tvg-logo="hub://logs/ant1_comedy.png" ,ANT1 Comedy
 https://lcdn.antennaplus.gr/r2921141ed585493580aba05cf37a76cb/eu-central-1/6415884360001/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-id="ANTDRAMA" tvg-logo="hub://logs/ant1_drama.png" ,ANT1 Drama
