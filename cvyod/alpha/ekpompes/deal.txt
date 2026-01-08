@@ -3148,3 +3148,9 @@ https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv/261225|webvidfulld
 https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv/291225|webvidfulldig
 #EXTINF:-1 group-title="Season 8",30/12/25
 https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv/301225|webvidfulldig
+#EXTINF:-1 group-title="Season 8",05/01/26
+https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv/050126|webvidfulldig
+#EXTINF:-1 group-title="Season 8",06/01/26
+https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv/060126|webvidfulldig
+#EXTINF:-1 group-title="Season 8",07/01/26
+https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv/070126|webvidfulldig

@@ -138,3 +138,7 @@ https://www.alphacyprus.com.cy/shows/entertainment/noleftovers/webtv/211225|webv
 https://www.alphacyprus.com.cy/shows/entertainment/noleftovers/webtv/271225|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",28/12/25
 https://www.alphacyprus.com.cy/shows/entertainment/noleftovers/webtv/281225|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",03/01/26
+https://www.alphacyprus.com.cy/shows/entertainment/noleftovers/webtv/030126|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",04/01/26
+https://www.alphacyprus.com.cy/shows/entertainment/noleftovers/webtv/040126|webvidfulldig

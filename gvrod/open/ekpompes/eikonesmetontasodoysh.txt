@@ -506,8 +506,6 @@ https://www.tvopen.gr/watch/146411/tram28todiashmoterostonkosmo|webvidfulldig
 https://www.tvopen.gr/watch/146413/leoforoseleytheriasopioomorfosdromossthlisabona|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Παρεκκλήσιο των Οστών, το πιο μακάβριο θέαμα παγκοσμίως
 https://www.tvopen.gr/watch/146414/parekklhsiotonostontopiomakabriotheamapagkosmios|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",London eye: Ηλιοβασίλεμα στο εντυπωσιακό αξιοθέατο
-https://www.tvopen.gr/watch/153328/londoneyehliobasilemastoentyposiakoaxiotheato|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Βενετία: Βόλτα με βαπορέτο στο Μεγάλο Κανάλι
 https://www.tvopen.gr/watch/147518/benetiaboltamebaporetostomegalokanali|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Βενετία: To καμπαναριό του Αγίου Μάρκου και το ιστορικό café Florian
@@ -528,6 +526,8 @@ https://www.tvopen.gr/watch/152335/xenaghshsthnchinatown|webvidfulldig
 https://www.tvopen.gr/watch/153326/gefyratoypyrgoymiaapotisentyposiakoterestoykosmoy|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Λέντενχολ: Η αγορά του Χάρι Πότερ
 https://www.tvopen.gr/watch/153327/lentenxolhagoratoyxaripoter|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",London eye: Ηλιοβασίλεμα στο εντυπωσιακό αξιοθέατο
+https://www.tvopen.gr/watch/153328/londoneyehliobasilemastoentyposiakoaxiotheato|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Cyberdog: Τα πιο περίεργα ρούχα του Λονδίνου
 https://www.tvopen.gr/watch/154481/cyberdogtapioperiergaroyxatoylondinoy|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Coppa club: Στις κάψουλες του Λονδίνου με θέα τη γέφυρα
