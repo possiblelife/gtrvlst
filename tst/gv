@@ -291,7 +291,8 @@ https://aliez.me/live/m1i1vavi266bcdwp7694/|weballdig
 https://aliez.me/live/mwx5e0n783q9mp0fzqk4/|weballdig
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="Plus TV" tvg-logo="hub://logs/plus.png" ,Plus
 https://aliez.tv/live/35d7zu879grqvfjjpfzn/|weballdig
-
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="smile" tvg-logo="hub://logs/smile.png" ,Smile
+https://aliez.tv/live/v165d7mvix41fjyk9z5i/|weballdig
 
 
 
@@ -308,6 +309,8 @@ https://video.streams.ovh:1936/egnatiatv/egnatiatv/playlist.m3u8
 https://video.streams.ovh:1936/pellatv/pellatv/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-id="TV RODOPI" tvg-logo="hub://logs/tvrodopi.png" tvg-website="https://www.tvrodopi.gr/" ,TV ΡΟΔΟΠΗ ΑΜΘ
 https://fr.crystalweb.net:1936/tvrodopi/tvrodopi/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logs/ert_christmas.png" ,Εurovision Channnel
+https://ertflix.siliconweb.com/mpegts/618618_3827970/master_mpegts.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"   tvg-id="ert-news" tvg-logo="hub://logs/ertnews.png" tvg-name="ΕΡΤ News" tvg-website="https://www.ertflix.gr" ,ΕΡΤ News
 https://cdn3.smart-tv-data.com/vid/ertnews/manifest.mpd
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"   tvg-id="ert-news" tvg-logo="hub://logs/ertnews.png" tvg-name="ΕΡΤ News" tvg-website="https://www.ertflix.gr" ,ΕΡΤ News (1)
@@ -504,6 +507,8 @@ https://fr.crystalweb.net:1936/redmusic/redmusic/playlist.m3u8
 http://.....
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-id="extacykids" tvg-logo="hub://logs/extacy_kids.jpg" tvg-name="EXTACY TV KIDS" ,EXTACY TV KIDS
 https://eu1.servers10.com:8081/8046/index.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-id="smile" tvg-logo="hub://logs/smile.png" tvg-name="Smile" ,Smile
+https://aliez.tv/live/v165d7mvix41fjyk9z5i/|weballdig
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/ertkids.png" tvg-name="ErtFlix Kids" ,ErtFlix Kids
 http://195.226.218.163/vid/kidstv-hbbtv/mpeg.2ts
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/ertkids.png" tvg-name="ErtFlix Kids" ,ErtFlix Kids (2)
