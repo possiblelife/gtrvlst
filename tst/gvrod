@@ -340,6 +340,8 @@ http://.....
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://i.ibb.co/2MdmBxK/skai.jpg" ,ΟΛΕΣ ΟΙ  ΕΚΠΟΜΠΕΣ
 https://www.skai.gr/tv/shows/psuchagogia|webvod zoom=100 scroll=0,0
 
+#EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/survivor/logos/srv_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/survivor/sezon-2025-2026#tab1" ,Survivor (2025-2026)
+SERIES$$hub://gvrod/skai/ekpompes/survivor.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/stin_agkalia_tou_fani/2025_2026/logos/fanis_landscape2.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/stin-agkalia-tou-fani/sezon-2025-2026" ,Στην Αγκαλιά του Φάνη (2024-2026)
 SERIES$$hub://gvrod/skai/ekpompes/stin-agkalia-tou-fani.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="https://media.skaitv.gr/images/450/0/files/i_ellada_psifizei/logos/ellada_psifizei_new_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/i-ellada-psifizei/sezon-2025-2026" ,Η Ελλάδα Ψηφίζει (2024-2026)
