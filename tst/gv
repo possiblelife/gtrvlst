@@ -564,9 +564,9 @@ https://www.youtube.com/@ekklisianews/streams|webepg zoom=100 scroll=0,0
 
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/red.png" ,=====   ΔΙΕΘΝΗ ΔΙΚΤΥΑ    ====
 http://.....
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-logo="hub://logs/star.png" ,STAR International
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/star.png" ,STAR International
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-logo="hub://logs/mega_cosmos.jpeg" ,Mega Cosmos
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/mega_cosmos.jpeg" ,Mega Cosmos
 http://cdn.smart-tv-data.com/mega/MegaCosmos/mpeg.2ts
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="ert" tvg-logo="hub://logs/ERT-WORLD.png"  tvg-name="ΕΡΤ WORLD" tvg-website="https://www.ertflix.gr" ,ΕΡΤ WORLD
 https://ertflix-ertworld.siliconweb.com/mpegts/618618_3479286/media_mpegts_0.m3u8
@@ -578,7 +578,7 @@ https://cdn3.smart-tv-data.com/vid/ertworld/manifest.mpd
 https://www.youtube.com/watch?v=uWIhV9gQClg
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="Euronews" tvg-logo="hub://logs/EURONEWS.png"  tvg-website="https://gr.euronews.com/" ,Euronews EN
 https://www.youtube.com/@euronews/live
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="hub://logs/africanews.png tvg-website="https://www.africanews.com/live/" ,AfricaNews
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="hub://logs/africanews.png" tvg-website="https://www.africanews.com/live/" ,AfricaNews
 https://www.youtube.com/watch?v=NQjabLGdP5g
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="Al Jazeera English" tvg-logo="hub://logs/alzaera.png" tvg-website="https://www.aljazeera.com/" ,Al Jazeera
 https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
