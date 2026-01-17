@@ -433,7 +433,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/tvioniathess/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="hub://logs/Dipolo.png" ,Dipolo TV
 https://channel.streams.ovh:8081/dipolotv/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/lapsi.png" tvg-website="https://www.lampsitv.eu" ,Λάμψη Tv
-https://pro.free.hr/hybrid-stream-video-widget/l1l
+https://pro.free.hr:3343/live/l1llive.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/ELLADA_TV.jpg" tvg-website="https://elladafm.gr/webtvnew/" ,ELLADA TV
 https://tvstream.elladafm.gr:3989/live/elladasportstvlive.m3u8
 
