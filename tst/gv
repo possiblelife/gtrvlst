@@ -432,9 +432,9 @@ https://eu1.streams.gr:8081/choicetv/index.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/tvioniathess/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="hub://logs/Dipolo.png" ,Dipolo TV
 https://channel.streams.ovh:8081/dipolotv/index.m3u8
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/lapsi.png" tvg-website="https://www.gamostv.eu/" ,Λάμψη Tv
-https://webm.pp.ua:59000/lampsitv.webm
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/ELLADA_TV.jpg" tvg-website="https://elladafm.gr/webtvnew/" ,ELLADA TV
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/lapsi.png" tvg-website="https://www.lampsitv.eu" ,Λάμψη Tv
+https://pro.free.hr/hybrid-stream-video-widget/l1l
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/ELLADA_TV.jpg" tvg-website="https://elladafm.gr/webtvnew/" ,ELLADA TV
 https://tvstream.elladafm.gr:3989/live/elladasportstvlive.m3u8
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/red.png" ,=====   ΜΟΥΣΙΚΗ   ====
