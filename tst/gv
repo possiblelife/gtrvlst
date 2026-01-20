@@ -431,7 +431,7 @@ https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="hub://logs/choice.png" ,Choice TV
 https://eu1.streams.gr:8081/choicetv/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="hub://logs/ionia.png" ,ΙΩΝΙΑ ΤV
-https://live20.bozztv.com/akamaissh101/ssh101/tvioniathess/playlist.m3u8
+https://live21.bozztv.com/akamaissh101/ssh101/tvioniathess/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="hub://logs/Dipolo.png" ,Dipolo TV
 https://channel.streams.ovh:8081/dipolotv/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/lapsi.png" tvg-website="https://www.lampsitv.eu" ,Λάμψη Tv
