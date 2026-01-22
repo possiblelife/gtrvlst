@@ -368,3 +368,13 @@ https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/loyka
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/150126|webvidfulldig
 #EXTINF:-1 group-title="2025-2026",16/01/26
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/160126|webvidfulldig
+#EXTINF:-1 group-title="2025-2026",19/01/26
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/190126|webvidfulldig
+#EXTINF:-1 group-title="2025-2026",20/01/26
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/200126|webvidfulldig
+#EXTINF:-1 group-title="2025-2026",Ασιάτικος σολομός με ρύζι και λαχανικά και κρύα σάλτσα τεριάκι
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/asiatikos-solomos-me-ryzi-kai-lahanika-kai-krya-saltsa|webvidfulldig
+#EXTINF:-1 group-title="2025-2026",21/01/26
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/210126|webvidfulldig
+#EXTINF:-1 group-title="2025-2026",Τάρτα banoffee
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/tarta-banoffee|webvidfulldig
