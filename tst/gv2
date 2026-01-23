@@ -1,0 +1,678 @@
+#EXTINF:-1  tvg-logo="hub://logs/greek-flag-in-tv.png" , ===ΤΗΛΕΟΡΑΣΗ===
+hub://logs/tv.jpg|webview zoom=100 scroll=0,0
+
+
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-logo="hub://logs/red.png" ,==== ΠΑΝΕΛΛΑΔΙΚΑ ====
+http://.....
+
+
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-logo="hub://logs/flixert.png",ERTFLIX LIVE
+https://www.ertflix.gr/epg/now-on-tv|webepg zoom=100 scroll=0,100
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="hub://logs/ERT1.png" tvg-name="ΕΡΤ1" tvg-website="https://www.ertflix.gr" ,ΕΡΤ1 HD (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
+https://ertflix.ascdn.broadpeak.io/ertlive/ert1/clrdef24723b/index.mpd
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="hub://logs/ERT1.png" tvg-name="ΕΡΤ1" tvg-website="https://www.ertflix.gr" ,ΕΡΤ1 HD (4)
+https://aliez.me/live/39qi7ee9ru30iw7myt23/|weballdig
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert2" tvg-logo="hub://logs/ERT2_SPOR.png" tvg-name="ΕΡΤ2" tvg-website="https://www.ertflix.gr" ,ΕΡΤ2 HD ΣΠΟΡ (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
+https://ertflix-greece.siliconweb.com/mpegts/618618_2341557/master_mpegts.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert2" tvg-logo="hub://logs/ERT2_SPOR.png" tvg-name="ΕΡΤ2" tvg-website="https://www.ertflix.gr" ,ΕΡΤ2 HD ΣΠΟΡ
+https://ertflix.siliconweb.com/mpegts/618618_2341557/master_mpegts.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert2" tvg-logo="hub://logs/ERT2_SPOR.png" tvg-name="ΕΡΤ2" tvg-website="https://www.ertflix.gr" ,ΕΡΤ2 HD ΣΠΟΡ (1)
+http://31.121.110.30:4000/play/a02a/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert3" tvg-logo="hub://logs/ERT3.png" tvg-name="ΕΡΤ3" tvg-website="https://www.ertflix.gr" ,ΕΡΤ3 HD (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
+https://ertflix-greece.siliconweb.com/mpegts/618618_2341560/master_mpegts.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert3" tvg-logo="hub://logs/ERT3.png" tvg-name="ΕΡΤ3" tvg-website="https://www.ertflix.gr" ,ΕΡΤ3 HD
+https://ertflix.siliconweb.com/mpegts/618618_2341560/master_mpegts.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert3" tvg-logo="hub://logs/ERT3.png" tvg-name="ΕΡΤ3" tvg-website="https://www.ertflix.gr" ,ΕΡΤ3 HD (1)
+http://31.121.110.30:4000/play/a029/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1" tvg-logo="hub://logs/ANT1.png" tvg-name="ANT1" tvg-website="https://watch.antennaplus.gr/#/" ,ANT1 HD
+https://lcdn.antennaplus.gr/r86d08d448885424196f6cd3ddc5d1489/eu-central-1/6415884360001/playlist_dvr.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1" tvg-logo="hub://logs/ANT1.png" tvg-name="ANT1" tvg-website="https://watch.antennaplus.gr/#/" ,ANT1 HD (3)
+http://31.121.110.30:4000/play/a028/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1" tvg-logo="hub://logs/ANT1.png" tvg-name="ANT1" tvg-website="https://watch.antennaplus.gr/#/" ,ANT1 HD (4)
+https://aliez.me/live/4df8st7j9mcd6fh5waoi/|weballdig
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="Mega" tvg-logo="hub://logs/mega.png" tvg-name="MEGA" tvg-website="https://www.megatv.com/" ,MEGA HD (1)
+https://embed.vindral.com/?core.channelId=alteregomedia_megatv1_ci_6cc490c7-e5c6-486b-acf0-9bb9c20fa670&core.minBufferTime=2000&player.aspectRatio=16:9|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="Mega" tvg-logo="hub://logs/mega.png" tvg-name="MEGA" tvg-website="https://www.megatv.com/" ,MEGA (vip)
+sec:ch1
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="Mega" tvg-logo="hub://logs/mega.png" tvg-name="MEGA" tvg-website="https://www.megatv.com/" ,MEGA HD (3)
+http://31.121.110.30:4000/play/a02d/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="Mega" tvg-logo="hub://logs/mega.png" tvg-name="MEGA" tvg-website="https://www.megatv.com/" ,MEGA HD (4)
+https://aliez.me/live/uab2p85ge9b1h98355dc/|weballdig
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="SKAI" tvg-logo="hub://logs/skai.png" tvg-name="SKAI" tvg-website="https://www.skaitv.gr/" ,SKAI HD
+https://skai-live.siliconweb.com/media/cambria4/index.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="SKAI" tvg-logo="hub://logs/skai.png" tvg-name="SKAI" tvg-website="https://www.skaitv.gr/" ,SKAI HD (4)
+https://aliez.me/live/lr1r85im6v463hwna4v8/|weballdig
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="STAR" tvg-logo="hub://logs/star.png" tvg-name="STAR" tvg-website="https://www.star.gr/tv" ,STAR HD
+https://livestar.siliconweb.com/starvod/star4/star4.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="STAR" tvg-logo="hub://logs/star.png" tvg-name="STAR" tvg-website="https://www.star.gr/tv" ,STAR HD (4)
+https://aliez.me/live/uwcin0kbwr9g209j5if3/|weballdig
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ALPHA" tvg-logo="hub://logs/Alpha_TV.png" tvg-name="ALPHA" tvg-website="https://www.alphatv.gr/" ,ALPHA HD
+https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ALPHA" tvg-logo="hub://logs/Alpha_TV.png" tvg-name="ALPHA" tvg-website="https://www.alphatv.gr/" ,ALPHA HD (3)
+http://31.121.110.30:4000/play/a02c/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ALPHA" tvg-logo="hub://logs/Alpha_TV.png" tvg-name="ALPHA" tvg-website="https://www.alphatv.gr/" ,ALPHA HD (4)
+https://aliez.me/live/h7xwcoo0ll8hy83bo3si/|weballdig
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="OPEN BEYOND" tvg-logo="hub://logs/open.png" tvg-name="OPEN Beyond TV" tvg-website="https://www.tvopen.gr/" ,OPEN Beyond TV
+https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="maktv" tvg-logo="hub://logs/mak-tv.png" tvg-name="M.TV HD" tvg-website="https://watch.antennaplus.gr/#/" ,M.TV HD
+https://lcdn.antennaplus.gr/r444865966c0847fca53b9b0c133af7a9/eu-central-1/6415884360001/playlist_dvr.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="vouli" tvg-logo="hub://logs/VOULI.png" tvg-name="ΒΟΥΛΗ" tvg-website="https://www.hellenicparliament.gr/el/" ,ΒΟΥΛΗ
+https://diavlos3.cnt.grnet.gr/parltv/webtv-1.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-logo="hub://logs/VOULI.png" tvg-name="ΒΟΥΛΗ" tvg-website="https://www.hellenicparliament.gr/el/" ,ΒΟΥΛΗ2
+https://diavlos3.cnt.grnet.gr/parltv/webtv-2.sdp/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="hub://logs/red.png" ,===== ΑΘΛΗΤΙΚΑ ====
+http://.....
+
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="hub://logs/sports-schedule.png" ,Αθλητικές Μεταδόσεις (gazzetta)
+https://www.gazzetta.gr/tv-program|webview zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="hub://logs/sports-schedule.png" ,Αθλητικές Μεταδόσεις (athinorama)
+https://www.athinorama.gr/tv/programma/athlitikesmetadoseis/|webview zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="hub://logs/sports-schedule.png" ,Αθλητικές Μεταδόσεις (ERT)
+https://program.ert.gr/tvsports.asp|webview zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="hub://logs/stoiximan_horses.png" ,Pame Stoixima Racing (Ιπποδρομίες)
+https://odiehlsmslnew.akamaized.net/hls/live/2112246/odie3/odie_1000.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="hub://logs/Pame-Stoixima.png",Pame Stoixima
+https://ns5.vermantiagaming.com/opap/livesports/playlist.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="hub://logs/open.png" tvg-website="https://www.tvopen.gr/livegames#" ,OPEN All Live Games
+https://www.tvopen.gr/livegames#|webview zoom=100 scroll=0,100
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="hub://logs/open.png" tvg-website="https://www.tvopen.gr/livegames#" ,OPEN Sports
+https://opentvlive2.siliconweb.com/tvopengames/live2_abr/playlist.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="hub://logs/ARGOSPORT.png" tvg-website="https://argolidasport.gr/",Argolida Sport (Youtube)
+https://www.youtube.com/@ARGOLIDASPOR-NEWS/streams|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports" tvg-logo="hub://logs/ert_sports1.png" tvg-name="ΕΡΤ SPORTS 1" tvg-website="https://www.ertflix.gr" ,ΕΡΤ SPORTS 1 (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
+https://ertflix-ertsports1.siliconweb.com/mpegts/618618_3479292/master_mpegts.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports1" tvg-logo="hub://logs/ert_sports1.png" tvg-name="ΕΡΤ SPORTS 1" tvg-website="https://www.ertflix.gr" ,ΕΡΤ SPORTS 1 (ΕΝΑΛΛΑΚΤΙΚΟ)
+http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports2" tvg-logo="hub://logs/ert_sports2.png" tvg-name="ΕΡΤ SPORTS 2" tvg-website="https://www.ertflix.gr" ,ΕΡΤ SPORTS 2 (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
+https://ertflix-ertsports2.siliconweb.com/mpegts/618618_3479295/master_mpegts.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports2" tvg-logo="hub://logs/ert_sports2.png" tvg-name="ΕΡΤ SPORTS 2" tvg-website="https://www.ertflix.gr" ,ΕΡΤ SPORTS 2 (ΕΝΑΛΛΑΚΤΙΚΟ)
+http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports3" tvg-logo="hub://logs/ert_sports.png" tvg-name="ΕΡΤ SPORTS 3" tvg-website="https://www.ertflix.gr" ,ΕΡΤ SPORTS 3
+https://ertflix-ertsports3.siliconweb.com/mpegts/618618_3479298/master_mpegts.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports3" tvg-logo="hub://logs/ert_sports.png" tvg-name="ΕΡΤ SPORTS 3" tvg-website="https://www.ertflix.gr" ,ΕΡΤ SPORTS 3 (ΕΝΑΛΛΑΚΤΙΚΟ)
+http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay3_mpeg.2ts
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="ertsports4" tvg-logo="hub://logs/ert_sports.png" tvg-name="ΕΡΤ SPORTS 4" tvg-website="https://www.ertflix.gr" ,ΕΡΤ SPORTS 4
+https://ertflix.ascdn.broadpeak.io/ertlive/seasonal/default/index.mpd
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="hub://logs/motorvision.png" ,Motorvision TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://www.freelivesports.tv/wp-content/uploads/2023/01/motrosporttv_logo.png" ,Motorsport.tv
+https://eu.linear.zype.com/34713153-3597-42c0-bd0d-5023c3f60585/7823e98c-2e5f-49cf-8e73-425e237b86ff-hls4/live.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="hub://logs/sdna.png" tvg-website="https://www.sdna.gr/" ,SDNA (Youtube)
+https://www.youtube.com/@SDNA_webTV/streams|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://alfasports.tv/wp-content/uploads/2017/07/19650478_10213391687526137_730682022_o.png" tvg-website="https://alfasports.tv/" ,Alfa Sports TV
+https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&Referer=https://dev.aftermind.xyz/alfa_sports.html
+
+
+
+
+
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-logo="hub://logs/red.png" ,===== ΠΕΡΙΦΕΡΕΙΑΚΑ ====
+http://.....
+
+
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="4Ε" tvg-logo="hub://logs/4E.png" tvg-website="https://tv4e.gr/index.php/" ,4E (Κ. ΜΑΚΕΔΟΝΙΑΣ )
+http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ACTION24" tvg-logo="hub://logs/action24.png" tvg-name="Action 24 (ΑΤΤΙΚΗΣ)" tvg-website="https://www.action24.gr/" ,Action 24 (ΑΤΤΙΚΗΣ)
+https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ACTION24" tvg-logo="hub://logs/action24.png" tvg-name="Action 24 (ΑΤΤΙΚΗΣ)" tvg-website="https://www.action24.gr/" ,Action 24 (backup) (ΑΤΤΙΚΗΣ)
+https://www.action24.gr/live-stream/|webdig
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="TVM" tvg-logo="hub://logs/aeolos.png" tvg-website="https://aeolos.tv/" ,AEOLOS (Β.Α. ΑΙΓΑΙΟΥ)
+https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="AIGAIOTV" tvg-logo="hub://logs/AIGAIO.png" tvg-name="AIΓΑΙΟ (ΔΩΔΕΚΑΝΗΣΟΥ ΚΑΙ ΣΑΜΟΥ)" tvg-website="https://www.aigaiotv.gr/" ,AIΓΑΙΟ (ΔΩΔΕΚΑΝΗΣΟΥ ΚΑΙ ΣΑΜΟΥ)
+https://fr.crystalweb.net:1936/aigaiotv/aigaiotv/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="AIGAIOTV" tvg-logo="hub://logs/AIGAIO.png" tvg-name="AIΓΑΙΟ (ΔΩΔΕΚΑΝΗΣΟΥ ΚΑΙ ΣΑΜΟΥ)" tvg-website="https://www.aigaiotv.gr/" ,AIΓΑΙΟ (backup) (ΔΩΔΕΚΑΝΗΣΟΥ ΚΑΙ ΣΑΜΟΥ)
+https://live21.bozztv.com/akamaissh101/ssh101/aigaiotv/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ALERT" tvg-logo="hub://logs/alert-tv.png" tvg-website="https://www.alerttv.com.gr/" ,ALERT (ΑΤΤΙΚΗΣ)
+https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ALFA" tvg-logo="hub://logs/alfa.png" tvg-website="https://www.youtube.com/@ALFATHLEORASH/featured" ,ALFA (ΑΝ. ΜΑΚΕΔΟΝΙΑΣ)
+https://av.hellasnet.tv/rst/alf/index.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="ΑΛΗΘΕΙΑ TV" tvg-logo="hub://logs/alithia-tv.png" tvg-website="https://www.alithia.gr/tv" ,Αλήθεια TV (17:00-00:00) (Β. Α. ΑΙΓΑΙΟΥ)
+https://www.alithia.gr/tv/live|webdig
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ART" tvg-logo="hub://logs/arttv.png" tvg-name="AΡΤ (ΑΤΤΙΚΗΣ)" tvg-website="https://www.arttv.info/" ,AΡΤ (ΑΤΤΙΚΗΣ)
+https://rumble.com/live-hls/7113t0/playlist.m3u8?
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ART" tvg-logo="hub://logs/arttv.png" tvg-name="AΡΤ (ΑΤΤΙΚΗΣ)" tvg-website="https://www.arttv.info/" ,AΡΤ (backup) (ΑΤΤΙΚΗΣ)
+https://www.arttv.info/p/art.html|webdig
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ART TV" tvg-logo="hub://logs/art_tv.png" tvg-website="http://www.arttv.gr/" ,Art tv (Άρτα tv) (ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ)
+https://rtmp.win:3696/live/arttvgrlive.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ASTRA TV" tvg-logo="hub://logs/ASTRA.png" tvg-name="ASTRA (ΘΕΣΣΑΛΙΑΣ)" tvg-website="https://www.astratv.gr/" ,ASTRA (ΘΕΣΣΑΛΙΑΣ)
+https://player.twitch.tv/?channel=astratv2021&parent=www.astratv.gr|webdig
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ASTRA TV" tvg-logo="hub://logs/ASTRA.png" tvg-name="ASTRA (ΘΕΣΣΑΛΙΑΣ)"  tvg-website="https://www.astratv.gr/" ,ASTRA (backup) (ΘΕΣΣΑΛΙΑΣ)
+https://www.astratv.gr/live-streaming/|webdig
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="AXELWOS TV" tvg-logo="hub://logs/AXELOOS.png" tvg-website="https://www.acheloostv.gr/news/" ,ΑΧΕΛΩΟΣ (ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ)
+https://acheloostv.streamings.gr/live/stream/index.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="BEST TV" tvg-logo="hub://logs/best_tv.png" tvg-website="https://best-tv.gr/" ,BEST TV (ΠΕΛΟΠΟΝΝΗΣΟΥ)
+https://besttv.siliconweb.com/bestTV/live_abr/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="BERGINA" tvg-logo="hub://logs/vergina.png" tvg-website="https://www.verginanews.gr/" ,ΒΕΡΓΙΝΑ ΤΗΛΕΟΡΑΣΗ (Κ. ΜΑΚΕΔΟΝΙΑΣ)
+https://verginanews.gr:8443/hls_live/stream1.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="VIMA" tvg-logo="hub://logs/vimatv.png"  ,ΒHMA (ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ)
+https://fr.crystalweb.net:1936/vima/vima/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="BLUE SKY" tvg-logo="hub://logs/bluesky.png" tvg-website="https://blueskytv.gr/" ,BLUE SKY (ΑΤΤΙΚΗΣ)
+https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="CENTER ΤΗΛΕΟΡΑΣΗ" tvg-logo="hub://logs/center.png" tvg-website="https://centertv.gr/" ,Center TV (ΑΝ. ΜΑΚΕΔΟΝΙΑΣ ΚΑΙ ΘΡΑΚΗΣ)
+https://centertv.gr/live-tv|weballdig
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="CORFU TV" tvg-logo="hub://logs/corfu.png" tvg-website="https://corfutvnews.gr/" ,CORFU TV (ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ)
+https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="CRETA" tvg-logo="hub://logs/CretaTV.png" tvg-website="https://tvcreta.gr/" ,CretaTV (ΚΡΗΤΗΣ)
+http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="DELTA TV" tvg-logo="hub://logs/delta.png" tvg-website="https://deltatv.gr/" ,ΔΕΛΤΑ TV (ΑΝ. ΜΑΚΕΔΟΝΙΑΣ)
+http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="DION TV" tvg-logo="hub://logs/dion.png" tvg-name="Dion TV (Κ. ΜΑΚΕΔΟΝΙΑΣ)" tvg-website="https://diontv.gr/" ,Dion TV (Κ. ΜΑΚΕΔΟΝΙΑΣ)
+https://rtmp.win:3650/live/diontvlive.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="DION TV" tvg-logo="hub://logs/dion.png" tvg-name="Dion TV (Κ. ΜΑΚΕΔΟΝΙΑΣ)" tvg-website="https://diontv.gr/" ,Dion TV (backup) (Κ. ΜΑΚΕΔΟΝΙΑΣ)
+https://www.diontv.gr/webtv/|webdig
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="DIKTYO" tvg-logo="hub://logs/diktyo1.png" tvg-website="https://www.diktyo1.com/" ,DIKTYO 1 (Youtube) (Δ. ΜΑΚΕΔΟΝΙΑΣ )
+https://www.youtube.com/@diktyo1/streams|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="ED TV" tvg-logo="hub://logs/edtv.png" tvg-website="https://tvd.gr/" ,ΕΔ (ΑΝ. ΜΑΚΕΔΟΝΙΑΣ ΚΑΙ ΘΡΑΚΗΣ)
+https://gra1.crystalweb.net:1936/tvdelta/tvdelta/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ENA CHANNEL" tvg-logo="hub://logs/ena.png" tvg-website="https://enachannel.gr/" ,ENA CHANNEL (ΑΝ. ΜΑΚΕΔΟΝΙΑΣ ΚΑΙ ΘΡΑΚΗΣ)
+https://cdn5.smart-tv-data.com/ena/ena_channel/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="TILE EPILOGES" tvg-logo="hub://logs/epiloges.png" tvg-website="https://epiloges.tv/" ,Επιλογές tv (ΑΝ. ΜΑΚΕΔΟΝΙΑΣ ΚΑΙ ΘΡΑΚΗΣ)
+https://gra1.crystalweb.net:1936/epilogestv/epilogestv/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ETV" tvg-logo="hub://logs/etv-tv.png" tvg-name="E TV (ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ)" tvg-website="https://epsilon-tv.com/" ,E TV (ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ)
+https://neon.streams.gr:8081/epsilontv/index.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ETV" tvg-logo="hub://logs/etv-tv.png" tvg-name="E TV (ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ)" tvg-website="https://epsilon-tv.com/" ,E TV (backup) (ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ)
+https://epsilon-tv.com/|webdeskdig
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="EURO TV" tvg-logo="hub://logs/euro_tv.png" tvg-name="Euro TV (Κ. ΜΑΚΕΔΟΝΙΑΣ)" tvg-website="https://www.eurotv.gr/" ,Euro TV (Κ. ΜΑΚΕΔΟΝΙΑΣ)
+https://live20.bozztv.com/akamaissh101/ssh101/eurotvlive/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="EURO TV" tvg-logo="hub://logs/euro_tv.png" tvg-name="Euro TV (Κ. ΜΑΚΕΔΟΝΙΑΣ)" tvg-website="https://www.eurotv.gr/" ,Euro TV (backup) (Κ. ΜΑΚΕΔΟΝΙΑΣ)
+https://www.eurotv.gr/live-tv/|webdig
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="EPIRUS TV1" tvg-logo="hub://logs/ipirostv1.png" tvg-website="https://www.epirustv1.eu/" ,ΗΠΕΙΡΟΣ TV1 (ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ)
+https://rtmp.win:3929/live/epiruslive.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="HLEKTRA TV" tvg-logo="hub://logs/hlektra.png"  ,Ηλέκτρα (ΠΕΛΟΠΟΝΝΗΣΟΥ)
+https://live20.bozztv.com/giatv/giatv-hlektratv/hlektratv/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="GNOMI TV" tvg-logo="hub://logs/gnomi.png" tvg-website="http://www.gnomi.eu/" ,gnomi TV (Κ. ΜΑΚΕΔΟΝΙΑΣ)
+https://live.streams.ovh:8081/gnomitv/index.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="HIGH TV" tvg-logo="hub://logs/high_tv.png" tvg-website="https://www.hightv.gr/" ,HIGH TV (ΑΤΤΙΚΗΣ)
+http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="IONIAN CHANNEL" tvg-logo="hub://logs/ionian.png" tvg-website="https://ioniantv.gr/" ,IONIAN CHANNEL (ΠΕΛΟΠΟΝΝΗΣΟΥ)
+https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="KONTRA" tvg-logo="hub://logs/KONTRA.png" tvg-website="https://kontrachannel.gr/" ,KONTRA (ΑΤΤΙΚΗΣ)
+https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-logo="hub://logs/kos_tv.png"  ,Kos TV (ΔΩΔΕΚΑΝΗΣΟΥ ΚΑΙ ΣΑΜΟΥ)
+https://eu1.streams.gr:8081/kostv/index.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="KPHTH TV" tvg-logo="hub://logs/KRHTHTV.png" tvg-name="ΚΡΗΤΗ TV (ΚΡΗΤΗΣ)" tvg-website="http://www.cretetv.gr/" ,ΚΡΗΤΗ TV (ΚΡΗΤΗΣ)
+https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="KPHTH TV" tvg-logo="hub://logs/KRHTHTV.png" tvg-name="ΚΡΗΤΗ TV (ΚΡΗΤΗΣ)" tvg-website="http://www.cretetv.gr/" ,ΚΡΗΤΗ TV (ΚΡΗΤΗΣ) (ΕΝΑΛΛΑΚΤΙΚΟ)
+https://cdn5.smart-tv-data.com/regio/CreteTV/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="KPHTH1" tvg-logo="hub://logs/kriti1.png" ,ΚΡΗΤΗ1 (ΚΡΗΤΗΣ)
+https://livetv.streams.ovh:8081/kriti/index.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="LYCHNOS" tvg-logo="hub://logs/LYXNOC.png" tvg-website="http://i-m-patron.gr/lychnostv/" ,ΛΥΧΝΟC (ΠΕΛΟΠΟΝΝΗΣΟΥ)
+https://thor.mental-media.gr:19360/imp/imp.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="LEPANTO" tvg-logo="hub://logs/lepanto.png" tvg-website="https://lepantortv.gr/" ,Lepanto TV (ΠΕΛΟΠΟΝΝΗΣΟΥ)
+https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="MESOGEIOS TV" tvg-logo="hub://logs/mesogios.png" tvg-website="https://www.mesogeiostv.gr/" ,ΜΕΣΟΓΕΙΟΣ TV (ΠΕΛΟΠΟΝΝΗΣΟΥ)
+https://rtmp.win:3793/live/mesogeiostvlive.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="NEA TV CRETE" tvg-logo="hub://logs/NEA.png" tvg-website="https://www.neatv.gr/" ,NEA TV ΚΡΗΤΗΣ (ΚΡΗΤΗΣ)
+https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ORT" tvg-logo="hub://logs/ort.png" tvg-website="https://ort.gr/" ,ΟΡΤ Live (ΠΕΛΟΠΟΝΝΗΣΟΥ)
+https://fr.crystalweb.net:1936/ort/ort/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ONE Channel" tvg-logo="hub://logs/one_channel.png" tvg-website="https://onechannel.gr/" ,ONE TV (ΑΤΤΙΚΗΣ)
+http://push-int.siliconweb.com/one/stream/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="SAMIAKI TV" tvg-logo="hub://logs/sat-tv.png" tvg-website="https://samiaki.tv/" ,ΣΑΤ (Samiaki TV) (ΔΩΔΕΚΑΝΗΣΟΥ ΚΑΙ ΣΑΜΟΥ)
+http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="STAR B. ELLADOS" tvg-logo="hub://logs/starbe.png" tvg-website="https://www.startvfm.gr/" ,Star B. ΕΛΛΑΔΟΣ (ΑΝ. ΜΑΚΕΔΟΝΙΑΣ ΚΑΙ ΘΡΑΚΗΣ)
+http://www.startvfm.gr/live/|webdig
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="STAR K.E." tvg-logo="hub://logs/STAR-KE.png" tvg-website="https://tvstar.gr/" ,Star ΚΕΝΤΡΙΚΗΣ ΕΛΛΑΔΑΣ (ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ)
+https://telmaco-cdn.akamaized.net/starcgr/default/index.mpd
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="START TV" tvg-logo="hub://logs/START.png" tvg-website="https://www.startmediacorfu.gr/" ,START (ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ)
+https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="SYROS TV1 " tvg-logo="hub://logs/TV1.png" tvg-website="https://syrostv1.gr/" ,ΣΥΡΟΣ TV1 (ΚΥΚΛΑΔΩΝ)
+http://eco.streams.ovh:1935/syrostv1/syrostv1/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="THRAKINET" tvg-logo="hub://logs/THRAKINET.png" tvg-website="https://www.thrakinet.tv/" ,ΘΡΑΚΗNET (ΑΝ. ΜΑΚΕΔΟΝΙΑΣ ΚΑΙ ΘΡΑΚΗΣ)
+https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="THESSALIA" tvg-logo="hub://logs/thessalia.png" tvg-name="Θεσσαλία Τηλεόραση (ΘΕΣΣΑΛΙΑΣ)" tvg-name="Θεσσαλία Τηλεόραση (ΘΕΣΣΑΛΙΑΣ)" tvg-website="https://www.thessaliatv.gr/" ,Θεσσαλία Τηλεόραση (ΘΕΣΣΑΛΙΑΣ)
+https://thessaliachannel.gr:3339/live/thesstvlive.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&Referer=https://live.thessaliatv.gr/
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="THESSALIA" tvg-logo="hub://logs/thessalia.png" tvg-name="Θεσσαλία Τηλεόραση (ΘΕΣΣΑΛΙΑΣ)" tvg-name="Θεσσαλία Τηλεόραση (ΘΕΣΣΑΛΙΑΣ)" tvg-website="https://www.thessaliatv.gr/" ,Θεσσαλία Τηλεόραση (2) (ΘΕΣΣΑΛΙΑΣ)
+https://www.thessaliatv.gr/live/|weballdig
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="TELEKRHTH" tvg-logo="hub://logs/tele_kriti.png" tvg-website="https://telekriti.com/" ,Tele ΚΡΗΤΗ (ΚΡΗΤΗΣ)
+https://neon.streams.gr:8081/telekriti/index.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="TOP CHANNEL" tvg-logo="hub://logs/top.png" tvg-name="TOP CHANNEL (Δ. ΜΑΚΕΔΟΝΙΑΣ)" tvg-website="https://top-channel.gr/" ,TOP CHANNEL (Δ. ΜΑΚΕΔΟΝΙΑΣ)
+https://fr.crystalweb.net:1936/topchannel/topchannel/playlist.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="TOP CHANNEL" tvg-logo="hub://logs/top.png" tvg-name="TOP CHANNEL (Δ. ΜΑΚΕΔΟΝΙΑΣ)" tvg-website="https://top-channel.gr/" ,TOP CHANNEL (Δ. ΜΑΚΕΔΟΝΙΑΣ) (ΕΝΑΛΛΑΚΤΙΚΟ)
+https://top-channel.gr/live-tv/|webdig
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="TRT" tvg-logo="hub://logs/trt-tv.png" tvg-website="https://trttv.gr/" ,TRT TV (ΘΕΣΣΑΛΙΑΣ)
+https://av.hellasnet.tv/rst/trt/index.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="TV 100" tvg-logo="hub://logs/TV100.png" tvg-website="https://fm100.gr/" ,TV100 (Κ. ΜΑΚΕΔΟΝΙΑΣ)
+https://panel.gwebstream.eu:19360/tv100skg/tv100skg.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="KOSMOS" tvg-logo="hub://logs/tv-kosmos.png" tvg-website="https://www.tvkosmos.gr/" ,TV KOSMOS (ΔΩΔΕΚΑΝΗΣΟΥ ΚΑΙ ΣΑΜΟΥ)
+https://gra1.crystalweb.net:1936/tvkosmos/tvkosmos/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="hub://logs/red.png" ,===== ΠΑΓΚΥΠΡΙΑ ====
+http://.....
+
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="riksat" tvg-logo="hub://logs/rik-sat.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ SAT
+https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik1" tvg-logo="hub://logs/rik1.png" tvg-name="ΡΙΚ1" tvg-website="http://cybc.com.cy/" ,ΡΙΚ1 [ΜΟΝΟ ΓΙΑ ΚΥΠΡΟ]
+http://l6.cloudskep.com/rikct/rik1/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik1" tvg-logo="hub://logs/rik1.png" tvg-name="ΡΙΚ1" tvg-website="http://cybc.com.cy/" ,ΡΙΚ1 - ΕΝΑΛΛΑΚΤΙΚΟ [ΜΟΝΟ ΓΙΑ ΚΥΠΡΟ]
+https://tv.rik.cy/live-tv/rik-1/|webdig
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik1" tvg-logo="hub://logs/rik1.png" tvg-name="ΡΙΚ1" tvg-website="http://cybc.com.cy/" ,ΡΙΚ1 (2)
+http://31.121.110.30:4000/play/a023/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik2" tvg-logo="hub://logs/rik2.png" tvg-name="ΡΙΚ2" tvg-website="http://cybc.com.cy/" ,ΡΙΚ2 [ΜΟΝΟ ΓΙΑ ΚΥΠΡΟ]
+http://l6.cloudskep.com/rikct/rik2/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik2" tvg-logo="hub://logs/rik2.png" tvg-name="ΡΙΚ2" tvg-website="http://cybc.com.cy/" ,ΡΙΚ2 - ΕΝΑΛΛΑΚΤΙΚΟ [ΜΟΝΟ ΓΙΑ ΚΥΠΡΟ]
+https://tv.rik.cy/live-tv/rik-2/|webdig
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik2" tvg-logo="hub://logs/rik2.png" tvg-name="ΡΙΚ2" tvg-website="http://cybc.com.cy/" ,ΡΙΚ2 (2)
+http://31.121.110.30:4000/play/a024/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="RIK HD" tvg-logo="hub://logs/rik-hd.png" tvg-name="ΡΙΚHD" tvg-website="http://cybc.com.cy/" ,ΡΙΚHD [ΜΟΝΟ ΓΙΑ ΚΥΠΡΟ]
+http://l6.cloudskep.com/rikct/rikhd/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="RIK HD" tvg-logo="hub://logs/rik-hd.png" tvg-name="ΡΙΚHD" tvg-website="http://cybc.com.cy/" ,ΡΙΚHD - ΕΝΑΛΛΑΚΤΙΚΟ [ΜΟΝΟ ΓΙΑ ΚΥΠΡΟ]
+https://tv.rik.cy/live-tv/rik-hd/|webdig
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Omega" tvg-logo="hub://logs/omega.png" tvg-name="OMEGA" tvg-website="http://www.omegatv.com.cy/" ,OMEGA
+http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Omega" tvg-logo="hub://logs/omega.png" tvg-name="OMEGA" tvg-website="http://www.omegatv.com.cy/" ,OMEGA - ΕΝΑΛΛΑΚΤΙΚΟ 
+https://www.omegatv.com.cy/live/|weballdig
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Omega" tvg-logo="hub://logs/omega.png" tvg-name="OMEGA" tvg-website="http://www.omegatv.com.cy/" ,OMEGA (2)
+http://31.121.110.30:4000/play/a027/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Sigma" tvg-logo="hub://logs/sigma.png" tvg-name="ΣΙΓΜΑ" tvg-website="https://www.sigmatv.com/home" ,SIGMA
+https://ottstream.iptv.prime-tel.net/streaming-web/SigmaLive/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Sigma" tvg-logo="hub://logs/sigma.png" tvg-name="ΣΙΓΜΑ" tvg-website="https://www.sigmatv.com/home" ,SIGMA (2)
+http://31.121.110.30:4000/play/a025/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="Alpha Cyprus" tvg-logo="hub://logs/Alpha_Cyprus.png" tvg-name="ΑΛΦΑ" tvg-website="https://www.alphacyprus.com.cy/" ,ΑΛΦΑ 
+https://www.alphacyprus.com.cy/live|weballdig
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="ANT1CY" tvg-logo="hub://logs/ANT1.png" tvg-name="ΑΝΤΕΝΝΑ" tvg-website="https://www.ant1live.com/" ,ΑΝΤ1 KYΠΡΟΥ
+http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="ANT1CY" tvg-logo="hub://logs/ANT1.png" tvg-name="ΑΝΤΕΝΝΑ" tvg-website="https://www.ant1live.com/" ,ΑΝΤ1 KYΠΡΟΥ - ΕΝΑΛΛΑΚΤΙΚΟ
+https://www.ant1live.com/webtv/live|webdelayalldig
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="ANT1CY" tvg-logo="hub://logs/ANT1.png" tvg-name="ΑΝΤΕΝΝΑ" tvg-website="https://www.ant1live.com/" ,ΑΝΤ1 KYΠΡΟΥ (2)
+http://31.121.110.30:4000/play/a026/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Berginacy"  tvg-name="ΒΕΡΓΙΝΑ ΤV" tvg-logo="hub://logs/vergina.png" tvg-website="https://verginatv.cy/" ,ΒΕΡΓΙΝΑ ΤV
+https://verginanews.gr:8443/hls_live/stream2.m3u8
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Extra TV" tvg-logo="hub://logs/ONE-CY.png" ,ONE Channel CY
+https://aliez.me/live/m1i1vavi266bcdwp7694/|weballdig
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Capital" tvg-logo="hub://logs/capital.png" ,CAPITAL
+https://aliez.me/live/mwx5e0n783q9mp0fzqk4/|weballdig
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="Plus TV" tvg-logo="hub://logs/plus.png" ,Plus
+https://aliez.tv/live/35d7zu879grqvfjjpfzn/|weballdig
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="smile" tvg-logo="hub://logs/smile.png" ,Smile
+https://aliez.tv/live/v165d7mvix41fjyk9z5i/|weballdig
+
+
+
+
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/red.png" ,===== ΔΙΑΔΙΚΤΥΑΚΑ ====
+http://.....
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-id="extacydiscovey" tvg-logo="hub://logs/extacy_disc2.jpg" ,EXTACY TV DISCOVERY
+https://eu1.servers10.com:8081/8232/index.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-id="europeone" tvg-logo="hub://logs/europe1.png" tvg-name="EUROPE ONE" ,EUROPE ONE
+https://eu1.servers10.com:8081/8226/index.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-id="EGNATIA" tvg-logo="hub://logs/egnatia.png" tvg-website="https://www.egnatia.tv/" ,ΕΓΝΑΤΙΑ
+https://video.streams.ovh:1936/egnatiatv/egnatiatv/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/pellatv.png" tvg-website="https://www.pellatv.gr/" ,Pella tv
+https://video.streams.ovh:1936/pellatv/pellatv/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-id="TV RODOPI" tvg-logo="hub://logs/tvrodopi.png" tvg-website="https://www.tvrodopi.gr/" ,TV ΡΟΔΟΠΗ ΑΜΘ
+https://fr.crystalweb.net:1936/tvrodopi/tvrodopi/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logs/ert_christmas.png" ,Εurovision Channnel
+https://ertflix.siliconweb.com/mpegts/618618_3827970/master_mpegts.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"   tvg-id="ert-news" tvg-logo="hub://logs/ertnews.png" tvg-name="ΕΡΤ News" tvg-website="https://www.ertflix.gr" ,ΕΡΤ News
+https://cdn3.smart-tv-data.com/vid/ertnews/manifest.mpd
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"   tvg-id="ert-news" tvg-logo="hub://logs/ertnews.png" tvg-name="ΕΡΤ News" tvg-website="https://www.ertflix.gr" ,ΕΡΤ News (1)
+http://ertflix.ascdn.broadpeak.io/ertlive/ertnews/default/index.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"   tvg-id="ert-news" tvg-logo="hub://logs/ertnews.png" tvg-name="ΕΡΤ News" tvg-website="https://www.ertflix.gr" ,ΕΡΤ News (2)
+http://195.226.218.163/vid/ertnews/mpeg.2ts
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/ertnews.png" tvg-website="https://www.ertflix.gr" ,ΕΡΤ News 2
+http://ertflix.siliconweb.com/cmaf/618618_3479304/index.mpd
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/ertnews.png" tvg-website="https://www.ertflix.gr" ,ΕΡΤ News 3
+https://ertflix.siliconweb.com/cmaf/618618_3479307/index.mpd
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/mega_news.png" tvg-website="https://www.megatv.com/meganews/" tvg-name="Mega News" ,Mega News
+https://streamcdnb1-c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/mega_news.png" tvg-website="https://www.megatv.com/meganews/" tvg-name="Mega News" ,Mega News (2)
+https://vid1.megatv-ctv.com/mega/meganews/mpeg.2ts
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/mega_news.png" tvg-website="https://www.megatv.com/meganews/" tvg-name="Mega News" ,Mega News (3)
+https://speech5.anixa.tv/megaCC/meganews/manifest.mpd
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/montreal.png" ,Montreal
+http://live.greektv.ca/hls1/greektv.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/greek_voice.png" ,GREEK VOICE 
+http://65.108.62.57:8080/live/greektv1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/674.52 (KHTML, like Gecko) Chrome/172.0.8205.216 Safari/674.52
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/ellas_world.png" ,Ellas World
+https://ellastvmax.ath.cx/freetv/promo/index.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/xplore.png" ,XPLORE Channel
+http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/notioi.gr.png" ,Νότιοι tv
+https://srv.streamserver.gr:3451/stream/play.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/marontv.png" tvg-website="https://marontv.gr/" , Maron TV
+https://fr.crystalweb.net:1936/marontv/marontv/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/nstvlive.png" tvg-website="https://nstv.gr/" ,NStv.gr
+https://rtmp.win:3882/live/nstv7live.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/ypervasi.png" tvg-website="https://ypervasitv.gr/" ,ypervasiTV (Youtube)
+https://www.youtube.com/@kinimaypervasi/streams|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-id="naftemporiki" tvg-logo="hub://logs/naftemporiki.png" tvg-website="https://www.naftemporiki.gr" ,Naftemporiki TV
+https://188125.global.ssl.fastly.net/631af9c016e5eace19ff9a5b/live_048998706a2311ee83b33fe7fbad252d/index.fmp4.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logs/destinationgr.png" tvg-website="https://www.destinationgreece.tv/" ,Destination Greece TV
+https://2-fss-1.streamhoster.com/pl_148/203374-5434856-1/chunklist.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logs/stenttv.png" tvg-website="https://stent.net.gr/" ,Stent tv 
+https://live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logs/konitsa-tv.png" tvg-website="https://konitsa-tv7.webnode.gr/" ,KONITSA TV
+https://live20.bozztv.com/akamaissh101/ssh101/konitsalivetv/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logs/ime_webtv.png" tvg-website="http://tv.ime.gr/" ,IME Web TV
+http://theagenis.fhw.gr:8080/hls/maintv/index.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/hellenic_tv.png" tvg-website="https://www.hellenictv.net/" ,Hellenic TV
+https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logs/village.png"  ,VILLAGE WORLD
+https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logs/athes-geo-tv.png"  ,ATHENS Geo. TV
+https://pro.free.hr:3236/stream/play.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logs/grd24.png"  ,GRD Channel
+https://fr.crystalweb.net:1936/grdchannel/grdchannel/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logs/xalastra.png" tvg-website="https://kampanianews.gr/%CF%87%CE%B1%CE%BB%CE%AC%CF%83%CF%84%CF%81%CE%B1-%CF%84%CE%B7%CE%BB%CE%B5%CF%8C%CF%81%CE%B1%CF%83%CE%B7-live/" ,Xalastra
+https://gra1.crystalweb.net:1936/xalastratv/xalastratv/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logs/greece24.png" ,GREECE24
+https://live20.bozztv.com/akamaissh101/ssh101/greece24/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logs/pontos.png" ,PONTOS TV
+https://rtmp.win:3842/live/recme1live.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logs/channel8.png" ,Channel 8
+https://www.channel8.gr/|weballdig
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-name="ProNews" tvg-logo="hub://logs/pronews.png" ,ProNews
+https://pro.free.hr:3887/live/pronewslive.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-name="ProNews" tvg-logo="hub://logs/pronews.png" ,ProNews (2)
+https://www.twitch.tv/extrapronewstv|weballdig
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logs/EXTRA-PRONEWS.png" ,Extra ProNews
+http://62.1.176.18:8888/extra/index.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logs/plutontv.png" ,Pluton TV
+https://web.onair-radio.eu/plutontv/plutontv/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logs/gaming_lab.png" ,GAMING LAB LIVE TV 24.7
+https://www.twitch.tv/247gaminglabgr|weballdig
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" ,FreeAngelWebTv
+https://www.twitch.tv/freeangelwebtv|weballdig
+
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="hub://logs/red.png" ,===== ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ ====
+http://.....
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="hub://logs/faroscy.png" tvg-website="https://www.farosonair.com/" ,ΦΑΡΟΣ on Air
+https://s1.cystream.net/live/faros1/chunks.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="hub://logs/faroscy.png" tvg-website="https://www.farosonair.com/" ,ΦΑΡΟΣ on Air2
+https://s1.cystream.net/live/faros2/chunks.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="https://alfasports.tv/wp-content/uploads/2017/07/19650478_10213391687526137_730682022_o.png" tvg-website="https://alfasports.tv/" ,Alfa Sports TV
+https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&Referer=https://dev.aftermind.xyz/alfa_sports.html
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ" tvg-logo="http://citychannel.live/wp-content/uploads/2019/08/cropped-53146093_327305117905839_3890747505498914816_n.png" tvg-website="https://citychannel.live/" ,City Channel
+https://dev.aftermind.xyz/hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jrzqEqx|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&Referer=https://dev.aftermind.xyz/city_channel.html
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ" tvg-logo="http://vouli.tv/wp-content/uploads/2019/09/cropped-voulilogo-e1517760078658.png" tvg-website="https://vouli.tv/" ,Vouli.tv
+https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&Referer=https://dev.aftermind.xyz/vouli.html
+
+
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/red.png" ,=====   ΤΑΙΝΙΕΣ   ====
+http://.....
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacy" tvg-logo="hub://logs/extacy-tv.png" tvg-name="Extacy TV" ,Extacy TV
+https://eu1.servers10.com:8081/8238/index.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacygr" tvg-logo="hub://logs/extacygr.png" tvg-name="Extacy TV GREEKS" ,Extacy TV GREEKS
+https://eu1.servers10.com:8081/8364/index.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacycin" tvg-logo="hub://logs/extacy-cinema.png" tvg-name="Extacy TV CINEMA" ,Extacy TV CINEMA
+https://eu1.servers10.com:8081/8376/index.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="zeys" tvg-logo="https://i.ibb.co/84Q1j5Zp/zeys.png" tvg-name="ΖΕΥΣ TV" ,ΖΕΥΣ TV
+https://eu1.servers10.com:8081/8242/index.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-id="ANTCOMEDY" tvg-logo="hub://logs/ant1_comedy.png" ,ANT1 Comedy
+https://lcdn.antennaplus.gr/r2921141ed585493580aba05cf37a76cb/eu-central-1/6415884360001/playlist.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-id="ANTDRAMA" tvg-logo="hub://logs/ant1_drama.png" ,ANT1 Drama
+https://lcdn.antennaplus.gr/r123fc9b6eb1b493fa0ac71004f572652/eu-central-1/6415884360001/playlist.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/sierra.png" ,Sierra Channel
+https://fr.crystalweb.net:1936/sierra/sierra/playlist.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/nettv_to.png" ,NETV TORONTO
+https://eu1.streams.gr:8081/netvtoronto/index.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/nettv_eu.png" ,NETV EUROPE
+https://neon.streams.gr:8081/netveurope/index.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/DIAVATA.png" tvg-name="DiavataTV",DiavataTV
+https://live20.bozztv.com/giatv/giatv-diavatatvonline/diavatatvonline/playlist.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/DIAVATA.png" tvg-name="DiavataTV",DiavataTV - Εναλλακτικό
+https://live21.bozztv.com/akamaissh101/ssh101/diavatatvweb/playlist.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/Groovy.png" ,Groovy
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/netmax.png" ,Netmax TV
+https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="hub://logs/cinema_classic.png" ,Cinema Classics
+https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="hub://logs/village.png" ,Village World
+https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="hub://logs/choice.png" ,Choice TV
+https://eu1.streams.gr:8081/choicetv/index.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="hub://logs/ionia.png" ,ΙΩΝΙΑ ΤV
+https://live21.bozztv.com/akamaissh101/ssh101/tvioniathess/playlist.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="hub://logs/Dipolo.png" ,Dipolo TV
+https://channel.streams.ovh:8081/dipolotv/index.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/lapsi.png" tvg-website="https://www.lampsitv.eu" ,Λάμψη Tv
+https://pro.free.hr:3343/live/l1llive.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/ELLADA_TV.jpg" tvg-website="https://elladafm.gr/webtvnew/" ,ELLADA TV
+https://tvstream.elladafm.gr:3989/live/elladasportstvlive.m3u8
+
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/red.png" ,=====   ΜΟΥΣΙΚΗ   ====
+http://.....
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/mad_workd.png" ,MAD World
+https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/mad.png" ,MAD
+https://stream.castr.com/677fafaf8ca2a4c22070dcd7/live_630666b0fe9911ef8b76c5c61e61d902/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34&referer=https://player.castr.com/
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-id="extacymusic" tvg-logo="hub://logs/extacy_music2.jpg" tvg-name="EXTACY TV MUSIC" ,EXTACY TV MUSIC
+https://eu1.servers10.com:8081/8164/index.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/net_music.png" ,NETV Music
+https://rtmp.streams.ovh:8081/netvmusic/index.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/kisshd.png" ,KISS HD
+https://kisstv.siliconweb.com/kissfm/kisstv/chunks.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="hub://logs/baraza.png" tvg-website="https://app.barazaradio.com/" ,Baraza TV 80-90s-00s
+https://media2.streambrothers.com:19360/8116/8116.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="hub://logs/baraza.png" tvg-website="https://app.barazaradio.com/" ,Baraza 80'S MUSIC
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="hub://logs/baraza.png" tvg-website="https://app.barazaradio.com/" ,Baraza Greek Music Hits
+https://eco.streams.ovh:8081/barazatv/index.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="hub://logs/baraza.png" tvg-website="https://app.barazaradio.com/", Baraza Greek Laika
+https://gra1.crystalweb.net:1936/barazatv/barazatv/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="hub://logs/baraza.png" tvg-website="https://app.barazaradio.com/" ,Baraza RELAX MUSIC
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="hub://logs/baraza.png" tvg-website="https://app.barazaradio.com/" ,Baraza DJ MUSIC
+https://gra1.crystalweb.net:1936/barazadjmusic/barazadjmusic/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="hub://logs/real-music.png" tvg-website="http://www.realmusic.gr/" ,Real Music TV
+https://webtv.topwebhost.gr:3302/stream/play.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/THLE_MOUSIKH.png" ,ΤΗΛΕ ΜΟΥΣΙΚΗ
+http://65.108.62.57:8080/live2/greekmusic.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/778.59 (KHTML, like Gecko) Chrome/166.0.9708.854 Safari/778.59
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/NRG.png" tvg-website="https://nrg91.gr/tv/" ,NRG TV
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/ellinikos.png" tvg-website="https://ellinikos932.fm/" ,Ellinikos FM
+https://orange.live24.gr/orange9320
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/ZOUGLA.png"  tvg-name="ΖΟΥΓΚΛΑ" tvg-website="https://www.zougla.gr" ,ΖΟΥΓΚΛΑ
+https://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/ZOUGLA.png"  tvg-name="ΖΟΥΓΚΛΑ" tvg-website="https://www.zougla.gr" ,ΖΟΥΓΚΛΑ (ΕΝΑΛΛΑΚΤΙΚΟ)
+https://www.zougla.gr/live|webdig
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-id="panik-tv" tvg-logo="hub://logs/panicfm.png" tvg-website="https://panikmusic.gr/panik-tv/" ,Panik TV
+https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="hub://logs/klikfm.png" tvg-website="https://klikfm.com.cy/" ,Klik FM
+https://cdn.istoikona.com/klikfmcy/klikfmcyprus/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-website="https://nasostv.com/" ,Nasos TV  Radio
+https://fr.crystalweb.net:1936/radioeirhnhtv/radioeirhnhtv/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/MESSINIA.png" tvg-website="https://messiniaradio.gr/messinia-webtv/" ,MESSINIA WEB TV
+https://rtmp.win:3373/live/messiniatvlive.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/rythmos.png" tvg-website="https://rythmos.com.au/tv/" ,Rythmos TV
+https://5c389faa13be3.streamlock.net:9553/rythmos/rythmos/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/hotbeats.png" ,Hot Beats TV HD
+https://m.twitch.tv/hotbeatstv?desktop-redirect=true|webdig
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/now70s.png",Now 70s
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/now80s.png" ,Now 80s
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/NOW-Rock.png" ,Now Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="hub://logs/v2b.png" ,V2BEAT TV
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="hub://logs/onar.png" ,ONAR TV
+https://live20.bozztv.com/akamaissh101/ssh101/onarradiotv/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="hub://logs/dejavufm.png" ,Dejavufm
+https://www.twitch.tv/dejavufmlive|webdig
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="hub://logs/red_music.png" ,RED
+https://fr.crystalweb.net:1936/redmusic/redmusic/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="hub://logs/vantage_music.png" ,Vantage Music
+https://hls.vantagetv.ee/vmusic_stream/index.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="hub://logs/vantage_dance.png" ,Vantage Dance
+https://hls.vantagetv.ee/vdance_stream/index.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="hub://logs/vantage_rock.png" ,Vantage Rock
+https://hls.vantagetv.ee/vrock_stream/index.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="hub://logs/trace_urban.png" ,Trace Urban
+https://www.epicon.in/distro-tv/3243|weballdig
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="hub://logs/trace_latina.png" ,Trace Latina
+https://www.epicon.in/distro-tv/3242|weballdig
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="hub://logs/trace_brazuca.png" ,Trace Brazuca
+https://www.epicon.in/distro-tv/3307|weballdig
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="hub://logs/trace_uk.png" ,Trace UK
+https://www.epicon.in/distro-tv/5155|weballdig
+
+
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/red.png" ,=====   ΠΑΙΔΙΚΑ   ====
+http://.....
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-id="extacykids" tvg-logo="hub://logs/extacy_kids.jpg" tvg-name="EXTACY TV KIDS" ,EXTACY TV KIDS
+https://eu1.servers10.com:8081/8046/index.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-id="smile" tvg-logo="hub://logs/smile.png" tvg-name="Smile" ,Smile
+https://aliez.tv/live/v165d7mvix41fjyk9z5i/|weballdig
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/ertkids.png" tvg-name="ErtFlix Kids" ,ErtFlix Kids
+http://195.226.218.163/vid/kidstv-hbbtv/mpeg.2ts
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/ertkids.png" tvg-name="ErtFlix Kids" ,ErtFlix Kids (2)
+https://ertflix.ascdn.broadpeak.io/ertlive/kids/default/index.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/cartoons.png" ,Cartoons 1
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/cartoons.png" ,Cartoons 2
+https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/cartoons.png" ,Cartoons 3
+https://dz4jacps8l0pw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h2eezuzejgrr2-ssai-prd/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/cartoons.png" ,Cartoons 4
+https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/cartoons.png" ,Cartoons 5
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=826
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/cartoons.png" ,Cartoons 6
+https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/cartoons.png" ,Cartoons 7
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/cartoons.png" ,Cartoons 8
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/cartoons.png" ,Cartoons 9
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/cartoons.png" ,Cartoons 10
+https://amg01076-lightningintern-kartoonchannel-samsungnz-t8blu.amagi.tv/playlist/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/retro_toons.png" ,Retro Cartoons
+https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8?hdnts=st=1716944483~exp=1716948083~acl=!*/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/*!yuppTVCom_61_-1_01c5a9561a134685_BD_103.91.128.128/payload/yuppTVCom_61_-1_01c5a9561a134685_BD_103.91.128.128/*~hmac=a06f52adb102561f049ef1e699ba1146af13ddbaf0d52574327c257f504b2c8a&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=ENG&ads.content_genre=ENT&ads.channel=6591&ads.channel_name=CARTOONTVCLASSICS&ads.network_name=yupptv&ads.user=0
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/retro_toons.png" ,Retro Cartoons 2
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="hub://logs/moonbug_kids.png" ,Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-logo="hub://logs/mr.-bean-animated.png" ,MR BEAN ANIMATED
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/Barbie-and-Friends.png" ,Barbie and friends
+https://d1xqdnwy1bo05f.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jh1ol665g3amg/barb.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/smurfs.png" ,Smurfs
+https://d144py1prrd7ns.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-affg2ev32s0dq/smrfe.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/wb_kids.png" ,WB KIDS (Youtube)
+https://www.youtube.com/@WBKidsInternational/videos|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/zouzounia.png" tvg-website="https://www.zouzounia.tv/" ,ΑΓΑΠΗΜΕΝΑ ΠΑΙΔΙΚΑ ΤΡΑΓΟΥΔΙΑ με τα Ζουζούνια (Youtube)
+https://www.youtube.com/@zouzounia_tv/videos|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/klapsoulinia.png" ,Κλαψουλίνια (Youtube)
+https://www.youtube.com/watch?v=76wyKYBnd28
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/Oddbods.png" ,Oddbods (Youtube)
+https://www.youtube.com/@Oddbods/videos|webepg zoom=100 scroll=0,0
+
+
+#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-logo="hub://logs/red.png" ,=====   ΕΚΚΛΗΣΙΑΣΤΙΚΑ   ====
+http://.....
+#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-id="4Ε" tvg-logo="hub://logs/4E.png" tvg-website="https://tv4e.gr/index.php/" ,4E (Κ. ΜΑΚΕΔΟΝΙΑΣ )
+http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
+#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"   tvg-logo="hub://logs/agios_ioannis.png" tvg-website="https://agiosioannistheologosmantoudiou.blogspot.com/" ,Άγιος Ιωάννης στο Μαντούδι Ευβοίας
+https://eu1.streams.gr:8081/agiosioannis/index.m3u8
+#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-id="LYCHNOS" tvg-logo="hub://logs/LYXNOC.png" tvg-website="http://i-m-patron.gr/lychnostv/" ,ΛΥΧΝΟC (ΠΕΛΟΠΟΝΝΗΣΟΥ)
+https://thor.mental-media.gr:19360/imp/imp.m3u8
+#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-logo="hub://logs/ekkisia_tv.png" ,Εκκλησία tv HD
+https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
+#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-logo="hub://logs/ecclesiatv.png" tvg-website="https://ecclesiatv.gr/" ,ecclesiaTV.gr
+https://www.youtube.com/watch?v=6b807pC42ZU
+#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-logo="hub://logs/ekklisia_online.png" tvg-website="https://www.ekklisiaonline.gr/" ,ΕΚΚΛΗΣΙΑ Online (YOUTUBE)
+https://www.youtube.com/@ekklisiaonline/streams|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-logo="hub://logs/eklisia_online.png" ,ΕΚΚΛΗΣΙΑ ONLINE NEWS LIVE (YOUTUBE)
+https://www.youtube.com/@ekklisianews/streams|webepg zoom=100 scroll=0,0
+
+
+
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/red.png" ,=====   ΔΙΕΘΝΗ ΔΙΚΤΥΑ    ====
+http://.....
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/star.png" ,STAR International
+https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/mega_cosmos.jpeg" ,Mega Cosmos
+http://cdn.smart-tv-data.com/mega/MegaCosmos/mpeg.2ts
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="ert" tvg-logo="hub://logs/ERT-WORLD.png"  tvg-name="ΕΡΤ WORLD" tvg-website="https://www.ertflix.gr" ,ΕΡΤ WORLD
+https://ertflix-ertworld.siliconweb.com/mpegts/618618_3479286/media_mpegts_0.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="ert" tvg-logo="hub://logs/ERT-WORLD.png"  tvg-name="ΕΡΤ WORLD" tvg-website="https://www.ertflix.gr" ,ΕΡΤ WORLD (2)
+http://hbbtvapp.ert.gr/stream.php/v/vid_ertworld_mpeg.2ts
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="ert" tvg-logo="hub://logs/ERT-WORLD.png"  tvg-name="ΕΡΤ WORLD" tvg-website="https://www.ertflix.gr" ,ΕΡΤ WORLD (3)
+https://cdn3.smart-tv-data.com/vid/ertworld/manifest.mpd
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="Euronews" tvg-logo="hub://logs/EURONEWS.png"  tvg-website="https://gr.euronews.com/" ,Euronews GR
+https://www.youtube.com/watch?v=uWIhV9gQClg
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="Euronews" tvg-logo="hub://logs/EURONEWS.png"  tvg-website="https://gr.euronews.com/" ,Euronews EN
+https://www.youtube.com/@euronews/live
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="hub://logs/africanews.png" tvg-website="https://www.africanews.com/live/" ,AfricaNews
+https://www.youtube.com/watch?v=NQjabLGdP5g
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="Al Jazeera English" tvg-logo="hub://logs/alzaera.png" tvg-website="https://www.aljazeera.com/" ,Al Jazeera
+https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="RT" tvg-logo="hub://logs/Russia-today.png"  tvg-name="Russia Today" tvg-website="https://www.rt.com/" ,Russia Today
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="RT" tvg-logo="hub://logs/Russia-today.png" tvg-name="Russia Today" tvg-website="https://www.rt.com/" ,Russia Today (2)
+https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8?
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/france24.png" tvg-website="https://www.france24.com/en/" ,FRANCE 24 (Youtube)
+https://www.youtube.com/watch?v=Ap-UM1O9RBU
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/cnn.png" tvg-name="CNN International" tvg-website="https://edition.cnn.com/" ,CNN International
+https://cdn-fr1-eu.lncnetworks.host/hls/cnni_live/index.m3u8|referer=https://livenewschat.eu/
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/cnn.png" tvg-name="CNN International" tvg-website="https://edition.cnn.com/" ,CNN International-2
+https://cdn-de1-eu.lncnetworks.host/hls/cnni_live/index.m3u8|referer=https://livenewschat.eu/
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/cgtn.png" tvg-website="https://www.cgtn.com/" ,CGTN
+https://english-livebkali.cgtn.com/live/encgtn.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="hub://logs/dw.png" tvg-name="DW" tvg-website="https://www.dw.com/en/" ,DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="hub://logs/dw.png" tvg-name="DW" tvg-website="https://www.dw.com/en/" ,DW (2)
+http://195.226.218.163/vid/dw-hbbtv/mpeg.2ts
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="hub://logs/bloomberg.png" tvg-website="https://www.bloomberg.com/" ,Bloomberg
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="hub://logs/tv5monde.png" tvg-name="TV5 Monde" tvg-website="https://www.tv5monde.com/" ,TV5 Monde
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="hub://logs/tv5monde.png" tvg-name="TV5 Monde" tvg-website="https://www.tv5monde.com/" ,TV5 Monde (2)
+http://hbbtv.ert.gr/stream.php/v/vid_ertplay6_mpeg.2ts
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="hub://logs/bbc-news-global.png" tvg-name="BBC World News" tvg-website="https://www.bbc.com/news/world" ,BBC World News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="hub://logs/bbc-news-global.png" tvg-name="BBC World News" tvg-website="https://www.bbc.com/news/world" ,BBC World News (2)
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="hub://logs/rai_news.png" tvg-website="https://www.rainews.it/" ,Rai News 24
+https://www.rainews.it/notiziari/rainews24|webdig
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-id="Sky News" tvg-logo="hub://logs/sky-news.png"  tvg-website="https://news.sky.com/" ,Sky News
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/World_Fashion.png"  tvg-website="https://wfc.tv/" ,World Fashion
+https://cdn.wfc.tv/cdn/stream-eng.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/NHK-World-Japan.png" ,NHK World Japan
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/arirang.png" tvg-website="https://www.arirang.com/"  ,Arirang TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/fashio_tv.png" tvg-website="https://www.fashiontv.com/"  ,Fashion TV
+https://fash1043.cloudycdn.services/store/_definst_/tmsp00043/vod/03/f7/372028/se9_CELEB_INTE_658220.smil/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/weatherspy.png" ,Weather-Spy
+https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/fox-news.png" ,Fox News
+https://fl41.moveonjoy.com/FOX_NEWS_CHANNEL/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/fox-now.png" ,Fox Now
+https://www.livenowfox.com/|weballdig
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/cbsnews.png" ,CBS News
+https://www.youtube.com/watch?v=fAtdxCiqX_o
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/Canal24.png" ,Canal 24 Horas
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+
+
+
+#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ"  tvg-logo="hub://logs/red.png" ,=====   ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ    ====
+http://.....
+#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ" tvg-logo="hub://logs/epgsss.png" ,Cosmote TV
+https://www.cosmotetv.gr/portal/residential/program|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ" tvg-logo="hub://logs/epgsss.png" ,Nova
+https://epg.nova.gr/|webdeskepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ" tvg-logo="hub://logs/epgsss.png" ,NovaSports
+https://www.novasports.gr/tv-program/|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ" tvg-logo="hub://logs/epgsss.png" ,Cyta Cyprus
+https://www.cyta.com.cy/tv-guide|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ"  tvg-logo="hub://logs/sports-schedule.png" ,Αθλητικές Μεταδόσεις (gazzetta)
+https://www.gazzetta.gr/tv-program|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ"  tvg-logo="hub://logs/sports-schedule.png" ,Αθλητικές Μεταδόσεις (athinorama)
+https://www.athinorama.gr/tv/programma/athlitikesmetadoseis/|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ"  tvg-logo="hub://logs/sports-schedule.png" ,Αθλητικές Μεταδόσεις (ERT)
+https://program.ert.gr/tvsports.asp|webepg zoom=100 scroll=0,0
