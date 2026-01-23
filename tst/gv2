@@ -10,6 +10,8 @@ http://.....
 https://www.ertflix.gr/epg/now-on-tv|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="hub://logs/ERT1.png" tvg-name="ΕΡΤ1" tvg-website="https://www.ertflix.gr" ,ΕΡΤ1 HD (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
 https://ertflix.ascdn.broadpeak.io/ertlive/ert1/clrdef24723b/index.mpd
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="hub://logs/ERT1.png" tvg-name="ΕΡΤ1" tvg-website="https://www.ertflix.gr" ,ΕΡΤ1 (vip)
+sec:ch4
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="hub://logs/ERT1.png" tvg-name="ΕΡΤ1" tvg-website="https://www.ertflix.gr" ,ΕΡΤ1 HD (4)
 https://aliez.me/live/39qi7ee9ru30iw7myt23/|weballdig
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert2" tvg-logo="hub://logs/ERT2_SPOR.png" tvg-name="ΕΡΤ2" tvg-website="https://www.ertflix.gr" ,ΕΡΤ2 HD ΣΠΟΡ (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
@@ -26,6 +28,8 @@ https://ertflix.siliconweb.com/mpegts/618618_2341560/master_mpegts.m3u8
 http://31.121.110.30:4000/play/a029/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1" tvg-logo="hub://logs/ANT1.png" tvg-name="ANT1" tvg-website="https://watch.antennaplus.gr/#/" ,ANT1 HD
 https://lcdn.antennaplus.gr/r86d08d448885424196f6cd3ddc5d1489/eu-central-1/6415884360001/playlist_dvr.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1" tvg-logo="hub://logs/ANT1.png" tvg-name="ANT1" tvg-website="https://watch.antennaplus.gr/#/" ,ANT1 (vip)
+sec:ch3
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1" tvg-logo="hub://logs/ANT1.png" tvg-name="ANT1" tvg-website="https://watch.antennaplus.gr/#/" ,ANT1 HD (3)
 http://31.121.110.30:4000/play/a028/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1" tvg-logo="hub://logs/ANT1.png" tvg-name="ANT1" tvg-website="https://watch.antennaplus.gr/#/" ,ANT1 HD (4)
@@ -40,14 +44,20 @@ http://31.121.110.30:4000/play/a02d/index.m3u8|User-Agent=Mozilla/5.0 (Windows N
 https://aliez.me/live/uab2p85ge9b1h98355dc/|weballdig
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="SKAI" tvg-logo="hub://logs/skai.png" tvg-name="SKAI" tvg-website="https://www.skaitv.gr/" ,SKAI HD
 https://skai-live.siliconweb.com/media/cambria4/index.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="SKAI" tvg-logo="hub://logs/skai.png" tvg-name="SKAI" tvg-website="https://www.skaitv.gr/" ,SKAI (vip)
+sec:ch6
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="SKAI" tvg-logo="hub://logs/skai.png" tvg-name="SKAI" tvg-website="https://www.skaitv.gr/" ,SKAI HD (4)
 https://aliez.me/live/lr1r85im6v463hwna4v8/|weballdig
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="STAR" tvg-logo="hub://logs/star.png" tvg-name="STAR" tvg-website="https://www.star.gr/tv" ,STAR HD
 https://livestar.siliconweb.com/starvod/star4/star4.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="STAR" tvg-logo="hub://logs/star.png" tvg-name="STAR" tvg-website="https://www.star.gr/tv" ,STAR (vip)
+sec:ch5
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="STAR" tvg-logo="hub://logs/star.png" tvg-name="STAR" tvg-website="https://www.star.gr/tv" ,STAR HD (4)
 https://aliez.me/live/uwcin0kbwr9g209j5if3/|weballdig
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ALPHA" tvg-logo="hub://logs/Alpha_TV.png" tvg-name="ALPHA" tvg-website="https://www.alphatv.gr/" ,ALPHA HD
 https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ALPHA" tvg-logo="hub://logs/Alpha_TV.png" tvg-name="ALPHA" tvg-website="https://www.alphatv.gr/" ,ALPHA (vip)
+sec:ch2
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ALPHA" tvg-logo="hub://logs/Alpha_TV.png" tvg-name="ALPHA" tvg-website="https://www.alphatv.gr/" ,ALPHA HD (3)
 http://31.121.110.30:4000/play/a02c/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ALPHA" tvg-logo="hub://logs/Alpha_TV.png" tvg-name="ALPHA" tvg-website="https://www.alphatv.gr/" ,ALPHA HD (4)
@@ -285,13 +295,21 @@ https://www.ant1live.com/webtv/live|webdelayalldig
 http://31.121.110.30:4000/play/a026/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Berginacy"  tvg-name="ΒΕΡΓΙΝΑ ΤV" tvg-logo="hub://logs/vergina.png" tvg-website="https://verginatv.cy/" ,ΒΕΡΓΙΝΑ ΤV
 https://verginanews.gr:8443/hls_live/stream2.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Extra TV" tvg-logo="hub://logs/ONE-CY.png" ,ONE Channel CY
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Extra TV" tvg-name="ONE Channel CY" tvg-logo="hub://logs/ONE-CY.png" ,ONE Channel CY (vip)
+sec:ch10
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Extra TV" tvg-name="ONE Channel CY"tvg-logo="hub://logs/ONE-CY.png" ,ONE Channel CY (4)
 https://aliez.me/live/m1i1vavi266bcdwp7694/|weballdig
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Capital" tvg-logo="hub://logs/capital.png" ,CAPITAL
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Capital"tvg-name="CAPITAL" tvg-logo="hub://logs/capital.png" ,CAPITAL (vip)
+sec:ch11
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Capital" tvg-name="CAPITAL" tvg-logo="hub://logs/capital.png" ,CAPITAL (4)
 https://aliez.me/live/mwx5e0n783q9mp0fzqk4/|weballdig
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="Plus TV" tvg-logo="hub://logs/plus.png" ,Plus
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="Plus TV" tvg-name="Plus" tvg-logo="hub://logs/plus.png" ,Plus (vip)
+sec:ch12
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="Plus TV" tvg-name="Plus" tvg-logo="hub://logs/plus.png" ,Plus (4)
 https://aliez.tv/live/35d7zu879grqvfjjpfzn/|weballdig
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="smile" tvg-logo="hub://logs/smile.png" ,Smile
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="smile"  tvg-name="Smile" tvg-logo="hub://logs/smile.png" ,Smile (vip)
+sec:ch13
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="smile"  tvg-name="Smile" tvg-logo="hub://logs/smile.png" ,Smile (4)
 https://aliez.tv/live/v165d7mvix41fjyk9z5i/|weballdig
 
 
@@ -521,7 +539,9 @@ https://www.epicon.in/distro-tv/5155|weballdig
 http://.....
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-id="extacykids" tvg-logo="hub://logs/extacy_kids.jpg" tvg-name="EXTACY TV KIDS" ,EXTACY TV KIDS
 https://eu1.servers10.com:8081/8046/index.m3u8
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-id="smile" tvg-logo="hub://logs/smile.png" tvg-name="Smile" ,Smile
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-id="smile"  tvg-name="Smile" tvg-logo="hub://logs/smile.png" ,Smile (vip)
+sec:ch13
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-id="smile"  tvg-name="Smile" tvg-logo="hub://logs/smile.png" ,Smile (4)
 https://aliez.tv/live/v165d7mvix41fjyk9z5i/|weballdig
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/ertkids.png" tvg-name="ErtFlix Kids" ,ErtFlix Kids
 http://195.226.218.163/vid/kidstv-hbbtv/mpeg.2ts
