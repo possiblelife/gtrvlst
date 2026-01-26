@@ -1,0 +1,98 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="hub://logs/cyprustv.png" ,===ΤΗΛΕΟΡΑΣΗ===
+hub://logs/cytv.png|webepg zoom=100 scroll=0,0
+ 
+#EXTINF:-1 group-title="CYPRUS" tvg-id="rik1" tvg-name="ΡΙΚ1" tvg-logo="hub://logs/rik1.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ1
+http://l6.cloudskep.com/rikct/rik1/playlist.m3u8
+#EXTINF:-1 group-title="CYPRUS" tvg-id="rik1" tvg-name="ΡΙΚ1" tvg-logo="hub://logs/rik1.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ1 - ΕΝΑΛΛΑΚΤΙΚΟ
+https://tv.rik.cy/live-tv/rik-1/|webdig
+#EXTINF:-1 group-title="CYPRUS" tvg-id="rik1" tvg-name="ΡΙΚ1" tvg-logo="hub://logs/rik1.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ1 (2)
+http://31.121.110.30:4000/play/a023/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
+#EXTINF:-1 group-title="CYPRUS" tvg-id="rik2" tvg-name="ΡΙΚ2" tvg-logo="hub://logs/rik2.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ2
+http://l6.cloudskep.com/rikct/rik2/playlist.m3u8
+#EXTINF:-1 group-title="CYPRUS" tvg-id="rik2" tvg-name="ΡΙΚ2" tvg-logo="hub://logs/rik2.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ2 - ΕΝΑΛΛΑΚΤΙΚΟ
+https://tv.rik.cy/live-tv/rik-2/|webdig
+#EXTINF:-1 group-title="CYPRUS" tvg-id="rik2" tvg-name="ΡΙΚ2" tvg-logo="hub://logs/rik2.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ2 (2)
+http://31.121.110.30:4000/play/a024/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
+#EXTINF:-1 group-title="CYPRUS" tvg-id="RIK HD" tvg-name="ΡΙΚHD" tvg-logo="hub://logs/rik-hd.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚHD
+http://l6.cloudskep.com/rikct/rikhd/playlist.m3u8
+#EXTINF:-1 group-title="CYPRUS" tvg-id="RIK HD" tvg-name="ΡΙΚHD" tvg-logo="hub://logs/rik-hd.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚHD -ΕΝΑΛΛΑΚΤΙΚΟ
+https://tv.rik.cy/live-tv/rik-hd/|webdig
+#EXTINF:-1 group-title="CYPRUS" tvg-id="Mega" tvg-name="OMEGA" tvg-logo="hub://logs/omega.png" tvg-website="http://www.omegatv.com.cy/" ,OMEGA
+http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
+#EXTINF:-1 group-title="CYPRUS" tvg-id="Mega" tvg-name="OMEGA" tvg-logo="hub://logs/omega.png" tvg-website="http://www.omegatv.com.cy/" ,OMEGA - ΕΝΑΛΛΑΚΤΙΚΟ
+https://www.omegatv.com.cy/live/|weballdig
+#EXTINF:-1 group-title="CYPRUS" tvg-id="Mega" tvg-name="OMEGA" tvg-logo="hub://logs/omega.png" tvg-website="http://www.omegatv.com.cy/" ,OMEGA (2)
+http://31.121.110.30:4000/play/a027/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
+#EXTINF:-1 group-title="CYPRUS" tvg-id="Sigma" tvg-name="SIGMA" tvg-logo="hub://logs/sigma.png" tvg-website="https://www.sigmatv.com/home" ,SIGMA
+https://ottstream.iptv.prime-tel.net/streaming-web/SigmaLive/playlist.m3u8
+#EXTINF:-1 group-title="CYPRUS" tvg-id="Sigma" tvg-name="SIGMA" tvg-logo="hub://logs/sigma.png" tvg-website="https://www.sigmatv.com/home" ,SIGMA (2)
+http://31.121.110.30:4000/play/a025/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
+#EXTINF:-1 group-title="CYPRUS"  tvg-id="Alpha Cyprus" tvg-name="ALPHA" tvg-logo="hub://logs/Alpha_Cyprus.png" tvg-website="https://www.alphacyprus.com.cy/" ,ALPHA
+https://www.alphacyprus.com.cy/live|weballdig
+#EXTINF:-1 group-title="CYPRUS"  tvg-id="ANT1" tvg-name="ANT1" tvg-logo="hub://logs/ANT1.png" tvg-website="https://www.ant1live.com/" ,ANT1
+https://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
+#EXTINF:-1 group-title="CYPRUS"  tvg-id="ANT1" tvg-name="ANT1" tvg-logo="hub://logs/ANT1.png" tvg-website="https://www.ant1live.com/" ,ANT1 - ΕΝΑΛΛΑΚΤΙΚΗ
+https://www.ant1live.com/webtv/live|webdelayalldig
+#EXTINF:-1 group-title="CYPRUS"  tvg-id="ANT1" tvg-name="ANT1" tvg-logo="hub://logs/ANT1.png" tvg-website="https://www.ant1live.com/" ,ANT1 (2)
+http://31.121.110.30:4000/play/a026/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
+#EXTINF:-1 group-title="CYPRUS" tvg-id="Berginacy" tvg-logo="hub://logs/vergina.png" tvg-name="ΒΕΡΓΙΝΑ ΤV" tvg-website="https://verginatv.cy/" ,ΒΕΡΓΙΝΑ ΤV
+https://verginanews.gr:8443/hls_live/stream2.m3u8
+#EXTINF:-1 group-title="CYPRUS" tvg-id="Extra TV" tvg-name="ONE Channel" tvg-logo="hub://logs/ONE-CY.png" ,ONE Channel (vip)
+sec:ch10
+#EXTINF:-1 group-title="CYPRUS" tvg-id="Extra TV" tvg-name="ONE Channel"tvg-logo="hub://logs/ONE-CY.png" ,ONE Channel (4)
+https://aliez.me/live/m1i1vavi266bcdwp7694/|weballdig
+#EXTINF:-1 group-title="CYPRUS" tvg-id="Capital"tvg-name="CAPITAL" tvg-logo="hub://logs/capital.png" ,CAPITAL (vip)
+sec:ch11
+#EXTINF:-1 group-title="CYPRUS" tvg-id="Capital" tvg-name="CAPITAL" tvg-logo="hub://logs/capital.png" ,CAPITAL (4)
+https://aliez.me/live/mwx5e0n783q9mp0fzqk4/|weballdig
+#EXTINF:-1 group-title="CYPRUS"  tvg-id="Plus TV" tvg-name="Plus" tvg-logo="hub://logs/plus.png" ,Plus (vip)
+sec:ch12
+#EXTINF:-1 group-title="CYPRUS"  tvg-id="Plus TV" tvg-name="Plus" tvg-logo="hub://logs/plus.png" ,Plus (4)
+https://aliez.tv/live/35d7zu879grqvfjjpfzn/|weballdig
+#EXTINF:-1 group-title="CYPRUS" tvg-id="smile"  tvg-name="Smile" tvg-logo="hub://logs/smile.png" ,Smile (vip)
+sec:ch13
+#EXTINF:-1 group-title="CYPRUS" tvg-id="smile"  tvg-name="Smile" tvg-logo="hub://logs/smile.png" ,Smile (4)
+https://aliez.tv/live/v165d7mvix41fjyk9z5i/|weballdig
+#EXTINF:-1 group-title="INTERNATIONAL"  tvg-id="riksat" tvg-name="ΡΙΚ SAT" tvg-logo="hub://logs/rik-sat.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ SAT
+https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 group-title="INTERNATIONAL" tvg-id="riksat" tvg-name="ΡΙΚ SAT" tvg-logo="hub://logs/rik-sat.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ SAT - ΕΝΑΛΛΑΚΤΙΚΟ
+https://tv.rik.cy/live-tv/rik-sat/|webdig
+#EXTINF:-1 group-title="INTERNATIONAL"  tvg-id="ert" tvg-logo="hub://logs/ERT-WORLD.png"  tvg-name="Eρτ WORLD" tvg-website="https://www.ertflix.gr" ,Eρτ WORLD
+https://ertflix-ertworld.siliconweb.com/mpegts/618618_3479286/media_mpegts_0.m3u8
+#EXTINF:-1 group-title="INTERNATIONAL"  tvg-id="ert" tvg-logo="hub://logs/ERT-WORLD.png"  tvg-name="Eρτ WORLD" tvg-website="https://www.ertflix.gr" ,Eρτ WORLD (2)
+http://hbbtvapp.ert.gr/stream.php/v/vid_ertworld_mpeg.2ts
+#EXTINF:-1 group-title="INTERNATIONAL"  tvg-id="ert" tvg-logo="hub://logs/ERT-WORLD.png"  tvg-name="Eρτ WORLD" tvg-website="https://www.ertflix.gr" ,Eρτ WORLD (3)
+https://cdn3.smart-tv-data.com/vid/ertworld/manifest.mpd
+#EXTINF:-1 group-title="INTERNATIONAL"  tvg-id="Euronews" tvg-logo="hub://logs/EURONEWS.png"  tvg-website="https://gr.euronews.com/" ,Euronews GR
+https://www.youtube.com/watch?v=uWIhV9gQClg
+#EXTINF:-1 group-title="INTERNATIONAL"  tvg-id="Euronews" tvg-logo="hub://logs/EURONEWS.png"  tvg-website="https://gr.euronews.com/" ,Euronews EN
+https://www.youtube.com/@euronews/live
+#EXTINF:-1 group-title="WEBTV"  tvg-logo="hub://logs/faroscy.png" tvg-website="https://www.farosonair.com/" ,ΦΑΡΟΣ on Air
+https://s1.cystream.net/live/faros1/chunks.m3u8
+#EXTINF:-1 group-title="WEBTV"  tvg-logo="hub://logs/faroscy.png" tvg-website="https://www.farosonair.com/" ,ΦΑΡΟΣ on Air2
+https://s1.cystream.net/live/faros2/chunks.m3u8
+#EXTINF:-1 group-title="WEBTV"  tvg-logo="hub://logs/alfa_sports.png" tvg-website="https://alfasports.tv/" ,Alfa Sports TV
+https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&Referer=https://dev.aftermind.xyz/alfa_sports.html
+#EXTINF:-1 group-title="WEBTV" tvg-logo="hub://logs/city.png" tvg-website="https://citychannel.live/" ,City Channel
+https://dev.aftermind.xyz/hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jrzqEqx|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&Referer=https://dev.aftermind.xyz/city_channel.html
+#EXTINF:-1 group-title="WEBTV" tvg-logo="hub://logs/voulicy.png" tvg-website="https://vouli.tv/" ,Vouli.tv
+https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&Referer=https://dev.aftermind.xyz/vouli.html
+#EXTINF:-1 group-title="TELEVISION PROGRAMS"  tvg-logo="hub://logs/red.png" ,=====   TELEVISION PROGRAMS    ====
+http://.....
+#EXTINF:-1 group-title="TELEVISION PROGRAMS" tvg-logo="hub://logs/epgsss.png" ,ΡΙΚSAT/ΡΙΚ1/ΡΙΚ2 (Τηλεοπτικό Πρόγραμμα)
+https://tv.rik.cy/schedule/|webepg zoom=100 scroll=0,100
+#EXTINF:-1 group-title="TELEVISION PROGRAMS" tvg-logo="hub://logs/epgsss.png" ,OMEGA (Τηλεοπτικό Πρόγραμμα)
+http://www.megatv.com.cy/cgibin/hweb?-V=tvprogram&_FAA=1&-dtvprogramtod.html|webepg zoom=260 scroll=0,100
+#EXTINF:-1 group-title="TELEVISION PROGRAMS" tvg-logo="hub://logs/epgsss.png" ,ΣΙΓΜΑ (Τηλεοπτικό Πρόγραμμα)
+http://www.sigmatv.com/schedule|webepg zoom=100 scroll=0,100
+#EXTINF:-1 group-title="TELEVISION PROGRAMS" tvg-logo="hub://logs/epgsss.png" ,ΑΛΦΑ (Τηλεοπτικό Πρόγραμμα)
+http://www.alphacyprus.com.cy/program|webepg zoom=100 scroll=0,100
+#EXTINF:-1 group-title="TELEVISION PROGRAMS" tvg-logo="hub://logs/epgsss.png" ,ΑΝΤΕΝΝΑ (Τηλεοπτικό Πρόγραμμα)
+https://www.antenna.gr/tvguide|webepg zoom=100 scroll=0,100
+#EXTINF:-1 group-title="TELEVISION PROGRAMS" tvg-logo="hub://logs/epgsss.png" ,CYTA (Τηλεοπτικό Πρόγραμμα)
+https://epg.cyta.com.cy/tv-guide/el|webepg zoom=100 scroll=0,100
+#EXTINF:-1 group-title="TELEVISION PROGRAMS" tvg-logo="hub://logs/epgsss.png" ,CABLENET (Τηλεοπτικό Πρόγραμμα)
+https://cablenet.com.cy/en/tv/tv-guide/|webepg zoom=100 scroll=0,100
+#EXTINF:-1 group-title="TELEVISION PROGRAMS" tvg-logo="hub://logs/epgsss.png" ,Primetel (Τηλεοπτικό Πρόγραμμα)
+https://primetel.com.cy/view-the-guide-el|webepg zoom=100 scroll=0,100
