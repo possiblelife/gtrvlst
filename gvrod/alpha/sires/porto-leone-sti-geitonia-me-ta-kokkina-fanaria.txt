@@ -52,3 +52,13 @@ https://www.alphatv.gr/show/porto-leone-sti-geitonia-me-ta-kokkina-fanaria/?vtyp
 https://www.alphatv.gr/show/porto-leone-sti-geitonia-me-ta-kokkina-fanaria/?vtype=player&vid=64290&showId=1753&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 27
 https://www.alphatv.gr/show/porto-leone-sti-geitonia-me-ta-kokkina-fanaria/?vtype=player&vid=64291&showId=1753&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν  ",ΤΗΛΕΤΑΙΝΙΑ 1
+https://www.alphatv.gr/show/porto-leone-sti-geitonia-me-ta-kokkina-fanaria/?vtype=player&vid=64475&showId=1753&year=2026|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν  ",ΤΗΛΕΤΑΙΝΙΑ 2
+https://www.alphatv.gr/show/porto-leone-sti-geitonia-me-ta-kokkina-fanaria/?vtype=player&vid=64476&showId=1753&year=2026|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν  ",ΤΗΛΕΤΑΙΝΙΑ 3
+https://www.alphatv.gr/show/porto-leone-sti-geitonia-me-ta-kokkina-fanaria/?vtype=player&vid=64477&showId=1753&year=2026|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν  ",ΤΗΛΕΤΑΙΝΙΑ 4
+https://www.alphatv.gr/show/porto-leone-sti-geitonia-me-ta-kokkina-fanaria/?vtype=player&vid=64478&showId=1753&year=2026|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν  ",ΤΗΛΕΤΑΙΝΙΑ 5
+https://www.alphatv.gr/show/porto-leone-sti-geitonia-me-ta-kokkina-fanaria/?vtype=player&vid=64479&showId=1753&year=2026|webvidfulldig

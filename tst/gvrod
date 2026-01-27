@@ -2242,6 +2242,14 @@ https://www.alphacyprus.com.cy/shows/ellinikes-seires|webvod zoom=100 scroll=0,0
 SERIES$$hub://cvyod/alpha/sires/tosoisou.txt
 #EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Alphacy/beba.(2025)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/beba-cover_0.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/beba" ,ΜΠΕΜΠΑ (2025)
 SERIES$$hub://cvyod/alpha/sires/beba.txt
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία, κοινωνική, οικογενειακή" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2025-2026/SEIRES/TROMEROI-GONEIS/THUMB-TROMEROI-GONEIS.png"  tvg-description="hub://desc/Alpha/Τρομεροί.γονείς.(2025)" ,Τρομεροί γονείς (2025)
+SERIES$$hub://cvyod/alpha/sires/tromeroigoneis.txt
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-logo="https://greek-movies.com/icon/series/Τοσπίτιδίπλαστοποτάμι2025.png"  tvg-description="hub://desc/Alpha/Το.σπίτι.δίπλα.στο.ποτάμι.(2025)" ,Το σπίτι δίπλα στο ποτάμι (Aphatv μόνο) (2025)
+SERIES$$hub://cvyod/alpha/sires/tospitidiplastopotami.txt
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2025-2026/SEIRES/NA-MAGAPAS/THUMB_NA-MAGAPAS.png" tvg-description="hub://desc/Alpha/Να.μ.αγαπάς.(2025)" ,Να μ' αγαπάς (Aphatv μόνο) (2025)
+SERIES$$hub://cvyod/alpha/sires/namagapas.txt
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2025-2026/SEIRES/NA-ME-LES-MAMA/THUMB/THUMB_MAMA_1.png"  tvg-description="hub://desc/Alpha/Να.με.λες.μαμά.(2025)" ,Να με λες μαμά (Aphatv μόνο) (2025)
+SERIES$$hub://cvyod/alpha/sires/namelesmama.txt
 #EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Alpha/Άγιος.έρωτας.(2024-2025)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/ae.jpg?itok=54PmyZyP" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/agioserotas/webtv" ,ΑΓΙΟΣ ΕΡΩΤΑΣ (2024-2025)
 SERIES$$hub://cvyod/alpha/sires/agioserotas.txt
 #EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Mega/Η.γη.της.ελιάς.(2021-2025)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/GITISELIAS_0.jpg?itok=lV1cnXFi" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/igitiselias/webtv" ,Η ΓΗ ΤΗΣ ΕΛΙΑΣ (2021-2025)
@@ -2467,6 +2475,8 @@ SERIES$$hub://cvyod/alpha/ekpompes_arxio/soundtrackoflove.txt
 http://.....
 
 
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Sigma/poullaki" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/540x304/Oikogenia_Poulaki_logo_540x304.jpg" tvg-website="https://www.sigmatv.com/shows/poullaki" ,Οικογένεια Πουλλάκη
+SERIES$$hub://cvyod/sigma/sires/poullaki.txt
 #EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κινουμένων σχεδίων" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/540x304-logo-Paidiko-programma.jpg" tvg-website="https://www.sigmatv.com/shows/kids" ,Παιδικό Πρόγραμμα
 SERIES$$hub://cvyod/sigma/sires_arxio/kids.txt
 #EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Sigma/Άλλα.λόγια.θκειε.παπά.(2019)" tvg-logo="https://www.sigmatv.com/application/cache/default/images/normal/278x156/Alla_Logia_thkie_papa_540x304.png" tvg-website="https://www.sigmatv.com/shows/alla-logia-thkie-papa" ,Άλλα λόγια θκειε παπά (2019)

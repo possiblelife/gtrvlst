@@ -1410,3 +1410,25 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64285&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64286&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Το ανίψι μου
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64287&showId=869&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2026",Αταίριαστο ζευγάρι
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64392&showId=869&year=2026|webvidfulldig
+#EXTINF:-1 group-title="2026",Αν ήμουν στη θέση σου
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64393&showId=869&year=2026|webvidfulldig
+#EXTINF:-1 group-title="2026",Χωριστοί δρόμοι
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64394&showId=869&year=2026|webvidfulldig
+#EXTINF:-1 group-title="2026",Το γκρουπ
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64395&showId=869&year=2026|webvidfulldig
+#EXTINF:-1 group-title="2026",Ζευγάρια
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64396&showId=869&year=2026|webvidfulldig
+#EXTINF:-1 group-title="2026",Για όνομα
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64465&showId=869&year=2026|webvidfulldig
+#EXTINF:-1 group-title="2026",Δικαίωμα μετεγγραφής
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64466&showId=869&year=2026|webvidfulldig
+#EXTINF:-1 group-title="2026",Μια φορά άπιστος
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64467&showId=869&year=2026|webvidfulldig
+#EXTINF:-1 group-title="2026",Μήνας μέλιτος
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64468&showId=869&year=2026|webvidfulldig
+#EXTINF:-1 group-title="2026",Διανυκτερεύον
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64469&showId=869&year=2026|webvidfulldig
+#EXTINF:-1 group-title="2026",Επίσημη γνωριμία
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64525&showId=869&year=2026|webvidfulldig

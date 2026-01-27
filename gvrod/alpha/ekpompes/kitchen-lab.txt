@@ -946,3 +946,15 @@ https://www.alphatv.gr/show/kitchen-lab/?vtype=player&vid=64278&showId=928&year=
 https://www.alphatv.gr/show/kitchen-lab/?vtype=player&vid=64337&showId=928&year=2025|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 8",28/12/25
 https://www.alphatv.gr/show/kitchen-lab/?vtype=player&vid=64338&showId=928&year=2025|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 8",10/01/26
+https://www.alphatv.gr/show/kitchen-lab/?vtype=player&vid=64380&showId=928&year=2026|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 8",11/01/26
+https://www.alphatv.gr/show/kitchen-lab/?vtype=player&vid=64381&showId=928&year=2026|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 8",17/01/26
+https://www.alphatv.gr/show/kitchen-lab/?vtype=player&vid=64436&showId=928&year=2026|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 8",18/01/26
+https://www.alphatv.gr/show/kitchen-lab/?vtype=player&vid=64437&showId=928&year=2026|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 8",24/01/26
+https://www.alphatv.gr/show/kitchen-lab/?vtype=player&vid=64498&showId=928&year=2026|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 8",25/01/26
+https://www.alphatv.gr/show/kitchen-lab/?vtype=player&vid=64499&showId=928&year=2026|webvidfulldig
