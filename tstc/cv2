@@ -30,10 +30,14 @@ https://ottstream.iptv.prime-tel.net/streaming-web/SigmaLive/playlist.m3u8
 http://31.121.110.30:4000/play/a025/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="Alpha Cyprus" tvg-name="ALPHA" tvg-logo="hub://logs/Alpha_Cyprus.png" tvg-website="https://www.alphacyprus.com.cy/" ,ALPHA
 https://www.alphacyprus.com.cy/live|weballdig
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="Alpha Cyprus" tvg-name="ALPHA" tvg-logo="hub://logs/Alpha_Cyprus.png" tvg-website="https://www.alphacyprus.com.cy/" ,ALPHA (1)
+https://vid1.smartscreen-data.com/AlphaCY/AlphaCY/manifest.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="ANT1" tvg-name="ANT1" tvg-logo="hub://logs/ANT1.png" tvg-website="https://www.ant1live.com/" ,ANT1
 https://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="ANT1" tvg-name="ANT1" tvg-logo="hub://logs/ANT1.png" tvg-website="https://www.ant1live.com/" ,ANT1 - ΕΝΑΛΛΑΚΤΙΚΗ
 https://www.ant1live.com/webtv/live|webdelayalldig
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="ANT1" tvg-name="ANT1" tvg-logo="hub://logs/ANT1.png" tvg-website="https://www.ant1live.com/" ,ANT1 (1)
+https://vid1.smartscreen-data.com/ANT1/ANT1/manifest.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="ANT1" tvg-name="ANT1" tvg-logo="hub://logs/ANT1.png" tvg-website="https://www.ant1live.com/" ,ANT1 (2)
 http://31.121.110.30:4000/play/a026/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Berginacy" tvg-logo="hub://logs/vergina.png" tvg-name="ΒΕΡΓΙΝΑ ΤV" tvg-website="https://verginatv.cy/" ,ΒΕΡΓΙΝΑ ΤV
