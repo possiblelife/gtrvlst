@@ -352,7 +352,7 @@ https://rtmp.win:3882/live/nstv7live.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/ypervasi.png" tvg-website="https://ypervasitv.gr/" ,ypervasiTV (Youtube)
 https://www.youtube.com/@kinimaypervasi/streams|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-id="naftemporiki" tvg-logo="hub://logs/naftemporiki.png" tvg-website="https://www.naftemporiki.gr" ,Naftemporiki TV
-https://188125.global.ssl.fastly.net/631af9c016e5eace19ff9a5b/live_048998706a2311ee83b33fe7fbad252d/index.fmp4.m3u8
+https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logs/destinationgr.png" tvg-website="https://www.destinationgreece.tv/" ,Destination Greece TV
 https://2-fss-1.streamhoster.com/pl_148/203374-5434856-1/chunklist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logs/stenttv.png" tvg-website="https://stent.net.gr/" ,Stent tv 
