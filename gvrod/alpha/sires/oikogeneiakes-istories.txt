@@ -1410,6 +1410,7 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64285&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64286&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Το ανίψι μου
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64287&showId=869&year=2025|webvidfulldig
+
 #EXTINF:-1 group-title="2026",Αταίριαστο ζευγάρι
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64392&showId=869&year=2026|webvidfulldig
 #EXTINF:-1 group-title="2026",Αν ήμουν στη θέση σου
@@ -1432,3 +1433,7 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64468&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64469&showId=869&year=2026|webvidfulldig
 #EXTINF:-1 group-title="2026",Επίσημη γνωριμία
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64525&showId=869&year=2026|webvidfulldig
+#EXTINF:-1 group-title="2026",Η πρώην του
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64526&showId=869&year=2026|webvidfulldig
+#EXTINF:-1 group-title="2026",Ρουά ματ
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64527&showId=869&year=2026|webvidfulldig
