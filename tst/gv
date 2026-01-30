@@ -125,7 +125,7 @@ http://.....
 
 
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="4Ε" tvg-logo="hub://logs/4E.png" tvg-website="https://tv4e.gr/index.php/" ,4E (Κ. ΜΑΚΕΔΟΝΙΑΣ )
-http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
+http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ACTION24" tvg-logo="hub://logs/action24.png" tvg-name="Action 24 (ΑΤΤΙΚΗΣ)" tvg-website="https://www.action24.gr/" ,Action 24 (ΑΤΤΙΚΗΣ)
 https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ACTION24" tvg-logo="hub://logs/action24.png" tvg-name="Action 24 (ΑΤΤΙΚΗΣ)" tvg-website="https://www.action24.gr/" ,Action 24 (backup) (ΑΤΤΙΚΗΣ)
@@ -580,7 +580,7 @@ https://www.youtube.com/@Oddbods/videos|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-logo="hub://logs/red.png" ,=====   ΕΚΚΛΗΣΙΑΣΤΙΚΑ   ====
 http://.....
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-id="4Ε" tvg-logo="hub://logs/4E.png" tvg-website="https://tv4e.gr/index.php/" ,4E (Κ. ΜΑΚΕΔΟΝΙΑΣ )
-http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
+http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"   tvg-logo="hub://logs/agios_ioannis.png" tvg-website="https://agiosioannistheologosmantoudiou.blogspot.com/" ,Άγιος Ιωάννης στο Μαντούδι Ευβοίας
 https://eu1.streams.gr:8081/agiosioannis/index.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-id="LYCHNOS" tvg-logo="hub://logs/LYXNOC.png" tvg-website="http://i-m-patron.gr/lychnostv/" ,ΛΥΧΝΟC (ΠΕΛΟΠΟΝΝΗΣΟΥ)
