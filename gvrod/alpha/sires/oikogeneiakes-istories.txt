@@ -1437,3 +1437,7 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64525&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64526&showId=869&year=2026|webvidfulldig
 #EXTINF:-1 group-title="2026",Ρουά ματ
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64527&showId=869&year=2026|webvidfulldig
+#EXTINF:-1 group-title="2026",Η σεφ και ο μπλόγκερ
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64528&showId=869&year=2026|webvidfulldig
+#EXTINF:-1 group-title="2026",Δύο ξένοι
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64529&showId=869&year=2026|webvidfulldig
