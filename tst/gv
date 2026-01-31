@@ -192,6 +192,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/eurotvlive/playlist.m3u8
 https://www.eurotv.gr/live-tv/|webdig
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="EPIRUS TV1" tvg-logo="hub://logs/ipirostv1.png" tvg-website="https://www.epirustv1.eu/" ,ΗΠΕΙΡΟΣ TV1 (ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ)
 https://rtmp.win:3929/live/epiruslive.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="FORMedia TV" tvg-logo="hub://logs/form-media-tv.png" tvg-website="https://formediatv.gr/" ,FORMedia TV (ΘΕΣΣΑΛΙΑΣ)
+https://mcp2.32bit.gr:19360/formediatv/formediatv.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="HLEKTRA TV" tvg-logo="hub://logs/hlektra.png"  ,Ηλέκτρα (ΠΕΛΟΠΟΝΝΗΣΟΥ)
 https://live20.bozztv.com/giatv/giatv-hlektratv/hlektratv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-id="GNOMI TV" tvg-logo="hub://logs/gnomi.png" tvg-website="http://www.gnomi.eu/" ,gnomi TV (Κ. ΜΑΚΕΔΟΝΙΑΣ)
