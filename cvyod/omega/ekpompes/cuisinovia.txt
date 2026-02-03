@@ -536,3 +536,7 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=219634&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=219635&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 093 CUISINOVIAΜαροκινό κοτόπουλο με ρύζι, σοκολατένια brownies με τυρί
 https://www.omegatv.com.cy/cgibin/hweb?-A=219636&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 094 CUISINOVIAΤούρτα μόκα με σοκολάτα
+https://www.omegatv.com.cy/cgibin/hweb?-A=219779&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 095 CUISINOVIAΑρωματικό χοιρινό με πατάτες στη γάστρα, Μπαβαρουάζ μανταρινιού
+https://www.omegatv.com.cy/cgibin/hweb?-A=219781&-V=vod|webfulldig

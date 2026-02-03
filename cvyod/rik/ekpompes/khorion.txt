@@ -34,3 +34,5 @@ https://v6.cloudskep.com/rikvod/horion/horion110126.mp4?attachment=true
 https://v6.cloudskep.com/rikvod/horion/horion180126.mp4?attachment=true
 #EXTINF:-1 group-title="Όλα τα επεισόδια",ΧωριΟΝ 25/01/26
 https://v6.cloudskep.com/rikvod/horion/horion250126.mp4?attachment=true
+#EXTINF:-1 group-title="Όλα τα επεισόδια",ΧωριON 01/02/26
+https://v6.cloudskep.com/rikvod/horion/horion010226.mp4?attachment=true

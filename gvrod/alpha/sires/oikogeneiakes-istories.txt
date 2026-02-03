@@ -1441,3 +1441,5 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64527&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64528&showId=869&year=2026|webvidfulldig
 #EXTINF:-1 group-title="2026",Δύο ξένοι
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64529&showId=869&year=2026|webvidfulldig
+#EXTINF:-1 group-title="2026",Άλλος πληρώνει
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64587&showId=869&year=2026|webvidfulldig

@@ -108,3 +108,5 @@ https://www.star.gr/tv/psychagogia/traction/1112026-traction|webfulldig
 https://www.star.gr/tv/psychagogia/traction/1812026-traction|webfulldig
 #EXTINF:-1 group-title="2025-2026",25.1.2026 - TractioN
 https://www.star.gr/tv/psychagogia/traction/2512026-traction|webfulldig
+#EXTINF:-1 group-title="2025-2026",1.2.2026 - TractioN
+https://www.star.gr/tv/psychagogia/traction/122026-traction|webfulldig
