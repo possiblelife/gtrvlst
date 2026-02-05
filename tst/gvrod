@@ -1617,22 +1617,21 @@ SERIES$$hub://gvrod/star/ekpompes_arxio/globetrotters.txt
 #EXTINF:-1 group-title="ΕΡΤFLIX" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΕΡΤ ====
 http://.....
 
-#EXTINF:-1 group-title="ΕΡΤFLIX" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ (ΕΡΤFLIX)
-https://www.ertflix.gr/show/series|webmulti zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΕΡΤFLIX" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Σειρές (ΕΡΤFLIX)
+https://www.ertflix.gr/#/show/SeriesXP|webmulti zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΕΡΤFLIX" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Ταινίες (ΕΡΤFLIX)
+https://www.ertflix.gr/#/show/MoviesXP|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤFLIX" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Κινούμενα Σχέδια (ΕΡΤFLIX)
-https://www.ertflix.gr/show/children|webmulti zoom=100 scroll=0,0
+https://www.ertflix.gr/#/show/KidsXP|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤFLIX" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,ΕΛΛΗΝΙΚΑ ΝΤΟΚΙΜΑΝΤΕΡ (ΕΡΤFLIX)
-https://www.ertflix.gr/show/documentary|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤFLIX" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,ΕΛΛΗΝΙΚΗ ΔΙΑΣΠΟΡΑ (ΕΡΤFLIX)
-https://www.ertflix.gr/show/greece-abroad|webmulti zoom=100 scroll=0,0
+https://www.ertflix.gr/#/show/DocumentariesXP|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤFLIX" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,ΕΚΠΟΜΠΕΣ (ΕΡΤFLIX)
-https://www.ertflix.gr/show/ekpompes|webmulti zoom=100 scroll=0,0
+https://www.ertflix.gr/#/show/ShowsXP|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤFLIX" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,ΕΝΗΜΕΡΩΣΗ (ΕΡΤFLIX)
-https://www.ertflix.gr/show/news|webmulti zoom=100 scroll=0,0
+https://www.ertflix.gr/#/show/NewsXP|webmulti zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΕΡΤFLIX" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,ΑΘΛΗΤΙΚΑ (ΕΡΤFLIX)
-https://www.ertflix.gr/show/sport|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤFLIX" tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png" ,Η ΕΡΤ ΘΥΜΑΤΑΙ (ΕΡΤFLIX)
-https://www.ertflix.gr/show/archives|webmulti zoom=100 scroll=0,0
+https://www.ertflix.gr/#/show/SportsXP|webmulti zoom=100 scroll=0,0
+
 
 #EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΕΡΤ ====
 http://.....
