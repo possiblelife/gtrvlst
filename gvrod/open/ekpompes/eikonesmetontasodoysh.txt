@@ -534,14 +534,6 @@ https://www.tvopen.gr/watch/154481/cyberdogtapioperiergaroyxatoylondinoy|webvidf
 https://www.tvopen.gr/watch/154482/coppaclubstiskapsoylestoylondinoymetheathgefyra|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Harrods: Στο πιο μεγάλο πολυκατάστημα του κόσμου
 https://www.tvopen.gr/watch/154483/harrodsstopiomegalopolykatasthmatoykosmoy|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Ξενάγηση στο γεφύρι του Αγίου Βησσαρίωνα που προκαλεί δέος
-https://www.tvopen.gr/watch/158815/xenaghshstogefyritoyagioybhssarionapoyprokaleideos|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Γεφύρι Παλαιοκαρυάς: Τοπίο βγαλμένο από παραμύθι
-https://www.tvopen.gr/watch/158816/gefyripalaiokaryastopiobgalmenoapoparamythi|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Μαϊάμι: Νυχτερινή βόλτα στην Ocean Drive και το διαβόητο Palace
-https://www.tvopen.gr/watch/160884/maiaminyxterinhboltasthnoceandrivekaitodiabohtopalace|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Μαϊάμι: Ονειρική ανατολή στη South Beach
-https://www.tvopen.gr/watch/160888/maiamioneirikhanatolhsthsouthbeach|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ντολτσό: Στη συνοικία της Καστοριάς με τα αρχοντικά
 https://www.tvopen.gr/watch/155618/ntoltsosthsynoikiathskastoriasmetaarxontika|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Γυρολιμνιά: Ο πιο όμορφος περίπατος της Καστοριάς
@@ -556,6 +548,14 @@ https://www.tvopen.gr/watch/156706/mikrhkaimegalhprespatomegaleiothsfyshs|webvid
 https://www.tvopen.gr/watch/157760/lhthaiosoeidylliakospotamostontrikalon|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Οδοιπορικό στους ιερούς βράχους των Μετεώρων
 https://www.tvopen.gr/watch/157761/odoiporikostoysieroysbraxoystonmeteoron|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Ξενάγηση στο γεφύρι του Αγίου Βησσαρίωνα που προκαλεί δέος
+https://www.tvopen.gr/watch/158815/xenaghshstogefyritoyagioybhssarionapoyprokaleideos|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Γεφύρι Παλαιοκαρυάς: Τοπίο βγαλμένο από παραμύθι
+https://www.tvopen.gr/watch/158816/gefyripalaiokaryastopiobgalmenoapoparamythi|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Μαϊάμι: Νυχτερινή βόλτα στην Ocean Drive και το διαβόητο Palace
+https://www.tvopen.gr/watch/160884/maiaminyxterinhboltasthnoceandrivekaitodiabohtopalace|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Μαϊάμι: Ονειρική ανατολή στη South Beach
+https://www.tvopen.gr/watch/160888/maiamioneirikhanatolhsthsouthbeach|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Μαϊάμι: Κρουαζιέρα στο Μπέισαϊντ
 https://www.tvopen.gr/watch/161901/maiamikroyazierastompeisaint|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Μαϊάμι: Φορτ Λόντερντεϊλ - Η Βενετία της Αμερικής

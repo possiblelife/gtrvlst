@@ -38,3 +38,7 @@ https://www.alphatv.gr/show/deal/?vtype=player&vid=64523&showId=254&year=2026|we
 https://www.alphatv.gr/show/deal/?vtype=player&vid=64524&showId=254&year=2026|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 91
 https://www.alphatv.gr/show/deal/?vtype=player&vid=64583&showId=254&year=2026|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 92
+https://www.alphatv.gr/show/deal/?vtype=player&vid=64584&showId=254&year=2026|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 93
+https://www.alphatv.gr/show/deal/?vtype=player&vid=64585&showId=254&year=2026|webvidfulldig

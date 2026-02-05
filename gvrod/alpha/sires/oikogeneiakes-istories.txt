@@ -1443,3 +1443,7 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64528&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64529&showId=869&year=2026|webvidfulldig
 #EXTINF:-1 group-title="2026",Άλλος πληρώνει
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64587&showId=869&year=2026|webvidfulldig
+#EXTINF:-1 group-title="2026",Ξέρει η μαμά
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64588&showId=869&year=2026|webvidfulldig
+#EXTINF:-1 group-title="2026",Gentle parenting
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64589&showId=869&year=2026|webvidfulldig
