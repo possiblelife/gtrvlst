@@ -1447,3 +1447,7 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64587&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64588&showId=869&year=2026|webvidfulldig
 #EXTINF:-1 group-title="2026",Gentle parenting
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64589&showId=869&year=2026|webvidfulldig
+#EXTINF:-1 group-title="2026",Rematch
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64590&showId=869&year=2026|webvidfulldig
+#EXTINF:-1 group-title="2026",Αυτόπτης μάρτυρας
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64591&showId=869&year=2026|webvidfulldig

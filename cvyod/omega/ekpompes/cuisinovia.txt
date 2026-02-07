@@ -544,3 +544,7 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=219781&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=219790&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 097 CUISINOVIAΦτερούγες πανέ στο φούρνο, ΜΠΑΡΕΣ ΜΕ ΚΑΡΑΜΕΛΑ ΚΑΙ ΞΗΡΟΥΣ ΚΑΡΠΟΥΣ
 https://www.omegatv.com.cy/cgibin/hweb?-A=219795&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 098 CUISINOVIAΓρήγορο γιουβέτσι, CANTUCCI
+https://www.omegatv.com.cy/cgibin/hweb?-A=219803&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 099 CUISINOVIAquiche zuchini
+https://www.omegatv.com.cy/cgibin/hweb?-A=219808&-V=vod|webfulldig
