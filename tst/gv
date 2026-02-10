@@ -414,6 +414,8 @@ https://eu1.servers10.com:8081/8238/index.m3u8
 https://eu1.servers10.com:8081/8364/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacycin" tvg-logo="hub://logs/extacy-cinema.png" tvg-name="Extacy TV CINEMA" ,Extacy TV CINEMA
 https://eu1.servers10.com:8081/8332/index.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacyser" tvg-logo="hub://logs/extacyseries.png" tvg-name="Extacy TV SERIES" ,Extacy TV SERIES
+https://eu1.servers10.com:8081/8284/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="zeys" tvg-logo="https://i.ibb.co/84Q1j5Zp/zeys.png" tvg-name="ΖΕΥΣ TV" ,ΖΕΥΣ TV
 https://eu1.servers10.com:8081/8242/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-id="ANTCOMEDY" tvg-logo="hub://logs/ant1_comedy.png" ,ANT1 Comedy
