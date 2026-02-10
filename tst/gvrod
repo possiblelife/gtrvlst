@@ -6,6 +6,8 @@ http://.....
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.alphatv.gr/web-tv/|webvod zoom=100 scroll=0,0
 
+#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-logo="https://greek-movies.com/icon/series/Μπαμπάσαγαπώ2026.png" tvg-description="hub://desc/Alpha/Μπαμπά.σ.αγαπώ.(2026)" ,Μπαμπά, σ' αγαπώ (Aphatv μόνο) (2026)
+SERIES$$hub://gvrod/alpha/sires/baba-sagapo.txt
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-logo="https://greek-movies.com/icon/series/Μπαμπάσαγαπώ2026.png" tvg-description="hub://desc/Alpha/Μπαμπά.σ.αγαπώ.(2026)" ,Μπαμπά, σ' αγαπώ (2026)
 SERIES$$hub://gvrod/alpha/sires/Μπαμπά.σ.αγαπώ.(2026)
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2018-2019/SERIES/ELLHNIKES/SOI/THUMBNAILS/THUMB.jpg" tvg-description="hub://desc/Alpha/Το.σόι.σου.(2014-2019)" ,Το σόι σου (Aphatv μόνο) (2014-2026)
@@ -395,9 +397,12 @@ http://.....
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.megatv.com/shows|webvod zoom=100 scroll=0,0
 
-
+#EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-genre="κωμωδία, οικογενειακή" tvg-description="hub://desc/Mega/Έχω.παιδιά.(2024-2025)" tvg-logo="https://greek-movies.com/icon/series/Έχωπαιδιά2024.jpg" ,Έχω παιδιά (Megatv μόνο) (2024-2026)
+SERIES$$hub://gvrod/mega/sires/exo-paidia.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-genre="κωμωδία, οικογενειακή" tvg-description="hub://desc/Mega/Έχω.παιδιά.(2024-2025)" tvg-logo="https://greek-movies.com/icon/series/Έχωπαιδιά2024.jpg" ,Έχω παιδιά (2024-2026)
 SERIES$$hub://gvrod/mega/sires/Έχω.παιδιά.(2024)
+#EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Mega/Οι.αθώοι.(2026)" tvg-logo="https://greek-movies.com/icon/series/Οιαθώοι2026.jpg" ,Οι αθώοι (Megatv μόνο) (2026)
+SERIES$$hub://gvrod/mega/sires/oi-athooi.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Mega/Οι.αθώοι.(2026)" tvg-logo="https://greek-movies.com/icon/series/Οιαθώοι2026.jpg" ,Οι αθώοι (2026)
 SERIES$$hub://gvrod/mega/sires/Οι.αθώοι.(2026)
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Mega/mia-nyxta-mono" tvg-logo="https://www.megatv.com/wp-content/uploads/2025/10/Poster_mianyxtamono_850X1090_b.jpg" ,Μια νύχτα μόνο (Megatv μόνο) (2025)
@@ -892,8 +897,6 @@ SERIES$$hub://gvrod/ant1/sires/Ο.δικαστής.(2025)
 SERIES$$hub://gvrod/ant1/sires/Παιχνίδια.εκδίκησης.(2024)
 #EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-genre="κοινωνική" tvg-description="hub://desc/Ant1/Σέρρες.(2022)" tvg-logo="https://greek-movies.com/icon/series/Σέρρες2022.jpg" tvg-website="hhttps://www.antenna.gr/serres" ,Σέρρες (2022-2026)
 SERIES$$hub://gvrod/ant1/sires/Σέρρες.(2022)
-#EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-genre="κωμωδία, μυστηρίου" tvg-description="hub://desc/Ant1/Γιατί.ρε.πατέρα.(2025)" tvg-logo="https://greek-movies.com/icon/series/Γιατίρεπατέρα2025.jpg" tvg-website="https://www.antenna.gr/giatirepatera/videos" ,Γιατί ρε πατέρα; (Ant1.gr μόνο) (2025-2026)
-SERIES$$hub://gvrod/ant1/sires/giatirepatera.txt
 #EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-genre="κωμωδία, μυστηρίου" tvg-description="hub://desc/Ant1/Γιατί.ρε.πατέρα.(2025)" tvg-logo="https://greek-movies.com/icon/series/Γιατίρεπατέρα2025.jpg" tvg-website="https://www.antenna.gr/giatirepatera/videos" ,Γιατί ρε πατέρα;  (2025-2026)
 SERIES$$hub://gvrod/ant1/sires/Γιατί.ρε.πατέρα;.(2025)
 #EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Ant1/Grand.hotel.(2024-2025)" tvg-logo="https://greek-movies.com/icon/series/Grandhotel2024.jpg" tvg-website="https://www.antenna.gr/grandhotel/videos" ,Grand hotel (Ant1.gr μόνο) (2024-2026)

@@ -488,3 +488,5 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=219462&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=219637&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 6",Σεζόν 06 Επεισόδιο 022 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣΚαρμπονάρα /Κανελόνια με σπανάκι/ Εκμέκ Κανταΐφι
 https://www.omegatv.com.cy/cgibin/hweb?-A=219782&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 6",Σεζόν 06 Επεισόδιο 023 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣΣαλάτα με ρόκα χαλούμι/Marry me orzo /Churros
+https://www.omegatv.com.cy/cgibin/hweb?-A=219946&-V=vod|webfulldig

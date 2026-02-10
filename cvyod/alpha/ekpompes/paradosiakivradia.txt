@@ -102,3 +102,5 @@ https://www.alphacyprus.com.cy/shows/entertainment/paradosiakivradia/webtv/17012
 https://www.alphacyprus.com.cy/shows/entertainment/paradosiakivradia/webtv/240126|webvidfulldig
 #EXTINF:-1 group-title="Season 1",31/01/26
 https://www.alphacyprus.com.cy/shows/entertainment/paradosiakivradia/webtv/310126|webvidfulldig
+#EXTINF:-1 group-title="Season 1",07/02/26
+https://www.alphacyprus.com.cy/shows/entertainment/paradosiakivradia/webtv/070226|webvidfulldig

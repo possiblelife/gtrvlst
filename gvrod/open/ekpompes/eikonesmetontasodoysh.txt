@@ -540,6 +540,10 @@ https://www.tvopen.gr/watch/155618/ntoltsosthsynoikiathskastoriasmetaarxontika|w
 https://www.tvopen.gr/watch/155619/gyrolimniaopioomorfosperipatosthskastorias|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Μονή Μαυριώτισσας: Η εντυπωσιακή μονή της Καστοριάς
 https://www.tvopen.gr/watch/155620/monhmayriotissashentyposiakhmonhthskastorias|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Μαϊάμι: Φορτ Λόντερντεϊλ - Η Βενετία της Αμερικής
+https://www.tvopen.gr/watch/161902/maiamifortlonternteilhbenetiathsamerikhs|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Μαϊάμι - Ίσλαμοραντα: Ταΐζουμε μεγάλα ψάρια στην προβλήτα του Robbie’s
+https://www.tvopen.gr/watch/162822/maiamiislamorantataizoymemegalapsariasthnproblhtatoyrobbiee28099s|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Βόλτα στο παραμυθένιο χωριό Νυμφαίο
 https://www.tvopen.gr/watch/156705/boltastoparamythenioxorionymfaio|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Μικρή και Μεγάλη Πρέσπα: Το μεγαλείο της φύσης
@@ -558,10 +562,6 @@ https://www.tvopen.gr/watch/160884/maiaminyxterinhboltasthnoceandrivekaitodiaboh
 https://www.tvopen.gr/watch/160888/maiamioneirikhanatolhsthsouthbeach|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Μαϊάμι: Κρουαζιέρα στο Μπέισαϊντ
 https://www.tvopen.gr/watch/161901/maiamikroyazierastompeisaint|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Μαϊάμι: Φορτ Λόντερντεϊλ - Η Βενετία της Αμερικής
-https://www.tvopen.gr/watch/161902/maiamifortlonternteilhbenetiathsamerikhs|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Μαϊάμι - Ίσλαμοραντα: Ταΐζουμε μεγάλα ψάρια στην προβλήτα του Robbie’s
-https://www.tvopen.gr/watch/162822/maiamiislamorantataizoymemegalapsariasthnproblhtatoyrobbiee28099s|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Μαϊάμι: Σε φαντασμαγορική βίλα με άρωμα… Μυκόνου
 https://www.tvopen.gr/watch/162823/maiamisefantasmagorikhbilamearomamykonoy|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ιερουσαλήμ – Via Dolorosa: Η Οδός του Μαρτυρίου με τις ενδιάμεσες στάσεις του Ιησού
@@ -1112,6 +1112,12 @@ https://www.tvopen.gr/watch/261516/eikonesmetontasodoyshroymania|webvidfulldig
 https://www.tvopen.gr/watch/261957/otasosdoyshskaihomadatoyftanoynsthnkalodiathrhmenhmesaionikhpolhsigkisoara|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Ρουμανία
 https://www.tvopen.gr/watch/261958/eikonesmetontasodoyshroymania|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Παλάτι του Κοινοβουλίου:Μια κολοσσιαία κληρονομιά στο Βουκουρέστι
+https://www.tvopen.gr/watch/262449/palatitoykoinoboylioymiakolossiaiaklhronomiastoboykoyresti|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Άγιος Δημήτριος:Βυζαντινή παράδοση στο Βουκουρέστι
+https://www.tvopen.gr/watch/262450/agiosdhmhtriosbyzantinhparadoshstoboykoyresti|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Ρουμανία  Γ μέρος
+https://www.tvopen.gr/watch/262451/eikonesmetontasodoyshroymaniagmeros|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Καππαδοκία, Α' μέρος
 https://www.tvopen.gr/watch/2307/eikonesmetontasodoysh7ckappadokiaameros|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση |  Καππαδοκία Β' Μέρος

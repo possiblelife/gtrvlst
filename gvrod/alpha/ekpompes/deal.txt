@@ -1,7 +1,3 @@
-#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 74
-https://www.alphatv.gr/show/deal/?vtype=player&vid=64371&showId=254&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 75
-https://www.alphatv.gr/show/deal/?vtype=player&vid=64372&showId=254&year=2026|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 76
 https://www.alphatv.gr/show/deal/?vtype=player&vid=64388&showId=254&year=2026|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 77
@@ -42,3 +38,5 @@ https://www.alphatv.gr/show/deal/?vtype=player&vid=64585&showId=254&year=2026|we
 https://www.alphatv.gr/show/deal/?vtype=player&vid=64586&showId=254&year=2026|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 95
 https://www.alphatv.gr/show/deal/?vtype=player&vid=64652&showId=254&year=2026|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 96
+https://www.alphatv.gr/show/deal/?vtype=player&vid=64666&showId=254&year=2026|webvidfulldig
