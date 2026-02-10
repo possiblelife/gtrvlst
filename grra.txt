@@ -1555,6 +1555,10 @@ https://xroma985.live24.gr/xroma985
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΔΙΑΔΙΚΤΥΑΚΑ ====
 http://.....
 
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/F4gX4KDk/80s.png" ,ERTecho 80s radio
+https://radiostreaming.ert.gr/radio-80s
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/7ttpQDqD/90s.png" ,ERTecho 90s radio
+https://radiostreaming.ert.gr/radio-90s
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logs/net_music.png" ,Radio Melodia Toronto
 https://sc.cast-control.eu/stream/melodiatoronto
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/velvetfm.png",Velvet.  (Αθήνα)
