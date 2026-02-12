@@ -1453,3 +1453,7 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64590&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64591&showId=869&year=2026|webvidfulldig
 #EXTINF:-1 group-title="2026",Πρόσεχε τι εύχεσαι
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64670&showId=869&year=2026|webvidfulldig
+#EXTINF:-1 group-title="2026",Η φωτογράφιση
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64671&showId=869&year=2026|webvidfulldig
+#EXTINF:-1 group-title="2026",Ο μεσίτης
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64672&showId=869&year=2026|webvidfulldig

@@ -32,3 +32,7 @@ https://www.megatv.com/gtvshows/2258587/epeisodio-99-8/|webfulldig
 https://www.megatv.com/gtvshows/2258593/epeisodio-100-8/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 101
 https://www.megatv.com/gtvshows/2258974/epeisodio-101-8/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 102
+https://www.megatv.com/gtvshows/2258983/epeisodio-102-8/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 103
+https://www.megatv.com/gtvshows/2265289/epeisodio-103-8/|webfulldig
