@@ -51,20 +51,12 @@ http://31.121.110.30:4000/play/a026/index.m3u8|User-Agent=Mozilla/5.0 (Windows N
 https://verginanews.gr:8443/hls_live/stream2.m3u8
 #EXTINF:-1 group-title="CYPRUS" tvg-id="Extra TV" tvg-name="ONE Channel" tvg-logo="hub://logs/ONE-CY.png" ,ONE Channel (vip)
 sec:ch10
-#EXTINF:-1 group-title="CYPRUS" tvg-id="Extra TV" tvg-name="ONE Channel"tvg-logo="hub://logs/ONE-CY.png" ,ONE Channel (4)
-https://aliez.me/live/m1i1vavi266bcdwp7694/|weballdig
 #EXTINF:-1 group-title="CYPRUS" tvg-id="Capital" tvg-name="CAPITAL" tvg-logo="hub://logs/capital.png" ,CAPITAL (vip)
 sec:ch11
-#EXTINF:-1 group-title="CYPRUS" tvg-id="Capital" tvg-name="CAPITAL" tvg-logo="hub://logs/capital.png" ,CAPITAL (4)
-https://aliez.me/live/mwx5e0n783q9mp0fzqk4/|weballdig
 #EXTINF:-1 group-title="CYPRUS"  tvg-id="Plus TV" tvg-name="Plus" tvg-logo="hub://logs/plus.png" ,Plus (vip)
 sec:ch12
-#EXTINF:-1 group-title="CYPRUS"  tvg-id="Plus TV" tvg-name="Plus" tvg-logo="hub://logs/plus.png" ,Plus (4)
-https://aliez.tv/live/35d7zu879grqvfjjpfzn/|weballdig
 #EXTINF:-1 group-title="CYPRUS" tvg-id="smile"  tvg-name="Smile" tvg-logo="hub://logs/smile.png" ,Smile (vip)
 sec:ch13
-#EXTINF:-1 group-title="CYPRUS" tvg-id="smile"  tvg-name="Smile" tvg-logo="hub://logs/smile.png" ,Smile (4)
-https://aliez.tv/live/v165d7mvix41fjyk9z5i/|weballdig
 #EXTINF:-1 group-title="INTERNATIONAL"  tvg-id="riksat" tvg-name="ΡΙΚ SAT" tvg-logo="hub://logs/rik-sat.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ SAT
 https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 group-title="INTERNATIONAL" tvg-id="riksat" tvg-name="ΡΙΚ SAT" tvg-logo="hub://logs/rik-sat.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ SAT - ΕΝΑΛΛΑΚΤΙΚΟ
