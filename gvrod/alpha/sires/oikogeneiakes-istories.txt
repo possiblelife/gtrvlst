@@ -1461,3 +1461,5 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64672&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64673&showId=869&year=2026|webvidfulldig
 #EXTINF:-1 group-title="2026",Ποιος
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64674&showId=869&year=2026|webvidfulldig
+#EXTINF:-1 group-title="2026",Ο καταστροφολόγος
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64783&showId=869&year=2026|webvidfulldig

@@ -967,3 +967,7 @@ https://www.alphatv.gr/show/kitchen-lab/?vtype=player&vid=64596&showId=928&year=
 https://www.alphatv.gr/show/kitchen-lab/?vtype=player&vid=64662&showId=928&year=2026|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 8",08/02/26
 https://www.alphatv.gr/show/kitchen-lab/?vtype=player&vid=64663&showId=928&year=2026|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 8",14/02/26
+https://www.alphatv.gr/show/kitchen-lab/?vtype=player&vid=64758&showId=928&year=2026|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 8",15/02/26
+https://www.alphatv.gr/show/kitchen-lab/?vtype=player&vid=64759&showId=928&year=2026|webvidfulldig
