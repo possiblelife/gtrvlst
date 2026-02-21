@@ -1,7 +1,3 @@
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 85
-https://www.megatv.com/gtvshows/2237251/epeisodio-85-10/|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 86
-https://www.megatv.com/gtvshows/2237272/epeisodio-86-10/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 87
 https://www.megatv.com/gtvshows/2237290/epeisodio-87-11/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 88
@@ -48,3 +44,7 @@ https://www.megatv.com/gtvshows/2273134/epeisodio-107-8/|webfulldig
 https://www.megatv.com/gtvshows/2273146/epeisodio-108-7/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 109
 https://www.megatv.com/gtvshows/2273152/epeisodio-109-8/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 110
+https://www.megatv.com/gtvshows/2277169/epeisodio-110-8/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 111
+https://www.megatv.com/gtvshows/2278501/epeisodio-111-8/|webfulldig

@@ -452,3 +452,9 @@ https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/16022
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/170226|webvidfulldig
 #EXTINF:-1 group-title="2025-2026",18/02/26
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/180226|webvidfulldig
+#EXTINF:-1 group-title="2025-2026",19/02/26
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/190226|webvidfulldig
+#EXTINF:-1 group-title="2025-2026",Παρφέ τιραμισού
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/parfe-tiramisoy|webvidfulldig
+#EXTINF:-1 group-title="2025-2026",Έλενα Λυσάνδρου
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/elena-lysandroy-0|webvidfulldig

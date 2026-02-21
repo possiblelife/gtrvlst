@@ -80,3 +80,5 @@ https://www.megatv.com/tvshows/2262733/epeisodio-39-42/|webfulldig
 https://www.megatv.com/tvshows/2262736/epeisodio-40-42/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 41
 https://www.megatv.com/tvshows/2270128/epeisodio-41-40/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 42
+https://www.megatv.com/tvshows/2270143/epeisodio-42-40/|webfulldig

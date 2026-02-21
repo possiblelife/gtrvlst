@@ -10,3 +10,7 @@ https://www.alphatv.gr/show/baba-sagapo/?vtype=player&vid=64635&showId=1799&year
 https://www.alphatv.gr/show/baba-sagapo/?vtype=player&vid=64685&showId=1799&year=2026|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 6
 https://www.alphatv.gr/show/baba-sagapo/?vtype=player&vid=64686&showId=1799&year=2026|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 7
+https://www.alphatv.gr/show/baba-sagapo/?vtype=player&vid=64805&showId=1799&year=2026|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 8
+https://www.alphatv.gr/show/baba-sagapo/?vtype=player&vid=64806&showId=1799&year=2026|webvidfulldig
