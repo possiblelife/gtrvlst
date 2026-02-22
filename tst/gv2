@@ -286,13 +286,13 @@ http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Omega" tvg-logo="hub://logs/omega.png" tvg-name="OMEGA" tvg-website="http://www.omegatv.com.cy/" ,OMEGA - ΕΝΑΛΛΑΚΤΙΚΟ 
 https://www.omegatv.com.cy/live/|weballdig
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Mega" tvg-name="OMEGA" tvg-logo="hub://logs/omega.png" tvg-website="http://www.omegatv.com.cy/" ,OMEGA (vip)
-sec:ch16
+https://vid1.smartscreen-data.com/OMEGA/OMEGA/manifest.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Omega" tvg-logo="hub://logs/omega.png" tvg-name="OMEGA" tvg-website="http://www.omegatv.com.cy/" ,OMEGA (2)
 http://31.121.110.30:4000/play/a027/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Sigma" tvg-logo="hub://logs/sigma.png" tvg-name="SIGMA" tvg-website="https://www.sigmatv.com/home" ,SIGMA
 https://ottstream.iptv.prime-tel.net/streaming-web/SigmaLive/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Sigma" tvg-name="SIGMA" tvg-logo="hub://logs/sigma.png" tvg-website="https://www.sigmatv.com/home" ,SIGMA (vip)
-sec:ch17
+https://vid1.smartscreen-data.com/SIGMA/SIGMA/manifest.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Sigma" tvg-logo="hub://logs/sigma.png" tvg-name="SIGMA" tvg-website="https://www.sigmatv.com/home" ,SIGMA (2)
 http://31.121.110.30:4000/play/a025/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="Alpha Cyprus" tvg-logo="hub://logs/Alpha_Cyprus.png" tvg-name="Alpha Κύπρου" tvg-website="https://www.alphacyprus.com.cy/" ,Alpha Κύπρου 
