@@ -18,30 +18,22 @@ https://aliez.me/live/39qi7ee9ru30iw7myt23/|weballdig
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT2/default/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert2" tvg-logo="hub://logs/ERT2_SPOR.png" tvg-name="ΕΡΤ2" tvg-website="https://www.ertflix.gr" ,ΕΡΤ2 (vip)
 sec:ch7
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert2" tvg-logo="hub://logs/ERT2_SPOR.png" tvg-name="ΕΡΤ2" tvg-website="https://www.ertflix.gr" ,ΕΡΤ2 HD ΣΠΟΡ (1)
-http://31.121.110.30:4000/play/a02a/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert3" tvg-logo="hub://logs/ERT3.png" tvg-name="ΕΡΤ3" tvg-website="https://www.ertflix.gr" ,ΕΡΤ3 HD
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT3/default/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert3" tvg-logo="hub://logs/ERT3.png" tvg-name="ΕΡΤ3" tvg-website="https://www.ertflix.gr" ,ΕΡΤ3 (vip)
 sec:ch8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert3" tvg-logo="hub://logs/ERT3.png" tvg-name="ΕΡΤ3" tvg-website="https://www.ertflix.gr" ,ΕΡΤ3 HD (1)
-http://31.121.110.30:4000/play/a029/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1" tvg-logo="hub://logs/ANT1.png" tvg-name="ANT1" tvg-website="https://watch.antennaplus.gr/#/" ,ANT1 HD
 https://lcdn.antennaplus.gr/r86d08d448885424196f6cd3ddc5d1489/eu-central-1/6415884360001/playlist_dvr.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1" tvg-logo="hub://logs/ANT1.png" tvg-name="ANT1" tvg-website="https://watch.antennaplus.gr/#/" ,ANT1 (vip)
 sec:ch3
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1" tvg-logo="hub://logs/ANT1.png" tvg-name="ANT1" tvg-website="https://watch.antennaplus.gr/#/" ,ANT1 HD (4)
 https://aliez.me/live/4df8st7j9mcd6fh5waoi/|weballdig
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1" tvg-logo="hub://logs/ANT1.png" tvg-name="ANT1" tvg-website="https://watch.antennaplus.gr/#/" ,ANT1 HD (3)
-http://31.121.110.30:4000/play/a028/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="Mega" tvg-logo="hub://logs/mega.png" tvg-name="MEGA" tvg-website="https://www.megatv.com/" ,MEGA HD (1)
 https://embed.vindral.com/?core.channelId=alteregomedia_megatv1_ci_6cc490c7-e5c6-486b-acf0-9bb9c20fa670&core.minBufferTime=2000&player.aspectRatio=16:9|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="Mega" tvg-logo="hub://logs/mega.png" tvg-name="MEGA" tvg-website="https://www.megatv.com/" ,MEGA (vip)
 sec:ch1
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="Mega" tvg-logo="hub://logs/mega.png" tvg-name="MEGA" tvg-website="https://www.megatv.com/" ,MEGA HD (4)
 https://aliez.me/live/uab2p85ge9b1h98355dc/|weballdig
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="Mega" tvg-logo="hub://logs/mega.png" tvg-name="MEGA" tvg-website="https://www.megatv.com/" ,MEGA HD (3)
-http://31.121.110.30:4000/play/a02d/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="SKAI" tvg-logo="hub://logs/skai.png" tvg-name="SKAI" tvg-website="https://www.skaitv.gr/" ,SKAI HD
 https://skai-live.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="SKAI" tvg-logo="hub://logs/skai.png" tvg-name="SKAI" tvg-website="https://www.skaitv.gr/" ,SKAI (vip)
@@ -60,8 +52,6 @@ https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
 sec:ch2
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ALPHA" tvg-logo="hub://logs/Alpha_TV.png" tvg-name="ALPHA" tvg-website="https://www.alphatv.gr/" ,ALPHA HD (4)
 https://aliez.me/live/h7xwcoo0ll8hy83bo3si/|weballdig
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ALPHA" tvg-logo="hub://logs/Alpha_TV.png" tvg-name="ALPHA" tvg-website="https://www.alphatv.gr/" ,ALPHA HD (3)
-http://31.121.110.30:4000/play/a02c/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="OPEN BEYOND" tvg-logo="hub://logs/open.png" tvg-name="OPEN Beyond TV" tvg-website="https://www.tvopen.gr/" ,OPEN Beyond TV (ΜΟΝΟ ΕΛΛΑΔΑ)
 https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="OPEN BEYOND" tvg-logo="hub://logs/open.png" tvg-name="OPEN Beyond TV" tvg-website="https://www.tvopen.gr/" ,OPEN Beyond TV (vip)
@@ -267,16 +257,12 @@ http://l6.cloudskep.com/rikct/rik1/playlist.m3u8
 https://tv.rik.cy/live-tv/rik-1/|webdig
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik1" tvg-name="ΡΙΚ1" tvg-logo="hub://logs/rik1.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ1 (vip)
 sec:ch14
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik1" tvg-logo="hub://logs/rik1.png" tvg-name="ΡΙΚ1" tvg-website="http://cybc.com.cy/" ,ΡΙΚ1 (2)
-http://31.121.110.30:4000/play/a023/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik2" tvg-logo="hub://logs/rik2.png" tvg-name="ΡΙΚ2" tvg-website="http://cybc.com.cy/" ,ΡΙΚ2 [ΜΟΝΟ ΓΙΑ ΚΥΠΡΟ]
 http://l6.cloudskep.com/rikct/rik2/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik2" tvg-logo="hub://logs/rik2.png" tvg-name="ΡΙΚ2" tvg-website="http://cybc.com.cy/" ,ΡΙΚ2 - ΕΝΑΛΛΑΚΤΙΚΟ [ΜΟΝΟ ΓΙΑ ΚΥΠΡΟ]
 https://tv.rik.cy/live-tv/rik-2/|webdig
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik2" tvg-name="ΡΙΚ2" tvg-logo="hub://logs/rik2.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ2 (vip)
 sec:ch15
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik2" tvg-logo="hub://logs/rik2.png" tvg-name="ΡΙΚ2" tvg-website="http://cybc.com.cy/" ,ΡΙΚ2 (2)
-http://31.121.110.30:4000/play/a024/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="RIK HD" tvg-logo="hub://logs/rik-hd.png" tvg-name="ΡΙΚHD" tvg-website="http://cybc.com.cy/" ,ΡΙΚHD [ΜΟΝΟ ΓΙΑ ΚΥΠΡΟ]
 http://l6.cloudskep.com/rikct/rikhd/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="RIK HD" tvg-logo="hub://logs/rik-hd.png" tvg-name="ΡΙΚHD" tvg-website="http://cybc.com.cy/" ,ΡΙΚHD - ΕΝΑΛΛΑΚΤΙΚΟ [ΜΟΝΟ ΓΙΑ ΚΥΠΡΟ]
@@ -287,14 +273,10 @@ http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
 https://www.omegatv.com.cy/live/|weballdig
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Mega" tvg-name="OMEGA" tvg-logo="hub://logs/omega.png" tvg-website="http://www.omegatv.com.cy/" ,OMEGA (vip)
 sec:ch16
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Omega" tvg-logo="hub://logs/omega.png" tvg-name="OMEGA" tvg-website="http://www.omegatv.com.cy/" ,OMEGA (2)
-http://31.121.110.30:4000/play/a027/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Sigma" tvg-logo="hub://logs/sigma.png" tvg-name="SIGMA" tvg-website="https://www.sigmatv.com/home" ,SIGMA
 https://ottstream.iptv.prime-tel.net/streaming-web/SigmaLive/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Sigma" tvg-name="SIGMA" tvg-logo="hub://logs/sigma.png" tvg-website="https://www.sigmatv.com/home" ,SIGMA (vip)
 sec:ch17
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Sigma" tvg-logo="hub://logs/sigma.png" tvg-name="SIGMA" tvg-website="https://www.sigmatv.com/home" ,SIGMA (2)
-http://31.121.110.30:4000/play/a025/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="Alpha Cyprus" tvg-logo="hub://logs/Alpha_Cyprus.png" tvg-name="Alpha Κύπρου" tvg-website="https://www.alphacyprus.com.cy/" ,Alpha Κύπρου 
 https://www.alphacyprus.com.cy/live|weballdig
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="Alpha Cyprus"  tvg-name="Alpha Κύπρου" tvg-logo="hub://logs/Alpha_Cyprus.png" tvg-website="https://www.alphacyprus.com.cy/" ,Alpha Κύπρου  (1)
@@ -305,8 +287,6 @@ http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 https://www.ant1live.com/webtv/live|webdelayalldig
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="ANT1CY" tvg-name="ΑΝΤ1 KYΠΡΟΥ" tvg-logo="hub://logs/ANT1.png" tvg-website="https://www.ant1live.com/" ,ANT1 KYΠΡΟΥ (vip)
 sec:ch20
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="ANT1CY" tvg-logo="hub://logs/ANT1.png" tvg-name="ΑΝΤ1 KYΠΡΟΥ" tvg-website="https://www.ant1live.com/" ,ΑΝΤ1 KYΠΡΟΥ (2)
-http://31.121.110.30:4000/play/a026/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Berginacy"  tvg-name="ΒΕΡΓΙΝΑ ΤV" tvg-logo="hub://logs/vergina.png" tvg-website="https://verginatv.cy/" ,ΒΕΡΓΙΝΑ ΤV
 https://verginanews.gr:8443/hls_live/stream2.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Extra TV" tvg-name="ONE Channel CY" tvg-logo="hub://logs/ONE-CY.png" ,ONE Channel CY (vip)
