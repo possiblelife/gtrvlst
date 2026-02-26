@@ -458,3 +458,9 @@ https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/19022
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/parfe-tiramisoy|webvidfulldig
 #EXTINF:-1 group-title="2025-2026",Έλενα Λυσάνδρου
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/elena-lysandroy-0|webvidfulldig
+#EXTINF:-1 group-title="2025-2026",20/02/26
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/200226|webvidfulldig
+#EXTINF:-1 group-title="2025-2026",24/02/26
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/240226|webvidfulldig
+#EXTINF:-1 group-title="2025-2026",Σοκολατένιο σνακ με 3 υλικά
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/sokolatenio-snak-me-3-ylika|webvidfulldig

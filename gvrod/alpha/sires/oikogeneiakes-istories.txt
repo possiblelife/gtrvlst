@@ -1469,3 +1469,7 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64799&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64800&showId=869&year=2026|webvidfulldig
 #EXTINF:-1 group-title="2026",Ο κύκνος
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64801&showId=869&year=2026|webvidfulldig
+#EXTINF:-1 group-title="2026",Ο επόμενος
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64856&showId=869&year=2026|webvidfulldig
+#EXTINF:-1 group-title="2026",Journaling
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64857&showId=869&year=2026|webvidfulldig
