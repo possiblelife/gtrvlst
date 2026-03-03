@@ -48,3 +48,7 @@ https://www.alphatv.gr/show/to-soi-soy/?vtype=player&vid=64753&showId=500&year=2
 https://www.alphatv.gr/show/to-soi-soy/?vtype=player&vid=64835&showId=500&year=2026|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 6",ΕΠΕΙΣΟΔΙΟ 25
 https://www.alphatv.gr/show/to-soi-soy/?vtype=player&vid=64844&showId=500&year=2026|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 6",ΕΠΕΙΣΟΔΙΟ 26
+https://www.alphatv.gr/show/to-soi-soy/?vtype=player&vid=64910&showId=500&year=2026|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 6",ΕΠΕΙΣΟΔΙΟ 27
+https://www.alphatv.gr/show/to-soi-soy/?vtype=player&vid=64919&showId=500&year=2026|webvidfulldig

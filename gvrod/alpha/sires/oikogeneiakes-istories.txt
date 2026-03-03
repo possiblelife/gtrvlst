@@ -1473,3 +1473,9 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64801&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64856&showId=869&year=2026|webvidfulldig
 #EXTINF:-1 group-title="2026",Journaling
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64857&showId=869&year=2026|webvidfulldig
+#EXTINF:-1 group-title="2026",Η μοιρασιά
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64858&showId=869&year=2026|webvidfulldig
+#EXTINF:-1 group-title="2026",Ένας αριθμός
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64859&showId=869&year=2026|webvidfulldig
+#EXTINF:-1 group-title="2026",Η φωνή
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64935&showId=869&year=2026|webvidfulldig
