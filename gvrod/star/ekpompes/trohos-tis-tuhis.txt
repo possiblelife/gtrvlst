@@ -3170,3 +3170,7 @@ https://www.star.gr/tv/psychagogia/trohos-tis-tuhis/2622026-trohos-tis-tuhis|web
 https://www.star.gr/tv/psychagogia/trohos-tis-tuhis/2722026-trohos-tis-tuhis|webfulldig
 #EXTINF:-1 group-title="Season 9",2.3.2026 - Τροχός της Τύχης
 https://www.star.gr/tv/psychagogia/trohos-tis-tuhis/232026-trohos-tis-tuhis|webfulldig
+#EXTINF:-1 group-title="Season 9",3.3.2026 - Τροχός της Τύχης
+https://www.star.gr/tv/psychagogia/trohos-tis-tuhis/332026-trohos-tis-tuhis|webfulldig
+#EXTINF:-1 group-title="Season 9",4.3.2026 - Τροχός της Τύχης
+https://www.star.gr/tv/psychagogia/trohos-tis-tuhis/432026-trohos-tis-tuhis|webfulldig
