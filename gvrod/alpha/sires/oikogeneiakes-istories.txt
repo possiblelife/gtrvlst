@@ -1483,3 +1483,5 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64935&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64936&showId=869&year=2026|webvidfulldig
 #EXTINF:-1 group-title="2026",Το πισωγύρισμα
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64937&showId=869&year=2026|webvidfulldig
+#EXTINF:-1 group-title="2026",Γιατρέ μου
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64938&showId=869&year=2026|webvidfulldig
