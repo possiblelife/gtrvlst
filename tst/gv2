@@ -449,6 +449,8 @@ https://channel.streams.ovh:8081/dipolotv/index.m3u8
 https://pro.free.hr:3343/live/l1llive.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/ELLADA_TV.jpg" tvg-website="https://elladafm.gr/webtvnew/" ,ELLADA TV
 https://tvstream.elladafm.gr:3989/live/elladasportstvlive.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/escape_media.png" tvg-website="https://escape-media.gr/index.php" ,Escape Media
+https://rtmp.streams.ovh:8081/escapemedia/index.m3u8
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/red.png" ,=====   ΜΟΥΣΙΚΗ   ====
 http://.....
