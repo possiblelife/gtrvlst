@@ -144,5 +144,7 @@ https://www.megatv.com/tvshows/2270641/epeisodio-7-2os-kyklos/|webfulldig
 https://www.megatv.com/tvshows/2278756/epeisodio-8-2os-kyklos/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 9 &#8211; 2ος Κύκλος
 https://www.megatv.com/tvshows/2280610/epeisodio-9-2os-kyklos/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 12 &#8211; 2ος Κύκλος
+https://www.megatv.com/tvshows/2280625/epeisodio-12-2os-kyklos/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 13 &#8211; 2ος Κύκλος
 https://www.megatv.com/tvshows/2280628/epeisodio-13-2os-kyklos/|webfulldig

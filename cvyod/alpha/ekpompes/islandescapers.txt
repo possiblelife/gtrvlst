@@ -28,3 +28,5 @@ https://www.alphacyprus.com.cy/shows/entertainment/islandescapers/webtv/180525|w
 https://www.alphacyprus.com.cy/shows/entertainment/islandescapers/webtv/250525|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",01/06/25
 https://www.alphacyprus.com.cy/shows/entertainment/islandescapers/webtv/010625|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",08/03/26
+https://www.alphacyprus.com.cy/shows/entertainment/islandescapers/webtv/080326|webvidfulldig

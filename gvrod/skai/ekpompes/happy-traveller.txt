@@ -642,3 +642,5 @@ https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2026-02-07-17|webvidf
 https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2026-02-14-16|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 11",Σαντιάγο, Χιλή | Μέρος Α'
 https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2026-02-21-17|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 11",Σαντιάγο, Χιλή | Μέρος Β'
+https://www.skai.gr/tv/episode/psuchagogia/happy-traveller/2026-03-07-16|webvidfulldig

@@ -10,3 +10,7 @@ https://www.alphatv.gr/show/tromeroi-goneis/?vtype=player&vid=64846&showId=1763&
 https://www.alphatv.gr/show/tromeroi-goneis/?vtype=player&vid=64921&showId=1763&year=2026|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 34
 https://www.alphatv.gr/show/tromeroi-goneis/?vtype=player&vid=64922&showId=1763&year=2026|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 35
+https://www.alphatv.gr/show/tromeroi-goneis/?vtype=player&vid=65009&showId=1763&year=2026|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 36
+https://www.alphatv.gr/show/tromeroi-goneis/?vtype=player&vid=65010&showId=1763&year=2026|webvidfulldig
