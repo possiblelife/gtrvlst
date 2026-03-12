@@ -1,7 +1,3 @@
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 102
-https://www.megatv.com/gtvshows/2258983/epeisodio-102-8/|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 103
-https://www.megatv.com/gtvshows/2265289/epeisodio-103-8/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 104
 https://www.megatv.com/gtvshows/2265304/epeisodio-104-8/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 105
@@ -44,3 +40,7 @@ https://www.megatv.com/gtvshows/2293993/epeisodio-122-8/|webfulldig
 https://www.megatv.com/gtvshows/2293999/epeisodio-123-8/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 124
 https://www.megatv.com/gtvshows/2297521/epeisodio-124-8/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 125
+https://www.megatv.com/gtvshows/2298913/epeisodio-125-8/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 126
+https://www.megatv.com/gtvshows/2300395/epeisodio-126-8/|webfulldig
