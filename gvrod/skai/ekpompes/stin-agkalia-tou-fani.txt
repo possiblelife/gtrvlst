@@ -44,10 +44,6 @@ https://www.skai.gr/tv/episode/psuchagogia/stin-agkalia-tou-fani/2026-01-16-23|w
 https://www.skai.gr/tv/episode/psuchagogia/stin-agkalia-tou-fani/2026-01-23-23|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2025-2026",Στην Αγκαλιά του Φάνη | Δημήτρης Σταρόβας, Φαίη Ξυλά, Χρυσηίδα Γκαγκούτη 29/01/2026 
 https://www.skai.gr/tv/episode/psuchagogia/stin-agkalia-tou-fani/2026-01-29-23|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2025-2026",Στην Αγκαλιά του Φάνη | Μαρία Κίτσου & Σταύρος Σβήγκος 23/01/2026 
-https://www.skai.gr/tv/episode/psuchagogia/stin-agkalia-tou-fani/2026-01-23-23|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2025-2026",Στην Αγκαλιά του Φάνη | Δημήτρης Σταρόβας, Φαίη Ξυλά, Χρυσηίδα Γκαγκούτη 29/01/2026 
-https://www.skai.gr/tv/episode/psuchagogia/stin-agkalia-tou-fani/2026-01-29-23|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2025-2026",Στην Αγκαλιά του Φάνη | Σωτήρης Καλυβάτσης & Γιώργος Σεϊταρίδης 30/01/2026 
 https://www.skai.gr/tv/episode/psuchagogia/stin-agkalia-tou-fani/2026-01-30-23|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2025-2026",Στην Αγκαλιά του Φάνη | Γιάννης Ζουγανέλης, Τόλης Παπαδημητρίου, Τραϊάνα Ανανία 06/02/2026 
@@ -68,3 +64,7 @@ https://www.skai.gr/tv/episode/psuchagogia/stin-agkalia-tou-fani/2026-02-27-00|w
 https://www.skai.gr/tv/episode/psuchagogia/stin-agkalia-tou-fani/2026-02-27-23|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2025-2026",Στην Αγκαλιά του Φάνη | Μαρία Μπακοδήμου & Fipster 06/03/2026 
 https://www.skai.gr/tv/episode/psuchagogia/stin-agkalia-tou-fani/2026-03-06-22|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 2025-2026",Στην Αγκαλιά του Φάνη | Εβελίνα Παπούλια & Νίκος Βουρλιώτης 12/03/2026 
+https://www.skai.gr/tv/episode/psuchagogia/stin-agkalia-tou-fani/2026-03-12-23|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 2025-2026",Στην Αγκαλιά του Φάνη | Νίκος Κοκλώνης & Lila 13/03/2026 
+https://www.skai.gr/tv/episode/psuchagogia/stin-agkalia-tou-fani/2026-03-13-22|webvidfulldig

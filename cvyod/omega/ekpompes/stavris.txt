@@ -498,3 +498,5 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=220303&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=220376&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 6",Σεζόν 06 Επεισόδιο 027 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣMimosa cake/Σοκολατένιο porridge /Σολομός με πατάτες
 https://www.omegatv.com.cy/cgibin/hweb?-A=220611&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 6",Σεζόν 06 Επεισόδιο 028 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣBanoffee/ Κεφτεδάκια από φακές και σος με ταχίνι /Φέτα σαγανάκι
+https://www.omegatv.com.cy/cgibin/hweb?-A=220764&-V=vod|webfulldig

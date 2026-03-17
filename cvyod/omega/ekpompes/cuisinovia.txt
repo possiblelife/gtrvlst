@@ -596,3 +596,7 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=220747&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=220748&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 123 CUISINOVIAράσινα Φαλάφελ. ΡΕΒΑΝΙ ΜΕ ΚΡΕΜΑ
 https://www.omegatv.com.cy/cgibin/hweb?-A=220749&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 124 CUISINOVIAΜαμούλια
+https://www.omegatv.com.cy/cgibin/hweb?-A=220763&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 125 CUISINOVIAΚοτόπουλο Tikka Wraps , Oat almond cookies
+https://www.omegatv.com.cy/cgibin/hweb?-A=220765&-V=vod|webfulldig
