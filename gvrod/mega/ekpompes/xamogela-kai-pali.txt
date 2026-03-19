@@ -746,3 +746,7 @@ https://www.megatv.com/gtvshows/2288056/01-03-2026/|webfulldig
 https://www.megatv.com/gtvshows/2295217/07-03-2026/|webfulldig
 #EXTINF:-1 group-title="Season 5",08/03/2026
 https://www.megatv.com/gtvshows/2296189/08-03-2026/|webfulldig
+#EXTINF:-1 group-title="Season 5",14/03/2026
+https://www.megatv.com/gtvshows/2303434/14-03-2026/|webfulldig
+#EXTINF:-1 group-title="Season 5",15/03/2026
+https://www.megatv.com/gtvshows/2304067/15-03-2026/|webfulldig

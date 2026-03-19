@@ -240,3 +240,7 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=220691&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=220751&-V=vod|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",13/03/2026 ΠΑΜΕ ΠΑΡΕΑ
 https://www.omegatv.com.cy/cgibin/hweb?-A=220757&-V=vod|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",16/03/2026 ΠΑΜΕ ΠΑΡΕΑ
+https://www.omegatv.com.cy/cgibin/hweb?-A=220771&-V=vod|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",17/03/2026 ΠΑΜΕ ΠΑΡΕΑ
+https://www.omegatv.com.cy/cgibin/hweb?-A=220871&-V=vod|webfulldig

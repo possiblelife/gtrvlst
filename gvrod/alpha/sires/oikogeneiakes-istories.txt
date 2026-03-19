@@ -1495,3 +1495,7 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=65025&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=65026&showId=869&year=2026|webvidfulldig
 #EXTINF:-1 group-title="2026",Αυτοί που μένουν
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=65107&showId=869&year=2026|webvidfulldig
+#EXTINF:-1 group-title="2026",Ο τελευταίος εγγονός
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=65108&showId=869&year=2026|webvidfulldig
+#EXTINF:-1 group-title="2026",Εκδίκηση
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=65109&showId=869&year=2026|webvidfulldig
