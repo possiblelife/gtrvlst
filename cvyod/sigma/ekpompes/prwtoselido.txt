@@ -3808,3 +3808,7 @@ https://www.sigmatv.com/shows/prwtoselido/episodes/44225|webvidfulldig
 https://www.sigmatv.com/shows/prwtoselido/episodes/44557|webvidfulldig
 #EXTINF:-1 group-title="2025/26",Πρωτοσέλιδο 18.03.26
 https://www.sigmatv.com/shows/prwtoselido/episodes/44560|webvidfulldig
+#EXTINF:-1 group-title="2025/26",Πρωτοσέλιδο 19.03.26
+https://www.sigmatv.com/shows/prwtoselido/episodes/44234|webvidfulldig
+#EXTINF:-1 group-title="2025/26",Πρωτοσέλιδο 20.03.26
+https://www.sigmatv.com/shows/prwtoselido/episodes/44237|webvidfulldig

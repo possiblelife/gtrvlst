@@ -1499,3 +1499,5 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=65107&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=65108&showId=869&year=2026|webvidfulldig
 #EXTINF:-1 group-title="2026",Εκδίκηση
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=65109&showId=869&year=2026|webvidfulldig
+#EXTINF:-1 group-title="2026",Η γυναίκα της ζωής μου
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=65110&showId=869&year=2026|webvidfulldig

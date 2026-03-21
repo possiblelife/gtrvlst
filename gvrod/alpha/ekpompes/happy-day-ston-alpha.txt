@@ -4262,3 +4262,7 @@ https://www.alphatv.gr/show/happy-day-ston-alpha/?vtype=player&vid=65131&showId=
 https://www.alphatv.gr/show/happy-day-ston-alpha/?vtype=player&vid=65133&showId=648&year=2026|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 10",18/03/26
 https://www.alphatv.gr/show/happy-day-ston-alpha/?vtype=player&vid=65143&showId=648&year=2026|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 10",19/03/26
+https://www.alphatv.gr/show/happy-day-ston-alpha/?vtype=player&vid=65153&showId=648&year=2026|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 10",20/03/26
+https://www.alphatv.gr/show/happy-day-ston-alpha/?vtype=player&vid=65164&showId=648&year=2026|webvidfulldig
