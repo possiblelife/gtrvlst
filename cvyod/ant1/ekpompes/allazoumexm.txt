@@ -30,3 +30,5 @@ https://www.ant1live.com/webtv/podcasts/psyhagogia/allazoyme-xm/epeisodio-1|webf
 https://www.ant1live.com/webtv/podcasts/psyhagogia/allazoyme-xm/epeisodio-2|webfulldig
 #EXTINF:-1 group-title="Season2",ΕΠΕΙΣΟΔΙΟ 03 (15.03.26)
 https://www.ant1live.com/webtv/podcasts/psyhagogia/allazoyme-xm/epeisodio-3|webfulldig
+#EXTINF:-1 group-title="Season2",ΕΠΕΙΣΟΔΙΟ 04 (21.03.26)
+https://www.ant1live.com/webtv/podcasts/psyhagogia/allazoyme-xm/epeisodio-4|webfulldig

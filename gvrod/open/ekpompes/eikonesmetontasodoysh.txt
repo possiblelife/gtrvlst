@@ -1132,6 +1132,10 @@ https://www.tvopen.gr/watch/264582/eikonesmetontasodoyshgalliaameros|webvidfulld
 https://www.tvopen.gr/watch/265133/tinadeitesthnistorikhproteyoysathsnormandias|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Νορμανδία
 https://www.tvopen.gr/watch/265134/eikonesmetontasodoyshnormandia|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Νορμανδία Β' Μέρος
+https://www.tvopen.gr/watch/265704/eikonesmetontasodoyshnormandiabmeros|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Ονφλέρ: Το γραφικό θέρετρο στη θάλασσα της Μάγχης
+https://www.tvopen.gr/watch/265706/onflertografikotheretrosththalassathsmagxhs|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Ρουμανία  Γ μέρος
 https://www.tvopen.gr/watch/262451/eikonesmetontasodoyshroymaniagmeros|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Καππαδοκία, Α' μέρος
@@ -1262,6 +1266,16 @@ https://www.tvopen.gr/watch/76609/eikonesmetontasodoysh7celafonhsosmystrassparth
 https://www.tvopen.gr/watch/78466/eikonesmetontasodoysh7crethymnoae28099meros|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Ρέθυμνο, Β’ μέρος
 https://www.tvopen.gr/watch/78998/eikonesmetontasodoysh7crethymnobe28099meros|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Κωνσταντινούπολη, Β’ μέρος
+https://www.tvopen.gr/watch/84016/eikonesmetontasodoysh7ckonstantinoypolhbe28099meros|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Κωνσταντινούπολη, Γ’ μέρος
+https://www.tvopen.gr/watch/84034/eikonesmetontasodoysh7ckonstantinoypolhge28099meros|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Αίγινα
+https://www.tvopen.gr/watch/84492/eikonesmetontasodoysh7caigina|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Ρώμη, Α’ μέρος
+https://www.tvopen.gr/watch/89732/eikonesmetontasodoysh7cromhae28099meros|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Ρώμη, Β’ μέρος
+https://www.tvopen.gr/watch/90687/eikonesmetontasodoysh7cromhbe28099meros|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Ηράκλειο, Α’ μέρος
 https://www.tvopen.gr/watch/79930/eikonesmetontasodoysh7chrakleioae28099meros|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Ηράκλειο, Β’ μέρος
@@ -1274,16 +1288,6 @@ https://www.tvopen.gr/watch/81817/eikonesmetontasodoysh7clasithibe28099meros|web
 https://www.tvopen.gr/watch/82678/eikonesmetontasodoysh7ckythhra|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Πόρος
 https://www.tvopen.gr/watch/83479/eikonesmetontasodoysh7cporos|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Κωνσταντινούπολη, Β’ μέρος
-https://www.tvopen.gr/watch/84016/eikonesmetontasodoysh7ckonstantinoypolhbe28099meros|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Κωνσταντινούπολη, Γ’ μέρος
-https://www.tvopen.gr/watch/84034/eikonesmetontasodoysh7ckonstantinoypolhge28099meros|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Αίγινα
-https://www.tvopen.gr/watch/84492/eikonesmetontasodoysh7caigina|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Ρώμη, Α’ μέρος
-https://www.tvopen.gr/watch/89732/eikonesmetontasodoysh7cromhae28099meros|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Ρώμη, Β’ μέρος
-https://www.tvopen.gr/watch/90687/eikonesmetontasodoysh7cromhbe28099meros|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Γιοχάνεσμπουργκ, Α’ μέρος
 https://www.tvopen.gr/watch/92018/eikonesmetontasodoysh7cgioxanesmpoyrgkae28099meros|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Γιοχάνεσμπουργκ, Β’ μέρος
