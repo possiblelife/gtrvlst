@@ -304,10 +304,7 @@ https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTWorld_Cyprus/default/index.mpd
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/red.png" ,===== ΔΙΑΔΙΚΤΥΑΚΑ ====
 http://.....
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-id="extacydiscovey" tvg-logo="hub://logs/extacy_disc2.jpg" ,EXTACY TV DISCOVERY
-https://eu1.servers10.com:8081/8232/index.m3u8
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-id="europeone" tvg-logo="hub://logs/europe1.png" tvg-name="EUROPE ONE" ,EUROPE ONE
-https://eu1.servers10.com:8081/8226/index.m3u8
+
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-id="EGNATIA" tvg-logo="hub://logs/egnatia.png" tvg-website="https://www.egnatia.tv/" ,ΕΓΝΑΤΙΑ
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/pellatv.png" tvg-website="https://www.pellatv.gr/" ,Pella tv
@@ -403,18 +400,6 @@ https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEq
 
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/red.png" ,=====   ΤΑΙΝΙΕΣ   ====
 http://.....
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacy" tvg-logo="hub://logs/extacy-tv.png" tvg-name="Extacy TV" ,Extacy TV
-https://eu1.servers10.com:8081/8356/index.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacygr" tvg-logo="hub://logs/extacygr.png" tvg-name="Extacy TV GREEKS" ,Extacy TV GREEKS
-https://eu1.servers10.com:8081/8364/index.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacycin" tvg-logo="hub://logs/extacy-cinema.png" tvg-name="Extacy TV CINEMA" ,Extacy TV CINEMA
-https://eu1.servers10.com:8081/8332/index.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacyser" tvg-logo="hub://logs/extacyseries.png" tvg-name="Extacy TV SERIES" ,Extacy TV SERIES
-https://eu1.servers10.com:8081/8284/index.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacycy" tvg-logo="hub://logs/extacy_cy.png" tvg-name="Extacy TV ΚΥΠΡΟΥ" ,Extacy TV ΚΥΠΡΟΥ
-https://eu1.servers10.com:8081/8356/index.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="zeys" tvg-logo="https://i.ibb.co/84Q1j5Zp/zeys.png" tvg-name="ΖΕΥΣ TV" ,ΖΕΥΣ TV
-https://eu1.servers10.com:8081/8242/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-id="ANTCOMEDY" tvg-logo="hub://logs/ant1_comedy.png" ,ANT1 Comedy
 https://mcdn.antennaplus.gr/live/media0/Comedy/HLS/Comedy.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-id="ANTDRAMA" tvg-logo="hub://logs/ant1_drama.png" ,ANT1 Drama
@@ -423,10 +408,6 @@ https://mcdn.antennaplus.gr/live/media0/Drama/HLS/Drama.m3u8
 https://es2.crystalweb.net:1936/sierra2/sierra2/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/sierra.png" tvg-name="Sierra Channel" ,Sierra Channel (2)
 https://fr.crystalweb.net:1936/sierra/sierra/playlist.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/nettv_to.png" ,NETV TORONTO
-https://eu1.streams.gr:8081/netvtoronto/index.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/nettv_eu.png" ,NETV EUROPE
-https://neon.streams.gr:8081/netveurope/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/DIAVATA.png" tvg-name="DiavataTV",DiavataTV
 https://live20.bozztv.com/giatv/giatv-diavatatvonline/diavatatvonline/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/DIAVATA.png" tvg-name="DiavataTV",DiavataTV - Εναλλακτικό
@@ -437,18 +418,12 @@ http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="hub://logs/cinema_classic.png" ,Cinema Classics
 https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="hub://logs/village.png" ,Village World
-https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="hub://logs/choice.png" ,Choice TV
 https://eu1.streams.gr:8081/choicetv/index.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="hub://logs/ionia.png" ,ΙΩΝΙΑ ΤV
-https://live21.bozztv.com/akamaissh101/ssh101/tvioniathess/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="hub://logs/Dipolo.png" ,Dipolo TV
 https://channel.streams.ovh:8081/dipolotv/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/lapsi.png" tvg-website="https://www.lampsitv.eu" ,Λάμψη Tv
 https://pro.free.hr:3343/live/l1llive.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/ELLADA_TV.jpg" tvg-website="https://elladafm.gr/webtvnew/" ,ELLADA TV
-https://tvstream.elladafm.gr:3989/live/elladasportstvlive.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/escape_media.png" tvg-website="https://escape-media.gr/index.php" ,Escape Media
 https://rtmp.streams.ovh:8081/escapemedia/index.m3u8
 
@@ -458,8 +433,6 @@ http://.....
 https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/mad.png" ,MAD
 https://www.mad.gr/mad-tv-player/|weballdig
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-id="extacymusic" tvg-logo="hub://logs/extacy_music2.jpg" tvg-name="EXTACY TV MUSIC" ,EXTACY TV MUSIC
-https://eu1.servers10.com:8081/8164/index.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/net_music.png" ,NETV Music
 https://rtmp.streams.ovh:8081/netvmusic/index.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/kisshd.png" ,KISS HD
@@ -534,8 +507,7 @@ https://www.epicon.in/distro-tv/5155|weballdig
 
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/red.png" ,=====   ΠΑΙΔΙΚΑ   ====
 http://.....
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-id="extacykids" tvg-logo="hub://logs/extacy_kids.jpg" tvg-name="EXTACY TV KIDS" ,EXTACY TV KIDS
-https://eu1.servers10.com:8081/8046/index.m3u8
+
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/ertkids.png" tvg-name="ErtFlix Kids" ,ErtFlix Kids
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTKids/default/index.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/ertkids.png" tvg-name="ErtFlix Kids" ,ErtFlix Kids (2)
