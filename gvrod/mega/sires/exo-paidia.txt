@@ -160,3 +160,7 @@ https://www.megatv.com/tvshows/2304037/epeisodio-15-2os-kyklos/|webfulldig
 https://www.megatv.com/tvshows/2304040/epeisodio-16-2os-kyklos/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 17 &#8211; 2ος Κύκλος
 https://www.megatv.com/tvshows/2304073/epeisodio-17-2os-kyklos/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 18 &#8211; 2ος Κύκλος
+https://www.megatv.com/tvshows/2311942/epeisodio-18-2os-kyklos/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 19 &#8211; 2ος Κύκλος
+https://www.megatv.com/tvshows/2311945/epeisodio-19-2os-kyklos/|webfulldig

@@ -1503,3 +1503,5 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=65109&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=65110&showId=869&year=2026|webvidfulldig
 #EXTINF:-1 group-title="2026",ο γκαράζ
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=65199&showId=869&year=2026|webvidfulldig
+#EXTINF:-1 group-title="2026",Επάγγελμα οικιακά
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=65200&showId=869&year=2026|webvidfulldig
