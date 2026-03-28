@@ -1505,3 +1505,7 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=65110&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=65199&showId=869&year=2026|webvidfulldig
 #EXTINF:-1 group-title="2026",Επάγγελμα οικιακά
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=65200&showId=869&year=2026|webvidfulldig
+#EXTINF:-1 group-title="2026",Ψυχραιμία
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=65201&showId=869&year=2026|webvidfulldig
+#EXTINF:-1 group-title="2026",Πεπρωμένο
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=65202&showId=869&year=2026|webvidfulldig

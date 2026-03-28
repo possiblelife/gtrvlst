@@ -1887,3 +1887,9 @@ https://www.alphatv.gr/show/super-katerina/?vtype=player&vid=65168&showId=1314&y
 https://www.alphatv.gr/show/super-katerina/?vtype=player&vid=65211&showId=1314&year=2026|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 5",24/03/26
 https://www.alphatv.gr/show/super-katerina/?vtype=player&vid=65216&showId=1314&year=2026|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 5",25/03/26
+https://www.alphatv.gr/show/super-katerina/?vtype=player&vid=65227&showId=1314&year=2026|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 5",26/03/26
+https://www.alphatv.gr/show/super-katerina/?vtype=player&vid=65232&showId=1314&year=2026|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 5",27/03/26
+https://www.alphatv.gr/show/super-katerina/?vtype=player&vid=65246&showId=1314&year=2026|webvidfulldig
