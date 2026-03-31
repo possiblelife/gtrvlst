@@ -84,3 +84,7 @@ https://www.skai.gr/tv/episode/psuchagogia/survivor/2026-03-23-22|webvidfulldig
 https://www.skai.gr/tv/episode/psuchagogia/survivor/2026-03-24-21|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2025-2026",25/03/2026
 https://www.skai.gr/tv/episode/psuchagogia/survivor/2026-03-25-21|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 2025-2026",29/03/2026
+https://www.skai.gr/tv/episode/psuchagogia/survivor/2026-03-29-21|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 2025-2026",30/03/2026
+https://www.skai.gr/tv/episode/psuchagogia/survivor/2026-03-30-22|webvidfulldig

@@ -1509,3 +1509,5 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=65200&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=65201&showId=869&year=2026|webvidfulldig
 #EXTINF:-1 group-title="2026",Πεπρωμένο
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=65202&showId=869&year=2026|webvidfulldig
+#EXTINF:-1 group-title="2026",Πίσω από το πληκτρολόγιο
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=65242&showId=869&year=2026|webvidfulldig
