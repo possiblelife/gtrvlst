@@ -516,6 +516,8 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTKids/default/index.m3u8
 http://195.226.218.163/vid/kidstv-hbbtv/mpeg.2ts
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/cartoons.png" ,Cartoons 1
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8 
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/cartoons.png" ,Cartoons 2
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/cartoons.png" ,Cartoons 3
@@ -534,6 +536,8 @@ https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/cartoons.png" ,Cartoons 10
 https://amg01076-lightningintern-kartoonchannel-samsungnz-t8blu.amagi.tv/playlist/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/cartoons.png" ,Cartoons 11
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/retro_toons.png" ,Retro Cartoons
 https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8?hdnts=st=1716944483~exp=1716948083~acl=!*/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/*!yuppTVCom_61_-1_01c5a9561a134685_BD_103.91.128.128/payload/yuppTVCom_61_-1_01c5a9561a134685_BD_103.91.128.128/*~hmac=a06f52adb102561f049ef1e699ba1146af13ddbaf0d52574327c257f504b2c8a&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=ENG&ads.content_genre=ENT&ads.channel=6591&ads.channel_name=CARTOONTVCLASSICS&ads.network_name=yupptv&ads.user=0
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/retro_toons.png" ,Retro Cartoons 2
