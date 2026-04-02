@@ -668,3 +668,9 @@ https://www.megatv.com/gtvshows/2313832/24-03-26/|webfulldig
 https://www.megatv.com/gtvshows/2315974/26-03-26/|webfulldig
 #EXTINF:-1 group-title="Κύκλος 2",27/03/26
 https://www.megatv.com/gtvshows/2317252/27-03-26/|webfulldig
+#EXTINF:-1 group-title="Κύκλος 2",30/03/26
+https://www.megatv.com/gtvshows/2320336/30-03-26-2/|webfulldig
+#EXTINF:-1 group-title="Κύκλος 2",01/04/26
+https://www.megatv.com/gtvshows/2322484/01-04-26/|webfulldig
+#EXTINF:-1 group-title="Κύκλος 2",31/03/26
+https://www.megatv.com/gtvshows/2321569/31-03-26/|webfulldig

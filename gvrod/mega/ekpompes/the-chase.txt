@@ -40,3 +40,7 @@ https://www.megatv.com/gtvshows/2311954/epeisodio-136-8/|webfulldig
 https://www.megatv.com/gtvshows/2311957/epeisodio-137-8/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 138
 https://www.megatv.com/gtvshows/2311960/epeisodio-138-8/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 140
+https://www.megatv.com/gtvshows/2321944/epeisodio-140-8/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 141
+https://www.megatv.com/gtvshows/2322886/epeisodio-141-7/|webfulldig
