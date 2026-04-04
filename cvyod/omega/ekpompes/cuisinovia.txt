@@ -616,3 +616,7 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=221068&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=221069&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 134 CUISINOVIAΤσουρέκι με σοκολάτα
 https://www.omegatv.com.cy/cgibin/hweb?-A=221121&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 135 CUISINOVIAΠαραδοσιακές φλαούνες, Κουλουράκια Πασχαλινά
+https://www.omegatv.com.cy/cgibin/hweb?-A=221257&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 136 CUISINOVIAΡύζι με θαλασσινά, Cheesecake σοκολάτα-βανίλια
+https://www.omegatv.com.cy/cgibin/hweb?-A=221258&-V=vod|webfulldig

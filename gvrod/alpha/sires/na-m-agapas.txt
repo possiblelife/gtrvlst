@@ -164,3 +164,5 @@ https://www.alphatv.gr/show/na-m-agapas/?vtype=player&vid=65223&showId=1764&year
 https://www.alphatv.gr/show/na-m-agapas/?vtype=player&vid=65237&showId=1764&year=2026|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 88
 https://www.alphatv.gr/show/na-m-agapas/?vtype=player&vid=65289&showId=1764&year=2026|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 89
+https://www.alphatv.gr/show/na-m-agapas/?vtype=player&vid=65306&showId=1764&year=2026|webvidfulldig
