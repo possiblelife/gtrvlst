@@ -620,3 +620,9 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=221121&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=221257&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 136 CUISINOVIAΡύζι με θαλασσινά, Cheesecake σοκολάτα-βανίλια
 https://www.omegatv.com.cy/cgibin/hweb?-A=221258&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 137 CUISINOVIAΚυπριακό Dubai Cheesecakeμε αναρή και παξιμάδι
+https://www.omegatv.com.cy/cgibin/hweb?-A=221552&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 138 CUISINOVIAΡαβιόλι με σπανάκι στο φούρνο, Σοκολατένιο τσουρέκι φόρμας
+https://www.omegatv.com.cy/cgibin/hweb?-A=221553&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 139 CUISINOVIALe fraisier
+https://www.omegatv.com.cy/cgibin/hweb?-A=221557&-V=vod|webfulldig

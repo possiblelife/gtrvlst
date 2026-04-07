@@ -290,3 +290,5 @@ https://www.megatv.com/gtvshows/2302951/13-03-2026/|webfulldig
 https://www.megatv.com/gtvshows/2311015/20-03-2026/|webfulldig
 #EXTINF:-1 group-title="Season 5",27/03/2026
 https://www.megatv.com/gtvshows/2318389/27-03-2026/|webfulldig
+#EXTINF:-1 group-title="Season 5",03/04/2026
+https://www.megatv.com/gtvshows/2325166/03-04-2026/|webfulldig

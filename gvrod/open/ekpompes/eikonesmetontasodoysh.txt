@@ -586,6 +586,8 @@ https://www.tvopen.gr/watch/167303/thessalonikhstonagiodhmhtriotonpolioyxothspol
 https://www.tvopen.gr/watch/168332/plateiaaristoteloysperpatameprosthnkardiathspolhs|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ροτόντα: Το εμβληματικό μνημείο της πόλης
 https://www.tvopen.gr/watch/168333/rotontatoemblhmatikomnhmeiothspolhs|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Παραλία Γέρακας: Στο «σπίτι» των χελωνών Καρέτα - Καρέτα
+https://www.tvopen.gr/watch/173389/paraliagerakasstospititonxelononkaretakareta|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Θεσσαλονίκη: Μέσα στις φυλακές του Γεντί Κουλέ
 https://www.tvopen.gr/watch/169217/thessalonikhmesastisfylakestoygentikoyle|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Θεσσαλονίκη: Ξενάγηση στην κρύπτη του Αγίου Δημητρίου
@@ -606,8 +608,6 @@ https://www.tvopen.gr/watch/172561/italiaboltasthsienamiapolhmoyseiosthnkardiath
 https://www.tvopen.gr/watch/173304/agiosdionysiosopolioyxosthszakynthoy|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ξύγκια: Μια παραλία με ιαματικές πηγές
 https://www.tvopen.gr/watch/173305/xygkiamiaparaliameiamatikesphges|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Παραλία Γέρακας: Στο «σπίτι» των χελωνών Καρέτα - Καρέτα
-https://www.tvopen.gr/watch/173389/paraliagerakasstospititonxelononkaretakareta|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ζάκυνθος: Στο εξωτικό νησάκι του Αγίου Σώστη ή Καμέο
 https://www.tvopen.gr/watch/173392/zakynthosstoexotikonhsakitoyagioysosthhkameo|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Πόρτο Βρώμη: Το πρόσωπο του Ποσειδώνα και τα καταγάλανα νερά
@@ -1148,6 +1148,18 @@ https://www.tvopen.gr/watch/266243/senonsotokastrotonkyrionenaanagennhsiakoarist
 https://www.tvopen.gr/watch/266244/kastrotoyampoyazprohnmesaionikofroyriopoyeginepolytelhbasilikhkatoikia|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Γαλλία - Β Μέρος
 https://www.tvopen.gr/watch/266245/eikonesmetontasodoyshgalliabmeros|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Βίλα Τσιμπρόνε: Κήποι,μαγεία και το μπαλκόνι της αιωνιότητας
+https://www.tvopen.gr/watch/266715/bilatsimpronekhpoimageiakaitompalkonithsaioniothtas|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Πραϊάνο: Ένα αυθεντικό χωριό με απίστευτα ηλιοβασιλέματα
+https://www.tvopen.gr/watch/266716/praianoenaaythentikoxoriomeapisteytahliobasilemata|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Ιταλία - Β' μέρος
+https://www.tvopen.gr/watch/266717/eikonesmetontasodoyshitaliabmeros|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Παλάτι Αλ Αλάμ: Ξεχωρίζει με την εντυπωσιακή Ισλαμική αρχιτεκτονική του
+https://www.tvopen.gr/watch/266788/palatialalamxexorizeimethnentyposiakhislamikharxitektonikhtoy|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Φρούριο Μάτρα: Πανοραμική θέα και εντυπωσιακό ηλιοβασίλεμα
+https://www.tvopen.gr/watch/266789/froyriomatrapanoramikhtheakaientyposiakohliobasilema|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Ομάν - Α μέρος
+https://www.tvopen.gr/watch/266790/eikonesmetontasodoyshomanameros|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Ρουμανία  Γ μέρος
 https://www.tvopen.gr/watch/262451/eikonesmetontasodoyshroymaniagmeros|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Καππαδοκία, Α' μέρος

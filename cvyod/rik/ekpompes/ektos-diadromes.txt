@@ -52,3 +52,5 @@ https://v6.cloudskep.com/rikvod/ektosdiadromis/ektosdiadromis140326.mp4?attachme
 https://v6.cloudskep.com/rikvod/ektosdiadromis/ektosdiadromis210326.mp4?attachment=true
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εκτός Διαδρομής 28/03/26
 https://v6.cloudskep.com/rikvod/ektosdiadromis/ektosdiadromis280326.mp4?attachment=true
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εκτός Διαδρομής 04/04/26
+https://v6.cloudskep.com/rikvod/ektosdiadromis/ektosdiadromis040426.mp4?attachment=true

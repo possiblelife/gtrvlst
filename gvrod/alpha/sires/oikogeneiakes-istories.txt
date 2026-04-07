@@ -1515,3 +1515,5 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=65242&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=65243&showId=869&year=2026|webvidfulldig
 #EXTINF:-1 group-title="2026",Μηχανοραφία
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=65244&showId=869&year=2026|webvidfulldig
+#EXTINF:-1 group-title="2026",Εκτός παράδοσης
+https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=65245&showId=869&year=2026|webvidfulldig
