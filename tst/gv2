@@ -297,6 +297,8 @@ sec:ch10
 sec:ch11
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="Plus TV" tvg-name="Plus" tvg-logo="hub://logs/plus.png" ,Plus (vip)
 sec:ch12
+#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="smile"  tvg-name="Smile" tvg-logo="hub://logs/smile.png" ,Smile (vip)
+sec:ch13
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="ert" tvg-logo="hub://logs/ERT-WORLD.png"  tvg-name="Eρτ WORLD" tvg-website="https://www.ertflix.gr" ,Eρτ WORLD Κύπρου
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTWorld_Cyprus/default/index.mpd
 
@@ -510,14 +512,14 @@ https://www.epicon.in/distro-tv/5155|weballdig
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/red.png" ,=====   ΠΑΙΔΙΚΑ   ====
 http://.....
 
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-id="smile"  tvg-name="Smile" tvg-logo="hub://logs/smile.png" ,Smile (vip)
+sec:ch13
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/ertkids.png" tvg-name="ErtFlix Kids" ,ErtFlix Kids
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTKids/default/index.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/ertkids.png" tvg-name="ErtFlix Kids" ,ErtFlix Kids (2)
 http://195.226.218.163/vid/kidstv-hbbtv/mpeg.2ts
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/cartoons.png" ,Cartoons 1
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-
-http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8 
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/cartoons.png" ,Cartoons 2
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/cartoons.png" ,Cartoons 3
