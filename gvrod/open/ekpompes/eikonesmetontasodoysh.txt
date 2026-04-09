@@ -586,8 +586,6 @@ https://www.tvopen.gr/watch/167303/thessalonikhstonagiodhmhtriotonpolioyxothspol
 https://www.tvopen.gr/watch/168332/plateiaaristoteloysperpatameprosthnkardiathspolhs|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ροτόντα: Το εμβληματικό μνημείο της πόλης
 https://www.tvopen.gr/watch/168333/rotontatoemblhmatikomnhmeiothspolhs|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Παραλία Γέρακας: Στο «σπίτι» των χελωνών Καρέτα - Καρέτα
-https://www.tvopen.gr/watch/173389/paraliagerakasstospititonxelononkaretakareta|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Θεσσαλονίκη: Μέσα στις φυλακές του Γεντί Κουλέ
 https://www.tvopen.gr/watch/169217/thessalonikhmesastisfylakestoygentikoyle|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Θεσσαλονίκη: Ξενάγηση στην κρύπτη του Αγίου Δημητρίου
@@ -608,6 +606,8 @@ https://www.tvopen.gr/watch/172561/italiaboltasthsienamiapolhmoyseiosthnkardiath
 https://www.tvopen.gr/watch/173304/agiosdionysiosopolioyxosthszakynthoy|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ξύγκια: Μια παραλία με ιαματικές πηγές
 https://www.tvopen.gr/watch/173305/xygkiamiaparaliameiamatikesphges|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Παραλία Γέρακας: Στο «σπίτι» των χελωνών Καρέτα - Καρέτα
+https://www.tvopen.gr/watch/173389/paraliagerakasstospititonxelononkaretakareta|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ζάκυνθος: Στο εξωτικό νησάκι του Αγίου Σώστη ή Καμέο
 https://www.tvopen.gr/watch/173392/zakynthosstoexotikonhsakitoyagioysosthhkameo|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Πόρτο Βρώμη: Το πρόσωπο του Ποσειδώνα και τα καταγάλανα νερά
