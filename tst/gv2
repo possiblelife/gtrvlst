@@ -419,7 +419,7 @@ https://live20.bozztv.com/giatv/giatv-diavatatvonline/diavatatvonline/playlist.m
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/DIAVATA.png" tvg-name="DiavataTV",DiavataTV - Εναλλακτικό
 https://live21.bozztv.com/akamaissh101/ssh101/diavatatvweb/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/vcinema.png" tvg-name="VisonCast Cinema",VisonCast Cinema
-https://es2.crystalweb.net:1936/vcinema/vcinema/playlist.m3u8
+https://es2.crystalweb.net:1936/vcinema/vcinema/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/Groovy.png" ,Groovy
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/netmax.png" ,Netmax TV
