@@ -284,3 +284,17 @@ https://www.alphatv.gr/show/aytopsia/?vtype=player&vid=62535&showId=843&year=202
 https://www.alphatv.gr/show/aytopsia/?vtype=player&vid=62796&showId=843&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",09/07/25
 https://www.alphatv.gr/show/aytopsia/?vtype=player&vid=63158&showId=843&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",09/10/25
+https://www.alphatv.gr/show/aytopsia/?vtype=player&vid=63402&showId=843&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",16/10/25
+https://www.alphatv.gr/show/aytopsia/?vtype=player&vid=63448&showId=843&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",23/10/25
+https://www.alphatv.gr/show/aytopsia/?vtype=player&vid=63577&showId=843&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",30/10/25
+https://www.alphatv.gr/show/aytopsia/?vtype=player&vid=63646&showId=843&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",13/11/25
+https://www.alphatv.gr/show/aytopsia/?vtype=player&vid=63838&showId=843&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",27/11/25
+https://www.alphatv.gr/show/aytopsia/?vtype=player&vid=63998&showId=843&year=2025|webvidfulldig
+#EXTINF:-1 group-title="2025",11/12/25
+https://www.alphatv.gr/show/aytopsia/?vtype=player&vid=64169&showId=843&year=2025|webvidfulldig
