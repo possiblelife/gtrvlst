@@ -511,6 +511,11 @@ https://www.epicon.in/distro-tv/3242|weballdig
 https://www.epicon.in/distro-tv/3307|weballdig
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="hub://logs/trace_uk.png" ,Trace UK
 https://www.epicon.in/distro-tv/5155|weballdig
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="hub://logs/avanti.jpg" ,Avanti tv
+https://avantitv.siliconweb.com/dmg/avantitv/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="hub://logs/metallicatv.jpg" ,Metallica tv
+https://www.youtube.com/watch?v=1fz60gNnSdU
+
 
 
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/red.png" ,=====   ΠΑΙΔΙΚΑ   ====
