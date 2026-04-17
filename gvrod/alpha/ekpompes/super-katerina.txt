@@ -1880,30 +1880,38 @@ https://www.alphatv.gr/show/super-katerina/?vtype=player&vid=65140&showId=1314&y
 #EXTINF:-1 group-title="Σεζόν 5",18/03/26
 https://www.alphatv.gr/show/super-katerina/?vtype=player&vid=65148&showId=1314&year=2026|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 5",19/03/26
-https://www.alphatv.gr/show/super-katerina/?vtype=player&vid=65157&showId=1314&year=2026|webvidfulldig
+https://www.alphatv.gr/show/super-katerina/show-episode/656210-19-03-26/|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 5",20/03/26
-https://www.alphatv.gr/show/super-katerina/?vtype=player&vid=65168&showId=1314&year=2026|webvidfulldig
+https://www.alphatv.gr/show/super-katerina/show-episode/656224-20-03-26/|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 5",23/03/26
-https://www.alphatv.gr/show/super-katerina/?vtype=player&vid=65211&showId=1314&year=2026|webvidfulldig
+https://www.alphatv.gr/show/super-katerina/show-episode/656280-23-03-26/|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 5",24/03/26
-https://www.alphatv.gr/show/super-katerina/?vtype=player&vid=65216&showId=1314&year=2026|webvidfulldig
+https://www.alphatv.gr/show/super-katerina/show-episode/656284-24-03-26/|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 5",25/03/26
-https://www.alphatv.gr/show/super-katerina/?vtype=player&vid=65227&showId=1314&year=2026|webvidfulldig
+https://www.alphatv.gr/show/super-katerina/show-episode/656300-25-03-26/|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 5",26/03/26
-https://www.alphatv.gr/show/super-katerina/?vtype=player&vid=65232&showId=1314&year=2026|webvidfulldig
+https://www.alphatv.gr/show/super-katerina/show-episode/656304-26-03-26/|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 5",27/03/26
-https://www.alphatv.gr/show/super-katerina/?vtype=player&vid=65246&showId=1314&year=2026|webvidfulldig
+https://www.alphatv.gr/show/super-katerina/show-episode/656322-27-03-26/|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 5",30/03/26
-https://www.alphatv.gr/show/super-katerina/?vtype=player&vid=65286&showId=1314&year=2026|webvidfulldig
+https://www.alphatv.gr/show/super-katerina/show-episode/656362-30-03-26/|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 5",31/03/26
-https://www.alphatv.gr/show/super-katerina/?vtype=player&vid=65295&showId=1314&year=2026|webvidfulldig
+https://www.alphatv.gr/show/super-katerina/show-episode/656372-31-03-26/|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 5",01/04/26
-https://www.alphatv.gr/show/super-katerina/?vtype=player&vid=65302&showId=1314&year=2026|webvidfulldig
+https://www.alphatv.gr/show/super-katerina/show-episode/656376-01-04-26/|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 5",02/04/26
-https://www.alphatv.gr/show/super-katerina/?vtype=player&vid=65313&showId=1314&year=2026|webvidfulldig
+https://www.alphatv.gr/show/super-katerina/show-episode/684029-02-04-26/|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 5",03/04/26
-https://www.alphatv.gr/show/super-katerina/?vtype=player&vid=65323&showId=1314&year=2026|webvidfulldig
+https://www.alphatv.gr/show/super-katerina/show-episode/684039-03-04-26/|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 5",06/04/26
-https://www.alphatv.gr/show/super-katerina/?vtype=player&vid=65358&showId=1314&year=2026|webvidfulldig
+https://www.alphatv.gr/show/super-katerina/show-episode/684071-06-04-26/|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 5",07/04/26
-https://www.alphatv.gr/show/super-katerina/?vtype=player&vid=65367&showId=1314&year=2026|webvidfulldig
+https://www.alphatv.gr/show/super-katerina/show-episode/684199-07-04-26/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 5",08/04/2026
+https://www.alphatv.gr/show/super-katerina/show-episode/684711-aftomato-prosxedio/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 5",14/04/26
+https://www.alphatv.gr/show/super-katerina/show-episode/686473-14-04-26/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 5",15/04/26
+https://www.alphatv.gr/show/super-katerina/show-episode/686993-15-04-26/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 5",16-04-2026
+https://www.alphatv.gr/show/super-katerina/show-episode/687358-16-04-2026-2/|webvidfulldig

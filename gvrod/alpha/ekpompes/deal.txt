@@ -1,42 +1,36 @@
-#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 116
-https://www.alphatv.gr/show/deal/?vtype=player&vid=65017&showId=254&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 117
-https://www.alphatv.gr/show/deal/?vtype=player&vid=65018&showId=254&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 118
-https://www.alphatv.gr/show/deal/?vtype=player&vid=65019&showId=254&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 119
-https://www.alphatv.gr/show/deal/?vtype=player&vid=65020&showId=254&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 120
-https://www.alphatv.gr/show/deal/?vtype=player&vid=65083&showId=254&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 121
-https://www.alphatv.gr/show/deal/?vtype=player&vid=65097&showId=254&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 122
-https://www.alphatv.gr/show/deal/?vtype=player&vid=65098&showId=254&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 123
-https://www.alphatv.gr/show/deal/?vtype=player&vid=65099&showId=254&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 124
-https://www.alphatv.gr/show/deal/?vtype=player&vid=65100&showId=254&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 125
-https://www.alphatv.gr/show/deal/?vtype=player&vid=65101&showId=254&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 126
-https://www.alphatv.gr/show/deal/?vtype=player&vid=65194&showId=254&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 127
-https://www.alphatv.gr/show/deal/?vtype=player&vid=65195&showId=254&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 128
-https://www.alphatv.gr/show/deal/?vtype=player&vid=65196&showId=254&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 129
-https://www.alphatv.gr/show/deal/?vtype=player&vid=65197&showId=254&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 130
-https://www.alphatv.gr/show/deal/?vtype=player&vid=65198&showId=254&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 131
-https://www.alphatv.gr/show/deal/?vtype=player&vid=65247&showId=254&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 132
-https://www.alphatv.gr/show/deal/?vtype=player&vid=65248&showId=254&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 133
-https://www.alphatv.gr/show/deal/?vtype=player&vid=65249&showId=254&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 134
-https://www.alphatv.gr/show/deal/?vtype=player&vid=65251&showId=254&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 135
-https://www.alphatv.gr/show/deal/?vtype=player&vid=65252&showId=254&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 9",ΕΠΕΙΣΟΔΙΟ 136
-https://www.alphatv.gr/show/deal/?vtype=player&vid=65329&showId=254&year=2026|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",Σ9 - ΕΠΕΙΣΟΔΙΟ 123
+https://www.alphatv.gr/show/deal/show-episode/656150-s9-epeisodio-123/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",Σ9 - ΕΠΕΙΣΟΔΙΟ 124
+https://www.alphatv.gr/show/deal/show-episode/656152-s9-epeisodio-124/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",Σ9 - ΕΠΕΙΣΟΔΙΟ 125
+https://www.alphatv.gr/show/deal/show-episode/656154-s9-epeisodio-125/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",Σ9 - ΕΠΕΙΣΟΔΙΟ 126
+https://www.alphatv.gr/show/deal/show-episode/656246-s9-epeisodio-126/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",Σ9 - ΕΠΕΙΣΟΔΙΟ 127
+https://www.alphatv.gr/show/deal/show-episode/656248-s9-epeisodio-127/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",Σ9 - ΕΠΕΙΣΟΔΙΟ 128
+https://www.alphatv.gr/show/deal/show-episode/656250-s9-epeisodio-128/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",Σ9 - ΕΠΕΙΣΟΔΙΟ 129
+https://www.alphatv.gr/show/deal/show-episode/656252-s9-epeisodio-129/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",Σ9 - ΕΠΕΙΣΟΔΙΟ 130
+https://www.alphatv.gr/show/deal/show-episode/656254-s9-epeisodio-130/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",Σ9 - ΕΠΕΙΣΟΔΙΟ 131
+https://www.alphatv.gr/show/deal/show-episode/656324-s9-epeisodio-131/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",Σ9 - ΕΠΕΙΣΟΔΙΟ 132
+https://www.alphatv.gr/show/deal/show-episode/656326-s9-epeisodio-132/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",Σ9 - ΕΠΕΙΣΟΔΙΟ 133
+https://www.alphatv.gr/show/deal/show-episode/656328-s9-epeisodio-133/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",Σ9 - ΕΠΕΙΣΟΔΙΟ 134
+https://www.alphatv.gr/show/deal/show-episode/656330-s9-epeisodio-134/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",Σ9 - ΕΠΕΙΣΟΔΙΟ 135
+https://www.alphatv.gr/show/deal/show-episode/656332-s9-epeisodio-135/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",Σ9 - ΕΠΕΙΣΟΔΙΟ 136
+https://www.alphatv.gr/show/deal/show-episode/684043-s9-epeisodio-136/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",Σ9 - ΕΠΕΙΣΟΔΙΟ 137
+https://www.alphatv.gr/show/deal/show-episode/684045-s9-epeisodio-137/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",Σ9 - ΕΠΕΙΣΟΔΙΟ 138
+https://www.alphatv.gr/show/deal/show-episode/684047-s9-epeisodio-138/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",Σ9 - ΕΠΕΙΣΟΔΙΟ 139
+https://www.alphatv.gr/show/deal/show-episode/686371-s9-epeisodio-139/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 9",Σ9 - ΕΠΕΙΣΟΔΙΟ 140
+https://www.alphatv.gr/show/deal/show-episode/686354-s9-epeisodio-140/|webvidfulldig

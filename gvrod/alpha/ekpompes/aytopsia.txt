@@ -277,24 +277,38 @@ https://www.alphatv.gr/show/aytopsia/?vtype=player&vid=62119&showId=843&year=202
 #EXTINF:-1 group-title="2025",26/03/25
 https://www.alphatv.gr/show/aytopsia/?vtype=player&vid=62254&showId=843&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",09/04/25
-https://www.alphatv.gr/show/aytopsia/?vtype=player&vid=62392&showId=843&year=2025|webvidfulldig
+https://www.alphatv.gr/show/aytopsia/show-episode/288481-09-04-25/|webvidfulldig
 #EXTINF:-1 group-title="2025",30/04/25
-https://www.alphatv.gr/show/aytopsia/?vtype=player&vid=62535&showId=843&year=2025|webvidfulldig
+https://www.alphatv.gr/show/aytopsia/show-episode/282394-30-04-25/|webvidfulldig
 #EXTINF:-1 group-title="2025",28/05/25
-https://www.alphatv.gr/show/aytopsia/?vtype=player&vid=62796&showId=843&year=2025|webvidfulldig
+https://www.alphatv.gr/show/aytopsia/show-episode/289238-28-05-25/|webvidfulldig
 #EXTINF:-1 group-title="2025",09/07/25
-https://www.alphatv.gr/show/aytopsia/?vtype=player&vid=63158&showId=843&year=2025|webvidfulldig
+https://www.alphatv.gr/show/aytopsia/show-episode/286123-09-07-25/|webvidfulldig
 #EXTINF:-1 group-title="2025",09/10/25
-https://www.alphatv.gr/show/aytopsia/?vtype=player&vid=63402&showId=843&year=2025|webvidfulldig
+https://www.alphatv.gr/show/aytopsia/show-episode/401779-09-10-25/|webvidfulldig
 #EXTINF:-1 group-title="2025",16/10/25
-https://www.alphatv.gr/show/aytopsia/?vtype=player&vid=63448&showId=843&year=2025|webvidfulldig
+https://www.alphatv.gr/show/aytopsia/show-episode/401810-16-10-25/|webvidfulldig
 #EXTINF:-1 group-title="2025",23/10/25
-https://www.alphatv.gr/show/aytopsia/?vtype=player&vid=63577&showId=843&year=2025|webvidfulldig
+https://www.alphatv.gr/show/aytopsia/show-episode/401869-23-10-25/|webvidfulldig
 #EXTINF:-1 group-title="2025",30/10/25
-https://www.alphatv.gr/show/aytopsia/?vtype=player&vid=63646&showId=843&year=2025|webvidfulldig
+https://www.alphatv.gr/show/aytopsia/show-episode/401908-30-10-25/|webvidfulldig
 #EXTINF:-1 group-title="2025",13/11/25
-https://www.alphatv.gr/show/aytopsia/?vtype=player&vid=63838&showId=843&year=2025|webvidfulldig
+https://www.alphatv.gr/show/aytopsia/show-episode/414441-13-11-25/|webvidfulldig
 #EXTINF:-1 group-title="2025",27/11/25
-https://www.alphatv.gr/show/aytopsia/?vtype=player&vid=63998&showId=843&year=2025|webvidfulldig
+https://www.alphatv.gr/show/aytopsia/show-episode/415256-27-11-25/|webvidfulldig
 #EXTINF:-1 group-title="2025",11/12/25
-https://www.alphatv.gr/show/aytopsia/?vtype=player&vid=64169&showId=843&year=2025|webvidfulldig
+https://www.alphatv.gr/show/aytopsia/show-episode/416184-11-12-25/|webvidfulldig
+#EXTINF:-1 group-title="2025",29/01/26
+https://www.alphatv.gr/show/aytopsia/show-episode/418171-29-01-26/|webvidfulldig
+#EXTINF:-1 group-title="2025",05/02/26
+https://www.alphatv.gr/show/aytopsia/show-episode/441133-05-02-26/|webvidfulldig
+#EXTINF:-1 group-title="2025",19/02/26
+https://www.alphatv.gr/show/aytopsia/show-episode/441223-19-02-26/|webvidfulldig
+#EXTINF:-1 group-title="2025",26/02/26
+https://www.alphatv.gr/show/aytopsia/show-episode/441264-26-02-26/|webvidfulldig
+#EXTINF:-1 group-title="2025",12/03/26
+https://www.alphatv.gr/show/aytopsia/show-episode/656120-12-03-26/|webvidfulldig
+#EXTINF:-1 group-title="2025",29/03/26
+https://www.alphatv.gr/show/aytopsia/show-episode/656350-29-03-26/|webvidfulldig
+#EXTINF:-1 group-title="2025",05/04/26
+https://www.alphatv.gr/show/aytopsia/show-episode/684057-05-04-26/|webvidfulldig
