@@ -144,29 +144,39 @@ https://www.alphatv.gr/show/na-m-agapas/?vtype=player&vid=65042&showId=1764&year
 https://www.alphatv.gr/show/na-m-agapas/?vtype=player&vid=65043&showId=1764&year=2026|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 78
 https://www.alphatv.gr/show/na-m-agapas/?vtype=player&vid=65055&showId=1764&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 79
-https://www.alphatv.gr/show/na-m-agapas/?vtype=player&vid=65056&showId=1764&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 80
-https://www.alphatv.gr/show/na-m-agapas/?vtype=player&vid=65129&showId=1764&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 81
-https://www.alphatv.gr/show/na-m-agapas/?vtype=player&vid=65136&showId=1764&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 82
-https://www.alphatv.gr/show/na-m-agapas/?vtype=player&vid=65146&showId=1764&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 83
-https://www.alphatv.gr/show/na-m-agapas/?vtype=player&vid=65160&showId=1764&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 84
-https://www.alphatv.gr/show/na-m-agapas/?vtype=player&vid=65203&showId=1764&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 85
-https://www.alphatv.gr/show/na-m-agapas/?vtype=player&vid=65220&showId=1764&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 86
-https://www.alphatv.gr/show/na-m-agapas/?vtype=player&vid=65223&showId=1764&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 87
-https://www.alphatv.gr/show/na-m-agapas/?vtype=player&vid=65237&showId=1764&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 88
-https://www.alphatv.gr/show/na-m-agapas/?vtype=player&vid=65289&showId=1764&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 89
-https://www.alphatv.gr/show/na-m-agapas/?vtype=player&vid=65306&showId=1764&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 90
-https://www.alphatv.gr/show/na-m-agapas/?vtype=player&vid=65316&showId=1764&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 91
-https://www.alphatv.gr/show/na-m-agapas/?vtype=player&vid=65361&showId=1764&year=2026|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 79
+https://www.alphatv.gr/series/na-m-agapas/episode/656100-s1-epeisodio-79/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 80
+https://www.alphatv.gr/series/na-m-agapas/episode/656180-s1-epeisodio-80/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 81
+https://www.alphatv.gr/series/na-m-agapas/episode/656190-s1-epeisodio-81/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 82
+https://www.alphatv.gr/series/na-m-agapas/episode/656202-s1-epeisodio-82/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 83
+https://www.alphatv.gr/series/na-m-agapas/episode/656212-s1-epeisodio-83/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 84
+https://www.alphatv.gr/series/na-m-agapas/episode/656264-s1-epeisodio-84/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 85
+https://www.alphatv.gr/series/na-m-agapas/episode/656286-s1-epeisodio-85/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 86
+https://www.alphatv.gr/series/na-m-agapas/episode/656292-s1-epeisodio-86/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 87
+https://www.alphatv.gr/series/na-m-agapas/episode/656310-s1-epeisodio-87/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 88
+https://www.alphatv.gr/series/na-m-agapas/episode/656364-s1-epeisodio-88/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 89
+https://www.alphatv.gr/series/na-m-agapas/episode/656378-s1-epeisodio-89/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 90
+https://www.alphatv.gr/series/na-m-agapas/episode/684031-s1-epeisodio-90/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 91
+https://www.alphatv.gr/series/na-m-agapas/episode/684391-s1-epeisodio-91/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 92
+https://www.alphatv.gr/series/na-m-agapas/episode/684359-s1-epeisodio-92/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 93
+https://www.alphatv.gr/series/na-m-agapas/episode/684759-s1-epeisodio-93/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 94
+https://www.alphatv.gr/series/na-m-agapas/episode/687074-s1-epeisodio-94/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 95
+https://www.alphatv.gr/series/na-m-agapas/episode/687051-s1-epeisodio-95/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 96
+https://www.alphatv.gr/series/na-m-agapas/episode/687424-s1-epeisodio-96/|webvidfulldig

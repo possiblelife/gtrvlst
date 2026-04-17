@@ -1,10 +1,28 @@
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 36
-https://www.alphatv.gr/show/tromeroi-goneis/?vtype=player&vid=65010&showId=1763&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 37
-https://www.alphatv.gr/show/tromeroi-goneis/?vtype=player&vid=65092&showId=1763&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 38
-https://www.alphatv.gr/show/tromeroi-goneis/?vtype=player&vid=65093&showId=1763&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 39
-https://www.alphatv.gr/show/tromeroi-goneis/?vtype=player&vid=65171&showId=1763&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 40
-https://www.alphatv.gr/show/tromeroi-goneis/?vtype=player&vid=65172&showId=1763&year=2026|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 9
+https://www.alphatv.gr/series/tromeroi-goneis/episode/414041-s1-epeisodio-9/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 27
+https://www.alphatv.gr/series/tromeroi-goneis/episode/441139-s1-epeisodio-27/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 29
+https://www.alphatv.gr/series/tromeroi-goneis/episode/441184-s1-epeisodio-29/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 30
+https://www.alphatv.gr/series/tromeroi-goneis/episode/441185-s1-epeisodio-30/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 31
+https://www.alphatv.gr/series/tromeroi-goneis/episode/441227-s1-epeisodio-31/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 32
+https://www.alphatv.gr/series/tromeroi-goneis/episode/441228-s1-epeisodio-32/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 33
+https://www.alphatv.gr/series/tromeroi-goneis/episode/441269-s1-epeisodio-33/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 34
+https://www.alphatv.gr/series/tromeroi-goneis/episode/441270-s1-epeisodio-34/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 35
+https://www.alphatv.gr/series/tromeroi-goneis/episode/656046-s1-epeisodio-35/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 36
+https://www.alphatv.gr/series/tromeroi-goneis/episode/656048-s1-epeisodio-36/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 37
+https://www.alphatv.gr/series/tromeroi-goneis/episode/656136-s1-epeisodio-37/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 38
+https://www.alphatv.gr/series/tromeroi-goneis/episode/656138-s1-epeisodio-38/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 39
+https://www.alphatv.gr/series/tromeroi-goneis/episode/656226-s1-epeisodio-39/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 40
+https://www.alphatv.gr/series/tromeroi-goneis/episode/656228-s1-epeisodio-40/|webvidfulldig

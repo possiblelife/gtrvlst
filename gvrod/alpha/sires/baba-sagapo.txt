@@ -16,35 +16,39 @@ https://www.alphatv.gr/show/baba-sagapo/?vtype=player&vid=64805&showId=1799&year
 https://www.alphatv.gr/show/baba-sagapo/?vtype=player&vid=64806&showId=1799&year=2026|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 9
 https://www.alphatv.gr/show/baba-sagapo/?vtype=player&vid=64907&showId=1799&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 10
-https://www.alphatv.gr/show/baba-sagapo/?vtype=player&vid=64908&showId=1799&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 11
-https://www.alphatv.gr/show/baba-sagapo/?vtype=player&vid=64942&showId=1799&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 12
-https://www.alphatv.gr/show/baba-sagapo/?vtype=player&vid=64943&showId=1799&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 13
-https://www.alphatv.gr/show/baba-sagapo/?vtype=player&vid=64998&showId=1799&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 14
-https://www.alphatv.gr/show/baba-sagapo/?vtype=player&vid=65057&showId=1799&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 15
-https://www.alphatv.gr/show/baba-sagapo/?vtype=player&vid=65058&showId=1799&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 16
-https://www.alphatv.gr/show/baba-sagapo/?vtype=player&vid=65081&showId=1799&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 17
-https://www.alphatv.gr/show/baba-sagapo/?vtype=player&vid=65111&showId=1799&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 18
-https://www.alphatv.gr/show/baba-sagapo/?vtype=player&vid=65137&showId=1799&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 19
-https://www.alphatv.gr/show/baba-sagapo/?vtype=player&vid=65138&showId=1799&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 20
-https://www.alphatv.gr/show/baba-sagapo/?vtype=player&vid=65204&showId=1799&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 21
-https://www.alphatv.gr/show/baba-sagapo/?vtype=player&vid=65221&showId=1799&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 22
-https://www.alphatv.gr/show/baba-sagapo/?vtype=player&vid=65224&showId=1799&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 23
-https://www.alphatv.gr/show/baba-sagapo/?vtype=player&vid=65265&showId=1799&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 24
-https://www.alphatv.gr/show/baba-sagapo/?vtype=player&vid=65307&showId=1799&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",ΕΠΕΙΣΟΔΙΟ 25
-https://www.alphatv.gr/show/baba-sagapo/?vtype=player&vid=65332&showId=1799&year=2026|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 10
+https://www.alphatv.gr/series/bampa-sagapo/episode/441261-s1-epeisodio-10/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 11
+https://www.alphatv.gr/series/bampa-sagapo/episode/441287-s1-epeisodio-11/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 12
+https://www.alphatv.gr/series/bampa-sagapo/episode/441288-s1-epeisodio-12/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 13
+https://www.alphatv.gr/series/bampa-sagapo/episode/656036-s1-epeisodio-13/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 14
+https://www.alphatv.gr/series/bampa-sagapo/episode/656102-s1-epeisodio-14/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 15
+https://www.alphatv.gr/series/bampa-sagapo/episode/656104-s1-epeisodio-15/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 16
+https://www.alphatv.gr/series/bampa-sagapo/episode/656124-s1-epeisodio-16/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 17
+https://www.alphatv.gr/series/bampa-sagapo/episode/656168-s1-epeisodio-17/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 18
+https://www.alphatv.gr/series/bampa-sagapo/episode/656192-s1-epeisodio-18/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 19
+https://www.alphatv.gr/series/bampa-sagapo/episode/656194-s1-epeisodio-19/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 20
+https://www.alphatv.gr/series/bampa-sagapo/episode/656266-s1-epeisodio-20/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 21
+https://www.alphatv.gr/series/bampa-sagapo/episode/656288-s1-epeisodio-21/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 22
+https://www.alphatv.gr/series/bampa-sagapo/episode/656294-s1-epeisodio-22/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 23
+https://www.alphatv.gr/series/bampa-sagapo/episode/656354-s1-epeisodio-23/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 24
+https://www.alphatv.gr/series/bampa-sagapo/episode/656380-s1-epeisodio-24/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 25
+https://www.alphatv.gr/series/bampa-sagapo/episode/684049-s1-epeisodio-25/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 26
+https://www.alphatv.gr/series/bampa-sagapo/episode/684051-s1-epeisodio-26/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 1",Σ1 - ΕΠΕΙΣΟΔΙΟ 27
+https://www.alphatv.gr/series/bampa-sagapo/episode/684696-s1-epeisodio-27/|webvidfulldig

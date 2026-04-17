@@ -40,37 +40,39 @@ https://www.alphatv.gr/show/to-soi-soy/?vtype=player&vid=64565&showId=500&year=2
 https://www.alphatv.gr/show/to-soi-soy/?vtype=player&vid=64650&showId=500&year=2026|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 6",ΕΠΕΙΣΟΔΙΟ 21
 https://www.alphatv.gr/show/to-soi-soy/?vtype=player&vid=64651&showId=500&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 6",ΕΠΕΙΣΟΔΙΟ 22
-https://www.alphatv.gr/show/to-soi-soy/?vtype=player&vid=64740&showId=500&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 6",ΕΠΕΙΣΟΔΙΟ 23
-https://www.alphatv.gr/show/to-soi-soy/?vtype=player&vid=64753&showId=500&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 6",ΕΠΕΙΣΟΔΙΟ 24
-https://www.alphatv.gr/show/to-soi-soy/?vtype=player&vid=64835&showId=500&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 6",ΕΠΕΙΣΟΔΙΟ 25
-https://www.alphatv.gr/show/to-soi-soy/?vtype=player&vid=64844&showId=500&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 6",ΕΠΕΙΣΟΔΙΟ 26
-https://www.alphatv.gr/show/to-soi-soy/?vtype=player&vid=64910&showId=500&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 6",ΕΠΕΙΣΟΔΙΟ 27
-https://www.alphatv.gr/show/to-soi-soy/?vtype=player&vid=64919&showId=500&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 6",ΕΠΕΙΣΟΔΙΟ 28
-https://www.alphatv.gr/show/to-soi-soy/?vtype=player&vid=64980&showId=500&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 6",ΕΠΕΙΣΟΔΙΟ 29
-https://www.alphatv.gr/show/to-soi-soy/?vtype=player&vid=64994&showId=500&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 6",ΕΠΕΙΣΟΔΙΟ 30
-https://www.alphatv.gr/show/to-soi-soy/?vtype=player&vid=64997&showId=500&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 6",ΕΠΕΙΣΟΔΙΟ 31
-https://www.alphatv.gr/show/to-soi-soy/?vtype=player&vid=65059&showId=500&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 6",ΕΠΕΙΣΟΔΙΟ 32
-https://www.alphatv.gr/show/to-soi-soy/?vtype=player&vid=65074&showId=500&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 6",ΕΠΕΙΣΟΔΙΟ 33
-https://www.alphatv.gr/show/to-soi-soy/?vtype=player&vid=65091&showId=500&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 6",ΕΠΕΙΣΟΔΙΟ 34
-https://www.alphatv.gr/show/to-soi-soy/?vtype=player&vid=65161&showId=500&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 6",ΕΠΕΙΣΟΔΙΟ 35
-https://www.alphatv.gr/show/to-soi-soy/?vtype=player&vid=65167&showId=500&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 6",ΕΠΕΙΣΟΔΙΟ 36
-https://www.alphatv.gr/show/to-soi-soy/?vtype=player&vid=65235&showId=500&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 6",ΕΠΕΙΣΟΔΙΟ 37
-https://www.alphatv.gr/show/to-soi-soy/?vtype=player&vid=65317&showId=500&year=2026|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 6",ΕΠΕΙΣΟΔΙΟ 38
-https://www.alphatv.gr/show/to-soi-soy/?vtype=player&vid=65324&showId=500&year=2026|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 6",Σ6 - ΕΠΕΙΣΟΔΙΟ 22
+https://www.alphatv.gr/series/to-soi-soy/episode/441177-s6-epeisodio-22/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 6",Σ6 - ΕΠΕΙΣΟΔΙΟ 23
+https://www.alphatv.gr/series/to-soi-soy/episode/441182-s6-epeisodio-23/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 6",Σ6 - ΕΠΕΙΣΟΔΙΟ 24
+https://www.alphatv.gr/series/to-soi-soy/episode/441222-s6-epeisodio-24/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 6",Σ6 - ΕΠΕΙΣΟΔΙΟ 25
+https://www.alphatv.gr/series/to-soi-soy/episode/441226-s6-epeisodio-25/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 6",Σ6 - ΕΠΕΙΣΟΔΙΟ 26
+https://www.alphatv.gr/series/to-soi-soy/episode/441263-s6-epeisodio-26/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 6",Σ6 - ΕΠΕΙΣΟΔΙΟ 27
+https://www.alphatv.gr/series/to-soi-soy/episode/441267-s6-epeisodio-27/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 6",Σ6 - ΕΠΕΙΣΟΔΙΟ 28
+https://www.alphatv.gr/series/to-soi-soy/episode/656016-s6-epeisodio-28/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 6",Σ6 - ΕΠΕΙΣΟΔΙΟ 29
+https://www.alphatv.gr/series/to-soi-soy/episode/656028-s6-epeisodio-29/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 6",Σ6 - ΕΠΕΙΣΟΔΙΟ 30
+https://www.alphatv.gr/series/to-soi-soy/episode/656034-s6-epeisodio-30/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 6",Σ6 - ΕΠΕΙΣΟΔΙΟ 31
+https://www.alphatv.gr/series/to-soi-soy/episode/656106-s6-epeisodio-31/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 6",Σ6 - ΕΠΕΙΣΟΔΙΟ 32
+https://www.alphatv.gr/series/to-soi-soy/episode/656116-s6-epeisodio-32/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 6",Σ6 - ΕΠΕΙΣΟΔΙΟ 33
+https://www.alphatv.gr/series/to-soi-soy/episode/656134-s6-epeisodio-33/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 6",Σ6 - ΕΠΕΙΣΟΔΙΟ 34
+https://www.alphatv.gr/series/to-soi-soy/episode/656214-s6-epeisodio-34/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 6",Σ6 - ΕΠΕΙΣΟΔΙΟ 35
+https://www.alphatv.gr/series/to-soi-soy/episode/656222-s6-epeisodio-35/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 6",Σ6 - ΕΠΕΙΣΟΔΙΟ 36
+https://www.alphatv.gr/series/to-soi-soy/episode/656306-s6-epeisodio-36/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 6",Σ6 - ΕΠΕΙΣΟΔΙΟ 37
+https://www.alphatv.gr/series/to-soi-soy/episode/684033-s6-epeisodio-37/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 6",Σ6 - ΕΠΕΙΣΟΔΙΟ 38
+https://www.alphatv.gr/series/to-soi-soy/episode/684041-s6-epeisodio-38/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 6",Σ6 - ΕΠΕΙΣΟΔΙΟ 39
+https://www.alphatv.gr/series/to-soi-soy/episode/687431-s6-epeisodio-39/|webvidfulldig

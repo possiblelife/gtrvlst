@@ -1410,4 +1410,39 @@ https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64285&showI
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64286&showId=869&year=2025|webvidfulldig
 #EXTINF:-1 group-title="2025",Το ανίψι μου
 https://www.alphatv.gr/show/oikogeneiakes-istories/?vtype=player&vid=64287&showId=869&year=2025|webvidfulldig
-
+#EXTINF:-1 group-title="2026",Ένας αριθμός
+https://www.alphatv.gr/series/oikogeneiakes-istories/episode/441240-enas-arithmos/|webvidfulldig
+#EXTINF:-1 group-title="2026",Η φωνή
+https://www.alphatv.gr/series/oikogeneiakes-istories/episode/441280-i-foni/|webvidfulldig
+#EXTINF:-1 group-title="2026",Stand up
+https://www.alphatv.gr/series/oikogeneiakes-istories/episode/656068-stand-up/|webvidfulldig
+#EXTINF:-1 group-title="2026",Η δασκάλα
+https://www.alphatv.gr/series/oikogeneiakes-istories/episode/656070-i-daskala/|webvidfulldig
+#EXTINF:-1 group-title="2026",Η καρδιά
+https://www.alphatv.gr/series/oikogeneiakes-istories/episode/656072-i-kardia/|webvidfulldig
+#EXTINF:-1 group-title="2026",Φωλιά
+https://www.alphatv.gr/series/oikogeneiakes-istories/episode/656074-folia/|webvidfulldig
+#EXTINF:-1 group-title="2026",Αυτοί που μένουν
+https://www.alphatv.gr/series/oikogeneiakes-istories/episode/656160-aftoi-pou-menoun/|webvidfulldig
+#EXTINF:-1 group-title="2026",Ο τελευταίος εγγονός
+https://www.alphatv.gr/series/oikogeneiakes-istories/episode/656162-o-teleftaios-engonos/|webvidfulldig
+#EXTINF:-1 group-title="2026",Εκδίκηση
+https://www.alphatv.gr/series/oikogeneiakes-istories/episode/656164-ekdikisi/|webvidfulldig
+#EXTINF:-1 group-title="2026",Η γυναίκα της ζωής μου
+https://www.alphatv.gr/series/oikogeneiakes-istories/episode/656166-i-ginaika-tis-zois-mou/|webvidfulldig
+#EXTINF:-1 group-title="2026",Στο γκαράζ
+https://www.alphatv.gr/series/oikogeneiakes-istories/episode/656256-sto-gkaraz/|webvidfulldig
+#EXTINF:-1 group-title="2026",Επάγγελμα οικιακά
+https://www.alphatv.gr/series/oikogeneiakes-istories/episode/656258-epangelma-oikiaka/|webvidfulldig
+#EXTINF:-1 group-title="2026",Ψυχραιμία
+https://www.alphatv.gr/series/oikogeneiakes-istories/episode/656260-psixraimia/|webvidfulldig
+#EXTINF:-1 group-title="2026",Πεπρωμένο
+https://www.alphatv.gr/series/oikogeneiakes-istories/episode/656262-pepromeno/|webvidfulldig
+#EXTINF:-1 group-title="2026",Πίσω από το πληκτρολόγιο
+https://www.alphatv.gr/series/oikogeneiakes-istories/episode/656314-piso-apo-to-pliktrologio/|webvidfulldig
+#EXTINF:-1 group-title="2026",Κοινόχρηστο διαμέρισμα
+https://www.alphatv.gr/series/oikogeneiakes-istories/episode/656316-koinoxristo-diamerisma/|webvidfulldig
+#EXTINF:-1 group-title="2026",Μηχανοραφία
+https://www.alphatv.gr/series/oikogeneiakes-istories/episode/656318-mixanorafia/|webvidfulldig
+#EXTINF:-1 group-title="2026",Εκτός παράδοσης
+https://www.alphatv.gr/series/oikogeneiakes-istories/episode/656320-ektos-paradosis/|webvidfulldig
