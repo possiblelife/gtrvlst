@@ -638,3 +638,5 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=221668&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=221670&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 145 CUISINOVIAΜαροκινό ταζίν με αρνί (tagine), Παγωμένο τσίζκεικ καραμέλας
 https://www.omegatv.com.cy/cgibin/hweb?-A=221674&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 146 CUISINOVIAΦλαουνοτυρόπιτα με ζύμη κουρού, Τρούφες με τσουρέκι
+https://www.omegatv.com.cy/cgibin/hweb?-A=221680&-V=vod|webfulldig
