@@ -407,6 +407,9 @@ https://web.onair-radio.eu/plutontv/plutontv/playlist.m3u8
 https://www.twitch.tv/247gaminglabgr|weballdig
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" ,FreeAngelWebTv
 https://www.twitch.tv/freeangelwebtv|weballdig
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logs/spesialtv.png" ,spesialtv
+https://kali.vdopanel.com:3292/hybrid/play.m3u8
+
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="hub://logs/red.png" ,===== ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ ====
 http://.....
