@@ -128,3 +128,5 @@ https://www.megatv.com/tvshows/2325391/epeisodio-63-26/|webfulldig
 https://www.megatv.com/tvshows/2333809/epeisodio-64-25/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 65
 https://www.megatv.com/tvshows/2333818/epeisodio-65-25/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 66
+https://www.megatv.com/tvshows/2337829/epeisodio-66-25/|webfulldig
