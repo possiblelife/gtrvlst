@@ -445,6 +445,10 @@ https://live21.bozztv.com/akamaissh101/ssh101/diavatatvweb/playlist.m3u8
 https://stream-cdn-iad3.vaughnsoft.net/play/live_extacytv.flv|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacyser" tvg-logo="hub://logs/extacyseries.png" tvg-name="Extacy TV SERIES" ,Extacy TV SERIES
 https://stream-cdn-iad3.vaughnsoft.net/play/live_extacytvseries.flv|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacycin" tvg-logo="hub://logs/extacy-cinema.png" tvg-name="Extacy TV CINEMA" ,Extacy TV CINEMA
+https://stream-cdn-iad3.vaughnsoft.net/play/live_extacycinema.flv|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-id="extacygr" tvg-logo="hub://logs/extacygr.png" tvg-name="Extacy TV GREEKS" ,Extacy TV GREEKS
+https://stream-cdn-iad3.vaughnsoft.net/play/live_extacygreeks.flv|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/vcinema.png" tvg-name="VisonCast Cinema",VisonCast Cinema
 https://es2.crystalweb.net:1936/vcinema/vcinema/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/Groovy.png" ,Groovy
