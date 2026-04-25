@@ -1,9 +1,5 @@
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 129
 https://www.megatv.com/gtvshows/2300440/epeisodio-129-8/|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 135
-https://www.megatv.com/gtvshows/2311951/epeisodio-135-8/|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 136
-https://www.megatv.com/gtvshows/2311954/epeisodio-136-8/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 137
 https://www.megatv.com/gtvshows/2311957/epeisodio-137-8/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 138
@@ -30,3 +26,7 @@ https://www.megatv.com/gtvshows/2340481/epeisodio-148-6/|webfulldig
 https://www.megatv.com/gtvshows/2341372/epeisodio-149-8/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 150
 https://www.megatv.com/gtvshows/2342296/epeisodio-150-6/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 151
+https://www.megatv.com/gtvshows/2343541/epeisodio-151-7/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 152
+https://www.megatv.com/gtvshows/2344762/epeisodio-152-7/|webfulldig
