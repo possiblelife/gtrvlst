@@ -401,6 +401,8 @@ https://pro.free.hr:3887/live/pronewslive.m3u8
 https://www.twitch.tv/extrapronewstv|weballdig
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logs/EXTRA-PRONEWS.png" ,Extra ProNews
 http://62.1.176.18:8888/extra/index.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-name="ProNewsPrime" tvg-logo="hub://logs/pronewsprime.png" ,ProNews Prime
+https://pro.free.hr:3326/live/patraslive.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logs/plutontv.png" ,Pluton TV
 https://web.onair-radio.eu/plutontv/plutontv/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logs/gaming_lab.png" ,GAMING LAB LIVE TV 24.7
