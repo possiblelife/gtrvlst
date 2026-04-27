@@ -5,14 +5,13 @@ http://.....
 
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.alphatv.gr/web-tv/|webvod zoom=100 scroll=0,0
-
-#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-logo="https://greek-movies.com/icon/series/Μπαμπάσαγαπώ2026.png" tvg-description="hub://desc/Alpha/Μπαμπά.σ.αγαπώ.(2026)" ,Μπαμπά, σ' αγαπώ (Aphatv μόνο) (2026)
+#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-logo="https://greek-movies.com/icon/series/Μπαμπάσαγαπώ2026.jpg" tvg-description="hub://desc/Alpha/Μπαμπά.σ.αγαπώ.(2026)" ,Μπαμπά, σ' αγαπώ (Aphatv μόνο) (2026)
 SERIES$$hub://gvrod/alpha/sires/baba-sagapo.txt
-#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-logo="https://greek-movies.com/icon/series/Μπαμπάσαγαπώ2026.png" tvg-description="hub://desc/Alpha/Μπαμπά.σ.αγαπώ.(2026)" ,Μπαμπά, σ' αγαπώ (2026)
+#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-logo="https://greek-movies.com/icon/series/Μπαμπάσαγαπώ2026.jpg" tvg-description="hub://desc/Alpha/Μπαμπά.σ.αγαπώ.(2026)" ,Μπαμπά, σ' αγαπώ (2026)
 SERIES$$hub://gvrod/alpha/sires/Μπαμπά.σ.αγαπώ.(2026)
-#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2018-2019/SERIES/ELLHNIKES/SOI/THUMBNAILS/THUMB.jpg" tvg-description="hub://desc/Alpha/Το.σόι.σου.(2014-2019)" ,Το σόι σου (Aphatv μόνο) (2014-2026)
+#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-logo="https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-to-soi-sou-cover-vertical-1.jpg" tvg-description="hub://desc/Alpha/Το.σόι.σου.(2014-2019)" ,Το σόι σου (Aphatv μόνο) (2014-2026)
 SERIES$$hub://gvrod/alpha/sires/to-soi-soy.txt
-#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2018-2019/SERIES/ELLHNIKES/SOI/THUMBNAILS/THUMB.jpg" tvg-description="hub://desc/Alpha/Το.σόι.σου.(2014-2019)" ,Το σόι σου (2014-2026)
+#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-logo="https://www.alphatv.gr/wp-content/uploads/2018/10/alphatv-series-to-soi-sou-cover-vertical-1.jpg" tvg-description="hub://desc/Alpha/Το.σόι.σου.(2014-2019)" ,Το σόι σου (2014-2026)
 SERIES$$hub://gvrod/alpha/sires/Το.σόι.σου.(2014-2019)
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="κωμωδία, κοινωνική, οικογενειακή" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2025-2026/SEIRES/TROMEROI-GONEIS/THUMB-TROMEROI-GONEIS.png" tvg-website="https://www.alphatv.gr/show/tromeroi-goneis/" tvg-description="hub://desc/Alpha/Τρομεροί.γονείς.(2025)" ,Τρομεροί γονείς (Aphatv μόνο) (2025)
 SERIES$$hub://gvrod/alpha/sires/tromeroi-goneis.txt
