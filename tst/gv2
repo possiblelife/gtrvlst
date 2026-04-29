@@ -467,6 +467,10 @@ https://channel.streams.ovh:8081/dipolotv/index.m3u8
 https://neon.streams.gr:8081/lampsitv/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/escape_media.png" tvg-website="https://escape-media.gr/index.php" ,Escape Media
 https://rtmp.streams.ovh:8081/escapemedia/index.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-name="Ελλάδα TV"  tvg-logo="hub://logs/ELLADA_TV" ,Ελλάδα TV
+https://kali.vdopanel.com:3220/live/elladafmlive.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-name="Ελλάδα TV"  tvg-logo="hub://logs/ELLADA_TV" ,Ελλάδα TV (2)
+https://www.twitch.tv/ellada943fm|weballdig
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/red.png" ,=====   ΜΟΥΣΙΚΗ   ====
 http://.....
