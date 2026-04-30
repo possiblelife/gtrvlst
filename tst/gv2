@@ -80,6 +80,8 @@ https://aliez.tv/live/sdzmqoh1fkq5uworeeu2/|weballdig
 https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="maktv" tvg-logo="hub://logs/mak-tv.png" tvg-name="M.TV HD" tvg-website="https://watch.antennaplus.gr/#/" ,M.TV HD (2)
 https://spark3.smart-tv-data.com/makHD/makHD/manifest.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="maktv" tvg-logo="hub://logs/mak-tv.png" tvg-name="M.TV HD" tvg-website="https://watch.antennaplus.gr/#/" ,M.TV HD (vip)
+sec:ch19
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="vouli" tvg-logo="hub://logs/VOULI.png" tvg-name="ΒΟΥΛΗ" tvg-website="https://www.hellenicparliament.gr/el/" ,ΒΟΥΛΗ
 https://diavlos3.cnt.grnet.gr/parltv/webtv-1.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-logo="hub://logs/VOULI.png" tvg-name="ΒΟΥΛΗ" tvg-website="https://www.hellenicparliament.gr/el/" ,ΒΟΥΛΗ2
