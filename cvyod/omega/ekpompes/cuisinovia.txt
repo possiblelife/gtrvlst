@@ -660,3 +660,5 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=221899&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=221900&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 156 CUISINOVIAΚοτόπουλο “Lo-mein”, Το πιο υγρό κέικ σοκολάτας
 https://www.omegatv.com.cy/cgibin/hweb?-A=221901&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 157 CUISINOVIAΦιλέτο ψαριού με κρούστα και σκορδάτη σος, Παγωτό με πραλίνα φουντουκιού
+https://www.omegatv.com.cy/cgibin/hweb?-A=222005&-V=vod|webfulldig
