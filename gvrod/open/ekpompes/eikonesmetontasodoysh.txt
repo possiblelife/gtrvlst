@@ -278,12 +278,6 @@ https://www.tvopen.gr/watch/104064/azantiomarmarinospyrgosthstexeranhs|webvidful
 https://www.tvopen.gr/watch/105090/otasosdoyshsmasxenageistopetrinofroyriostokentrotoysiraz|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Σιράζ: Βόλτα στο Τέμενος των Κρυστάλλων
 https://www.tvopen.gr/watch/105091/sirazboltastotemenostonkrystallon|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Ιράν: Περιήγηση στην Γιαζντ
-https://www.tvopen.gr/watch/105792/iranperihghshsthngiaznt|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Ιράν: Το μοναδικό κέικ της Γιαζντ
-https://www.tvopen.gr/watch/105798/irantomonadikokeikthsgiaznt|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Ιράν: Ο ντόπιος της Γιαζντ, Σιάβας, μιλάει στον Τάσο Δούση
-https://www.tvopen.gr/watch/105797/iranontopiosthsgiazntsiabasmilaeistontasodoysh|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Βόλτα στην κεντρική πλατεία του Ισφαχάν
 https://www.tvopen.gr/watch/106984/boltasthnkentrikhplateiatoyisfaxan|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ξενάγηση στο παλάτι με τις 40 κολώνες στο Ισφαχάν
@@ -300,6 +294,12 @@ https://www.tvopen.gr/watch/111712/ligkiadesioanninontomartyrikoxoriomethfoberht
 https://www.tvopen.gr/watch/111713/zagorimonodendritoxoriopoyeferetontoyrismo|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ζαγοροχώρια: Άνω Πεδινά - Ένα χωριό ησυχαστήριο
 https://www.tvopen.gr/watch/112652/zagoroxoriaanopedinaenaxoriohsyxasthrio|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Ιράν: Περιήγηση στην Γιαζντ
+https://www.tvopen.gr/watch/105792/iranperihghshsthngiaznt|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Ιράν: Το μοναδικό κέικ της Γιαζντ
+https://www.tvopen.gr/watch/105798/irantomonadikokeikthsgiaznt|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Ιράν: Ο ντόπιος της Γιαζντ, Σιάβας, μιλάει στον Τάσο Δούση
+https://www.tvopen.gr/watch/105797/iranontopiosthsgiazntsiabasmilaeistontasodoysh|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Rafting στον ποταμό Βοϊδομάτη
 https://www.tvopen.gr/watch/112653/raftingstonpotamoboidomath|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Βόλτα με buggy οχήματα στο ανατολικό Ζαγόρι
@@ -1170,6 +1170,18 @@ https://www.tvopen.gr/watch/268144/nikaiagalliahgrafikhplateiarosetimetayperoxak
 https://www.tvopen.gr/watch/268145/nikaiagalliamagikosperipatostohliobasilemasthnpromenantntezangkle|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Αρμενία - Α μέρος
 https://www.tvopen.gr/watch/268315/eikonesmetontasodoysharmeniaameros|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Πριγκιπάτο του Μονακό: Θαυμάζουμε την υπέροχη θέα απο τον λόφο του παλατιού
+https://www.tvopen.gr/watch/268648/prigkipatotoymonakothaymazoymethnyperoxhtheaapotonlofotoypalatioy|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Ρωσικός Καθεδρικός Ναός Αγίου Νικολάου: Ένα σημαντικό μνημείο της Νίκαιας
+https://www.tvopen.gr/watch/268649/rosikoskathedrikosnaosagioynikolaoyenashmantikomnhmeiothsnikaias|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Γαλλία - Α μέρος
+https://www.tvopen.gr/watch/268650/eikonesmetontasodoyshgalliaameros|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Σαιν Πολ ντε Βανς: Το γραφικό χωριό των καλλιτεχνών
+https://www.tvopen.gr/watch/268742/sainpolntebanstografikoxoriotonkallitexnon|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Αντίμπ: H παραθαλάσσια πόλη στη Γαλλική Ριβιέρα
+https://www.tvopen.gr/watch/268743/antimphparathalassiapolhsthgallikhribiera|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Γαλλία - Β μέρος
+https://www.tvopen.gr/watch/268745/eikonesmetontasodoyshgalliabmeros|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Ρουμανία  Γ μέρος
 https://www.tvopen.gr/watch/262451/eikonesmetontasodoyshroymaniagmeros|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Καππαδοκία, Α' μέρος

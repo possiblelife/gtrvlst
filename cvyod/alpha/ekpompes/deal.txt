@@ -3308,3 +3308,5 @@ https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv/280426|webvidfulld
 https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv/290426|webvidfulldig
 #EXTINF:-1 group-title="Season 8",30/04/26
 https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv/300426|webvidfulldig
+#EXTINF:-1 group-title="Season 8",04/05/26
+https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv/040526|webvidfulldig

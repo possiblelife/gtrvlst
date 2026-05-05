@@ -1,5 +1,3 @@
-#EXTINF:-1 group-title="Όλα τα επεισόδια",ΧωριΟΝ 29/03/26
-https://v6.cloudskep.com/rikvod/horion/horion290326.mp4?attachment=true
 #EXTINF:-1 group-title="Όλα τα επεισόδια",ΧωριON 05/04/26
 https://v6.cloudskep.com/rikvod/horion/horion050426.mp4?attachment=true
 #EXTINF:-1 group-title="Όλα τα επεισόδια",ΧωριΟΝ 12/04/26
@@ -8,3 +6,5 @@ https://v6.cloudskep.com/rikvod/horion/horion120426.mp4?attachment=true
 https://v6.cloudskep.com/rikvod/horion/horion190426.mp4?attachment=true
 #EXTINF:-1 group-title="Όλα τα επεισόδια",ΧωριΟΝ 26/04/26
 https://v6.cloudskep.com/rikvod/horion/horion260426.mp4?attachment=true
+#EXTINF:-1 group-title="Όλα τα επεισόδια",ΧωριΟΝ 03/05/26
+https://v6.cloudskep.com/rikvod/horion/horion030526.mp4?attachment=true
