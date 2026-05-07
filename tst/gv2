@@ -439,8 +439,10 @@ http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="hub://logs/cinema_classic.png" ,Cinema Classics
 https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="hub://logs/choice.png" ,Choice TV
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-name="Choice TV" tvg-logo="hub://logs/choice.png" ,Choice TV
 https://eu1.streams.gr:8081/choicetv/index.m3u8
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-name="Choice TV" tvg-logo="hub://logs/choice.png" ,Choice TV (2)
+https://eu1.streams.gr:8081/choicetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="hub://logs/Dipolo.png" tvg-website="https://channel.streams.ovh:2020/public/dipolotv" ,Dipolo 1 HD
 https://channel.streams.ovh:8081/dipolotv/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="hub://logs/Dipolo.png" tvg-website="https://channel.streams.ovh:2020/public/dipolotv" ,Dipolo 2 HD
@@ -453,6 +455,10 @@ https://rtmp.streams.ovh:8081/escapemedia/index.m3u8
 https://kali.vdopanel.com:3220/live/elladafmlive.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-name="Ελλάδα TV"  tvg-logo="hub://logs/ELLADA_TV" ,Ελλάδα TV (2)
 https://www.twitch.tv/ellada943fm|weballdig
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/miramax.jpg" ,MiraMax
+https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8
+
+
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/red.png" ,=====   ΜΟΥΣΙΚΗ   ====
 http://.....
