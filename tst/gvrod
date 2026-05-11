@@ -255,7 +255,7 @@ SERIES$$hub://gvrod/alpha/ekpompes/deal.txt
 SERIES$$hub://gvrod/alpha/ekpompes/happy-day-ston-alpha.txt
 #EXTINF:-1 group-title="ALPHA ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alpha/kitchen-lab.jpg" tvg-website="https://www.alphatv.gr/show/kitchen-lab/" ,KITCHEN LAB (2018-2025)
 SERIES$$hub://gvrod/alpha/ekpompes/kitchen-lab.txt
-#EXTINF:-1 group-title="ALPHA ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alpha/kalitera-den-" tvg-website="https://www.alphatv.gr/show/kalutera-de-ginetai/" ,ΚΑΛΥΤΕΡΑ ΔΕ ΓΙΝΕΤΑΙ! (2018-2025)
+#EXTINF:-1 group-title="ALPHA ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alpha/kalitera-den-ginete.jpg" tvg-website="https://www.alphatv.gr/show/kalutera-de-ginetai/" ,ΚΑΛΥΤΕΡΑ ΔΕ ΓΙΝΕΤΑΙ! (2018-2025)
 SERIES$$hub://gvrod/alpha/ekpompes/kalutera-de-ginetai.txt
 #EXTINF:-1 group-title="ALPHA ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alpha/autopsia.jpg" tvg-website="https://www.alphatv.gr/show/aytopsia/" ,ΑΥΤΟΨΙΑ (2015-2025)
 SERIES$$hub://gvrod/alpha/ekpompes/aytopsia.txt
