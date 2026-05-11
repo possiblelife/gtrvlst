@@ -1923,87 +1923,87 @@ http://.....
 
 #EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="hub://logs/ANT1.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.ant1live.com/webtv/seires|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία, ρομαντική" tvg-description="hub://desc/Ant1CY/La.pasta.pomilώri.(2017-2020)" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-05/PQ3A2187.jpg?itok=VcA1KG2N" tvg-website="https://www.ant1live.com/webtv/series/kypriakes-seires/la-pasta-pomilori" ,La Pasta Pomilώri (2017-2020)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία, ρομαντική" tvg-description="hub://desc/Ant1CY/La.pasta.pomilώri.(2017-2020)" tvg-logo="hub://logseries/ant1cy/PQ3A2187.jpg?" tvg-website="https://www.ant1live.com/webtv/series/kypriakes-seires/la-pasta-pomilori" ,La Pasta Pomilώri (2017-2020)
 SERIES$$hub://cvyod/ant1/sires_arxio/la-pasta-pomilori.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Ant1CY/Santa.Γιολάντα.(2011-2012)" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2023-06/SANTA ΓΙΟΛΑΝΤΑ POSTER.JPG?itok=o9dJRm-n" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/santa-giolanta" ,Santa Γιολάντα (2011-2012)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Ant1CY/Santa.Γιολάντα.(2011-2012)" tvg-logo="hub://logseries/ant1cy/SANTA ΓΙΟΛΑΝΤΑ POSTER.JPG?" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/santa-giolanta" ,Santa Γιολάντα (2011-2012)
 SERIES$$hub://cvyod/ant1/sires_arxio/santa-giolanta.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Ant1CY/Αίγια.Fuxia.(2008-2010)" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-05/loris loizides copy.jpg?itok=8mxtSzmM" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/aigia-fuxia" ,Αίγια Fuxia (2008-2010)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Ant1CY/Αίγια.Fuxia.(2008-2010)" tvg-logo="hub://logseries/ant1cy/loris loizides copy.jpg" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/aigia-fuxia" ,Αίγια Fuxia (2008-2010)
 SERIES$$hub://cvyod/ant1/sires_arxio/aigia-fuxia.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Ant1CY/Βαλς.με.12.Θεούς.(2012-2014)" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2023-06/ΒΑΛΣ ΜΕ 12 ΘΕΟΥΣ POSTER 2.jpg?itok=k25DFkKM" tvg-website="https://www.ant1live.com/webtv/series/kypriakes-seires/bals-me-12-theoys" ,Βαλς Με 12 Θεούς (2012-2014)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Ant1CY/Βαλς.με.12.Θεούς.(2012-2014)" tvg-logo="hub://logseries/ant1cy/ΒΑΛΣ ΜΕ 12 ΘΕΟΥΣ POSTER 2.jpg" tvg-website="https://www.ant1live.com/webtv/series/kypriakes-seires/bals-me-12-theoys" ,Βαλς Με 12 Θεούς (2012-2014)
 SERIES$$hub://cvyod/ant1/sires_arxio/bals-me-12-theoys.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Ant1CY/Δείξε.μου.το.φίλο.σου.(2006-2007)" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2023-06/ΔΕΙΞΕ ΜΟΥ ΤΟΝ ΦΙΛΟ ΣΟΥ - POSTER.jpg?itok=QHGPEyvZ" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/deixe-moy-ton-filo-soy" ,Δείξε Μου Τον Φίλο Σου (2006-2007)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Ant1CY/Δείξε.μου.το.φίλο.σου.(2006-2007)" tvg-logo="hub://logseries/ant1cy/ΔΕΙΞΕ ΜΟΥ ΤΟΝ ΦΙΛΟ ΣΟΥ - POSTER.jpg" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/deixe-moy-ton-filo-soy" ,Δείξε Μου Τον Φίλο Σου (2006-2007)
 SERIES$$hub://cvyod/ant1/sires_arxio/deixe-moy-ton-filo-soy.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Ant1CY/Δίδυμα.φεγγάρια.(2015-2017)" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2023-06/ΔΙΔΥΜΑ ΦΕΓΓΑΡΙΑ.jpg?itok=AdHdD-GD" tvg-website="https://www.ant1live.com/webtv/series/kypriakes-seires/didyma-feggaria" ,Δίδυμα Φεγγάρια (2015-2017)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Ant1CY/Δίδυμα.φεγγάρια.(2015-2017)" tvg-logo="hub://logseries/ant1cy/ΔΙΔΥΜΑ ΦΕΓΓΑΡΙΑ.jpg" tvg-website="https://www.ant1live.com/webtv/series/kypriakes-seires/didyma-feggaria" ,Δίδυμα Φεγγάρια (2015-2017)
 SERIES$$hub://cvyod/ant1/sires_arxio/didyma-feggaria.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Ant1CY/Εκείνο.το.καλοκαίρι.(2012-2014)" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-09/Ekeino-To-kalokairi-Poster.png?itok=MZaypivV" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/ekeino-kalokairi" ,Εκείνο το Καλοκαίρι (2012-2014)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Ant1CY/Εκείνο.το.καλοκαίρι.(2012-2014)" tvg-logo="hub://logseries/ant1cy/Ekeino-To-kalokairi-Poster.png" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/ekeino-kalokairi" ,Εκείνο το Καλοκαίρι (2012-2014)
 SERIES$$hub://cvyod/ant1/sires_arxio/ekeino-kalokairi.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Ant1CY/Ελένη.η.πόρνη.(2010-2011)" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2023-06/ΕΛΕΝΗ Η ΠΟΡΝΗ POSTER.jpg?itok=vAfrsPfr" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/eleni-i-porni" ,Ελένη η Πόρνη (2010-2011)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Ant1CY/Ελένη.η.πόρνη.(2010-2011)" tvg-logo="hub://logseries/ant1cy/ΕΛΕΝΗ Η ΠΟΡΝΗ POSTER.jpg" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/eleni-i-porni" ,Ελένη η Πόρνη (2010-2011)
 SERIES$$hub://cvyod/ant1/sires_arxio/eleni-i-porni.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία, ρομαντική, κοινωνική" tvg-description="hub://desc/Ant1CY/Εσύ....στον.κόσμο.σου.(2018-2021)" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-05/2TJNOKo.jpg?itok=HlfndGqL" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/esy-ston-kosmo-soy" ,Εσύ Στον Κόσμο Σου (2018-2021)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία, ρομαντική, κοινωνική" tvg-description="hub://desc/Ant1CY/Εσύ....στον.κόσμο.σου.(2018-2021)" tvg-logo="hub://logseries/ant1cy/2TJNOKo.jpg" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/esy-ston-kosmo-soy" ,Εσύ Στον Κόσμο Σου (2018-2021)
 SERIES$$hub://cvyod/ant1/sires_arxio/esy-ston-kosmo-soy.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κοινωνική" tvg-description="hub://desc/Ant1CY/Μελίαρτος.(2021-2022)" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-05/257550070_126348359814164_5573355728869503833_n_1.jpg?itok=66CXurQX" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/meliartos" ,Μελίαρτος (2021-2022)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κοινωνική" tvg-description="hub://desc/Ant1CY/Μελίαρτος.(2021-2022)" tvg-logo="hub://logseries/ant1cy/257550070_126348359814164_5573355728869503833_n_1.jpg" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/meliartos" ,Μελίαρτος (2021-2022)
 SERIES$$hub://cvyod/ant1/sires_arxio/meliartos.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Ant1CY/Μια.φορά.κ'.έναν.καιρό.(2022-2023)" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-07/Profile.png?itok=_uBBcz-t" tvg-website="https://www.ant1live.com/webtv/series/kypriakes-seires/mia-fora-k-enan-kairo" ,Μια Φορά Κ' Έναν Καιρό (2022-2023)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Ant1CY/Μια.φορά.κ'.έναν.καιρό.(2022-2023)" tvg-logo="hub://logseries/ant1cy/Profile.png" tvg-website="https://www.ant1live.com/webtv/series/kypriakes-seires/mia-fora-k-enan-kairo" ,Μια Φορά Κ' Έναν Καιρό (2022-2023)
 SERIES$$hub://cvyod/ant1/sires_arxio/mia-fora-k-enan-kairo.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Ant1CY/Νιώσε.με.(2012-2014)" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-07/νιωσεμε.jpg?itok=pvZc17XW" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/niose-me" ,Νιώσε Με (2012-2014)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Ant1CY/Νιώσε.με.(2012-2014)" tvg-logo="hub://logseries/ant1cy/νιωσεμε.jpg" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/niose-me" ,Νιώσε Με (2012-2014)
 SERIES$$hub://cvyod/ant1/sires_arxio/niose-me.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κοινωνική, μυστηρίου" tvg-description="hub://desc/Ant1CY/oti-agapisa" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2023-05/'Ο,τι αγάπησα poster_1.jpg?itok=syyMQNm9" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/oti-agapisa" ,Ό,τι Αγάπησα
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κοινωνική, μυστηρίου" tvg-description="hub://desc/Ant1CY/oti-agapisa" tvg-logo="hub://logseries/ant1cy/'Ο,τι αγάπησα poster_1.jpg" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/oti-agapisa" ,Ό,τι Αγάπησα
 SERIES$$hub://cvyod/ant1/sires_arxio/oti-agapisa.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Ant1CY/Οι.χωραΐτες.(2002-2003)" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-09/χωραιτες.png?itok=rOin0Vot" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/oi-horaites" ,Οι Χωραϊτες (2002-2003)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Ant1CY/Οι.χωραΐτες.(2002-2003)" tvg-logo="hub://logseries/ant1cy/χωραιτες.png" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/oi-horaites" ,Οι Χωραϊτες (2002-2003)
 SERIES$$hub://cvyod/ant1/sires_arxio/oi-horaites.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="έγκλημα, ρομαντική, θρίλερ, μυστηρίου" tvg-description="hub://desc/Ant1CY/Οργή.(2018-2019)" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-09/900_bcfbbacf-aaef-4fcf-9494-86efbf0c90cd.jpg?itok=oTOnxf-H" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/orgi" ,Οργή (2018-2019)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="έγκλημα, ρομαντική, θρίλερ, μυστηρίου" tvg-description="hub://desc/Ant1CY/Οργή.(2018-2019)" tvg-logo="hub://logseries/ant1cy/900_bcfbbacf-aaef-4fcf-9494-86efbf0c90cd.jpg" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/orgi" ,Οργή (2018-2019)
 SERIES$$hub://cvyod/ant1/sires_arxio/orgi.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κοινωνική, μυστηρίου" tvg-description="hub://desc/Ant1CY/panselinos" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2023-09/ΠΑΝΣΕΛΗΝΟΣ POSTER2.jpg?itok=uzHEMsHv" tvg-website="https://www.ant1live.com/webtv/series/kypriakes-seires/panselinos" ,Πανσέληνος
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κοινωνική, μυστηρίου" tvg-description="hub://desc/Ant1CY/panselinos" tvg-logo="hub://logseries/ant1cy/ΠΑΝΣΕΛΗΝΟΣ POSTER2.jpg" tvg-website="https://www.ant1live.com/webtv/series/kypriakes-seires/panselinos" ,Πανσέληνος
 SERIES$$hub://cvyod/ant1/sires_arxio/panselinos.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία, ρομαντική" tvg-description="hub://desc/Ant1CY/Πρώτη.σταγόνα.(2014-2016)" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-09/6DCCB1C441E231B2238B48EAEF87C9F2.jpg?itok=hDJDGCnV" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/proti-stagona" ,Πρώτη Σταγόνα (2014-2016)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία, ρομαντική" tvg-description="hub://desc/Ant1CY/Πρώτη.σταγόνα.(2014-2016)" tvg-logo="hub://logseries/ant1cy/6DCCB1C441E231B2238B48EAEF87C9F2.jpg" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/proti-stagona" ,Πρώτη Σταγόνα (2014-2016)
 SERIES$$hub://cvyod/ant1/sires_arxio/proti-stagona.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Ant1CY/Σαλώμη.(2022)" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-08/saloomi.png?itok=4xHHCbe1" tvg-website="https://www.ant1live.com/webtv/series/kypriakes-seires/salomi" ,Σαλώμη (2022)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Ant1CY/Σαλώμη.(2022)" tvg-logo="hub://logseries/ant1cy/saloomi.png" tvg-website="https://www.ant1live.com/webtv/series/kypriakes-seires/salomi" ,Σαλώμη (2022)
 SERIES$$hub://cvyod/ant1/sires_arxio/salomi.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Ant1CY/Την.πάτησα.(2008-2009)" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-05/ΤηνΠάτησαΠόστερ_0.jpg?itok=D_KtbQ7Z" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/tin-patisa" ,Την Πάτησα (2008-2009)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Ant1CY/Την.πάτησα.(2008-2009)" tvg-logo="hub://logseries/ant1cy/ΤηνΠάτησαΠόστερ_0.jpg" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/tin-patisa" ,Την Πάτησα (2008-2009)
 SERIES$$hub://cvyod/ant1/sires_arxio/tin-patisa.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Ant1CY/ebdomo-kleidi" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2023-06/16. ΤΟ ΕΒΔΟΜΟ ΚΛΕΙΔΙ 2.jpg?itok=tEwzqCf-" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/ebdomo-kleidi" ,Το Έβδομο Κλειδί
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Ant1CY/ebdomo-kleidi" tvg-logo="hub://logseries/ant1cy/16. ΤΟ ΕΒΔΟΜΟ ΚΛΕΙΔΙ 2.jpg" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/ebdomo-kleidi" ,Το Έβδομο Κλειδί
 SERIES$$hub://cvyod/ant1/sires_arxio/ebdomo-kleidi.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Ant1CY/Φρέντο.καπουτσίνο.(2021-2022)" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2023-06/ΔΕΙΞΕ ΜΟΥ ΤΟΝ ΦΙΛΟ ΣΟΥ - POSTER new.jpg?itok=F04-1bIo" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/frento-kapoytsino" ,Φρέντο Καπουτσίνο (2021-2022)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Ant1CY/Φρέντο.καπουτσίνο.(2021-2022)" tvg-logo="hub://logseries/ant1cy/ΔΕΙΞΕ ΜΟΥ ΤΟΝ ΦΙΛΟ ΣΟΥ - POSTER new.jpg" tvg-website="https://www.ant1live.com/webtv/kypriakes-seires-0/frento-kapoytsino" ,Φρέντο Καπουτσίνο (2021-2022)
 SERIES$$hub://cvyod/ant1/sires_arxio/frento-kapoytsino.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Ant1CY/Χωρίς.εσένα.(2015-2016)" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2022-05/xwris2_0.jpg?itok=AgOCoyNl" tvg-website="https://www.ant1live.com/webtv/series/kypriakes-seires/horis-esena" ,Χωρίς Εσένα (2015-2016)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Ant1CY/Χωρίς.εσένα.(2015-2016)" tvg-logo="hub://logseries/ant1cy/xwris2_0.jpg" tvg-website="https://www.ant1live.com/webtv/series/kypriakes-seires/horis-esena" ,Χωρίς Εσένα (2015-2016)
 SERIES$$hub://cvyod/ant1/sires_arxio/horis-esena.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Ant1CY/Γραφείο.ταξί.(2000-2001)" tvg-logo="https://greek-movies.com/icon/series/γραφείοταξί.jpg" ,Γραφείο ταξί (2000-2001)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Ant1CY/Γραφείο.ταξί.(2000-2001)" tvg-logo="hub://logseries/ant1cy/γραφείοταξί.jpg" ,Γραφείο ταξί (2000-2001)
 SERIES$$hub://cvyod/ant1/sires_arxio/Γραφείο.ταξί.(2000-2001)
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Ant1CY/Δεν.σε.συγχωρώ.(2016)" tvg-logo="https://greek-movies.com/icon/series/Δενσεσυγχωρώ2016.jpg" ,Δεν σε συγχωρώ (2016)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Ant1CY/Δεν.σε.συγχωρώ.(2016)" tvg-logo="hub://logseries/ant1cy/Δενσεσυγχωρώ2016.jpg" ,Δεν σε συγχωρώ (2016)
 SERIES$$hub://cvyod/ant1/sires_arxio/Δεν.σε.συγχωρώ.(2016)
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Ant1CY/Κλεμμένη.ζωή.(2015)" tvg-logo="https://greek-movies.com/icon/series/Κλεμμένηζωή2015.jpg" ,Κλεμμένη ζωή (2015)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Ant1CY/Κλεμμένη.ζωή.(2015)" tvg-logo="hub://logseries/ant1cy/Κλεμμένηζωή2015.jpg" ,Κλεμμένη ζωή (2015)
 SERIES$$hub://cvyod/ant1/sires_arxio/Κλεμμένη.ζωή.(2015)
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Ant1CY/Λύκε.λύκε.είσαι.εδώ;.(2011-2012)" tvg-logo="https://greek-movies.com/icon/series/Λύκελύκεείσαιεδώ.jpg" ,Λύκε λύκε είσαι εδώ; (2011-2012)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Ant1CY/Λύκε.λύκε.είσαι.εδώ;.(2011-2012)" tvg-logo="hub://logseries/ant1cy/Λύκελύκεείσαιεδώ.jpg" ,Λύκε λύκε είσαι εδώ; (2011-2012)
 SERIES$$hub://cvyod/ant1/sires_arxio/Λύκε.λύκε.είσαι.εδώ;.(2011-2012)
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Ant1CY/Μαρίνα.(2014)" tvg-logo="https://greek-movies.com/icon/series/Marina-Latembestad2014.jpg" ,Μαρίνα (2014)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Ant1CY/Μαρίνα.(2014)" tvg-logo="hub://logseries/ant1cy/Marina-Latembestad2014.jpg" ,Μαρίνα (2014)
 SERIES$$hub://cvyod/ant1/sires_arxio/Μαρίνα.(2014)
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Ant1CY/Ο.θρίαμβος.της.αγάπης.(2010-2012)" tvg-logo="https://greek-movies.com/icon/series/ΟθρίαμβοςτηςαγάπηςTriunfodelamor2010.jpg" ,Ο θρίαμβος της αγάπης (2010-2012)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Ant1CY/Ο.θρίαμβος.της.αγάπης.(2010-2012)" tvg-logo="hub://logseries/ant1cy/ΟθρίαμβοςτηςαγάπηςTriunfodelamor2010.jpg" ,Ο θρίαμβος της αγάπης (2010-2012)
 SERIES$$hub://cvyod/ant1/sires_arxio/Ο.θρίαμβος.της.αγάπης.(2010-2012)
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Ant1CY/Ο.ίσκιος.της.φωτιάς.(2005)" tvg-logo="https://greek-movies.com/icon/series/Οίσκιοςτηςφωτιάς2005.jpg" ,Ο ίσκιος της φωτιάς (2005)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Ant1CY/Ο.ίσκιος.της.φωτιάς.(2005)" tvg-logo="hub://logseries/ant1cy/Οίσκιοςτηςφωτιάς2005.jpg" ,Ο ίσκιος της φωτιάς (2005)
 SERIES$$hub://cvyod/ant1/sires_arxio/Ο.ίσκιος.της.φωτιάς.(2005)
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Ant1CY/Ο.κόσμος.να.χαλάσει.(2017-2018)" tvg-logo="https://greek-movies.com/icon/series/Οκόσμοςναχαλάσει2017.jpg" ,Ο κόσμος να χαλάσει (2017-2018)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Ant1CY/Ο.κόσμος.να.χαλάσει.(2017-2018)" tvg-logo="hub://logseries/ant1cy/Οκόσμοςναχαλάσει2017.jpg" ,Ο κόσμος να χαλάσει (2017-2018)
 SERIES$$hub://cvyod/ant1/sires_arxio/Ο.κόσμος.να.χαλάσει.(2017-2018)
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="ρομαντική, κοινωνική" tvg-description="hub://desc/Ant1CY/Όμικρον.θετικό.(2014-2015)" tvg-logo="https://greek-movies.com/icon/series/Όμικρονθετικό2014.jpg" ,Όμικρον θετικό (2014-2015)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="ρομαντική, κοινωνική" tvg-description="hub://desc/Ant1CY/Όμικρον.θετικό.(2014-2015)" tvg-logo="hub://logseries/ant1cy/Όμικρονθετικό2014.jpg" ,Όμικρον θετικό (2014-2015)
 SERIES$$hub://cvyod/ant1/sires_arxio/Όμικρον.θετικό.(2014-2015)
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Ant1CY/Πάθος.για.εξουσία.(2016-2017)" tvg-logo="https://greek-movies.com/icon/series/Πάθοςγιαεξουσία2016.jpg" ,Πάθος για εξουσία (2016-2017)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Ant1CY/Πάθος.για.εξουσία.(2016-2017)" tvg-logo="hub://logseries/ant1cy/Πάθοςγιαεξουσία2016.jpg" ,Πάθος για εξουσία (2016-2017)
 SERIES$$hub://cvyod/ant1/sires_arxio/Πάθος.για.εξουσία.(2016-2017)
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, βιογραφία" tvg-description="hub://desc/Ant1CY/Πρεμιέρα.(2011-2012)" tvg-logo="https://greek-movies.com/icon/series/Πρεμιέρα.jpg" ,Πρεμιέρα (2011-2012)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, βιογραφία" tvg-description="hub://desc/Ant1CY/Πρεμιέρα.(2011-2012)" tvg-logo="hub://logseries/ant1cy/Πρεμιέρα.jpg" ,Πρεμιέρα (2011-2012)
 SERIES$$hub://cvyod/ant1/sires_arxio/Πρεμιέρα.(2011-2012)
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="ρομαντική" tvg-description="hub://desc/Ant1CY/Ρουά.ματ.(2014-2015)" tvg-logo="https://greek-movies.com/icon/series/Ρουάματ2014.jpg" ,Ρουά ματ (2014-2015)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="ρομαντική" tvg-description="hub://desc/Ant1CY/Ρουά.ματ.(2014-2015)" tvg-logo="hub://logseries/ant1cy/Ρουάματ2014.jpg" ,Ρουά ματ (2014-2015)
 SERIES$$hub://cvyod/ant1/sires_arxio/Ρουά.ματ.(2014-2015)
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, κοινωνική" tvg-description="hub://desc/Ant1CY/Τα.μαύρα.μάθκια.(2016-2017)" tvg-logo="https://greek-movies.com/icon/series/Ταμαύραμάθκια2016.jpg" ,Τα μαύρα μάθκια (2016-2017)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, κοινωνική" tvg-description="hub://desc/Ant1CY/Τα.μαύρα.μάθκια.(2016-2017)" tvg-logo="hub://logseries/ant1cy/Ταμαύραμάθκια2016.jpg" ,Τα μαύρα μάθκια (2016-2017)
 SERIES$$hub://cvyod/ant1/sires_arxio/Τα.μαύρα.μάθκια.(2016-2017)
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική, θρίλερ" tvg-description="hub://desc/Ant1CY/Τα.πέντε.κλειδιά.(2016-2017)" tvg-logo="https://greek-movies.com/icon/series/Ταπέντεκλειδιά2016.jpg" ,Τα πέντε κλειδιά (2016-2017)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική, θρίλερ" tvg-description="hub://desc/Ant1CY/Τα.πέντε.κλειδιά.(2016-2017)" tvg-logo="hub://logseries/ant1cy/Ταπέντεκλειδιά2016.jpg" ,Τα πέντε κλειδιά (2016-2017)
 SERIES$$hub://cvyod/ant1/sires_arxio/Τα.πέντε.κλειδιά.(2016-2017)
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Ant1CY/Τα.τρία.πρόσωπα.της.Άννας.(2017)" tvg-logo="https://greek-movies.com/icon/series/ΤατρίαπρόσωπατηςΆννας2017.jpg" ,Τα τρία πρόσωπα της Άννας (2017)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Ant1CY/Τα.τρία.πρόσωπα.της.Άννας.(2017)" tvg-logo="hub://logseries/ant1cy/ΤατρίαπρόσωπατηςΆννας2017.jpg" ,Τα τρία πρόσωπα της Άννας (2017)
 SERIES$$hub://cvyod/ant1/sires_arxio/Τα.τρία.πρόσωπα.της.Άννας.(2017)
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Ant1CY/Το.αλλαντοπωλείο.Γρηγορίου.(2013)" tvg-logo="https://greek-movies.com/icon/series/ΤοαλλαντοπωλείοΓρηγορίου2013.jpg" ,Το αλλαντοπωλείο Γρηγορίου (2013)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Ant1CY/Το.αλλαντοπωλείο.Γρηγορίου.(2013)" tvg-logo="hub://logseries/ant1cy/ΤοαλλαντοπωλείοΓρηγορίου2013.jpg" ,Το αλλαντοπωλείο Γρηγορίου (2013)
 SERIES$$hub://cvyod/ant1/sires_arxio/Το.αλλαντοπωλείο.Γρηγορίου.(2013)
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Ant1CY/Το.καφενείο.(1999)" tvg-logo="https://greek-movies.com/icon/series/τοκαφενείο.jpg" ,Το καφενείο (1999)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Ant1CY/Το.καφενείο.(1999)" tvg-logo="hub://logseries/ant1cy/τοκαφενείο.jpg" ,Το καφενείο (1999)
 SERIES$$hub://cvyod/ant1/sires_arxio/Το.καφενείο.(1999)
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Ant1CY/Το.πρόβλημά.μου.με.τις.γυναίκες.(2008)" tvg-logo="https://greek-movies.com/icon/series/τοπρόβλημάμουμετιςγυναίκες.jpg" ,Το πρόβλημά μου με τις γυναίκες (2008)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Ant1CY/Το.πρόβλημά.μου.με.τις.γυναίκες.(2008)" tvg-logo="hub://logseries/ant1cy/τοπρόβλημάμουμετιςγυναίκες.jpg" ,Το πρόβλημά μου με τις γυναίκες (2008)
 SERIES$$hub://cvyod/ant1/sires_arxio/Το.πρόβλημά.μου.με.τις.γυναίκες.(2008)
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Ant1CY/Το.χάρτινο.κουτί.(2021)" tvg-logo="https://greek-movies.com/icon/series/Τοχάρτινοκουτί2021.jpg" ,Το χάρτινο κουτί (2021)
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Ant1CY/Το.χάρτινο.κουτί.(2021)" tvg-logo="hub://logseries/ant1cy/Τοχάρτινοκουτί2021.jpg" ,Το χάρτινο κουτί (2021)
 SERIES$$hub://cvyod/ant1/sires_arxio/Το.χάρτινο.κουτί.(2021)
 
 
@@ -2017,11 +2017,11 @@ http://.....
 
 #EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logs/ANT1.png" ,ΟΛΕΣ ΟΙ ΕΚΠΟΜΠΕΣ
 https://www.ant1live.com/webtv/psyhagogia|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2024-09/CasaDeMikel 6 Poster.jpg?itok=3tVTQd7l" tvg-website="https://www.ant1live.com/webtv/psyhagogia/casa-de-mikel" ,Casa de Mikel
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/ant1cy/CasaDeMikel 6 Poster.jpg" tvg-website="https://www.ant1live.com/webtv/psyhagogia/casa-de-mikel" ,Casa de Mikel
 SERIES$$hub://cvyod/ant1/ekpompes/casa-de-mikel.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2025-02/IMG_1867.jpeg?itok=1fkh7q-G" tvg-website="https://www.ant1live.com/webtv/psyhagogia/allazoyme-xm" ,αλλάΖΟΥΜΕ by XM
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/ant1cy/IMG_1867.jpeg" tvg-website="https://www.ant1live.com/webtv/psyhagogia/allazoyme-xm" ,αλλάΖΟΥΜΕ by XM
 SERIES$$hub://cvyod/ant1/ekpompes/allazoumexm.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.ant1live.com/sites/default/files/styles/portrait_medium/public/2024-09/Passenger 24-25 poster.jpg?itok=SMsmp33R" tvg-website="https://www.ant1live.com/webtv/psyhagogia/passenger" ,Passenger
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/ant1cy/Passenger 24-25 poster.jpg" tvg-website="https://www.ant1live.com/webtv/psyhagogia/passenger" ,Passenger
 SERIES$$hub://cvyod/ant1/ekpompes/passenger.txt
 
 
@@ -2036,103 +2036,103 @@ http://.....
 #EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-logo="hub://logs/Alpha_Cyprus.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.alphacyprus.com.cy/shows/ellinikes-seires|webvod zoom=100 scroll=0,0
 
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Alpha/Το.σόι.σου.(2014-2019)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/to_soi_soy_2_3.jpg?itok=EQK7sK6u" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/tosoisou/webtv" ,ΤΟ ΣΟΪ ΣΟΥ (2014-2019)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Alpha/Το.σόι.σου.(2014-2019)" tvg-logo="hub://logseries/alphacy/to_soi_soy_2_3.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/tosoisou/webtv" ,ΤΟ ΣΟΪ ΣΟΥ (2014-2019)
 SERIES$$hub://cvyod/alpha/sires/tosoisou.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Alphacy/beba.(2025)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/beba-cover_0.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/beba" ,ΜΠΕΜΠΑ (2025)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Alphacy/beba.(2025)" tvg-logo="hub://logseries/alphacy/beba-cover_0.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/beba" ,ΜΠΕΜΠΑ (2025)
 SERIES$$hub://cvyod/alpha/sires/beba.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία, κοινωνική, οικογενειακή" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2025-2026/SEIRES/TROMEROI-GONEIS/THUMB-TROMEROI-GONEIS.png"  tvg-description="hub://desc/Alpha/Τρομεροί.γονείς.(2025)" ,Τρομεροί γονείς (2025)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία, κοινωνική, οικογενειακή" tvg-logo="hub://logseries/alphacy/THUMB-TROMEROI-GONEIS.png"  tvg-description="hub://desc/Alpha/Τρομεροί.γονείς.(2025)" ,Τρομεροί γονείς (2025)
 SERIES$$hub://cvyod/alpha/sires/tromeroigoneis.txt
 #EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-logo="hub://logseries/alphacy/Τοσπίτιδίπλαστοποτάμι2025.jpg"  tvg-description="hub://desc/Alpha/Το.σπίτι.δίπλα.στο.ποτάμι.(2025)" ,Το σπίτι δίπλα στο ποτάμι (Aphatv μόνο) (2025)
 SERIES$$hub://cvyod/alpha/sires/tospitidiplastopotami.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2025-2026/SEIRES/NA-MAGAPAS/THUMB_NA-MAGAPAS.png" tvg-description="hub://desc/Alpha/Να.μ.αγαπάς.(2025)" ,Να μ' αγαπάς (Aphatv μόνο) (2025)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-logo="hub://logseries/alphacy/THUMB_NA-MAGAPAS.png" tvg-description="hub://desc/Alpha/Να.μ.αγαπάς.(2025)" ,Να μ' αγαπάς (Aphatv μόνο) (2025)
 SERIES$$hub://cvyod/alpha/sires/namagapas.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-logo="https://www.alphatv.gr/images/470x247/files/00_ALPHA_PHOTOS/2025-2026/SEIRES/NA-ME-LES-MAMA/THUMB/THUMB_MAMA_1.png"  tvg-description="hub://desc/Alpha/Να.με.λες.μαμά.(2025)" ,Να με λες μαμά (Aphatv μόνο) (2025)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-logo="hub://logseries/alphacy/THUMB_MAMA_1.png"  tvg-description="hub://desc/Alpha/Να.με.λες.μαμά.(2025)" ,Να με λες μαμά (Aphatv μόνο) (2025)
 SERIES$$hub://cvyod/alpha/sires/namelesmama.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Alpha/Άγιος.έρωτας.(2024-2025)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/ae.jpg?itok=54PmyZyP" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/agioserotas/webtv" ,ΑΓΙΟΣ ΕΡΩΤΑΣ (2024-2025)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Alpha/Άγιος.έρωτας.(2024-2025)" tvg-logo="hub://logseries/alphacy/ae.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/agioserotas/webtv" ,ΑΓΙΟΣ ΕΡΩΤΑΣ (2024-2025)
 SERIES$$hub://cvyod/alpha/sires/agioserotas.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Mega/Η.γη.της.ελιάς.(2021-2025)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/GITISELIAS_0.jpg?itok=lV1cnXFi" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/igitiselias/webtv" ,Η ΓΗ ΤΗΣ ΕΛΙΑΣ (2021-2025)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Mega/Η.γη.της.ελιάς.(2021-2025)" tvg-logo="hub://logseries/alphacy/GITISELIAS_0.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/igitiselias/webtv" ,Η ΓΗ ΤΗΣ ΕΛΙΑΣ (2021-2025)
 SERIES$$hub://cvyod/alpha/sires/igitiselias.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Alpha/Ο.γιατρός.(2023-2025)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/o giatros-web.jpg?itok=-bq52_zr" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/ogiatros/webtv" ,Ο ΓΙΑΤΡΟΣ (2023-2025)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Alpha/Ο.γιατρός.(2023-2025)" tvg-logo="hub://logseries/alphacy/o giatros-web.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/ogiatros/webtv" ,Ο ΓΙΑΤΡΟΣ (2023-2025)
 SERIES$$hub://cvyod/alpha/sires/ogiatros.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Alpha/oikogeneiakes-istories" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/webtv-oikogeneiakes-istories.jpg?itok=8k6oPWfa" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/oikogeneiakesistories/webtv" ,ΟΙΚΟΓΕΝΕΙΑΚΕΣ ΙΣΤΟΡΙΕΣ (2018-2025)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Alpha/oikogeneiakes-istories" tvg-logo="hub://logseries/alphacy/webtv-oikogeneiakes-istories.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/oikogeneiakesistories/webtv" ,ΟΙΚΟΓΕΝΕΙΑΚΕΣ ΙΣΤΟΡΙΕΣ (2018-2025)
 SERIES$$hub://cvyod/alpha/sires/oikogeneiakesistories.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Alpha/Η.κατάρα.της.Τζέλας.Δελαφράγκα.(2024)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/TZELA.jpg?itok=Eic9f8Sz" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/tzela" ,Η ΚΑΤΑΡΑ ΤΗΣ ΤΖΕΛΑΣ ΔΕΛΑΦΡΑΓΚΑ (2024)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Alpha/Η.κατάρα.της.Τζέλας.Δελαφράγκα.(2024)" tvg-logo="hub://logseries/alphacy/TZELA.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/tzela" ,Η ΚΑΤΑΡΑ ΤΗΣ ΤΖΕΛΑΣ ΔΕΛΑΦΡΑΓΚΑ (2024)
 SERIES$$hub://cvyod/alpha/sires_arxio/tzela.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία, οικογενειακή" tvg-description="hub://desc/Mega/Έχω.παιδιά.(2024-2025)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/exwpaidia.jpg?itok=4sT3cS-H" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/exwpaidia/webtv" ,ΕΧΩ ΠΑΙΔΙΑ (2024-2025)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία, οικογενειακή" tvg-description="hub://desc/Mega/Έχω.παιδιά.(2024-2025)" tvg-logo="hub://logseries/alphacy/exwpaidia.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/exwpaidia/webtv" ,ΕΧΩ ΠΑΙΔΙΑ (2024-2025)
 SERIES$$hub://cvyod/alpha/sires_arxio/exwpaidia.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, κοινωνική" tvg-description="hub://desc/Mega/Ταμπού.(2024-2025)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/temp-header-web_4.jpg?itok=uo5z4Pmj" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/taboo/webtv" ,ΤΑΜΠΟΥ (2024-2025)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, κοινωνική" tvg-description="hub://desc/Mega/Ταμπού.(2024-2025)" tvg-logo="hub://logseries/alphacy/temp-header-web_4.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/taboo/webtv" ,ΤΑΜΠΟΥ (2024-2025)
 SERIES$$hub://cvyod/alpha/sires_arxio/taboo.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Alpha/Ο.τιμωρός.(2024-2025)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/temp-header-web_2.jpg?itok=TLc7jfC8" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/timoros/webtv" ,Ο ΤΙΜΩΡΟΣ (2024-2025)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Alpha/Ο.τιμωρός.(2024-2025)" tvg-logo="hub://logseries/alphacy/temp-header-web_2.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/timoros/webtv" ,Ο ΤΙΜΩΡΟΣ (2024-2025)
 SERIES$$hub://cvyod/alpha/sires_arxio/timoros.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, κοινωνική" tvg-description="hub://desc/Alpha/Αμφιβολίες.(2022-2024)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/amfivolies.jpg?itok=dYjLyjEx" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/amfivolies/webtv" ,ΑΜΦΙΒΟΛΙΕΣ (2022-2024)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, κοινωνική" tvg-description="hub://desc/Alpha/Αμφιβολίες.(2022-2024)" tvg-logo="hub://logseries/alphacy/amfivolies.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/amfivolies/webtv" ,ΑΜΦΙΒΟΛΙΕΣ (2022-2024)
 SERIES$$hub://cvyod/alpha/sires_arxio/amfivolies.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Mega/Famagusta.(2024)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/famagusta.jpg?itok=00ijKr38" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/famagusta/webtv" ,FAMAGUSTA (2024)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Mega/Famagusta.(2024)" tvg-logo="hub://logseries/alphacy/famagusta.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/famagusta/webtv" ,FAMAGUSTA (2024)
 SERIES$$hub://cvyod/alpha/sires_arxio/famagusta.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Alpha/Σασμός.(2021-2024)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/sasmos_0.jpg?itok=abYmVahQ" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/sasmos/webtv" ,ΣΑΣΜΟΣ (2021-2024)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Alpha/Σασμός.(2021-2024)" tvg-logo="hub://logseries/alphacy/sasmos_0.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/sasmos/webtv" ,ΣΑΣΜΟΣ (2021-2024)
 SERIES$$hub://cvyod/alpha/sires_arxio/sasmos.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Alpha/Ο.παράδεισος.των.κυριών.(2022-2024)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/paradeisos_0.jpg?itok=kOggyduf" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/paradeisos/webtv" ,Ο ΠΑΡΑΔΕΙΣΟΣ ΤΩΝ ΚΥΡΙΩΝ (2022-2024)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Alpha/Ο.παράδεισος.των.κυριών.(2022-2024)" tvg-logo="hub://logseries/alphacy/paradeisos_0.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/paradeisos/webtv" ,Ο ΠΑΡΑΔΕΙΣΟΣ ΤΩΝ ΚΥΡΙΩΝ (2022-2024)
 SERIES$$hub://cvyod/alpha/sires_arxio/paradeisos.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Alpha/Το.προξενιό.της.Ιουλίας.(2023-2024)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/toproxenio-2.jpg?itok=r6SPWxQF" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/toproxeniotisioulias/webtv" ,ΤΟ ΠΡΟΞΕΝΙΟ ΤΗΣ ΙΟΥΛΙΑΣ (2023-2024)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Alpha/Το.προξενιό.της.Ιουλίας.(2023-2024)" tvg-logo="hub://logseries/alphacy/toproxenio-2.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/toproxeniotisioulias/webtv" ,ΤΟ ΠΡΟΞΕΝΙΟ ΤΗΣ ΙΟΥΛΙΑΣ (2023-2024)
 SERIES$$hub://cvyod/alpha/sires_arxio/toproxeniotisioulias.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="έγκλημα, μυστηρίου" tvg-description="hub://desc/Alpha/Ο.σκαραβαίος.(2024)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/ΣΚΑΡΑΒΑΙΟΣ (2) ._1.jpg?itok=HcSgsGhK" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/skaravaios/webtv" ,Ο ΣΚΑΡΑΒΑΙΟΣ (2024)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="έγκλημα, μυστηρίου" tvg-description="hub://desc/Alpha/Ο.σκαραβαίος.(2024)" tvg-logo="hub://logseries/alphacy/ΣΚΑΡΑΒΑΙΟΣ (2) ._1.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/skaravaios/webtv" ,Ο ΣΚΑΡΑΒΑΙΟΣ (2024)
 SERIES$$hub://cvyod/alpha/sires_arxio/skaravaios.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Alpha/Μην.αρχίζεις.τη.μουρμούρα.(2013-2024)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/murmura-2_0.jpg?itok=th8qEubB" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/mourmoura/webtv" ,ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗ ΜΟΥΡΜΟΥΡΑ (2013-2024)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Alpha/Μην.αρχίζεις.τη.μουρμούρα.(2013-2024)" tvg-logo="hub://logseries/alphacy/murmura-2_0.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/mourmoura/webtv" ,ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗ ΜΟΥΡΜΟΥΡΑ (2013-2024)
 SERIES$$hub://cvyod/alpha/sires_arxio/mourmoura.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Alpha/Φόνοι.στο.καμπαναριό.(2023)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/fonoi-1_0.jpg?itok=NKBOzQ0n" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/fonoistokabanario/webtv" ,ΦΟΝΟΙ ΣΤΟ ΚΑΜΠΑΝΑΡΙΟ (2023)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Alpha/Φόνοι.στο.καμπαναριό.(2023)" tvg-logo="hub://logseries/alphacy/fonoi-1_0.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/fonoistokabanario/webtv" ,ΦΟΝΟΙ ΣΤΟ ΚΑΜΠΑΝΑΡΙΟ (2023)
 SERIES$$hub://cvyod/alpha/sires_arxio/fonoistokabanario.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, έγκλημα" tvg-description="hub://desc/Alphacy/Κάρμα.(2018-2023)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/karma revised.png?itok=UoDwkJsK" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/karma/webtv" ,ΚΑΡΜΑ (2018-2023)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, έγκλημα" tvg-description="hub://desc/Alphacy/Κάρμα.(2018-2023)" tvg-logo="hub://logseries/alphacy/karma revised.png" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/karma/webtv" ,ΚΑΡΜΑ (2018-2023)
 SERIES$$hub://cvyod/alpha/sires_arxio/karma.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Alpha/Αυτή.η.νύχτα.μένει.(2022-2023)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/nyxta.jpg?itok=zv49zFja" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/nyxta/webtv" ,ΑΥΤΗ Η ΝΥΧΤΑ ΜΕΝΕΙ (2022-2023)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Alpha/Αυτή.η.νύχτα.μένει.(2022-2023)" tvg-logo="hub://logseries/alphacy/nyxta.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/nyxta/webtv" ,ΑΥΤΗ Η ΝΥΧΤΑ ΜΕΝΕΙ (2022-2023)
 SERIES$$hub://cvyod/alpha/sires_arxio/nyxta.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Alphacy/Κάμπινγκ.(2020-2022)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/camping_1.jpg?itok=gtyM7Irz" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/camping/webtv" ,ΚΑΜΠΙΝΓΚ (2020-2022)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Alphacy/Κάμπινγκ.(2020-2022)" tvg-logo="hub://logseries/alphacy/camping_1.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/camping/webtv" ,ΚΑΜΠΙΝΓΚ (2020-2022)
 SERIES$$hub://cvyod/alpha/sires_arxio/camping.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Alpha/Αγγελική.(2020-2021)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/aggeliki.jpg?itok=ZuYvJkTk" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/aggeliki/webtv" ,ΑΓΓΕΛΙΚΗ (2020-2021)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Alpha/Αγγελική.(2020-2021)" tvg-logo="hub://logseries/alphacy/aggeliki.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/aggeliki/webtv" ,ΑΓΓΕΛΙΚΗ (2020-2021)
 SERIES$$hub://cvyod/alpha/sires_arxio/aggeliki.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Skai/8.λέξεις.(2019-2021)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/8-lexeis.jpg?itok=b-8NH2NR" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/8lexeis/webtv" ,8 ΛΕΞΕΙΣ (2019-2021)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Skai/8.λέξεις.(2019-2021)" tvg-logo="hub://logseries/alphacy/8-lexeis.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/8lexeis/webtv" ,8 ΛΕΞΕΙΣ (2019-2021)
 SERIES$$hub://cvyod/alpha/sires_arxio/8lexeis.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Alpha/Έλα.στη.θέση.μου.(2016-2021)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/thesi-4.jpg?itok=LzF4Jw4u" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/elastithesimou/webtv" ,ΕΛΑ ΣΤΗ ΘΕΣΗ ΜΟΥ (2016-2021)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Alpha/Έλα.στη.θέση.μου.(2016-2021)" tvg-logo="hub://logseries/alphacy/thesi-4.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/elastithesimou/webtv" ,ΕΛΑ ΣΤΗ ΘΕΣΗ ΜΟΥ (2016-2021)
 SERIES$$hub://cvyod/alpha/sires_arxio/elastithesimou.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Alpha/Αστέρια.στην.άμμο.(2019-2020)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/Accordion-image-2.jpg?itok=pmiasFj9" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/asteriastinammo/webtv" ,ΑΣΤΕΡΙΑ ΣΤΗΝ ΑΜΜΟ (2019-2020)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Alpha/Αστέρια.στην.άμμο.(2019-2020)" tvg-logo="hub://logseries/alphacy/Accordion-image-2.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/asteriastinammo/webtv" ,ΑΣΤΕΡΙΑ ΣΤΗΝ ΑΜΜΟ (2019-2020)
 SERIES$$hub://cvyod/alpha/sires_arxio/asteriastinammo.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική, μυστηρίου" tvg-description="hub://desc/Alpha/Έρωτας.μετά.(2019-2020)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/ΕΡΩΤΑΣ-2.jpg?itok=SgXS97C7" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/erwtasmeta/webtv" ,ΕΡΩΤΑΣ ΜΕΤΑ (2019-2020)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική, μυστηρίου" tvg-description="hub://desc/Alpha/Έρωτας.μετά.(2019-2020)" tvg-logo="hub://logseries/alphacy/ΕΡΩΤΑΣ-2.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/erwtasmeta/webtv" ,ΕΡΩΤΑΣ ΜΕΤΑ (2019-2020)
 SERIES$$hub://cvyod/alpha/sires_arxio/erwtasmeta.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="οικογενειακή" tvg-description="hub://desc/Alphacy/Η.φαμίλια.(2018-2020)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/accordion-1_12.jpg?itok=elydYU0P" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/familia/webtv" ,Η ΦΑΜΙΛΙΑ (2018-2020)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="οικογενειακή" tvg-description="hub://desc/Alphacy/Η.φαμίλια.(2018-2020)" tvg-logo="hub://logseries/alphacy/accordion-1_12.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/familia/webtv" ,Η ΦΑΜΙΛΙΑ (2018-2020)
 SERIES$$hub://cvyod/alpha/sires_arxio/familia.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Ant1/Γυναίκα.χωρίς.όνομα.(2018-2020)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/accordion-1_9.jpg?itok=T9XO6rPy" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/gynaikaxwrisonoma/webtv" ,ΓΥΝΑΙΚΑ ΧΩΡΙΣ ΟΝΟΜΑ (2018-2020)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Ant1/Γυναίκα.χωρίς.όνομα.(2018-2020)" tvg-logo="hub://logseries/alphacy/accordion-1_9.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/gynaikaxwrisonoma/webtv" ,ΓΥΝΑΙΚΑ ΧΩΡΙΣ ΟΝΟΜΑ (2018-2020)
 SERIES$$hub://cvyod/alpha/sires_arxio/gynaikaxwrisonoma.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία, οικογενειακή" tvg-description="hub://desc/Alpha/Σπίτι.είναι....(2019)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/spiti_einai._1.jpg?itok=tXE3ByaX" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/spitieinai/webtv" ,ΣΠΙΤΙ ΕΙΝΑΙ (2019)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία, οικογενειακή" tvg-description="hub://desc/Alpha/Σπίτι.είναι....(2019)" tvg-logo="hub://logseries/alphacy/spiti_einai._1.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/spitieinai/webtv" ,ΣΠΙΤΙ ΕΙΝΑΙ (2019)
 SERIES$$hub://cvyod/alpha/sires_arxio/spitieinai.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κοινωνική" tvg-description="hub://desc/Alphacy/Μπλε.(2018-2019)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/mble-full-shadow.jpg?itok=Majuvz48" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/mple/webtv" ,ΜΠΛΕ (2018-2019)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κοινωνική" tvg-description="hub://desc/Alphacy/Μπλε.(2018-2019)" tvg-logo="hub://logseries/alphacy/mble-full-shadow.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/mple/webtv" ,ΜΠΛΕ (2018-2019)
 SERIES$$hub://cvyod/alpha/sires_arxio/mple.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Alpha/Κρατάς.μυστικό;.(2019-2020)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/2_9.jpg?itok=kix1R7dT" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/kratasmystiko/webtv" ,ΚΡΑΤΑΣ ΜΥΣΤΙΚΟ; (2019-2020)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Alpha/Κρατάς.μυστικό;.(2019-2020)" tvg-logo="hub://logseries/alphacy/2_9.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/kratasmystiko/webtv" ,ΚΡΑΤΑΣ ΜΥΣΤΙΚΟ; (2019-2020)
 SERIES$$hub://cvyod/alpha/sires_arxio/kratasmystiko.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-description="hub://desc/Alphacy/Τα.16.γράμματα.(2019)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/tatoyaz_slider1_2.jpg?itok=NgZk73GK" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/16grammata/webtv" ,ΤΑ 16 ΓΡΑΜΜΑΤΑ (2019)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-description="hub://desc/Alphacy/Τα.16.γράμματα.(2019)" tvg-logo="hub://logseries/alphacy/tatoyaz_slider1_2.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/16grammata/webtv" ,ΤΑ 16 ΓΡΑΜΜΑΤΑ (2019)
 SERIES$$hub://cvyod/alpha/sires_arxio/16grammata.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία, δράμα, μυστηρίου" tvg-description="hub://desc/Alpha/Κόκκινο.νυφικό.(2017)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/imgp9773.jpg?itok=yYJqcnhu" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/kokkinonyfiko/webtv" ,ΚΟΚΚΙΝΟ ΝΥΦΙΚΟ (2017)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία, δράμα, μυστηρίου" tvg-description="hub://desc/Alpha/Κόκκινο.νυφικό.(2017)" tvg-logo="hub://logseries/alphacy/imgp9773.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/kokkinonyfiko/webtv" ,ΚΟΚΚΙΝΟ ΝΥΦΙΚΟ (2017)
 SERIES$$hub://cvyod/alpha/sires_arxio/kokkinonyfiko.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, έγκλημα" tvg-description="hub://desc/Alpha/Το.τατουάζ.(2017-2019)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/tatoyaz_slider2_2.jpg?itok=835pGYtl" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/totatouaz/webtv" ,ΤΟ ΤΑΤΟΥΑΖ (2017-2019)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, έγκλημα" tvg-description="hub://desc/Alpha/Το.τατουάζ.(2017-2019)" tvg-logo="hub://logseries/alphacy/tatoyaz_slider2_2.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/totatouaz/webtv" ,ΤΟ ΤΑΤΟΥΑΖ (2017-2019)
 SERIES$$hub://cvyod/alpha/sires_arxio/totatouaz.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Alpha/Παραμύθι....αλλιώς.(2017)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/paramythi_n_arhinisei_2.jpg?itok=4n_QJPIn" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/paramythiallios/webtv" ,ΠΑΡΑΜΥΘΙ... ΑΛΛΙΩΣ (2017)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Alpha/Παραμύθι....αλλιώς.(2017)" tvg-logo="hub://logseries/alphacy/paramythi_n_arhinisei_2.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/paramythiallios/webtv" ,ΠΑΡΑΜΥΘΙ... ΑΛΛΙΩΣ (2017)
 SERIES$$hub://cvyod/alpha/sires_arxio/paramythiallios.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Alpha/Αστέρας.Ραχούλας.(2016-2017)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/img_1369_0.jpg?itok=agExupCg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/asterasrahoulas/webtv" ,ΑΣΤΕΡΑΣ ΡΑΧΟΥΛΑΣ (2016-2017)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Alpha/Αστέρας.Ραχούλας.(2016-2017)" tvg-logo="hub://logseries/alphacy/img_1369_0.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/asterasrahoulas/webtv" ,ΑΣΤΕΡΑΣ ΡΑΧΟΥΛΑΣ (2016-2017)
 SERIES$$hub://cvyod/alpha/sires_arxio/asterasrahoulas.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Alpha/Η.λέξη.που.δε.λες.(2016-2017)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/i_lexi_poy_den_les_-_giorgos_stentoymis_2.jpg?itok=NQSbt-nI" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/ileksipoudenles/webtv" ,Η ΛΕΞΗ ΠΟΥ ΔΕ ΛΕΣ (2016-2017)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Alpha/Η.λέξη.που.δε.λες.(2016-2017)" tvg-logo="hub://logseries/alphacy/i_lexi_poy_den_les_-_giorgos_stentoymis_2.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/ileksipoudenles/webtv" ,Η ΛΕΞΗ ΠΟΥ ΔΕ ΛΕΣ (2016-2017)
 SERIES$$hub://cvyod/alpha/sires_arxio/ileksipoudenles.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική, βιογραφία" tvg-description="hub://desc/Alpha/Έχω.ένα.μυστικό.(2008-2009)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/eho_ena_mystiko_katerina_papoytsaki_alexandros_mpoyrdoymis_3.jpg?itok=Nnmcfo9Q" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/exoenamystiko/webtv" ,ΕΧΩ ΕΝΑ ΜΥΣΤΙΚΟ (2008-2009)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική, βιογραφία" tvg-description="hub://desc/Alpha/Έχω.ένα.μυστικό.(2008-2009)" tvg-logo="hub://logseries/alphacy/eho_ena_mystiko_katerina_papoytsaki_alexandros_mpoyrdoymis_3.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/exoenamystiko/webtv" ,ΕΧΩ ΕΝΑ ΜΥΣΤΙΚΟ (2008-2009)
 SERIES$$hub://cvyod/alpha/sires_arxio/exoenamystiko.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Alpha/Υπέροχα.πλάσματα.(2007-2008)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/yperoxa-plasmata.jpg?itok=gklFoWZu" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/yperoxaplasmata/webtv" ,ΥΠΕΡΟΧΑ ΠΛΑΣΜΑΤΑ (2007-2008)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Alpha/Υπέροχα.πλάσματα.(2007-2008)" tvg-logo="hub://logseries/alphacy/yperoxa-plasmata.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/yperoxaplasmata/webtv" ,ΥΠΕΡΟΧΑ ΠΛΑΣΜΑΤΑ (2007-2008)
 SERIES$$hub://cvyod/alpha/sires_arxio/yperoxaplasmata.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία, ρομαντική" tvg-description="hub://desc/Alpha/Σε.είδα.(2008)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/se_eida_o_proin_kai_o_epomenos_niki_mpeligianni_thanos_tokakis_elina_malama_giannis_aivazis.jpg?itok=IXGGZuxc" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/seeida/webtv" ,ΣΕ ΕΙΔΑ (2008)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία, ρομαντική" tvg-description="hub://desc/Alpha/Σε.είδα.(2008)" tvg-logo="hub://logseries/alphacy/se_eida_o_proin_kai_o_epomenos_niki_mpeligianni_thanos_tokakis_elina_malama_giannis_aivazis.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/seeida/webtv" ,ΣΕ ΕΙΔΑ (2008)
 SERIES$$hub://cvyod/alpha/sires_arxio/seeida.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, δράση, έγκλημα" tvg-description="hub://desc/Alpha/10η.Εντολή.(2004-2015)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/10ientoli_0.png?itok=26Gr7sQu" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/10hentoli/webtv" ,10Η ΕΝΤΟΛΗ (2004-2015)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, δράση, έγκλημα" tvg-description="hub://desc/Alpha/10η.Εντολή.(2004-2015)" tvg-logo="hub://logseries/alphacy/10ientoli_0.png" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/10hentoli/webtv" ,10Η ΕΝΤΟΛΗ (2004-2015)
 SERIES$$hub://cvyod/alpha/sires_arxio/10hentoli.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία, οικογενειακή" tvg-description="hub://desc/Alpha/Άσε.μας.ρε.μαμά.(2021-2022)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/asemasremama.jpg?itok=BY1bx6gx" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/asemasremama/webtv" ,ΑΣΕ ΜΑΣ ΡΕ ΜΑΜΑ (2021-2022)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="κωμωδία, οικογενειακή" tvg-description="hub://desc/Alpha/Άσε.μας.ρε.μαμά.(2021-2022)" tvg-logo="hub://logseries/alphacy/asemasremama.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/asemasremama/webtv" ,ΑΣΕ ΜΑΣ ΡΕ ΜΑΜΑ (2021-2022)
 SERIES$$hub://cvyod/alpha/sires_arxio/asemasremama.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Alphacy/Σαν.οικογένεια.(2016-2017)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/accordionwithoutlogo_0.jpg?itok=2GjaPMkt" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/sanoikogeneia/webtv" ,ΣΑΝ ΟΙΚΟΓΕΝΕΙΑ (2016-2017)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Alphacy/Σαν.οικογένεια.(2016-2017)" tvg-logo="hub://logseries/alphacy/accordionwithoutlogo_0.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/sanoikogeneia/webtv" ,ΣΑΝ ΟΙΚΟΓΕΝΕΙΑ (2016-2017)
 SERIES$$hub://cvyod/alpha/sires_arxio/sanoikogeneia.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, κοινωνική" tvg-description="hub://desc/Ant1CY/Τα.μαύρα.μάθκια.(2016-2017)" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/mavra_mathkia.jpg?itok=zIMKNLV9" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/tamavramathkia/webtv" ,ΤΑ ΜΑΥΡΑ ΜΑΘΚΙΑ (2016-2017)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα, κοινωνική" tvg-description="hub://desc/Ant1CY/Τα.μαύρα.μάθκια.(2016-2017)" tvg-logo="hub://logseries/alphacy/mavra_mathkia.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/tamavramathkia/webtv" ,ΤΑ ΜΑΥΡΑ ΜΑΘΚΙΑ (2016-2017)
 SERIES$$hub://cvyod/alpha/sires_arxio/tamavramathkia.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Alphacy/Σμύρνη.μου.αγαπημένη.(2022)" tvg-logo="https://greek-movies.com/icon/series/Σμύρνημουαγαπημένη2022.jpg" ,Σμύρνη μου αγαπημένη (2022)
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Alphacy/Σμύρνη.μου.αγαπημένη.(2022)" tvg-logo="hub://logseries/alphacy/Σμύρνημουαγαπημένη2022.jpg" ,Σμύρνη μου αγαπημένη (2022)
 SERIES$$hub://cvyod/alpha/sires_arxio/Σμύρνη.μου.αγαπημένη.(2022)
 
 
@@ -2142,125 +2142,125 @@ http://.....
 #EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logs/Alpha_Cyprus.png" ,ΟΛΕΣ ΟΙ ΕΚΠΟΜΠΕΣ
 https://www.alphacyprus.com.cy/index.php/shows/entertainment|webvod zoom=100 scroll=0,0
 
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/islandescapers.jpg?itok=wHPl_9Ht" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/islandescapers" ,ISLAND ESCAPERS
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/islandescapers.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/islandescapers" ,ISLAND ESCAPERS
 SERIES$$hub://cvyod/alpha/ekpompes/islandescapers.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/noleftovers.jpg?itok=BgT9ufXF" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/noleftovers" ,NO LEFTOVERS
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/noleftovers.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/noleftovers" ,NO LEFTOVERS
 SERIES$$hub://cvyod/alpha/ekpompes/noleftovers.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/christianaaristostelous-3.jpg?itok=364xofsL" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv" ,ΜΕ ΑΓΑΠΗ ΧΡΙΣΤΙΑΝΑ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/christianaaristostelous-3.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv" ,ΜΕ ΑΓΑΠΗ ΧΡΙΣΤΙΑΝΑ
 SERIES$$hub://cvyod/alpha/ekpompes/meagapichristiana.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/louis-4.jpg?itok=UD6JhVK-" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv" ,ΛΟΥΗΣ NIGHT SHOW
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/louis-4.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/louisnightshow/webtv" ,ΛΟΥΗΣ NIGHT SHOW
 SERIES$$hub://cvyod/alpha/ekpompes/louisnightshow.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/paradosiaki-4.jpg?itok=RrWsBqY7" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/paradosiakivradia/webtv" ,ΠΑΡΑΔΟΣΙΑΚΗ ΒΡΑΔΙΑ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/paradosiaki-4.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/paradosiakivradia/webtv" ,ΠΑΡΑΔΟΣΙΑΚΗ ΒΡΑΔΙΑ
 SERIES$$hub://cvyod/alpha/ekpompes/paradosiakivradia.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/temp-header-web_1.jpg?itok=wtQZ5QQq" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv" ,DEAL
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/temp-header-web_1.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv" ,DEAL
 SERIES$$hub://cvyod/alpha/ekpompes/deal.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/temp-header-web.jpg?itok=D52P3lxp" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/poiosrwtaei/webtv" ,ΠΟΙΟΣ ΡΩΤΑΕΙ;
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/temp-header-web.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/poiosrwtaei/webtv" ,ΠΟΙΟΣ ΡΩΤΑΕΙ;
 SERIES$$hub://cvyod/alpha/ekpompes/poiosrwtaei.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/tetatet.jpg?itok=155jiGKa" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv" ,ΤΕΤ-Α-ΤΕΤ ΣΤΟΝ ALPHA
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/tetatet.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/tetatet/webtv" ,ΤΕΤ-Α-ΤΕΤ ΣΤΟΝ ALPHA
 SERIES$$hub://cvyod/alpha/ekpompes/tetatet.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/sn-1_0.jpg?itok=rpWqj5kP" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/sundaynight" ,SUNDAY NIGHT
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/sn-1_0.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/sundaynight" ,SUNDAY NIGHT
 SERIES$$hub://cvyod/alpha/ekpompes/sundaynight.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/secretsong.jpg?itok=I10wtvn4" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/thesecretsong/webtv" ,THE SECRET SONG
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/secretsong.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/thesecretsong/webtv" ,THE SECRET SONG
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/thesecretsong.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/Just the 2 of Us.jpg?itok=s2FrP38l" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/j2us/webtv" ,JUST THE 2 OF US
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/Just the 2 of Us.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/j2us/webtv" ,JUST THE 2 OF US
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/j2us.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/tippingpoint.jpg?itok=w-7dHSFd" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/tippingpoint/webtv" ,TIPPING POINΤ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/tippingpoint.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/tippingpoint/webtv" ,TIPPING POINΤ
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/tippingpoint.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/pazari.jpg?itok=MscjK5YY" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/topiomegalopazari/webtv" ,ΤΟ ΠΙΟ ΜΕΓΑΛΟ ΠΑΖΑΡΙ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/pazari.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/topiomegalopazari/webtv" ,ΤΟ ΠΙΟ ΜΕΓΑΛΟ ΠΑΖΑΡΙ
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/topiomegalopazari.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/24wres_0.jpg?itok=qogDRWA3" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/24wres/webtv" ,24 ΩΡΕΣ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/24wres_0.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/24wres/webtv" ,24 ΩΡΕΣ
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/24wres.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/tounel.jpg?itok=h6qv8cOy" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/fosstotounel/webtv" ,ΦΩΣ ΣΤΟ ΤΟΥΝΕΛ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/tounel.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/fosstotounel/webtv" ,ΦΩΣ ΣΤΟ ΤΟΥΝΕΛ
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/fosstotounel.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/chart-show-2.jpg?itok=RxdrZR-K" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/chartshow/webtv" ,CHART SHOW - YOUR COUNTDOWN
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/chart-show-2.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/chartshow/webtv" ,CHART SHOW - YOUR COUNTDOWN
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/chartshow.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/chase-2_2.jpg?itok=Gm9qp-hC" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/thechase/webtv" ,THE CHASE
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/chase-2_2.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/thechase/webtv" ,THE CHASE
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/thechase.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/ti-fasi.jpg?itok=-fSe3Z_T" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/tifasi/webtv" ,ΤΙ ΦΑΣΗ;
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/ti-fasi.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/tifasi/webtv" ,ΤΙ ΦΑΣΗ;
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/tifasi.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/stylemeup-3.jpg?itok=-Pae-WG4" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/stylemeup/webtv" ,STYLE ME UP
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/stylemeup-3.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/stylemeup/webtv" ,STYLE ME UP
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/stylemeup.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/bachelor-2.jpg?itok=wabyeTGX" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/thebachelor/webtv" ,THE BACHELOR
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/bachelor-2.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/thebachelor/webtv" ,THE BACHELOR
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/thebachelor.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/protagonistes-1.jpg?itok=nbwLXv17" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/protagonistes/webtv" ,ΠΡΩΤΑΓΩΝΙΣΤΕΣ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/protagonistes-1.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/protagonistes/webtv" ,ΠΡΩΤΑΓΩΝΙΣΤΕΣ
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/protagonistes.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/paradosi-21.jpg?itok=AGBqbZIR" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/paradosikatoikon/webtv" ,ΠΑΡΑΔΟΣΗ ΚΑΤ’ ΟΙΚΟΝ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/paradosi-21.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/paradosikatoikon/webtv" ,ΠΑΡΑΔΟΣΗ ΚΑΤ’ ΟΙΚΟΝ
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/paradosikatoikon.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/accordion_8.jpg?itok=inGQ5Aqk" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/mesanyxta/webtv" ,ΜΕΣΑΝΥΧΤΑ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/accordion_8.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/mesanyxta/webtv" ,ΜΕΣΑΝΥΧΤΑ
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/mesanyxta.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/teleia-apodrasi.jpg?itok=EG0eb0_u" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/teleiaapodrasi/webtv" ,Η ΤΕΛΕΙΑ ΑΠΟΔΡΑΣΗ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/teleia-apodrasi.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/teleiaapodrasi/webtv" ,Η ΤΕΛΕΙΑ ΑΠΟΔΡΑΣΗ
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/teleiaapodrasi.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/sma23.jpg?itok=G45fFrrK" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/supermusicawards2023/webtv" ,SUPER MUSIC AWARDS
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/sma23.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/supermusicawards2023/webtv" ,SUPER MUSIC AWARDS
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/supermusicawards2023.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/botc.jpg?itok=eLDBAMoy" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/battleofthecouples/webtv" ,BATTLE OF THE COUPLES
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/botc.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/battleofthecouples/webtv" ,BATTLE OF THE COUPLES
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/battleofthecouples.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/hollywood.jpg?itok=0VJz_Pu2" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/istoriestouhollywood/webtv" ,ΙΣΤΟΡΙΕΣ ΤΟΥ HOLLYWOOD
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/hollywood.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/istoriestouhollywood/webtv" ,ΙΣΤΟΡΙΕΣ ΤΟΥ HOLLYWOOD
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/istoriestouhollywood.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/dwse vasi web.png?itok=a_9Htq_5" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/dosevasi/webtv" ,ΔΩΣΕ ΒΑΣΗ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/dwse vasi web.png" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/dosevasi/webtv" ,ΔΩΣΕ ΒΑΣΗ
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/dosevasi.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/efialtis-2.jpg?itok=E3CZuRO0" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/efialtis-stin-koyzina/webtv" ,ΕΦΙΑΛΤΗΣ ΣΤΗΝ ΚΟΥΖΙΝΑ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/efialtis-2.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/efialtis-stin-koyzina/webtv" ,ΕΦΙΑΛΤΗΣ ΣΤΗΝ ΚΟΥΖΙΝΑ
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/efialtis-stin-koyzina.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/varthakouri.png?itok=lf7nSPKP" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/adelinaxtypato/webtv" ,ΑΝΤΕΛΙΝΑ, ΧΤΥΠΑ ΤΟ ΚΟΥΔΟΥΝΙ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/varthakouri.png" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/adelinaxtypato/webtv" ,ΑΝΤΕΛΙΝΑ, ΧΤΥΠΑ ΤΟ ΚΟΥΔΟΥΝΙ
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/adelinaxtypato.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/mimasas.jpg?itok=As9eV77R" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/mi-masas/webtv" ,ΜΗ ΜΑΣΑΣ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/mimasas.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/mi-masas/webtv" ,ΜΗ ΜΑΣΑΣ
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/mi-masas.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/DIVIDED_0.png?itok=UKV04kfX" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/divided/webtv" ,DIVIDED
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/DIVIDED_0.png" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/divided/webtv" ,DIVIDED
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/divided.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/eleni_menegaki_1_4.jpg?itok=U8fIPyLg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/eleni/webtv" ,ΕΛΕΝΗ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/eleni_menegaki_1_4.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/eleni/webtv" ,ΕΛΕΝΗ
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/eleni.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/pano_kato_-_hristos_ferentinos.jpg?itok=LOp5j3Ug" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/panokato/webtv" ,ΠΑΝΩ ΚΑΤΩ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/pano_kato_-_hristos_ferentinos.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/panokato/webtv" ,ΠΑΝΩ ΚΑΤΩ
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/panokato.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/wpartyslider_0.png?itok=3be37hRR" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/worldparty/webtv" ,WORLD PARTY
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/wpartyslider_0.png" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/worldparty/webtv" ,WORLD PARTY
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/worldparty.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/tokas.jpg?itok=5PMCGV9w" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/mariostokas/webtv" ,ΑΦΙΕΡΩΜΑ ΣΤΟΝ ΜΑΡΙΟ ΤΟΚΑ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/tokas.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/mariostokas/webtv" ,ΑΦΙΕΡΩΜΑ ΣΤΟΝ ΜΑΡΙΟ ΤΟΚΑ
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/mariostokas.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/mh1_1755_copy.jpg?itok=nE4iFI-h" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/prwtoxroniastospitimas18/webtv" ,ΠΡΩΤΟΧΡΟΝΙΑ ΣΤΟ ΣΠΙΤΙ ΜΑΣ 2018
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/mh1_1755_copy.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/prwtoxroniastospitimas18/webtv" ,ΠΡΩΤΟΧΡΟΝΙΑ ΣΤΟ ΣΠΙΤΙ ΜΑΣ 2018
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/prwtoxroniastospitimas18.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/bake_off_greece_2.jpg?itok=1lYJukQ4" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/bakeoffgreece/webtv" ,BAKE OFF GREECE
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/bake_off_greece_2.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/bakeoffgreece/webtv" ,BAKE OFF GREECE
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/bakeoffgreece.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/_ktz5648.jpg?itok=GXxUgIN1" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/fatto/webtv" ,FATTO
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/_ktz5648.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/fatto/webtv" ,FATTO
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/fatto.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/27655246_1852132558161161_5256363759475150681_n_0 - Copy.jpg?itok=lx5JD-vw" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/notamiavradiatika/webtv" ,ΝΟΤΑ ΜΙΑ...ΒΡΑΔΙΑΤΙΚΑ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/27655246_1852132558161161_5256363759475150681_n_0 - Copy.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/notamiavradiatika/webtv" ,ΝΟΤΑ ΜΙΑ...ΒΡΑΔΙΑΤΙΚΑ
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/notamiavradiatika.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/vasilikihatziadamouthum.jpg?itok=qxobRBku" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/osoyparxountragoudia/webtv" ,ΟΣΟ ΥΠΑΡΧΟΥΝ ΤΡΑΓΟΥΔΙΑ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/vasilikihatziadamouthum.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/osoyparxountragoudia/webtv" ,ΟΣΟ ΥΠΑΡΧΟΥΝ ΤΡΑΓΟΥΔΙΑ
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/osoyparxountragoudia.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/christiana - Copy.png?itok=8sTHzqI4" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/prwtoxroniastospitimas17/webtv" ,ΠΡΩΤΟΧΡΟΝΙΑ ΣΤΟ ΣΠΙΤΙ ΜΑΣ 2017
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/christiana - Copy.png" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/prwtoxroniastospitimas17/webtv" ,ΠΡΩΤΟΧΡΟΝΙΑ ΣΤΟ ΣΠΙΤΙ ΜΑΣ 2017
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/prwtoxroniastospitimas17.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/untitled-croped.png?itok=AkUqX9qz" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/cupofjoy/webtv" ,CUP OF JOY
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/untitled-croped.png" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/cupofjoy/webtv" ,CUP OF JOY
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/cupofjoy.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/smaragda_karydi_3.jpg?itok=DXZoBPTR" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/notamia/webtv" ,ΝΟΤΑ ΜΙΑ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/smaragda_karydi_3.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/notamia/webtv" ,ΝΟΤΑ ΜΙΑ
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/notamia.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/2b.jpg?itok=jGwOvrn-" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/supersportarena/webtv" ,SUPER SPORT ΑΡΕΝΑ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/2b.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/supersportarena/webtv" ,SUPER SPORT ΑΡΕΝΑ
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/supersportarena.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/vaso_kollida_resized_1.jpg?itok=k1cwlJPb" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/tokalyterozevgari/webtv" ,ΤΟ ΚΑΛΥΤΕΡΟ ΖΕΥΓΑΡΙ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/vaso_kollida_resized_1.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/tokalyterozevgari/webtv" ,ΤΟ ΚΑΛΥΤΕΡΟ ΖΕΥΓΑΡΙ
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/tokalyterozevgari.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/kapl1129-_0.jpg?itok=J2HHhm4B" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/stodromo/webtv" ,ΣΤΟ ΔΡΟΜΟ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/kapl1129-_0.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/stodromo/webtv" ,ΣΤΟ ΔΡΟΜΟ
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/stodromo.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/kt1a0378_0.jpg?itok=FpcnA5QU" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/prwtoxroniastospitimas/webtv" ,ΠΡΩΤΟΧΡΟΝΙΑ ΣΤΟ ΣΠΙΤΙ ΜΑΣ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/kt1a0378_0.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/prwtoxroniastospitimas/webtv" ,ΠΡΩΤΟΧΡΟΝΙΑ ΣΤΟ ΣΠΙΤΙ ΜΑΣ
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/prwtoxroniastospitimas.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/xanadeste_toys_moytsinas_-_iliaki_-_synatsaki_crop.jpg?itok=LxPg4RiW" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/ksanadestetous/webtv" ,ΞΑΝΑΔΕΣΤΕ ΤΟΥΣ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/xanadeste_toys_moytsinas_-_iliaki_-_synatsaki_crop.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/ksanadestetous/webtv" ,ΞΑΝΑΔΕΣΤΕ ΤΟΥΣ
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/ksanadestetous.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/carousel/spita.png?itok=i2wbiVrR" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/spitimouspitakimou/webtv" ,ΣΠΙΤΙ ΜΟΥ ΣΠΙΤΑΚΙ ΜΟΥ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/spita.png" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/spitimouspitakimou/webtv" ,ΣΠΙΤΙ ΜΟΥ ΣΠΙΤΑΚΙ ΜΟΥ
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/spitimouspitakimou.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/spyros_haritatos_1_0.jpg?itok=Gz_Pm_8d" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/aneidikeftosergatis/webtv" ,ΑΝΕΙΔΙΚΕΥΤΟΣ ΕΡΓΑΤΗΣ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/spyros_haritatos_1_0.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/aneidikeftosergatis/webtv" ,ΑΝΕΙΔΙΚΕΥΤΟΣ ΕΡΓΑΤΗΣ
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/aneidikeftosergatis.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/geit45_0.png?itok=JDwa5x6A" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/stigeitoniamas/webtv" ,ΣΤΗ ΓΕΙΤΟΝΙΑ ΜΑΣ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/geit45_0.png" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/stigeitoniamas/webtv" ,ΣΤΗ ΓΕΙΤΟΝΙΑ ΜΑΣ
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/stigeitoniamas.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/vrabd.jpg?itok=mc-40Y5E" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/vradiatika/webtv" ,ΑΚΟΥ ΤΙ ΕΙΠΑΝ! ΒΡΑΔΙΑΤΙΚΑ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/vrabd.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/vradiatika/webtv" ,ΑΚΟΥ ΤΙ ΕΙΠΑΝ! ΒΡΑΔΙΑΤΙΚΑ
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/vradiatika.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/petros_kostopoylos_0.jpg?itok=HhfP4qfc" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/vradymetonpetrokostopoulo/webtv" ,ΒΡΑΔΥ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/petros_kostopoylos_0.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/vradymetonpetrokostopoulo/webtv" ,ΒΡΑΔΥ
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/vradymetonpetrokostopoulo.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/stg_0_0.jpg?itok=skcsfom_" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/stinygeiamasrepaidia/webtv" ,ΣΤΗΝ ΥΓΕΙΑ ΜΑΣ ΡΕ ΠΑΙΔΙΑ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/stg_0_0.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/stinygeiamasrepaidia/webtv" ,ΣΤΗΝ ΥΓΕΙΑ ΜΑΣ ΡΕ ΠΑΙΔΙΑ
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/stinygeiamasrepaidia.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/quizdomacc.png?itok=TIW3vGsN" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/quizdomtheshow/webtv" ,QUIZDOM THE SHOW
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/quizdomacc.png" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/quizdomtheshow/webtv" ,QUIZDOM THE SHOW
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/quizdomtheshow.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/paketo_slider-1819_0.jpg?itok=F9AVl-Sk" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/pamepaketo/webtv" ,ΠΑΜΕ ΠΑΚΕΤΟ
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/paketo_slider-1819_0.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/pamepaketo/webtv" ,ΠΑΜΕ ΠΑΚΕΤΟ
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/pamepaketo.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/stamatina_tsimtsili_1_3.jpg?itok=h17NvxIm" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/happyday/webtv" ,HAPPY DAY ΣΤΟΝ ALPHA
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/stamatina_tsimtsili_1_3.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/happyday/webtv" ,HAPPY DAY ΣΤΟΝ ALPHA
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/happyday.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/lk.jpg?itok=mA-O-fbW" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/akoutieipan/webtv" ,ΑΚΟΥ ΤΙ ΕΙΠΑΝ!
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/lk.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/akoutieipan/webtv" ,ΑΚΟΥ ΤΙ ΕΙΠΑΝ!
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/akoutieipan.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.alphacyprus.com.cy/sites/default/files/styles/card_row_4/public/slider-christiana.jpg?itok=9TY1eKx7" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/soundtrackoflove/webtv" ,SOUNDTRACK OF LOVE
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/alphacy/slider-christiana.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/entertainment/soundtrackoflove/webtv" ,SOUNDTRACK OF LOVE
 SERIES$$hub://cvyod/alpha/ekpompes_arxio/soundtrackoflove.txt
 
 
@@ -2517,71 +2517,71 @@ http://.....
 
 #EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-logo="hub://logs/omega.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.omegatv.com.cy/cgibin/hweb?-V=tvshows&_FCATEGORY>=110001&_FCATEGORY<=110004&-Sr&-dtvshows.html&_VSECTION=7010|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Star/IQ.160.(2023-2024)" tvg-logo="http://www.omegatv.com.cy/pictures/2019/iq160.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=188271&-V=tvshows" ,IQ 160 (2023-2024)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Star/IQ.160.(2023-2024)" tvg-logo="hub://logseries/omega/iq160.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=188271&-V=tvshows" ,IQ 160 (2023-2024)
 SERIES$$hub://cvyod/omega/sires_arxio/iq160.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Open/Έρωτας.φυγάς.(2022-2024)" tvg-logo="https://www.omegatv.com.cy/pictures/2019/erwtas-650x420.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=183392&-V=tvshows" ,ΕΡΩΤΑΣ ΦΥΓΑΣ (2022-2024)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Open/Έρωτας.φυγάς.(2022-2024)" tvg-logo="hub://logseries/omega/erwtas-650x420.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=183392&-V=tvshows" ,ΕΡΩΤΑΣ ΦΥΓΑΣ (2022-2024)
 SERIES$$hub://cvyod/omega/sires_arxio/erwtas.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="οικογενειακή" tvg-description="hub://desc/Open/Η.δική.μας.οικογένεια.(2022-2023)" tvg-logo="https://www.omegatv.com.cy/pictures/2023/hdikhmasoikogeneia.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=195847&-V=tvshows" ,Η ΔΙΚΗ ΜΑΣ ΟΙΚΟΓΕΝΕΙΑ (2022-2023)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="οικογενειακή" tvg-description="hub://desc/Open/Η.δική.μας.οικογένεια.(2022-2023)" tvg-logo="hub://logseries/omega/hdikhmasoikogeneia.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=195847&-V=tvshows" ,Η ΔΙΚΗ ΜΑΣ ΟΙΚΟΓΕΝΕΙΑ (2022-2023)
 SERIES$$hub://cvyod/omega/sires_arxio/hdikhmasoikogeneia.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="ρομαντική" tvg-description="hub://desc/Open/Σαν.ψέμα.(2024)" tvg-logo="https://www.omegatv.com.cy/pictures/2023/1000x650-v8.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=204068&-V=tvshows" ,ΣΑΝ ΨΕΜΑ (2024)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="ρομαντική" tvg-description="hub://desc/Open/Σαν.ψέμα.(2024)" tvg-logo="hub://logseries/omega/1000x650-v8.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=204068&-V=tvshows" ,ΣΑΝ ΨΕΜΑ (2024)
 SERIES$$hub://cvyod/omega/sires_arxio/1000x650-v8.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Star/Στα.σύνορα.(2023-2024)" tvg-logo="https://www.omegatv.com.cy/pictures/2023/1000x650-v6.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=200070&-V=tvshows" ,ΣΤΑ ΣΥΝΟΡΑ (2023-2024)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Star/Στα.σύνορα.(2023-2024)" tvg-logo="hub://logseries/omega/1000x650-v6.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=200070&-V=tvshows" ,ΣΤΑ ΣΥΝΟΡΑ (2023-2024)
 SERIES$$hub://cvyod/omega/sires_arxio/1000x650-v6.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/Σημεία.και.τέρατα.(2015)" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180824_simiakaiterata.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=97692&-V=tvshows" ,ΣΗΜΕΙΑ ΚΑΙ ΤΕΡΑΤΑ (2015)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/Σημεία.και.τέρατα.(2015)" tvg-logo="hub://logseries/omega/20180824_simiakaiterata.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=97692&-V=tvshows" ,ΣΗΜΕΙΑ ΚΑΙ ΤΕΡΑΤΑ (2015)
 SERIES$$hub://cvyod/omega/sires_arxio/20180824_simiakaiterata.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/Μια.του.κλέφτη.(2021)" tvg-logo="https://www.omegatv.com.cy/pictures/2019/mia-tou-klefti.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=179305&-V=tvshows" ,ΜΙΑ ΤΟΥ ΚΛΕΦΤΗ (2021)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/Μια.του.κλέφτη.(2021)" tvg-logo="hub://logseries/omega/mia-tou-klefti.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=179305&-V=tvshows" ,ΜΙΑ ΤΟΥ ΚΛΕΦΤΗ (2021)
 SERIES$$hub://cvyod/omega/sires_arxio/mia-tou-klefti.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/Στο.Αλαλούμ.(2018)" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180824_alaloum.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=140126&-V=tvshows" ,ΣΤΟ ΑΛΑΛΟΥΜ (2018)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/Στο.Αλαλούμ.(2018)" tvg-logo="hub://logseries/omega/20180824_alaloum.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=140126&-V=tvshows" ,ΣΤΟ ΑΛΑΛΟΥΜ (2018)
 SERIES$$hub://cvyod/omega/sires_arxio/20180824_alaloum.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/Η.μαμά.λείπει.ταξίδι.για.δουλειές.(2016-2017)" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180824_imamaleipei.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=122975&-V=tvshows" ,Η ΜΑΜΑ ΛΕΙΠΕΙ ΤΑΞΙΔΙ ΓΙΑ ΔΟΥΛΕΙΕΣ (2016-2017)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/Η.μαμά.λείπει.ταξίδι.για.δουλειές.(2016-2017)" tvg-logo="hub://logseries/omega/20180824_imamaleipei.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=122975&-V=tvshows" ,Η ΜΑΜΑ ΛΕΙΠΕΙ ΤΑΞΙΔΙ ΓΙΑ ΔΟΥΛΕΙΕΣ (2016-2017)
 SERIES$$hub://cvyod/omega/sires_arxio/20180824_imamaleipei.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Omega/Ζωή.μου.(2016-2017)" tvg-logo="https://www.omegatv.com.cy/pictures/20160822_zoimou.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=122976&-V=tvshows" ,ΖΩΗ ΜΟΥ (2016-2017)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Omega/Ζωή.μου.(2016-2017)" tvg-logo="hub://logseries/omega/20160822_zoimou.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=122976&-V=tvshows" ,ΖΩΗ ΜΟΥ (2016-2017)
 SERIES$$hub://cvyod/omega/sires_arxio/20160822_zoimou.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/20181109_giatros" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20181109_giatros.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=139531&-V=tvshows" ,ΜΠΡΑΒΟ ΓΙΑΤΡΕ ΜΟΥ (2018)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/20181109_giatros" tvg-logo="hub://logseries/omega/20181109_giatros.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=139531&-V=tvshows" ,ΜΠΡΑΒΟ ΓΙΑΤΡΕ ΜΟΥ (2018)
 SERIES$$hub://cvyod/omega/sires_arxio/20181109_giatros.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/20180301_ou_pseudomartirisis" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180301_ou_pseudomartirisis.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=138435&-V=tvshows" ,ΟΥ ΨΕΥΔΟΜΑΡΤΥΡΗΣΕΙΣ (2018)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/20180301_ou_pseudomartirisis" tvg-logo="hub://logseries/omega/20180301_ou_pseudomartirisis.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=138435&-V=tvshows" ,ΟΥ ΨΕΥΔΟΜΑΡΤΥΡΗΣΕΙΣ (2018)
 SERIES$$hub://cvyod/omega/sires_arxio/20180301_ou_pseudomartirisis.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/20180309_deyteri_zoi" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180309_deyteri_zoi.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=138638&-V=tvshows" ,ΔΕΥΤΕΡΗ ΖΩΗ ΔΕΝ ΕΧΕΙ (2018)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/20180309_deyteri_zoi" tvg-logo="hub://logseries/omega/20180309_deyteri_zoi.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=138638&-V=tvshows" ,ΔΕΥΤΕΡΗ ΖΩΗ ΔΕΝ ΕΧΕΙ (2018)
 SERIES$$hub://cvyod/omega/sires_arxio/20180309_deyteri_zoi.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/20180222_reunion" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180222_reunion.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=138226&-V=tvshows" ,REUNION (2018)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/20180222_reunion" tvg-logo="hub://logseries/omega/20180222_reunion.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=138226&-V=tvshows" ,REUNION (2018)
 SERIES$$hub://cvyod/omega/sires_arxio/20180222_reunion.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/20180216_ou_mixeuseis" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180216_ou_mixeuseis.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=138079&-V=tvshows" ,ΟΥ ΜΟΙΧΕΥΣΕΙΣ (2018)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/20180216_ou_mixeuseis" tvg-logo="hub://logseries/omega/20180216_ou_mixeuseis.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=138079&-V=tvshows" ,ΟΥ ΜΟΙΧΕΥΣΕΙΣ (2018)
 SERIES$$hub://cvyod/omega/sires_arxio/20180216_ou_mixeuseis.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/20181108_gata" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20181108_gata.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=138040&-V=tvshows" ,ΟΥΤΕ ΓΑΤΑ ΟΥΤΕ ΖΗΜΙΑ (2018)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/20181108_gata" tvg-logo="hub://logseries/omega/20181108_gata.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=138040&-V=tvshows" ,ΟΥΤΕ ΓΑΤΑ ΟΥΤΕ ΖΗΜΙΑ (2018)
 SERIES$$hub://cvyod/omega/sires_arxio/20181108_gata.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/20180202_perasmenes_mou_agapes" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180202_perasmenes_mou_agapes.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=137648&-V=tvshows" ,ΠΕΡΑΣΜΕΝΕΣ ΜΟΥ ΑΓΑΠΕΣ (2018)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/20180202_perasmenes_mou_agapes" tvg-logo="hub://logseries/omega/20180202_perasmenes_mou_agapes.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=137648&-V=tvshows" ,ΠΕΡΑΣΜΕΝΕΣ ΜΟΥ ΑΓΑΠΕΣ (2018)
 SERIES$$hub://cvyod/omega/sires_arxio/20180202_perasmenes_mou_agapes.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Omega/9.μήνες.(2015-2017)" tvg-logo="https://greek-movies.com/icon/series/9μήνες2015.jpg" ,9 μήνες (2015-2017)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Omega/9.μήνες.(2015-2017)" tvg-logo="hub://logseries/omega/9μήνες2015.jpg" ,9 μήνες (2015-2017)
 SERIES$$hub://cvyod/omega/sires_arxio/9.μήνες.(2015-2017)
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/Daddy.cool.(2012)" tvg-logo="https://greek-movies.com/icon/series/Daddycool2012.jpg" ,Daddy cool (2012)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/Daddy.cool.(2012)" tvg-logo="hub://logseries/omega/Daddycool2012.jpg" ,Daddy cool (2012)
 SERIES$$hub://cvyod/omega/sires_arxio/Daddy.cool.(2012)
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/Dr_.Ιπποκράτης.(2015)" tvg-logo="https://greek-movies.com/icon/series/DrΙπποκράτης2015.jpg" ,Dr Ιπποκράτης (2015)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/Dr_.Ιπποκράτης.(2015)" tvg-logo="hub://logseries/omega/DrΙπποκράτης2015.jpg" ,Dr Ιπποκράτης (2015)
 SERIES$$hub://cvyod/omega/sires_arxio/Dr.Ιπποκράτης.(2015)
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα, ιστορική" tvg-description="hub://desc/Omega/Ανήσυχα.χρόνια.(1999-2000)" tvg-logo="https://greek-movies.com/icon/series/Ανήσυχαχρόνια1999.jpg" ,Ανήσυχα χρόνια (1999-2000)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα, ιστορική" tvg-description="hub://desc/Omega/Ανήσυχα.χρόνια.(1999-2000)" tvg-logo="hub://logseries/omega/Ανήσυχαχρόνια1999.jpg" ,Ανήσυχα χρόνια (1999-2000)
 SERIES$$hub://cvyod/omega/sires_arxio/Ανήσυχα.χρόνια.(1999-2000)
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Omega/Ένοχα.μυστικά.(2012)" tvg-logo="https://greek-movies.com/icon/series/Ένοχαμυστικά2012.jpg" ,Ένοχα μυστικά (2012)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Omega/Ένοχα.μυστικά.(2012)" tvg-logo="hub://logseries/omega/Ένοχαμυστικά2012.jpg" ,Ένοχα μυστικά (2012)
 SERIES$$hub://cvyod/omega/sires_arxio/Ένοχα.μυστικά.(2012)
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/Ζωή.λαχείο.(2013)" tvg-logo="https://greek-movies.com/icon/series/Ζωήλαχείο2014.jpg" ,Ζωή λαχείο (2013)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/Ζωή.λαχείο.(2013)" tvg-logo="hub://logseries/omega/Ζωήλαχείο2014.jpg" ,Ζωή λαχείο (2013)
 SERIES$$hub://cvyod/omega/sires_arxio/Ζωή.λαχείο.(2013)
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/Κάθε.κατεργάρης.στον.πάγκο.του.(1998-1999)" tvg-logo="https://greek-movies.com/icon/series/Κάθεκατεργάρηςστονπάγκοτου1998.jpg" ,Κάθε κατεργάρης στον πάγκο του (1998-1999)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/Κάθε.κατεργάρης.στον.πάγκο.του.(1998-1999)" tvg-logo="hub://logseries/omega/Κάθεκατεργάρηςστονπάγκοτου1998.jpg" ,Κάθε κατεργάρης στον πάγκο του (1998-1999)
 SERIES$$hub://cvyod/omega/sires_arxio/Κάθε.κατεργάρης.στον.πάγκο.του.(1998-1999)
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-logo="https://greek-movies.com/icon/series/Καλλίττεραενγίνεται.jpg" ,Καλλίττερα εν γίνεται (2000-2001)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-logo="hub://logseries/omega/Καλλίττεραενγίνεται.jpg" ,Καλλίττερα εν γίνεται (2000-2001)
 SERIES$$hub://cvyod/omega/sires_arxio/Καλλίττερα.εν.γίνεται.(2000-2001)
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Omega/Μηδέν.(2012)" tvg-logo="https://greek-movies.com/icon/series/Μηδέν2012.jpg" ,Μηδέν (2012)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Omega/Μηδέν.(2012)" tvg-logo="hub://logseries/omega/Μηδέν2012.jpg" ,Μηδέν (2012)
 SERIES$$hub://cvyod/omega/sires_arxio/Μηδέν.(2012)
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/Οι.διπλάρες.(1994-1995)" tvg-logo="https://greek-movies.com/icon/series/οιδιπλάρες.jpg" ,Οι διπλάρες (1994-1995)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/Οι.διπλάρες.(1994-1995)" tvg-logo="hub://logseries/omega/οιδιπλάρες.jpg" ,Οι διπλάρες (1994-1995)
 SERIES$$hub://cvyod/omega/sires_arxio/Οι.διπλάρες.(1994-1995)
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/Οι.κληρονόμοι.(2002-2003)" tvg-logo="https://greek-movies.com/icon/series/Οικληρονόμοι2002.jpg" ,Οι κληρονόμοι (2002-2003)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/Οι.κληρονόμοι.(2002-2003)" tvg-logo="hub://logseries/omega/Οικληρονόμοι2002.jpg" ,Οι κληρονόμοι (2002-2003)
 SERIES$$hub://cvyod/omega/sires_arxio/Οι.κληρονόμοι.(2002-2003)
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική, κοινωνική" tvg-description="hub://desc/Omega/Όνειρο.ήταν.(2013-2014)" tvg-logo="https://greek-movies.com/icon/series/Όνειροήταν2013.jpg" ,Όνειρο ήταν (2013-2014)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική, κοινωνική" tvg-description="hub://desc/Omega/Όνειρο.ήταν.(2013-2014)" tvg-logo="hub://logseries/omega/Όνειροήταν2013.jpg" ,Όνειρο ήταν (2013-2014)
 SERIES$$hub://cvyod/omega/sires_arxio/Όνειρο.ήταν.(2013-2014)
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα, κοινωνική" tvg-description="hub://desc/Omega/Πόρτα.κλειδωμένη.(2012-2013)" tvg-logo="https://greek-movies.com/icon/series/Πόρτακλειδωμένη2012.jpg" ,Πόρτα κλειδωμένη (2012-2013)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα, κοινωνική" tvg-description="hub://desc/Omega/Πόρτα.κλειδωμένη.(2012-2013)" tvg-logo="hub://logseries/omega/Πόρτακλειδωμένη2012.jpg" ,Πόρτα κλειδωμένη (2012-2013)
 SERIES$$hub://cvyod/omega/sires_arxio/Πόρτα.κλειδωμένη.(2012-2013)
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/Τα.ψάρκα.(2000-2001)" tvg-logo="https://greek-movies.com/icon/series/ταψάρκα.jpg" ,Τα ψάρκα (2000-2001)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/Τα.ψάρκα.(2000-2001)" tvg-logo="hub://logseries/omega/ταψάρκα.jpg" ,Τα ψάρκα (2000-2001)
 SERIES$$hub://cvyod/omega/sires_arxio/Τα.ψάρκα.(2000-2001)
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/Την.τύχη.μου.μέσα.(2014-2015)" tvg-logo="https://greek-movies.com/icon/series/Τηντύχημουμέσα2014.jpg" ,Την τύχη μου μέσα (2014-2015)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/Την.τύχη.μου.μέσα.(2014-2015)" tvg-logo="hub://logseries/omega/Τηντύχημουμέσα2014.jpg" ,Την τύχη μου μέσα (2014-2015)
 SERIES$$hub://cvyod/omega/sires_arxio/Την.τύχη.μου.μέσα.(2014-2015)
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα, κοινωνική" tvg-description="hub://desc/Omega/Το.δαχτυλίδι.της.φωτιάς.(2014-2016)" tvg-logo="https://greek-movies.com/icon/series/Τοδαχτυλίδιτηςφωτιάς2014.jpg" ,Το δαχτυλίδι της φωτιάς (2014-2016)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα, κοινωνική" tvg-description="hub://desc/Omega/Το.δαχτυλίδι.της.φωτιάς.(2014-2016)" tvg-logo="hub://logseries/omega/Τοδαχτυλίδιτηςφωτιάς2014.jpg" ,Το δαχτυλίδι της φωτιάς (2014-2016)
 SERIES$$hub://cvyod/omega/sires_arxio/Το.δαχτυλίδι.της.φωτιάς.(2014-2016)
 
 
@@ -2594,83 +2594,83 @@ http://.....
 #EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logs/omega.png" ,ΟΛΕΣ ΟΙ ΕΚΠΟΜΠΕΣ
 https://www.omegatv.com.cy/cgibin/hweb?-V=tvshows&_FCATEGORY>=110001&_FCATEGORY<=110004&-Sr&-dtvshows.html&_VSECTION=7010|webvod zoom=100 scroll=0,0
 
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/portal-image.png" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=215588&-V=tvshows" ,ΠΑΜΕ ΠΑΡΕΑ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/portal-image.png" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=215588&-V=tvshows" ,ΠΑΜΕ ΠΑΡΕΑ
 SERIES$$hub://cvyod/omega/ekpompes/pameparea.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/aixmes.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=157455&-V=tvshows" ,ΑΙΧΜΕΣ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/aixmes.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=157455&-V=tvshows" ,ΑΙΧΜΕΣ
 SERIES$$hub://cvyod/omega/ekpompes/aixmes.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/elanadeis-1-.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=149616&-V=tvshows" ,ΕΛΑ ΝΑ ΔΕΙΣ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/elanadeis-1-.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=149616&-V=tvshows" ,ΕΛΑ ΝΑ ΔΕΙΣ
 SERIES$$hub://cvyod/omega/ekpompes/elanadeis-1-.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/stavris-650x420.png" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=165385&-V=tvshows" ,ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/stavris-650x420.png" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=165385&-V=tvshows" ,ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
 SERIES$$hub://cvyod/omega/ekpompes/stavris.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/cuisinovia.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=207576&-V=tvshows" ,CUISINOVIA
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/cuisinovia.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=207576&-V=tvshows" ,CUISINOVIA
 SERIES$$hub://cvyod/omega/ekpompes/cuisinovia.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/social-experiment-100x650-v1.png" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=207299&-V=tvshows" ,THE SOCIAL EXPERIMENT
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/social-experiment-100x650-v1.png" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=207299&-V=tvshows" ,THE SOCIAL EXPERIMENT
 SERIES$$hub://cvyod/omega/ekpompes_arxio/social-experiment.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/defacto-press.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=185851&-V=tvshows" ,DE FACTO
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/defacto-press.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=185851&-V=tvshows" ,DE FACTO
 SERIES$$hub://cvyod/omega/ekpompes_arxio/defacto-press.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/inealithia650x420px.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=159319&-V=tvshows" ,ΕΙΝΑΙ ΑΛΗΘΕΙΑ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/inealithia650x420px.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=159319&-V=tvshows" ,ΕΙΝΑΙ ΑΛΗΘΕΙΑ
 SERIES$$hub://cvyod/omega/ekpompes_arxio/inealithia650x420px.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2017/20171019_vote.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=134232&-V=tvshows" ,VOTE
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/2017/20171019_vote.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=134232&-V=tvshows" ,VOTE
 SERIES$$hub://cvyod/omega/ekpompes_arxio/20171019_vote.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/kathimasanatoli.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=133669&-V=tvshows" ,ΚΑΘ' ΗΜΑΣ ΑΝΑΤΟΛΗ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/kathimasanatoli.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=133669&-V=tvshows" ,ΚΑΘ' ΗΜΑΣ ΑΝΑΤΟΛΗ
 SERIES$$hub://cvyod/omega/ekpompes_arxio/kathimasanatoli.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2017/20170928_diadromi.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=133484&-V=tvshows" ,ΔΙΑΔΡΟΜΗ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/2017/20170928_diadromi.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=133484&-V=tvshows" ,ΔΙΑΔΡΟΜΗ
 SERIES$$hub://cvyod/omega/ekpompes_arxio/20170928_diadromi.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2017/20170928_kyprion_erga.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=133486&-V=tvshows" ,ΚΥΠΡΙΩΝ ΕΡΓΑ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/2017/20170928_kyprion_erga.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=133486&-V=tvshows" ,ΚΥΠΡΙΩΝ ΕΡΓΑ
 SERIES$$hub://cvyod/omega/ekpompes_arxio/20170928_kyprion_erga.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/20160920_veto_tvshow.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=123855&-V=tvshows" ,ΒΕΤΟ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/20160920_veto_tvshow.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=123855&-V=tvshows" ,ΒΕΤΟ
 SERIES$$hub://cvyod/omega/ekpompes_arxio/20160920_veto_tvshow.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/20160205_at_night.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=117533&-V=tvshows" ,@night
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/20160205_at_night.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=117533&-V=tvshows" ,@night
 SERIES$$hub://cvyod/omega/ekpompes_arxio/20160205_at_night.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/20151013_antiklidi.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=105881&-V=tvshows" ,ΑΝΤΙΚΛΕΙΔΙ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/20151013_antiklidi.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=105881&-V=tvshows" ,ΑΝΤΙΚΛΕΙΔΙ
 SERIES$$hub://cvyod/omega/ekpompes_arxio/20151013_antiklidi.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/prosopa_informative.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=35441&-V=tvshows" ,ΠΡΟΣΩΠΑ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/prosopa_informative.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=35441&-V=tvshows" ,ΠΡΟΣΩΠΑ
 SERIES$$hub://cvyod/omega/ekpompes_arxio/prosopa_informative.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180105_ExisMeson.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=963&-V=tvshows" ,ΕΧΕΙΣ ΜΕΣΟΝ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/20180105_ExisMeson.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=963&-V=tvshows" ,ΕΧΕΙΣ ΜΕΣΟΝ
 SERIES$$hub://cvyod/omega/ekpompes_arxio/20180105_ExisMeson.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2023/famestoryport-1-.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=197318&-V=tvshows" ,FAME STORY
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/famestoryport-1-.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=197318&-V=tvshows" ,FAME STORY
 SERIES$$hub://cvyod/omega/ekpompes_arxio/famestoryport-1-.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/syntages650x420.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=183200&-V=tvshows" ,ΧΡΥΣΕΣ ΣΥΝΤΑΓΕΣ ΑΠΟ ΣΠΙΤΙ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/syntages650x420.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=183200&-V=tvshows" ,ΧΡΥΣΕΣ ΣΥΝΤΑΓΕΣ ΑΠΟ ΣΠΙΤΙ
 SERIES$$hub://cvyod/omega/ekpompes_arxio/syntages650x420.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/650x420-iasonos.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=179883&-V=tvshows" ,ΡΙΞΕ ΜΙΑ ΖΑΡΙΑ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/650x420-iasonos.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=179883&-V=tvshows" ,ΡΙΞΕ ΜΙΑ ΖΑΡΙΑ
 SERIES$$hub://cvyod/omega/ekpompes_arxio/650x420-iasonos.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/omgshow-650.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=174983&-V=tvshows" ,THE OMG SHOW
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/omgshow-650.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=174983&-V=tvshows" ,THE OMG SHOW
 SERIES$$hub://cvyod/omega/ekpompes_arxio/omgshow.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/exo-kati-na-sou-po-650x420px_1.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=170565&-V=tvshows" ,ΕΧΩ ΚΑΤΙ ΝΑ ΣΟΥ ΠΩ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/exo-kati-na-sou-po-650x420px_1.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=170565&-V=tvshows" ,ΕΧΩ ΚΑΤΙ ΝΑ ΣΟΥ ΠΩ
 SERIES$$hub://cvyod/omega/ekpompes_arxio/exo-kati-na-sou-po.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/omega-troll-show-p-650x420px.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=162871&-V=tvshows" ,OMEGA TROLL SHOW
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/omega-troll-show-p-650x420px.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=162871&-V=tvshows" ,OMEGA TROLL SHOW
 SERIES$$hub://cvyod/omega/ekpompes_arxio/omega-troll-show-p.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/KITRINA-GILEKA-650x420px.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=151042&-V=tvshows" ,ΚΙΤΡΙΝΑ ΓΙΛΕΚΑ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/KITRINA-GILEKA-650x420px.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=151042&-V=tvshows" ,ΚΙΤΡΙΝΑ ΓΙΛΕΚΑ
 SERIES$$hub://cvyod/omega/ekpompes_arxio/KITRINA-GILEKA.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/xaroumenos-taxidioths-650x420px-v6.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=146108&-V=tvshows" ,ΧΑΡΟΥΜΕΝΟΣ ΤΑΞΙΔΙΩΤΗΣ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/xaroumenos-taxidioths-650x420px-v6.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=146108&-V=tvshows" ,ΧΑΡΟΥΜΕΝΟΣ ΤΑΞΙΔΙΩΤΗΣ
 SERIES$$hub://cvyod/omega/ekpompes_arxio/xaroumenos-taxidioths.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/fars-attack-650x420px-v4.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=140112&-V=tvshows" ,FARS ATTACK
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/fars-attack-650x420px-v4.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=140112&-V=tvshows" ,FARS ATTACK
 SERIES$$hub://cvyod/omega/ekpompes_arxio/fars-attack.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/PAREA-MOU-650420px.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=144221&-V=tvshows" ,ΠΑΡΕΑ mou
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/PAREA-MOU-650420px.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=144221&-V=tvshows" ,ΠΑΡΕΑ mou
 SERIES$$hub://cvyod/omega/ekpompes_arxio/PAREA-MOU.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2017/20171016_alazo.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=134076&-V=tvshows" ,αλλά-ΖΩ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/2017/20171016_alazo.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=134076&-V=tvshows" ,αλλά-ΖΩ
 SERIES$$hub://cvyod/omega/ekpompes_arxio/20171016_alazo.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2017/20171010_star_cyprus_2017.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=133852&-V=tvshows" ,STAR Κύπρος 2017
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/2017/20171010_star_cyprus_2017.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=133852&-V=tvshows" ,STAR Κύπρος 2017
 SERIES$$hub://cvyod/omega/ekpompes_arxio/20171010_star_cyprus_2017.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2017/20171005_30_meres.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=133707&-V=tvshows" ,30 ΜΕΡΕΣ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/2017/20171005_30_meres.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=133707&-V=tvshows" ,30 ΜΕΡΕΣ
 SERIES$$hub://cvyod/omega/ekpompes_arxio/20171005_30_meres.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2017/san_tin_kypro_20170713_2.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=130937&-V=tvshows" ,ΣΑΝ ΤΗΝ ΚΥΠΡΟ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/2017/san_tin_kypro_20170713_2.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=130937&-V=tvshows" ,ΣΑΝ ΤΗΝ ΚΥΠΡΟ
 SERIES$$hub://cvyod/omega/ekpompes_arxio/san_tin_kypro_20170713_2.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/20160822_olagiasena.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=122973&-V=tvshows" ,ΟΛΑ ΓΙΑ ΣΕΝΑ! (2016-18)
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/20160822_olagiasena.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=122973&-V=tvshows" ,ΟΛΑ ΓΙΑ ΣΕΝΑ! (2016-18)
 SERIES$$hub://cvyod/omega/ekpompes_arxio/20160822_olagiasena.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/20160822_starkypros.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=122971&-V=tvshows" ,STAR ΚΥΠΡΟΣ 2016
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/20160822_starkypros.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=122971&-V=tvshows" ,STAR ΚΥΠΡΟΣ 2016
 SERIES$$hub://cvyod/omega/ekpompes_arxio/20160822_starkypros.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/20161104_xypnisate.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=122972&-V=tvshows" ,ΞΥΠΝΗΣΑΤΕ;
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/20161104_xypnisate.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=122972&-V=tvshows" ,ΞΥΠΝΗΣΑΤΕ;
 SERIES$$hub://cvyod/omega/ekpompes_arxio/20161104_xypnisate.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/20160406_like_a_star.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=119283&-V=tvshows" ,LIKE A STAR
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/20160406_like_a_star.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=119283&-V=tvshows" ,LIKE A STAR
 SERIES$$hub://cvyod/omega/ekpompes_arxio/20160406_like_a_star.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2019/fakatetous.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=97690&-V=tvshows" ,FAKATE ΤΟΥΣ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/fakatetous.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=97690&-V=tvshows" ,FAKATE ΤΟΥΣ
 SERIES$$hub://cvyod/omega/ekpompes_arxio/fakatetous.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/20150831_dansing.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=97693&-V=tvshows" ,DANSING JUNIOR
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/20150831_dansing.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=97693&-V=tvshows" ,DANSING JUNIOR
 SERIES$$hub://cvyod/omega/ekpompes_arxio/20150831_dansing.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/20180201_dansing6.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=1062&-V=tvshows" ,DANSING FOR YOU
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/20180201_dansing6.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=1062&-V=tvshows" ,DANSING FOR YOU
 SERIES$$hub://cvyod/omega/ekpompes_arxio/20180201_dansing6.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="https://www.omegatv.com.cy/pictures/2018/oopene-650x420.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=149110&-V=tvshows" ,ΧΡΙΣΤΟΥΓΕΝΝΑ ΣΤΗΝ ΠΑΛΙΑ ΠΟΛΗ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/oopene-650x420.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=149110&-V=tvshows" ,ΧΡΙΣΤΟΥΓΕΝΝΑ ΣΤΗΝ ΠΑΛΙΑ ΠΟΛΗ
 SERIES$$hub://cvyod/omega/ekpompes_arxio/oopene.txt
 
 
