@@ -1489,19 +1489,19 @@ SERIES$$hub://gvrod/star/ekpompes_arxio/globetrotters.txt
 #EXTINF:-1 group-title="ΕΡΤFLIX" tvg-logo="hub://logs/red.png" ,==== ΕΡΤ ====
 http://.....
 
-#EXTINF:-1 group-title="ΕΡΤFLIX" tvg-logo="hub://desc/ert/flixert.png" ,Σειρές (ΕΡΤFLIX)
+#EXTINF:-1 group-title="ΕΡΤFLIX" tvg-logo="hub://logseries/ert/flixert.png" ,Σειρές (ΕΡΤFLIX)
 https://www.ertflix.gr/#/show/SeriesXP|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤFLIX" tvg-logo="hub://desc/ert/flixert.png" ,Ταινίες (ΕΡΤFLIX)
+#EXTINF:-1 group-title="ΕΡΤFLIX" tvg-logo="hub://logseries/ert/flixert.png" ,Ταινίες (ΕΡΤFLIX)
 https://www.ertflix.gr/#/show/MoviesXP|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤFLIX" tvg-logo="hub://desc/ert/flixert.png" ,Κινούμενα Σχέδια (ΕΡΤFLIX)
+#EXTINF:-1 group-title="ΕΡΤFLIX" tvg-logo="hub://logseries/ert/flixert.png" ,Κινούμενα Σχέδια (ΕΡΤFLIX)
 https://www.ertflix.gr/#/show/KidsXP|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤFLIX" tvg-logo="hub://desc/ert/flixert.png" ,ΕΛΛΗΝΙΚΑ ΝΤΟΚΙΜΑΝΤΕΡ (ΕΡΤFLIX)
+#EXTINF:-1 group-title="ΕΡΤFLIX" tvg-logo="hub://logseries/ert/flixert.png" ,ΕΛΛΗΝΙΚΑ ΝΤΟΚΙΜΑΝΤΕΡ (ΕΡΤFLIX)
 https://www.ertflix.gr/#/show/DocumentariesXP|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤFLIX" tvg-logo="hub://desc/ert/flixert.png" ,ΕΚΠΟΜΠΕΣ (ΕΡΤFLIX)
+#EXTINF:-1 group-title="ΕΡΤFLIX" tvg-logo="hub://logseries/ert/flixert.png" ,ΕΚΠΟΜΠΕΣ (ΕΡΤFLIX)
 https://www.ertflix.gr/#/show/ShowsXP|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤFLIX" tvg-logo="hub://desc/ert/flixert.png" ,ΕΝΗΜΕΡΩΣΗ (ΕΡΤFLIX)
+#EXTINF:-1 group-title="ΕΡΤFLIX" tvg-logo="hub://logseries/ert/flixert.png" ,ΕΝΗΜΕΡΩΣΗ (ΕΡΤFLIX)
 https://www.ertflix.gr/#/show/NewsXP|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΕΡΤFLIX" tvg-logo="hub://desc/ert/flixert.png" ,ΑΘΛΗΤΙΚΑ (ΕΡΤFLIX)
+#EXTINF:-1 group-title="ΕΡΤFLIX" tvg-logo="hub://logseries/ert/flixert.png" ,ΑΘΛΗΤΙΚΑ (ΕΡΤFLIX)
 https://www.ertflix.gr/#/show/SportsXP|webmulti zoom=100 scroll=0,0
 
 
