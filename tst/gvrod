@@ -2368,9 +2368,9 @@ SERIES$$hub://cvyod/sigma/sires_arxio/Τερέζα.(2016)
 #EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logs/red.png" ,==== SIGMA ΚΥΠΡΟΣ ====
 http://.....
 
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logs/sigma.png ,ΟΛΕΣ ΟΙ ΕΚΠΟΜΠΕΣ
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/sigma/sigma.png ,ΟΛΕΣ ΟΙ ΕΚΠΟΜΠΕΣ
 https://www.sigmatv.com/shows/category/5|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/sigma/Irthe_k_Edese_504x304.jpg" tvg-website="https://www.sigmatv.com/shows/irthe-ki-edese" ,Ήρθε κι έδεσε
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/sigma/Irthe_k_Edese_504x304.png" tvg-website="https://www.sigmatv.com/shows/irthe-ki-edese" ,Ήρθε κι έδεσε
 SERIES$$hub://cvyod/sigma/ekpompes/irthe-ki-edese.txt
 #EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/sigma/protoselido_540x304.png" tvg-website="https://www.sigmatv.com/shows/prwtoselido" ,Πρωτοσέλιδο
 SERIES$$hub://cvyod/sigma/ekpompes/prwtoselido.txt
@@ -2705,27 +2705,27 @@ http://.....
 #EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/rik/rik-logo.png" ,ΟΛΕΣ ΟΙ ΕΚΠΟΜΠΕΣ
 https://tv.rik.cy/category/psukhagogia/|webvod zoom=100 scroll=0,0
 
-#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/rik/2025/09/26/S_EKTOS_DIADROMHS.2e16d0ba.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/ektos-diadromes/" ,Εκτος Διαδρομης
+#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/rik/S_EKTOS_DIADROMHS.2e16d0ba.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/ektos-diadromes/" ,Εκτος Διαδρομης
 SERIES$$hub://cvyod/rik/ekpompes/ektos-diadromes.txt
-#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/rik/2025/09/19/MHN_KAPSEIS_KOUZINA_S.2e16d0ba.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/men-kapseis-ten-kouzina/" ,Μην Καψεις την Κουζινα
+#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/rik/MHN_KAPSEIS_KOUZINA_S.2e16d0ba.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/men-kapseis-ten-kouzina/" ,Μην Καψεις την Κουζινα
 SERIES$$hub://cvyod/rik/ekpompes/men-kapseis-ten-kouzina.txt
-#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/rik/2024/10/10/GEYSTIKO_TAKSIDI_S.2e16d0ba.fill-350x500.jpg" tvg-website="https://tv.rik.cy/el/show/geustiko-taxidi/" ,Γευστικό Ταξίδι
+#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/rik/GEYSTIKO_TAKSIDI_S.2e16d0ba.fill-350x500.jpg" tvg-website="https://tv.rik.cy/el/show/geustiko-taxidi/" ,Γευστικό Ταξίδι
 SERIES$$hub://cvyod/rik/ekpompes/geustiko-taxidi.txt
-#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/rik/2025/09/26/TIKKI_TOKKO_S.2e16d0ba.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/ttikki-ttokko/" ,Ττικκι Ττοκκο
+#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/rik/TIKKI_TOKKO_S.2e16d0ba.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/ttikki-ttokko/" ,Ττικκι Ττοκκο
 SERIES$$hub://cvyod/rik/ekpompes/ttikki-ttokko.txt
-#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/rik/2025/09/26/S_STO_NHSI.2e16d0ba.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/sto-nesi/" ,Στο Νησί
+#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/rik/S_STO_NHSI.2e16d0ba.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/sto-nesi/" ,Στο Νησί
 SERIES$$hub://cvyod/rik/ekpompes/sto-nesi.txt
-#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/rik/2025/09/26/S_XORION.2e16d0ba.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/khorion/" ,ΧωριΟΝ
+#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/rik/S_XORION.2e16d0ba.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/khorion/" ,ΧωριΟΝ
 SERIES$$hub://cvyod/rik/ekpompes/khorion.txt
 #EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/rik/OMORFH_MERA_S.598a4d19.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/omorphe-mera/" ,Όμορφη Μέρα
 SERIES$$hub://cvyod/rik/ekpompes/omorphe-mera.txt
-#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/rik/2024/10/10/STON_ASTERION_TIS_NOTES_S.2e16d0ba.fill-350x500.jpg" tvg-website="https://tv.rik.cy/el/show/ston-asterion-tis-notes/" ,Στων Αστεριών τις Νότες
+#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/rik/STON_ASTERION_TIS_NOTES_S.2e16d0ba.fill-350x500.jpg" tvg-website="https://tv.rik.cy/el/show/ston-asterion-tis-notes/" ,Στων Αστεριών τις Νότες
 SERIES$$hub://cvyod/rik/ekpompes/ston-asterion-tis-notes.txt
 #EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/rik/GEFSTIKO_TAKSIDI_S.20d561ad.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/geustiko-taxidi-sto-khorio/" ,Γευστικό Ταξίδι στο Χωριό
 SERIES$$hub://cvyod/rik/ekpompes_arxio/geustiko-taxidi-sto-khorio.txt
-#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/rik/2024/10/10/FILOI_GIA_PANTA_B.2e16d0ba.fill-450x253.jpg" tvg-website="https://tv.rik.cy/el/show/philoi-gia-panta/" ,Φίλοι για Πάντα
+#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/rik/FILOI_GIA_PANTA_B.2e16d0ba.fill-450x253.jpg" tvg-website="https://tv.rik.cy/el/show/philoi-gia-panta/" ,Φίλοι για Πάντα
 SERIES$$hub://cvyod/rik/ekpompes/philoi-gia-panta.txt
-#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/rik/2024/10/10/KYPROS_TO_MEGALEIO_SOU_S.2e16d0ba.fill-350x500.jpg" tvg-website="https://tv.rik.cy/el/show/kupros-to-megaleio-sou/" ,Κύπρος το Μεγαλείο σου
+#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/rik/KYPROS_TO_MEGALEIO_SOU_S.2e16d0ba.fill-350x500.jpg" tvg-website="https://tv.rik.cy/el/show/kupros-to-megaleio-sou/" ,Κύπρος το Μεγαλείο σου
 SERIES$$hub://cvyod/rik/ekpompes/kupros-to-megaleio-sou.txt
 #EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/rik/KOUZINA_SE_RODES_Portrait.deb631d4.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/kouzina-se-rodes/" ,Κουζίνα σε Ρόδες
 SERIES$$hub://cvyod/rik/ekpompes_arxio/kouzina-se-rodes.txt
