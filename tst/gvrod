@@ -2282,7 +2282,7 @@ SERIES$$hub://cvyod/sigma/sires_arxio/kids.txt
 SERIES$$hub://cvyod/sigma/sires_arxio/alla-logia-thkie-papa.txt
 #EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Sigma/Άσπρα.μπαλόνια.(2011-2013)" tvg-logo="hub://logseries/sigma/540x304-logo-aspra-mpalonia.jpg" tvg-website="https://www.sigmatv.com/shows/aspra-mpalonia" ,Άσπρα Μπαλόνια (2011-13)
 SERIES$$hub://cvyod/sigma/sires_arxio/aspra-mpalonia.txt
-#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Sigma/Έλα.πάρε.με.(2010-2011)" atvg-logo="hub://logseries/sigma/540x304-logo-ela-pare-me.jpg" tvg-website="https://www.sigmatv.com/shows/elapareme" ,Έλα πάρε με (2010-11)
+#EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Sigma/Έλα.πάρε.με.(2010-2011)" tvg-logo="hub://logseries/sigma/540x304-logo-ela-pare-me.jpg" tvg-website="https://www.sigmatv.com/shows/elapareme" ,Έλα πάρε με (2010-11)
 SERIES$$hub://cvyod/sigma/sires_arxio/elapareme.txt
 #EXTINF:-1 group-title="SIGMA ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Star/Όρκος.σιωπής.(2014-2015)" tvg-logo="hub://logseries/sigma/540x304-logo-Orkos-siopis.jpg" tvg-website="https://www.sigmatv.com/shows/orkos" ,Όρκος σιωπής (2014-15)
 SERIES$$hub://cvyod/sigma/sires_arxio/orkos.txt
@@ -2686,7 +2686,7 @@ https://tv.rik.cy/category/seires/|webvod zoom=100 scroll=0,0
 SERIES$$hub://cvyod/rik/sires/trikumia.txt
 #EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα, έγκλημα" tvg-description="hub://desc/RIK/Περικλής.τζαι.Εριέττα.(2023-2025)" tvg-logo="hub://logseries/rik/PERIKLIS_TZAI_ERIETTA_-_PORTRAIT.17f294d5.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/perikles-tzai-erietta/" ,Περικλής τζαι Εριέττα (2023-2025)
 SERIES$$hub://cvyod/rik/sires/perikles-tzai-erietta.txt
-#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα, κοινωνική" tvg-description="hub://desc/RIK/Θυμάρι.και.αλμύρα.(2024)" tvg-logo="hub://logseries/rik/2024/10/10/THYMARI__ALMYRA_S.2e16d0ba.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/thumari-kai-almura/" ,Θυμάρι και Αλμύρα (2024)
+#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="δράμα, κοινωνική" tvg-description="hub://desc/RIK/Θυμάρι.και.αλμύρα.(2024)" tvg-logo="hub://logseries/rik/THYMARI__ALMYRA_S.2e16d0ba.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/thumari-kai-almura/" ,Θυμάρι και Αλμύρα (2024)
 SERIES$$hub://cvyod/rik/sires_arxio/thumari-kai-almura.txt
 #EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/RIK/Ειρήνη.Πάσι.(2021-2024)" tvg-logo="hub://logseries/rik/EIRHNH_PASI_S.48e03a4c.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/eirene-pasi/" ,Ειρήνη Πάσι (2021-2024)
 SERIES$$hub://cvyod/rik/sires_arxio/eirene-pasi.txt
