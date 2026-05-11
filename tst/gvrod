@@ -2610,13 +2610,13 @@ SERIES$$hub://cvyod/omega/ekpompes_arxio/social-experiment.txt
 SERIES$$hub://cvyod/omega/ekpompes_arxio/defacto-press.txt
 #EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/inealithia650x420px.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=159319&-V=tvshows" ,ΕΙΝΑΙ ΑΛΗΘΕΙΑ
 SERIES$$hub://cvyod/omega/ekpompes_arxio/inealithia650x420px.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/2017/20171019_vote.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=134232&-V=tvshows" ,VOTE
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/20171019_vote.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=134232&-V=tvshows" ,VOTE
 SERIES$$hub://cvyod/omega/ekpompes_arxio/20171019_vote.txt
 #EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/kathimasanatoli.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=133669&-V=tvshows" ,ΚΑΘ' ΗΜΑΣ ΑΝΑΤΟΛΗ
 SERIES$$hub://cvyod/omega/ekpompes_arxio/kathimasanatoli.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/2017/20170928_diadromi.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=133484&-V=tvshows" ,ΔΙΑΔΡΟΜΗ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/20170928_diadromi.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=133484&-V=tvshows" ,ΔΙΑΔΡΟΜΗ
 SERIES$$hub://cvyod/omega/ekpompes_arxio/20170928_diadromi.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/2017/20170928_kyprion_erga.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=133486&-V=tvshows" ,ΚΥΠΡΙΩΝ ΕΡΓΑ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/20170928_kyprion_erga.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=133486&-V=tvshows" ,ΚΥΠΡΙΩΝ ΕΡΓΑ
 SERIES$$hub://cvyod/omega/ekpompes_arxio/20170928_kyprion_erga.txt
 #EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/20160920_veto_tvshow.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=123855&-V=tvshows" ,ΒΕΤΟ
 SERIES$$hub://cvyod/omega/ekpompes_arxio/20160920_veto_tvshow.txt
@@ -2648,13 +2648,13 @@ SERIES$$hub://cvyod/omega/ekpompes_arxio/xaroumenos-taxidioths.txt
 SERIES$$hub://cvyod/omega/ekpompes_arxio/fars-attack.txt
 #EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/PAREA-MOU-650420px.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=144221&-V=tvshows" ,ΠΑΡΕΑ mou
 SERIES$$hub://cvyod/omega/ekpompes_arxio/PAREA-MOU.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/2017/20171016_alazo.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=134076&-V=tvshows" ,αλλά-ΖΩ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/20171016_alazo.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=134076&-V=tvshows" ,αλλά-ΖΩ
 SERIES$$hub://cvyod/omega/ekpompes_arxio/20171016_alazo.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/2017/20171010_star_cyprus_2017.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=133852&-V=tvshows" ,STAR Κύπρος 2017
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/20171010_star_cyprus_2017.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=133852&-V=tvshows" ,STAR Κύπρος 2017
 SERIES$$hub://cvyod/omega/ekpompes_arxio/20171010_star_cyprus_2017.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/2017/20171005_30_meres.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=133707&-V=tvshows" ,30 ΜΕΡΕΣ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/20171005_30_meres.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=133707&-V=tvshows" ,30 ΜΕΡΕΣ
 SERIES$$hub://cvyod/omega/ekpompes_arxio/20171005_30_meres.txt
-#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/2017/san_tin_kypro_20170713_2.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=130937&-V=tvshows" ,ΣΑΝ ΤΗΝ ΚΥΠΡΟ
+#EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/san_tin_kypro_20170713_2.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=130937&-V=tvshows" ,ΣΑΝ ΤΗΝ ΚΥΠΡΟ
 SERIES$$hub://cvyod/omega/ekpompes_arxio/san_tin_kypro_20170713_2.txt
 #EXTINF:-1 group-title="OMEGA ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/omega/20160822_olagiasena.jpg" tvg-website="https://www.omegatv.com.cy/cgibin/hweb?-A=122973&-V=tvshows" ,ΟΛΑ ΓΙΑ ΣΕΝΑ! (2016-18)
 SERIES$$hub://cvyod/omega/ekpompes_arxio/20160822_olagiasena.txt
