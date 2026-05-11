@@ -2850,7 +2850,7 @@ SERIES$$hub://cvyod/rik/arxio/khronographema.txt
 #EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΑΡΧΕΙΟ ΤΑΙΝΙΕΣ" tvg-logo="hub://logs/red.png" ,==== RIK ΑΡΧΕΙΟ ΤΑΙΝΙΕΣ ΚΥΠΡΟΣ ====
 http://.....
 
-#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΑΡΧΕΙΟ ΤΑΙΝΙΕΣ" tvg-logo="https://i.ibb.co/cJtshcJ/rik-logo.png" ,ΟΛΕΣ ΟΙ ΤΑΙΝΙΕΣ
+#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΑΡΧΕΙΟ ΤΑΙΝΙΕΣ" tvg-logo="hub://logseries/rik/rik-logo.png" ,ΟΛΕΣ ΟΙ ΤΑΙΝΙΕΣ
 https://digital-herodotus.eu/archive/video/categories/|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΑΡΧΕΙΟ ΤΑΙΝΙΕΣ" tvg-logo="hub://logseries/rik/764482094-4dca5d3929eeb4f9e4d36c55cd6d6ac57799184a3d73bd270093d2c580ddec60-d_640.jpg" tvg-website="https://digital-herodotus.eu/archive/video/items/2246/e-elia-tou-ae-basile/?page=1" ,Η ΕΛΙΑ ΤΟΥ ΑΗ ΒΑΣΙΛΗ(29/12/1973)
 https://digital-herodotus.eu/archive/video/items/2246/e-elia-tou-ae-basile/?page=1|webvod zoom=100 scroll=0,0
