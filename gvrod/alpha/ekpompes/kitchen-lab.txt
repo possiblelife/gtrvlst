@@ -1002,3 +1002,7 @@ https://www.alphatv.gr/show/kitchen-lab/show-episode/691335-26-04-26-2/|webvidfu
 https://www.alphatv.gr/show/kitchen-lab/show-episode/694470-02-05-26-2/|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 8",03/05/26
 https://www.alphatv.gr/show/kitchen-lab/show-episode/694475-03-05-26/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 8",09/05/26
+https://www.alphatv.gr/show/kitchen-lab/show-episode/697647-09-05-26-2/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 8",10/05/26
+https://www.alphatv.gr/show/kitchen-lab/show-episode/697678-10-05-26-2/|webvidfulldig
