@@ -23,6 +23,8 @@ SERIES$$hub://gvrod/alpha/sires/na-m-agapas.txt
 SERIES$$hub://gvrod/alpha/sires/Να.μ.αγαπάς.(2025)
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-logo="hub://logseries/alpha/Ναμελεςμαμά2025.jpg" tvg-website="https://www.alphatv.gr/show/na-me-les-mama/" tvg-description="hub://desc/Alpha/Να.με.λες.μαμά.(2025)" ,Να με λες μαμά (Aphatv μόνο) (2025)
 SERIES$$hub://gvrod/alpha/sires/na-me-les-mama.txt
+#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-logo="hub://logseries/alpha/Ναμελεςμαμά2025.jpg" tvg-website="https://www.alphatv.gr/show/na-me-les-mama/" tvg-description="hub://desc/Alpha/Να.με.λες.μαμά.(2025)" ,Να με λες μαμά (2025)
+SERIES$$hub://gvrod/alpha/sires_arxio/Να.με.λες.μαμά.(2025)
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-logo="hub://logseries/alpha/PortoLeone2025.jpg" tvg-website="https://www.alphatv.gr/show/porto-leone-sti-geitonia-me-ta-kokkina-fanaria/" tvg-description="hub://desc/Alpha/porto.leone.(2025)" ,Porto Leone – Στη γειτονιά με τα κόκκινα φανάρια (Aphatv μόνο) (2025)
 SERIES$$hub://gvrod/alpha/sires/porto-leone-sti-geitonia-me-ta-kokkina-fanaria.txt
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-logo="hub://logseries/alpha/PortoLeone2025.jpg" tvg-website="https://www.alphatv.gr/show/porto-leone-sti-geitonia-me-ta-kokkina-fanaria/" tvg-description="hub://desc/Alpha/porto.leone.(2025)" ,Porto Leone – Στη γειτονιά με τα κόκκινα φανάρια (2025)
@@ -39,8 +41,6 @@ SERIES$$hub://gvrod/alpha/sires/Άγιος.έρωτας.(2024-2025)
 SERIES$$hub://gvrod/alpha/sires/Ο.γιατρός.(2023-2024)
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-logo="hub://logseries/alpha/oikogeneiakes-istories.jpg" tvg-website="https://www.alphatv.gr/show/oikogeneiakes-istories/" tvg-description="hub://desc/Alpha/oikogeneiakes-istories" ,ΟΙΚΟΓΕΝΕΙΑΚΕΣ ΙΣΤΟΡΙΕΣ (2018-2026)
 SERIES$$hub://gvrod/alpha/sires/oikogeneiakes-istories.txt
-#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-logo="hub://logseries/alpha/Ναμελεςμαμά2025.jpg" tvg-website="https://www.alphatv.gr/show/na-me-les-mama/" tvg-description="hub://desc/Alpha/Να.με.λες.μαμά.(2025)" ,Να με λες μαμά (2025)
-SERIES$$hub://gvrod/alpha/sires_arxio/Να.με.λες.μαμά.(2025)
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="μυστηρίου" tvg-logo="hub://logseries/alpha/Διάφανηαγάπη2024.jpg" tvg-website="https://www.alphatv.gr/show/diafani-agapi/" tvg-description="hub://desc/Alpha/Διάφανη.αγάπη.(2024-2025)" ,ΔΙΑΦΑΝΗ ΑΓΑΠΗ (Aphatv μόνο) (2024-2025)
 SERIES$$hub://gvrod/alpha/sires_arxio/diafani-agapi.txt
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="μυστηρίου" tvg-logo="hub://logseries/alpha/Διάφανηαγάπη2024.jpg" tvg-website="https://www.alphatv.gr/show/diafani-agapi/" tvg-description="hub://desc/Alpha/Διάφανη.αγάπη.(2024-2025)",ΔΙΑΦΑΝΗ ΑΓΑΠΗ (2024-2025)
