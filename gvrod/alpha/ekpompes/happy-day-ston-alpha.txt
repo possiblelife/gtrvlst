@@ -6,7 +6,7 @@ https://www.alphatv.gr/show/happy-day-ston-alpha/show-episode/272007-05-01-16/|w
 https://www.alphatv.gr/show/happy-day-ston-alpha/show-episode/272006-06-01-16/|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",07/01/16
 https://www.alphatv.gr/show/happy-day-ston-alpha/show-episode/272002-07-01-16/|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 1",08/01/16
+#EXTINF:-1 group-title="Σεζόν 1",08/01/16a
 https://www.alphatv.gr/show/happy-day-ston-alpha/show-episode/272001-08-01-16/|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",11/01/16
 https://www.alphatv.gr/show/happy-day-ston-alpha/show-episode/271997-11-01-16/|webvidfulldig
@@ -4344,3 +4344,7 @@ https://www.alphatv.gr/show/happy-day-ston-alpha/show-episode/698172-11-05-2026/
 https://www.alphatv.gr/show/happy-day-ston-alpha/show-episode/698740-12-05-2026/|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 11",13-05-2026
 https://www.alphatv.gr/show/happy-day-ston-alpha/show-episode/699455-13-05-2026/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 11",14-05-2026
+https://www.alphatv.gr/show/happy-day-ston-alpha/show-episode/699750-14-05-2026/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 11",15-05-2026
+https://www.alphatv.gr/show/happy-day-ston-alpha/show-episode/700235-15-05-2026/|webvidfulldig

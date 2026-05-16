@@ -674,3 +674,7 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=222331&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=222330&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 163 CUISINOVIAΠΑΒΛΟΒΑ ΜΠΑΝΟΦΙ
 https://www.omegatv.com.cy/cgibin/hweb?-A=222333&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 164 CUISINOVIA Μαροκινό κοτόπουλο με κουσκούς, Ανάποδο cheesecake με αναρή
+https://www.omegatv.com.cy/cgibin/hweb?-A=222370&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 165 CUISINOVIAΤάκος με «τσίλι κον κάρνε», Τιραμισού Καπουτσίνο Σοκολάτας
+https://www.omegatv.com.cy/cgibin/hweb?-A=222373&-V=vod|webfulldig
