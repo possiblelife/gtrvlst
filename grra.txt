@@ -1,10 +1,10 @@
 
 #EXTINF:-1  tvg-logo="https://store-images.s-microsoft.com/image/apps.44254.13510798882884611.9023bb91-fb65-476a-892a-7e943054ba51.fb57c9d4-c4a8-45e2-8cbd-5cbc5dfd98d5?mode=scale&q=90&h=300&w=300" , ===ΡΑΔΙΟΦΩΝΟ===
-https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/35/46/10/354610c9-52d2-d0ac-cdef-0bbb3e96a614/source/512x512bb.jpg|webview zoom=100 scroll=0,0
+https://netradio.live24.gr/menta88ath
 
 
 #EXTINF:-1 group-title="ΑΘΗΝΑ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΑΘΗΝΑ ====
-http://.....
+https://netradio.live24.gr/menta88ath
 #EXTINF:-1 group-title="ΑΘΗΝΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/menta88.png",Μέντα 88 (Αθήνα)
 https://netradio.live24.gr/menta88ath
 #EXTINF:-1 group-title="ΑΘΗΝΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/pepper.png",Pepper 96,6 (Αθήνα)
@@ -168,7 +168,7 @@ https://stream.zeno.fm/erzpzalnqeitv
 
 
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΟΝΙΚΗ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΘΕΣΣΑΛΟΝΙΚΗ ====
-http://.....
+https://eco.onestreaming.com/proxy/cosmoradio/stream
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΟΝΙΚΗ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/cosmoradio2023.jpg",Κοσμοράδιο 95,1 (Θεσσαλονίκη)
 https://eco.onestreaming.com/proxy/cosmoradio/stream
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΟΝΙΚΗ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/metropolis2023.png",Metropolis 95,5 (Θεσσαλονίκη)
@@ -288,7 +288,7 @@ https://radio.1055rock.gr:32667/live
 
 
 #EXTINF:-1 group-title="ΗΠΕΙΡΟΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΗΠΕΙΡΟΣ ====
-http://.....
+https://radiostreaming.ert.gr/ert-ioannina
 #EXTINF:-1 group-title="ΗΠΕΙΡΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/ert-ioannina.jpg",ΕΡΤ Ιωάννινα 88,2 (Ιωάννινα)
 https://radiostreaming.ert.gr/ert-ioannina
 #EXTINF:-1 group-title="ΗΠΕΙΡΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/orthodoxoslogos.jpg",Ορθόδοξος Λόγος 105,1 (Παραμυθιά)
@@ -362,7 +362,7 @@ https://stream2.rcast.net/70305
 
 
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΘΕΣΣΑΛΙΑ ====
-http://.....
+https://eco.onestreaming.com/proxy/campos/stream
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/campos978.jpg",Campos 97,8 (Λάρισα)
 https://eco.onestreaming.com/proxy/campos/stream
 #EXTINF:-1 group-title="ΘΕΣΣΑΛΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/monaxikidiakonia.png",Μοναχική Διακονία 87,5 (Βόλος)
@@ -498,7 +498,7 @@ https://sh.onweb.gr/8870/;
 
 
 #EXTINF:-1 group-title="ΘΡΑΚΗ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΘΡΑΚΗ ====
-http://.....
+https://eco.onestreaming.com/proxy/elladafm/stream
 #EXTINF:-1 group-title="ΘΡΑΚΗ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/elladafm104.png",Ελλάδα 104 (Αλεξανδρούπολη)
 https://eco.onestreaming.com/proxy/elladafm/stream
 #EXTINF:-1 group-title="ΘΡΑΚΗ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/985nrg.png",NRG 98,5 (Αλεξανδρούπολη)
@@ -615,7 +615,7 @@ https://cast4.magicstreams.gr:2200/ssl/sc_gr40c?mp=/stream
 
 
 #EXTINF:-1 group-title="ΚΡΗΤΗ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΚΡΗΤΗ ====
-http://.....
+https://stream-mp3aac.live24.gr/max925-her
 #EXTINF:-1 group-title="ΚΡΗΤΗ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/entexnos925.png",Έντεχνος 92,5 (Ηράκλειο)
 https://stream-mp3aac.live24.gr/max925-her
 #EXTINF:-1 group-title="ΚΡΗΤΗ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/loveher.png",Love Radio Κρήτης 102,8 (Ηράκλειο)
@@ -815,7 +815,7 @@ https://sh.onweb.gr/8454/stream
 
 
 #EXTINF:-1 group-title="ΜΑΚΕΔΟΝΙΑ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΜΑΚΕΔΟΝΙΑ ====
-http://.....
+https://eco.onestreaming.com/proxy/enime/stream
 #EXTINF:-1 group-title="ΜΑΚΕΔΟΝΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/enimerosi.png",Ενημέρωση 92,2 (Κατερίνη)
 https://eco.onestreaming.com/proxy/enime/stream
 #EXTINF:-1 group-title="ΜΑΚΕΔΟΝΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/kastoriafm.png",Καστοριά Fm 91,5 (Καστοριά)
@@ -1003,7 +1003,7 @@ https://s17.myradiostream.com:8742/listen.mp3?nocache=1677248733
 
 
 #EXTINF:-1 group-title="ΑΙΓΑΙΟ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΑΙΓΑΙΟ ====
-http://.....
+https://eco.onestreaming.com/proxy/stonisi99/stream
 #EXTINF:-1 group-title="ΑΙΓΑΙΟ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/stonisi99fm-balaskas.png",Στο Νησί 99 (Μυτιλήνη)
 https://eco.onestreaming.com/proxy/stonisi99/stream
 #EXTINF:-1 group-title="ΑΙΓΑΙΟ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/aeolos.png",Αίολος 92,8 (Μυτιλήνη)
@@ -1157,7 +1157,7 @@ http://195.251.162.74:8000/stream
 
 
 #EXTINF:-1 group-title="ΙΟΝΙΟ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΙΟΝΙΟ ====
-http://.....
+https://eco.onestreaming.com/proxy/rythmos943/stream
 #EXTINF:-1 group-title="ΙΟΝΙΟ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/rythmos943.png",Ρυθμός 94,3 (Ζάκυνθος)
 https://eco.onestreaming.com/proxy/rythmos943/stream
 #EXTINF:-1 group-title="ΙΟΝΙΟ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/lefkatas.jpg",Lefkatas 90,5 (Λευκάδα)
@@ -1225,7 +1225,7 @@ https://sh.onweb.gr/8840/;
 
 
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΠΕΛΟΠΟΝΝΗΣΟΣ ====
-http://.....
+https://i.streams.ovh/sc/melodiapatras/stream
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/melodiapatras.png",Μελωδία 100,4 (Πάτρα)
 https://i.streams.ovh/sc/melodiapatras/stream
 #EXTINF:-1 group-title="ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/drt.png",Δημοτική Ραδιοφωνία Τρίπολης 91,5 (Τρίπολη)
@@ -1420,7 +1420,7 @@ https://ams-pioneer02.dedicateware.com:1060/;
 
 
 #EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΣΤΕΡΕΑ ΕΛΛΑΔΑ ====
-http://.....
+https://stream.radiojar.com/zeqcyyvu48hvv
 #EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/sokfm.png",Σοκ 104,8 (Χαλκίδα)
 https://stream.radiojar.com/zeqcyyvu48hvv
 #EXTINF:-1 group-title="ΣΤΕΡΕΑ ΕΛΛΑΔΑ" tvg-logo="https://cdn.e-radio.gr/logos/gr/high/laivfm22.png",Live fm 89,6 (Χαλκίδα)
@@ -1553,8 +1553,7 @@ https://xroma985.live24.gr/xroma985
 
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΔΙΑΔΙΚΤΥΑΚΑ ====
-http://.....
-
+https://radio.streams.gr/ic/dipolo/stream
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logs/Dipolo.png" ,Radio Dipolo
 https://radio.streams.gr/ic/dipolo/stream
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/F4gX4KDk/80s.png" ,ERTecho 80s radio
@@ -1865,7 +1864,7 @@ https://jacksonspalace.radioca.st/stream?type=http&nocache=220
 https://stream.zeno.fm/8uhaz4x25bhvv
 
 #EXTINF:-1 group-title="ΚΥΠΡΟΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΛΕΥΚΩΣΙΑ ΚΥΠΡΟΣ ====
-http://.....
+https://live3.istoikona.net:18950/stream
 #EXTINF:-1 group-title="ΚΥΠΡΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/cy/high/deejaycy.png",Deejay 93,6 (Λευκωσία)
 https://live3.istoikona.net:18950/stream
 #EXTINF:-1 group-title="ΚΥΠΡΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/cy/high/lovefmcyprus.png",Love Fm 100,7 (Λευκωσία)
@@ -1935,7 +1934,7 @@ https://stream.radiojar.com/mg7kftnzka3vv
 #EXTINF:-1 group-title="ΚΥΠΡΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/cy/high/noisecy.png",Noise Radio  (Λευκωσία)
 https://aaradioforyou.radioca.st/stream
 #EXTINF:-1 group-title="ΚΥΠΡΟΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΛΕΜΕΣΟΣ ΚΥΠΡΟΣ ====
-http://.....
+https://live3.istoikona.net/proxy/choice/stream
 #EXTINF:-1 group-title="ΚΥΠΡΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/cy/high/choiceradio.png",Choice 104,3 (Λεμεσός)
 https://live3.istoikona.net/proxy/choice/stream
 #EXTINF:-1 group-title="ΚΥΠΡΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/cy/high/kanali6.png",Κανάλι Εξι 106 (Λεμεσός)
@@ -1949,7 +1948,7 @@ https://stream.radiojar.com/1myzry1mbbuvv
 #EXTINF:-1 group-title="ΚΥΠΡΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/cy/high/imlemesou.png",Ραδιόφωνο Ιεράς Μητροπόλεως Λεμεσού 94.5 94,5 (Λεμεσός)
 http://93.109.209.123:9080/stream.mp3
 #EXTINF:-1 group-title="ΚΥΠΡΟΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΛΑΡΝΑΚΑ ΚΥΠΡΟΣ ====
-http://.....
+https://live3.istoikona.net/proxy/ola97/stream
 #EXTINF:-1 group-title="ΚΥΠΡΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/cy/high/ola97.jpg",OlA 97 (Λάρνακα)
 https://live3.istoikona.net/proxy/ola97/stream
 #EXTINF:-1 group-title="ΚΥΠΡΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/cy/high/lrgcyprus.png",LGR Cyprus  (Λάρνακα)
@@ -1957,6 +1956,6 @@ https://live3.istoikona.net/proxy/lgr93/stream
 #EXTINF:-1 group-title="ΚΥΠΡΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/cy/high/star937.png",Star FM 93,7 (Λάρνακα)
 http://eradio.networksolutions.com.cy:1935/StarFM/StarFM.stream/playlist.m3u8
 #EXTINF:-1 group-title="ΚΥΠΡΟΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΑΜΜΟΧΩΣΤΟΣ ΚΥΠΡΟΣ ====
-http://.....
+http://23.29.119.99:8157/stream
 #EXTINF:-1 group-title="ΚΥΠΡΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/cy/high/politiafamagusta.png",Πολιτία FM 106.7 (Αμμόχωστος)
 http://23.29.119.99:8157/stream
