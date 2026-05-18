@@ -1,12 +1,4 @@
-#EXTINF:-1  tvg-logo="hub://logs/greek-flag-in-tv.png" , ===ΤΗΛΕΟΡΑΣΗ===
-hub://logs/tv.jpg|webview zoom=100 scroll=0,0
-
-
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-logo="hub://logs/red.png" ,==== ΠΑΝΕΛΛΑΔΙΚΑ ====
-http://.....
-
-
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-logo="hub://logs/flixert.png",ERTFLIX LIVE
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-logo="hub://logs/flixert.png",ERTFLIX Website
 https://www.ertflix.gr/#/channels|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="hub://logs/ERT1.png" tvg-name="ΕΡΤ1" tvg-website="https://www.ertflix.gr" ,ΕΡΤ1 HD
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT1/default/index.mpd
@@ -70,15 +62,6 @@ https://diavlos3.cnt.grnet.gr/parltv/webtv-2.sdp/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="hub://logs/red.png" ,===== ΑΘΛΗΤΙΚΑ ====
-http://.....
-
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="hub://logs/sports-schedule.png" ,Αθλητικές Μεταδόσεις (gazzetta)
-https://www.gazzetta.gr/tv-program|webview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="hub://logs/sports-schedule.png" ,Αθλητικές Μεταδόσεις (athinorama)
-https://www.athinorama.gr/tv/programma/athlitikesmetadoseis/|webview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="hub://logs/sports-schedule.png" ,Αθλητικές Μεταδόσεις (ERT)
-https://program.ert.gr/tvsports.asp|webview zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="hub://logs/stoiximan_horses.png" ,Pame Stoixima Racing (Ιπποδρομίες)
 https://odiehlsmslnew.akamaized.net/hls/live/2112246/odie3/odie_1000.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="hub://logs/Pame-Stoixima.png",Pame Stoixima
@@ -113,11 +96,6 @@ https://www.youtube.com/@SDNA_webTV/streams|webepg zoom=100 scroll=0,0
 https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&Referer=https://dev.aftermind.xyz/alfa_sports.html
 
 
-
-
-
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-logo="hub://logs/red.png" ,===== ΠΕΡΙΦΕΡΕΙΑΚΑ ====
-http://.....
 
 
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="4Ε" tvg-logo="hub://logs/4E.png" tvg-website="https://tv4e.gr/index.php/" ,4E (Κ. ΜΑΚΕΔΟΝΙΑΣ )
@@ -249,10 +227,6 @@ https://gra1.crystalweb.net:1936/tvkosmos/tvkosmos/playlist.m3u8
 
 
 
-
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="hub://logs/red.png" ,===== ΠΑΓΚΥΠΡΙΑ ====
-http://.....
-
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik1" tvg-logo="hub://logs/rik1.png" tvg-name="ΡΙΚ1" tvg-website="http://cybc.com.cy/" ,ΡΙΚ1 [ΜΟΝΟ ΓΙΑ ΚΥΠΡΟ]
 http://l6.cloudskep.com/rikct/rik1/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik1" tvg-logo="hub://logs/rik1.png" tvg-name="ΡΙΚ1" tvg-website="http://cybc.com.cy/" ,ΡΙΚ1 - ΕΝΑΛΛΑΚΤΙΚΟ [ΜΟΝΟ ΓΙΑ ΚΥΠΡΟ]
@@ -304,10 +278,6 @@ sec:ch13
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="ert" tvg-logo="hub://logs/ERT-WORLD.png"  tvg-name="Eρτ WORLD" tvg-website="https://www.ertflix.gr" ,Eρτ WORLD Κύπρου
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTWorld_Cyprus/default/index.mpd
 
-
-
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/red.png" ,===== ΔΙΑΔΙΚΤΥΑΚΑ ====
-http://.....
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-id="EGNATIA" tvg-logo="hub://logs/egnatia.png" tvg-website="https://www.egnatia.tv/" ,ΕΓΝΑΤΙΑ
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/playlist.m3u8
@@ -395,8 +365,7 @@ https://www.twitch.tv/freeangelwebtv|weballdig
 https://kali.vdopanel.com:3292/hybrid/play.m3u8
 
 
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="hub://logs/red.png" ,===== ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ ====
-http://.....
+
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="hub://logs/faroscy.png" tvg-website="https://www.farosonair.com/" ,ΦΑΡΟΣ on Air
 https://s1.cystream.net/live/faros1/chunks.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="hub://logs/faroscy.png" tvg-website="https://www.farosonair.com/" ,ΦΑΡΟΣ on Air2
@@ -409,8 +378,7 @@ https://dev.aftermind.xyz/hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jr
 https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&Referer=https://dev.aftermind.xyz/vouli.html
 
 
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/red.png" ,=====   ΤΑΙΝΙΕΣ   ====
-http://.....
+
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-id="ANTCOMEDY" tvg-logo="hub://logs/ant1_comedy.png" ,ANT1 Comedy
 https://mcdn.antennaplus.gr/live/media0/Comedy/HLS/Comedy.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-id="ANTDRAMA" tvg-logo="hub://logs/ant1_drama.png" ,ANT1 Drama
@@ -460,8 +428,6 @@ https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/red.png" ,=====   ΜΟΥΣΙΚΗ   ====
-http://.....
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/mad_workd.png" ,MAD World
 https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/mad.png" ,MAD
@@ -543,9 +509,6 @@ https://www.youtube.com/watch?v=1fz60gNnSdU
 
 
 
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/red.png" ,=====   ΠΑΙΔΙΚΑ   ====
-http://.....
-
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ" tvg-id="smile"  tvg-name="Smile" tvg-logo="hub://logs/smile.png" ,Smile (vip)
 sec:ch13
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="hub://logs/ertkids.png" tvg-name="ErtFlix Kids" ,ErtFlix Kids
@@ -596,8 +559,8 @@ https://www.youtube.com/watch?v=76wyKYBnd28
 https://www.youtube.com/@Oddbods/videos|webepg zoom=100 scroll=0,0
 
 
-#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-logo="hub://logs/red.png" ,=====   ΕΚΚΛΗΣΙΑΣΤΙΚΑ   ====
-http://.....
+
+
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-id="4Ε" tvg-logo="hub://logs/4E.png" tvg-website="https://tv4e.gr/index.php/" ,4E (Κ. ΜΑΚΕΔΟΝΙΑΣ )
 http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"   tvg-logo="hub://logs/agios_ioannis.png" tvg-website="https://agiosioannistheologosmantoudiou.blogspot.com/" ,Άγιος Ιωάννης στο Μαντούδι Ευβοίας
@@ -615,8 +578,7 @@ https://www.youtube.com/@ekklisianews/streams|webepg zoom=100 scroll=0,0
 
 
 
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/red.png" ,=====   ΔΙΕΘΝΗ ΔΙΚΤΥΑ    ====
-http://.....
+
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-id="riksat" tvg-logo="hub://logs/rik-sat.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ SAT
 https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/star.png" ,STAR International
@@ -688,20 +650,17 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 
 
-
-#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ"  tvg-logo="hub://logs/red.png" ,=====   ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ    ====
-http://.....
-#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ" tvg-logo="hub://logs/epgsss.png" ,Cosmote TV
+#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ" tvg-logo="hub://logs/epgsss.png" ,Cosmote TV  Website
 https://www.cosmotetv.gr/portal/residential/program|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ" tvg-logo="hub://logs/epgsss.png" ,Nova
+#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ" tvg-logo="hub://logs/epgsss.png" ,Nova  Website
 https://epg.nova.gr/|webdeskepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ" tvg-logo="hub://logs/epgsss.png" ,NovaSports
+#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ" tvg-logo="hub://logs/epgsss.png" ,NovaSports  Website
 https://www.novasports.gr/tv-program/|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ" tvg-logo="hub://logs/epgsss.png" ,Cyta Cyprus
+#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ" tvg-logo="hub://logs/epgsss.png" ,Cyta Cyprus  Website
 https://www.cyta.com.cy/tv-guide|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ"  tvg-logo="hub://logs/sports-schedule.png" ,Αθλητικές Μεταδόσεις (gazzetta)
+#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ"  tvg-logo="hub://logs/sports-schedule.png" ,Αθλητικές Μεταδόσεις (gazzetta)  Website
 https://www.gazzetta.gr/tv-program|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ"  tvg-logo="hub://logs/sports-schedule.png" ,Αθλητικές Μεταδόσεις (athinorama)
+#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ"  tvg-logo="hub://logs/sports-schedule.png" ,Αθλητικές Μεταδόσεις (athinorama)  Website
 https://www.athinorama.gr/tv/programma/athlitikesmetadoseis/|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ"  tvg-logo="hub://logs/sports-schedule.png" ,Αθλητικές Μεταδόσεις (ERT)
+#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ"  tvg-logo="hub://logs/sports-schedule.png" ,Αθλητικές Μεταδόσεις (ERT) Website
 https://program.ert.gr/tvsports.asp|webepg zoom=100 scroll=0,0
