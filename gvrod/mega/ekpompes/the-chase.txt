@@ -1,7 +1,3 @@
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 146
-https://www.megatv.com/gtvshows/2336305/epeisodio-146-7/|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 147
-https://www.megatv.com/gtvshows/2337541/epeisodio-147-8/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 148
 https://www.megatv.com/gtvshows/2340481/epeisodio-148-6/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 149
@@ -44,3 +40,7 @@ https://www.megatv.com/gtvshows/2365843/epeisodio-166-6/|webfulldig
 https://www.megatv.com/gtvshows/2367619/epeisodio-167-6/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 168
 https://www.megatv.com/gtvshows/2368012/epeisodio-168-6/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 169
+https://www.megatv.com/gtvshows/2369266/epeisodio-169-6/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 170
+https://www.megatv.com/gtvshows/2370382/epeisodio-170-6/|webfulldig

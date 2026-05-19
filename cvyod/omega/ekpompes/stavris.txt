@@ -516,3 +516,5 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=221886&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=222332&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 6",Σεζόν 06 Επεισόδιο 036 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ Μπιφτέκια με βρώμη/ Μπάρες βρώμης με φυστικοβούτυρο Αναρόκρεμα
 https://www.omegatv.com.cy/cgibin/hweb?-A=222371&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 6",Σεζόν 06 Επεισόδιο 037 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
+https://www.omegatv.com.cy/cgibin/hweb?-A=222425&-V=vod|webfulldig
