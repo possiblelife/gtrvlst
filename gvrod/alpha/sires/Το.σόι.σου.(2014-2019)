@@ -99,7 +99,9 @@ https://greekfun.net/media.php?type=series&id=181&episode_id=10828|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",Σεζον 1 - Επεισοδιο 51
 https://greekfun.net/media.php?type=series&id=181&episode_id=10829|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",Σεζον 1 - Επεισοδιο 52
-https://greekfun.net/media.php?type=series&id=181&episode_id=10830|webvidfulldig
+https://greekfun.net/media.php?type=series&id=181&episode_id=10830|webvidfulldig$$hub://ck
+#EXTINF:-1 group-title="Σεζόν 1",.
+https://greekfun.net/media.php?type=series&id=181&episode_id=10830|webautoview zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Σεζόν 2",Σεζον 2 - Επεισοδιο 0
 https://greekfun.net/media.php?type=series&id=181&episode_id=10831|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2",Σεζον 2 - Επεισοδιο 1
