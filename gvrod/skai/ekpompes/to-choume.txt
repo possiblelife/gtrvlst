@@ -126,6 +126,10 @@ https://www.skai.gr/tv/episode/psuchagogia/to-choume/2025-12-03-15|webvidfulldig
 https://www.skai.gr/tv/episode/psuchagogia/to-choume/2025-12-04-15|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2025-2026",Το 'Χουμε! 05/12/2025 
 https://www.skai.gr/tv/episode/psuchagogia/to-choume/2025-12-05-15|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 2025-2026",Το 'Χουμε! 04/12/2025 
+https://www.skai.gr/tv/episode/psuchagogia/to-choume/2025-12-04-15|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 2025-2026",Το 'Χουμε! 05/12/2025 
+https://www.skai.gr/tv/episode/psuchagogia/to-choume/2025-12-05-15|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2025-2026",Το 'Χουμε! 08/12/2025 
 https://www.skai.gr/tv/episode/psuchagogia/to-choume/2025-12-08-15|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2025-2026",Το 'Χουμε! 09/12/2025 
@@ -146,10 +150,6 @@ https://www.skai.gr/tv/episode/psuchagogia/to-choume/2025-12-17-15|webvidfulldig
 https://www.skai.gr/tv/episode/psuchagogia/to-choume/2025-12-18-15|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2025-2026",Το 'Χουμε! 19/12/2025 
 https://www.skai.gr/tv/episode/psuchagogia/to-choume/2025-12-19-15|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2025-2026",Το 'Χουμε! 22/12/2025 
-https://www.skai.gr/tv/episode/psuchagogia/to-choume/2025-12-22-15|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2025-2026",Το 'Χουμε! 23/12/2025 
-https://www.skai.gr/tv/episode/psuchagogia/to-choume/2025-12-23-15|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2025-2026",Το 'Χουμε! 24/12/2025 
 https://www.skai.gr/tv/episode/psuchagogia/to-choume/2025-12-24-15|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2025-2026",Το 'Χουμε! 29/12/2025 
@@ -338,3 +338,7 @@ https://www.skai.gr/tv/episode/psuchagogia/to-choume/2026-05-14-16|webvidfulldig
 https://www.skai.gr/tv/episode/psuchagogia/to-choume/2026-05-15-16|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2025-2026",Το 'Χουμε! 18/05/2026 
 https://www.skai.gr/tv/episode/psuchagogia/to-choume/2026-05-18-16|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 2025-2026",Το 'Χουμε! 19/05/2026 
+https://www.skai.gr/tv/episode/psuchagogia/to-choume/2026-05-19-16|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 2025-2026",Το 'Χουμε! 20/05/2026 
+https://www.skai.gr/tv/episode/psuchagogia/to-choume/2026-05-20-16|webvidfulldig
