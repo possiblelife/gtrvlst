@@ -419,9 +419,9 @@ https://mcv2.streams.gr/stream/dipolotv/index.m3u8
 https://neon.streams.gr:8081/lampsitv/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/escape_media.png" tvg-website="https://escape-media.gr/index.php" ,Escape Media
 https://rtmp.streams.ovh:8081/escapemedia/index.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-name="Ελλάδα TV"  tvg-logo="hub://logs/ELLADA_TV" ,Ελλάδα TV
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-name="Ελλάδα TV"  tvg-name="Ελλάδα TV" tvg-logo="hub://logs/ELLADA_TV.jpg" ,Ελλάδα TV
 https://kali.vdopanel.com:3220/live/elladafmlive.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-name="Ελλάδα TV"  tvg-logo="hub://logs/ELLADA_TV" ,Ελλάδα TV (2)
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-name="Ελλάδα TV"  tvg-name="Ελλάδα TV" tvg-logo="hub://logs/ELLADA_TV.jpg" ,Ελλάδα TV (2)
 https://www.twitch.tv/ellada943fm|weballdig
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/miramax.jpg" ,MiraMax
 https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8
