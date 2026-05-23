@@ -972,6 +972,16 @@ https://www.tvopen.gr/watch/243017/perioxhgkangknambibliothhkhstarfield|webvidfu
 https://www.tvopen.gr/watch/243018/eikonesmetontasodoyshseoyl|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Περίπατος στο Πάρκο Ανσάν με τις ανθισμένες κερασιές, Σεούλ - Νότια Κορέα
 https://www.tvopen.gr/watch/243726/peripatosstoparkoansanmetisanthismeneskerasiesseoylnotiakorea|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Χουανσόνγκ: Ένα φρούριο με μια θλιβερή ιστορία αιώνων, Σουβόν, Νότια Κορέα
+https://www.tvopen.gr/watch/243727/xoyansongkenafroyriomemiathliberhistoriaaiononsoybonnotiakorea|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Παραλία Χεουντέ: Το κοσμοπολίτικο κομμάτι του Μπουσάν
+https://www.tvopen.gr/watch/244327/paraliaxeoyntetokosmopolitikokommatitoympoysan|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Σαμγκουάνγκσα: Βουδιστικός ναός με αμέτρητα φαναράκια
+https://www.tvopen.gr/watch/244328/samgkoyangksaboydistikosnaosmeametrhtafanarakia|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Ακρωτήριο Λευκάτας: Το νοτιότερο σημείο της Λευκάδας
+https://www.tvopen.gr/watch/244909/akrothrioleykatastonotioteroshmeiothsleykadas|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Ζούμε μια μαγική ανατολή στο Νυδρί
+https://www.tvopen.gr/watch/244910/zoymemiamagikhanatolhstonydri|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Λευκάδα
 https://www.tvopen.gr/watch/244911/eikonesmetontasodoyshleykada|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Περίπατος στον κεντρικό πεζόδρομο της Λευκάδας
@@ -984,16 +994,6 @@ https://www.tvopen.gr/watch/246186/menhtestokataprasinoparadosiakoxoriothsandroy
 https://www.tvopen.gr/watch/246188/boltastompatsistohliobasilema|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Άνδρος
 https://www.tvopen.gr/watch/246185/eikonesmetontasodoyshandros|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Χουανσόνγκ: Ένα φρούριο με μια θλιβερή ιστορία αιώνων, Σουβόν, Νότια Κορέα
-https://www.tvopen.gr/watch/243727/xoyansongkenafroyriomemiathliberhistoriaaiononsoybonnotiakorea|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Παραλία Χεουντέ: Το κοσμοπολίτικο κομμάτι του Μπουσάν
-https://www.tvopen.gr/watch/244327/paraliaxeoyntetokosmopolitikokommatitoympoysan|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Σαμγκουάνγκσα: Βουδιστικός ναός με αμέτρητα φαναράκια
-https://www.tvopen.gr/watch/244328/samgkoyangksaboydistikosnaosmeametrhtafanarakia|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Ακρωτήριο Λευκάτας: Το νοτιότερο σημείο της Λευκάδας
-https://www.tvopen.gr/watch/244909/akrothrioleykatastonotioteroshmeiothsleykadas|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Ζούμε μια μαγική ανατολή στο Νυδρί
-https://www.tvopen.gr/watch/244910/zoymemiamagikhanatolhstonydri|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Η Ιερά Μονή Παναχράντου – Αγίου Παντελεήμονος της Άνδρου
 https://www.tvopen.gr/watch/246657/hieramonhpanaxrantoyagioypantelehmonosthsandroy|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Μανδράκι: Το ιστορικό λιμάνι της Ρόδου
