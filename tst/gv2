@@ -4,16 +4,22 @@ https://www.ertflix.gr/#/channels|webepg zoom=100 scroll=0,100
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT1/default/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="hub://logs/ERT1.png" tvg-name="ΕΡΤ1" tvg-website="https://www.ertflix.gr" ,ΕΡΤ1 (vip)
 sec:ch4
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="hub://logs/ERT1.png" tvg-name="ΕΡΤ1" tvg-website="https://www.ertflix.gr" ,ΕΡΤ1 (2)
+https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch1/ept_ch1/mainabr/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="hub://logs/ERT1.png" tvg-name="ΕΡΤ1" tvg-website="https://www.ertflix.gr" ,ΕΡΤ1 (4)
 https://aliez.tv/live/39qi7ee9ru30iw7myt23/|weballdig
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert2" tvg-logo="hub://logs/ERT2_SPOR.png" tvg-name="ΕΡΤ2" tvg-website="https://www.ertflix.gr" ,ΕΡΤ2 HD ΣΠΟΡ
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT2/default/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert2" tvg-logo="hub://logs/ERT2_SPOR.png" tvg-name="ΕΡΤ2" tvg-website="https://www.ertflix.gr" ,ΕΡΤ2 (vip)
 sec:ch7
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert2" tvg-logo="hub://logs/ERT2_SPOR.png" tvg-name="ΕΡΤ2" tvg-website="https://www.ertflix.gr" ,ΕΡΤ2 (2)
+https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch2/ept_ch2/mainabr/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert3" tvg-logo="hub://logs/ERT3.png" tvg-name="ΕΡΤ3" tvg-website="https://www.ertflix.gr" ,ΕΡΤ3 HD
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT3/default/index.mpd
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert3" tvg-logo="hub://logs/ERT3.png" tvg-name="ΕΡΤ3" tvg-website="https://www.ertflix.gr" ,ΕΡΤ3 (vip)
 sec:ch8
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert3" tvg-logo="hub://logs/ERT3.png" tvg-name="ΕΡΤ3" tvg-website="https://www.ertflix.gr" ,ΕΡΤ3 (2)
+https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch3/ept_ch3/mainabr/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1" tvg-logo="hub://logs/ANT1.png" tvg-name="ANT1" tvg-website="https://watch.antennaplus.gr/#/" ,ANT1 HD
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ANT1" tvg-logo="hub://logs/ANT1.png" tvg-name="ANT1" tvg-website="https://watch.antennaplus.gr/#/" ,ANT1 (vip)
