@@ -688,3 +688,7 @@ https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/pagot
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/210526|webvidfulldig
 #EXTINF:-1 group-title="2025-2026",Αφράτη χαλλουμόπιτα φούρνου
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/afrati-halloymopita-foyrnoy|webvidfulldig
+#EXTINF:-1 group-title="2025-2026",22/05/26
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/220526|webvidfulldig
+#EXTINF:-1 group-title="2025-2026",Μαχαλεπί
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/mahalepi|webvidfulldig
