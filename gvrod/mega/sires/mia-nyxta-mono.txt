@@ -164,3 +164,7 @@ https://www.megatv.com/tvshows/2371714/epeisodio-81-18/|webfulldig
 https://www.megatv.com/tvshows/2371717/epeisodio-82-17/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 83
 https://www.megatv.com/tvshows/2378197/epeisodio-83-17/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 84
+https://www.megatv.com/tvshows/2378200/epeisodio-84-16/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 85
+https://www.megatv.com/tvshows/2378206/epeisodio-85-17/|webfulldig

@@ -626,10 +626,6 @@ https://www.tvopen.gr/watch/175881/stonagiogeorgiothnkatholikhmhtropolhthssyroy|
 https://www.tvopen.gr/watch/175882/syrosmagikohliobasilemasthnparaliakini|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Κως: Η μοναδική εικόνα του Ταξιάρχη στον Ασώματο
 https://www.tvopen.gr/watch/176506/koshmonadikheikonatoytaxiarxhstonasomato|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Νάξος: Επίσκεψη στο Χαλκί, το χωριό που σε πάει πίσω στον χρόνο
-https://www.tvopen.gr/watch/178339/naxosepiskepshstoxalkitoxoriopoysepaeipisostonxrono|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Νάξος: Οδοιπορικό στο Φιλώτι, το πολυπληθέστερο χωριό του νησιού
-https://www.tvopen.gr/watch/178341/naxosodoiporikostofilotitopolyplhthesteroxoriotoynhsioy|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Κως: Στη Ζιά για το ομορφότερο ηλιοβασίλεμα
 https://www.tvopen.gr/watch/176507/kossthziagiatoomorfoterohliobasilema|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Κως - Θερμά: Ένα φυσικό σπα με άγρια ομορφιά που θα λατρέψετε
@@ -648,6 +644,10 @@ https://www.tvopen.gr/watch/177744/koskolympimealogamesasthnthalassasthnparaliam
 https://www.tvopen.gr/watch/178214/naxosboltastoenetikokastrothsxoras|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Νάξος: Το μοναδικό ηλιοβασίλεμα στην Πορτάρα
 https://www.tvopen.gr/watch/178215/naxostomonadikohliobasilemasthnportara|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Νάξος: Επίσκεψη στο Χαλκί, το χωριό που σε πάει πίσω στον χρόνο
+https://www.tvopen.gr/watch/178339/naxosepiskepshstoxalkitoxoriopoysepaeipisostonxrono|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Νάξος: Οδοιπορικό στο Φιλώτι, το πολυπληθέστερο χωριό του νησιού
+https://www.tvopen.gr/watch/178341/naxosodoiporikostofilotitopolyplhthesteroxoriotoynhsioy|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Κεφαλονιά - Άσσος: Το χωριό που αιχμαλωτίζει με την ομορφιά του
 https://www.tvopen.gr/watch/178903/kefaloniaassostoxoriopoyaixmalotizeimethnomorfiatoy|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Κεφαλονιά - Παλιά Βλαχάτα: Ένα πανέμορφο χωριό «φάντασμα»
@@ -978,6 +978,16 @@ https://www.tvopen.gr/watch/243727/xoyansongkenafroyriomemiathliberhistoriaaiono
 https://www.tvopen.gr/watch/244327/paraliaxeoyntetokosmopolitikokommatitoympoysan|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Σαμγκουάνγκσα: Βουδιστικός ναός με αμέτρητα φαναράκια
 https://www.tvopen.gr/watch/244328/samgkoyangksaboydistikosnaosmeametrhtafanarakia|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Ακρωτήριο Λευκάτας: Το νοτιότερο σημείο της Λευκάδας
+https://www.tvopen.gr/watch/244909/akrothrioleykatastonotioteroshmeiothsleykadas|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Ζούμε μια μαγική ανατολή στο Νυδρί
+https://www.tvopen.gr/watch/244910/zoymemiamagikhanatolhstonydri|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Λευκάδα
+https://www.tvopen.gr/watch/244911/eikonesmetontasodoyshleykada|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Περίπατος στον κεντρικό πεζόδρομο της Λευκάδας
+https://www.tvopen.gr/watch/245559/peripatosstonkentrikopezodromothsleykadas|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εγκρεμνοί: Στη διάσημη παραλία χωρίς κόσμο
+https://www.tvopen.gr/watch/245560/egkremnoisthdiashmhparaliaxoriskosmo|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Μένητες: Το καταπράσινο παραδοσιακό χωριό της Άνδρου
 https://www.tvopen.gr/watch/246186/menhtestokataprasinoparadosiakoxoriothsandroy|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Βόλτα στο Μπατσί στο ηλιοβασίλεμα
@@ -990,16 +1000,6 @@ https://www.tvopen.gr/watch/246657/hieramonhpanaxrantoyagioypantelehmonosthsandr
 https://www.tvopen.gr/watch/247368/mandrakitoistorikolimanithsrodoy|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Μαγικό ξημέρωμα στην παλιά πόλη χωρίς τουρίστες
 https://www.tvopen.gr/watch/247369/magikoxhmeromasthnpaliapolhxoristoyristes|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Ακρωτήριο Λευκάτας: Το νοτιότερο σημείο της Λευκάδας
-https://www.tvopen.gr/watch/244909/akrothrioleykatastonotioteroshmeiothsleykadas|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Ζούμε μια μαγική ανατολή στο Νυδρί
-https://www.tvopen.gr/watch/244910/zoymemiamagikhanatolhstonydri|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Λευκάδα
-https://www.tvopen.gr/watch/244911/eikonesmetontasodoyshleykada|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Περίπατος στον κεντρικό πεζόδρομο της Λευκάδας
-https://www.tvopen.gr/watch/245559/peripatosstonkentrikopezodromothsleykadas|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εγκρεμνοί: Στη διάσημη παραλία χωρίς κόσμο
-https://www.tvopen.gr/watch/245560/egkremnoisthdiashmhparaliaxoriskosmo|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση – Ρόδος
 https://www.tvopen.gr/watch/247367/eikonesmetontasodoyshrodos|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Στις 7 πηγές με το τούνελ που οδηγεί σε λίμνη
