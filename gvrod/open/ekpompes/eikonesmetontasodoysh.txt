@@ -626,6 +626,10 @@ https://www.tvopen.gr/watch/175881/stonagiogeorgiothnkatholikhmhtropolhthssyroy|
 https://www.tvopen.gr/watch/175882/syrosmagikohliobasilemasthnparaliakini|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Κως: Η μοναδική εικόνα του Ταξιάρχη στον Ασώματο
 https://www.tvopen.gr/watch/176506/koshmonadikheikonatoytaxiarxhstonasomato|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Νάξος: Επίσκεψη στο Χαλκί, το χωριό που σε πάει πίσω στον χρόνο
+https://www.tvopen.gr/watch/178339/naxosepiskepshstoxalkitoxoriopoysepaeipisostonxrono|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Νάξος: Οδοιπορικό στο Φιλώτι, το πολυπληθέστερο χωριό του νησιού
+https://www.tvopen.gr/watch/178341/naxosodoiporikostofilotitopolyplhthesteroxoriotoynhsioy|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Κως: Στη Ζιά για το ομορφότερο ηλιοβασίλεμα
 https://www.tvopen.gr/watch/176507/kossthziagiatoomorfoterohliobasilema|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Κως - Θερμά: Ένα φυσικό σπα με άγρια ομορφιά που θα λατρέψετε
@@ -644,10 +648,6 @@ https://www.tvopen.gr/watch/177744/koskolympimealogamesasthnthalassasthnparaliam
 https://www.tvopen.gr/watch/178214/naxosboltastoenetikokastrothsxoras|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Νάξος: Το μοναδικό ηλιοβασίλεμα στην Πορτάρα
 https://www.tvopen.gr/watch/178215/naxostomonadikohliobasilemasthnportara|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Νάξος: Επίσκεψη στο Χαλκί, το χωριό που σε πάει πίσω στον χρόνο
-https://www.tvopen.gr/watch/178339/naxosepiskepshstoxalkitoxoriopoysepaeipisostonxrono|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Νάξος: Οδοιπορικό στο Φιλώτι, το πολυπληθέστερο χωριό του νησιού
-https://www.tvopen.gr/watch/178341/naxosodoiporikostofilotitopolyplhthesteroxoriotoynhsioy|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Κεφαλονιά - Άσσος: Το χωριό που αιχμαλωτίζει με την ομορφιά του
 https://www.tvopen.gr/watch/178903/kefaloniaassostoxoriopoyaixmalotizeimethnomorfiatoy|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Κεφαλονιά - Παλιά Βλαχάτα: Ένα πανέμορφο χωριό «φάντασμα»
