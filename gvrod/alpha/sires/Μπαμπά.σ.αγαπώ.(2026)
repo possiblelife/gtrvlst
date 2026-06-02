@@ -86,4 +86,7 @@ https://greekfun.net/my-stream.php?type=series&id=123&episode_id=77064211|webvid
 https://greekfun.net/my-stream.php?type=series&id=123&episode_id=79497898|webvidfulldig$$hub://ck
 #EXTINF:-1 group-title="Σεζόν 1",Σεζον 1 - Επεισοδιο 44
 https://greekfun.net/my-stream.php?type=series&id=123&episode_id=81917580|webvidfulldig$$hub://ck
-
+#EXTINF:-1 group-title="Σεζόν 1",S01E45
+https://greekfun.net/my-stream.php?type=series&id=123&episode_id=94156065|webvidfulldig$$hub://ck
+#EXTINF:-1 group-title="Σεζόν 1",S01E46
+https://greekfun.net/my-stream.php?type=series&id=123&episode_id=96555320|webvidfulldig$$hub://ck
