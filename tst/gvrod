@@ -311,8 +311,7 @@ SERIES$$hub://gvrod/skai/sires_arxio/Το.μεζεδοπωλείο.(2013-2014)
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logs/skai.png" ,ΟΛΕΣ ΟΙ  ΕΚΠΟΜΠΕΣ
 https://www.skai.gr/tv/shows/psuchagogia|webvod zoom=100 scroll=0,0
 
-#EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/skai/srv_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/survivor/sezon-2025-2026#tab1" ,Survivor (2025-2026)
-SERIES$$hub://gvrod/skai/ekpompes/survivor.txt
+
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/skai/fanis_landscape2.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/stin-agkalia-tou-fani/sezon-2025-2026" ,Στην Αγκαλιά του Φάνη (2024-2026)
 SERIES$$hub://gvrod/skai/ekpompes/stin-agkalia-tou-fani.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/skai/ellada_psifizei_new_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/i-ellada-psifizei/sezon-2025-2026" ,Η Ελλάδα Ψηφίζει (2024-2026)
@@ -321,8 +320,6 @@ SERIES$$hub://gvrod/skai/ekpompes/i-ellada-psifizei.txt
 SERIES$$hub://gvrod/skai/ekpompes/the-floor.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/skai/diaxvrizw_ti_thesi_mou1_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/diachorizo-ti-thesi-mou/sezon-2025-2026" ,Διαχωρίζω τη Θέση Μου (2025-2026)
 SERIES$$hub://gvrod/skai/ekpompes/diachorizo-ti-thesi-mou.txt
-#EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/skai/the_wall_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/the-wall/sezon-2025-2026" ,The Wall (2025-2026)
-SERIES$$hub://gvrod/skai/ekpompes/the-wall.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/skai/toxoume_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/to-choume/sezon-2025-2026" ,Το 'Χουμε! (2025-2026)
 SERIES$$hub://gvrod/skai/ekpompes/to-choume.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/skai/weekend_live_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/psuchagogia/weekend-live/sezon-2025-2026" ,Weekend Live (2025-2026)
@@ -1323,6 +1320,10 @@ SERIES$$hub://gvrod/star/sires_arxio/Φλορισιέντα.μια.σύγχρο�
 https://www.star.gr/tv/psychagogia|webvod zoom=100 scroll=0,0
 
 
+#EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/star/lingo.jpg" tvg-website="https://www.star.gr/tv/psychagogia/lingo" ,LINGO
+SERIES$$hub://gvrod/star/ekpompes/lingo.txt
+#EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/star/1_percent_club.jpg" tvg-website="https://www.star.gr/tv/psychagogia/1-club" ,1% CLUB
+SERIES$$hub://gvrod/star/ekpompes/1-club.txt
 #EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/star/route360-287x382.jpg" tvg-website="https://www.star.gr/tv/psychagogia/route-360" ,ROUTE 360
 SERIES$$hub://gvrod/star/ekpompes/route-360.txt
 #EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/star/farma-2024-25-287x382-koutsopoulos-temp.jpeg" tvg-website="https://www.star.gr/tv/psychagogia/farma" ,ΦΑΡΜΑ
