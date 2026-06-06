@@ -342,3 +342,5 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=222885&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=222897&-V=vod|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",03/06/2026 ΠΑΜΕ ΠΑΡΕΑ
 https://www.omegatv.com.cy/cgibin/hweb?-A=223084&-V=vod|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",04/06/2026 ΠΑΜΕ ΠΑΡΕΑ
+https://www.omegatv.com.cy/cgibin/hweb?-A=223095&-V=vod|webfulldig
