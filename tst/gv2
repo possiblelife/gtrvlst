@@ -144,7 +144,7 @@ https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="DELTA TV" tvg-logo="hub://logs/delta.png" tvg-website="https://deltatv.gr/" ,ΔΕΛΤΑ TV (ΑΝ. ΜΑΚΕΔΟΝΙΑΣ)
 http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="DION TV" tvg-logo="hub://logs/dion.png" tvg-name="Dion TV (Κ. ΜΑΚΕΔΟΝΙΑΣ)" tvg-name="Dion TV (Κ. ΜΑΚΕΔΟΝΙΑΣ)" tvg-website="https://diontv.gr/" ,Dion TV (Κ. ΜΑΚΕΔΟΝΙΑΣ)
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="DION TV" tvg-logo="hub://logs/dion.png" tvg-name="Dion TV (Κ. ΜΑΚΕΔΟΝΙΑΣ)" tvg-website="https://diontv.gr/" ,Dion TV (Κ. ΜΑΚΕΔΟΝΙΑΣ)
 https://rtmp.win:3650/live/diontvlive.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36&Referer=https://rtmp.win/
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="DION TV" tvg-logo="hub://logs/dion.png"  tvg-website="https://diontv.gr/" ,Dion TV (backup) (Κ. ΜΑΚΕΔΟΝΙΑΣ)
 https://www.diontv.gr/webtv/|weballdig
