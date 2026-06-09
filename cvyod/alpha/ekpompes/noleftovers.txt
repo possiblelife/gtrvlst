@@ -196,3 +196,5 @@ https://www.alphacyprus.com.cy/shows/entertainment/noleftovers/webtv/160526|webv
 https://www.alphacyprus.com.cy/shows/entertainment/noleftovers/webtv/230526|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",30/05/26
 https://www.alphacyprus.com.cy/shows/entertainment/noleftovers/webtv/300526|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",06/06/26
+https://www.alphacyprus.com.cy/shows/entertainment/noleftovers/webtv/060626|webvidfulldig

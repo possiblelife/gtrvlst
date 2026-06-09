@@ -712,12 +712,16 @@ https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/28052
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/hristina-kyriakoy-7|webvidfulldig
 #EXTINF:-1 group-title="2025-2026",Γαλατένια κρέμα με crumble κανέλας
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/galatenia-krema-me-crumble-kanelas|webvidfulldig
+#EXTINF:-1 group-title="2025-2026",Τάσος Χαλκιάς
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/tasos-halkias|webvidfulldig
 #EXTINF:-1 group-title="2025-2026",29/05/26
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/290526|webvidfulldig
 #EXTINF:-1 group-title="2025-2026",Bruschetta με τόνο, ψητές ντομάτες και κρέμα φέτας
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/bruschetta-me-tono-psites-ntomates-kai-krema-fetas|webvidfulldig
 #EXTINF:-1 group-title="2025-2026",02/06/26
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/020626|webvidfulldig
+#EXTINF:-1 group-title="2025-2026",Μιχάλης Ιατρόπουλος
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/mihalis-iatropoylos|webvidfulldig
 #EXTINF:-1 group-title="2025-2026",03/06/26
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/030626|webvidfulldig
 #EXTINF:-1 group-title="2025-2026",Νάντια Κοντογεώργη
@@ -726,3 +730,7 @@ https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/nanti
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/beloydini-panakota-karpoyzioy|webvidfulldig
 #EXTINF:-1 group-title="2025-2026",04/06/26
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/040626|webvidfulldig
+#EXTINF:-1 group-title="2025-2026",Ηλίας Βαλάσης
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/ilias-balasis-0|webvidfulldig
+#EXTINF:-1 group-title="2025-2026",05/06/26
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/050626|webvidfulldig
