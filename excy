@@ -4,5 +4,5 @@ https://stream-cdn-iad3.vaughnsoft.net/play/live_extacygreeks.flv|User-Agent=Moz
 https://stream-cdn-iad3.vaughnsoft.net/play/live_extacycinema.flv|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="ExtaCy"  tvg-id="extacyser" tvg-logo="https://i.ibb.co/7dZMVhgH/series.png" tvg-name="Extacy TV SERIES" ,EXTACY TV SERIES
 https://stream-cdn-iad3.vaughnsoft.net/play/live_extacytvseries.flv|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-id="extacykids" tvg-logo="hub://logs/extacy_kids.jpg" tvg-name="EXTACY TV KIDS" ,EXTACY TV KIDS
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-id="extacykids" tvg-logo="https://i.ibb.co/BK72zbY1/extacy-kids.jpg" tvg-name="EXTACY TV KIDS" ,EXTACY TV KIDS
 https://stream-cdn-iad3.vaughnsoft.net/play/live_extacycids.flv|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
