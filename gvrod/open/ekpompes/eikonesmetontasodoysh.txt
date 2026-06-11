@@ -298,8 +298,6 @@ https://www.tvopen.gr/watch/111624/frontzoypoliteiaempeiriazohs|webvidfulldig
 https://www.tvopen.gr/watch/111712/ligkiadesioanninontomartyrikoxoriomethfoberhthea|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ζαγόρι – Μονοδένδρι: Το χωριό που έφερε τον τουρισμό
 https://www.tvopen.gr/watch/111713/zagorimonodendritoxoriopoyeferetontoyrismo|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Ζαγοροχώρια: Άνω Πεδινά - Ένα χωριό ησυχαστήριο
-https://www.tvopen.gr/watch/112652/zagoroxoriaanopedinaenaxoriohsyxasthrio|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Rafting στον ποταμό Βοϊδομάτη
 https://www.tvopen.gr/watch/112653/raftingstonpotamoboidomath|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Βόλτα με buggy οχήματα στο ανατολικό Ζαγόρι
@@ -320,6 +318,8 @@ https://www.tvopen.gr/watch/113701/isfaxanhekklhsiatoysothros|webvidfulldig
 https://www.tvopen.gr/watch/114673/pragahgefyratoykaroloypoyftiaxthkeapoastrologoys|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Πράγα: Το εθνικό γλυκό της Τσεχίας
 https://www.tvopen.gr/watch/114672/pragatoethnikoglykothstsexias|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Ζαγοροχώρια: Άνω Πεδινά - Ένα χωριό ησυχαστήριο
+https://www.tvopen.gr/watch/112652/zagoroxoriaanopedinaenaxoriohsyxasthrio|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Πράγα: Το αστρονομικό ρολόι
 https://www.tvopen.gr/watch/114671/pragatoastronomikoroloi|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Πράγα: Ο καθολικός ναός του Αγίου Βίτου
