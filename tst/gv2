@@ -357,7 +357,8 @@ https://www.twitch.tv/247gaminglabgr|weballdig
 https://www.twitch.tv/freeangelwebtv|weballdig
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logs/dta.png" ,DTA TV
 https://webinternetradio.eu:59820/dta.webm
-
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/escape_media.png" tvg-website="https://escape-media.gr/index.php" ,Escape Media
+https://rtmp.streams.ovh:8081/escapemedia/index.m3u8
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="hub://logs/faroscy.png" tvg-website="https://www.farosonair.com/" ,ΦΑΡΟΣ on Air
 https://s1.cystream.net/live/faros1/chunks.m3u8
@@ -402,14 +403,8 @@ https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
 https://eu1.streams.gr:8081/choicetv/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-name="Choice TV" tvg-logo="hub://logs/choice.png" ,Choice TV (2)
 https://eu1.streams.gr:8081/choicetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="hub://logs/Dipolo.png" tvg-website="https://channel.streams.ovh:2020/public/dipolotv" ,Dipolo 1 HD
-https://channel.streams.ovh:8081/dipolotv/index.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="hub://logs/Dipolo.png" tvg-website="https://channel.streams.ovh:2020/public/dipolotv" ,Dipolo 2 HD
-https://mcv2.streams.gr/stream/dipolotv/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/lapsi.png" tvg-website="https://www.lampsitv.eu" ,Λάμψη Tv
 https://neon.streams.gr:8081/lampsitv/index.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/escape_media.png" tvg-website="https://escape-media.gr/index.php" ,Escape Media
-https://rtmp.streams.ovh:8081/escapemedia/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/miramax.jpg" ,MiraMax
 https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/goldenchannel.jpg" ,Golden Channel
@@ -440,8 +435,6 @@ https://gra1.crystalweb.net:1936/barazadjmusic/barazadjmusic/playlist.m3u8
 https://i6.streams.ovh/sc/barazar1/stream
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="hub://logs/real-music.png" tvg-website="http://www.realmusic.gr/" ,Real Music TV
 https://webtv.topwebhost.gr:3302/stream/play.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/THLE_MOUSIKH.png" ,ΤΗΛΕ ΜΟΥΣΙΚΗ
-http://65.108.62.57:8080/live2/greekmusic.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/778.59 (KHTML, like Gecko) Chrome/166.0.9708.854 Safari/778.59
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/NRG.png" tvg-website="https://nrg91.gr/tv/" ,NRG TV
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/ellinikos.png" tvg-website="https://ellinikos932.fm/" ,Ellinikos FM
@@ -472,8 +465,6 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="hub://logs/onar.png" ,ONAR TV
 https://live20.bozztv.com/akamaissh101/ssh101/onarradiotv/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="hub://logs/dejavufm.png" ,Dejavufm
-https://www.twitch.tv/dejavufmlive|webdig
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="hub://logs/red_music.png" ,RED
 https://fr.crystalweb.net:1936/redmusic/redmusic/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="hub://logs/vantage_music.png" ,Vantage Music
