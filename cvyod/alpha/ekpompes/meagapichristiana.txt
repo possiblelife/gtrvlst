@@ -750,3 +750,7 @@ https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/10062
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/glyko-rodakino-me-amygdalo|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",10/06/26 - Σαράντι
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/100626-saranti|webvidfulldig
+#EXTINF:-1 group-title="2025-2026",11/06/26
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/110626|webvidfulldig
+#EXTINF:-1 group-title="2025-2026",Ζεστό κέικ βανίλιας με κρέμα γάλακτος και καραμελωμένα ροδάκινα
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/zesto-keik-banilias-me-krema-galaktos-kai-karamelomena|webvidfulldig
