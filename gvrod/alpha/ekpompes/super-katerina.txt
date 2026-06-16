@@ -1,7 +1,7 @@
 #EXTINF:-1 group-title="Σεζόν 1",13/09/21
 https://www.alphatv.gr/show/super-katerina/show-episode/273591-13-09-21/|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",14/09/21
-https://www.alphatv.gr/show/super-katerina/show-episode/273705-14-09-21/|webvidfulldig
+https://www.alphatv.gr/show/super-katerina/show-episode/273705-14-09-21/|webvidfulldiga
 #EXTINF:-1 group-title="Σεζόν 1",15/09/21
 https://www.alphatv.gr/show/super-katerina/show-episode/273755-15-09-21/|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 1",16/09/21
@@ -1994,3 +1994,7 @@ https://www.alphatv.gr/show/super-katerina/show-episode/710798-09-06-2026-2/|web
 https://www.alphatv.gr/show/super-katerina/show-episode/711194-10-06-2026-2/|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 5",11-06-2026
 https://www.alphatv.gr/show/super-katerina/show-episode/711621-11-06-2026-2/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 5",12-06-2026
+https://www.alphatv.gr/show/super-katerina/show-episode/711971-12-06-2026-2/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 5",15-06-2026
+https://www.alphatv.gr/show/super-katerina/show-episode/713003-15-06-2026-2/|webvidfulldig
