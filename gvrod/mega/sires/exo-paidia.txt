@@ -202,3 +202,7 @@ https://www.megatv.com/tvshows/2392123/epeisodio-36-2os-kyklos/|webfulldig
 https://www.megatv.com/tvshows/2392129/epeisodio-37-2os-kyklos/|webfulldig
 #EXTINF:-1 group-title="2ος Κύκλος",Επεισόδιο 38
 https://www.megatv.com/tvshows/2400475/epeisodio-38-2os-kyklos/|webfulldig
+#EXTINF:-1 group-title="2ος Κύκλος",Επεισόδιο 39
+https://www.megatv.com/tvshows/2400478/epeisodio-39-2os-kyklos/|webfulldig
+#EXTINF:-1 group-title="2ος Κύκλος",Επεισόδιο 40
+https://www.megatv.com/tvshows/2400481/epeisodio-40-2os-kyklos/|webfulldig
