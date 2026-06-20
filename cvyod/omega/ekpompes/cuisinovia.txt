@@ -714,7 +714,13 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=223201&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=223202&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 185 CUISINOVIAΣΑΛΑΤΑ ΚΑΙΣΑΡΑ ΜΕ ΣΟΛΟΜΟ, ΚΕΙΚ ΣΟΚΟΛΑΤΑΣ ΜΕ ΓΙΑΟΥΡΤΙ
 https://www.omegatv.com.cy/cgibin/hweb?-A=223207&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 185 CUISINOVIAΣΑΛΑΤΑ ΚΑΙΣΑΡΑ ΜΕ ΣΟΛΟΜΟ, ΚΕΙΚ ΣΟΚΟΛΑΤΑΣ ΜΕ ΓΙΑΟΥΡΤΙ
-https://www.omegatv.com.cy/cgibin/hweb?-A=223208&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 186 CUISINOVIAΜοσχαρίσια φιλέτα με κονιάκ και κουμανταρία, Παγωτό καρύδας
 https://www.omegatv.com.cy/cgibin/hweb?-A=223209&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 187 CUISINOVIAΨητές μελιτζάνες με πουργούρι, «Καρβέλι» με φράουλες
+https://www.omegatv.com.cy/cgibin/hweb?-A=223302&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 188 CUISINOVIA Paris Βrest
+https://www.omegatv.com.cy/cgibin/hweb?-A=223303&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 189 CUISINOVIAΣαλάτα με κριθαράκι ολικής αλέσεως και παντζάρι, Καλοκαιρινό τράιφολ
+https://www.omegatv.com.cy/cgibin/hweb?-A=223304&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 190 CUISINOVIAΧαλουμωτή- “Casarecce” με μελιτζάνες και κόκκινο πέστο
+https://www.omegatv.com.cy/cgibin/hweb?-A=223305&-V=vod|webfulldig
