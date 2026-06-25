@@ -306,8 +306,6 @@ https://www.tvopen.gr/watch/112653/raftingstonpotamoboidomath|webvidfulldig
 https://www.tvopen.gr/watch/112657/boltamebuggyoxhmatastoanatolikozagori|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Μεγάλο Πάπιγκο: Το «βαρύ πυροβολικό» στο Ζαγόρι
 https://www.tvopen.gr/watch/112750/megalopapigkotobarypyrobolikostozagori|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Αρίστη, ένα παραδοσιακό καφενείο 200 ετών
-https://www.tvopen.gr/watch/112755/aristhenaparadosiakokafeneio200eton|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Δίκορφο: Ένας άγνωστος «παράδεισος» των Ιωαννίνων
 https://www.tvopen.gr/watch/112756/dikorfoenasagnostosparadeisostonioanninon|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Τζαμί Assabi: Αληθινή μαγεία στο κέντρο της πόλης
@@ -328,6 +326,8 @@ https://www.tvopen.gr/watch/114771/pragaokatholikosnaostoyagioybitoy|webvidfulld
 https://www.tvopen.gr/watch/114772/pragahentyposiakhallaghfroyrasstokastro|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Πράγα: Μοναδικό γεύμα στο εστιατόριο U Modre Kachnicky
 https://www.tvopen.gr/watch/114773/pragamonadikogeymastoestiatorioumodrekachnicky|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Αρίστη, ένα παραδοσιακό καφενείο 200 ετών
+https://www.tvopen.gr/watch/112755/aristhenaparadosiakokafeneio200eton|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Σεϋχέλλες: Η γεμάτη χρώματα αγορά της πρωτεύουσας
 https://www.tvopen.gr/watch/116228/seyxelleshgemathxromataagorathsproteyoysas|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Σεϋχέλλες: Οι γιγάντιες χελώνες στο νησί Μουαγιέν
@@ -988,14 +988,6 @@ https://www.tvopen.gr/watch/245559/peripatosstonkentrikopezodromothsleykadas|web
 https://www.tvopen.gr/watch/245560/egkremnoisthdiashmhparaliaxoriskosmo|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Μένητες: Το καταπράσινο παραδοσιακό χωριό της Άνδρου
 https://www.tvopen.gr/watch/246186/menhtestokataprasinoparadosiakoxoriothsandroy|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Βόλτα στο Μπατσί στο ηλιοβασίλεμα
-https://www.tvopen.gr/watch/246188/boltastompatsistohliobasilema|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Άνδρος
-https://www.tvopen.gr/watch/246185/eikonesmetontasodoyshandros|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Η Ιερά Μονή Παναχράντου – Αγίου Παντελεήμονος της Άνδρου
-https://www.tvopen.gr/watch/246657/hieramonhpanaxrantoyagioypantelehmonosthsandroy|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Μανδράκι: Το ιστορικό λιμάνι της Ρόδου
-https://www.tvopen.gr/watch/247368/mandrakitoistorikolimanithsrodoy|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Μαγικό ξημέρωμα στην παλιά πόλη χωρίς τουρίστες
 https://www.tvopen.gr/watch/247369/magikoxhmeromasthnpaliapolhxoristoyristes|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση – Ρόδος
@@ -1010,6 +1002,14 @@ https://www.tvopen.gr/watch/247936/eikonesmetontasodoyshrodos|webvidfulldig
 https://www.tvopen.gr/watch/248975/othronostoykyklopaenapetrinompalkonimeaperanththea|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Λιβάδι: Εκεί όπου χτυπά η «καρδιά» της Σερίφου
 https://www.tvopen.gr/watch/248976/libadiekeiopoyxtypahkardiathsserifoy|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Βόλτα στο Μπατσί στο ηλιοβασίλεμα
+https://www.tvopen.gr/watch/246188/boltastompatsistohliobasilema|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Άνδρος
+https://www.tvopen.gr/watch/246185/eikonesmetontasodoyshandros|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Η Ιερά Μονή Παναχράντου – Αγίου Παντελεήμονος της Άνδρου
+https://www.tvopen.gr/watch/246657/hieramonhpanaxrantoyagioypantelehmonosthsandroy|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Μανδράκι: Το ιστορικό λιμάνι της Ρόδου
+https://www.tvopen.gr/watch/247368/mandrakitoistorikolimanithsrodoy|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Σέριφος
 https://www.tvopen.gr/watch/248974/eikonesmetontasodoyshserifos|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Κορησσία: Το λιμάνι του νησιού με ωραία παραλία

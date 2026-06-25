@@ -194,3 +194,7 @@ https://www.megatv.com/tvshows/2400493/epeisodio-96-15/|webfulldig
 https://www.megatv.com/tvshows/2400496/epeisodio-97-14/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 98
 https://www.megatv.com/tvshows/2410345/epeisodio-98-15/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 99
+https://www.megatv.com/tvshows/2410351/epeisodio-99-14/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 100
+https://www.megatv.com/tvshows/2412442/epeisodio-100-15/|webfulldig

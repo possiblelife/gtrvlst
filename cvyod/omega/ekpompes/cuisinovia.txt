@@ -728,3 +728,7 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=223305&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=223319&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 192 CUISINOVIAΝτιπ με καραμελωμένα κρεμμύδια, Babaganoush, Κέικ Brownie με σοκολάτα
 https://www.omegatv.com.cy/cgibin/hweb?-A=223426&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 193 CUISINOVIACupcakes σε χωνάκια παγωτού
+https://www.omegatv.com.cy/cgibin/hweb?-A=223455&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 194 CUISINOVIAΚρύα σαλάτα ζυμαρικών με γαρίδες, Μπισκότα ταχίνι αμυγδάλου
+https://www.omegatv.com.cy/cgibin/hweb?-A=223459&-V=vod|webfulldig
