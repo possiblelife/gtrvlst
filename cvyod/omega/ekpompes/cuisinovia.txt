@@ -732,3 +732,7 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=223426&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=223455&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 194 CUISINOVIAΚρύα σαλάτα ζυμαρικών με γαρίδες, Μπισκότα ταχίνι αμυγδάλου
 https://www.omegatv.com.cy/cgibin/hweb?-A=223459&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 195 CUISINOVIAΦουσίλι με καλαμάρι και φέτα, Τυρόπιτα κέικ
+https://www.omegatv.com.cy/cgibin/hweb?-A=223464&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 196 CUISINOVIAΓρήγορη πίτσα με πεπερόνι και μανιτάρια, αναρόκρεμα
+https://www.omegatv.com.cy/cgibin/hweb?-A=223470&-V=vod|webfulldig
