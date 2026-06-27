@@ -401,14 +401,7 @@ https://eu1.streams.gr:8081/choicetv/tracks-v1a1/mono.m3u8
 https://neon.streams.gr:8081/lampsitv/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/miramax.jpg" ,MiraMax
 https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/goldenchannel.jpg" ,Golden Channel
-https://stream-cdn-iad3.vaughnsoft.net/play/live_goldenchannel.flv|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="hub://logs/nexuschannel.jpg" ,Nexus
-https://stream-cdn-iad3.vaughnsoft.net/play/live_nexuschannel.flv|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="hub://logs/cineramachannel.jpg" ,Cinerama
-https://stream-cdn-iad3.vaughnsoft.net/play/live_cineramachannel.flv|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="hub://logs/astir.jpg" ,Astir
-https://stream-cdn-iad3.vaughnsoft.net/play/live_astir.flv|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+
 
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/mad.png" ,MAD
