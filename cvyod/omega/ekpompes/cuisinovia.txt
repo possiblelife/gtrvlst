@@ -736,3 +736,9 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=223459&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=223464&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 196 CUISINOVIAΓρήγορη πίτσα με πεπερόνι και μανιτάρια, αναρόκρεμα
 https://www.omegatv.com.cy/cgibin/hweb?-A=223470&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 197 CUISINOVIAΣαλάτα με κοτόπουλο και ντρέσινγκ φέτας.ΚΡΕΜΑ ΜΠΑΒΑΡΟΥΑΖ
+https://www.omegatv.com.cy/cgibin/hweb?-A=223500&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 198 CUISINOVIAΤούρτα με φράουλες
+https://www.omegatv.com.cy/cgibin/hweb?-A=223501&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",Σεζόν 02 Επεισόδιο 199 CUISINOVIAΚΕΦΤΕΔΕΣ, Υγρό κέικ σοκολάτας
+https://www.omegatv.com.cy/cgibin/hweb?-A=223503&-V=vod|webfulldig
