@@ -1776,6 +1776,8 @@ https://www.megatv.com/tvshows/2249284/epeisodio-78-17/|webfulldig
 https://www.megatv.com/tvshows/2249287/epeisodio-79-17/|webfulldig
 #EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 80
 https://www.megatv.com/tvshows/2249290/epeisodio-80-17/|webfulldig
+#EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 80
+https://www.megatv.com/tvshows/2249290/epeisodio-80-17/|webfulldig
 #EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 81
 https://www.megatv.com/tvshows/2249293/epeisodio-81-17/|webfulldig
 #EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 82
@@ -1822,8 +1824,6 @@ https://www.megatv.com/tvshows/2309185/epeisodio-101-14/|webfulldig
 https://www.megatv.com/tvshows/2309188/epeisodio-102-14/|webfulldig
 #EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 103
 https://www.megatv.com/tvshows/2309191/epeisodio-103-14/|webfulldig
-#EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 104
-https://www.megatv.com/tvshows/2309200/epeisodio-104-14/|webfulldig
 #EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 105
 https://www.megatv.com/tvshows/2325403/epeisodio-105-14/|webfulldig
 #EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 106
@@ -1915,6 +1915,8 @@ https://www.megatv.com/tvshows/2416225/epeisodio-148-11/|webfulldig
 #EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 149
 https://www.megatv.com/tvshows/2418724/epeisodio-149-10/|webfulldig
 #EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 150
-https://www.megatv.com/tvshows/2420389/epeisodio-150-11/|webfulldig
-#EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 150
 https://www.megatv.com/tvshows/2420779/epeisodio-150-12/|webfulldig
+#EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 151
+https://www.megatv.com/tvshows/2422789/epeisodio-151-11/|webfulldig
+#EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 152
+https://www.megatv.com/tvshows/2423734/epeisodio-152-11/|webfulldig
