@@ -365,6 +365,9 @@ https://www.twitch.tv/freeangelwebtv|weballdig
 https://webinternetradio.eu:59820/dta.webm
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/escape_media.png" tvg-website="https://escape-media.gr/index.php" ,Escape Media
 https://rtmp.streams.ovh:8081/escapemedia/index.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/next_news.jpg" tvg-website="https://nextnews.gr/?page_id=14662" ,Next media tv  
+https://mcv.streams.gr/stream/argolidasportstv/index.m3u8
+
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="hub://logs/faroscy.png" tvg-website="https://www.farosonair.com/" ,ΦΑΡΟΣ on Air
 https://s1.cystream.net/live/faros1/chunks.m3u8
