@@ -1730,6 +1730,10 @@ https://www.megatv.com/tvshows/2172850/epeisodio-55-29/|webfulldig
 https://www.megatv.com/tvshows/2172853/epeisodio-56-28/|webfulldig
 #EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 57
 https://www.megatv.com/tvshows/2172856/epeisodio-57-29/|webfulldig
+#EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 56
+https://www.megatv.com/tvshows/2172853/epeisodio-56-28/|webfulldig
+#EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 57
+https://www.megatv.com/tvshows/2172856/epeisodio-57-29/|webfulldig
 #EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 58
 https://www.megatv.com/tvshows/2172859/epeisodio-58-28/|webfulldig
 #EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 59
@@ -1774,12 +1778,6 @@ https://www.megatv.com/tvshows/2249272/epeisodio-77-18/|webfulldig
 https://www.megatv.com/tvshows/2249284/epeisodio-78-17/|webfulldig
 #EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 79
 https://www.megatv.com/tvshows/2249287/epeisodio-79-17/|webfulldig
-#EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 80
-https://www.megatv.com/tvshows/2249290/epeisodio-80-17/|webfulldig
-#EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 80
-https://www.megatv.com/tvshows/2249290/epeisodio-80-17/|webfulldig
-#EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 81
-https://www.megatv.com/tvshows/2249293/epeisodio-81-17/|webfulldig
 #EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 82
 https://www.megatv.com/tvshows/2249299/epeisodio-82-16/|webfulldig
 #EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 83
@@ -1824,6 +1822,10 @@ https://www.megatv.com/tvshows/2309185/epeisodio-101-14/|webfulldig
 https://www.megatv.com/tvshows/2309188/epeisodio-102-14/|webfulldig
 #EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 103
 https://www.megatv.com/tvshows/2309191/epeisodio-103-14/|webfulldig
+#EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 104
+https://www.megatv.com/tvshows/2309200/epeisodio-104-14/|webfulldig
+#EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 105
+https://www.megatv.com/tvshows/2325403/epeisodio-105-14/|webfulldig
 #EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 105
 https://www.megatv.com/tvshows/2325403/epeisodio-105-14/|webfulldig
 #EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 106

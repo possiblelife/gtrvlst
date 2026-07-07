@@ -312,6 +312,10 @@ https://www.tvopen.gr/watch/112755/aristhenaparadosiakokafeneio200eton|webvidful
 https://www.tvopen.gr/watch/112756/dikorfoenasagnostosparadeisostonioanninon|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Τζαμί Assabi: Αληθινή μαγεία στο κέντρο της πόλης
 https://www.tvopen.gr/watch/113700/tzamiassabialhthinhmageiastokentrothspolhs|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Ισφαχάν: Γεύμα στο Χατζημαχμούτ
+https://www.tvopen.gr/watch/113702/isfaxangeymastoxatzhmaxmoyt|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Ισφαχάν: Η Εκκλησία του Σωτήρος
+https://www.tvopen.gr/watch/113701/isfaxanhekklhsiatoysothros|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Πράγα: Η γέφυρα του Καρόλου που φτιάχτηκε από… αστρολόγους
 https://www.tvopen.gr/watch/114673/pragahgefyratoykaroloypoyftiaxthkeapoastrologoys|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Πράγα: Το εθνικό γλυκό της Τσεχίας
@@ -330,10 +334,6 @@ https://www.tvopen.gr/watch/116228/seyxelleshgemathxromataagorathsproteyoysas|we
 https://www.tvopen.gr/watch/116231/seyxellesoigigantiesxelonesstonhsimoyagien|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Σεϋχέλλες: Το απόλυτο ηλιοβασίλεμα
 https://www.tvopen.gr/watch/116245/seyxellestoapolytohliobasilema|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Ισφαχάν: Γεύμα στο Χατζημαχμούτ
-https://www.tvopen.gr/watch/113702/isfaxangeymastoxatzhmaxmoyt|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Ισφαχάν: Η Εκκλησία του Σωτήρος
-https://www.tvopen.gr/watch/113701/isfaxanhekklhsiatoysothros|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ασκήσεις yoga στις Σεϋχέλλες
 https://www.tvopen.gr/watch/116376/askhseisyogastisseyxelles|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ταξίδι με καταμαράν στα πιο όμορφα νησιά των Σεϋχελλών
@@ -1216,6 +1216,18 @@ https://www.tvopen.gr/watch/272718/neaxorahgohteytikhparathalassiasynoikiatonxan
 https://www.tvopen.gr/watch/272719/ntereskatafytoparadosiakoxoriomeafthonanera|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση -  Χανιά β’μέρος
 https://www.tvopen.gr/watch/272721/eikonesmetontasodoyshxaniabe28099meros|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Στενό,Αστυπάλαια: H ονειρική παραλία που συνδέει το Μέσα και το Έξω νησί
+https://www.tvopen.gr/watch/273203/stenoastypalaiahoneirikhparaliapoysyndeeitomesakaitoexonhsi|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Καφενείο Καράι,Αστυπάλαια: Το Ηotspot που αισθάνεσαι σαν το σπίτι σου
+https://www.tvopen.gr/watch/273204/kafeneiokaraiastypalaiatohotspotpoyaisthanesaisantospitisoy|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Αστυπάλαια
+https://www.tvopen.gr/watch/273205/eikonesmetontasodoyshastypalaia|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνα του πύρινου μετώπου από drone
+https://www.tvopen.gr/watch/273217/eikonatoypyrinoymetopoyapodrone|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εναέριες ρίψεις στην Οινόη
+https://www.tvopen.gr/watch/273218/enaeriesripseissthnoinoh|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Οινόη
+https://www.tvopen.gr/watch/273219/oinoh|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Ρουμανία  Γ μέρος
 https://www.tvopen.gr/watch/262451/eikonesmetontasodoyshroymaniagmeros|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Καππαδοκία, Α' μέρος

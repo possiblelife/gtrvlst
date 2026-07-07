@@ -1746,3 +1746,9 @@ https://www.star.gr/tv/psychagogia/breakfaststar/2662026-breakfaststar|webfulldi
 https://www.star.gr/tv/psychagogia/breakfaststar/2962026-breakfaststar|webfulldig
 #EXTINF:-1 group-title="Season 5",30.6.2026 - Breakfast@Star
 https://www.star.gr/tv/psychagogia/breakfaststar/3062026-breakfaststar|webfulldig
+#EXTINF:-1 group-title="Season 5",1.7.2026 - Breakfast@Star
+https://www.star.gr/tv/psychagogia/breakfaststar/172026-breakfaststar|webfulldig
+#EXTINF:-1 group-title="Season 5",2.7.2026 - Breakfast@Star
+https://www.star.gr/tv/psychagogia/breakfaststar/272026-breakfaststar|webfulldig
+#EXTINF:-1 group-title="Season 5",3.7.2026 - Breakfast@Star
+https://www.star.gr/tv/psychagogia/breakfaststar/372026-breakfaststar|webfulldig
