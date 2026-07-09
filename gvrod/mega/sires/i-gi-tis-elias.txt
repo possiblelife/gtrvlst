@@ -1634,8 +1634,6 @@ https://www.megatv.com/tvshows/2092864/epeisodio-7-111/|webfulldig
 https://www.megatv.com/tvshows/2092873/epeisodio-8-111/|webfulldig
 #EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 9
 https://www.megatv.com/tvshows/2092876/epeisodio-9-110/|webfulldig
-#EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 10
-https://www.megatv.com/tvshows/2092882/epeisodio-10-108/|webfulldig
 #EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 11
 https://www.megatv.com/tvshows/2106439/epeisodio-11-107/|webfulldig
 #EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 12
@@ -1684,10 +1682,6 @@ https://www.megatv.com/tvshows/2135956/epeisodio-32-53/|webfulldig
 https://www.megatv.com/tvshows/2135962/epeisodio-33-49/|webfulldig
 #EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 34
 https://www.megatv.com/tvshows/2135968/epeisodio-34-46/|webfulldig
-#EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 35
-https://www.megatv.com/tvshows/2135971/epeisodio-35-45/|webfulldig
-#EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 36
-https://www.megatv.com/tvshows/2135974/epeisodio-36-44/|webfulldig
 #EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 37
 https://www.megatv.com/tvshows/2135980/epeisodio-37-42/|webfulldig
 #EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 38
@@ -1726,10 +1720,6 @@ https://www.megatv.com/tvshows/2166676/epeisodio-53-29/|webfulldig
 https://www.megatv.com/tvshows/2166685/epeisodio-54-29/|webfulldig
 #EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 55
 https://www.megatv.com/tvshows/2172850/epeisodio-55-29/|webfulldig
-#EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 56
-https://www.megatv.com/tvshows/2172853/epeisodio-56-28/|webfulldig
-#EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 57
-https://www.megatv.com/tvshows/2172856/epeisodio-57-29/|webfulldig
 #EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 56
 https://www.megatv.com/tvshows/2172853/epeisodio-56-28/|webfulldig
 #EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 57
@@ -1778,6 +1768,16 @@ https://www.megatv.com/tvshows/2249272/epeisodio-77-18/|webfulldig
 https://www.megatv.com/tvshows/2249284/epeisodio-78-17/|webfulldig
 #EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 79
 https://www.megatv.com/tvshows/2249287/epeisodio-79-17/|webfulldig
+#EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 80
+https://www.megatv.com/tvshows/2249290/epeisodio-80-17/|webfulldig
+#EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 81
+https://www.megatv.com/tvshows/2249293/epeisodio-81-17/|webfulldig
+#EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 82
+https://www.megatv.com/tvshows/2249299/epeisodio-82-16/|webfulldig
+#EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 83
+https://www.megatv.com/tvshows/2249302/epeisodio-83-16/|webfulldig
+#EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 84
+https://www.megatv.com/tvshows/2269762/epeisodio-84-15/|webfulldig
 #EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 82
 https://www.megatv.com/tvshows/2249299/epeisodio-82-16/|webfulldig
 #EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 83
@@ -1826,10 +1826,6 @@ https://www.megatv.com/tvshows/2309191/epeisodio-103-14/|webfulldig
 https://www.megatv.com/tvshows/2309200/epeisodio-104-14/|webfulldig
 #EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 105
 https://www.megatv.com/tvshows/2325403/epeisodio-105-14/|webfulldig
-#EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 105
-https://www.megatv.com/tvshows/2325403/epeisodio-105-14/|webfulldig
-#EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 106
-https://www.megatv.com/tvshows/2325406/epeisodio-106-14/|webfulldig
 #EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 107
 https://www.megatv.com/tvshows/2325409/epeisodio-107-14/|webfulldig
 #EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 108
@@ -1922,3 +1918,7 @@ https://www.megatv.com/tvshows/2420779/epeisodio-150-12/|webfulldig
 https://www.megatv.com/tvshows/2422789/epeisodio-151-11/|webfulldig
 #EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 152
 https://www.megatv.com/tvshows/2423734/epeisodio-152-11/|webfulldig
+#EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 153
+https://www.megatv.com/tvshows/2426902/epeisodio-153-10/|webfulldig
+#EXTINF:-1 group-title="Ε΄ ΚΥΚΛΟΣ",Επεισόδιο 154
+https://www.megatv.com/tvshows/2427130/epeisodio-154-11/|webfulldig
