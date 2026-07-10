@@ -417,19 +417,19 @@ https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8
 https://www.mad.gr/mad-tv-player/|weballdig
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="hub://logs/kisshd.png" ,KISS HD
 https://kisstv.siliconweb.com/kissfm/kisstv/chunks.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="hub://logs/baraza.png" tvg-website="https://app.barazaradio.com/" ,Baraza Music
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="hub://logs/baraza2.jpg" tvg-website="https://app.barazaradio.com/" ,Baraza Music
 https://media2.streambrothers.com:19360/jrmrzudjpv/jrmrzudjpv.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="hub://logs/baraza.png" tvg-website="https://app.barazaradio.com/" ,Baraza 80'S MUSIC
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="hub://logs/baraza2.jpg" tvg-website="https://app.barazaradio.com/" ,Baraza 80'S MUSIC
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="hub://logs/baraza.png" tvg-website="https://app.barazaradio.com/" ,Baraza Greek Music Hits
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="hub://logs/baraza2.jpg" tvg-website="https://app.barazaradio.com/" ,Baraza Greek Music Hits
 https://eco.streams.ovh:8081/barazatv/index.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="hub://logs/baraza.png" tvg-website="https://app.barazaradio.com/", Baraza Greek Laika
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="hub://logs/baraza2.jpg" tvg-website="https://app.barazaradio.com/", Baraza Greek Laika
 https://gra1.crystalweb.net:1936/barazatv/barazatv/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="hub://logs/baraza.png" tvg-website="https://app.barazaradio.com/" ,Baraza RELAX MUSIC
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="hub://logs/baraza2.jpg" tvg-website="https://app.barazaradio.com/" ,Baraza RELAX MUSIC
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="hub://logs/baraza.png" tvg-website="https://app.barazaradio.com/" ,Baraza DJ MUSIC
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="hub://logs/baraza2.jpg" tvg-website="https://app.barazaradio.com/" ,Baraza DJ MUSIC
 https://gra1.crystalweb.net:1936/barazadjmusic/barazadjmusic/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="hub://logs/baraza.png" tvg-website="https://app.barazaradio.com/" ,Baraza Deep House
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="hub://logs/baraza2.jpg" tvg-website="https://app.barazaradio.com/" ,Baraza Deep House
 https://i6.streams.ovh/sc/barazar1/stream
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="hub://logs/real-music.png" tvg-website="http://www.realmusic.gr/" ,Real Music TV
 https://webtv.topwebhost.gr:3302/stream/play.m3u8
