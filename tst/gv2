@@ -587,6 +587,8 @@ https://www.youtube.com/watch?v=HvZt-nh9sGg
 https://cdn-fr1-eu.lncnetworks.host/hls/cnni_live/index.m3u8|referer=https://livenewschat.eu/
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/cnn.png" tvg-name="CNN International" tvg-website="https://edition.cnn.com/" ,CNN International-2
 https://cdn-de1-eu.lncnetworks.host/hls/cnni_live/index.m3u8|referer=https://livenewschat.eu/
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/cnn.png" tvg-name="CNN International" tvg-website="https://edition.cnn.com/" ,CNN International-3
+https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-logo="hub://logs/cgtn.png" tvg-website="https://www.cgtn.com/" ,CGTN
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-logo="hub://logs/dw.png" tvg-name="DW" tvg-website="https://www.dw.com/en/" ,DW
