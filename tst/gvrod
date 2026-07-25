@@ -122,8 +122,6 @@ SERIES$$hub://gvrod/alpha/sires_arxio/504.χλμ..βόρεια.της.Αθήνα
 SERIES$$hub://gvrod/alpha/sires_arxio/Baby.style.(2001)
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="κωμωδία, δράμα, ρομαντική" tvg-description="hub://desc/Alpha/Belissima.(2005-2006)" tvg-logo="hub://logseries/alpha/Belissima2005.jpg" ,Belissima (2005-2006)
 SERIES$$hub://gvrod/alpha/sires_arxio/Belissima.(2005-2006)
-#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική, μυστηρίου" tvg-description="hub://desc/Alpha/Gran.hotel.(2016)" tvg-logo="hub://logseries/alpha/Granhotel2016.jpg" ,Gran hotel (2016)
-SERIES$$hub://gvrod/alpha/sires_arxio/Gran.hotel.(2016)
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Alpha/Hermanos.(2015)" tvg-logo="hub://logseries/alpha/Hermanos2015.jpg" ,Hermanos (2015)
 SERIES$$hub://gvrod/alpha/sires_arxio/Hermanos.(2015)
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Alpha/Miss.Νταίζη.(2002-2003)" tvg-logo="hub://logseries/alpha/MissΝταίζη2002.jpg" ,Miss Νταίζη (2002-2003)
