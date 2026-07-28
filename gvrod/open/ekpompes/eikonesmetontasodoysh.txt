@@ -1,7 +1,3 @@
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Καππαδοκία: Βόλτα με αερόστατο
-https://www.tvopen.gr/watch/1249/eikonesmetontasodoysh7ckappadokiaboltameaerostato|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Καππαδοκία: Στις υπόγειες πόλεις
-https://www.tvopen.gr/watch/1453/eikonesmetontasodoysh7ckappadokiastisypogeiespoleis|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | The Venetian: Ξενοδοχείο από άλλη ήπειρο
 https://www.tvopen.gr/watch/2408/eikonesmetontasodoysh7cthevenetianxenodoxeioapoallhhpeiro|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Stratosphere: Το ψηλότερο κτήριο στο Λας Βέγκας
@@ -14,6 +10,10 @@ https://www.tvopen.gr/watch/4498/eikonesmetontasodoysh7cmpoyrtzxalifatopshlotero
 https://www.tvopen.gr/watch/5083/eikonesmetontasodoysh7cmpoyrtzalaramptomonadiko7steroxenodoxeiostonkosmo|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Ουμπούτ: Το καταπράσινο κέντρο του Μπαλί
 https://www.tvopen.gr/watch/14075/eikonesmetontasodoysh7coympoyttokataprasinokentrotoympali|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Καππαδοκία: Βόλτα με αερόστατο
+https://www.tvopen.gr/watch/1249/eikonesmetontasodoysh7ckappadokiaboltameaerostato|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Καππαδοκία: Στις υπόγειες πόλεις
+https://www.tvopen.gr/watch/1453/eikonesmetontasodoysh7ckappadokiastisypogeiespoleis|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Βιρμανία: Γυναίκες καμηλοπαρδάλεις
 https://www.tvopen.gr/watch/15222/eikonesmetontasodoysh7cbirmaniagynaikeskamhlopardaleis|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εντυπωσιακές εικόνες από το παραδοσιακό σόου Φαντασία
@@ -1240,6 +1240,14 @@ https://www.tvopen.gr/watch/274146/pothiatopolyxromolimanithskalymnoymageyeitoys
 https://www.tvopen.gr/watch/274147/otasosdoyshstaxideyeisthnxexoristhtelendo|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση- Κάλυμνος
 https://www.tvopen.gr/watch/274149/eikonesmetontasodoyshkalymnos|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Ι.Μ. Αγίου Σάββα: Το θρησκευτικό τοπόσημο της Καλύμνου με την πανοραμική θέα
+https://www.tvopen.gr/watch/274618/imagioysabbatothrhskeytikotoposhmothskalymnoymethnpanoramikhthea|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Βαθύ &amp; Ρίνα: Το ανέγγιχτο φιόρδ του Αιγαίου στην Κάλυμνο
+https://www.tvopen.gr/watch/274619/bathyrinatoaneggixtofiordtoyaigaioysthnkalymno|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Από το Καντούνι στην Πλάτη: Οι παραλίες-διαμάντια της Καλύμνου και της Ψερίμου
+https://www.tvopen.gr/watch/274620/apotokantoynisthnplathoiparaliesdiamantiathskalymnoykaithspserimoy|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Κάλυμνος Β ΜΕΡΟΣ
+https://www.tvopen.gr/watch/274631/eikonesmetontasodoyshkalymnosbmeros|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Ρουμανία  Γ μέρος
 https://www.tvopen.gr/watch/262451/eikonesmetontasodoyshroymaniagmeros|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Καππαδοκία, Α' μέρος
