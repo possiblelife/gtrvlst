@@ -526,5 +526,7 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=223089&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=223458&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 6",Σεζόν 06 Επεισόδιο 041 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣΛουβί ξιθκιά /  Γαλλική ομελέτα / Παρφέ γιαούρτι με γλυκό βύσσινο
 https://www.omegatv.com.cy/cgibin/hweb?-A=224216&-V=vod|webfulldig
-#EXTINF:-1 group-title="Season 6",Σεζόν 06 Επεισόδιο 042 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ
+#EXTINF:-1 group-title="Season 6",Σεζόν 06 Επεισόδιο 042 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ Σιμιγδαλόκρεμα/ Σουφλέ με ζυμαρικά / Wrap με γαλοπούλα και αυγό
 https://www.omegatv.com.cy/cgibin/hweb?-A=224591&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 6",Σεζόν 06 Επεισόδιο 043 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ Acai bowl/ Wrap /Μπάρες / Σοκολατένια μους με αβοκάντο
+https://www.omegatv.com.cy/cgibin/hweb?-A=224685&-V=vod|webfulldig
