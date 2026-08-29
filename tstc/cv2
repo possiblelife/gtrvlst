@@ -62,6 +62,8 @@ http://hbbtvapp.ert.gr/stream.php/v/vid_ertworld_mpeg.2ts
 https://www.youtube.com/watch?v=uWIhV9gQClg
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="Euronews" tvg-logo="hub://logs/EURONEWS.png"  tvg-website="https://gr.euronews.com/" ,Euronews EN
 https://www.youtube.com/@euronews/live
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-id="greektoons" tvg-logo="hub://logs/greektoons.png" ,Greek Classic Toons
+sec:ch25
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/faroscy.png" tvg-website="https://www.farosonair.com/" ,ΦΑΡΟΣ on Air
 https://s1.cystream.net/live/faros1/chunks.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="hub://logs/faroscy.png" tvg-website="https://www.farosonair.com/" ,ΦΑΡΟΣ on Air2
