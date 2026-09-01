@@ -117,6 +117,12 @@ http://.....
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="hub://logs/Alpha_Cyprus.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.alphacyprus.com.cy/shows/ellinikes-seires|webvod zoom=100 scroll=0,0
 
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-genre="δράμα" tvg-logo="hub://logseries/alpha/PortoLeone2025.jpg" tvg-description="hub://desc/Alpha/porto.leone.(2025)" ,Porto Leone – Στη γειτονιά με τα κόκκινα φανάρια (2025)
+SERIES$$hub://cvyod/alpha/sires/portoleone.txt
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-genre="κωμωδία" tvg-logo="hub://logseries/alpha/Μπαμπάσαγαπώ2026.jpg" tvg-description="hub://desc/Alpha/Μπαμπά.σ.αγαπώ.(2026)" ,Μπαμπά, σ' αγαπώ (2026)
+SERIES$$hub://cvyod/alpha/sires/mpampasagapo.txt
+#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-genre="κωμωδία, οικογενειακή" tvg-description="hub://desc/Mega/Έχω.παιδιά.(2024-2025)" tvg-logo="hub://logseries/mega/Έχωπαιδιά2024.jpg" ,Έχω παιδιά (2024-2026)
+SERIES$$hub://cvyod/alpha/sires/exwpaidia.txt
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Alpha/Το.σόι.σου.(2014-2019)" tvg-logo="hub://logseries/alphacy/to_soi_soy_2_3.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/tosoisou/webtv" ,ΤΟ ΣΟΪ ΣΟΥ (2014-2019)
 SERIES$$hub://cvyod/alpha/sires/tosoisou.txt
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Alphacy/beba.(2025)" tvg-logo="hub://logseries/alphacy/beba-cover_0.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/beba" ,ΜΠΕΜΠΑ (2025)
