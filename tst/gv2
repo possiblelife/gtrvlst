@@ -130,7 +130,7 @@ https://rumble.com/live-hls-dvr/78ixwi/playlist.m3u8?
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ART" tvg-logo="hub://logs/arttv.png" tvg-name="AΡΤ (ΑΤΤΙΚΗΣ)" tvg-website="https://www.arttv.info/" ,AΡΤ (backup) (ΑΤΤΙΚΗΣ)
 https://www.arttv.info/p/art.html|webdig
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ART TV" tvg-logo="hub://logs/art_tv.png" tvg-name="Art tv (Άρτα tv) (ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ)" tvg-website="http://www.arttv.gr/" ,Art tv (Άρτα tv) (ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ)
-https://rtmp.win:3696/live/arttvgrlive.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36&Referer=https://p1.dos.pm/
+https://rtmp.win:3218/live/arttvgr2live.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36&Referer=https://p1.dos.pm/
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ART TV" tvg-logo="hub://logs/art_tv.png" tvg-name="Art tv (Άρτα tv) (ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ)" tvg-website="http://www.arttv.gr/" ,Art tv (Άρτα tv) (backup) (ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ)
 http://www.arttv.gr/|weballdig
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="ASTRA TV" tvg-logo="hub://logs/ASTRA.png" tvg-name="ASTRA (ΘΕΣΣΑΛΙΑΣ)" tvg-website="https://www.astratv.gr/" ,ASTRA (ΘΕΣΣΑΛΙΑΣ)
@@ -409,8 +409,6 @@ https://live21.bozztv.com/akamaissh101/ssh101/diavatatvweb/playlist.m3u8
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/netmax.png" ,Netmax TV
 https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="hub://logs/cinema_classic.png" ,Cinema Classics
-https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-name="Choice TV" tvg-logo="hub://logs/choice.png" ,Choice TV
 https://eu1.streams.gr:8081/choicetv/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-name="Choice TV" tvg-logo="hub://logs/choice.png" ,Choice TV (2)
