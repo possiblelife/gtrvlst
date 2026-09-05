@@ -344,6 +344,10 @@ https://www.tvopen.gr/watch/116470/seyxellessthnpioentyposiakhparaliatoykosmoy|w
 https://www.tvopen.gr/watch/116471/nhsikioyriesseyxellesstobasileiotongigantionxelonon|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ρίο ντε Τζανέιρο: Στο άγαλμα του Χριστού Λυτρωτή
 https://www.tvopen.gr/watch/117403/riontetzaneirostoagalmatoyxristoylytroth|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Ρίο ντε Τζανέιρο: H διάσημη παραλία Κοπακαμπάνα
+https://www.tvopen.gr/watch/117404/riontetzaneirohdiashmhparaliakopakampana|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Copacabana Palace: Το ιστορικό ξενοδοχείο του Ρίο ντε Τζανέιρο
+https://www.tvopen.gr/watch/117405/copacabanapalacetoistorikoxenodoxeiotoyriontetzaneiro|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ρίο ντε Τζανέιρο: Ο Καθεδρικός Ναός της πόλης που εντυπωσιάζει
 https://www.tvopen.gr/watch/117500/riontetzaneirookathedrikosnaosthspolhspoyentyposiazei|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ρίο ντε Τζανέιρο: Το κτήριο - «κόσμημα» της βιβλιοθήκης
@@ -362,10 +366,6 @@ https://www.tvopen.gr/watch/118492/rioscenariumtoklampzontanosthrylostoyriontetz
 https://www.tvopen.gr/watch/118522/raftingkstoyskatarraktesigkoyasoy|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Καταρράκτες Ιγκουασού: Πάρκο πουλιών με 800 διαφορετικά είδη που ζουν ελεύθερα
 https://www.tvopen.gr/watch/118523/katarraktesigkoyasoyparkopoylionme800diaforetikaeidhpoyzoyneleythera|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Ρίο ντε Τζανέιρο: H διάσημη παραλία Κοπακαμπάνα
-https://www.tvopen.gr/watch/117404/riontetzaneirohdiashmhparaliakopakampana|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Copacabana Palace: Το ιστορικό ξενοδοχείο του Ρίο ντε Τζανέιρο
-https://www.tvopen.gr/watch/117405/copacabanapalacetoistorikoxenodoxeiotoyriontetzaneiro|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Πτήση με ελικόπτερο πάνω από τους καταρράκτες Ιγκουασού
 https://www.tvopen.gr/watch/118524/pthshmeelikopteropanoapotoyskatarraktesigkoyasoy|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Καταρράκτες Ιγκουασού: «Ο λαιμός του διαβόλου»
@@ -1026,14 +1026,6 @@ https://www.tvopen.gr/watch/253667/amalfibmeros|webvidfulldig
 https://www.tvopen.gr/watch/254193/salamina|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Σαλαμίνα
 https://www.tvopen.gr/watch/254194/salamina|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Γέφυρα του θανάτου – Νορβηγία
-https://www.tvopen.gr/watch/255763/gefyratoythanatoynorbhgia|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Χέλεσιλτ: Χωριό που το διαπερνά καταρράκτης
-https://www.tvopen.gr/watch/255764/xelesiltxoriopoytodiapernakatarrakths|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Λάερνταλ: Ένα χωριό που είναι σαν να έχει βγει από σκηνικό ταινίας
-https://www.tvopen.gr/watch/256290/laerntalenaxoriopoyeinaisannaexeibgeiaposkhnikotainias|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Κιόσφοσεν: Ο καταρράκτης αξιοθέατο της διαδρομής Φλομσμπάνα
-https://www.tvopen.gr/watch/256291/kiosfosenokatarrakthsaxiotheatothsdiadromhsflomsmpana|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Σαλαμίνα
 https://www.tvopen.gr/watch/254195/salamina|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Το μαγευτικό Φιόρντο ντι Φουρόρε, είναι ανάμεσα στους βράχους και τη θάλασσα.
@@ -1048,6 +1040,14 @@ https://www.tvopen.gr/watch/254677/gkaleriaoympertoae28099hdiaxronikhemporikhsto
 https://www.tvopen.gr/watch/255216/tooslohproteyoysasyndyazeifiordkaipolitismo|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Κοινοβούλιο: Το κτήριο σύμβολο της πολιτικής ζωής
 https://www.tvopen.gr/watch/255218/koinoboyliotokthriosymbolothspolitikhszohs|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Γέφυρα του θανάτου – Νορβηγία
+https://www.tvopen.gr/watch/255763/gefyratoythanatoynorbhgia|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Χέλεσιλτ: Χωριό που το διαπερνά καταρράκτης
+https://www.tvopen.gr/watch/255764/xelesiltxoriopoytodiapernakatarrakths|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Λάερνταλ: Ένα χωριό που είναι σαν να έχει βγει από σκηνικό ταινίας
+https://www.tvopen.gr/watch/256290/laerntalenaxoriopoyeinaisannaexeibgeiaposkhnikotainias|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Κιόσφοσεν: Ο καταρράκτης αξιοθέατο της διαδρομής Φλομσμπάνα
+https://www.tvopen.gr/watch/256291/kiosfosenokatarrakthsaxiotheatothsdiadromhsflomsmpana|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εκκλησία της Παρθένου Μαρίας: Ο ναός που άντεξε στους αιώνες
 https://www.tvopen.gr/watch/256649/ekklhsiathsparthenoymariasonaospoyantexestoysaiones|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Πλατεία Τόργκαλμενινγκεν: Η «καρδιά» της πόλης
