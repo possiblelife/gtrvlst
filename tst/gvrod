@@ -260,6 +260,8 @@ SERIES$$hub://gvrod/alpha/ekpompes/akis-food-tour.txt
 #EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-logo="hub://logs/skai.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.skaitv.gr/shows/seires|webvod zoom=100 scroll=0,0
 
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Skai/mple-ores" tvg-logo="hub://logseries/skai/ble_wres_landscape1.jpg" tvg-website="https://www.skai.gr/tv/show/seires/mple-ores/sezon-2026-2027" ,Μπλε Ώρες (SKAItv μόνο)(2026-2027)
+SERIES$$hub://gvrod/skai/sires/mple-ores.txt
 #EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Skai/nomoi-tis-kardias" tvg-logo="hub://logseries/skai/nomoi_kardias.jpg" tvg-website="https://www.skai.gr/tv/show/seires/nomoi-tis-kardias/sezon-2025-2026" ,Νόμοι της Καρδιάς (SKAItv μόνο)(2025-2026)
 SERIES$$hub://gvrod/skai/sires/nomoi-tis-kardias.txt
 #EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Skai/tote-vs-tora" tvg-logo="hub://logseries/skai/tote_kai_twra_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/seires/tote-vs-tora/sezon-2025-2026" ,Τότε και Τώρα (SKAItv μόνο)(2025-2026)
