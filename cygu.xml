@@ -45,194 +45,13 @@
   <channel id="riksat">
     <display-name lang="el">Riksat</display-name>
   </channel>
-  <channel id="greektoons">
+   <channel id="greektoons">
     <display-name lang="el">Greek Classic Toons</display-name>
   </channel>
-<programme start="20260919002110 +0300" stop="20260919004225 +0300" channel="greektoons">
-<title lang="en">Baby Looney Tunes</title>
-<sub-title lang="en">Baby Looney Tunes S01E03</sub-title>
-<category lang="en">Series</category>
-<episode-num system="onscreen">S01E03</episode-num>
-<episode-num system="xmltv_ns">0.2.0/1</episode-num>
-
-</programme>
-<programme start="20260919004225 +0300" stop="20260919010331 +0300" channel="greektoons">
-<title lang="en">Baby Looney Tunes</title>
-<sub-title lang="en">Baby Looney Tunes S01E04</sub-title>
-<category lang="en">Series</category>
-<episode-num system="onscreen">S01E04</episode-num>
-<episode-num system="xmltv_ns">0.3.0/1</episode-num>
-
-</programme>
-<programme start="20260919010331 +0300" stop="20260919012635 +0300" channel="greektoons">
-<title lang="en">DragonBall</title>
-<sub-title lang="en">DragonBall S01 005</sub-title>
-<category lang="en">Series</category>
-<episode-num system="onscreen">S01E00</episode-num>
-<episode-num system="xmltv_ns">0.-1.0/1</episode-num>
-
-</programme>
-<programme start="20260919012635 +0300" stop="20260919014836 +0300" channel="greektoons">
-<title lang="en">DragonBall</title>
-<sub-title lang="en">DragonBall S01 006</sub-title>
-<category lang="en">Series</category>
-<episode-num system="onscreen">S01E00</episode-num>
-<episode-num system="xmltv_ns">0.-1.0/1</episode-num>
-
-</programme>
-<programme start="20260919014836 +0300" stop="20260919021140 +0300" channel="greektoons">
-<title lang="en">DragonBall</title>
-<sub-title lang="en">DragonBall S01 007</sub-title>
-<category lang="en">Series</category>
-<episode-num system="onscreen">S01E00</episode-num>
-<episode-num system="xmltv_ns">0.-1.0/1</episode-num>
-
-</programme>
-<programme start="20260919021140 +0300" stop="20260919023409 +0300" channel="greektoons">
-<title lang="en">DragonBall</title>
-<sub-title lang="en">DragonBall S01 008</sub-title>
-<category lang="en">Series</category>
-<episode-num system="onscreen">S01E00</episode-num>
-<episode-num system="xmltv_ns">0.-1.0/1</episode-num>
-
-</programme>
-<programme start="20260919023409 +0300" stop="20260919025458 +0300" channel="greektoons">
-<title lang="en">Μικρό μου Πόνυ</title>
-<sub-title lang="en">Μικρό μου Πόνυ S01 E03 The Movie</sub-title>
-<category lang="en">Series</category>
-<episode-num system="onscreen">S01E00</episode-num>
-<episode-num system="xmltv_ns">0.-1.0/1</episode-num>
-
-</programme>
-<programme start="20260919025458 +0300" stop="20260919031905 +0300" channel="greektoons">
-<title lang="en">Μικρό μου Πόνυ</title>
-<sub-title lang="en">Μικρό μου Πόνυ S01 E04 the end of flutter valley</sub-title>
-<category lang="en">Series</category>
-<episode-num system="onscreen">S01E00</episode-num>
-<episode-num system="xmltv_ns">0.-1.0/1</episode-num>
-
-</programme>
-<programme start="20260919031905 +0300" stop="20260919034143 +0300" channel="greektoons">
-<title lang="en">Μπάτμαν Σειρά Κινουμένων Σχεδίων</title>
-<sub-title lang="en">Μπάτμαν Σειρά Κινουμένων Σχεδίων S01E03 Heart of Ice</sub-title>
-<category lang="en">Series</category>
-<episode-num system="onscreen">S01E03</episode-num>
-<episode-num system="xmltv_ns">0.2.0/1</episode-num>
-
-</programme>
-<programme start="20260919034143 +0300" stop="20260919040351 +0300" channel="greektoons">
-<title lang="en">Μπάτμαν Σειρά Κινουμένων Σχεδίων</title>
-<sub-title lang="en">Μπάτμαν Σειρά Κινουμένων Σχεδίων S01E04 Feat of Clay Part One</sub-title>
-<category lang="en">Series</category>
-<episode-num system="onscreen">S01E04</episode-num>
-<episode-num system="xmltv_ns">0.3.0/1</episode-num>
-
-</programme>
-<programme start="20260919040351 +0300" stop="20260919042648 +0300" channel="greektoons">
-<title lang="en">Τσιπ και Ντέιλ - Οι υπερασπιστές</title>
-<sub-title lang="en">Τσιπ και Ντέιλ - Οι υπερασπιστές S01E03</sub-title>
-<category lang="en">Series</category>
-<episode-num system="onscreen">S01E03</episode-num>
-<episode-num system="xmltv_ns">0.2.0/1</episode-num>
-
-</programme>
-<programme start="20260919042648 +0300" stop="20260919044942 +0300" channel="greektoons">
-<title lang="en">Τσιπ και Ντέιλ - Οι υπερασπιστές</title>
-<sub-title lang="en">Τσιπ και Ντέιλ - Οι υπερασπιστές S01E04</sub-title>
-<category lang="en">Series</category>
-<episode-num system="onscreen">S01E04</episode-num>
-<episode-num system="xmltv_ns">0.3.0/1</episode-num>
-
-</programme>
-<programme start="20260919044942 +0300" stop="20260919051305 +0300" channel="greektoons">
-<title lang="en">SailorMoon</title>
-<sub-title lang="en">SailorMoon - S0 E003</sub-title>
-<category lang="en">Series</category>
-<episode-num system="onscreen">S00E00</episode-num>
-<episode-num system="xmltv_ns">-1.-1.0/1</episode-num>
-
-</programme>
-<programme start="20260919051305 +0300" stop="20260919053542 +0300" channel="greektoons">
-<title lang="en">SailorMoon</title>
-<sub-title lang="en">SailorMoon - S0 E004</sub-title>
-<category lang="en">Series</category>
-<episode-num system="onscreen">S00E00</episode-num>
-<episode-num system="xmltv_ns">-1.-1.0/1</episode-num>
-
-</programme>
-<programme start="20260919053542 +0300" stop="20260919054328 +0300" channel="greektoons">
-<title lang="en">Tom and Jerry</title>
-<sub-title lang="en">Tom and Jerry S0 E12 Baby Puss</sub-title>
-<category lang="en">Series</category>
-<episode-num system="onscreen">S00E00</episode-num>
-<episode-num system="xmltv_ns">-1.-1.0/1</episode-num>
-
-</programme>
-<programme start="20260919054328 +0300" stop="20260919055039 +0300" channel="greektoons">
-<title lang="en">Tom and Jerry</title>
-<sub-title lang="en">Tom and Jerry S0 E125 Sorry Safari</sub-title>
-<category lang="en">Series</category>
-<episode-num system="onscreen">S00E00</episode-num>
-<episode-num system="xmltv_ns">-1.-1.0/1</episode-num>
-
-</programme>
-<programme start="20260919055039 +0300" stop="20260919061123 +0300" channel="greektoons">
-<title lang="en">Αστυνόμος Σαίνης</title>
-<sub-title lang="en">Αστυνόμος Σαίνης S01E03 - Down on the farm</sub-title>
-<category lang="en">Series</category>
-<episode-num system="onscreen">S01E03</episode-num>
-<episode-num system="xmltv_ns">0.2.0/1</episode-num>
-
-</programme>
-<programme start="20260919061123 +0300" stop="20260919063355 +0300" channel="greektoons">
-<title lang="en">Αστυνόμος Σαίνης</title>
-<sub-title lang="en">Αστυνόμος Σαίνης S01E04 - Gadget at the Circus</sub-title>
-<category lang="en">Series</category>
-<episode-num system="onscreen">S01E04</episode-num>
-<episode-num system="xmltv_ns">0.3.0/1</episode-num>
-
-</programme>
-<programme start="20260919063355 +0300" stop="20260919065424 +0300" channel="greektoons">
-<title lang="en">ΚΑΝΤΥ ΚΑΝΤΥ</title>
-<sub-title lang="en">ΚΑΝΤΥ ΚΑΝΤΥ S0 E003</sub-title>
-<category lang="en">Series</category>
-<episode-num system="onscreen">S00E00</episode-num>
-<episode-num system="xmltv_ns">-1.-1.0/1</episode-num>
-
-</programme>
-<programme start="20260919065424 +0300" stop="20260919071425 +0300" channel="greektoons">
-<title lang="en">ΚΑΝΤΥ ΚΑΝΤΥ</title>
-<sub-title lang="en">ΚΑΝΤΥ ΚΑΝΤΥ S0 E004</sub-title>
-<category lang="en">Series</category>
-<episode-num system="onscreen">S00E00</episode-num>
-<episode-num system="xmltv_ns">-1.-1.0/1</episode-num>
-
-</programme>
-<programme start="20260919071425 +0300" stop="20260919073901 +0300" channel="greektoons">
-<title lang="en">Λούκυ Λουκ</title>
-<sub-title lang="en">Λούκυ Λουκ S0 E03 Η εξαγορά των Ντάλτον</sub-title>
-<category lang="en">Series</category>
-<episode-num system="onscreen">S00E00</episode-num>
-<episode-num system="xmltv_ns">-1.-1.0/1</episode-num>
-
-</programme>
-<programme start="20260919073901 +0300" stop="20260919080333 +0300" channel="greektoons">
-<title lang="en">Λούκυ Λουκ</title>
-<sub-title lang="en">Λούκυ Λουκ S0 E04 Η άμαξα</sub-title>
-<category lang="en">Series</category>
-<episode-num system="onscreen">S00E00</episode-num>
-<episode-num system="xmltv_ns">-1.-1.0/1</episode-num>
-
-</programme>
-<programme start="20260919080333 +0300" stop="20260919082551 +0300" channel="greektoons">
-<title lang="en">ΝΤΕΝΙΣ Ο ΤΡΟΜΕΡΟΣ</title>
-<sub-title lang="en">ΝΤΕΝΙΣ Ο ΤΡΟΜΕΡΟΣ S0 E02. (480p)</sub-title>
-<category lang="en">Series</category>
-<episode-num system="onscreen">S00E00</episode-num>
-<episode-num system="xmltv_ns">-1.-1.0/1</episode-num>
-
-</programme>
-<programme start="20260919082551 +0300" stop="20260919084810 +0300" channel="greektoons">
+  <channel id="greekclassic">
+    <display-name lang="el">Ελληνοκλασσικό</display-name>
+  </channel>
+<programme start="20260919082601 +0300" stop="20260919084810 +0300" channel="greektoons">
 <title lang="en">ΝΤΕΝΙΣ Ο ΤΡΟΜΕΡΟΣ</title>
 <sub-title lang="en">ΝΤΕΝΙΣ Ο ΤΡΟΜΕΡΟΣ S0 E02</sub-title>
 <category lang="en">Series</category>
@@ -2582,6 +2401,374 @@
 <category lang="en">Series</category>
 <episode-num system="onscreen">S00E00</episode-num>
 <episode-num system="xmltv_ns">-1.-1.0/1</episode-num>
+
+</programme>
+<programme start="20260923100752 +0300" stop="20260923103014 +0300" channel="greektoons">
+<title lang="en">Χάιντι</title>
+<sub-title lang="en">Χάιντι S0 E12</sub-title>
+<category lang="en">Series</category>
+<episode-num system="onscreen">S00E00</episode-num>
+<episode-num system="xmltv_ns">-1.-1.0/1</episode-num>
+
+</programme>
+<programme start="20260923103014 +0300" stop="20260923105238 +0300" channel="greektoons">
+<title lang="en">Τα Στρουμφάκια</title>
+<sub-title lang="en">Τα Στρουμφάκια S01 E11 - Bewitched, Bothered and Be-smurfed</sub-title>
+<category lang="en">Series</category>
+<episode-num system="onscreen">S01E00</episode-num>
+<episode-num system="xmltv_ns">0.-1.0/1</episode-num>
+
+</programme>
+<programme start="20260923105238 +0300" stop="20260923110516 +0300" channel="greektoons">
+<title lang="en">Τα Στρουμφάκια</title>
+<sub-title lang="en">Τα Στρουμφάκια S01 E12 - Smurf-Colored Glasses</sub-title>
+<category lang="en">Series</category>
+<episode-num system="onscreen">S01E00</episode-num>
+<episode-num system="xmltv_ns">0.-1.0/1</episode-num>
+
+</programme>
+<programme start="20260923110516 +0300" stop="20260923113046 +0300" channel="greektoons">
+<title lang="en">Οι Φλίντστοουνς</title>
+<sub-title lang="en">Οι Φλίντστοουνς S01E11</sub-title>
+<category lang="en">Series</category>
+<episode-num system="onscreen">S01E11</episode-num>
+<episode-num system="xmltv_ns">0.10.0/1</episode-num>
+
+</programme>
+<programme start="20260923113046 +0300" stop="20260923115618 +0300" channel="greektoons">
+<title lang="en">Οι Φλίντστοουνς</title>
+<sub-title lang="en">Οι Φλίντστοουνς S01E12</sub-title>
+<category lang="en">Series</category>
+<episode-num system="onscreen">S01E12</episode-num>
+<episode-num system="xmltv_ns">0.11.0/1</episode-num>
+
+</programme>
+<programme start="20260923115618 +0300" stop="20260923121959 +0300" channel="greektoons">
+<title lang="en">Χριστόφορος Κολόμβος</title>
+<sub-title lang="en">Χριστόφορος Κολόμβος S0 E11</sub-title>
+<category lang="en">Series</category>
+<episode-num system="onscreen">S00E00</episode-num>
+<episode-num system="xmltv_ns">-1.-1.0/1</episode-num>
+
+</programme>
+<programme start="20260923121959 +0300" stop="20260923124341 +0300" channel="greektoons">
+<title lang="en">Χριστόφορος Κολόμβος</title>
+<sub-title lang="en">Χριστόφορος Κολόμβος S0 E12</sub-title>
+<category lang="en">Series</category>
+<episode-num system="onscreen">S00E00</episode-num>
+<episode-num system="xmltv_ns">-1.-1.0/1</episode-num>
+
+</programme>
+<programme start="20260919000000 +0300" stop="20260919012242 +0300" channel="greekclassic">
+<title lang="en">Ό,τι Λάμπει Είναι Χρυσός</title>
+
+</programme>
+<programme start="20260919012242 +0300" stop="20260919022505 +0300" channel="greekclassic">
+<title lang="en">Σπιναλόγκα; Το νησί της σιωπής (1958)</title>
+
+</programme>
+<programme start="20260919022505 +0300" stop="20260919040645 +0300" channel="greekclassic">
+<title lang="en">Η ΝΕΡΑΙΔΑ ΚΑΙ ΤΟ ΠΑΛΙΚΑΡΙ (1969)</title>
+
+</programme>
+<programme start="20260919040645 +0300" stop="20260919052030 +0300" channel="greekclassic">
+<title lang="en">Θύελλα στο φάρο 1950</title>
+
+</programme>
+<programme start="20260919052030 +0300" stop="20260919065002 +0300" channel="greekclassic">
+<title lang="en">ΤΟ ΠΙΟ ΛΑΜΠΡΟ ΑΣΤΕΡΙ (1967)</title>
+
+</programme>
+<programme start="20260919065002 +0300" stop="20260919083423 +0300" channel="greekclassic">
+<title lang="en">Κορίτσια για φίλημα (1965) DVD</title>
+
+</programme>
+<programme start="20260919083423 +0300" stop="20260919095322 +0300" channel="greekclassic">
+<title lang="en">Ο Θανάσης, η Ιουλιέτα και τα Λουκάνικα (1970)</title>
+
+</programme>
+<programme start="20260919095322 +0300" stop="20260919112127 +0300" channel="greekclassic">
+<title lang="en">Η ΠΑΡΙΖΙΑΝΑ (1969)</title>
+
+</programme>
+<programme start="20260919112127 +0300" stop="20260919124150 +0300" channel="greekclassic">
+<title lang="en">Μπουμπουλίνα 1959</title>
+
+</programme>
+<programme start="20260919124150 +0300" stop="20260919140942 +0300" channel="greekclassic">
+<title lang="en">ΕΛΑ ΝΑ ΓΥΜΝΩΘΟΥΜΕ ΝΤΑΡΛΙΝΓΚ (1984)</title>
+
+</programme>
+<programme start="20260919140942 +0300" stop="20260919152620 +0300" channel="greekclassic">
+<title lang="en">Φτώχεια θέλει καλοπέραση (1958)</title>
+
+</programme>
+<programme start="20260919152620 +0300" stop="20260919164830 +0300" channel="greekclassic">
+<title lang="en">ΖΗΤΕΙΤΑΙ ΨΕΥΤΗΣ (1961)</title>
+
+</programme>
+<programme start="20260919164830 +0300" stop="20260919181844 +0300" channel="greekclassic">
+<title lang="en">ΤΡΟΧΟΝΟΜΟΣ ΒΑΡΒΑΡΑ (1981)</title>
+
+</programme>
+<programme start="20260919181844 +0300" stop="20260919194846 +0300" channel="greekclassic">
+<title lang="en">ΑΧ ΑΥΤΗ Η ΓΥΝΑΙΚΑ ΜΟΥ (1967)</title>
+
+</programme>
+<programme start="20260919194846 +0300" stop="20260919210743 +0300" channel="greekclassic">
+<title lang="en">Ένας Βέγγος για όλες τις δουλειές 1970</title>
+
+</programme>
+<programme start="20260919210743 +0300" stop="20260919225436 +0300" channel="greekclassic">
+<title lang="en">Χτυποκάρδια Στο Θρανίο (1963)</title>
+
+</programme>
+<programme start="20260919225436 +0300" stop="20260920001627 +0300" channel="greekclassic">
+<title lang="en">The... Κόπανοι (1987)</title>
+
+</programme>
+<programme start="20260920001627 +0300" stop="20260920013530 +0300" channel="greekclassic">
+<title lang="en">Ζάλογγο; Το κάστρο της λευτεριάς 1959</title>
+
+</programme>
+<programme start="20260920013530 +0300" stop="20260920025908 +0300" channel="greekclassic">
+<title lang="en">Ένας Άντρας με Φιλότιμο (1960)</title>
+
+</programme>
+<programme start="20260920025908 +0300" stop="20260920042324 +0300" channel="greekclassic">
+<title lang="en">Η ΑΡΧΟΝΤΗΣΑ ΤΗΣ ΚΟΥΖΙΝΑΣ (1969)</title>
+
+</programme>
+<programme start="20260920042324 +0300" stop="20260920054256 +0300" channel="greekclassic">
+<title lang="en">Επιστροφή από το μέτωπο (1959)</title>
+
+</programme>
+<programme start="20260920054256 +0300" stop="20260920071114 +0300" channel="greekclassic">
+<title lang="en">Ούτε μιλάει ούτε λαλάει (1966)</title>
+
+</programme>
+<programme start="20260920071114 +0300" stop="20260920084101 +0300" channel="greekclassic">
+<title lang="en">ΒΑΣΙΚΑ ΚΑΛΗΣΠΕΡΑ ΣΑΣ (1982)</title>
+
+</programme>
+<programme start="20260920084101 +0300" stop="20260920101654 +0300" channel="greekclassic">
+<title lang="en">Η Δασκάλα Mε Tα Ξανθά Μαλλιά (1969)</title>
+
+</programme>
+<programme start="20260920101654 +0300" stop="20260920114139 +0300" channel="greekclassic">
+<title lang="en">Ο ΚΑΒΑΛΑΡΗΣ ΤΩΝ FM STEREO (1986)</title>
+
+</programme>
+<programme start="20260920114139 +0300" stop="20260920130312 +0300" channel="greekclassic">
+<title lang="en">Η μεγάλη απόφραξη – Το σκατόμουτρο (1988)</title>
+
+</programme>
+<programme start="20260920130312 +0300" stop="20260920142202 +0300" channel="greekclassic">
+<title lang="en">Της νύχτας τα καμώματα (1957)</title>
+
+</programme>
+<programme start="20260920142202 +0300" stop="20260920154435 +0300" channel="greekclassic">
+<title lang="en">Το παίζω και πολύ άντρας (1983)</title>
+
+</programme>
+<programme start="20260920154435 +0300" stop="20260920171229 +0300" channel="greekclassic">
+<title lang="en">Η ΓΥΝΑΙΚΑ ΜΟΥ ΤΡΕΛΛΑΘΗΚΕ (1966)</title>
+
+</programme>
+<programme start="20260920171229 +0300" stop="20260920191940 +0300" channel="greekclassic">
+<title lang="en">1922 (1978)</title>
+
+</programme>
+<programme start="20260920191940 +0300" stop="20260920203325 +0300" channel="greekclassic">
+<title lang="en">24 ώρες ζωντοχήρα (1969)</title>
+
+</programme>
+<programme start="20260920203325 +0300" stop="20260920220652 +0300" channel="greekclassic">
+<title lang="en">Χαρούμενοι αλήτες (1958)</title>
+
+</programme>
+<programme start="20260920220652 +0300" stop="20260920233054 +0300" channel="greekclassic">
+<title lang="en">Το Ψώνιο (1983)</title>
+
+</programme>
+<programme start="20260920233054 +0300" stop="20260921003835 +0300" channel="greekclassic">
+<title lang="en">Ο τρελλάρας (1963)</title>
+
+</programme>
+<programme start="20260921003835 +0300" stop="20260921015055 +0300" channel="greekclassic">
+<title lang="en">Κρουαζιέρα στη Ρόδο (1960)</title>
+
+</programme>
+<programme start="20260921015055 +0300" stop="20260921031546 +0300" channel="greekclassic">
+<title lang="en">Κάθε Εμπόδιο για Καλό (1958)</title>
+
+</programme>
+<programme start="20260921031546 +0300" stop="20260921043522 +0300" channel="greekclassic">
+<title lang="en">Ο Θανάσης και το καταραμένο φίδι (1982)</title>
+
+</programme>
+<programme start="20260921043522 +0300" stop="20260921055739 +0300" channel="greekclassic">
+<title lang="en">Η ΜΟΥΣΙΤΣΑ (1959)</title>
+
+</programme>
+<programme start="20260921055739 +0300" stop="20260921072138 +0300" channel="greekclassic">
+<title lang="en">Η Έξοδος του Μεσολογγίου (1965)</title>
+
+</programme>
+<programme start="20260921072138 +0300" stop="20260921083334 +0300" channel="greekclassic">
+<title lang="en">Ένας Κλέφτης Με Φιλότιμο (1968)</title>
+
+</programme>
+<programme start="20260921083334 +0300" stop="20260921095953 +0300" channel="greekclassic">
+<title lang="en">Κούνια που σε κούναγε (1966)</title>
+
+</programme>
+<programme start="20260921095953 +0300" stop="20260921113820 +0300" channel="greekclassic">
+<title lang="en">Η σωφερίνα (1964)</title>
+
+</programme>
+<programme start="20260921113820 +0300" stop="20260921131135 +0300" channel="greekclassic">
+<title lang="en">Μιας πεντάρας νειάτα (1967)</title>
+
+</programme>
+<programme start="20260921131135 +0300" stop="20260921144946 +0300" channel="greekclassic">
+<title lang="en">ΤZENH TZENH (1966) DVDRip XviD</title>
+
+</programme>
+<programme start="20260921144946 +0300" stop="20260921162353 +0300" channel="greekclassic">
+<title lang="en">Η ΑΓΑΠΗ ΜΑΣ (1968)</title>
+
+</programme>
+<programme start="20260921162353 +0300" stop="20260921175244 +0300" channel="greekclassic">
+<title lang="en">MANTALENA (1960)</title>
+
+</programme>
+<programme start="20260921175244 +0300" stop="20260921192310 +0300" channel="greekclassic">
+<title lang="en">ΚΑΘΕ ΚΑΤΕΡΓΑΡΗΣ ΣΤΟΝ ΠΑΓΚΟ ΤΟΥ (1969)</title>
+
+</programme>
+<programme start="20260921192310 +0300" stop="20260921203629 +0300" channel="greekclassic">
+<title lang="en">Γαμπρός για κλάματα (1962)</title>
+
+</programme>
+<programme start="20260921203629 +0300" stop="20260921220412 +0300" channel="greekclassic">
+<title lang="en">ΤΟ ΚΛΩΤΣΟΣΚΟΥΦΙ (1960)</title>
+
+</programme>
+<programme start="20260921220412 +0300" stop="20260921233349 +0300" channel="greekclassic">
+<title lang="en">Ένοχος (1989)</title>
+
+</programme>
+<programme start="20260921233349 +0300" stop="20260922005907 +0300" channel="greekclassic">
+<title lang="en">Ο Ροζ Γάτος (1985)</title>
+
+</programme>
+<programme start="20260922005907 +0300" stop="20260922021508 +0300" channel="greekclassic">
+<title lang="en">Γκολ στον έρωτα (1954)</title>
+
+</programme>
+<programme start="20260922021508 +0300" stop="20260922034716 +0300" channel="greekclassic">
+<title lang="en">ΤΟ ΞΥΛΟ ΒΓΗΚΕ ΑΠΟ ΤΟΝ ΠΑΡΑΔΕΙΣΟ (1959)</title>
+
+</programme>
+<programme start="20260922034716 +0300" stop="20260922050807 +0300" channel="greekclassic">
+<title lang="en">ΠΕΣΤΑ ΒΡΩΜΟΣΤΟΜΕ (1983)</title>
+
+</programme>
+<programme start="20260922050807 +0300" stop="20260922063457 +0300" channel="greekclassic">
+<title lang="en">Η ΑΛΙΚΗ ΣΤΟ ΝΑΥΤΙΚΟ (1961)</title>
+
+</programme>
+<programme start="20260922063457 +0300" stop="20260922075117 +0300" channel="greekclassic">
+<title lang="en">Η Λίζα τό 'σκασε (1959) </title>
+
+</programme>
+<programme start="20260922075117 +0300" stop="20260922090116 +0300" channel="greekclassic">
+<title lang="en">Ο Σαλονικιός (1987)</title>
+
+</programme>
+<programme start="20260922090116 +0300" stop="20260922101439 +0300" channel="greekclassic">
+<title lang="en">Καλάβρυτα 1821 (1970)</title>
+
+</programme>
+<programme start="20260922101439 +0300" stop="20260922115134 +0300" channel="greekclassic">
+<title lang="en">Το Νησί των Γενναίων (1959)</title>
+
+</programme>
+<programme start="20260922115134 +0300" stop="20260922130859 +0300" channel="greekclassic">
+<title lang="en">Βέγγος ο τρελός καμικάζι</title>
+
+</programme>
+<programme start="20260922130859 +0300" stop="20260922143723 +0300" channel="greekclassic">
+<title lang="en">Ο Αριστείδης και τα κορίτσια του 1964</title>
+
+</programme>
+<programme start="20260922143723 +0300" stop="20260922160006 +0300" channel="greekclassic">
+<title lang="en">Ο ΗΛΙΑΣ ΤΟΥ 16ΟΥ (1959)</title>
+
+</programme>
+<programme start="20260922160006 +0300" stop="20260922173949 +0300" channel="greekclassic">
+<title lang="en">Ταξίδι με τον έρωτα {1959}</title>
+
+</programme>
+<programme start="20260922173949 +0300" stop="20260922185228 +0300" channel="greekclassic">
+<title lang="en">Κόκκινα Τριαντάφυλλα (1955)</title>
+
+</programme>
+<programme start="20260922185228 +0300" stop="20260922202613 +0300" channel="greekclassic">
+<title lang="en">Η κόρη μου η σοσιαλίστρια (1966)</title>
+
+</programme>
+<programme start="20260922202613 +0300" stop="20260922214455 +0300" channel="greekclassic">
+<title lang="en">Βαβυλωνία (1970) </title>
+
+</programme>
+<programme start="20260922214455 +0300" stop="20260922225153 +0300" channel="greekclassic">
+<title lang="en">Το τρελοκόριτσο 1958</title>
+
+</programme>
+<programme start="20260922225153 +0300" stop="20260923001809 +0300" channel="greekclassic">
+<title lang="en">Η εκδίκηση του πατέρα (1989)</title>
+
+</programme>
+<programme start="20260923001809 +0300" stop="20260923013925 +0300" channel="greekclassic">
+<title lang="en">Η ΒΙΛΛΑ ΤΩΝ ΟΡΓΙΩΝ (1964)</title>
+
+</programme>
+<programme start="20260923013925 +0300" stop="20260923030953 +0300" channel="greekclassic">
+<title lang="en">Στόχος η εκδίκηση (1986)</title>
+
+</programme>
+<programme start="20260923030953 +0300" stop="20260923041421 +0300" channel="greekclassic">
+<title lang="en">Ο μεγαλοκαρχαρίας (1957)</title>
+
+</programme>
+<programme start="20260923041421 +0300" stop="20260923053857 +0300" channel="greekclassic">
+<title lang="en">Ο μαγκούφης (1959)</title>
+
+</programme>
+<programme start="20260923053857 +0300" stop="20260923071013 +0300" channel="greekclassic">
+<title lang="en">ΥΠΑΡΧΕΙ ΚΑΙ ΦΙΛΟΤΙΜΟ (1965)</title>
+
+</programme>
+<programme start="20260923071013 +0300" stop="20260923083923 +0300" channel="greekclassic">
+<title lang="en">Η ΘΕΙΑ ΜΟΥ Η ΧΙΠΙΣΣΑ (1970)</title>
+
+</programme>
+<programme start="20260923083923 +0300" stop="20260923094922 +0300" channel="greekclassic">
+<title lang="en">Ο Σαλονικιός (1987)</title>
+
+</programme>
+<programme start="20260923094922 +0300" stop="20260923110245 +0300" channel="greekclassic">
+<title lang="en">Καλάβρυτα 1821 (1970)</title>
+
+</programme>
+<programme start="20260923110245 +0300" stop="20260923122935 +0300" channel="greekclassic">
+<title lang="en">Η ΑΛΙΚΗ ΣΤΟ ΝΑΥΤΙΚΟ (1961)</title>
+
+</programme>
+<programme start="20260923122935 +0300" stop="20260923141356 +0300" channel="greekclassic">
+<title lang="en">Κορίτσια για φίλημα (1965) DVD</title>
 
 </programme>
   <programme start="20260918032000 +0000" stop="20260918041000 +0000" channel="ANT1">
