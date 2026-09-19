@@ -2950,3 +2950,11 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=225532&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=225574&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 8",11/09/2026 ΑΙΧΜΕΣ
 https://www.omegatv.com.cy/cgibin/hweb?-A=225581&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 8",14/09/2026 ΑΙΧΜΕΣ
+https://www.omegatv.com.cy/cgibin/hweb?-A=225586&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 8",15/09/2026 ΑΙΧΜΕΣ
+https://www.omegatv.com.cy/cgibin/hweb?-A=225595&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 8",16/09/2026 ΑΙΧΜΕΣ
+https://www.omegatv.com.cy/cgibin/hweb?-A=225605&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 8",17/09/2026 ΑΙΧΜΕΣ
+https://www.omegatv.com.cy/cgibin/hweb?-A=225631&-V=vod|webfulldig
