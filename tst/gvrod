@@ -1,6 +1,8 @@
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="hub://logs/Alpha_TV.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.alphatv.gr/web-tv/|webvod zoom=100 scroll=0,0
 
+#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-logo="hub://logseries/alpha/Φόνοιστοκαμπαναριό2023.jpg" tvg-website="https://www.alphatv.gr/show/fonoi-sto-kabanario/" tvg-description="hub://desc/Alpha/Φόνοι.στο.καμπαναριό.(2023)" ,ΦΟΝΟΙ ΣΤΟ ΚΑΜΠΑΝΑΡΙΟ (Aphatv μόνο) (2026)
+SERIES$$hub://gvrod/alpha/sires/fonoi-sto-kabanario.txt
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-logo="hub://logseries/alpha/Μπαμπάσαγαπώ2026.jpg" tvg-description="hub://desc/Alpha/Μπαμπά.σ.αγαπώ.(2026)" ,Μπαμπά, σ' αγαπώ (Aphatv μόνο) (2026)
 SERIES$$hub://gvrod/alpha/sires/baba-sagapo.txt
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-logo="hub://logseries/alpha/Μπαμπάσαγαπώ2026.jpg" tvg-description="hub://desc/Alpha/Μπαμπά.σ.αγαπώ.(2026)" ,Μπαμπά, σ' αγαπώ (2026)
@@ -358,6 +360,10 @@ https://www.skai.gr/tv/episode/psuchagogia/souleimark-o-megaloprepis/2023-12-22-
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-logo="hub://logs/mega.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.megatv.com/shows|webvod zoom=100 scroll=0,0
 
+#EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Mega/dyo-mayra-poukamisa" tvg-logo="hub://logseries/mega/2mavrapoukamisa.png" ,Δυο Μαυρα Πουκαμισα (Megatv μόνο) (2026)
+SERIES$$hub://gvrod/mega/sires/dyo-mayra-poukamisa.txt
+#EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Mega/kampingk" tvg-logo="hub://logseries/mega/Camping.png" ,Κάμπινγκ (Megatv μόνο) (2026)
+SERIES$$hub://gvrod/mega/sires/kampingk.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-genre="κωμωδία, οικογενειακή" tvg-description="hub://desc/Mega/Έχω.παιδιά.(2024-2025)" tvg-logo="hub://logseries/mega/Έχωπαιδιά2024.jpg" ,Έχω παιδιά (Megatv μόνο) (2024-2026)
 SERIES$$hub://gvrod/mega/sires/exo-paidia.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-genre="κωμωδία, οικογενειακή" tvg-description="hub://desc/Mega/Έχω.παιδιά.(2024-2025)" tvg-logo="hub://logseries/mega/Έχωπαιδιά2024.jpg" ,Έχω παιδιά (2024-2026)
