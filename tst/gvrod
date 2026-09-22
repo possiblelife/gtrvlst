@@ -263,6 +263,8 @@ SERIES$$hub://gvrod/alpha/ekpompes/akis-food-tour.txt
 #EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-logo="hub://logs/skai.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.skaitv.gr/shows/seires|webvod zoom=100 scroll=0,0
 
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-genre="ρομαντική, κοινωνική" tvg-description="hub://desc/Skai/antonios-kleopatra" tvg-logo="hub://logseries/skai/antonios_kleopatra.jpg" tvg-website="https://www.skai.gr/tv/show/seires/antonios-kleopatra/sezon-2026-2027" ,Αντώνιος & Κλεοπάτρα (SKAItv μόνο)(2026-2027)
+SERIES$$hub://gvrod/skai/sires/antonios-kleopatra.txt
 #EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Skai/mple-ores" tvg-logo="hub://logseries/skai/ble_wres_landscape1.jpg" tvg-website="https://www.skai.gr/tv/show/seires/mple-ores/sezon-2026-2027" ,Μπλε Ώρες (SKAItv μόνο)(2026-2027)
 SERIES$$hub://gvrod/skai/sires/mple-ores.txt
 #EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Skai/nomoi-tis-kardias" tvg-logo="hub://logseries/skai/nomoi_kardias.jpg" tvg-website="https://www.skai.gr/tv/show/seires/nomoi-tis-kardias/sezon-2025-2026" ,Νόμοι της Καρδιάς (SKAItv μόνο)(2025-2026)
@@ -796,6 +798,8 @@ https://www.antenna.gr/shows|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-logo="hub://logseries/ant1/ant1.png" ,ANT1+  ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://watch.antennaplus.gr/browse/series|webvod zoom=100 scroll=0,0
 
+#EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Ant1/nterti" tvg-logo="hub://logseries/ant1/Nterti.png" ,ΝΤΕΡΤΙ (2026)
+SERIES$$hub://gvrod/ant1/sires/nterti.txt
 #EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Ant1/Σούπερ.ήρωες.(2026)" tvg-logo="hub://logseries/ant1/Σούπερήρωες2026.jpg" ,Σούπερ ήρωες (2026)
 SERIES$$hub://gvrod/ant1/sires_arxio/Σούπερ.ήρωες.(2026)
 #EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Ant1/Ο.δικαστής.(2025)" tvg-logo="hub://logseries/ant1/Οδικαστής2025.jpg" ,Ο δικαστής (2025)

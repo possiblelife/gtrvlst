@@ -1,16 +1,2 @@
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Η Νίτσα και ο Κοσμάς
-https://www.megatv.com/tvshows/2434783/i-nitsa-kai-o-kosmas/|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Ο Τάσος και η Στέλλα
-https://www.megatv.com/tvshows/2434780/o-tasos-kai-i-stella/|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Ο Σοφοκλής
-https://www.megatv.com/tvshows/2429848/neo-programma-1-erxetai/|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Ο Ιορδάνης
-https://www.megatv.com/tvshows/2429902/o-iordanis-neo-programma-erxetai/|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Η Γιώτα
-https://www.megatv.com/tvshows/2429911/i-giota-neo-programma-erxetai/|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Η Μαριάννα
-https://www.megatv.com/tvshows/2434756/i-marianna-erxetai/|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Η Εύα και ο Πέτρος
-https://www.megatv.com/tvshows/2434765/i-eya-kai-o-petros/|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Δευτέρα 21 Σεπτεμβρίου, 21:00
-https://www.megatv.com/tvshows/2486683/erxetai-3/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 1
+https://www.megatv.com/tvshows/2501353/epeisodio-1-123/|webfulldig

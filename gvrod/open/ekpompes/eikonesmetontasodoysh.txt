@@ -674,6 +674,12 @@ https://www.tvopen.gr/watch/186767/iordaniahxoligoyntianherhmosoyantiram|webvidf
 https://www.tvopen.gr/watch/186768/iordaniastoshmeioopoybaptisthkeoxristos|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ιορδανία: Η θέα από την Ακρόπολη του Αμμάν
 https://www.tvopen.gr/watch/187559/iordaniahtheaapothnakropolhtoyamman|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Βιετνάμ: Στην ομορφότερη χρυσή γέφυρα του κόσμου
+https://www.tvopen.gr/watch/190321/bietnamsthnomorfoterhxryshgefyratoykosmoy|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Βιετνάμ: Εικόνες από την καθημερινή ζωή στο Χωριό Λαχανικών
+https://www.tvopen.gr/watch/191261/bietnameikonesapothnkathhmerinhzohstoxoriolaxanikon|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Διασκεδαστική βαρκάδα με βιετναμέζικο καλάθι από μπαμπού
+https://www.tvopen.gr/watch/191260/diaskedastikhbarkadamebietnamezikokalathiapompampoy|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Γέρασα: Η «Πομπηία της Μέσης Ανατολής»
 https://www.tvopen.gr/watch/187560/gerasahpomphiathsmeshsanatolhs|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Βιετνάμ - λίμνη Χοάν Κιέμ: Ένας «παράδεισος» μέσα στον παλμό της πόλης
@@ -690,12 +696,6 @@ https://www.tvopen.gr/watch/189919/moksaoybietnamsthnkremasthgyalinhgefyrapoykob
 https://www.tvopen.gr/watch/189920/bietnamoneirikhbarkadastotrangkan|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Βιετνάμ: Χουέ – Στο εγκαταλελειμμένο υδάτινο πάρκο με τον στοιχειωμένο δράκο
 https://www.tvopen.gr/watch/190320/bietnamxoyestoegkataleleimmenoydatinoparkometonstoixeiomenodrako|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Βιετνάμ: Στην ομορφότερη χρυσή γέφυρα του κόσμου
-https://www.tvopen.gr/watch/190321/bietnamsthnomorfoterhxryshgefyratoykosmoy|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Βιετνάμ: Εικόνες από την καθημερινή ζωή στο Χωριό Λαχανικών
-https://www.tvopen.gr/watch/191261/bietnameikonesapothnkathhmerinhzohstoxoriolaxanikon|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Διασκεδαστική βαρκάδα με βιετναμέζικο καλάθι από μπαμπού
-https://www.tvopen.gr/watch/191260/diaskedastikhbarkadamebietnamezikokalathiapompampoy|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Διασκεδαστική βόλτα στο πάρκο Τάο Νταν
 https://www.tvopen.gr/watch/192031/diaskedastikhboltastoparkotaontan|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Cong Doan: Το μοναδικό παγκοσμίως κλαμπ πουλιών
@@ -1026,14 +1026,6 @@ https://www.tvopen.gr/watch/253667/amalfibmeros|webvidfulldig
 https://www.tvopen.gr/watch/254193/salamina|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Σαλαμίνα
 https://www.tvopen.gr/watch/254194/salamina|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Γέφυρα του θανάτου – Νορβηγία
-https://www.tvopen.gr/watch/255763/gefyratoythanatoynorbhgia|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Χέλεσιλτ: Χωριό που το διαπερνά καταρράκτης
-https://www.tvopen.gr/watch/255764/xelesiltxoriopoytodiapernakatarrakths|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Λάερνταλ: Ένα χωριό που είναι σαν να έχει βγει από σκηνικό ταινίας
-https://www.tvopen.gr/watch/256290/laerntalenaxoriopoyeinaisannaexeibgeiaposkhnikotainias|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Κιόσφοσεν: Ο καταρράκτης αξιοθέατο της διαδρομής Φλομσμπάνα
-https://www.tvopen.gr/watch/256291/kiosfosenokatarrakthsaxiotheatothsdiadromhsflomsmpana|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Σαλαμίνα
 https://www.tvopen.gr/watch/254195/salamina|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Το μαγευτικό Φιόρντο ντι Φουρόρε, είναι ανάμεσα στους βράχους και τη θάλασσα.
@@ -1048,6 +1040,14 @@ https://www.tvopen.gr/watch/254677/gkaleriaoympertoae28099hdiaxronikhemporikhsto
 https://www.tvopen.gr/watch/255216/tooslohproteyoysasyndyazeifiordkaipolitismo|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Κοινοβούλιο: Το κτήριο σύμβολο της πολιτικής ζωής
 https://www.tvopen.gr/watch/255218/koinoboyliotokthriosymbolothspolitikhszohs|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Γέφυρα του θανάτου – Νορβηγία
+https://www.tvopen.gr/watch/255763/gefyratoythanatoynorbhgia|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Χέλεσιλτ: Χωριό που το διαπερνά καταρράκτης
+https://www.tvopen.gr/watch/255764/xelesiltxoriopoytodiapernakatarrakths|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Λάερνταλ: Ένα χωριό που είναι σαν να έχει βγει από σκηνικό ταινίας
+https://www.tvopen.gr/watch/256290/laerntalenaxoriopoyeinaisannaexeibgeiaposkhnikotainias|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Κιόσφοσεν: Ο καταρράκτης αξιοθέατο της διαδρομής Φλομσμπάνα
+https://www.tvopen.gr/watch/256291/kiosfosenokatarrakthsaxiotheatothsdiadromhsflomsmpana|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εκκλησία της Παρθένου Μαρίας: Ο ναός που άντεξε στους αιώνες
 https://www.tvopen.gr/watch/256649/ekklhsiathsparthenoymariasonaospoyantexestoysaiones|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Πλατεία Τόργκαλμενινγκεν: Η «καρδιά» της πόλης
