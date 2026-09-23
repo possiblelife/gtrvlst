@@ -674,12 +674,6 @@ https://www.tvopen.gr/watch/186767/iordaniahxoligoyntianherhmosoyantiram|webvidf
 https://www.tvopen.gr/watch/186768/iordaniastoshmeioopoybaptisthkeoxristos|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ιορδανία: Η θέα από την Ακρόπολη του Αμμάν
 https://www.tvopen.gr/watch/187559/iordaniahtheaapothnakropolhtoyamman|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Βιετνάμ: Στην ομορφότερη χρυσή γέφυρα του κόσμου
-https://www.tvopen.gr/watch/190321/bietnamsthnomorfoterhxryshgefyratoykosmoy|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Βιετνάμ: Εικόνες από την καθημερινή ζωή στο Χωριό Λαχανικών
-https://www.tvopen.gr/watch/191261/bietnameikonesapothnkathhmerinhzohstoxoriolaxanikon|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Διασκεδαστική βαρκάδα με βιετναμέζικο καλάθι από μπαμπού
-https://www.tvopen.gr/watch/191260/diaskedastikhbarkadamebietnamezikokalathiapompampoy|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Γέρασα: Η «Πομπηία της Μέσης Ανατολής»
 https://www.tvopen.gr/watch/187560/gerasahpomphiathsmeshsanatolhs|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Βιετνάμ - λίμνη Χοάν Κιέμ: Ένας «παράδεισος» μέσα στον παλμό της πόλης
@@ -696,6 +690,12 @@ https://www.tvopen.gr/watch/189919/moksaoybietnamsthnkremasthgyalinhgefyrapoykob
 https://www.tvopen.gr/watch/189920/bietnamoneirikhbarkadastotrangkan|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Βιετνάμ: Χουέ – Στο εγκαταλελειμμένο υδάτινο πάρκο με τον στοιχειωμένο δράκο
 https://www.tvopen.gr/watch/190320/bietnamxoyestoegkataleleimmenoydatinoparkometonstoixeiomenodrako|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Βιετνάμ: Στην ομορφότερη χρυσή γέφυρα του κόσμου
+https://www.tvopen.gr/watch/190321/bietnamsthnomorfoterhxryshgefyratoykosmoy|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Βιετνάμ: Εικόνες από την καθημερινή ζωή στο Χωριό Λαχανικών
+https://www.tvopen.gr/watch/191261/bietnameikonesapothnkathhmerinhzohstoxoriolaxanikon|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Διασκεδαστική βαρκάδα με βιετναμέζικο καλάθι από μπαμπού
+https://www.tvopen.gr/watch/191260/diaskedastikhbarkadamebietnamezikokalathiapompampoy|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Διασκεδαστική βόλτα στο πάρκο Τάο Νταν
 https://www.tvopen.gr/watch/192031/diaskedastikhboltastoparkotaontan|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Cong Doan: Το μοναδικό παγκοσμίως κλαμπ πουλιών
