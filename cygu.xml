@@ -7441,1219 +7441,1459 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </desc>
    <icon src="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/26/TRIKYMIA_S.2e16d0ba.fill-350x500.jpg"/>
   </programme>
-<programme start="20260925065952 +0300" stop="20260925072206 +0300" channel="greektoons">
+<programme start="20260925000442 +0300" stop="20260925002542 +0300" channel="greektoons">
+<title lang="en">Baby Looney Tunes</title>
+<sub-title lang="en">Baby Looney Tunes S01E19</sub-title>
+</programme>
+<programme start="20260925002542 +0300" stop="20260925004632 +0300" channel="greektoons">
+<title lang="en">Baby Looney Tunes</title>
+<sub-title lang="en">Baby Looney Tunes S01E20</sub-title>
+</programme>
+<programme start="20260925004632 +0300" stop="20260925010807 +0300" channel="greektoons">
+<title lang="en">DragonBall</title>
+<sub-title lang="en">DragonBall S01 037</sub-title>
+</programme>
+<programme start="20260925010807 +0300" stop="20260925013115 +0300" channel="greektoons">
+<title lang="en">DragonBall</title>
+<sub-title lang="en">DragonBall S01 038</sub-title>
+</programme>
+<programme start="20260925013115 +0300" stop="20260925015424 +0300" channel="greektoons">
+<title lang="en">DragonBall</title>
+<sub-title lang="en">DragonBall S01 039</sub-title>
+</programme>
+<programme start="20260925015424 +0300" stop="20260925021732 +0300" channel="greektoons">
+<title lang="en">DragonBall</title>
+<sub-title lang="en">DragonBall S01 040</sub-title>
+</programme>
+<programme start="20260925021732 +0300" stop="20260925023811 +0300" channel="greektoons">
+<title lang="en">Μικρό μου Πόνυ</title>
+<sub-title lang="en">Μικρό μου Πόνυ S01 E19 Crunch The Rockdog</sub-title>
+</programme>
+<programme start="20260925023811 +0300" stop="20260925025841 +0300" channel="greektoons">
+<title lang="en">Μικρό μου Πόνυ</title>
+<sub-title lang="en">Μικρό μου Πόνυ S01 E20 the revolt of paradise estate</sub-title>
+</programme>
+<programme start="20260925025841 +0300" stop="20260925032119 +0300" channel="greektoons">
+<title lang="en">Μπάτμαν Σειρά Κινουμένων Σχεδίων</title>
+<sub-title lang="en">Μπάτμαν Σειρά Κινουμένων Σχεδίων S01E19 Fear of Victory</sub-title>
+</programme>
+<programme start="20260925032119 +0300" stop="20260925034349 +0300" channel="greektoons">
+<title lang="en">Μπάτμαν Σειρά Κινουμένων Σχεδίων</title>
+<sub-title lang="en">Μπάτμαν Σειρά Κινουμένων Σχεδίων S01E20 Ive Got Batman in My Basement</sub-title>
+</programme>
+<programme start="20260925034349 +0300" stop="20260925040643 +0300" channel="greektoons">
+<title lang="en">Τσιπ και Ντέιλ - Οι υπερασπιστές</title>
+<sub-title lang="en">Τσιπ και Ντέιλ - Οι υπερασπιστές S02E06</sub-title>
+</programme>
+<programme start="20260925040643 +0300" stop="20260925042934 +0300" channel="greektoons">
+<title lang="en">Τσιπ και Ντέιλ - Οι υπερασπιστές</title>
+<sub-title lang="en">Τσιπ και Ντέιλ - Οι υπερασπιστές S02E07</sub-title>
+</programme>
+<programme start="20260925042934 +0300" stop="20260925045244 +0300" channel="greektoons">
+<title lang="en">SailorMoon</title>
+<sub-title lang="en">SailorMoon - S0 E019</sub-title>
+</programme>
+<programme start="20260925045244 +0300" stop="20260925051557 +0300" channel="greektoons">
+<title lang="en">SailorMoon</title>
+<sub-title lang="en">SailorMoon - S0 E020</sub-title>
+</programme>
+<programme start="20260925051557 +0300" stop="20260925052151 +0300" channel="greektoons">
+<title lang="en">Tom and Jerry</title>
+<sub-title lang="en">Tom and Jerry S0 E142 The Cat's Me-Ouch!</sub-title>
+</programme>
+<programme start="20260925052151 +0300" stop="20260925052823 +0300" channel="greektoons">
+<title lang="en">Tom and Jerry</title>
+<sub-title lang="en">Tom and Jerry S0 E144 Jerry, Jerry, Quite Contrary</sub-title>
+</programme>
+<programme start="20260925052823 +0300" stop="20260925055052 +0300" channel="greektoons">
+<title lang="en">Αστυνόμος Σαίνης</title>
+<sub-title lang="en">Αστυνόμος Σαίνης S01E19 - The Curse of The Pharaoh</sub-title>
+</programme>
+<programme start="20260925055052 +0300" stop="20260925061320 +0300" channel="greektoons">
+<title lang="en">Αστυνόμος Σαίνης</title>
+<sub-title lang="en">Αστυνόμος Σαίνης S01E20 - M.A.D Trap</sub-title>
+</programme>
+<programme start="20260925061320 +0300" stop="20260925063601 +0300" channel="greektoons">
+<title lang="en">ΚΑΝΤΥ ΚΑΝΤΥ</title>
+<sub-title lang="en">ΚΑΝΤΥ ΚΑΝΤΥ S0 E019</sub-title>
+</programme>
+<programme start="20260925063601 +0300" stop="20260925065825 +0300" channel="greektoons">
 <title lang="en">ΚΑΝΤΥ ΚΑΝΤΥ</title>
 <sub-title lang="en">ΚΑΝΤΥ ΚΑΝΤΥ S0 E020</sub-title>
 </programme>
-<programme start="20260925072206 +0300" stop="20260925074636 +0300" channel="greektoons">
+<programme start="20260925065825 +0300" stop="20260925072255 +0300" channel="greektoons">
 <title lang="en">Λούκυ Λουκ</title>
 <sub-title lang="en">Λούκυ Λουκ S0 E19 Το σύρμα που τραγουδάει</sub-title>
 </programme>
-<programme start="20260925074636 +0300" stop="20260925081108 +0300" channel="greektoons">
+<programme start="20260925072255 +0300" stop="20260925074727 +0300" channel="greektoons">
 <title lang="en">Λούκυ Λουκ</title>
 <sub-title lang="en">Λούκυ Λουκ S0 E20 Σύρματα στα λιβάδια</sub-title>
 </programme>
-<programme start="20260925081108 +0300" stop="20260925083321 +0300" channel="greektoons">
+<programme start="20260925074727 +0300" stop="20260925080940 +0300" channel="greektoons">
 <title lang="en">ΝΤΕΝΙΣ Ο ΤΡΟΜΕΡΟΣ</title>
 <sub-title lang="en">ΝΤΕΝΙΣ Ο ΤΡΟΜΕΡΟΣ S0 E10 (480p)</sub-title>
 </programme>
-<programme start="20260925083321 +0300" stop="20260925085534 +0300" channel="greektoons">
+<programme start="20260925080940 +0300" stop="20260925083153 +0300" channel="greektoons">
 <title lang="en">ΝΤΕΝΙΣ Ο ΤΡΟΜΕΡΟΣ</title>
 <sub-title lang="en">ΝΤΕΝΙΣ Ο ΤΡΟΜΕΡΟΣ S0 E10</sub-title>
 </programme>
-<programme start="20260925085534 +0300" stop="20260925091913 +0300" channel="greektoons">
+<programme start="20260925083153 +0300" stop="20260925085532 +0300" channel="greektoons">
 <title lang="en">Ο Θρύλος του Ζορό</title>
 <sub-title lang="en">Ο Θρύλος του Ζορό S0 E19</sub-title>
 </programme>
-<programme start="20260925091913 +0300" stop="20260925094253 +0300" channel="greektoons">
+<programme start="20260925085532 +0300" stop="20260925091912 +0300" channel="greektoons">
 <title lang="en">Ο Θρύλος του Ζορό</title>
 <sub-title lang="en">Ο Θρύλος του Ζορό S0 E20</sub-title>
 </programme>
-<programme start="20260925094253 +0300" stop="20260925094901 +0300" channel="greektoons">
+<programme start="20260925091912 +0300" stop="20260925092520 +0300" channel="greektoons">
 <title lang="en">Ο Ροζ Πάνθηρας</title>
 <sub-title lang="en">Ο Ροζ Πάνθηρας S01 E18</sub-title>
 </programme>
-<programme start="20260925094901 +0300" stop="20260925095515 +0300" channel="greektoons">
+<programme start="20260925092520 +0300" stop="20260925093134 +0300" channel="greektoons">
 <title lang="en">Ο Ροζ Πάνθηρας</title>
 <sub-title lang="en">Ο Ροζ Πάνθηρας S01 E19</sub-title>
 </programme>
-<programme start="20260925095515 +0300" stop="20260925101816 +0300" channel="greektoons">
+<programme start="20260925093134 +0300" stop="20260925095435 +0300" channel="greektoons">
 <title lang="en">Παπιοπεριπέτειες</title>
 <sub-title lang="en">Παπιοπεριπέτειες S01 E19 Hero for Hire</sub-title>
 </programme>
-<programme start="20260925101816 +0300" stop="20260925104117 +0300" channel="greektoons">
+<programme start="20260925095435 +0300" stop="20260925101736 +0300" channel="greektoons">
 <title lang="en">Παπιοπεριπέτειες</title>
 <sub-title lang="en">Παπιοπεριπέτειες S01 E20 Superdoo</sub-title>
 </programme>
-<programme start="20260925104117 +0300" stop="20260925105152 +0300" channel="greektoons">
+<programme start="20260925101736 +0300" stop="20260925102811 +0300" channel="greektoons">
 <title lang="en">Ποπάυ ο ναύτης</title>
 <sub-title lang="en">Ποπάυ ο ναύτης S0 E08 TO TERAS THS THALASSAS</sub-title>
 </programme>
-<programme start="20260925105152 +0300" stop="20260925110227 +0300" channel="greektoons">
+<programme start="20260925102811 +0300" stop="20260925103846 +0300" channel="greektoons">
 <title lang="en">Ποπάυ ο ναύτης</title>
 <sub-title lang="en">Ποπάυ ο ναύτης S0 E09 TO TZINI</sub-title>
 </programme>
-<programme start="20260925110227 +0300" stop="20260925112447 +0300" channel="greektoons">
+<programme start="20260925103846 +0300" stop="20260925110106 +0300" channel="greektoons">
 <title lang="en">Σαμπρίνα, η Μικρή Μάγισσα</title>
 <sub-title lang="en">Σαμπρίνα, η Μικρή Μάγισσα S0 E21 - I Got Glue Babe</sub-title>
 </programme>
-<programme start="20260925112447 +0300" stop="20260925114730 +0300" channel="greektoons">
+<programme start="20260925110106 +0300" stop="20260925112349 +0300" channel="greektoons">
 <title lang="en">Σαμπρίνα, η Μικρή Μάγισσα</title>
 <sub-title lang="en">Σαμπρίνα, η Μικρή Μάγισσα S0 E22 - Boy Meets Bike</sub-title>
 </programme>
-<programme start="20260925114730 +0300" stop="20260925121049 +0300" channel="greektoons">
+<programme start="20260925112349 +0300" stop="20260925114708 +0300" channel="greektoons">
 <title lang="en">Σάντοκαν Η Δύναμη του Τίγρη</title>
 <sub-title lang="en">Σάντοκαν Η Δύναμη του Τίγρη S0 E18</sub-title>
 </programme>
-<programme start="20260925121049 +0300" stop="20260925123343 +0300" channel="greektoons">
+<programme start="20260925114708 +0300" stop="20260925121002 +0300" channel="greektoons">
 <title lang="en">Σάντοκαν Η Δύναμη του Τίγρη</title>
 <sub-title lang="en">Σάντοκαν Η Δύναμη του Τίγρη S0 E19</sub-title>
 </programme>
-<programme start="20260925123343 +0300" stop="20260925124417 +0300" channel="greektoons">
+<programme start="20260925121002 +0300" stop="20260925122035 +0300" channel="greektoons">
 <title lang="en">Σούπερ Μάριο</title>
 <sub-title lang="en">Σούπερ Μάριο S0 E04</sub-title>
 </programme>
-<programme start="20260925124417 +0300" stop="20260925125450 +0300" channel="greektoons">
+<programme start="20260925122035 +0300" stop="20260925123109 +0300" channel="greektoons">
 <title lang="en">Σούπερ Μάριο</title>
 <sub-title lang="en">Σούπερ Μάριο S0 E05</sub-title>
 </programme>
-<programme start="20260925125450 +0300" stop="20260925131413 +0300" channel="greektoons">
+<programme start="20260925123109 +0300" stop="20260925125032 +0300" channel="greektoons">
 <title lang="en">Σπάιντερμαν</title>
 <sub-title lang="en">Σπάιντερμαν S02E04</sub-title>
 </programme>
-<programme start="20260925131413 +0300" stop="20260925133441 +0300" channel="greektoons">
+<programme start="20260925125032 +0300" stop="20260925131100 +0300" channel="greektoons">
 <title lang="en">Σπάιντερμαν</title>
 <sub-title lang="en">Σπάιντερμαν S02E05</sub-title>
 </programme>
-<programme start="20260925133441 +0300" stop="20260925135829 +0300" channel="greektoons">
+<programme start="20260925131100 +0300" stop="20260925133448 +0300" channel="greektoons">
 <title lang="en">Το Βιβλίο της Ζούγκλας</title>
 <sub-title lang="en">Το Βιβλίο της Ζούγκλας S0 E17</sub-title>
 </programme>
-<programme start="20260925135829 +0300" stop="20260925142215 +0300" channel="greektoons">
+<programme start="20260925133448 +0300" stop="20260925135834 +0300" channel="greektoons">
 <title lang="en">Το Βιβλίο της Ζούγκλας</title>
 <sub-title lang="en">Το Βιβλίο της Ζούγκλας S0 E18</sub-title>
 </programme>
-<programme start="20260925142215 +0300" stop="20260925142847 +0300" channel="greektoons">
+<programme start="20260925135834 +0300" stop="20260925140506 +0300" channel="greektoons">
 <title lang="en">Το Μυρμήγκι και ο Μυρμηγκοφάγος</title>
 <sub-title lang="en">Το Μυρμήγκι και ο Μυρμηγκοφάγος S0 E01</sub-title>
 </programme>
-<programme start="20260925142847 +0300" stop="20260925143509 +0300" channel="greektoons">
+<programme start="20260925140506 +0300" stop="20260925141128 +0300" channel="greektoons">
 <title lang="en">Το Μυρμήγκι και ο Μυρμηγκοφάγος</title>
 <sub-title lang="en">Το Μυρμήγκι και ο Μυρμηγκοφάγος S0 E02</sub-title>
 </programme>
-<programme start="20260925143509 +0300" stop="20260925150053 +0300" channel="greektoons">
+<programme start="20260925141128 +0300" stop="20260925143712 +0300" channel="greektoons">
 <title lang="en">Φλιντ Ο Πρίγκιπας του Διαστήματος (Grendizer)</title>
 <sub-title lang="en">Φλιντ Ο Πρίγκιπας του Διαστήματος (Grendizer) S0 E04 - Young Blood Burns Crimson</sub-title>
 </programme>
-<programme start="20260925150053 +0300" stop="20260925152637 +0300" channel="greektoons">
+<programme start="20260925143712 +0300" stop="20260925150256 +0300" channel="greektoons">
 <title lang="en">Φλιντ Ο Πρίγκιπας του Διαστήματος (Grendizer)</title>
 <sub-title lang="en">Φλιντ Ο Πρίγκιπας του Διαστήματος (Grendizer) S0 E51 - It's Coming!! The Demon's Star</sub-title>
 </programme>
-<programme start="20260925152637 +0300" stop="20260925154938 +0300" channel="greektoons">
+<programme start="20260925150256 +0300" stop="20260925152557 +0300" channel="greektoons">
 <title lang="en">Χάιντι</title>
 <sub-title lang="en">Χάιντι S0 E17</sub-title>
 </programme>
-<programme start="20260925154938 +0300" stop="20260925161110 +0300" channel="greektoons">
+<programme start="20260925152557 +0300" stop="20260925154729 +0300" channel="greektoons">
 <title lang="en">Χάιντι</title>
 <sub-title lang="en">Χάιντι S0 E18</sub-title>
 </programme>
-<programme start="20260925161110 +0300" stop="20260925163336 +0300" channel="greektoons">
+<programme start="20260925154729 +0300" stop="20260925160955 +0300" channel="greektoons">
 <title lang="en">Τα Στρουμφάκια</title>
 <sub-title lang="en">Τα Στρουμφάκια S01 E17 - Romeo and Smurfette</sub-title>
 </programme>
-<programme start="20260925163336 +0300" stop="20260925164611 +0300" channel="greektoons">
+<programme start="20260925160955 +0300" stop="20260925162230 +0300" channel="greektoons">
 <title lang="en">Τα Στρουμφάκια</title>
 <sub-title lang="en">Τα Στρουμφάκια S01 E18 - The Hundredth Smurf</sub-title>
 </programme>
-<programme start="20260925164611 +0300" stop="20260925171140 +0300" channel="greektoons">
+<programme start="20260925162230 +0300" stop="20260925164759 +0300" channel="greektoons">
 <title lang="en">Οι Φλίντστοουνς</title>
 <sub-title lang="en">Οι Φλίντστοουνς S01E17</sub-title>
 </programme>
-<programme start="20260925171140 +0300" stop="20260925173709 +0300" channel="greektoons">
+<programme start="20260925164759 +0300" stop="20260925171328 +0300" channel="greektoons">
 <title lang="en">Οι Φλίντστοουνς</title>
 <sub-title lang="en">Οι Φλίντστοουνς S01E18</sub-title>
+</programme>
+<programme start="20260925171328 +0300" stop="20260925173709 +0300" channel="greektoons">
+<title lang="en">Χριστόφορος Κολόμβος</title>
+<sub-title lang="en">Χριστόφορος Κολόμβος S0 E16</sub-title>
 </programme>
 <programme start="20260925173709 +0300" stop="20260925180048 +0300" channel="greektoons">
 <title lang="en">Χριστόφορος Κολόμβος</title>
 <sub-title lang="en">Χριστόφορος Κολόμβος S0 E17</sub-title>
 </programme>
-<programme start="20260925180048 +0300" stop="20260925182431 +0300" channel="greektoons">
-<title lang="en">Χριστόφορος Κολόμβος</title>
-<sub-title lang="en">Χριστόφορος Κολόμβος S0 E18</sub-title>
-</programme>
-<programme start="20260925182431 +0300" stop="20260925184538 +0300" channel="greektoons">
+<programme start="20260925180048 +0300" stop="20260925182156 +0300" channel="greektoons">
 <title lang="en">Baby Looney Tunes</title>
 <sub-title lang="en">Baby Looney Tunes S01E21</sub-title>
 </programme>
-<programme start="20260925184538 +0300" stop="20260925190628 +0300" channel="greektoons">
+<programme start="20260925182156 +0300" stop="20260925184246 +0300" channel="greektoons">
 <title lang="en">Baby Looney Tunes</title>
 <sub-title lang="en">Baby Looney Tunes S01E22</sub-title>
 </programme>
-<programme start="20260925190628 +0300" stop="20260925192937 +0300" channel="greektoons">
+<programme start="20260925184246 +0300" stop="20260925190555 +0300" channel="greektoons">
 <title lang="en">DragonBall</title>
 <sub-title lang="en">DragonBall S01 041</sub-title>
 </programme>
-<programme start="20260925192937 +0300" stop="20260925195246 +0300" channel="greektoons">
+<programme start="20260925190555 +0300" stop="20260925192903 +0300" channel="greektoons">
 <title lang="en">DragonBall</title>
 <sub-title lang="en">DragonBall S01 042</sub-title>
 </programme>
-<programme start="20260925195246 +0300" stop="20260925201555 +0300" channel="greektoons">
+<programme start="20260925192903 +0300" stop="20260925195212 +0300" channel="greektoons">
 <title lang="en">DragonBall</title>
 <sub-title lang="en">DragonBall S01 043</sub-title>
 </programme>
-<programme start="20260925201555 +0300" stop="20260925203902 +0300" channel="greektoons">
+<programme start="20260925195212 +0300" stop="20260925201519 +0300" channel="greektoons">
 <title lang="en">DragonBall</title>
 <sub-title lang="en">DragonBall S01 044</sub-title>
 </programme>
-<programme start="20260925203902 +0300" stop="20260925211926 +0300" channel="greektoons">
+<programme start="20260925201519 +0300" stop="20260925205544 +0300" channel="greektoons">
 <title lang="en">Μικρό μου Πόνυ</title>
 <sub-title lang="en">Μικρό μου Πόνυ S02 E01 the quest of the princess ponies</sub-title>
 </programme>
-<programme start="20260925211926 +0300" stop="20260925213116 +0300" channel="greektoons">
+<programme start="20260925205544 +0300" stop="20260925210733 +0300" channel="greektoons">
 <title lang="en">Μικρό μου Πόνυ</title>
 <sub-title lang="en">Μικρό μου Πόνυ S02 E02 Spike's Search</sub-title>
 </programme>
-<programme start="20260925213116 +0300" stop="20260925215356 +0300" channel="greektoons">
+<programme start="20260925210733 +0300" stop="20260925213014 +0300" channel="greektoons">
 <title lang="en">Μπάτμαν Σειρά Κινουμένων Σχεδίων</title>
 <sub-title lang="en">Μπάτμαν Σειρά Κινουμένων Σχεδίων S01E21 Vendetta</sub-title>
 </programme>
-<programme start="20260925215356 +0300" stop="20260925221633 +0300" channel="greektoons">
+<programme start="20260925213014 +0300" stop="20260925215251 +0300" channel="greektoons">
 <title lang="en">Μπάτμαν Σειρά Κινουμένων Σχεδίων</title>
 <sub-title lang="en">Μπάτμαν Σειρά Κινουμένων Σχεδίων S01E22 Prophecy of Doom</sub-title>
 </programme>
-<programme start="20260925221633 +0300" stop="20260925223924 +0300" channel="greektoons">
+<programme start="20260925215251 +0300" stop="20260925221541 +0300" channel="greektoons">
 <title lang="en">Τσιπ και Ντέιλ - Οι υπερασπιστές</title>
 <sub-title lang="en">Τσιπ και Ντέιλ - Οι υπερασπιστές S02E08</sub-title>
 </programme>
-<programme start="20260925223924 +0300" stop="20260925230211 +0300" channel="greektoons">
+<programme start="20260925221541 +0300" stop="20260925223828 +0300" channel="greektoons">
 <title lang="en">Τσιπ και Ντέιλ - Οι υπερασπιστές</title>
 <sub-title lang="en">Τσιπ και Ντέιλ - Οι υπερασπιστές S02E09</sub-title>
 </programme>
-<programme start="20260925230211 +0300" stop="20260925232528 +0300" channel="greektoons">
+<programme start="20260925223828 +0300" stop="20260925230146 +0300" channel="greektoons">
 <title lang="en">SailorMoon</title>
 <sub-title lang="en">SailorMoon - S0 E021</sub-title>
 </programme>
-<programme start="20260925232528 +0300" stop="20260925234845 +0300" channel="greektoons">
+<programme start="20260925230146 +0300" stop="20260925232503 +0300" channel="greektoons">
 <title lang="en">SailorMoon</title>
 <sub-title lang="en">SailorMoon - S0 E022</sub-title>
 </programme>
-<programme start="20260925234845 +0300" stop="20260925235447 +0300" channel="greektoons">
+<programme start="20260925232503 +0300" stop="20260925233105 +0300" channel="greektoons">
 <title lang="en">Tom and Jerry</title>
 <sub-title lang="en">Tom and Jerry S0 E145 Jerry-Go-Round</sub-title>
 </programme>
-<programme start="20260925235447 +0300" stop="20260926000056 +0300" channel="greektoons">
+<programme start="20260925233105 +0300" stop="20260925233714 +0300" channel="greektoons">
 <title lang="en">Tom and Jerry</title>
 <sub-title lang="en">Tom and Jerry S0 E146 Love Me, Love My Mouse</sub-title>
 </programme>
-<programme start="20260926000056 +0300" stop="20260926002326 +0300" channel="greektoons">
+<programme start="20260925233714 +0300" stop="20260925235944 +0300" channel="greektoons">
 <title lang="en">Αστυνόμος Σαίνης</title>
 <sub-title lang="en">Αστυνόμος Σαίνης S01E21 - Basic Training</sub-title>
 </programme>
-<programme start="20260926002326 +0300" stop="20260926004601 +0300" channel="greektoons">
+<programme start="20260925235944 +0300" stop="20260926002219 +0300" channel="greektoons">
 <title lang="en">Αστυνόμος Σαίνης</title>
 <sub-title lang="en">Αστυνόμος Σαίνης S01E22 - Sleeping Gas</sub-title>
 </programme>
-<programme start="20260926004601 +0300" stop="20260926010759 +0300" channel="greektoons">
+<programme start="20260926002219 +0300" stop="20260926004416 +0300" channel="greektoons">
 <title lang="en">ΚΑΝΤΥ ΚΑΝΤΥ</title>
 <sub-title lang="en">ΚΑΝΤΥ ΚΑΝΤΥ S0 E021</sub-title>
 </programme>
-<programme start="20260926010759 +0300" stop="20260926013023 +0300" channel="greektoons">
+<programme start="20260926004416 +0300" stop="20260926010641 +0300" channel="greektoons">
 <title lang="en">ΚΑΝΤΥ ΚΑΝΤΥ</title>
 <sub-title lang="en">ΚΑΝΤΥ ΚΑΝΤΥ S0 E022</sub-title>
 </programme>
-<programme start="20260926013023 +0300" stop="20260926015457 +0300" channel="greektoons">
+<programme start="20260926010641 +0300" stop="20260926013114 +0300" channel="greektoons">
 <title lang="en">Λούκυ Λουκ</title>
 <sub-title lang="en">Λούκυ Λουκ S0 E21 Μαύροι Λόφοι</sub-title>
 </programme>
-<programme start="20260926015457 +0300" stop="20260926021933 +0300" channel="greektoons">
+<programme start="20260926013114 +0300" stop="20260926015551 +0300" channel="greektoons">
 <title lang="en">Λούκυ Λουκ</title>
 <sub-title lang="en">Λούκυ Λουκ S0 E22 Ντάλτον Σίτυ</sub-title>
 </programme>
-<programme start="20260926021933 +0300" stop="20260926024111 +0300" channel="greektoons">
+<programme start="20260926015551 +0300" stop="20260926021729 +0300" channel="greektoons">
 <title lang="en">ΝΤΕΝΙΣ Ο ΤΡΟΜΕΡΟΣ</title>
 <sub-title lang="en">ΝΤΕΝΙΣ Ο ΤΡΟΜΕΡΟΣ S0 E11 (480p)</sub-title>
 </programme>
-<programme start="20260926024111 +0300" stop="20260926030313 +0300" channel="greektoons">
+<programme start="20260926021729 +0300" stop="20260926023931 +0300" channel="greektoons">
 <title lang="en">ΝΤΕΝΙΣ Ο ΤΡΟΜΕΡΟΣ</title>
 <sub-title lang="en">ΝΤΕΝΙΣ Ο ΤΡΟΜΕΡΟΣ S0 E11</sub-title>
 </programme>
-<programme start="20260926030313 +0300" stop="20260926032653 +0300" channel="greektoons">
+<programme start="20260926023931 +0300" stop="20260926030311 +0300" channel="greektoons">
 <title lang="en">Ο Θρύλος του Ζορό</title>
 <sub-title lang="en">Ο Θρύλος του Ζορό S0 E21</sub-title>
 </programme>
-<programme start="20260926032653 +0300" stop="20260926035033 +0300" channel="greektoons">
+<programme start="20260926030311 +0300" stop="20260926032651 +0300" channel="greektoons">
 <title lang="en">Ο Θρύλος του Ζορό</title>
 <sub-title lang="en">Ο Θρύλος του Ζορό S0 E22</sub-title>
 </programme>
-<programme start="20260926035033 +0300" stop="20260926035641 +0300" channel="greektoons">
+<programme start="20260926032651 +0300" stop="20260926033258 +0300" channel="greektoons">
 <title lang="en">Ο Ροζ Πάνθηρας</title>
 <sub-title lang="en">Ο Ροζ Πάνθηρας S01 E20</sub-title>
 </programme>
-<programme start="20260926035641 +0300" stop="20260926040239 +0300" channel="greektoons">
+<programme start="20260926033258 +0300" stop="20260926033856 +0300" channel="greektoons">
 <title lang="en">Ο Ροζ Πάνθηρας</title>
 <sub-title lang="en">Ο Ροζ Πάνθηρας S01 E21</sub-title>
 </programme>
-<programme start="20260926040239 +0300" stop="20260926042540 +0300" channel="greektoons">
+<programme start="20260926033856 +0300" stop="20260926040157 +0300" channel="greektoons">
 <title lang="en">Παπιοπεριπέτειες</title>
 <sub-title lang="en">Παπιοπεριπέτειες S01 E21 Maid of the Myth</sub-title>
 </programme>
-<programme start="20260926042540 +0300" stop="20260926044838 +0300" channel="greektoons">
+<programme start="20260926040157 +0300" stop="20260926042456 +0300" channel="greektoons">
 <title lang="en">Παπιοπεριπέτειες</title>
 <sub-title lang="en">Παπιοπεριπέτειες S01 E22 Down and Out in Duckburg</sub-title>
 </programme>
-<programme start="20260926044838 +0300" stop="20260926045929 +0300" channel="greektoons">
+<programme start="20260926042456 +0300" stop="20260926043547 +0300" channel="greektoons">
 <title lang="en">Ποπάυ ο ναύτης</title>
 <sub-title lang="en">Ποπάυ ο ναύτης S0 E10 XAMENOS THYSAYROS</sub-title>
 </programme>
-<programme start="20260926045929 +0300" stop="20260926051026 +0300" channel="greektoons">
+<programme start="20260926043547 +0300" stop="20260926044643 +0300" channel="greektoons">
 <title lang="en">Ποπάυ ο ναύτης</title>
 <sub-title lang="en">Ποπάυ ο ναύτης S0 E11 XAROYMENH EPETEIOS</sub-title>
 </programme>
-<programme start="20260926051026 +0300" stop="20260926053337 +0300" channel="greektoons">
+<programme start="20260926044643 +0300" stop="20260926050954 +0300" channel="greektoons">
 <title lang="en">Σαμπρίνα, η Μικρή Μάγισσα</title>
 <sub-title lang="en">Σαμπρίνα, η Μικρή Μάγισσα S0 E24 - The Importance of Being Norma</sub-title>
 </programme>
-<programme start="20260926053337 +0300" stop="20260926055648 +0300" channel="greektoons">
+<programme start="20260926050954 +0300" stop="20260926053306 +0300" channel="greektoons">
 <title lang="en">Σαμπρίνα, η Μικρή Μάγισσα</title>
 <sub-title lang="en">Σαμπρίνα, η Μικρή Μάγισσα S0 E25 - Stage Fright</sub-title>
 </programme>
-<programme start="20260926055648 +0300" stop="20260926062019 +0300" channel="greektoons">
+<programme start="20260926053306 +0300" stop="20260926055637 +0300" channel="greektoons">
 <title lang="en">Σάντοκαν Η Δύναμη του Τίγρη</title>
 <sub-title lang="en">Σάντοκαν Η Δύναμη του Τίγρη S0 E20</sub-title>
 </programme>
-<programme start="20260926062019 +0300" stop="20260926064507 +0300" channel="greektoons">
+<programme start="20260926055637 +0300" stop="20260926062124 +0300" channel="greektoons">
 <title lang="en">Σάντοκαν Η Δύναμη του Τίγρη</title>
 <sub-title lang="en">Σάντοκαν Η Δύναμη του Τίγρη S0 E21</sub-title>
 </programme>
-<programme start="20260926064507 +0300" stop="20260926065541 +0300" channel="greektoons">
+<programme start="20260926062124 +0300" stop="20260926063159 +0300" channel="greektoons">
 <title lang="en">Σούπερ Μάριο</title>
 <sub-title lang="en">Σούπερ Μάριο S0 E06</sub-title>
 </programme>
-<programme start="20260926065541 +0300" stop="20260926070613 +0300" channel="greektoons">
+<programme start="20260926063159 +0300" stop="20260926064230 +0300" channel="greektoons">
 <title lang="en">Σούπερ Μάριο</title>
 <sub-title lang="en">Σούπερ Μάριο S0 E07</sub-title>
 </programme>
-<programme start="20260926070613 +0300" stop="20260926072547 +0300" channel="greektoons">
+<programme start="20260926064230 +0300" stop="20260926070204 +0300" channel="greektoons">
 <title lang="en">Σπάιντερμαν</title>
 <sub-title lang="en">Σπάιντερμαν S02E06</sub-title>
 </programme>
-<programme start="20260926072547 +0300" stop="20260926074521 +0300" channel="greektoons">
+<programme start="20260926070204 +0300" stop="20260926072139 +0300" channel="greektoons">
 <title lang="en">Σπάιντερμαν</title>
 <sub-title lang="en">Σπάιντερμαν S02E07</sub-title>
 </programme>
-<programme start="20260926074521 +0300" stop="20260926080906 +0300" channel="greektoons">
+<programme start="20260926072139 +0300" stop="20260926074523 +0300" channel="greektoons">
 <title lang="en">Το Βιβλίο της Ζούγκλας</title>
 <sub-title lang="en">Το Βιβλίο της Ζούγκλας S0 E19</sub-title>
 </programme>
-<programme start="20260926080906 +0300" stop="20260926083253 +0300" channel="greektoons">
+<programme start="20260926074523 +0300" stop="20260926080911 +0300" channel="greektoons">
 <title lang="en">Το Βιβλίο της Ζούγκλας</title>
 <sub-title lang="en">Το Βιβλίο της Ζούγκλας S0 E20</sub-title>
 </programme>
-<programme start="20260926083253 +0300" stop="20260926083926 +0300" channel="greektoons">
+<programme start="20260926080911 +0300" stop="20260926081543 +0300" channel="greektoons">
 <title lang="en">Το Μυρμήγκι και ο Μυρμηγκοφάγος</title>
 <sub-title lang="en">Το Μυρμήγκι και ο Μυρμηγκοφάγος S0 E03</sub-title>
 </programme>
-<programme start="20260926083926 +0300" stop="20260926084552 +0300" channel="greektoons">
+<programme start="20260926081543 +0300" stop="20260926082210 +0300" channel="greektoons">
 <title lang="en">Το Μυρμήγκι και ο Μυρμηγκοφάγος</title>
 <sub-title lang="en">Το Μυρμήγκι και ο Μυρμηγκοφάγος S0 E04</sub-title>
 </programme>
-<programme start="20260926084552 +0300" stop="20260926091135 +0300" channel="greektoons">
+<programme start="20260926082210 +0300" stop="20260926084752 +0300" channel="greektoons">
 <title lang="en">Φλιντ Ο Πρίγκιπας του Διαστήματος (Grendizer)</title>
 <sub-title lang="en">Φλιντ Ο Πρίγκιπας του Διαστήματος (Grendizer) S0 E27 - Onslaught! Grendizer</sub-title>
 </programme>
-<programme start="20260926091135 +0300" stop="20260926093719 +0300" channel="greektoons">
+<programme start="20260926084752 +0300" stop="20260926091336 +0300" channel="greektoons">
 <title lang="en">Φλιντ Ο Πρίγκιπας του Διαστήματος (Grendizer)</title>
 <sub-title lang="en">Φλιντ Ο Πρίγκιπας του Διαστήματος (Grendizer) S0 E68 - Maria in the Blizzard</sub-title>
 </programme>
-<programme start="20260926093719 +0300" stop="20260926095903 +0300" channel="greektoons">
+<programme start="20260926091336 +0300" stop="20260926093520 +0300" channel="greektoons">
 <title lang="en">Χάιντι</title>
 <sub-title lang="en">Χάιντι S0 E19</sub-title>
 </programme>
-<programme start="20260926095903 +0300" stop="20260926102112 +0300" channel="greektoons">
+<programme start="20260926093520 +0300" stop="20260926095729 +0300" channel="greektoons">
 <title lang="en">Χάιντι</title>
 <sub-title lang="en">Χάιντι S0 E20</sub-title>
 </programme>
-<programme start="20260926102112 +0300" stop="20260926103250 +0300" channel="greektoons">
+<programme start="20260926095729 +0300" stop="20260926100908 +0300" channel="greektoons">
 <title lang="en">Τα Στρουμφάκια</title>
 <sub-title lang="en">Τα Στρουμφάκια S01 E19 - Smurphony in 'C</sub-title>
 </programme>
-<programme start="20260926103250 +0300" stop="20260926104432 +0300" channel="greektoons">
+<programme start="20260926100908 +0300" stop="20260926102050 +0300" channel="greektoons">
 <title lang="en">Τα Στρουμφάκια</title>
 <sub-title lang="en">Τα Στρουμφάκια S01 E20 - The Magic Egg</sub-title>
 </programme>
-<programme start="20260926104432 +0300" stop="20260926111000 +0300" channel="greektoons">
+<programme start="20260926102050 +0300" stop="20260926104617 +0300" channel="greektoons">
 <title lang="en">Οι Φλίντστοουνς</title>
 <sub-title lang="en">Οι Φλίντστοουνς S01E19</sub-title>
 </programme>
-<programme start="20260926111000 +0300" stop="20260926113529 +0300" channel="greektoons">
+<programme start="20260926104617 +0300" stop="20260926111147 +0300" channel="greektoons">
 <title lang="en">Οι Φλίντστοουνς</title>
 <sub-title lang="en">Οι Φλίντστοουνς S01E20</sub-title>
+</programme>
+<programme start="20260926111147 +0300" stop="20260926113529 +0300" channel="greektoons">
+<title lang="en">Χριστόφορος Κολόμβος</title>
+<sub-title lang="en">Χριστόφορος Κολόμβος S0 E18</sub-title>
 </programme>
 <programme start="20260926113529 +0300" stop="20260926115911 +0300" channel="greektoons">
 <title lang="en">Χριστόφορος Κολόμβος</title>
 <sub-title lang="en">Χριστόφορος Κολόμβος S0 E19</sub-title>
 </programme>
-<programme start="20260926115911 +0300" stop="20260926122252 +0300" channel="greektoons">
-<title lang="en">Χριστόφορος Κολόμβος</title>
-<sub-title lang="en">Χριστόφορος Κολόμβος S0 E20</sub-title>
-</programme>
-<programme start="20260926122252 +0300" stop="20260926124355 +0300" channel="greektoons">
+<programme start="20260926115911 +0300" stop="20260926122014 +0300" channel="greektoons">
 <title lang="en">Baby Looney Tunes</title>
 <sub-title lang="en">Baby Looney Tunes S01E23</sub-title>
 </programme>
-<programme start="20260926124355 +0300" stop="20260926130450 +0300" channel="greektoons">
+<programme start="20260926122014 +0300" stop="20260926124109 +0300" channel="greektoons">
 <title lang="en">Baby Looney Tunes</title>
 <sub-title lang="en">Baby Looney Tunes S01E24</sub-title>
 </programme>
-<programme start="20260926130450 +0300" stop="20260926132748 +0300" channel="greektoons">
+<programme start="20260926124109 +0300" stop="20260926130406 +0300" channel="greektoons">
 <title lang="en">DragonBall</title>
 <sub-title lang="en">DragonBall S01 045</sub-title>
 </programme>
-<programme start="20260926132748 +0300" stop="20260926135055 +0300" channel="greektoons">
+<programme start="20260926130406 +0300" stop="20260926132713 +0300" channel="greektoons">
 <title lang="en">DragonBall</title>
 <sub-title lang="en">DragonBall S01 046</sub-title>
 </programme>
-<programme start="20260926135055 +0300" stop="20260926141311 +0300" channel="greektoons">
+<programme start="20260926132713 +0300" stop="20260926134929 +0300" channel="greektoons">
 <title lang="en">DragonBall</title>
 <sub-title lang="en">DragonBall S01 047</sub-title>
 </programme>
-<programme start="20260926141311 +0300" stop="20260926143618 +0300" channel="greektoons">
+<programme start="20260926134929 +0300" stop="20260926141236 +0300" channel="greektoons">
 <title lang="en">DragonBall</title>
 <sub-title lang="en">DragonBall S01 048</sub-title>
 </programme>
-<programme start="20260926143618 +0300" stop="20260926145725 +0300" channel="greektoons">
+<programme start="20260926141236 +0300" stop="20260926143343 +0300" channel="greektoons">
 <title lang="en">Μικρό μου Πόνυ</title>
 <sub-title lang="en">Μικρό μου Πόνυ S02 E03 the golden horseshoes</sub-title>
 </programme>
-<programme start="20260926145725 +0300" stop="20260926151554 +0300" channel="greektoons">
+<programme start="20260926143343 +0300" stop="20260926145212 +0300" channel="greektoons">
 <title lang="en">Μικρό μου Πόνυ</title>
 <sub-title lang="en">Μικρό μου Πόνυ S02 E04 flight to cloud castle</sub-title>
 </programme>
-<programme start="20260926151554 +0300" stop="20260926153831 +0300" channel="greektoons">
+<programme start="20260926145212 +0300" stop="20260926151450 +0300" channel="greektoons">
 <title lang="en">Μπάτμαν Σειρά Κινουμένων Σχεδίων</title>
 <sub-title lang="en">Μπάτμαν Σειρά Κινουμένων Σχεδίων S01E23 Forgotten</sub-title>
 </programme>
-<programme start="20260926153831 +0300" stop="20260926160106 +0300" channel="greektoons">
+<programme start="20260926151450 +0300" stop="20260926153725 +0300" channel="greektoons">
 <title lang="en">Μπάτμαν Σειρά Κινουμένων Σχεδίων</title>
 <sub-title lang="en">Μπάτμαν Σειρά Κινουμένων Σχεδίων S01E24 Mad as a Hatter</sub-title>
 </programme>
-<programme start="20260926160106 +0300" stop="20260926162357 +0300" channel="greektoons">
+<programme start="20260926153725 +0300" stop="20260926160016 +0300" channel="greektoons">
 <title lang="en">Τσιπ και Ντέιλ - Οι υπερασπιστές</title>
 <sub-title lang="en">Τσιπ και Ντέιλ - Οι υπερασπιστές S02E10</sub-title>
 </programme>
-<programme start="20260926162357 +0300" stop="20260926164650 +0300" channel="greektoons">
+<programme start="20260926160016 +0300" stop="20260926162308 +0300" channel="greektoons">
 <title lang="en">Τσιπ και Ντέιλ - Οι υπερασπιστές</title>
 <sub-title lang="en">Τσιπ και Ντέιλ - Οι υπερασπιστές S02E11</sub-title>
 </programme>
-<programme start="20260926164650 +0300" stop="20260926171006 +0300" channel="greektoons">
+<programme start="20260926162308 +0300" stop="20260926164625 +0300" channel="greektoons">
 <title lang="en">SailorMoon</title>
 <sub-title lang="en">SailorMoon - S0 E023</sub-title>
 </programme>
-<programme start="20260926171006 +0300" stop="20260926173320 +0300" channel="greektoons">
+<programme start="20260926164625 +0300" stop="20260926170938 +0300" channel="greektoons">
 <title lang="en">SailorMoon</title>
 <sub-title lang="en">SailorMoon - S0 E024</sub-title>
 </programme>
-<programme start="20260926173320 +0300" stop="20260926173938 +0300" channel="greektoons">
+<programme start="20260926170938 +0300" stop="20260926171556 +0300" channel="greektoons">
 <title lang="en">Tom and Jerry</title>
 <sub-title lang="en">Tom and Jerry S0 E147 Puss 'n' Boats</sub-title>
 </programme>
-<programme start="20260926173938 +0300" stop="20260926174650 +0300" channel="greektoons">
+<programme start="20260926171556 +0300" stop="20260926172308 +0300" channel="greektoons">
 <title lang="en">Tom and Jerry</title>
 <sub-title lang="en">Tom and Jerry S0 E15 The Bodyguard</sub-title>
 </programme>
-<programme start="20260926174650 +0300" stop="20260926180920 +0300" channel="greektoons">
+<programme start="20260926172308 +0300" stop="20260926174539 +0300" channel="greektoons">
 <title lang="en">Αστυνόμος Σαίνης</title>
 <sub-title lang="en">Αστυνόμος Σαίνης S01E23 - Gadget's Replacement</sub-title>
 </programme>
-<programme start="20260926180920 +0300" stop="20260926183149 +0300" channel="greektoons">
+<programme start="20260926174539 +0300" stop="20260926180807 +0300" channel="greektoons">
 <title lang="en">Αστυνόμος Σαίνης</title>
 <sub-title lang="en">Αστυνόμος Σαίνης S01E24 - Greenfinger</sub-title>
 </programme>
-<programme start="20260926183149 +0300" stop="20260926185433 +0300" channel="greektoons">
+<programme start="20260926180807 +0300" stop="20260926183051 +0300" channel="greektoons">
 <title lang="en">ΚΑΝΤΥ ΚΑΝΤΥ</title>
 <sub-title lang="en">ΚΑΝΤΥ ΚΑΝΤΥ S0 E023</sub-title>
 </programme>
-<programme start="20260926185433 +0300" stop="20260926191722 +0300" channel="greektoons">
+<programme start="20260926183051 +0300" stop="20260926185341 +0300" channel="greektoons">
 <title lang="en">ΚΑΝΤΥ ΚΑΝΤΥ</title>
 <sub-title lang="en">ΚΑΝΤΥ ΚΑΝΤΥ S0 E024</sub-title>
 </programme>
-<programme start="20260926191722 +0300" stop="20260926194153 +0300" channel="greektoons">
+<programme start="20260926185341 +0300" stop="20260926191812 +0300" channel="greektoons">
 <title lang="en">Λούκυ Λουκ</title>
 <sub-title lang="en">Λούκυ Λουκ S0 E23 Οι Αντίπαλοι</sub-title>
 </programme>
-<programme start="20260926194153 +0300" stop="20260926200626 +0300" channel="greektoons">
+<programme start="20260926191812 +0300" stop="20260926194245 +0300" channel="greektoons">
 <title lang="en">Λούκυ Λουκ</title>
 <sub-title lang="en">Λούκυ Λουκ S0 E24 Τζέσε Τζέιμς</sub-title>
 </programme>
-<programme start="20260926200626 +0300" stop="20260926202741 +0300" channel="greektoons">
+<programme start="20260926194245 +0300" stop="20260926200400 +0300" channel="greektoons">
 <title lang="en">ΝΤΕΝΙΣ Ο ΤΡΟΜΕΡΟΣ</title>
 <sub-title lang="en">ΝΤΕΝΙΣ Ο ΤΡΟΜΕΡΟΣ S0 E12. (480p)</sub-title>
 </programme>
-<programme start="20260926202741 +0300" stop="20260926204953 +0300" channel="greektoons">
+<programme start="20260926200400 +0300" stop="20260926202611 +0300" channel="greektoons">
 <title lang="en">ΝΤΕΝΙΣ Ο ΤΡΟΜΕΡΟΣ</title>
 <sub-title lang="en">ΝΤΕΝΙΣ Ο ΤΡΟΜΕΡΟΣ S0 E12</sub-title>
 </programme>
-<programme start="20260926204953 +0300" stop="20260926211331 +0300" channel="greektoons">
+<programme start="20260926202611 +0300" stop="20260926204949 +0300" channel="greektoons">
 <title lang="en">Ο Θρύλος του Ζορό</title>
 <sub-title lang="en">Ο Θρύλος του Ζορό S0 E23</sub-title>
 </programme>
-<programme start="20260926211331 +0300" stop="20260926213711 +0300" channel="greektoons">
+<programme start="20260926204949 +0300" stop="20260926211329 +0300" channel="greektoons">
 <title lang="en">Ο Θρύλος του Ζορό</title>
 <sub-title lang="en">Ο Θρύλος του Ζορό S0 E24</sub-title>
 </programme>
-<programme start="20260926213711 +0300" stop="20260926214318 +0300" channel="greektoons">
+<programme start="20260926211329 +0300" stop="20260926211937 +0300" channel="greektoons">
 <title lang="en">Ο Ροζ Πάνθηρας</title>
 <sub-title lang="en">Ο Ροζ Πάνθηρας S01 E22</sub-title>
 </programme>
-<programme start="20260926214318 +0300" stop="20260926214928 +0300" channel="greektoons">
+<programme start="20260926211937 +0300" stop="20260926212546 +0300" channel="greektoons">
 <title lang="en">Ο Ροζ Πάνθηρας</title>
 <sub-title lang="en">Ο Ροζ Πάνθηρας S01 E23</sub-title>
 </programme>
-<programme start="20260926214928 +0300" stop="20260926221229 +0300" channel="greektoons">
+<programme start="20260926212546 +0300" stop="20260926214847 +0300" channel="greektoons">
 <title lang="en">Παπιοπεριπέτειες</title>
 <sub-title lang="en">Παπιοπεριπέτειες S01 E23 Much Ado About Scrooge</sub-title>
 </programme>
-<programme start="20260926221229 +0300" stop="20260926223529 +0300" channel="greektoons">
+<programme start="20260926214847 +0300" stop="20260926221148 +0300" channel="greektoons">
 <title lang="en">Παπιοπεριπέτειες</title>
 <sub-title lang="en">Παπιοπεριπέτειες S01 E24 Top Duck</sub-title>
 </programme>
-<programme start="20260926223529 +0300" stop="20260926224628 +0300" channel="greektoons">
+<programme start="20260926221148 +0300" stop="20260926222246 +0300" channel="greektoons">
 <title lang="en">Ποπάυ ο ναύτης</title>
 <sub-title lang="en">Ποπάυ ο ναύτης S0 E01 ASTERAS TOY SINEMA</sub-title>
 </programme>
-<programme start="20260926224628 +0300" stop="20260926225703 +0300" channel="greektoons">
+<programme start="20260926222246 +0300" stop="20260926223321 +0300" channel="greektoons">
 <title lang="en">Ποπάυ ο ναύτης</title>
 <sub-title lang="en">Ποπάυ ο ναύτης S0 E02 BRISKW DOYLEIA</sub-title>
 </programme>
-<programme start="20260926225703 +0300" stop="20260926232009 +0300" channel="greektoons">
+<programme start="20260926223321 +0300" stop="20260926225627 +0300" channel="greektoons">
 <title lang="en">Σαμπρίνα, η Μικρή Μάγισσα</title>
 <sub-title lang="en">Σαμπρίνα, η Μικρή Μάγισσα S0 E26 - Witchitis</sub-title>
 </programme>
-<programme start="20260926232009 +0300" stop="20260926234313 +0300" channel="greektoons">
+<programme start="20260926225627 +0300" stop="20260926231931 +0300" channel="greektoons">
 <title lang="en">Σαμπρίνα, η Μικρή Μάγισσα</title>
 <sub-title lang="en">Σαμπρίνα, η Μικρή Μάγισσα S0 E28 - Absence of Malissa</sub-title>
 </programme>
-<programme start="20260926234313 +0300" stop="20260927000717 +0300" channel="greektoons">
+<programme start="20260926231931 +0300" stop="20260926234336 +0300" channel="greektoons">
 <title lang="en">Σάντοκαν Η Δύναμη του Τίγρη</title>
 <sub-title lang="en">Σάντοκαν Η Δύναμη του Τίγρη S0 E22</sub-title>
 </programme>
-<programme start="20260927000717 +0300" stop="20260927003047 +0300" channel="greektoons">
+<programme start="20260926234336 +0300" stop="20260927000706 +0300" channel="greektoons">
 <title lang="en">Σάντοκαν Η Δύναμη του Τίγρη</title>
 <sub-title lang="en">Σάντοκαν Η Δύναμη του Τίγρη S0 E23</sub-title>
 </programme>
-<programme start="20260927003047 +0300" stop="20260927004012 +0300" channel="greektoons">
+<programme start="20260927000706 +0300" stop="20260927001630 +0300" channel="greektoons">
 <title lang="en">Σούπερ Μάριο</title>
 <sub-title lang="en">Σούπερ Μάριο S0 E08</sub-title>
 </programme>
-<programme start="20260927004012 +0300" stop="20260927005025 +0300" channel="greektoons">
+<programme start="20260927001630 +0300" stop="20260927002643 +0300" channel="greektoons">
 <title lang="en">Σούπερ Μάριο</title>
 <sub-title lang="en">Σούπερ Μάριο S0 E09</sub-title>
 </programme>
-<programme start="20260927005025 +0300" stop="20260927010958 +0300" channel="greektoons">
+<programme start="20260927002643 +0300" stop="20260927004617 +0300" channel="greektoons">
 <title lang="en">Σπάιντερμαν</title>
 <sub-title lang="en">Σπάιντερμαν S02E08</sub-title>
 </programme>
-<programme start="20260927010958 +0300" stop="20260927012912 +0300" channel="greektoons">
+<programme start="20260927004617 +0300" stop="20260927010531 +0300" channel="greektoons">
 <title lang="en">Σπάιντερμαν</title>
 <sub-title lang="en">Σπάιντερμαν S02E09</sub-title>
 </programme>
-<programme start="20260927012912 +0300" stop="20260927015300 +0300" channel="greektoons">
+<programme start="20260927010531 +0300" stop="20260927012919 +0300" channel="greektoons">
 <title lang="en">Το Βιβλίο της Ζούγκλας</title>
 <sub-title lang="en">Το Βιβλίο της Ζούγκλας S0 E21</sub-title>
 </programme>
-<programme start="20260927015300 +0300" stop="20260927021648 +0300" channel="greektoons">
+<programme start="20260927012919 +0300" stop="20260927015307 +0300" channel="greektoons">
 <title lang="en">Το Βιβλίο της Ζούγκλας</title>
 <sub-title lang="en">Το Βιβλίο της Ζούγκλας S0 E22</sub-title>
 </programme>
-<programme start="20260927021648 +0300" stop="20260927022317 +0300" channel="greektoons">
+<programme start="20260927015307 +0300" stop="20260927015935 +0300" channel="greektoons">
 <title lang="en">Το Μυρμήγκι και ο Μυρμηγκοφάγος</title>
 <sub-title lang="en">Το Μυρμήγκι και ο Μυρμηγκοφάγος S0 E05</sub-title>
 </programme>
-<programme start="20260927022317 +0300" stop="20260927022942 +0300" channel="greektoons">
+<programme start="20260927015935 +0300" stop="20260927020600 +0300" channel="greektoons">
 <title lang="en">Το Μυρμήγκι και ο Μυρμηγκοφάγος</title>
 <sub-title lang="en">Το Μυρμήγκι και ο Μυρμηγκοφάγος S0 E06</sub-title>
 </programme>
-<programme start="20260927022942 +0300" stop="20260927025525 +0300" channel="greektoons">
+<programme start="20260927020600 +0300" stop="20260927023144 +0300" channel="greektoons">
 <title lang="en">Φλιντ Ο Πρίγκιπας του Διαστήματος (Grendizer)</title>
 <sub-title lang="en">Φλιντ Ο Πρίγκιπας του Διαστήματος (Grendizer) S0 E48 - The Demon In The Earth's Depths</sub-title>
 </programme>
-<programme start="20260927025525 +0300" stop="20260927032110 +0300" channel="greektoons">
+<programme start="20260927023144 +0300" stop="20260927025728 +0300" channel="greektoons">
 <title lang="en">Φλιντ Ο Πρίγκιπας του Διαστήματος (Grendizer)</title>
 <sub-title lang="en">Φλιντ Ο Πρίγκιπας του Διαστήματος (Grendizer) S0 E39 - Surprise Attack! The Assault Troops of Planet Vega</sub-title>
 </programme>
-<programme start="20260927032110 +0300" stop="20260927034407 +0300" channel="greektoons">
+<programme start="20260927025728 +0300" stop="20260927032026 +0300" channel="greektoons">
 <title lang="en">Χάιντι</title>
 <sub-title lang="en">Χάιντι S0 E21</sub-title>
 </programme>
-<programme start="20260927034407 +0300" stop="20260927040545 +0300" channel="greektoons">
+<programme start="20260927032026 +0300" stop="20260927034204 +0300" channel="greektoons">
 <title lang="en">Χάιντι</title>
 <sub-title lang="en">Χάιντι S0 E22</sub-title>
 </programme>
-<programme start="20260927040545 +0300" stop="20260927041726 +0300" channel="greektoons">
+<programme start="20260927034204 +0300" stop="20260927035344 +0300" channel="greektoons">
 <title lang="en">Τα Στρουμφάκια</title>
 <sub-title lang="en">Τα Στρουμφάκια S01 E21 - Supersmurf</sub-title>
 </programme>
-<programme start="20260927041726 +0300" stop="20260927043922 +0300" channel="greektoons">
+<programme start="20260927035344 +0300" stop="20260927041541 +0300" channel="greektoons">
 <title lang="en">Τα Στρουμφάκια</title>
 <sub-title lang="en">Τα Στρουμφάκια S01 E22 - Smurfette's Dancing Shoes</sub-title>
 </programme>
-<programme start="20260927043922 +0300" stop="20260927050449 +0300" channel="greektoons">
+<programme start="20260927041541 +0300" stop="20260927044108 +0300" channel="greektoons">
 <title lang="en">Οι Φλίντστοουνς</title>
 <sub-title lang="en">Οι Φλίντστοουνς S01E21</sub-title>
 </programme>
-<programme start="20260927050449 +0300" stop="20260927053019 +0300" channel="greektoons">
+<programme start="20260927044108 +0300" stop="20260927050637 +0300" channel="greektoons">
 <title lang="en">Οι Φλίντστοουνς</title>
 <sub-title lang="en">Οι Φλίντστοουνς S01E22</sub-title>
+</programme>
+<programme start="20260927050637 +0300" stop="20260927053019 +0300" channel="greektoons">
+<title lang="en">Χριστόφορος Κολόμβος</title>
+<sub-title lang="en">Χριστόφορος Κολόμβος S0 E20</sub-title>
 </programme>
 <programme start="20260927053019 +0300" stop="20260927055401 +0300" channel="greektoons">
 <title lang="en">Χριστόφορος Κολόμβος</title>
 <sub-title lang="en">Χριστόφορος Κολόμβος S0 E21</sub-title>
 </programme>
-<programme start="20260927055401 +0300" stop="20260927061743 +0300" channel="greektoons">
-<title lang="en">Χριστόφορος Κολόμβος</title>
-<sub-title lang="en">Χριστόφορος Κολόμβος S0 E22</sub-title>
-</programme>
-<programme start="20260927061743 +0300" stop="20260927063818 +0300" channel="greektoons">
+<programme start="20260927055401 +0300" stop="20260927061436 +0300" channel="greektoons">
 <title lang="en">Baby Looney Tunes</title>
 <sub-title lang="en">Baby Looney Tunes S01E25</sub-title>
 </programme>
-<programme start="20260927063818 +0300" stop="20260927065918 +0300" channel="greektoons">
+<programme start="20260927061436 +0300" stop="20260927063536 +0300" channel="greektoons">
 <title lang="en">Baby Looney Tunes</title>
 <sub-title lang="en">Baby Looney Tunes S01E26</sub-title>
 </programme>
-<programme start="20260927065918 +0300" stop="20260927072145 +0300" channel="greektoons">
+<programme start="20260927063536 +0300" stop="20260927065803 +0300" channel="greektoons">
 <title lang="en">DragonBall</title>
 <sub-title lang="en">DragonBall S01 049</sub-title>
 </programme>
-<programme start="20260927072145 +0300" stop="20260927074453 +0300" channel="greektoons">
+<programme start="20260927065803 +0300" stop="20260927072111 +0300" channel="greektoons">
 <title lang="en">DragonBall</title>
 <sub-title lang="en">DragonBall S01 050</sub-title>
 </programme>
-<programme start="20260927074453 +0300" stop="20260927080800 +0300" channel="greektoons">
+<programme start="20260927072111 +0300" stop="20260927074418 +0300" channel="greektoons">
 <title lang="en">DragonBall</title>
 <sub-title lang="en">DragonBall S01 051</sub-title>
 </programme>
-<programme start="20260927080800 +0300" stop="20260927083044 +0300" channel="greektoons">
+<programme start="20260927074418 +0300" stop="20260927080702 +0300" channel="greektoons">
 <title lang="en">DragonBall</title>
 <sub-title lang="en">DragonBall S01 052</sub-title>
 </programme>
-<programme start="20260927083044 +0300" stop="20260927084234 +0300" channel="greektoons">
+<programme start="20260927080702 +0300" stop="20260927081853 +0300" channel="greektoons">
 <title lang="en">Μικρό μου Πόνυ</title>
 <sub-title lang="en">Μικρό μου Πόνυ S02 E05 the ice cream wars</sub-title>
 </programme>
-<programme start="20260927084234 +0300" stop="20260927090312 +0300" channel="greektoons">
+<programme start="20260927081853 +0300" stop="20260927083930 +0300" channel="greektoons">
 <title lang="en">Μικρό μου Πόνυ</title>
 <sub-title lang="en">Μικρό μου Πόνυ S02 E06 Somnambula</sub-title>
 </programme>
-<programme start="20260927090312 +0300" stop="20260927092550 +0300" channel="greektoons">
+<programme start="20260927083930 +0300" stop="20260927090208 +0300" channel="greektoons">
 <title lang="en">Μπάτμαν Σειρά Κινουμένων Σχεδίων</title>
 <sub-title lang="en">Μπάτμαν Σειρά Κινουμένων Σχεδίων S01E25 The Cape and Cowl Conspiracy</sub-title>
 </programme>
-<programme start="20260927092550 +0300" stop="20260927094813 +0300" channel="greektoons">
+<programme start="20260927090208 +0300" stop="20260927092431 +0300" channel="greektoons">
 <title lang="en">Μπάτμαν Σειρά Κινουμένων Σχεδίων</title>
 <sub-title lang="en">Μπάτμαν Σειρά Κινουμένων Σχεδίων S01E26 Perchance to Dream</sub-title>
 </programme>
-<programme start="20260927094813 +0300" stop="20260927101104 +0300" channel="greektoons">
+<programme start="20260927092431 +0300" stop="20260927094722 +0300" channel="greektoons">
 <title lang="en">Τσιπ και Ντέιλ - Οι υπερασπιστές</title>
 <sub-title lang="en">Τσιπ και Ντέιλ - Οι υπερασπιστές S02E12</sub-title>
 </programme>
-<programme start="20260927101104 +0300" stop="20260927103400 +0300" channel="greektoons">
+<programme start="20260927094722 +0300" stop="20260927101018 +0300" channel="greektoons">
 <title lang="en">Τσιπ και Ντέιλ - Οι υπερασπιστές</title>
 <sub-title lang="en">Τσιπ και Ντέιλ - Οι υπερασπιστές S02E13</sub-title>
 </programme>
-<programme start="20260927103400 +0300" stop="20260927105657 +0300" channel="greektoons">
+<programme start="20260927101018 +0300" stop="20260927103316 +0300" channel="greektoons">
 <title lang="en">SailorMoon</title>
 <sub-title lang="en">SailorMoon - S0 E025</sub-title>
 </programme>
-<programme start="20260927105657 +0300" stop="20260927112011 +0300" channel="greektoons">
+<programme start="20260927103316 +0300" stop="20260927105629 +0300" channel="greektoons">
 <title lang="en">SailorMoon</title>
 <sub-title lang="en">SailorMoon - S0 E026</sub-title>
 </programme>
-<programme start="20260927112011 +0300" stop="20260927112630 +0300" channel="greektoons">
+<programme start="20260927105629 +0300" stop="20260927110248 +0300" channel="greektoons">
 <title lang="en">Tom and Jerry</title>
 <sub-title lang="en">Tom and Jerry S0 E150 The A-Tom-Inable Snowman</sub-title>
 </programme>
-<programme start="20260927112630 +0300" stop="20260927113305 +0300" channel="greektoons">
+<programme start="20260927110248 +0300" stop="20260927110924 +0300" channel="greektoons">
 <title lang="en">Tom and Jerry</title>
 <sub-title lang="en">Tom and Jerry S0 E153 O-Solar Meow</sub-title>
 </programme>
-<programme start="20260927113305 +0300" stop="20260927115534 +0300" channel="greektoons">
+<programme start="20260927110924 +0300" stop="20260927113152 +0300" channel="greektoons">
 <title lang="en">Αστυνόμος Σαίνης</title>
 <sub-title lang="en">Αστυνόμος Σαίνης S01E25 - Gadget Goes West</sub-title>
 </programme>
-<programme start="20260927115534 +0300" stop="20260927121806 +0300" channel="greektoons">
+<programme start="20260927113152 +0300" stop="20260927115424 +0300" channel="greektoons">
 <title lang="en">Αστυνόμος Σαίνης</title>
 <sub-title lang="en">Αστυνόμος Σαίνης S01E26 - Launch Time</sub-title>
 </programme>
-<programme start="20260927121806 +0300" stop="20260927124014 +0300" channel="greektoons">
+<programme start="20260927115424 +0300" stop="20260927121632 +0300" channel="greektoons">
 <title lang="en">ΚΑΝΤΥ ΚΑΝΤΥ</title>
 <sub-title lang="en">ΚΑΝΤΥ ΚΑΝΤΥ S0 E025</sub-title>
 </programme>
-<programme start="20260927124014 +0300" stop="20260927130242 +0300" channel="greektoons">
+<programme start="20260927121632 +0300" stop="20260927123900 +0300" channel="greektoons">
 <title lang="en">ΚΑΝΤΥ ΚΑΝΤΥ</title>
 <sub-title lang="en">ΚΑΝΤΥ ΚΑΝΤΥ S0 E026</sub-title>
 </programme>
-<programme start="20260927130242 +0300" stop="20260927132711 +0300" channel="greektoons">
+<programme start="20260927123900 +0300" stop="20260927130329 +0300" channel="greektoons">
 <title lang="en">Λούκυ Λουκ</title>
 <sub-title lang="en">Λούκυ Λουκ S0 E25 Το καραβάνι</sub-title>
 </programme>
-<programme start="20260927132711 +0300" stop="20260927135139 +0300" channel="greektoons">
+<programme start="20260927130329 +0300" stop="20260927132757 +0300" channel="greektoons">
 <title lang="en">Λούκυ Λουκ</title>
 <sub-title lang="en">Λούκυ Λουκ S0 E26 Ο δρόμος προς την Οκλαχόμα</sub-title>
 </programme>
-<programme start="20260927135139 +0300" stop="20260927141257 +0300" channel="greektoons">
+<programme start="20260927132757 +0300" stop="20260927134915 +0300" channel="greektoons">
 <title lang="en">ΝΤΕΝΙΣ Ο ΤΡΟΜΕΡΟΣ</title>
 <sub-title lang="en">ΝΤΕΝΙΣ Ο ΤΡΟΜΕΡΟΣ S0 E13. (480p)</sub-title>
 </programme>
-<programme start="20260927141257 +0300" stop="20260927143508 +0300" channel="greektoons">
+<programme start="20260927134915 +0300" stop="20260927141126 +0300" channel="greektoons">
 <title lang="en">ΝΤΕΝΙΣ Ο ΤΡΟΜΕΡΟΣ</title>
 <sub-title lang="en">ΝΤΕΝΙΣ Ο ΤΡΟΜΕΡΟΣ S0 E13</sub-title>
 </programme>
-<programme start="20260927143508 +0300" stop="20260927145847 +0300" channel="greektoons">
+<programme start="20260927141126 +0300" stop="20260927143505 +0300" channel="greektoons">
 <title lang="en">Ο Θρύλος του Ζορό</title>
 <sub-title lang="en">Ο Θρύλος του Ζορό S0 E25</sub-title>
 </programme>
-<programme start="20260927145847 +0300" stop="20260927152225 +0300" channel="greektoons">
+<programme start="20260927143505 +0300" stop="20260927145843 +0300" channel="greektoons">
 <title lang="en">Ο Θρύλος του Ζορό</title>
 <sub-title lang="en">Ο Θρύλος του Ζορό S0 E26</sub-title>
 </programme>
-<programme start="20260927152225 +0300" stop="20260927152826 +0300" channel="greektoons">
+<programme start="20260927145843 +0300" stop="20260927150445 +0300" channel="greektoons">
 <title lang="en">Ο Ροζ Πάνθηρας</title>
 <sub-title lang="en">Ο Ροζ Πάνθηρας S01 E24</sub-title>
 </programme>
-<programme start="20260927152826 +0300" stop="20260927153438 +0300" channel="greektoons">
+<programme start="20260927150445 +0300" stop="20260927151057 +0300" channel="greektoons">
 <title lang="en">Ο Ροζ Πάνθηρας</title>
 <sub-title lang="en">Ο Ροζ Πάνθηρας S01 E25</sub-title>
 </programme>
-<programme start="20260927153438 +0300" stop="20260927155738 +0300" channel="greektoons">
+<programme start="20260927151057 +0300" stop="20260927153356 +0300" channel="greektoons">
 <title lang="en">Παπιοπεριπέτειες</title>
 <sub-title lang="en">Παπιοπεριπέτειες S01 E25 Pearl of Wisdom</sub-title>
 </programme>
-<programme start="20260927155738 +0300" stop="20260927162039 +0300" channel="greektoons">
+<programme start="20260927153356 +0300" stop="20260927155657 +0300" channel="greektoons">
 <title lang="en">Παπιοπεριπέτειες</title>
 <sub-title lang="en">Παπιοπεριπέτειες S01 E26 The Curse of Castle McDuck</sub-title>
 </programme>
-<programme start="20260927162039 +0300" stop="20260927163114 +0300" channel="greektoons">
+<programme start="20260927155657 +0300" stop="20260927160732 +0300" channel="greektoons">
 <title lang="en">Ποπάυ ο ναύτης</title>
 <sub-title lang="en">Ποπάυ ο ναύτης S0 E03 H EPITHESH</sub-title>
 </programme>
-<programme start="20260927163114 +0300" stop="20260927164212 +0300" channel="greektoons">
+<programme start="20260927160732 +0300" stop="20260927161830 +0300" channel="greektoons">
 <title lang="en">Ποπάυ ο ναύτης</title>
 <sub-title lang="en">Ποπάυ ο ναύτης S0 E04 OIKOGENEIAKO DENTRO</sub-title>
 </programme>
-<programme start="20260927164212 +0300" stop="20260927170517 +0300" channel="greektoons">
+<programme start="20260927161830 +0300" stop="20260927164135 +0300" channel="greektoons">
 <title lang="en">Σαμπρίνα, η Μικρή Μάγισσα</title>
 <sub-title lang="en">Σαμπρίνα, η Μικρή Μάγισσα S0 E29 - This Is Your Nine Lives</sub-title>
 </programme>
-<programme start="20260927170517 +0300" stop="20260927172822 +0300" channel="greektoons">
+<programme start="20260927164135 +0300" stop="20260927170440 +0300" channel="greektoons">
 <title lang="en">Σαμπρίνα, η Μικρή Μάγισσα</title>
 <sub-title lang="en">Σαμπρίνα, η Μικρή Μάγισσα S0 E30 - Planet of the Dogs</sub-title>
 </programme>
-<programme start="20260927172822 +0300" stop="20260927175200 +0300" channel="greektoons">
+<programme start="20260927170440 +0300" stop="20260927172818 +0300" channel="greektoons">
 <title lang="en">Σάντοκαν Η Δύναμη του Τίγρη</title>
 <sub-title lang="en">Σάντοκαν Η Δύναμη του Τίγρη S0 E24</sub-title>
 </programme>
-<programme start="20260927175200 +0300" stop="20260927181614 +0300" channel="greektoons">
+<programme start="20260927172818 +0300" stop="20260927175232 +0300" channel="greektoons">
 <title lang="en">Σάντοκαν Η Δύναμη του Τίγρη</title>
 <sub-title lang="en">Σάντοκαν Η Δύναμη του Τίγρη S0 E25</sub-title>
 </programme>
-<programme start="20260927181614 +0300" stop="20260927182614 +0300" channel="greektoons">
+<programme start="20260927175232 +0300" stop="20260927180232 +0300" channel="greektoons">
 <title lang="en">Σούπερ Μάριο</title>
 <sub-title lang="en">Σούπερ Μάριο S0 E10</sub-title>
 </programme>
-<programme start="20260927182614 +0300" stop="20260927183440 +0300" channel="greektoons">
+<programme start="20260927180232 +0300" stop="20260927181058 +0300" channel="greektoons">
 <title lang="en">Σούπερ Μάριο</title>
 <sub-title lang="en">Σούπερ Μάριο S0 E11</sub-title>
 </programme>
-<programme start="20260927183440 +0300" stop="20260927185414 +0300" channel="greektoons">
+<programme start="20260927181058 +0300" stop="20260927183032 +0300" channel="greektoons">
 <title lang="en">Σπάιντερμαν</title>
 <sub-title lang="en">Σπάιντερμαν S02E10</sub-title>
 </programme>
-<programme start="20260927185414 +0300" stop="20260927191447 +0300" channel="greektoons">
+<programme start="20260927183032 +0300" stop="20260927185105 +0300" channel="greektoons">
 <title lang="en">Σπάιντερμαν</title>
 <sub-title lang="en">Σπάιντερμαν S02E11</sub-title>
 </programme>
-<programme start="20260927191447 +0300" stop="20260927193835 +0300" channel="greektoons">
+<programme start="20260927185105 +0300" stop="20260927191454 +0300" channel="greektoons">
 <title lang="en">Το Βιβλίο της Ζούγκλας</title>
 <sub-title lang="en">Το Βιβλίο της Ζούγκλας S0 E23</sub-title>
 </programme>
-<programme start="20260927193835 +0300" stop="20260927200221 +0300" channel="greektoons">
+<programme start="20260927191454 +0300" stop="20260927193839 +0300" channel="greektoons">
 <title lang="en">Το Βιβλίο της Ζούγκλας</title>
 <sub-title lang="en">Το Βιβλίο της Ζούγκλας S0 E24</sub-title>
 </programme>
-<programme start="20260927200221 +0300" stop="20260927200854 +0300" channel="greektoons">
+<programme start="20260927193839 +0300" stop="20260927194512 +0300" channel="greektoons">
 <title lang="en">Το Μυρμήγκι και ο Μυρμηγκοφάγος</title>
 <sub-title lang="en">Το Μυρμήγκι και ο Μυρμηγκοφάγος S0 E07</sub-title>
 </programme>
-<programme start="20260927200854 +0300" stop="20260927201523 +0300" channel="greektoons">
+<programme start="20260927194512 +0300" stop="20260927195141 +0300" channel="greektoons">
 <title lang="en">Το Μυρμήγκι και ο Μυρμηγκοφάγος</title>
 <sub-title lang="en">Το Μυρμήγκι και ο Μυρμηγκοφάγος S0 E08</sub-title>
 </programme>
-<programme start="20260927201523 +0300" stop="20260927204107 +0300" channel="greektoons">
+<programme start="20260927195141 +0300" stop="20260927201725 +0300" channel="greektoons">
 <title lang="en">Φλιντ Ο Πρίγκιπας του Διαστήματος (Grendizer)</title>
 <sub-title lang="en">Φλιντ Ο Πρίγκιπας του Διαστήματος (Grendizer) S0 E56 - The Warning of the Fake Scientist</sub-title>
 </programme>
-<programme start="20260927204107 +0300" stop="20260927210652 +0300" channel="greektoons">
+<programme start="20260927201725 +0300" stop="20260927204310 +0300" channel="greektoons">
 <title lang="en">Φλιντ Ο Πρίγκιπας του Διαστήματος (Grendizer)</title>
 <sub-title lang="en">Φλιντ Ο Πρίγκιπας του Διαστήματος (Grendizer) S0 E46 - The Sharks Falling From The Sky!!</sub-title>
 </programme>
-<programme start="20260927210652 +0300" stop="20260927212833 +0300" channel="greektoons">
+<programme start="20260927204310 +0300" stop="20260927210451 +0300" channel="greektoons">
 <title lang="en">Χάιντι</title>
 <sub-title lang="en">Χάιντι S0 E23</sub-title>
 </programme>
-<programme start="20260927212833 +0300" stop="20260927215050 +0300" channel="greektoons">
+<programme start="20260927210451 +0300" stop="20260927212708 +0300" channel="greektoons">
 <title lang="en">Χάιντι</title>
 <sub-title lang="en">Χάιντι S0 E24</sub-title>
 </programme>
-<programme start="20260927215050 +0300" stop="20260927220325 +0300" channel="greektoons">
+<programme start="20260927212708 +0300" stop="20260927213943 +0300" channel="greektoons">
 <title lang="en">Τα Στρουμφάκια</title>
 <sub-title lang="en">Τα Στρουμφάκια S01 E23 - The Fake Smurf</sub-title>
 </programme>
-<programme start="20260927220325 +0300" stop="20260927221505 +0300" channel="greektoons">
+<programme start="20260927213943 +0300" stop="20260927215124 +0300" channel="greektoons">
 <title lang="en">Τα Στρουμφάκια</title>
 <sub-title lang="en">Τα Στρουμφάκια S01 E24 - The Baby Smurf</sub-title>
 </programme>
-<programme start="20260927221505 +0300" stop="20260927224034 +0300" channel="greektoons">
+<programme start="20260927215124 +0300" stop="20260927221652 +0300" channel="greektoons">
 <title lang="en">Οι Φλίντστοουνς</title>
 <sub-title lang="en">Οι Φλίντστοουνς S01E23</sub-title>
 </programme>
-<programme start="20260927224034 +0300" stop="20260927230605 +0300" channel="greektoons">
+<programme start="20260927221652 +0300" stop="20260927224223 +0300" channel="greektoons">
 <title lang="en">Οι Φλίντστοουνς</title>
 <sub-title lang="en">Οι Φλίντστοουνς S01E24</sub-title>
+</programme>
+<programme start="20260927224223 +0300" stop="20260927230605 +0300" channel="greektoons">
+<title lang="en">Χριστόφορος Κολόμβος</title>
+<sub-title lang="en">Χριστόφορος Κολόμβος S0 E22</sub-title>
 </programme>
 <programme start="20260927230605 +0300" stop="20260927232944 +0300" channel="greektoons">
 <title lang="en">Χριστόφορος Κολόμβος</title>
 <sub-title lang="en">Χριστόφορος Κολόμβος S0 E23</sub-title>
 </programme>
-<programme start="20260927232944 +0300" stop="20260927235322 +0300" channel="greektoons">
-<title lang="en">Χριστόφορος Κολόμβος</title>
-<sub-title lang="en">Χριστόφορος Κολόμβος S0 E24</sub-title>
-</programme>
-<programme start="20260927235322 +0300" stop="20260928001428 +0300" channel="greektoons">
+<programme start="20260927232944 +0300" stop="20260927235049 +0300" channel="greektoons">
 <title lang="en">Baby Looney Tunes</title>
 <sub-title lang="en">Baby Looney Tunes S01E27</sub-title>
 </programme>
-<programme start="20260928001428 +0300" stop="20260928003532 +0300" channel="greektoons">
+<programme start="20260927235049 +0300" stop="20260928001154 +0300" channel="greektoons">
 <title lang="en">Baby Looney Tunes</title>
 <sub-title lang="en">Baby Looney Tunes S01E28</sub-title>
 </programme>
-<programme start="20260928003532 +0300" stop="20260928005838 +0300" channel="greektoons">
+<programme start="20260928001154 +0300" stop="20260928003500 +0300" channel="greektoons">
 <title lang="en">DragonBall</title>
 <sub-title lang="en">DragonBall S01 053</sub-title>
 </programme>
-<programme start="20260928005838 +0300" stop="20260928012120 +0300" channel="greektoons">
+<programme start="20260928003500 +0300" stop="20260928005742 +0300" channel="greektoons">
 <title lang="en">DragonBall</title>
 <sub-title lang="en">DragonBall S01 054</sub-title>
 </programme>
-<programme start="20260928012120 +0300" stop="20260928014426 +0300" channel="greektoons">
+<programme start="20260928005742 +0300" stop="20260928012048 +0300" channel="greektoons">
 <title lang="en">DragonBall</title>
 <sub-title lang="en">DragonBall S01 055</sub-title>
 </programme>
-<programme start="20260928014426 +0300" stop="20260928020717 +0300" channel="greektoons">
+<programme start="20260928012048 +0300" stop="20260928014338 +0300" channel="greektoons">
 <title lang="en">DragonBall</title>
 <sub-title lang="en">DragonBall S01 056</sub-title>
 </programme>
-<programme start="20260928020717 +0300" stop="20260928021907 +0300" channel="greektoons">
+<programme start="20260928014338 +0300" stop="20260928015529 +0300" channel="greektoons">
 <title lang="en">Μικρό μου Πόνυ</title>
 <sub-title lang="en">Μικρό μου Πόνυ S02 E07 the prince and the ponies</sub-title>
 </programme>
-<programme start="20260928021907 +0300" stop="20260928023939 +0300" channel="greektoons">
+<programme start="20260928015529 +0300" stop="20260928021601 +0300" channel="greektoons">
 <title lang="en">Μικρό μου Πόνυ</title>
 <sub-title lang="en">Μικρό μου Πόνυ S01 E01 rescue at midnight castle</sub-title>
 </programme>
-<programme start="20260928023939 +0300" stop="20260928030217 +0300" channel="greektoons">
+<programme start="20260928021601 +0300" stop="20260928023838 +0300" channel="greektoons">
 <title lang="en">Μπάτμαν Σειρά Κινουμένων Σχεδίων</title>
 <sub-title lang="en">Μπάτμαν Σειρά Κινουμένων Σχεδίων S01E27 The Underdwellers</sub-title>
 </programme>
-<programme start="20260928030217 +0300" stop="20260928032452 +0300" channel="greektoons">
+<programme start="20260928023838 +0300" stop="20260928030113 +0300" channel="greektoons">
 <title lang="en">Μπάτμαν Σειρά Κινουμένων Σχεδίων</title>
 <sub-title lang="en">Μπάτμαν Σειρά Κινουμένων Σχεδίων S01E28 Night of the Ninja</sub-title>
 </programme>
-<programme start="20260928032452 +0300" stop="20260928034749 +0300" channel="greektoons">
+<programme start="20260928030113 +0300" stop="20260928032411 +0300" channel="greektoons">
 <title lang="en">Τσιπ και Ντέιλ - Οι υπερασπιστές</title>
 <sub-title lang="en">Τσιπ και Ντέιλ - Οι υπερασπιστές S02E14</sub-title>
 </programme>
-<programme start="20260928034749 +0300" stop="20260928041045 +0300" channel="greektoons">
+<programme start="20260928032411 +0300" stop="20260928034706 +0300" channel="greektoons">
 <title lang="en">Τσιπ και Ντέιλ - Οι υπερασπιστές</title>
 <sub-title lang="en">Τσιπ και Ντέιλ - Οι υπερασπιστές S02E15</sub-title>
 </programme>
-<programme start="20260928041045 +0300" stop="20260928043400 +0300" channel="greektoons">
+<programme start="20260928034706 +0300" stop="20260928041021 +0300" channel="greektoons">
 <title lang="en">SailorMoon</title>
 <sub-title lang="en">SailorMoon - S0 E027</sub-title>
 </programme>
-<programme start="20260928043400 +0300" stop="20260928045710 +0300" channel="greektoons">
+<programme start="20260928041021 +0300" stop="20260928043331 +0300" channel="greektoons">
 <title lang="en">SailorMoon</title>
 <sub-title lang="en">SailorMoon - S0 E028</sub-title>
 </programme>
-<programme start="20260928045710 +0300" stop="20260928050342 +0300" channel="greektoons">
+<programme start="20260928043331 +0300" stop="20260928044004 +0300" channel="greektoons">
 <title lang="en">Tom and Jerry</title>
 <sub-title lang="en">Tom and Jerry S0 E154 Guided Mouse-ille</sub-title>
 </programme>
-<programme start="20260928050342 +0300" stop="20260928051008 +0300" channel="greektoons">
+<programme start="20260928044004 +0300" stop="20260928044630 +0300" channel="greektoons">
 <title lang="en">Tom and Jerry</title>
 <sub-title lang="en">Tom and Jerry S0 E155 Rock 'n' Rodent</sub-title>
 </programme>
-<programme start="20260928051008 +0300" stop="20260928053241 +0300" channel="greektoons">
+<programme start="20260928044630 +0300" stop="20260928050902 +0300" channel="greektoons">
 <title lang="en">Αστυνόμος Σαίνης</title>
 <sub-title lang="en">Αστυνόμος Σαίνης S01E27 - Photo Safari</sub-title>
 </programme>
-<programme start="20260928053241 +0300" stop="20260928055515 +0300" channel="greektoons">
+<programme start="20260928050902 +0300" stop="20260928053137 +0300" channel="greektoons">
 <title lang="en">Αστυνόμος Σαίνης</title>
 <sub-title lang="en">Αστυνόμος Σαίνης S01E28 - Coo-Coo Clock Caper</sub-title>
 </programme>
-<programme start="20260928055515 +0300" stop="20260928061747 +0300" channel="greektoons">
+<programme start="20260928053137 +0300" stop="20260928055408 +0300" channel="greektoons">
 <title lang="en">ΚΑΝΤΥ ΚΑΝΤΥ</title>
 <sub-title lang="en">ΚΑΝΤΥ ΚΑΝΤΥ S0 E027</sub-title>
 </programme>
-<programme start="20260928061747 +0300" stop="20260928063936 +0300" channel="greektoons">
+<programme start="20260928055408 +0300" stop="20260928061558 +0300" channel="greektoons">
 <title lang="en">ΚΑΝΤΥ ΚΑΝΤΥ</title>
 <sub-title lang="en">ΚΑΝΤΥ ΚΑΝΤΥ S0 E028</sub-title>
 </programme>
-<programme start="20260928063936 +0300" stop="20260928070407 +0300" channel="greektoons">
+<programme start="20260928061558 +0300" stop="20260928064028 +0300" channel="greektoons">
 <title lang="en">Λούκυ Λουκ</title>
 <sub-title lang="en">Λούκυ Λουκ S0 E27 Η πόλη φάντασμα</sub-title>
 </programme>
-<programme start="20260928070407 +0300" stop="20260928073101 +0300" channel="greektoons">
+<programme start="20260928064028 +0300" stop="20260928070722 +0300" channel="greektoons">
 <title lang="en">Λούκυ Λουκ</title>
 <sub-title lang="en">Λούκυ Λουκ S0 E28 Ο δικαστής</sub-title>
 </programme>
-<programme start="20260928073101 +0300" stop="20260928075315 +0300" channel="greektoons">
+<programme start="20260928070722 +0300" stop="20260928072937 +0300" channel="greektoons">
 <title lang="en">ΝΤΕΝΙΣ Ο ΤΡΟΜΕΡΟΣ</title>
 <sub-title lang="en">ΝΤΕΝΙΣ Ο ΤΡΟΜΕΡΟΣ S0 E14. (480p)</sub-title>
 </programme>
-<programme start="20260928075315 +0300" stop="20260928081526 +0300" channel="greektoons">
+<programme start="20260928072937 +0300" stop="20260928075147 +0300" channel="greektoons">
 <title lang="en">ΝΤΕΝΙΣ Ο ΤΡΟΜΕΡΟΣ</title>
 <sub-title lang="en">ΝΤΕΝΙΣ Ο ΤΡΟΜΕΡΟΣ S0 E14</sub-title>
 </programme>
-<programme start="20260928081526 +0300" stop="20260928083933 +0300" channel="greektoons">
+<programme start="20260928075147 +0300" stop="20260928081555 +0300" channel="greektoons">
 <title lang="en">Ο Θρύλος του Ζορό</title>
 <sub-title lang="en">Ο Θρύλος του Ζορό S0 E27</sub-title>
 </programme>
-<programme start="20260928083933 +0300" stop="20260928090341 +0300" channel="greektoons">
+<programme start="20260928081555 +0300" stop="20260928084003 +0300" channel="greektoons">
 <title lang="en">Ο Θρύλος του Ζορό</title>
 <sub-title lang="en">Ο Θρύλος του Ζορό S0 E28</sub-title>
 </programme>
-<programme start="20260928090341 +0300" stop="20260928090944 +0300" channel="greektoons">
+<programme start="20260928084003 +0300" stop="20260928084605 +0300" channel="greektoons">
 <title lang="en">Ο Ροζ Πάνθηρας</title>
 <sub-title lang="en">Ο Ροζ Πάνθηρας S01 E26</sub-title>
 </programme>
-<programme start="20260928090944 +0300" stop="20260928091557 +0300" channel="greektoons">
+<programme start="20260928084605 +0300" stop="20260928085219 +0300" channel="greektoons">
 <title lang="en">Ο Ροζ Πάνθηρας</title>
 <sub-title lang="en">Ο Ροζ Πάνθηρας S01 E27</sub-title>
 </programme>
-<programme start="20260928091557 +0300" stop="20260928093859 +0300" channel="greektoons">
+<programme start="20260928085219 +0300" stop="20260928091520 +0300" channel="greektoons">
 <title lang="en">Παπιοπεριπέτειες</title>
 <sub-title lang="en">Παπιοπεριπέτειες S01 E27 Launchpad's Civil War</sub-title>
 </programme>
-<programme start="20260928093859 +0300" stop="20260928100200 +0300" channel="greektoons">
+<programme start="20260928091520 +0300" stop="20260928093821 +0300" channel="greektoons">
 <title lang="en">Παπιοπεριπέτειες</title>
 <sub-title lang="en">Παπιοπεριπέτειες S01 E28 Sweet Duck of Youth</sub-title>
 </programme>
-<programme start="20260928100200 +0300" stop="20260928101258 +0300" channel="greektoons">
+<programme start="20260928093821 +0300" stop="20260928094919 +0300" channel="greektoons">
 <title lang="en">Ποπάυ ο ναύτης</title>
 <sub-title lang="en">Ποπάυ ο ναύτης S0 E05 OLIV KAI MPEIZBALL</sub-title>
 </programme>
-<programme start="20260928101258 +0300" stop="20260928102332 +0300" channel="greektoons">
+<programme start="20260928094919 +0300" stop="20260928095954 +0300" channel="greektoons">
 <title lang="en">Ποπάυ ο ναύτης</title>
 <sub-title lang="en">Ποπάυ ο ναύτης S0 E06 PIKNIK</sub-title>
 </programme>
-<programme start="20260928102332 +0300" stop="20260928104637 +0300" channel="greektoons">
+<programme start="20260928095954 +0300" stop="20260928102259 +0300" channel="greektoons">
 <title lang="en">Σαμπρίνα, η Μικρή Μάγισσα</title>
 <sub-title lang="en">Σαμπρίνα, η Μικρή Μάγισσα S0 E31 - Hex Change Students</sub-title>
 </programme>
-<programme start="20260928104637 +0300" stop="20260928110944 +0300" channel="greektoons">
+<programme start="20260928102259 +0300" stop="20260928104606 +0300" channel="greektoons">
 <title lang="en">Σαμπρίνα, η Μικρή Μάγισσα</title>
 <sub-title lang="en">Σαμπρίνα, η Μικρή Μάγισσα S0 E32 - Saturday Night Furor</sub-title>
 </programme>
-<programme start="20260928110944 +0300" stop="20260928113428 +0300" channel="greektoons">
+<programme start="20260928104606 +0300" stop="20260928111049 +0300" channel="greektoons">
 <title lang="en">Σάντοκαν Η Δύναμη του Τίγρη</title>
 <sub-title lang="en">Σάντοκαν Η Δύναμη του Τίγρη S0 E26</sub-title>
 </programme>
-<programme start="20260928113428 +0300" stop="20260928115945 +0300" channel="greektoons">
+<programme start="20260928111049 +0300" stop="20260928113606 +0300" channel="greektoons">
 <title lang="en">Σάντοκαν Η Δύναμη του Τίγρη</title>
 <sub-title lang="en">Σάντοκαν Η Δύναμη του Τίγρη S0 E01</sub-title>
 </programme>
-<programme start="20260928115945 +0300" stop="20260928121001 +0300" channel="greektoons">
+<programme start="20260928113606 +0300" stop="20260928114622 +0300" channel="greektoons">
 <title lang="en">Σούπερ Μάριο</title>
 <sub-title lang="en">Σούπερ Μάριο S0 E12</sub-title>
 </programme>
-<programme start="20260928121001 +0300" stop="20260928122036 +0300" channel="greektoons">
+<programme start="20260928114622 +0300" stop="20260928115658 +0300" channel="greektoons">
 <title lang="en">Σούπερ Μάριο</title>
 <sub-title lang="en">Σούπερ Μάριο S0 E13</sub-title>
 </programme>
-<programme start="20260928122036 +0300" stop="20260928124023 +0300" channel="greektoons">
+<programme start="20260928115658 +0300" stop="20260928121645 +0300" channel="greektoons">
 <title lang="en">Σπάιντερμαν</title>
 <sub-title lang="en">Σπάιντερμαν S02E12</sub-title>
 </programme>
-<programme start="20260928124023 +0300" stop="20260928130055 +0300" channel="greektoons">
+<programme start="20260928121645 +0300" stop="20260928123717 +0300" channel="greektoons">
 <title lang="en">Σπάιντερμαν</title>
 <sub-title lang="en">Σπάιντερμαν S02E13</sub-title>
 </programme>
-<programme start="20260928130055 +0300" stop="20260928132444 +0300" channel="greektoons">
+<programme start="20260928123717 +0300" stop="20260928130106 +0300" channel="greektoons">
 <title lang="en">Το Βιβλίο της Ζούγκλας</title>
 <sub-title lang="en">Το Βιβλίο της Ζούγκλας S0 E25</sub-title>
 </programme>
-<programme start="20260928132444 +0300" stop="20260928134833 +0300" channel="greektoons">
+<programme start="20260928130106 +0300" stop="20260928132454 +0300" channel="greektoons">
 <title lang="en">Το Βιβλίο της Ζούγκλας</title>
 <sub-title lang="en">Το Βιβλίο της Ζούγκλας S0 E26</sub-title>
 </programme>
-<programme start="20260928134833 +0300" stop="20260928135506 +0300" channel="greektoons">
+<programme start="20260928132454 +0300" stop="20260928133127 +0300" channel="greektoons">
 <title lang="en">Το Μυρμήγκι και ο Μυρμηγκοφάγος</title>
 <sub-title lang="en">Το Μυρμήγκι και ο Μυρμηγκοφάγος S0 E09</sub-title>
 </programme>
-<programme start="20260928135506 +0300" stop="20260928140128 +0300" channel="greektoons">
+<programme start="20260928133127 +0300" stop="20260928133750 +0300" channel="greektoons">
 <title lang="en">Το Μυρμήγκι και ο Μυρμηγκοφάγος</title>
 <sub-title lang="en">Το Μυρμήγκι και ο Μυρμηγκοφάγος S0 E10</sub-title>
 </programme>
-<programme start="20260928140128 +0300" stop="20260928142712 +0300" channel="greektoons">
+<programme start="20260928133750 +0300" stop="20260928140333 +0300" channel="greektoons">
 <title lang="en">Φλιντ Ο Πρίγκιπας του Διαστήματος (Grendizer)</title>
 <sub-title lang="en">Φλιντ Ο Πρίγκιπας του Διαστήματος (Grendizer) S0 E70 - Tears from the deep of the heart</sub-title>
 </programme>
-<programme start="20260928142712 +0300" stop="20260928145256 +0300" channel="greektoons">
+<programme start="20260928140333 +0300" stop="20260928142917 +0300" channel="greektoons">
 <title lang="en">Φλιντ Ο Πρίγκιπας του Διαστήματος (Grendizer)</title>
 <sub-title lang="en">Φλιντ Ο Πρίγκιπας του Διαστήματος (Grendizer) S0 E63 - Kirika, the young girl that disappeared in the snow</sub-title>
 </programme>
-<programme start="20260928145256 +0300" stop="20260928151554 +0300" channel="greektoons">
+<programme start="20260928142917 +0300" stop="20260928145215 +0300" channel="greektoons">
 <title lang="en">Χάιντι</title>
 <sub-title lang="en">Χάιντι S0 E25</sub-title>
 </programme>
-<programme start="20260928151554 +0300" stop="20260928153734 +0300" channel="greektoons">
+<programme start="20260928145215 +0300" stop="20260928151356 +0300" channel="greektoons">
 <title lang="en">Χάιντι</title>
 <sub-title lang="en">Χάιντι S0 E26</sub-title>
 </programme>
-<programme start="20260928153734 +0300" stop="20260928155900 +0300" channel="greektoons">
+<programme start="20260928151356 +0300" stop="20260928153522 +0300" channel="greektoons">
 <title lang="en">Τα Στρουμφάκια</title>
 <sub-title lang="en">Τα Στρουμφάκια S01 E25 - Sir Hefty</sub-title>
 </programme>
-<programme start="20260928155900 +0300" stop="20260928161041 +0300" channel="greektoons">
+<programme start="20260928153522 +0300" stop="20260928154702 +0300" channel="greektoons">
 <title lang="en">Τα Στρουμφάκια</title>
 <sub-title lang="en">Τα Στρουμφάκια S01 E26 - Haunted Smurf</sub-title>
 </programme>
-<programme start="20260928161041 +0300" stop="20260928163610 +0300" channel="greektoons">
+<programme start="20260928154702 +0300" stop="20260928161231 +0300" channel="greektoons">
 <title lang="en">Οι Φλίντστοουνς</title>
 <sub-title lang="en">Οι Φλίντστοουνς S01E25</sub-title>
 </programme>
-<programme start="20260928163610 +0300" stop="20260928170142 +0300" channel="greektoons">
+<programme start="20260928161231 +0300" stop="20260928163803 +0300" channel="greektoons">
 <title lang="en">Οι Φλίντστοουνς</title>
 <sub-title lang="en">Οι Φλίντστοουνς S01E26</sub-title>
+</programme>
+<programme start="20260928163803 +0300" stop="20260928170142 +0300" channel="greektoons">
+<title lang="en">Χριστόφορος Κολόμβος</title>
+<sub-title lang="en">Χριστόφορος Κολόμβος S0 E24</sub-title>
 </programme>
 <programme start="20260928170142 +0300" stop="20260928172522 +0300" channel="greektoons">
 <title lang="en">Χριστόφορος Κολόμβος</title>
 <sub-title lang="en">Χριστόφορος Κολόμβος S0 E25</sub-title>
 </programme>
-<programme start="20260928172522 +0300" stop="20260928174902 +0300" channel="greektoons">
-<title lang="en">Χριστόφορος Κολόμβος</title>
-<sub-title lang="en">Χριστόφορος Κολόμβος S0 E26</sub-title>
-</programme>
-<programme start="20260928174902 +0300" stop="20260928181016 +0300" channel="greektoons">
+<programme start="20260928172522 +0300" stop="20260928174637 +0300" channel="greektoons">
 <title lang="en">Baby Looney Tunes</title>
 <sub-title lang="en">Baby Looney Tunes S01E29</sub-title>
 </programme>
-<programme start="20260928181016 +0300" stop="20260928183105 +0300" channel="greektoons">
+<programme start="20260928174637 +0300" stop="20260928180726 +0300" channel="greektoons">
 <title lang="en">Baby Looney Tunes</title>
 <sub-title lang="en">Baby Looney Tunes S01E30</sub-title>
 </programme>
-<programme start="20260928183105 +0300" stop="20260928185412 +0300" channel="greektoons">
+<programme start="20260928180726 +0300" stop="20260928183032 +0300" channel="greektoons">
 <title lang="en">DragonBall</title>
 <sub-title lang="en">DragonBall S01 057</sub-title>
 </programme>
-<programme start="20260928185412 +0300" stop="20260928191719 +0300" channel="greektoons">
+<programme start="20260928183032 +0300" stop="20260928185339 +0300" channel="greektoons">
 <title lang="en">DragonBall</title>
 <sub-title lang="en">DragonBall S01 058</sub-title>
 </programme>
-<programme start="20260928191719 +0300" stop="20260928194025 +0300" channel="greektoons">
+<programme start="20260928185339 +0300" stop="20260928191645 +0300" channel="greektoons">
 <title lang="en">DragonBall</title>
 <sub-title lang="en">DragonBall S01 059</sub-title>
 </programme>
-<programme start="20260928194025 +0300" stop="20260928200331 +0300" channel="greektoons">
+<programme start="20260928191645 +0300" stop="20260928193951 +0300" channel="greektoons">
 <title lang="en">DragonBall</title>
 <sub-title lang="en">DragonBall S01 060</sub-title>
 </programme>
-<programme start="20260928200331 +0300" stop="20260928202403 +0300" channel="greektoons">
+<programme start="20260928193951 +0300" stop="20260928200024 +0300" channel="greektoons">
 <title lang="en">Μικρό μου Πόνυ</title>
 <sub-title lang="en">Μικρό μου Πόνυ S01 E02 escape from catrina</sub-title>
 </programme>
-<programme start="20260928202403 +0300" stop="20260928204453 +0300" channel="greektoons">
+<programme start="20260928200024 +0300" stop="20260928202114 +0300" channel="greektoons">
 <title lang="en">Μικρό μου Πόνυ</title>
 <sub-title lang="en">Μικρό μου Πόνυ S01 E03 The Movie</sub-title>
 </programme>
-<programme start="20260928204453 +0300" stop="20260928210730 +0300" channel="greektoons">
+<programme start="20260928202114 +0300" stop="20260928204350 +0300" channel="greektoons">
 <title lang="en">Μπάτμαν Σειρά Κινουμένων Σχεδίων</title>
 <sub-title lang="en">Μπάτμαν Σειρά Κινουμένων Σχεδίων S01E29 The Strange Secret of Bruce Wayne</sub-title>
 </programme>
-<programme start="20260928210730 +0300" stop="20260928213004 +0300" channel="greektoons">
+<programme start="20260928204350 +0300" stop="20260928210624 +0300" channel="greektoons">
 <title lang="en">Μπάτμαν Σειρά Κινουμένων Σχεδίων</title>
 <sub-title lang="en">Μπάτμαν Σειρά Κινουμένων Σχεδίων S01E30 Tyger Tyger</sub-title>
 </programme>
-<programme start="20260928213004 +0300" stop="20260928215256 +0300" channel="greektoons">
+<programme start="20260928210624 +0300" stop="20260928212916 +0300" channel="greektoons">
 <title lang="en">Τσιπ και Ντέιλ - Οι υπερασπιστές</title>
 <sub-title lang="en">Τσιπ και Ντέιλ - Οι υπερασπιστές S02E16</sub-title>
 </programme>
-<programme start="20260928215256 +0300" stop="20260928221551 +0300" channel="greektoons">
+<programme start="20260928212916 +0300" stop="20260928215211 +0300" channel="greektoons">
 <title lang="en">Τσιπ και Ντέιλ - Οι υπερασπιστές</title>
 <sub-title lang="en">Τσιπ και Ντέιλ - Οι υπερασπιστές S02E17</sub-title>
 </programme>
-<programme start="20260928221551 +0300" stop="20260928223859 +0300" channel="greektoons">
+<programme start="20260928215211 +0300" stop="20260928221519 +0300" channel="greektoons">
 <title lang="en">SailorMoon</title>
 <sub-title lang="en">SailorMoon - S0 E029</sub-title>
 </programme>
-<programme start="20260928223859 +0300" stop="20260928230206 +0300" channel="greektoons">
+<programme start="20260928221519 +0300" stop="20260928223827 +0300" channel="greektoons">
 <title lang="en">SailorMoon</title>
 <sub-title lang="en">SailorMoon - S0 E030</sub-title>
 </programme>
-<programme start="20260928230206 +0300" stop="20260928230838 +0300" channel="greektoons">
+<programme start="20260928223827 +0300" stop="20260928224458 +0300" channel="greektoons">
 <title lang="en">Tom and Jerry</title>
 <sub-title lang="en">Tom and Jerry S0 E156 Cannery Rodent</sub-title>
 </programme>
-<programme start="20260928230838 +0300" stop="20260928231458 +0300" channel="greektoons">
+<programme start="20260928224458 +0300" stop="20260928225118 +0300" channel="greektoons">
 <title lang="en">Tom and Jerry</title>
 <sub-title lang="en">Tom and Jerry S0 E158 Surf-Bored Cat</sub-title>
 </programme>
-<programme start="20260928231458 +0300" stop="20260928233730 +0300" channel="greektoons">
+<programme start="20260928225118 +0300" stop="20260928231350 +0300" channel="greektoons">
 <title lang="en">Αστυνόμος Σαίνης</title>
 <sub-title lang="en">Αστυνόμος Σαίνης S01E29 - The Bermuda Triangle</sub-title>
 </programme>
-<programme start="20260928233730 +0300" stop="20260929000004 +0300" channel="greektoons">
+<programme start="20260928231350 +0300" stop="20260928233624 +0300" channel="greektoons">
 <title lang="en">Αστυνόμος Σαίνης</title>
 <sub-title lang="en">Αστυνόμος Σαίνης S01E30 - The Japanese Connection</sub-title>
 </programme>
-<programme start="20260929000004 +0300" stop="20260929002221 +0300" channel="greektoons">
+<programme start="20260928233624 +0300" stop="20260928235842 +0300" channel="greektoons">
 <title lang="en">ΚΑΝΤΥ ΚΑΝΤΥ</title>
 <sub-title lang="en">ΚΑΝΤΥ ΚΑΝΤΥ S0 E029</sub-title>
 </programme>
-<programme start="20260929002221 +0300" stop="20260929004454 +0300" channel="greektoons">
+<programme start="20260928235842 +0300" stop="20260929002114 +0300" channel="greektoons">
 <title lang="en">ΚΑΝΤΥ ΚΑΝΤΥ</title>
 <sub-title lang="en">ΚΑΝΤΥ ΚΑΝΤΥ S0 E030</sub-title>
 </programme>
-<programme start="20260929004454 +0300" stop="20260929011042 +0300" channel="greektoons">
+<programme start="20260929002114 +0300" stop="20260929004703 +0300" channel="greektoons">
 <title lang="en">Λούκυ Λουκ</title>
 <sub-title lang="en">Λούκυ Λουκ S0 E29 Canyon Apache</sub-title>
 </programme>
-<programme start="20260929011042 +0300" stop="20260929013627 +0300" channel="greektoons">
+<programme start="20260929004703 +0300" stop="20260929011248 +0300" channel="greektoons">
 <title lang="en">Λούκυ Λουκ</title>
 <sub-title lang="en">Λούκυ Λουκ S0 E30 Το 20ο Σύνταγμα Ιππικού</sub-title>
 </programme>
-<programme start="20260929013627 +0300" stop="20260929015845 +0300" channel="greektoons">
+<programme start="20260929011248 +0300" stop="20260929013505 +0300" channel="greektoons">
 <title lang="en">ΝΤΕΝΙΣ Ο ΤΡΟΜΕΡΟΣ</title>
 <sub-title lang="en">ΝΤΕΝΙΣ Ο ΤΡΟΜΕΡΟΣ S0 E15. (480p)</sub-title>
 </programme>
-<programme start="20260929015845 +0300" stop="20260929022059 +0300" channel="greektoons">
+<programme start="20260929013505 +0300" stop="20260929015719 +0300" channel="greektoons">
 <title lang="en">ΝΤΕΝΙΣ Ο ΤΡΟΜΕΡΟΣ</title>
 <sub-title lang="en">ΝΤΕΝΙΣ Ο ΤΡΟΜΕΡΟΣ S0 E15</sub-title>
 </programme>
-<programme start="20260929022059 +0300" stop="20260929024506 +0300" channel="greektoons">
+<programme start="20260929015719 +0300" stop="20260929022127 +0300" channel="greektoons">
 <title lang="en">Ο Θρύλος του Ζορό</title>
 <sub-title lang="en">Ο Θρύλος του Ζορό S0 E29</sub-title>
 </programme>
-<programme start="20260929024506 +0300" stop="20260929030916 +0300" channel="greektoons">
+<programme start="20260929022127 +0300" stop="20260929024537 +0300" channel="greektoons">
 <title lang="en">Ο Θρύλος του Ζορό</title>
 <sub-title lang="en">Ο Θρύλος του Ζορό S0 E30</sub-title>
 </programme>
-<programme start="20260929030916 +0300" stop="20260929031519 +0300" channel="greektoons">
+<programme start="20260929024537 +0300" stop="20260929025140 +0300" channel="greektoons">
 <title lang="en">Ο Ροζ Πάνθηρας</title>
 <sub-title lang="en">Ο Ροζ Πάνθηρας S01 E28</sub-title>
 </programme>
-<programme start="20260929031519 +0300" stop="20260929032131 +0300" channel="greektoons">
+<programme start="20260929025140 +0300" stop="20260929025752 +0300" channel="greektoons">
 <title lang="en">Ο Ροζ Πάνθηρας</title>
 <sub-title lang="en">Ο Ροζ Πάνθηρας S01 E29</sub-title>
 </programme>
-<programme start="20260929032131 +0300" stop="20260929034431 +0300" channel="greektoons">
+<programme start="20260929025752 +0300" stop="20260929032052 +0300" channel="greektoons">
 <title lang="en">Παπιοπεριπέτειες</title>
 <sub-title lang="en">Παπιοπεριπέτειες S01 E29 Earth Quack</sub-title>
 </programme>
-<programme start="20260929034431 +0300" stop="20260929040731 +0300" channel="greektoons">
+<programme start="20260929032052 +0300" stop="20260929034352 +0300" channel="greektoons">
 <title lang="en">Παπιοπεριπέτειες</title>
 <sub-title lang="en">Παπιοπεριπέτειες S01 E30 Home Sweet Homer</sub-title>
 </programme>
-<programme start="20260929040731 +0300" stop="20260929041829 +0300" channel="greektoons">
+<programme start="20260929034352 +0300" stop="20260929035449 +0300" channel="greektoons">
 <title lang="en">Ποπάυ ο ναύτης</title>
 <sub-title lang="en">Ποπάυ ο ναύτης S0 E07 POY PAME AYRIO</sub-title>
 </programme>
-<programme start="20260929041829 +0300" stop="20260929042904 +0300" channel="greektoons">
+<programme start="20260929035449 +0300" stop="20260929040524 +0300" channel="greektoons">
 <title lang="en">Ποπάυ ο ναύτης</title>
 <sub-title lang="en">Ποπάυ ο ναύτης S0 E08 TO TERAS THS THALASSAS</sub-title>
 </programme>
-<programme start="20260929042904 +0300" stop="20260929045215 +0300" channel="greektoons">
+<programme start="20260929040524 +0300" stop="20260929042835 +0300" channel="greektoons">
 <title lang="en">Σαμπρίνα, η Μικρή Μάγισσα</title>
 <sub-title lang="en">Σαμπρίνα, η Μικρή Μάγισσα S0 E33 - Scare Apparent</sub-title>
 </programme>
-<programme start="20260929045215 +0300" stop="20260929051520 +0300" channel="greektoons">
+<programme start="20260929042835 +0300" stop="20260929045140 +0300" channel="greektoons">
 <title lang="en">Σαμπρίνα, η Μικρή Μάγισσα</title>
 <sub-title lang="en">Σαμπρίνα, η Μικρή Μάγισσα S0 E34 - The Hex Files</sub-title>
 </programme>
-<programme start="20260929051520 +0300" stop="20260929053824 +0300" channel="greektoons">
+<programme start="20260929045140 +0300" stop="20260929051445 +0300" channel="greektoons">
 <title lang="en">Σάντοκαν Η Δύναμη του Τίγρη</title>
 <sub-title lang="en">Σάντοκαν Η Δύναμη του Τίγρη S0 E02</sub-title>
 </programme>
-<programme start="20260929053824 +0300" stop="20260929060311 +0300" channel="greektoons">
+<programme start="20260929051445 +0300" stop="20260929053932 +0300" channel="greektoons">
 <title lang="en">Σάντοκαν Η Δύναμη του Τίγρη</title>
 <sub-title lang="en">Σάντοκαν Η Δύναμη του Τίγρη S0 E03</sub-title>
 </programme>
-<programme start="20260929060311 +0300" stop="20260929061345 +0300" channel="greektoons">
+<programme start="20260929053932 +0300" stop="20260929055006 +0300" channel="greektoons">
 <title lang="en">Σούπερ Μάριο</title>
 <sub-title lang="en">Σούπερ Μάριο S0 E01</sub-title>
 </programme>
-<programme start="20260929061345 +0300" stop="20260929062418 +0300" channel="greektoons">
+<programme start="20260929055006 +0300" stop="20260929060039 +0300" channel="greektoons">
 <title lang="en">Σούπερ Μάριο</title>
 <sub-title lang="en">Σούπερ Μάριο S0 E02</sub-title>
 </programme>
-<programme start="20260929062418 +0300" stop="20260929064348 +0300" channel="greektoons">
+<programme start="20260929060039 +0300" stop="20260929062008 +0300" channel="greektoons">
 <title lang="en">Σπάιντερμαν</title>
 <sub-title lang="en">Σπάιντερμαν S02E14</sub-title>
 </programme>
-<programme start="20260929064348 +0300" stop="20260929070354 +0300" channel="greektoons">
+<programme start="20260929062008 +0300" stop="20260929064014 +0300" channel="greektoons">
 <title lang="en">Σπάιντερμαν</title>
 <sub-title lang="en">Σπάιντερμαν S03E01</sub-title>
 </programme>
-<programme start="20260929070354 +0300" stop="20260929072744 +0300" channel="greektoons">
+<programme start="20260929064014 +0300" stop="20260929070405 +0300" channel="greektoons">
 <title lang="en">Το Βιβλίο της Ζούγκλας</title>
 <sub-title lang="en">Το Βιβλίο της Ζούγκλας S0 E27</sub-title>
 </programme>
-<programme start="20260929072744 +0300" stop="20260929075132 +0300" channel="greektoons">
+<programme start="20260929070405 +0300" stop="20260929072753 +0300" channel="greektoons">
 <title lang="en">Το Βιβλίο της Ζούγκλας</title>
 <sub-title lang="en">Το Βιβλίο της Ζούγκλας S0 E28</sub-title>
 </programme>
-<programme start="20260929075132 +0300" stop="20260929075800 +0300" channel="greektoons">
+<programme start="20260929072753 +0300" stop="20260929073420 +0300" channel="greektoons">
 <title lang="en">Το Μυρμήγκι και ο Μυρμηγκοφάγος</title>
 <sub-title lang="en">Το Μυρμήγκι και ο Μυρμηγκοφάγος S0 E11</sub-title>
 </programme>
-<programme start="20260929075800 +0300" stop="20260929080449 +0300" channel="greektoons">
+<programme start="20260929073420 +0300" stop="20260929074109 +0300" channel="greektoons">
 <title lang="en">Το Μυρμήγκι και ο Μυρμηγκοφάγος</title>
 <sub-title lang="en">Το Μυρμήγκι και ο Μυρμηγκοφάγος S0 E12</sub-title>
 </programme>
-<programme start="20260929080449 +0300" stop="20260929083032 +0300" channel="greektoons">
+<programme start="20260929074109 +0300" stop="20260929080653 +0300" channel="greektoons">
 <title lang="en">Φλιντ Ο Πρίγκιπας του Διαστήματος (Grendizer)</title>
 <sub-title lang="en">Φλιντ Ο Πρίγκιπας του Διαστήματος (Grendizer) S0 E31 - A Flower Blooms In The Sky! Boss' Friendship</sub-title>
 </programme>
-<programme start="20260929083032 +0300" stop="20260929085615 +0300" channel="greektoons">
+<programme start="20260929080653 +0300" stop="20260929083236 +0300" channel="greektoons">
 <title lang="en">Φλιντ Ο Πρίγκιπας του Διαστήματος (Grendizer)</title>
 <sub-title lang="en">Φλιντ Ο Πρίγκιπας του Διαστήματος (Grendizer) S0 E21 - Decisive Battle! The Shining Aurora</sub-title>
 </programme>
-<programme start="20260929085615 +0300" stop="20260929091754 +0300" channel="greektoons">
+<programme start="20260929083236 +0300" stop="20260929085415 +0300" channel="greektoons">
 <title lang="en">Χάιντι</title>
 <sub-title lang="en">Χάιντι S0 E27</sub-title>
 </programme>
-<programme start="20260929091754 +0300" stop="20260929094008 +0300" channel="greektoons">
+<programme start="20260929085415 +0300" stop="20260929091629 +0300" channel="greektoons">
 <title lang="en">Χάιντι</title>
 <sub-title lang="en">Χάιντι S0 E28</sub-title>
 </programme>
-<programme start="20260929094008 +0300" stop="20260929095215 +0300" channel="greektoons">
+<programme start="20260929091629 +0300" stop="20260929092836 +0300" channel="greektoons">
 <title lang="en">Τα Στρουμφάκια</title>
 <sub-title lang="en">Τα Στρουμφάκια S01 E27 - The Purple Smurfs</sub-title>
 </programme>
-<programme start="20260929095215 +0300" stop="20260929101438 +0300" channel="greektoons">
+<programme start="20260929092836 +0300" stop="20260929095058 +0300" channel="greektoons">
 <title lang="en">Τα Στρουμφάκια</title>
 <sub-title lang="en">Τα Στρουμφάκια S01 E28 - Sideshow Smurfs</sub-title>
 </programme>
-<programme start="20260929101438 +0300" stop="20260929104007 +0300" channel="greektoons">
+<programme start="20260929095058 +0300" stop="20260929101628 +0300" channel="greektoons">
 <title lang="en">Οι Φλίντστοουνς</title>
 <sub-title lang="en">Οι Φλίντστοουνς S01E27</sub-title>
 </programme>
-<programme start="20260929104007 +0300" stop="20260929110538 +0300" channel="greektoons">
+<programme start="20260929101628 +0300" stop="20260929104158 +0300" channel="greektoons">
 <title lang="en">Οι Φλίντστοουνς</title>
 <sub-title lang="en">Οι Φλίντστοουνς S01E28</sub-title>
 </programme>
-<programme start="20260925062154 +0300" stop="20260925074936 +0300" channel="greekclassic">
+<programme start="20260929104158 +0300" stop="20260929110538 +0300" channel="greektoons">
+<title lang="en">Χριστόφορος Κολόμβος</title>
+<sub-title lang="en">Χριστόφορος Κολόμβος S0 E26</sub-title>
+</programme>
+<programme start="20260929110538 +0300" stop="20260929112920 +0300" channel="greektoons">
+<title lang="en">Χριστόφορος Κολόμβος</title>
+<sub-title lang="en">Χριστόφορος Κολόμβος S0 E01</sub-title>
+</programme>
+<programme start="20260929112920 +0300" stop="20260929115015 +0300" channel="greektoons">
+<title lang="en">Baby Looney Tunes</title>
+<sub-title lang="en">Baby Looney Tunes S01E31</sub-title>
+</programme>
+<programme start="20260929115015 +0300" stop="20260929121101 +0300" channel="greektoons">
+<title lang="en">Baby Looney Tunes</title>
+<sub-title lang="en">Baby Looney Tunes S01E32</sub-title>
+</programme>
+<programme start="20260929121101 +0300" stop="20260929123407 +0300" channel="greektoons">
+<title lang="en">DragonBall</title>
+<sub-title lang="en">DragonBall S01 061</sub-title>
+</programme>
+<programme start="20260929123407 +0300" stop="20260929125714 +0300" channel="greektoons">
+<title lang="en">DragonBall</title>
+<sub-title lang="en">DragonBall S01 062</sub-title>
+</programme>
+<programme start="20260929125714 +0300" stop="20260929132013 +0300" channel="greektoons">
+<title lang="en">DragonBall</title>
+<sub-title lang="en">DragonBall S01 063</sub-title>
+</programme>
+<programme start="20260929132013 +0300" stop="20260929134223 +0300" channel="greektoons">
+<title lang="en">DragonBall</title>
+<sub-title lang="en">DragonBall S01 064</sub-title>
+</programme>
+<programme start="20260929134223 +0300" stop="20260929140629 +0300" channel="greektoons">
+<title lang="en">Μικρό μου Πόνυ</title>
+<sub-title lang="en">Μικρό μου Πόνυ S01 E04 the end of flutter valley</sub-title>
+</programme>
+<programme start="20260929140629 +0300" stop="20260929144606 +0300" channel="greektoons">
+<title lang="en">Μικρό μου Πόνυ</title>
+<sub-title lang="en">Μικρό μου Πόνυ S01 E05 The Ghost Of Paradise Estate</sub-title>
+</programme>
+<programme start="20260929144606 +0300" stop="20260929150846 +0300" channel="greektoons">
+<title lang="en">Μπάτμαν Σειρά Κινουμένων Σχεδίων</title>
+<sub-title lang="en">Μπάτμαν Σειρά Κινουμένων Σχεδίων S01E31 Dreams in Darkness</sub-title>
+</programme>
+<programme start="20260929150846 +0300" stop="20260929153122 +0300" channel="greektoons">
+<title lang="en">Μπάτμαν Σειρά Κινουμένων Σχεδίων</title>
+<sub-title lang="en">Μπάτμαν Σειρά Κινουμένων Σχεδίων S01E32 Beware the Gray Ghost</sub-title>
+</programme>
+<programme start="20260929153122 +0300" stop="20260929155420 +0300" channel="greektoons">
+<title lang="en">Τσιπ και Ντέιλ - Οι υπερασπιστές</title>
+<sub-title lang="en">Τσιπ και Ντέιλ - Οι υπερασπιστές S02E18</sub-title>
+</programme>
+<programme start="20260929155420 +0300" stop="20260929161708 +0300" channel="greektoons">
+<title lang="en">Τσιπ και Ντέιλ - Οι υπερασπιστές</title>
+<sub-title lang="en">Τσιπ και Ντέιλ - Οι υπερασπιστές S02E19</sub-title>
+</programme>
+<programme start="20260929161708 +0300" stop="20260929164017 +0300" channel="greektoons">
+<title lang="en">SailorMoon</title>
+<sub-title lang="en">SailorMoon - S0 E031</sub-title>
+</programme>
+<programme start="20260929164017 +0300" stop="20260929170327 +0300" channel="greektoons">
+<title lang="en">SailorMoon</title>
+<sub-title lang="en">SailorMoon - S0 E032</sub-title>
+</programme>
+<programme start="20260929170327 +0300" stop="20260929171012 +0300" channel="greektoons">
+<title lang="en">Tom and Jerry</title>
+<sub-title lang="en">Tom and Jerry S0 E159 Shutter Bugged Cat</sub-title>
+</programme>
+<programme start="20260929171012 +0300" stop="20260929171705 +0300" channel="greektoons">
+<title lang="en">Tom and Jerry</title>
+<sub-title lang="en">Tom and Jerry S0 E16 Puttin' on the Dog</sub-title>
+</programme>
+<programme start="20260929171705 +0300" stop="20260929173938 +0300" channel="greektoons">
+<title lang="en">Αστυνόμος Σαίνης</title>
+<sub-title lang="en">Αστυνόμος Σαίνης S01E31 - Arabian Nights</sub-title>
+</programme>
+<programme start="20260929173938 +0300" stop="20260929180209 +0300" channel="greektoons">
+<title lang="en">Αστυνόμος Σαίνης</title>
+<sub-title lang="en">Αστυνόμος Σαίνης S01E32 - Clear Case</sub-title>
+</programme>
+<programme start="20260929180209 +0300" stop="20260929182501 +0300" channel="greektoons">
+<title lang="en">ΚΑΝΤΥ ΚΑΝΤΥ</title>
+<sub-title lang="en">ΚΑΝΤΥ ΚΑΝΤΥ S0 E031</sub-title>
+</programme>
+<programme start="20260929182501 +0300" stop="20260929184750 +0300" channel="greektoons">
+<title lang="en">ΚΑΝΤΥ ΚΑΝΤΥ</title>
+<sub-title lang="en">ΚΑΝΤΥ ΚΑΝΤΥ S0 E032</sub-title>
+</programme>
+<programme start="20260929184750 +0300" stop="20260929191300 +0300" channel="greektoons">
+<title lang="en">Λούκυ Λουκ</title>
+<sub-title lang="en">Λούκυ Λουκ S0 E31 Εναντίον Joss Jamon</sub-title>
+</programme>
+<programme start="20260929191300 +0300" stop="20260929193806 +0300" channel="greektoons">
+<title lang="en">Λούκυ Λουκ</title>
+<sub-title lang="en">Λούκυ Λουκ S0 E32 T.N.T.</sub-title>
+</programme>
+<programme start="20260929193806 +0300" stop="20260929200105 +0300" channel="greektoons">
+<title lang="en">ΝΤΕΝΙΣ Ο ΤΡΟΜΕΡΟΣ</title>
+<sub-title lang="en">ΝΤΕΝΙΣ Ο ΤΡΟΜΕΡΟΣ S0 E16. (480p)</sub-title>
+</programme>
+<programme start="20260929200105 +0300" stop="20260929202318 +0300" channel="greektoons">
+<title lang="en">ΝΤΕΝΙΣ Ο ΤΡΟΜΕΡΟΣ</title>
+<sub-title lang="en">ΝΤΕΝΙΣ Ο ΤΡΟΜΕΡΟΣ S0 E16</sub-title>
+</programme>
+<programme start="20260929202318 +0300" stop="20260929204618 +0300" channel="greektoons">
+<title lang="en">Ο Θρύλος του Ζορό</title>
+<sub-title lang="en">Ο Θρύλος του Ζορό S0 E31</sub-title>
+</programme>
+<programme start="20260929204618 +0300" stop="20260929211027 +0300" channel="greektoons">
+<title lang="en">Ο Θρύλος του Ζορό</title>
+<sub-title lang="en">Ο Θρύλος του Ζορό S0 E32</sub-title>
+</programme>
+<programme start="20260929211027 +0300" stop="20260929211633 +0300" channel="greektoons">
+<title lang="en">Ο Ροζ Πάνθηρας</title>
+<sub-title lang="en">Ο Ροζ Πάνθηρας S01 E30</sub-title>
+</programme>
+<programme start="20260929211633 +0300" stop="20260929212246 +0300" channel="greektoons">
+<title lang="en">Ο Ροζ Πάνθηρας</title>
+<sub-title lang="en">Ο Ροζ Πάνθηρας S01 E31</sub-title>
+</programme>
+<programme start="20260929212246 +0300" stop="20260929214546 +0300" channel="greektoons">
+<title lang="en">Παπιοπεριπέτειες</title>
+<sub-title lang="en">Παπιοπεριπέτειες S01 E31 Bermuda Triangle Tangle</sub-title>
+</programme>
+<programme start="20260929214546 +0300" stop="20260929220846 +0300" channel="greektoons">
+<title lang="en">Παπιοπεριπέτειες</title>
+<sub-title lang="en">Παπιοπεριπέτειες S01 E32 Micro Ducks from Outer Space</sub-title>
+</programme>
+<programme start="20260929220846 +0300" stop="20260929221921 +0300" channel="greektoons">
+<title lang="en">Ποπάυ ο ναύτης</title>
+<sub-title lang="en">Ποπάυ ο ναύτης S0 E09 TO TZINI</sub-title>
+</programme>
+<programme start="20260929221921 +0300" stop="20260929223011 +0300" channel="greektoons">
+<title lang="en">Ποπάυ ο ναύτης</title>
+<sub-title lang="en">Ποπάυ ο ναύτης S0 E10 XAMENOS THYSAYROS</sub-title>
+</programme>
+<programme start="20260929223011 +0300" stop="20260929225322 +0300" channel="greektoons">
+<title lang="en">Σαμπρίνα, η Μικρή Μάγισσα</title>
+<sub-title lang="en">Σαμπρίνα, η Μικρή Μάγισσα S0 E35 - Stone Broke</sub-title>
+</programme>
+<programme start="20260929225322 +0300" stop="20260929231632 +0300" channel="greektoons">
+<title lang="en">Σαμπρίνα, η Μικρή Μάγισσα</title>
+<sub-title lang="en">Σαμπρίνα, η Μικρή Μάγισσα S0 E36 - Salems Plot</sub-title>
+</programme>
+<programme start="20260929231632 +0300" stop="20260929234026 +0300" channel="greektoons">
+<title lang="en">Σάντοκαν Η Δύναμη του Τίγρη</title>
+<sub-title lang="en">Σάντοκαν Η Δύναμη του Τίγρη S0 E04</sub-title>
+</programme>
+<programme start="20260929234026 +0300" stop="20260930000420 +0300" channel="greektoons">
+<title lang="en">Σάντοκαν Η Δύναμη του Τίγρη</title>
+<sub-title lang="en">Σάντοκαν Η Δύναμη του Τίγρη S0 E05</sub-title>
+</programme>
+<programme start="20260925011055 +0300" stop="20260925022333 +0300" channel="greekclassic">
+<title lang="en">Κόκκινα Τριαντάφυλλα (1955)</title>
+</programme>
+<programme start="20260925022333 +0300" stop="20260925034824 +0300" channel="greekclassic">
+<title lang="en">Κάθε Εμπόδιο για Καλό (1958)</title>
+</programme>
+<programme start="20260925034824 +0300" stop="20260925051715 +0300" channel="greekclassic">
+<title lang="en">MANTALENA (1960)</title>
+</programme>
+<programme start="20260925051715 +0300" stop="20260925062144 +0300" channel="greekclassic">
+<title lang="en">Ο μεγαλοκαρχαρίας (1957)</title>
+</programme>
+<programme start="20260925062144 +0300" stop="20260925074936 +0300" channel="greekclassic">
 <title lang="en">ΕΛΑ ΝΑ ΓΥΜΝΩΘΟΥΜΕ ΝΤΑΡΛΙΝΓΚ (1984)</title>
 </programme>
 <programme start="20260925074936 +0300" stop="20260925091338 +0300" channel="greekclassic">
@@ -8869,7 +9109,576 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 <programme start="20260929105359 +0300" stop="20260929122413 +0300" channel="greekclassic">
 <title lang="en">ΤΡΟΧΟΝΟΜΟΣ ΒΑΡΒΑΡΑ (1981)</title>
 </programme>
-<programme start="20260925005359 +0300" stop="20260926001500 +0300" channel="classictv">
-<title lang="en">Έναρξη Σαββάτο 12:00ΠΜ</title>
+<programme start="20260929122413 +0300" stop="20260929140834 +0300" channel="greekclassic">
+<title lang="en">Κορίτσια για φίλημα (1965)</title>
+</programme>
+<programme start="20260929140834 +0300" stop="20260929152938 +0300" channel="greekclassic">
+<title lang="en">Τρελλός είμαι ό,τι θέλω κάνω!.. (1985)</title>
+</programme>
+<programme start="20260929152938 +0300" stop="20260929165128 +0300" channel="greekclassic">
+<title lang="en">The... Κόπανοι (1987)</title>
+</programme>
+<programme start="20260929165128 +0300" stop="20260929181946 +0300" channel="greekclassic">
+<title lang="en">Ούτε μιλάει ούτε λαλάει (1966)</title>
+</programme>
+<programme start="20260929181946 +0300" stop="20260929193839 +0300" channel="greekclassic">
+<title lang="en">Ένας Βέγγος για όλες τις δουλειές</title>
+</programme>
+<programme start="20260929193839 +0300" stop="20260929205816 +0300" channel="greekclassic">
+<title lang="en">Ο Θανάσης και το καταραμένο φίδι (1982)</title>
+</programme>
+<programme start="20260929205816 +0300" stop="20260929222352 +0300" channel="greekclassic">
+<title lang="en">Ένας αλλά λέων (1988)</title>
+</programme>
+<programme start="20260929222352 +0300" stop="20260930001045 +0300" channel="greekclassic">
+<title lang="en">Χτυποκάρδια Στο Θρανίο (1963)</title>
+</programme>
+<programme start="20260926000000 +0300" stop="20260926004843 +0300" channel="classictv">
+<title lang="en">The X-Files</title>
+<sub-title lang="en">The X-Files S01E01 Pilot</sub-title>
+</programme>
+<programme start="20260926004843 +0300" stop="20260926013502 +0300" channel="classictv">
+<title lang="en">The X-Files</title>
+<sub-title lang="en">The X-Files S01E02 Deep Throat</sub-title>
+</programme>
+<programme start="20260926013502 +0300" stop="20260926022402 +0300" channel="classictv">
+<title lang="en">Ο Ιππότης της Ασφάλτου</title>
+<sub-title lang="en">Ο Ιππότης της Ασφάλτου - S01E01 - Knight Of The Phoenix Part 1</sub-title>
+</programme>
+<programme start="20260926022402 +0300" stop="20260926031535 +0300" channel="classictv">
+<title lang="en">Miami Vice</title>
+<sub-title lang="en">Miami Vice S01E01 part1</sub-title>
+</programme>
+<programme start="20260926031535 +0300" stop="20260926035839 +0300" channel="classictv">
+<title lang="en">Ζήνα- H Πριγκίπισσα του Πολέμου</title>
+<sub-title lang="en">Ζήνα- H Πριγκίπισσα του Πολέμου S01E01</sub-title>
+</programme>
+<programme start="20260926035839 +0300" stop="20260926044141 +0300" channel="classictv">
+<title lang="en">Ζήνα- H Πριγκίπισσα του Πολέμου</title>
+<sub-title lang="en">Ζήνα- H Πριγκίπισσα του Πολέμου S01E02</sub-title>
+</programme>
+<programme start="20260926044141 +0300" stop="20260926050405 +0300" channel="classictv">
+<title lang="en">Τα Φιλαράκια</title>
+<sub-title lang="en">Τα Φιλαράκια S01E01</sub-title>
+</programme>
+<programme start="20260926050405 +0300" stop="20260926052633 +0300" channel="classictv">
+<title lang="en">Τα Φιλαράκια</title>
+<sub-title lang="en">Τα Φιλαράκια S01E02</sub-title>
+</programme>
+<programme start="20260926052633 +0300" stop="20260926054902 +0300" channel="classictv">
+<title lang="en">Τα Φιλαράκια</title>
+<sub-title lang="en">Τα Φιλαράκια S01E03</sub-title>
+</programme>
+<programme start="20260926054902 +0300" stop="20260926063745 +0300" channel="classictv">
+<title lang="en">Μαγκάιβερ</title>
+<sub-title lang="en">Μαγκάιβερ - S01E01</sub-title>
+</programme>
+<programme start="20260926063745 +0300" stop="20260926072630 +0300" channel="classictv">
+<title lang="en">Μαγκάιβερ</title>
+<sub-title lang="en">Μαγκάιβερ - S01E02</sub-title>
+</programme>
+<programme start="20260926072630 +0300" stop="20260926081111 +0300" channel="classictv">
+<title lang="en">Ηρακλής - The Legendary Journeys</title>
+<sub-title lang="en">Ηρακλής - The Legendary Journeys S01E01</sub-title>
+</programme>
+<programme start="20260926081111 +0300" stop="20260926085550 +0300" channel="classictv">
+<title lang="en">Ηρακλής - The Legendary Journeys</title>
+<sub-title lang="en">Ηρακλής - The Legendary Journeys S01E02</sub-title>
+</programme>
+<programme start="20260926085550 +0300" stop="20260926094103 +0300" channel="classictv">
+<title lang="en">Μπέιγουοτς</title>
+<sub-title lang="en">Μπέιγουοτς S01E01</sub-title>
+</programme>
+<programme start="20260926094103 +0300" stop="20260926102603 +0300" channel="classictv">
+<title lang="en">Μπέιγουοτς</title>
+<sub-title lang="en">Μπέιγουοτς S01E02</sub-title>
+</programme>
+<programme start="20260926102603 +0300" stop="20260926111044 +0300" channel="classictv">
+<title lang="en">Χτυποκάρδια στο Μπέβερλι Χιλς</title>
+<sub-title lang="en">Χτυποκάρδια στο Μπέβερλι Χιλς S01E01 Class of Beverly Hills part1</sub-title>
+</programme>
+<programme start="20260926111044 +0300" stop="20260926115948 +0300" channel="classictv">
+<title lang="en">Χτυποκάρδια στο Μπέβερλι Χιλς</title>
+<sub-title lang="en">Χτυποκάρδια στο Μπέβερλι Χιλς S01E01 Class of Beverly Hills part2</sub-title>
+</programme>
+<programme start="20260926115948 +0300" stop="20260926124305 +0300" channel="classictv">
+<title lang="en">The X-Files</title>
+<sub-title lang="en">The X-Files S01E03 Squeeze</sub-title>
+</programme>
+<programme start="20260926124305 +0300" stop="20260926132748 +0300" channel="classictv">
+<title lang="en">The X-Files</title>
+<sub-title lang="en">The X-Files S01E04 Conduit</sub-title>
+</programme>
+<programme start="20260926132748 +0300" stop="20260926141546 +0300" channel="classictv">
+<title lang="en">Ο Ιππότης της Ασφάλτου</title>
+<sub-title lang="en">Ο Ιππότης της Ασφάλτου - S01E02 - Knight Of The Phoenix Part 2</sub-title>
+</programme>
+<programme start="20260926141546 +0300" stop="20260926150502 +0300" channel="classictv">
+<title lang="en">Ο Ιππότης της Ασφάλτου</title>
+<sub-title lang="en">Ο Ιππότης της Ασφάλτου - S01E03 - Deadly Maneuvers</sub-title>
+</programme>
+<programme start="20260926150502 +0300" stop="20260926155248 +0300" channel="classictv">
+<title lang="en">Miami Vice</title>
+<sub-title lang="en">Miami Vice S01E01 part2</sub-title>
+</programme>
+<programme start="20260926155248 +0300" stop="20260926163551 +0300" channel="classictv">
+<title lang="en">Ζήνα- H Πριγκίπισσα του Πολέμου</title>
+<sub-title lang="en">Ζήνα- H Πριγκίπισσα του Πολέμου S01E03</sub-title>
+</programme>
+<programme start="20260926163551 +0300" stop="20260926171854 +0300" channel="classictv">
+<title lang="en">Ζήνα- H Πριγκίπισσα του Πολέμου</title>
+<sub-title lang="en">Ζήνα- H Πριγκίπισσα του Πολέμου S01E04</sub-title>
+</programme>
+<programme start="20260926171854 +0300" stop="20260926174118 +0300" channel="classictv">
+<title lang="en">Τα Φιλαράκια</title>
+<sub-title lang="en">Τα Φιλαράκια S01E04</sub-title>
+</programme>
+<programme start="20260926174118 +0300" stop="20260926180337 +0300" channel="classictv">
+<title lang="en">Τα Φιλαράκια</title>
+<sub-title lang="en">Τα Φιλαράκια S01E05</sub-title>
+</programme>
+<programme start="20260926180337 +0300" stop="20260926182407 +0300" channel="classictv">
+<title lang="en">Τα Φιλαράκια</title>
+<sub-title lang="en">Τα Φιλαράκια S01E06</sub-title>
+</programme>
+<programme start="20260926182407 +0300" stop="20260926191012 +0300" channel="classictv">
+<title lang="en">Μαγκάιβερ</title>
+<sub-title lang="en">Μαγκάιβερ - S01E03</sub-title>
+</programme>
+<programme start="20260926191012 +0300" stop="20260926195856 +0300" channel="classictv">
+<title lang="en">Μαγκάιβερ</title>
+<sub-title lang="en">Μαγκάιβερ - S01E04</sub-title>
+</programme>
+<programme start="20260926195856 +0300" stop="20260926204335 +0300" channel="classictv">
+<title lang="en">Ηρακλής - The Legendary Journeys</title>
+<sub-title lang="en">Ηρακλής - The Legendary Journeys S01E03</sub-title>
+</programme>
+<programme start="20260926204335 +0300" stop="20260926212920 +0300" channel="classictv">
+<title lang="en">Μπέιγουοτς</title>
+<sub-title lang="en">Μπέιγουοτς S01E03</sub-title>
+</programme>
+<programme start="20260926212920 +0300" stop="20260926221508 +0300" channel="classictv">
+<title lang="en">Μπέιγουοτς</title>
+<sub-title lang="en">Μπέιγουοτς S01E04</sub-title>
+</programme>
+<programme start="20260926221508 +0300" stop="20260926230144 +0300" channel="classictv">
+<title lang="en">Χτυποκάρδια στο Μπέβερλι Χιλς</title>
+<sub-title lang="en">Χτυποκάρδια στο Μπέβερλι Χιλς S01E02 The Green Room & Pilot Part 2</sub-title>
+</programme>
+<programme start="20260926230144 +0300" stop="20260926234818 +0300" channel="classictv">
+<title lang="en">Χτυποκάρδια στο Μπέβερλι Χιλς</title>
+<sub-title lang="en">Χτυποκάρδια στο Μπέβερλι Χιλς S01E03 Every Dream Has Its Price (Tag)</sub-title>
+</programme>
+<programme start="20260926234818 +0300" stop="20260927003316 +0300" channel="classictv">
+<title lang="en">The X-Files</title>
+<sub-title lang="en">The X-Files S01E05 Jersey Devil</sub-title>
+</programme>
+<programme start="20260927003316 +0300" stop="20260927011930 +0300" channel="classictv">
+<title lang="en">The X-Files</title>
+<sub-title lang="en">The X-Files S01E06 Shadows</sub-title>
+</programme>
+<programme start="20260927011930 +0300" stop="20260927020845 +0300" channel="classictv">
+<title lang="en">Ο Ιππότης της Ασφάλτου</title>
+<sub-title lang="en">Ο Ιππότης της Ασφάλτου - S01E04 - A Good Day At White Rock</sub-title>
+</programme>
+<programme start="20260927020845 +0300" stop="20260927025821 +0300" channel="classictv">
+<title lang="en">Miami Vice</title>
+<sub-title lang="en">Miami Vice S01E02</sub-title>
+</programme>
+<programme start="20260927025821 +0300" stop="20260927034117 +0300" channel="classictv">
+<title lang="en">Ζήνα- H Πριγκίπισσα του Πολέμου</title>
+<sub-title lang="en">Ζήνα- H Πριγκίπισσα του Πολέμου S01E05</sub-title>
+</programme>
+<programme start="20260927034117 +0300" stop="20260927042421 +0300" channel="classictv">
+<title lang="en">Ζήνα- H Πριγκίπισσα του Πολέμου</title>
+<sub-title lang="en">Ζήνα- H Πριγκίπισσα του Πολέμου S01E06</sub-title>
+</programme>
+<programme start="20260927042421 +0300" stop="20260927044633 +0300" channel="classictv">
+<title lang="en">Τα Φιλαράκια</title>
+<sub-title lang="en">Τα Φιλαράκια S01E07</sub-title>
+</programme>
+<programme start="20260927044633 +0300" stop="20260927050857 +0300" channel="classictv">
+<title lang="en">Τα Φιλαράκια</title>
+<sub-title lang="en">Τα Φιλαράκια S01E08</sub-title>
+</programme>
+<programme start="20260927050857 +0300" stop="20260927053122 +0300" channel="classictv">
+<title lang="en">Τα Φιλαράκια</title>
+<sub-title lang="en">Τα Φιλαράκια S01E09</sub-title>
+</programme>
+<programme start="20260927053122 +0300" stop="20260927061948 +0300" channel="classictv">
+<title lang="en">Μαγκάιβερ</title>
+<sub-title lang="en">Μαγκάιβερ - S01E05</sub-title>
+</programme>
+<programme start="20260927061948 +0300" stop="20260927070837 +0300" channel="classictv">
+<title lang="en">Μαγκάιβερ</title>
+<sub-title lang="en">Μαγκάιβερ - S01E06</sub-title>
+</programme>
+<programme start="20260927070837 +0300" stop="20260927075316 +0300" channel="classictv">
+<title lang="en">Ηρακλής - The Legendary Journeys</title>
+<sub-title lang="en">Ηρακλής - The Legendary Journeys S01E04</sub-title>
+</programme>
+<programme start="20260927075316 +0300" stop="20260927083754 +0300" channel="classictv">
+<title lang="en">Ηρακλής - The Legendary Journeys</title>
+<sub-title lang="en">Ηρακλής - The Legendary Journeys S01E05</sub-title>
+</programme>
+<programme start="20260927083754 +0300" stop="20260927092434 +0300" channel="classictv">
+<title lang="en">Μπέιγουοτς</title>
+<sub-title lang="en">Μπέιγουοτς S01E05</sub-title>
+</programme>
+<programme start="20260927092434 +0300" stop="20260927101141 +0300" channel="classictv">
+<title lang="en">Μπέιγουοτς</title>
+<sub-title lang="en">Μπέιγουοτς S01E06</sub-title>
+</programme>
+<programme start="20260927101141 +0300" stop="20260927105903 +0300" channel="classictv">
+<title lang="en">Χτυποκάρδια στο Μπέβερλι Χιλς</title>
+<sub-title lang="en">Χτυποκάρδια στο Μπέβερλι Χιλς S01E04 The First Time</sub-title>
+</programme>
+<programme start="20260927105903 +0300" stop="20260927114545 +0300" channel="classictv">
+<title lang="en">Χτυποκάρδια στο Μπέβερλι Χιλς</title>
+<sub-title lang="en">Χτυποκάρδια στο Μπέβερλι Χιλς S01E05 One on One</sub-title>
+</programme>
+<programme start="20260927114545 +0300" stop="20260927123133 +0300" channel="classictv">
+<title lang="en">The X-Files</title>
+<sub-title lang="en">The X-Files S01E07 Ghost in the Machine</sub-title>
+</programme>
+<programme start="20260927123133 +0300" stop="20260927131753 +0300" channel="classictv">
+<title lang="en">The X-Files</title>
+<sub-title lang="en">The X-Files S01E08 Ice</sub-title>
+</programme>
+<programme start="20260927131753 +0300" stop="20260927140657 +0300" channel="classictv">
+<title lang="en">Ο Ιππότης της Ασφάλτου</title>
+<sub-title lang="en">Ο Ιππότης της Ασφάλτου - S01E05 - Slammin' Sammy's Stunt Show Spectacular</sub-title>
+</programme>
+<programme start="20260927140657 +0300" stop="20260927145609 +0300" channel="classictv">
+<title lang="en">Ο Ιππότης της Ασφάλτου</title>
+<sub-title lang="en">Ο Ιππότης της Ασφάλτου - S01E06 - Just My Bill</sub-title>
+</programme>
+<programme start="20260927145609 +0300" stop="20260927154542 +0300" channel="classictv">
+<title lang="en">Miami Vice</title>
+<sub-title lang="en">Miami Vice S01E03</sub-title>
+</programme>
+<programme start="20260927154542 +0300" stop="20260927162842 +0300" channel="classictv">
+<title lang="en">Ζήνα- H Πριγκίπισσα του Πολέμου</title>
+<sub-title lang="en">Ζήνα- H Πριγκίπισσα του Πολέμου S01E07</sub-title>
+</programme>
+<programme start="20260927162842 +0300" stop="20260927171147 +0300" channel="classictv">
+<title lang="en">Ζήνα- H Πριγκίπισσα του Πολέμου</title>
+<sub-title lang="en">Ζήνα- H Πριγκίπισσα του Πολέμου S01E08</sub-title>
+</programme>
+<programme start="20260927171147 +0300" stop="20260927173411 +0300" channel="classictv">
+<title lang="en">Τα Φιλαράκια</title>
+<sub-title lang="en">Τα Φιλαράκια S01E10</sub-title>
+</programme>
+<programme start="20260927173411 +0300" stop="20260927175635 +0300" channel="classictv">
+<title lang="en">Τα Φιλαράκια</title>
+<sub-title lang="en">Τα Φιλαράκια S01E12</sub-title>
+</programme>
+<programme start="20260927175635 +0300" stop="20260927181859 +0300" channel="classictv">
+<title lang="en">Τα Φιλαράκια</title>
+<sub-title lang="en">Τα Φιλαράκια S01E13</sub-title>
+</programme>
+<programme start="20260927181859 +0300" stop="20260927190724 +0300" channel="classictv">
+<title lang="en">Μαγκάιβερ</title>
+<sub-title lang="en">Μαγκάιβερ - S01E07</sub-title>
+</programme>
+<programme start="20260927190724 +0300" stop="20260927195602 +0300" channel="classictv">
+<title lang="en">Μαγκάιβερ</title>
+<sub-title lang="en">Μαγκάιβερ - S01E08</sub-title>
+</programme>
+<programme start="20260927195602 +0300" stop="20260927204046 +0300" channel="classictv">
+<title lang="en">Ηρακλής - The Legendary Journeys</title>
+<sub-title lang="en">Ηρακλής - The Legendary Journeys S01E06</sub-title>
+</programme>
+<programme start="20260927204046 +0300" stop="20260927212755 +0300" channel="classictv">
+<title lang="en">Μπέιγουοτς</title>
+<sub-title lang="en">Μπέιγουοτς S01E07</sub-title>
+</programme>
+<programme start="20260927212755 +0300" stop="20260927221339 +0300" channel="classictv">
+<title lang="en">Μπέιγουοτς</title>
+<sub-title lang="en">Μπέιγουοτς S01E08</sub-title>
+</programme>
+<programme start="20260927221339 +0300" stop="20260927230102 +0300" channel="classictv">
+<title lang="en">Χτυποκάρδια στο Μπέβερλι Χιλς</title>
+<sub-title lang="en">Χτυποκάρδια στο Μπέβερλι Χιλς S01E06 Higher Education</sub-title>
+</programme>
+<programme start="20260927230102 +0300" stop="20260927234719 +0300" channel="classictv">
+<title lang="en">Χτυποκάρδια στο Μπέβερλι Χιλς</title>
+<sub-title lang="en">Χτυποκάρδια στο Μπέβερλι Χιλς S01E07 Perfect Mom</sub-title>
+</programme>
+<programme start="20260927234719 +0300" stop="20260928003423 +0300" channel="classictv">
+<title lang="en">The X-Files</title>
+<sub-title lang="en">The X-Files S01E09 Space</sub-title>
+</programme>
+<programme start="20260928003423 +0300" stop="20260928012047 +0300" channel="classictv">
+<title lang="en">The X-Files</title>
+<sub-title lang="en">The X-Files S01E10 Fallen Angel</sub-title>
+</programme>
+<programme start="20260928012047 +0300" stop="20260928020959 +0300" channel="classictv">
+<title lang="en">Ο Ιππότης της Ασφάλτου</title>
+<sub-title lang="en">Ο Ιππότης της Ασφάλτου - S01E07 - Not A Drop To Drink</sub-title>
+</programme>
+<programme start="20260928020959 +0300" stop="20260928025933 +0300" channel="classictv">
+<title lang="en">Miami Vice</title>
+<sub-title lang="en">Miami Vice S01E04</sub-title>
+</programme>
+<programme start="20260928025933 +0300" stop="20260928034236 +0300" channel="classictv">
+<title lang="en">Ζήνα- H Πριγκίπισσα του Πολέμου</title>
+<sub-title lang="en">Ζήνα- H Πριγκίπισσα του Πολέμου S01E09</sub-title>
+</programme>
+<programme start="20260928034236 +0300" stop="20260928042541 +0300" channel="classictv">
+<title lang="en">Ζήνα- H Πριγκίπισσα του Πολέμου</title>
+<sub-title lang="en">Ζήνα- H Πριγκίπισσα του Πολέμου S01E10</sub-title>
+</programme>
+<programme start="20260928042541 +0300" stop="20260928044803 +0300" channel="classictv">
+<title lang="en">Τα Φιλαράκια</title>
+<sub-title lang="en">Τα Φιλαράκια S01E14</sub-title>
+</programme>
+<programme start="20260928044803 +0300" stop="20260928051026 +0300" channel="classictv">
+<title lang="en">Τα Φιλαράκια</title>
+<sub-title lang="en">Τα Φιλαράκια S01E15</sub-title>
+</programme>
+<programme start="20260928051026 +0300" stop="20260928053250 +0300" channel="classictv">
+<title lang="en">Τα Φιλαράκια</title>
+<sub-title lang="en">Τα Φιλαράκια S01E16</sub-title>
+</programme>
+<programme start="20260928053250 +0300" stop="20260928062058 +0300" channel="classictv">
+<title lang="en">Μαγκάιβερ</title>
+<sub-title lang="en">Μαγκάιβερ - S01E09</sub-title>
+</programme>
+<programme start="20260928062058 +0300" stop="20260928070755 +0300" channel="classictv">
+<title lang="en">Μαγκάιβερ</title>
+<sub-title lang="en">Μαγκάιβερ - S01E10</sub-title>
+</programme>
+<programme start="20260928070755 +0300" stop="20260928075234 +0300" channel="classictv">
+<title lang="en">Ηρακλής - The Legendary Journeys</title>
+<sub-title lang="en">Ηρακλής - The Legendary Journeys S01E07</sub-title>
+</programme>
+<programme start="20260928075234 +0300" stop="20260928083717 +0300" channel="classictv">
+<title lang="en">Ηρακλής - The Legendary Journeys</title>
+<sub-title lang="en">Ηρακλής - The Legendary Journeys S01E08</sub-title>
+</programme>
+<programme start="20260928083717 +0300" stop="20260928092334 +0300" channel="classictv">
+<title lang="en">Μπέιγουοτς</title>
+<sub-title lang="en">Μπέιγουοτς S01E09</sub-title>
+</programme>
+<programme start="20260928092334 +0300" stop="20260928101045 +0300" channel="classictv">
+<title lang="en">Μπέιγουοτς</title>
+<sub-title lang="en">Μπέιγουοτς S01E10</sub-title>
+</programme>
+<programme start="20260928101045 +0300" stop="20260928105811 +0300" channel="classictv">
+<title lang="en">Χτυποκάρδια στο Μπέβερλι Χιλς</title>
+<sub-title lang="en">Χτυποκάρδια στο Μπέβερλι Χιλς S01E08 The 17-Year Itch</sub-title>
+</programme>
+<programme start="20260928105811 +0300" stop="20260928114534 +0300" channel="classictv">
+<title lang="en">Χτυποκάρδια στο Μπέβερλι Χιλς</title>
+<sub-title lang="en">Χτυποκάρδια στο Μπέβερλι Χιλς S01E09 The Gentle Art of Listening</sub-title>
+</programme>
+<programme start="20260928114534 +0300" stop="20260928123155 +0300" channel="classictv">
+<title lang="en">The X-Files</title>
+<sub-title lang="en">The X-Files S01E11 Eve</sub-title>
+</programme>
+<programme start="20260928123155 +0300" stop="20260928131733 +0300" channel="classictv">
+<title lang="en">The X-Files</title>
+<sub-title lang="en">The X-Files S01E12 Fire</sub-title>
+</programme>
+<programme start="20260928131733 +0300" stop="20260928140607 +0300" channel="classictv">
+<title lang="en">Ο Ιππότης της Ασφάλτου</title>
+<sub-title lang="en">Ο Ιππότης της Ασφάλτου - S01E08 - No Big Thing</sub-title>
+</programme>
+<programme start="20260928140607 +0300" stop="20260928145423 +0300" channel="classictv">
+<title lang="en">Ο Ιππότης της Ασφάλτου</title>
+<sub-title lang="en">Ο Ιππότης της Ασφάλτου - S01E09 - Trust Doesn't Rust</sub-title>
+</programme>
+<programme start="20260928145423 +0300" stop="20260928154251 +0300" channel="classictv">
+<title lang="en">Miami Vice</title>
+<sub-title lang="en">Miami Vice S01E05</sub-title>
+</programme>
+<programme start="20260928154251 +0300" stop="20260928162546 +0300" channel="classictv">
+<title lang="en">Ζήνα- H Πριγκίπισσα του Πολέμου</title>
+<sub-title lang="en">Ζήνα- H Πριγκίπισσα του Πολέμου S01E11</sub-title>
+</programme>
+<programme start="20260928162546 +0300" stop="20260928170847 +0300" channel="classictv">
+<title lang="en">Ζήνα- H Πριγκίπισσα του Πολέμου</title>
+<sub-title lang="en">Ζήνα- H Πριγκίπισσα του Πολέμου S01E12</sub-title>
+</programme>
+<programme start="20260928170847 +0300" stop="20260928173109 +0300" channel="classictv">
+<title lang="en">Τα Φιλαράκια</title>
+<sub-title lang="en">Τα Φιλαράκια S01E17</sub-title>
+</programme>
+<programme start="20260928173109 +0300" stop="20260928175331 +0300" channel="classictv">
+<title lang="en">Τα Φιλαράκια</title>
+<sub-title lang="en">Τα Φιλαράκια S01E18</sub-title>
+</programme>
+<programme start="20260928175331 +0300" stop="20260928181550 +0300" channel="classictv">
+<title lang="en">Τα Φιλαράκια</title>
+<sub-title lang="en">Τα Φιλαράκια S01E19</sub-title>
+</programme>
+<programme start="20260928181550 +0300" stop="20260928190417 +0300" channel="classictv">
+<title lang="en">Μαγκάιβερ</title>
+<sub-title lang="en">Μαγκάιβερ - S01E11</sub-title>
+</programme>
+<programme start="20260928190417 +0300" stop="20260928195158 +0300" channel="classictv">
+<title lang="en">Μαγκάιβερ</title>
+<sub-title lang="en">Μαγκάιβερ - S01E12</sub-title>
+</programme>
+<programme start="20260928195158 +0300" stop="20260928203644 +0300" channel="classictv">
+<title lang="en">Ηρακλής - The Legendary Journeys</title>
+<sub-title lang="en">Ηρακλής - The Legendary Journeys S01E09</sub-title>
+</programme>
+<programme start="20260928203644 +0300" stop="20260928212324 +0300" channel="classictv">
+<title lang="en">Μπέιγουοτς</title>
+<sub-title lang="en">Μπέιγουοτς S01E11</sub-title>
+</programme>
+<programme start="20260928212324 +0300" stop="20260928221036 +0300" channel="classictv">
+<title lang="en">Μπέιγουοτς</title>
+<sub-title lang="en">Μπέιγουοτς S01E12</sub-title>
+</programme>
+<programme start="20260928221036 +0300" stop="20260928225759 +0300" channel="classictv">
+<title lang="en">Χτυποκάρδια στο Μπέβερλι Χιλς</title>
+<sub-title lang="en">Χτυποκάρδια στο Μπέβερλι Χιλς S01E10 Isn't It Romantic</sub-title>
+</programme>
+<programme start="20260928225759 +0300" stop="20260928234525 +0300" channel="classictv">
+<title lang="en">Χτυποκάρδια στο Μπέβερλι Χιλς</title>
+<sub-title lang="en">Χτυποκάρδια στο Μπέβερλι Χιλς S01E11 B.Y.O.B.</sub-title>
+</programme>
+<programme start="20260928234525 +0300" stop="20260929003154 +0300" channel="classictv">
+<title lang="en">The X-Files</title>
+<sub-title lang="en">The X-Files S01E13 Beyond the Sea</sub-title>
+</programme>
+<programme start="20260929003154 +0300" stop="20260929011717 +0300" channel="classictv">
+<title lang="en">The X-Files</title>
+<sub-title lang="en">The X-Files S01E14 Gender Bender</sub-title>
+</programme>
+<programme start="20260929011717 +0300" stop="20260929020632 +0300" channel="classictv">
+<title lang="en">Ο Ιππότης της Ασφάλτου</title>
+<sub-title lang="en">Ο Ιππότης της Ασφάλτου - S01E10 - Inside Out</sub-title>
+</programme>
+<programme start="20260929020632 +0300" stop="20260929025602 +0300" channel="classictv">
+<title lang="en">Miami Vice</title>
+<sub-title lang="en">Miami Vice S01E06</sub-title>
+</programme>
+<programme start="20260929025602 +0300" stop="20260929033839 +0300" channel="classictv">
+<title lang="en">Ζήνα- H Πριγκίπισσα του Πολέμου</title>
+<sub-title lang="en">Ζήνα- H Πριγκίπισσα του Πολέμου S01E13</sub-title>
+</programme>
+<programme start="20260929033839 +0300" stop="20260929042139 +0300" channel="classictv">
+<title lang="en">Ζήνα- H Πριγκίπισσα του Πολέμου</title>
+<sub-title lang="en">Ζήνα- H Πριγκίπισσα του Πολέμου S01E14</sub-title>
+</programme>
+<programme start="20260929042139 +0300" stop="20260929044357 +0300" channel="classictv">
+<title lang="en">Τα Φιλαράκια</title>
+<sub-title lang="en">Τα Φιλαράκια S01E20</sub-title>
+</programme>
+<programme start="20260929044357 +0300" stop="20260929050618 +0300" channel="classictv">
+<title lang="en">Τα Φιλαράκια</title>
+<sub-title lang="en">Τα Φιλαράκια S01E21</sub-title>
+</programme>
+<programme start="20260929050618 +0300" stop="20260929052836 +0300" channel="classictv">
+<title lang="en">Τα Φιλαράκια</title>
+<sub-title lang="en">Τα Φιλαράκια S01E22</sub-title>
+</programme>
+<programme start="20260929052836 +0300" stop="20260929061700 +0300" channel="classictv">
+<title lang="en">Μαγκάιβερ</title>
+<sub-title lang="en">Μαγκάιβερ - S01E13</sub-title>
+</programme>
+<programme start="20260929061700 +0300" stop="20260929070430 +0300" channel="classictv">
+<title lang="en">Μαγκάιβερ</title>
+<sub-title lang="en">Μαγκάιβερ - S01E14</sub-title>
+</programme>
+<programme start="20260929070430 +0300" stop="20260929074914 +0300" channel="classictv">
+<title lang="en">Ηρακλής - The Legendary Journeys</title>
+<sub-title lang="en">Ηρακλής - The Legendary Journeys S01E10</sub-title>
+</programme>
+<programme start="20260929074914 +0300" stop="20260929083356 +0300" channel="classictv">
+<title lang="en">Ηρακλής - The Legendary Journeys</title>
+<sub-title lang="en">Ηρακλής - The Legendary Journeys S01E11</sub-title>
+</programme>
+<programme start="20260929083356 +0300" stop="20260929092105 +0300" channel="classictv">
+<title lang="en">Μπέιγουοτς</title>
+<sub-title lang="en">Μπέιγουοτς S01E13</sub-title>
+</programme>
+<programme start="20260929092105 +0300" stop="20260929100126 +0300" channel="classictv">
+<title lang="en">Μπέιγουοτς</title>
+<sub-title lang="en">Μπέιγουοτς S02E01</sub-title>
+</programme>
+<programme start="20260929100126 +0300" stop="20260929104821 +0300" channel="classictv">
+<title lang="en">Χτυποκάρδια στο Μπέβερλι Χιλς</title>
+<sub-title lang="en">Χτυποκάρδια στο Μπέβερλι Χιλς S01E12 One Man and a Baby</sub-title>
+</programme>
+<programme start="20260929104821 +0300" stop="20260929113532 +0300" channel="classictv">
+<title lang="en">Χτυποκάρδια στο Μπέβερλι Χιλς</title>
+<sub-title lang="en">Χτυποκάρδια στο Μπέβερλι Χιλς S01E13 Slumber Party</sub-title>
+</programme>
+<programme start="20260929113532 +0300" stop="20260929122158 +0300" channel="classictv">
+<title lang="en">The X-Files</title>
+<sub-title lang="en">The X-Files S01E15 Lazarus</sub-title>
+</programme>
+<programme start="20260929122158 +0300" stop="20260929130823 +0300" channel="classictv">
+<title lang="en">The X-Files</title>
+<sub-title lang="en">The X-Files S01E16 Young at Heart</sub-title>
+</programme>
+<programme start="20260929130823 +0300" stop="20260929135737 +0300" channel="classictv">
+<title lang="en">Ο Ιππότης της Ασφάλτου</title>
+<sub-title lang="en">Ο Ιππότης της Ασφάλτου - S01E11 - The Final Verdict</sub-title>
+</programme>
+<programme start="20260929135737 +0300" stop="20260929144651 +0300" channel="classictv">
+<title lang="en">Ο Ιππότης της Ασφάλτου</title>
+<sub-title lang="en">Ο Ιππότης της Ασφάλτου - S01E12 - A Plush Ride</sub-title>
+</programme>
+<programme start="20260929144651 +0300" stop="20260929153626 +0300" channel="classictv">
+<title lang="en">Miami Vice</title>
+<sub-title lang="en">Miami Vice S01E07</sub-title>
+</programme>
+<programme start="20260929153626 +0300" stop="20260929161931 +0300" channel="classictv">
+<title lang="en">Ζήνα- H Πριγκίπισσα του Πολέμου</title>
+<sub-title lang="en">Ζήνα- H Πριγκίπισσα του Πολέμου S01E15</sub-title>
+</programme>
+<programme start="20260929161931 +0300" stop="20260929170230 +0300" channel="classictv">
+<title lang="en">Ζήνα- H Πριγκίπισσα του Πολέμου</title>
+<sub-title lang="en">Ζήνα- H Πριγκίπισσα του Πολέμου S01E16</sub-title>
+</programme>
+<programme start="20260929170230 +0300" stop="20260929172448 +0300" channel="classictv">
+<title lang="en">Τα Φιλαράκια</title>
+<sub-title lang="en">Τα Φιλαράκια S01E23</sub-title>
+</programme>
+<programme start="20260929172448 +0300" stop="20260929174709 +0300" channel="classictv">
+<title lang="en">Τα Φιλαράκια</title>
+<sub-title lang="en">Τα Φιλαράκια S01E24</sub-title>
+</programme>
+<programme start="20260929174709 +0300" stop="20260929180934 +0300" channel="classictv">
+<title lang="en">Τα Φιλαράκια</title>
+<sub-title lang="en">Τα Φιλαράκια S02E01</sub-title>
+</programme>
+<programme start="20260929180934 +0300" stop="20260929185706 +0300" channel="classictv">
+<title lang="en">Μαγκάιβερ</title>
+<sub-title lang="en">Μαγκάιβερ - S01E15</sub-title>
+</programme>
+<programme start="20260929185706 +0300" stop="20260929194535 +0300" channel="classictv">
+<title lang="en">Μαγκάιβερ</title>
+<sub-title lang="en">Μαγκάιβερ - S01E16</sub-title>
+</programme>
+<programme start="20260929194535 +0300" stop="20260929203020 +0300" channel="classictv">
+<title lang="en">Ηρακλής - The Legendary Journeys</title>
+<sub-title lang="en">Ηρακλής - The Legendary Journeys S01E12</sub-title>
+</programme>
+<programme start="20260929203020 +0300" stop="20260929211039 +0300" channel="classictv">
+<title lang="en">Μπέιγουοτς</title>
+<sub-title lang="en">Μπέιγουοτς S02E02</sub-title>
+</programme>
+<programme start="20260929211039 +0300" stop="20260929215242 +0300" channel="classictv">
+<title lang="en">Μπέιγουοτς</title>
+<sub-title lang="en">Μπέιγουοτς S02E03</sub-title>
+</programme>
+<programme start="20260929215242 +0300" stop="20260929224007 +0300" channel="classictv">
+<title lang="en">Χτυποκάρδια στο Μπέβερλι Χιλς</title>
+<sub-title lang="en">Χτυποκάρδια στο Μπέβερλι Χιλς S01E14 East Side Story</sub-title>
+</programme>
+<programme start="20260929224007 +0300" stop="20260929232732 +0300" channel="classictv">
+<title lang="en">Χτυποκάρδια στο Μπέβερλι Χιλς</title>
+<sub-title lang="en">Χτυποκάρδια στο Μπέβερλι Χιλς S01E15 A Fling in Palm Springs (a.k.a. Palm Springs Weekend)</sub-title>
+</programme>
+<programme start="20260929232732 +0300" stop="20260930001257 +0300" channel="classictv">
+<title lang="en">The X-Files</title>
+<sub-title lang="en">The X-Files S01E17 E B E</sub-title>
 </programme>
 </tv>
