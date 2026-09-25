@@ -798,7 +798,7 @@ https://www.antenna.gr/shows|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-logo="hub://logseries/ant1/ant1.png" ,ANT1+  ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://watch.antennaplus.gr/browse/series|webvod zoom=100 scroll=0,0
 
-#EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Ant1/krinokaiagkathi" tvg-logo="hub://logseries/ant1/krinokaiagkathi.png" ,Κρίνο & Αγκάθι (2026)
+#EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Ant1/krinokaiagkathi" tvg-logo="hub://logseries/ant1/krinokaiagkathi.jpg" ,Κρίνο & Αγκάθι (2026)
 SERIES$$hub://gvrod/ant1/sires/krinokaiagkathi.txt
 #EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Ant1/nterti" tvg-logo="hub://logseries/ant1/Nterti.png" ,Ντέρτι (2026)
 SERIES$$hub://gvrod/ant1/sires/nterti.txt
