@@ -64,6 +64,8 @@ https://www.youtube.com/@euronews/live
 sec:ch25
 #EXTINF:-1 group-title="WEBTV" tvg-id="greekclassic" tvg-logo="hub://logs/greek_mov.png" ,Ελληνοκλασσικό
 sec:ch24
+#EXTINF:-1 group-title="WEBTV" tvg-id="classictv" tvg-logo="hub://logs/classic_tv.png" ,Classic TV
+sec:ch23
 #EXTINF:-1 group-title="WEBTV"  tvg-logo="hub://logs/faroscy.png" tvg-website="https://www.farosonair.com/" ,ΦΑΡΟΣ on Air
 https://s1.cystream.net/live/faros1/chunks.m3u8
 #EXTINF:-1 group-title="WEBTV"  tvg-logo="hub://logs/faroscy.png" tvg-website="https://www.farosonair.com/" ,ΦΑΡΟΣ on Air2

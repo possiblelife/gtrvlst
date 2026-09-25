@@ -51,6 +51,9 @@
   <channel id="greekclassic">
     <display-name lang="el">Ελληνοκλασσικό</display-name>
   </channel>
+  <channel id="classictv">
+    <display-name lang="el">Classic TV</display-name>
+  </channel>
   <programme start="20260925032000 +0000" stop="20260925041000 +0000" channel="ANT1">
     <title lang="el">ΔΙΔΥΜΑ ΦΕΓΓΑΡΙΑ II (E)</title>
     <desc lang="el">Ο Παύλος Ταξόπουλος,γιορτάζει σπίτι του το ρεβεγιόν των Χριστουγέννων με όλη την οικογένεια. Λίγο μετά αποφασίζει να περάσει την περιουσία του στην κόρη του, Αγάπη.
@@ -8865,5 +8868,8 @@ o ΡΙΚ, σε συνεργασία με τους Travel Bloggers, Στο Νησ
 </programme>
 <programme start="20260929105359 +0300" stop="20260929122413 +0300" channel="greekclassic">
 <title lang="en">ΤΡΟΧΟΝΟΜΟΣ ΒΑΡΒΑΡΑ (1981)</title>
+</programme>
+<programme start="20260925005359 +0300" stop="20260926001500 +0300" channel="classictv">
+<title lang="en">Έναρξη Σαββάτο 12:00ΠΜ</title>
 </programme>
 </tv>
