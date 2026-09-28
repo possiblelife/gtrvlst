@@ -8,11 +8,8 @@ https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
 https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΠΡΟΣΟΧΗ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,για να συνεχίσετε να την απολαμβάνετε.
 https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΠΡΟΣΟΧΗ" tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Κινητά τηλέφωνα, τάμπλετ, Αndroid TV αναβαθμίστε από το play store.
-https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΠΡΟΣΟΧΗ" tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Huawei κινητά τηλέφωνα και τάμπλετ αναβαθμίστε από το appGallery
-https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΠΡΟΣΟΧΗ" tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Για amazon Firesticks,Firecubes, Αndroid TV αναβαθμίστε από τον πιο κάτω σύνδεσμο
+#EXTINF:-1 group-title="ΠΡΟΣΟΧΗ" tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Κινητά τηλέφωνα, τάμπλετ
+αναβαθμίστε από το play store.
 https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΠΡΟΣΟΧΗ" tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , https://bit.ly/grtvradio
 https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
