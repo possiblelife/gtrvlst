@@ -1,94 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-7JUwN0afLAI/WLsjPYSr6-I/AAAAAAAAAK4/rpoB9AuvPT4lb-Yn4_KV_ASHHSgjhTmhQCLcB/s1600/cyprus.png" ,===ΤΗΛΕΟΡΑΣΗ===
-https://4.bp.blogspot.com/-7JUwN0afLAI/WLsjPYSr6-I/AAAAAAAAAK4/rpoB9AuvPT4lb-Yn4_KV_ASHHSgjhTmhQCLcB/s1600/cyprus.png|webepg zoom=100 scroll=0,0
- 
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="riksat" tvg-name="ΡΙΚ SAT" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/new_rik-sat-logo.original.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ SAT
-https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="riksat" tvg-name="ΡΙΚ SAT" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/new_rik-sat-logo.original.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ SAT - ΕΝΑΛΛΑΚΤΙΚΟ
-https://tv.rik.cy/live-tv/rik-sat/|webdig
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik1" tvg-name="ΡΙΚ1" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/rik-tv-1.original.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ1
-http://l6.cloudskep.com/rikct/rik1/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik1" tvg-name="ΡΙΚ1" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/rik-tv-1.original.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ1 - ΕΝΑΛΛΑΚΤΙΚΟ
-https://tv.rik.cy/live-tv/rik-1/|webdig
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik1" tvg-name="ΡΙΚ1" tvg-logo="hub://logs/rik1.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ1 (vip)
-https://i.ibb.co/4RN0Rc5v/update.png|webview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik1" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/rik-tv-1.original.png" tvg-name="ΡΙΚ1" tvg-website="http://cybc.com.cy/" ,ΡΙΚ1 (2)
-http://31.121.110.30:4000/play/a023/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik2" tvg-name="ΡΙΚ2" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/rik-tv-2.original.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ2
-http://l6.cloudskep.com/rikct/rik2/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik2" tvg-name="ΡΙΚ2" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/rik-tv-2.original.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ2 - ΕΝΑΛΛΑΚΤΙΚΟ
-https://tv.rik.cy/live-tv/rik-2/|webdig
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik2" tvg-name="ΡΙΚ2" tvg-logo="hub://logs/rik2.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ2 (vip)
-https://i.ibb.co/4RN0Rc5v/update.png|webview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="RIK HD" tvg-name="ΡΙΚHD" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/new_rik-hd-logo.original.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚHD
-http://l6.cloudskep.com/rikct/rikhd/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="RIK HD" tvg-name="ΡΙΚHD" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/new_rik-hd-logo.original.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚHD -ΕΝΑΛΛΑΚΤΙΚΟ
-https://tv.rik.cy/live-tv/rik-hd/|webdig
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Mega" tvg-name="OMEGA" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" tvg-website="http://www.omegatv.com.cy/" ,OMEGA
-http://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Mega" tvg-name="OMEGA" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" tvg-website="http://www.omegatv.com.cy/" ,OMEGA - ΕΝΑΛΛΑΚΤΙΚΟ
-https://www.omegatv.com.cy/live/|weballdig
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Mega" tvg-name="OMEGA" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" tvg-website="http://www.omegatv.com.cy/" ,OMEGA (vip)
-https://i.ibb.co/4RN0Rc5v/update.png|webview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Sigma" tvg-name="SIGMA" tvg-logo="http://i.imgur.com/BMvgdlc.png" tvg-website="https://www.sigmatv.com/home" ,SIGMA
-https://ottstream.iptv.prime-tel.net/streaming-web/SigmaLive/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Sigma" tvg-name="SIGMA" tvg-logo="http://i.imgur.com/BMvgdlc.png" tvg-website="https://www.sigmatv.com/home" ,SIGMA (vip)
-https://i.ibb.co/4RN0Rc5v/update.png|webview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="Alpha Cyprus" tvg-name="ALPHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" tvg-website="https://www.alphacyprus.com.cy/" ,ALPHA
-https://www.alphacyprus.com.cy/live|weballdig
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="Alpha Cyprus" tvg-name="ALPHA" tvg-logo="hub://logs/Alpha_Cyprus.png" tvg-website="https://www.alphacyprus.com.cy/" ,ALPHA (1)
-https://vid1.smartscreen-data.com/AlphaCY/AlphaCY/manifest.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/690.96 (KHTML, like Gecko) Chrome/179.0.1506.188 Safari/690.96
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="ANT1" tvg-name="ANT1" tvg-logo="https://goo.gl/q5aDRg" tvg-website="https://www.ant1live.com/" ,ANT1
-https://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="ANT1" tvg-name="ANT1" tvg-logo="https://goo.gl/q5aDRg" tvg-website="https://www.ant1live.com/" ,ANT1 - ΕΝΑΛΛΑΚΤΙΚΗ
-https://www.ant1live.com/webtv/live|webdelayalldig
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="ANT1" tvg-name="ANT1" tvg-logo="https://goo.gl/q5aDRg" tvg-website="https://www.ant1live.com/" ,ANT1 (vip)
-https://i.ibb.co/4RN0Rc5v/update.png|webview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Berginacy" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fa28f343-2082-41e1-aa2d-2d7fbe1c7552-profile_image-300x300.png" tvg-name="ΒΕΡΓΙΝΑ ΤV" tvg-website="https://verginatv.cy/" ,ΒΕΡΓΙΝΑ ΤV
-https://verginanews.gr:8443/hls_live/stream2.m3u8
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Extra TV" tvg-logo="hub://logs/ONE-CY.png" ,ONE Channel CY (vip)
-https://i.ibb.co/4RN0Rc5v/update.png|webview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Capital" tvg-logo="hub://logs/capital.png" ,CAPITAL (vip)
-https://i.ibb.co/4RN0Rc5v/update.png|webview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-id="Plus TV" tvg-logo="hub://logs/plus.png" ,Plus (vip)
-https://i.ibb.co/4RN0Rc5v/update.png|webview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="smile" tvg-logo="hub://logs/smile.png" ,Smile (vip)
-https://i.ibb.co/4RN0Rc5v/update.png|webview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="ert" tvg-logo="https://goo.gl/DLhMC3"  tvg-name="Eρτ WORLD" tvg-website="https://www.ertflix.gr" ,Eρτ WORLD
-https://ertflix-ertworld.siliconweb.com/mpegts/618618_3479286/media_mpegts_0.m3u8
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="ert" tvg-logo="https://goo.gl/DLhMC3"  tvg-name="Eρτ WORLD" tvg-website="https://www.ertflix.gr" ,Eρτ WORLD (2)
-http://hbbtvapp.ert.gr/stream.php/v/vid_ertworld_mpeg.2ts
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="ert" tvg-logo="https://goo.gl/DLhMC3"  tvg-name="Eρτ WORLD" tvg-website="https://www.ertflix.gr" ,Eρτ WORLD (3)
-https://cdn3.smart-tv-data.com/vid/ertworld/manifest.mpd
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="Euronews" tvg-logo="https://goo.gl/QMXKek"  tvg-website="https://gr.euronews.com/" ,Euronews GR
-https://www.youtube.com/watch?v=uWIhV9gQClg
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="Euronews" tvg-logo="https://goo.gl/QMXKek"  tvg-website="https://gr.euronews.com/" ,Euronews EN
-https://www.youtube.com/@euronews/live
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://anacon.org/app/img/faroscy.jpg" tvg-website="https://www.farosonair.com/" ,ΦΑΡΟΣ on Air
-https://s1.cystream.net/live/faros1/chunks.m3u8
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://anacon.org/app/img/faroscy.jpg" tvg-website="https://www.farosonair.com/" ,ΦΑΡΟΣ on Air2
-https://s1.cystream.net/live/faros2/chunks.m3u8
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://alfasports.tv/wp-content/uploads/2017/07/19650478_10213391687526137_730682022_o.png" tvg-website="https://alfasports.tv/" ,Alfa Sports TV
-https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&Referer=https://dev.aftermind.xyz/alfa_sports.html
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="http://citychannel.live/wp-content/uploads/2019/08/cropped-53146093_327305117905839_3890747505498914816_n.png" tvg-website="https://citychannel.live/" ,City Channel
-https://dev.aftermind.xyz/hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jrzqEqx|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&Referer=https://dev.aftermind.xyz/city_channel.html
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="http://vouli.tv/wp-content/uploads/2019/09/cropped-voulilogo-e1517760078658.png" tvg-website="https://vouli.tv/" ,Vouli.tv
-https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&Referer=https://dev.aftermind.xyz/vouli.html
-#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,=====   ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ    ====
-http://.....
-#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,ΡΙΚSAT/ΡΙΚ1/ΡΙΚ2 (Τηλεοπτικό Πρόγραμμα)
-https://tv.rik.cy/schedule/|webepg zoom=100 scroll=0,100
-#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,OMEGA (Τηλεοπτικό Πρόγραμμα)
-http://www.megatv.com.cy/cgibin/hweb?-V=tvprogram&_FAA=1&-dtvprogramtod.html|webepg zoom=260 scroll=0,100
-#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,ΣΙΓΜΑ (Τηλεοπτικό Πρόγραμμα)
-http://www.sigmatv.com/schedule|webepg zoom=100 scroll=0,100
-#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,ΑΛΦΑ (Τηλεοπτικό Πρόγραμμα)
-http://www.alphacyprus.com.cy/program|webepg zoom=100 scroll=0,100
-#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,ΑΝΤΕΝΝΑ (Τηλεοπτικό Πρόγραμμα)
-https://www.antenna.gr/tvguide|webepg zoom=100 scroll=0,100
-#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,CYTA (Τηλεοπτικό Πρόγραμμα)
-https://epg.cyta.com.cy/tv-guide/el|webepg zoom=100 scroll=0,100
-#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,CABLENET (Τηλεοπτικό Πρόγραμμα)
-https://cablenet.com.cy/en/tv/tv-guide/|webepg zoom=100 scroll=0,100
-#EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,Primetel (Τηλεοπτικό Πρόγραμμα)
-https://primetel.com.cy/view-the-guide-el|webepg zoom=100 scroll=0,100
+
+#EXTINF:-1 group-title="ΠΡΟΣΟΧΗ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" , ΠΡΟΣΟΧΗ!!!!!!!!!!
+https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΠΡΟΣΟΧΗ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" , Αυτή η έκδοση έχει λήξη.
+https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΠΡΟΣΟΧΗ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αναβαθμίσετε την εφαρμογή στην έκδοση 4.60+
+https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΠΡΟΣΟΧΗ" tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,για να συνεχίσετε να την απολαμβάνετε.
+https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΠΡΟΣΟΧΗ" tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Κινητά τηλέφωνα, τάμπλετ, Αndroid TV αναβαθμίστε από το play store.
+https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΠΡΟΣΟΧΗ" tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Huawei κινητά τηλέφωνα και τάμπλετ αναβαθμίστε από το appGallery
+https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΠΡΟΣΟΧΗ" tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Για amazon Firesticks,Firecubes, Αndroid TV αναβαθμίστε από τον πιο κάτω σύνδεσμο
+https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΠΡΟΣΟΧΗ" tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , https://bit.ly/grtvradio
+https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
