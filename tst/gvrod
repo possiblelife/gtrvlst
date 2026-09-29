@@ -1,8 +1,10 @@
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="hub://logs/Alpha_TV.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.alphatv.gr/web-tv/|webvod zoom=100 scroll=0,0
 
-#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-logo="hub://logseries/alpha/Φόνοιστοκαμπαναριό2023.jpg" tvg-website="https://www.alphatv.gr/show/fonoi-sto-kabanario/" tvg-description="hub://desc/Alpha/Φόνοι.στο.καμπαναριό.(2023)" ,ΦΟΝΟΙ ΣΤΟ ΚΑΜΠΑΝΑΡΙΟ (Aphatv μόνο) (2026)
+#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-logo="hub://logseries/alpha/Φόνοιστοκαμπαναριό2023.jpg" tvg-website="https://www.alphatv.gr/show/fonoi-sto-kabanario/" tvg-description="hub://desc/Alpha/Φόνοι.στο.καμπαναριό.(2023)" ,ΦΟΝΟΙ ΣΤΟ ΚΑΜΠΑΝΑΡΙΟ (Aphatv μόνο) (2023/2026)
 SERIES$$hub://gvrod/alpha/sires/fonoi-sto-kabanario.txt
+#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-logo="hub://logseries/alpha/Φόνοιστοκαμπαναριό2023.jpg" tvg-website="https://www.alphatv.gr/show/fonoi-sto-kabanario/" tvg-description="hub://desc/Alpha/Φόνοι.στο.καμπαναριό.(2023)" ,ΦΟΝΟΙ ΣΤΟ ΚΑΜΠΑΝΑΡΙΟ (2023/2026)
+SERIES$$hub://gvrod/alpha/sires/Φόνοι.στο.καμπαναριό.(2023)
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-logo="hub://logseries/alpha/Μπαμπάσαγαπώ2026.jpg" tvg-description="hub://desc/Alpha/Μπαμπά.σ.αγαπώ.(2026)" ,Μπαμπά, σ' αγαπώ (Aphatv μόνο) (2026)
 SERIES$$hub://gvrod/alpha/sires/baba-sagapo.txt
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-logo="hub://logseries/alpha/Μπαμπάσαγαπώ2026.jpg" tvg-description="hub://desc/Alpha/Μπαμπά.σ.αγαπώ.(2026)" ,Μπαμπά, σ' αγαπώ (2026)
@@ -59,8 +61,7 @@ SERIES$$hub://gvrod/alpha/sires_arxio/Το.προξενιό.της.Ιουλία�
 SERIES$$hub://gvrod/alpha/sires_arxio/Ο.σκαραβαίος.(2024)
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="κοινωνική" tvg-logo="hub://logseries/alpha/Ψέματα2022.jpg" tvg-website="https://www.alphatv.gr/show/psemata/" tvg-description="hub://desc/Alpha/Ψέματα.(2022)" ,ΨΕΜΑΤΑ (2022)
 SERIES$$hub://gvrod/alpha/sires_arxio/Ψέματα.(2022)
-#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-logo="hub://logseries/alpha/Φόνοιστοκαμπαναριό2023.jpg" tvg-website="https://www.alphatv.gr/show/fonoi-sto-kabanario/" tvg-description="hub://desc/Alpha/Φόνοι.στο.καμπαναριό.(2023)" ,ΦΟΝΟΙ ΣΤΟ ΚΑΜΠΑΝΑΡΙΟ (2023)
-SERIES$$hub://gvrod/alpha/sires_arxio/Φόνοι.στο.καμπαναριό.(2023)
+
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-logo="hub://logseries/alpha/Αυτήηνύχταμένει2022.jpg" tvg-website="https://www.alphatv.gr/show/auti-i-nuhta-menei/" tvg-description="hub://desc/Alpha/Αυτή.η.νύχτα.μένει.(2022-2023)" ,ΑΥΤΗ Η ΝΥΧΤΑ ΜΕΝΕΙ (2022-2023)
 SERIES$$hub://gvrod/alpha/sires_arxio/Αυτή.η.νύχτα.μένει.(2022-2023)
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-logo="hub://logseries/alpha/Τανεοκλασικά2022.jpg" tvg-website="https://www.alphatv.gr/show/ta-neoklasika"  tvg-description="hub://desc/Alpha/Τα.νεοκλασικά.(2022-2023)" ,ΤΑ ΝΕΟΚΛΑΣΙΚΑ (2022-2023)
@@ -265,8 +266,12 @@ https://www.skaitv.gr/shows/seires|webvod zoom=100 scroll=0,0
 
 #EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-genre="ρομαντική, κοινωνική" tvg-description="hub://desc/Skai/antonios-kleopatra" tvg-logo="hub://logseries/skai/antonios_kleopatra.jpg" tvg-website="https://www.skai.gr/tv/show/seires/antonios-kleopatra/sezon-2026-2027" ,Αντώνιος & Κλεοπάτρα (SKAItv μόνο)(2026-2027)
 SERIES$$hub://gvrod/skai/sires/antonios-kleopatra.txt
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-genre="ρομαντική, κοινωνική" tvg-description="hub://desc/Skai/antonios-kleopatra" tvg-logo="hub://logseries/skai/antonios_kleopatra.jpg" tvg-website="https://www.skai.gr/tv/show/seires/antonios-kleopatra/sezon-2026-2027" ,Αντώνιος & Κλεοπάτρα (2026-2027)
+SERIES$$hub://gvrod/skai/sires/antonios-kleopatra.2026
 #EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Skai/mple-ores" tvg-logo="hub://logseries/skai/ble_wres_landscape1.jpg" tvg-website="https://www.skai.gr/tv/show/seires/mple-ores/sezon-2026-2027" ,Μπλε Ώρες (SKAItv μόνο)(2026-2027)
 SERIES$$hub://gvrod/skai/sires/mple-ores.txt
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Skai/mple-ores" tvg-logo="hub://logseries/skai/ble_wres_landscape1.jpg" tvg-website="https://www.skai.gr/tv/show/seires/mple-ores/sezon-2026-2027" ,Μπλε Ώρες (2026-2027)
+SERIES$$hub://gvrod/skai/sires/mple-ores.2026
 #EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Skai/nomoi-tis-kardias" tvg-logo="hub://logseries/skai/nomoi_kardias.jpg" tvg-website="https://www.skai.gr/tv/show/seires/nomoi-tis-kardias/sezon-2025-2026" ,Νόμοι της Καρδιάς (SKAItv μόνο)(2025-2026)
 SERIES$$hub://gvrod/skai/sires/nomoi-tis-kardias.txt
 #EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Skai/tote-vs-tora" tvg-logo="hub://logseries/skai/tote_kai_twra_landscape.jpg" tvg-website="https://www.skai.gr/tv/show/seires/tote-vs-tora/sezon-2025-2026" ,Τότε και Τώρα (SKAItv μόνο)(2025-2026)
@@ -364,8 +369,12 @@ https://www.megatv.com/shows|webvod zoom=100 scroll=0,0
 
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Mega/dyo-mayra-poukamisa" tvg-logo="hub://logseries/mega/2mavrapoukamisa.png" ,Δυο Μαυρα Πουκαμισα (Megatv μόνο) (2026)
 SERIES$$hub://gvrod/mega/sires/dyo-mayra-poukamisa.txt
+#EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Mega/dyo-mayra-poukamisa" tvg-logo="hub://logseries/mega/2mavrapoukamisa.png" ,Δυο Μαυρα Πουκαμισα (2026)
+SERIES$$hub://gvrod/mega/sires/dyo-mayra-poukamisa.2026
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Mega/kampingk" tvg-logo="hub://logseries/mega/Camping.png" ,Κάμπινγκ (Megatv μόνο) (2026)
 SERIES$$hub://gvrod/mega/sires/kampingk.txt
+#EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Mega/kampingk" tvg-logo="hub://logseries/mega/Camping.png" ,Κάμπινγκ (2026)
+SERIES$$hub://gvrod/mega/sires/kampingk.2026
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-genre="κωμωδία, οικογενειακή" tvg-description="hub://desc/Mega/Έχω.παιδιά.(2024-2025)" tvg-logo="hub://logseries/mega/Έχωπαιδιά2024.jpg" ,Έχω παιδιά (Megatv μόνο) (2024-2026)
 SERIES$$hub://gvrod/mega/sires/exo-paidia.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ" tvg-genre="κωμωδία, οικογενειακή" tvg-description="hub://desc/Mega/Έχω.παιδιά.(2024-2025)" tvg-logo="hub://logseries/mega/Έχωπαιδιά2024.jpg" ,Έχω παιδιά (2024-2026)
@@ -798,10 +807,12 @@ https://www.antenna.gr/shows|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-logo="hub://logseries/ant1/ant1.png" ,ANT1+  ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://watch.antennaplus.gr/browse/series|webvod zoom=100 scroll=0,0
 
-#EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Ant1/krinokaiagkathi" tvg-logo="hub://logseries/ant1/krinokaiagkathi.jpg" ,Κρίνο & Αγκάθι (2026)
+#EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Ant1/krinokaiagkathi" tvg-logo="hub://logseries/ant1/krinokaiagkathi.jpg" ,Κρίνο & Αγκάθι (Ant1 μόνο) (2026)
 SERIES$$hub://gvrod/ant1/sires/krinokaiagkathi.txt
-#EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Ant1/nterti" tvg-logo="hub://logseries/ant1/Nterti.png" ,Ντέρτι (2026)
+#EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Ant1/nterti" tvg-logo="hub://logseries/ant1/Nterti.png" ,Ντέρτι (Ant1 μόνο) (2026)
 SERIES$$hub://gvrod/ant1/sires/nterti.txt
+#EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Ant1/nterti" tvg-logo="hub://logseries/ant1/Nterti.png" ,Ντέρτι (2026)
+SERIES$$hub://gvrod/ant1/sires/nterti.2026
 #EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Ant1/Σούπερ.ήρωες.(2026)" tvg-logo="hub://logseries/ant1/Σούπερήρωες2026.jpg" ,Σούπερ ήρωες (2026)
 SERIES$$hub://gvrod/ant1/sires_arxio/Σούπερ.ήρωες.(2026)
 #EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Ant1/Ο.δικαστής.(2025)" tvg-logo="hub://logseries/ant1/Οδικαστής2025.jpg" ,Ο δικαστής (2025)
