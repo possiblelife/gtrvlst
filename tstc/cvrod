@@ -117,11 +117,13 @@ http://.....
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-logo="hub://logs/Alpha_Cyprus.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.alphacyprus.com.cy/shows/ellinikes-seires|webvod zoom=100 scroll=0,0
 
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-genre="δράμα" tvg-logo="hub://logseries/alpha/PortoLeone2025.jpg" tvg-description="hub://desc/Alpha/porto.leone.(2025)" ,Porto Leone – Στη γειτονιά με τα κόκκινα φανάρια (2025)
+#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Alpha/Φόνοι.στο.καμπαναριό.(2023)" tvg-logo="hub://logseries/alphacy/fonoi-1_0.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/fonoistokabanario/webtv" ,ΦΟΝΟΙ ΣΤΟ ΚΑΜΠΑΝΑΡΙΟ (2023/2026)
+SERIES$$hub://cvyod/alpha/sires/fonoistokabanario.txt
+#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-logo="hub://logseries/alpha/PortoLeone2025.jpg" tvg-description="hub://desc/Alpha/porto.leone.(2025)" ,Porto Leone – Στη γειτονιά με τα κόκκινα φανάρια (2025)
 SERIES$$hub://cvyod/alpha/sires/portoleone.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-genre="κωμωδία" tvg-logo="hub://logseries/alpha/Μπαμπάσαγαπώ2026.jpg" tvg-description="hub://desc/Alpha/Μπαμπά.σ.αγαπώ.(2026)" ,Μπαμπά, σ' αγαπώ (2026)
+#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-logo="hub://logseries/alpha/Μπαμπάσαγαπώ2026.jpg" tvg-description="hub://desc/Alpha/Μπαμπά.σ.αγαπώ.(2026)" ,Μπαμπά, σ' αγαπώ (2026)
 SERIES$$hub://cvyod/alpha/sires/mpampasagapo.txt
-#EXTINF:-1 group-title="ALPHA ΚΥΠΡΟΥ" tvg-genre="κωμωδία, οικογενειακή" tvg-description="hub://desc/Mega/Έχω.παιδιά.(2024-2025)" tvg-logo="hub://logseries/mega/Έχωπαιδιά2024.jpg" ,Έχω παιδιά (2024-2026)
+#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="κωμωδία, οικογενειακή" tvg-description="hub://desc/Mega/Έχω.παιδιά.(2024-2025)" tvg-logo="hub://logseries/mega/Έχωπαιδιά2024.jpg" ,Έχω παιδιά (2024-2026)
 SERIES$$hub://cvyod/alpha/sires/exwpaidia.txt
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Alpha/Το.σόι.σου.(2014-2019)" tvg-logo="hub://logseries/alphacy/to_soi_soy_2_3.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/tosoisou/webtv" ,ΤΟ ΣΟΪ ΣΟΥ (2014-2019)
 SERIES$$hub://cvyod/alpha/sires/tosoisou.txt
@@ -165,8 +167,6 @@ SERIES$$hub://cvyod/alpha/sires_arxio/toproxeniotisioulias.txt
 SERIES$$hub://cvyod/alpha/sires_arxio/skaravaios.txt
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Alpha/Μην.αρχίζεις.τη.μουρμούρα.(2013-2024)" tvg-logo="hub://logseries/alphacy/murmura-2_0.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/mourmoura/webtv" ,ΜΗΝ ΑΡΧΙΖΕΙΣ ΤΗ ΜΟΥΡΜΟΥΡΑ (2013-2024)
 SERIES$$hub://cvyod/alpha/sires_arxio/mourmoura.txt
-#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Alpha/Φόνοι.στο.καμπαναριό.(2023)" tvg-logo="hub://logseries/alphacy/fonoi-1_0.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/fonoistokabanario/webtv" ,ΦΟΝΟΙ ΣΤΟ ΚΑΜΠΑΝΑΡΙΟ (2023)
-SERIES$$hub://cvyod/alpha/sires_arxio/fonoistokabanario.txt
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="δράμα, έγκλημα" tvg-description="hub://desc/Alphacy/Κάρμα.(2018-2023)" tvg-logo="hub://logseries/alphacy/karma revised.png" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/karma/webtv" ,ΚΑΡΜΑ (2018-2023)
 SERIES$$hub://cvyod/alpha/sires_arxio/karma.txt
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Alpha/Αυτή.η.νύχτα.μένει.(2022-2023)" tvg-logo="hub://logseries/alphacy/nyxta.jpg" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/nyxta/webtv" ,ΑΥΤΗ Η ΝΥΧΤΑ ΜΕΝΕΙ (2022-2023)
