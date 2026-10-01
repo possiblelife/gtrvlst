@@ -4220,3 +4220,7 @@ https://www.sigmatv.com/shows/meshmeri-kai-kati/episodes/47056|webvidfulldig
 https://www.sigmatv.com/shows/meshmeri-kai-kati/episodes/47028|webvidfulldig
 #EXTINF:-1 group-title="2026/27",Μεσημέρι 28.09.26
 https://www.sigmatv.com/shows/meshmeri-kai-kati/episodes/47037|webvidfulldig
+#EXTINF:-1 group-title="2026/27",Μεσημέρι 29.09.26
+https://www.sigmatv.com/shows/meshmeri-kai-kati/episodes/47040|webvidfulldig
+#EXTINF:-1 group-title="2026/27",Μεσημέρι 30.09.26
+https://www.sigmatv.com/shows/meshmeri-kai-kati/episodes/47043|webvidfulldig

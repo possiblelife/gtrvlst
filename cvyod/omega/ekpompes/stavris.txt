@@ -532,3 +532,5 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=224591&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=224685&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 7",Σεζόν 07 Επεισόδιο 001 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - CUP CAKES ΜΗΛΟΥ, ΚΡΙΘΑΡΑΚΙ ΜΕ ΚΙΜΑ,ΚΡΙΘΑΡΑΚΙ ΜΕ ΚΙΜΑ
 https://www.omegatv.com.cy/cgibin/hweb?-A=225679&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 7",Σεζόν 07 Επεισόδιο 002 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - BRUSCHETTA,ΨΑΡΟΝΕΦΡΙ ΜΕ ΜΟΥΣΤΑΡΔΑ ΚΑΙ ΜΑΝΙΤΑΡΙΑ, ΣΥΚΟΠΙΤΑ
+https://www.omegatv.com.cy/cgibin/hweb?-A=225907&-V=vod|webfulldig
