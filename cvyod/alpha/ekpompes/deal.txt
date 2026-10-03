@@ -3352,3 +3352,9 @@ https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv/250926|webvidfulld
 https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv/280926|webvidfulldig
 #EXTINF:-1 group-title="Season 9",29/09/26
 https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv/290926|webvidfulldig
+#EXTINF:-1 group-title="Season 9",01/10/26
+https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv/011026|webvidfulldig
+#EXTINF:-1 group-title="Season 9",02/10/26
+https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv/021026|webvidfulldig
+#EXTINF:-1 group-title="Season 9",02/10/26
+https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv/021026-0|webvidfulldig
