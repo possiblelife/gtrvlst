@@ -294,6 +294,125 @@
   <channel id="classictv">
     <display-name lang="el">Classic TV</display-name>
   </channel>
+
+  <channel id="sportfm1">
+    <display-name lang="el">sportfm1</display-name>
+  </channel>
+  <channel id="sportfm2">
+    <display-name lang="el">sportfm2</display-name>
+  </channel>
+  <programme start="20261003 +0000" stop="20261003 +0000" channel="sportfm1">
+    <title lang="el">Κολοσσός Ρόδου – Δόξα Λευκάδας</title>
+    <desc lang="el">GBL MD1</desc>
+  </programme>
+  <programme start="20261003 +0000" stop="20261003 +0000" channel="sportfm1">
+    <title lang="el">Ηρακλής – Ατρόμητος</title>
+    <desc lang="el">Super League MD4</desc>
+  </programme>
+  <programme start="20261004 +0000" stop="20261004 +0000" channel="sportfm1">
+    <title lang="el">Προμηθέας Πατρών – Περιστέρι Betsson</title>
+    <desc lang="el">GBL MD1</desc>
+  </programme>
+  <programme start="20261004 +0000" stop="20261004 +0000" channel="sportfm1">
+    <title lang="el">Παναθηναϊκός – Ραπίντ Βιέννης</title>
+    <desc lang="el">Φιλικό Προετοιμασίας</desc>
+  </programme>
+  <programme start="20261004 +0000" stop="20261004 +0000" channel="sportfm1">
+    <title lang="el">ΑΡΗΣ – ΜΥΚΟΝΟΣ</title>
+    <desc lang="el">Μαυροσκούφεια</desc>
+  </programme>
+  <programme start="20261004 +0000" stop="20261004 +0000" channel="sportfm1">
+    <title lang="el">Παναθηναϊκός – Γκρασχόπερ</title>
+    <desc lang="el">Φιλικό Προετοιμασίας</desc>
+  </programme>
+  <programme start="20261004 +0000" stop="20261004 +0000" channel="sportfm1">
+    <title lang="el">Ολυμπιακός – Ερυθρός Αστέρας</title>
+    <desc lang="el">Τουρνουά Χανδριώτης (Κύπρος)</desc>
+  </programme>
+  <programme start="20261004 +0000" stop="20261004 +0000" channel="sportfm1">
+    <title lang="el">Παναθηναϊκός AKTOR – Βίκος Ιωαννίνων (LIVE)</title>
+    <desc lang="el">Stoiximan GBL · 1η αγωνιστική · Κυριακή 4/10, 13:00 · Ζωντανά</desc>
+  </programme>
+  <programme start="20261004 +0000" stop="20261004 +0000" channel="sportfm1">
+    <title lang="el">Παναθηναϊκός AKTOR – Βίκος Ιωαννίνων POST GAME (LIVE)</title>
+    <desc lang="el">SHOW</desc>
+  </programme>
+  <programme start="20261004 +0000" stop="20261004 +0000" channel="sportfm1">
+    <title lang="el">SPORT FM TV 1</title>
+    <desc lang="el">COMING SOON</desc>
+  </programme>
+  <programme start="20261004 +0000" stop="20261004 +0000" channel="sportfm1">
+    <title lang="el">Ηρακλής – Ολυμπιακός (LIVE)</title>
+    <desc lang="el">Stoiximan GBL · 1η αγωνιστική · Κυριακή 4/10, 17:30 · Ζωντανά</desc>
+  </programme>
+  <programme start="20261004 +0000" stop="20261004 +0000" channel="sportfm1">
+    <title lang="el">Ηρακλής – Ολυμπιακός POST GAME (LIVE)</title>
+    <desc lang="el">SHOW</desc>
+  </programme>
+  <programme start="20261004 +0000" stop="20261004 +0000" channel="sportfm1">
+    <title lang="el">Παναθηναϊκός – Παναιτωλικός</title>
+    <desc lang="el">Super League MD4</desc>
+  </programme>
+  <programme start="20261004 +0000" stop="20261004 +0000" channel="sportfm1">
+    <title lang="el">Μύκονος Betsson – ΠΑΟΚ</title>
+    <desc lang="el">GBL MD1</desc>
+  </programme>
+  <programme start="20261004 +0000" stop="20261004 +0000" channel="sportfm2">
+    <title lang="el">Παναθηναϊκός – ΠΑΟΚ | Allwyn WBL1</title>
+    <desc lang="el">Allwyn WBL1 · 1η αγωνιστική · Κυριακή 4/10, 14:30 · Ζωντανά</desc>
+  </programme>
+  <programme start="20261004 +0000" stop="20261004 +0000" channel="sportfm1">
+    <title lang="el">Παναθηναϊκός – Άγιαξ</title>
+    <desc lang="el">Φιλικό Προετοιμασίας</desc>
+  </programme>
+  <programme start="20261004 +0000" stop="20261004 +0000" channel="sportfm1">
+    <title lang="el">Παναθηναϊκός AKTOR – Βίκος Ιωαννίνων</title>
+    <desc lang="el">GBL MD1</desc>
+  </programme>
+  <programme start="20261005 +0000" stop="20261005 +0000" channel="sportfm1">
+    <title lang="el">Άρης – Μακάμπι Τελ Αβίβ</title>
+    <desc lang="el">Τουρνουά Χανδριώτης (Κύπρος)</desc>
+  </programme>
+  <programme start="20261005 +0000" stop="20261005 +0000" channel="sportfm1">
+    <title lang="el">Κολοσσός Ρόδου – Δόξα Λευκάδας</title>
+    <desc lang="el">GBL MD1</desc>
+  </programme>
+  <programme start="20261005 +0000" stop="20261005 +0000" channel="sportfm1">
+    <title lang="el">Προμηθέας Πατρών – Περιστέρι Betsson</title>
+    <desc lang="el">GBL MD1</desc>
+  </programme>
+  <programme start="20261005 +0000" stop="20261005 +0000" channel="sportfm1">
+    <title lang="el">Μύκονος Betsson – ΠΑΟΚ</title>
+    <desc lang="el">GBL MD1</desc>
+  </programme>
+  <programme start="20261005 +0000" stop="20261005 +0000" channel="sportfm1">
+    <title lang="el">Καρδίτσα – Άρης</title>
+    <desc lang="el">GBL MD1</desc>
+  </programme>
+  <programme start="20261005 +0000" stop="20261005 +0000" channel="sportfm1">
+    <title lang="el">ΑΕΚ – Μαρούσι</title>
+    <desc lang="el">GBL MD1</desc>
+  </programme>
+  <programme start="20261005 +0000" stop="20261005 +0000" channel="sportfm1">
+    <title lang="el">Προμηθέας Πατρών – Περιστέρι Betsson</title>
+    <desc lang="el">GBL MD1</desc>
+  </programme>
+  <programme start="20261005 +0000" stop="20261005 +0000" channel="sportfm1">
+    <title lang="el">Παναθηναϊκός AKTOR – Βίκος Ιωαννίνων</title>
+    <desc lang="el">GBL MD1</desc>
+  </programme>
+  <programme start="20261005 +0000" stop="20261005 +0000" channel="sportfm1">
+    <title lang="el">Ηρακλής – Ολυμπιακός</title>
+    <desc lang="el">GBL MD1</desc>
+  </programme>
+  <programme start="20261005 +0000" stop="20261005 +0000" channel="sportfm1">
+    <title lang="el">Μύκονος Betsson – ΠΑΟΚ</title>
+    <desc lang="el">GBL MD1</desc>
+  </programme>
+  <programme start="20261005 +0000" stop="20261005 +0000" channel="sportfm1">
+    <title lang="el">Κολοσσός Ρόδου – Δόξα Λευκάδας</title>
+    <desc lang="el">GBL MD1</desc>
+  </programme>
   <programme start="20261004013000 +0300" stop="20261004040000 +0300" channel="ALPHA">
     <title lang="el">[K12] Need for Speed</title>
     <desc lang="el">Περιπέτεια αμερικανικής παραγωγής 2014 [Το πρόγραμμα περιέχει σκηνές βίας και απρεπή εκφορά λόγου]. Μετά από ένα αυτοκινητικό δυστύχημα, που θα στοιχίσει την ζωή του καλύτερού του φίλου, ο Τόμπι Μάρσαλ, οδηγός αγώνων, θα μπει στη φυλακή ενώ η κοπέλα του θα βρεθεί στην αγκαλιά του βασικού υπεύθυνου για το δυστύχημα και ανταγωνιστή του. Όταν θα αποφυλακιστεί η εκδίκηση θα γίνει ο σκοπός της ζωής του... Ηθοποιοί: Άαρον Πολ, Ντόμινικ Κούπερ, Ραμί Μάλεκ, Ντακότα Τζόνσον, Ίμοτζεν Πουτς, Μάικλ Κίτον. Σενάριο: Τζορτζ Γκέιτινς, Τζον Γκέιτινς. Σκηνοθεσία: Σκοτ Γουό. Διάρκεια: 118'.</desc>
