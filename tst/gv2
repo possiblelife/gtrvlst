@@ -1,5 +1,3 @@
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-logo="hub://logs/flixert.png",ERTFLIX Website
-https://www.ertflix.gr/#/channels|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="hub://logs/ERT1.png" tvg-name="ΕΡΤ1" tvg-website="https://www.ertflix.gr" ,ΕΡΤ1 HD
 https://ert-live.siliconweb.com/bpk-tv/ERT1/drm/index.mpd|license_type=clearkey&license_key=8011d97516cf5853846112834cb9bd8f:726916a29a0a349cb828c34503087528&stream_headers={User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36} 
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="hub://logs/ERT1.png" tvg-name="ΕΡΤ1" tvg-website="https://www.ertflix.gr" ,ΕΡΤ1 (vip)
