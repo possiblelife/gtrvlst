@@ -101,6 +101,8 @@ https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports4/default/index.m3u8
 https://www.sportfmtv.gr/el/media-video/sport-fm-linear-channel-1|webview zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="sportfm2" tvg-logo="hub://logs/SportFM_TV2.jpg" tvg-website="https://www.sportfmtv.gr" ,ΣΠΟΡΤ FM TV 2
 https://www.sportfmtv.gr/el/media-video/sport-fm-linear-channel-2|webview zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-id="sportfm3" tvg-logo="hub://logs/SportFM_TV3.jpg" tvg-website="https://www.sportfmtv.gr" ,ΣΠΟΡΤ FM TV 3
+https://www.sportfmtv.gr/el/media-video/sport-fm-linear-channel-3|webview zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="hub://logs/alfasports.png" tvg-website="https://alfasports.tv/" ,Alfa Sports TV
 https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&Referer=https://dev.aftermind.xyz/alfa_sports.html
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="hub://logs/open.png" tvg-website="https://www.tvopen.gr/livegames#" ,OPEN Sports
