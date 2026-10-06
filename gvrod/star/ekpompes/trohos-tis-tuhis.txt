@@ -3290,7 +3290,15 @@ https://www.star.gr/tv/psychagogia/trohos-tis-tuhis/2662026-trohos-tis-tuhis|web
 https://www.star.gr/tv/psychagogia/trohos-tis-tuhis/2962026-trohos-tis-tuhis|webfulldig
 #EXTINF:-1 group-title="Season 9",30.6.2026 - Τροχός της Τύχης
 https://www.star.gr/tv/psychagogia/trohos-tis-tuhis/3062026-trohos-tis-tuhis|webfulldig
+#EXTINF:-1 group-title="Season 10",28.9.2026 - Τροχός της Τύχης - Πρεμιέρα
+https://www.star.gr/tv/psychagogia/trohos-tis-tuhis/2892026-trohos-tis-tuhis-premiera|webfulldig
+#EXTINF:-1 group-title="Season 10",29.9.2026 - Τροχός της Τύχης
+https://www.star.gr/tv/psychagogia/trohos-tis-tuhis/2992026-trohos-tis-tuhis|webfulldig
+#EXTINF:-1 group-title="Season 10",30.9.2026 - Τροχός της Τύχης
+https://www.star.gr/tv/psychagogia/trohos-tis-tuhis/3092026-trohos-tis-tuhis|webfulldig
 #EXTINF:-1 group-title="Season 10",1.10.2026 - Τροχός της Τύχης
 https://www.star.gr/tv/psychagogia/trohos-tis-tuhis/1102026-trohos-tis-tuhis|webfulldig
 #EXTINF:-1 group-title="Season 10",2.10.2026 - Τροχός της Τύχης
 https://www.star.gr/tv/psychagogia/trohos-tis-tuhis/2102026-trohos-tis-tuhis|webfulldig
+#EXTINF:-1 group-title="Season 10",5.10.2026 - Τροχός της Τύχης
+https://www.star.gr/tv/psychagogia/trohos-tis-tuhis/5102026-trohos-tis-tuhis|webfulldig
