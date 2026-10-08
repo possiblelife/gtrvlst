@@ -350,6 +350,10 @@ https://www.tvopen.gr/watch/117404/riontetzaneirohdiashmhparaliakopakampana|webv
 https://www.tvopen.gr/watch/117405/copacabanapalacetoistorikoxenodoxeiotoyriontetzaneiro|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ρίο ντε Τζανέιρο: Ο Καθεδρικός Ναός της πόλης που εντυπωσιάζει
 https://www.tvopen.gr/watch/117500/riontetzaneirookathedrikosnaosthspolhspoyentyposiazei|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Ρίο ντε Τζανέιρο: Το κτήριο - «κόσμημα» της βιβλιοθήκης
+https://www.tvopen.gr/watch/117501/riontetzaneirotokthriokosmhmathsbibliothhkhs|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Ρίο ντε Τζανέιρο: Βόλτα με το τραμ στη Σάντα Τερέζα
+https://www.tvopen.gr/watch/117502/riontetzaneiroboltametotramsthsantatereza|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ρίο ντε Τζανέιρο: Μαγικό ηλιοβασίλεμα από τον Λόφο της Ζάχαρης
 https://www.tvopen.gr/watch/117503/riontetzaneiromagikohliobasilemaapotonlofothszaxarhs|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ιπανέμα: Η σικ και μοδάτη παραλία του Ρίο ντε Τζανέιρο
@@ -368,10 +372,6 @@ https://www.tvopen.gr/watch/118524/pthshmeelikopteropanoapotoyskatarraktesigkoya
 https://www.tvopen.gr/watch/118525/katarraktesigkoyasoyolaimostoydiaboloy|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Μπουένος Άιρες: Ξενάγηση στην Πλάθα ντε Μάγιο και τον Καθεδρικό ναό
 https://www.tvopen.gr/watch/119464/mpoyenosairesxenaghshsthnplathantemagiokaitonkathedrikonao|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Ρίο ντε Τζανέιρο: Το κτήριο - «κόσμημα» της βιβλιοθήκης
-https://www.tvopen.gr/watch/117501/riontetzaneirotokthriokosmhmathsbibliothhkhs|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Ρίο ντε Τζανέιρο: Βόλτα με το τραμ στη Σάντα Τερέζα
-https://www.tvopen.gr/watch/117502/riontetzaneiroboltametotramsthsantatereza|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ρεκολέτα: Μια πλούσια γειτονιά με ένα νεκροταφείο για αξιοθέατο
 https://www.tvopen.gr/watch/119465/rekoletamiaploysiageitoniameenanekrotafeiogiaaxiotheato|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εμπανάδας: Το ξεχωριστό έδεσμα του Μπουένος Άιρες

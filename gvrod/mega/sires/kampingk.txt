@@ -12,3 +12,5 @@ https://www.megatv.com/tvshows/2509468/epeisodio-5-120/|webfulldig
 https://www.megatv.com/tvshows/2509474/epeisodio-6-123/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 7
 https://www.megatv.com/tvshows/2517178/epeisodio-7-121/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 8
+https://www.megatv.com/tvshows/2517190/epeisodio-8-120/|webfulldig
