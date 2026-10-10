@@ -2050,3 +2050,7 @@ https://www.alphatv.gr/show/super-katerina/show-episode/758630-02-10-2026-2/|web
 https://www.alphatv.gr/show/super-katerina/show-episode/760302-05-10-2026-2/|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 6",06/10/2026
 https://www.alphatv.gr/show/super-katerina/show-episode/760802-06-10-2026-2/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 6",07/10/2026
+https://www.alphatv.gr/show/super-katerina/show-episode/760803-__trashed-4/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 6",08/10/2026
+https://www.alphatv.gr/show/super-katerina/show-episode/762272-08-10-2026-2/|webvidfulldig
