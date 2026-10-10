@@ -1,8 +1,8 @@
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ (Alpha TV ΜΟΝΟ)" tvg-logo="hub://logs/Alpha_TV.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.alphatv.gr/web-tv/|webvod zoom=100 scroll=0,0
 
-#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ (Alpha TV ΜΟΝΟ)" tvg-logo="hub://logs/Alpha_TV.png" ,Hybrid TV (TV Μόνο)
-http://alpha.smart-tv-data.com/|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ (Alpha TV ΜΟΝΟ)" tvg-logo="hub://logs/hbb.png" ,Hybrid TV (TV Μόνο)
+http://alpha.smart-tv-data.com/|webvod zoom=150 scroll=0,0
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ (Alpha TV ΜΟΝΟ)" tvg-genre="κοινωνική,δράμα" tvg-logo="hub://logseries/alpha/mia-ginaika.png" tvg-description="hub://desc/Alpha/mia-ginaika" ,Μια Γυναίκα (2026) (Aphatv μόνο) 
 SERIES$$hub://gvrod/alpha/sires/mia-ginaika.txt
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ (Alpha TV ΜΟΝΟ)" tvg-genre="κοινωνική" tvg-logo="hub://logseries/alpha/oi-kores-tis-aretis.jpg" tvg-description="hub://desc/Alpha/oi-kores-tis-aretis" ,Οι Κόρες της Αρετής (2026) (Aphatv μόνο) 
