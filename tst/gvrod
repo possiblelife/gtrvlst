@@ -324,59 +324,73 @@ SERIES$$hub://gvrod/alpha/ekpompes/akis-food-tour.txt
 
 
 
-#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-logo="hub://logs/skai.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ (SKAI TV ΜΟΝΟ)" tvg-logo="hub://logs/skai.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.skaitv.gr/shows/seires|webvod zoom=100 scroll=0,0
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ (SKAI TV ΜΟΝΟ)" tvg-logo="hub://logs/hbb.png" ,Hybrid TV (TV Μόνο)
+http://skai.smart-tv-data.com/|webvod zoom=150 scroll=0,0
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ (SKAI TV ΜΟΝΟ)" tvg-genre="δράμα" tvg-description="hub://desc/Skai/mple-ores" tvg-logo="hub://logseries/skai/ble_wres_landscape1.jpg"  ,Μπλε Ώρες (2026-2027) (SKAItv μόνο)
+SERIES$$hub://gvrod/mega/sires/mple-ores.txt
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ (SKAI TV ΜΟΝΟ)" tvg-genre="ρομαντική, κοινωνική" tvg-description="hub://desc/Skai/antonios-kleopatra" tvg-logo="hub://logseries/skai/antonios_kleopatra.jpg"  ,Αντώνιος & Κλεοπάτρα (2026-2027) (SKAItv μόνο)
+SERIES$$hub://gvrod/mega/sires/antonios-kleopatra.txt
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ (SKAI TV ΜΟΝΟ)" tvg-genre="κωμωδία" tvg-description="hub://desc/Skai/tote-vs-tora" tvg-logo="hub://logseries/skai/tote_kai_twra_landscape.jpg"  ,Τότε και Τώρα  (2025-2026) (SKAItv μόνο)
+SERIES$$hub://gvrod/mega/sires/tote-vs-tora.txt
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ (SKAI TV ΜΟΝΟ)" tvg-genre="δράμα, κοινωνική" tvg-description="hub://desc/Skai/Οι.Πανθέοι.(2023-2024)" tvg-logo="hub://logseries/skai/ΟιΠανθέοι2023.jpg" ,Οι Πανθέοι (2023-2024) (SKAItv μόνο)
+SERIES$$hub://gvrod/mega/sires_skai/oi-pantheoi.txt
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ (SKAI TV ΜΟΝΟ)" tvg-genre="δράμα, κοινωνική" tvg-description="hub://desc/Skai/Στοργή.(2022-2023)" tvg-logo="hub://logseries/skai/Στοργή2022.jpg" ,Στοργή (2022-2023) (SKAItv μόνο)
+SERIES$$hub://gvrod/mega/sires_skai/storgi.txt
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ (SKAI TV ΜΟΝΟ)" tvg-genre="δράμα" tvg-description="hub://desc/Skai/Άγρια.γη.(2022-2023)" tvg-logo="hub://logseries/skai/Άγριαγη2022.jpg" ,Άγρια γη (2022-2023) (SKAItv μόνο)
+SERIES$$hub://gvrod/mega/sires_skai/agria-gi.txt
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ (SKAI TV ΜΟΝΟ)" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Skai/Γλυκάνισος.(2022-2023)" tvg-logo="hub://logseries/skai/Γλυκάνισος2022.jpg" ,Γλυκάνισος (2022-2023) (SKAItv μόνο)
+SERIES$$hub://gvrod/mega/sires_skai/glukanisos.txt
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ (SKAI TV ΜΟΝΟ)" tvg-genre="δράμα" tvg-description="hub://desc/Skai/Bahar" tvg-logo="hub://logseries/skai/bl_landscape.jpg"  ,Bahar - Καινούργια Αρχή (2023-2024) (SKAItv μόνο)
+SERIES$$hub://gvrod/mega/sires_skai/bahar-kainourgia-archi.txt
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ (SKAI TV ΜΟΝΟ)" tvg-genre="δράμα" tvg-description="hub://desc/Skai/8.λέξεις.(2019-2021)" tvg-logo="hub://logseries/skai/8λέξεις2019.jpg" ,8 λέξεις (2019-2021) (SKAItv μόνο)
+SERIES$$hub://gvrod/mega/sires_skai/8-lexeis.txt
 
-#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-genre="ρομαντική, κοινωνική" tvg-description="hub://desc/Skai/antonios-kleopatra" tvg-logo="hub://logseries/skai/antonios_kleopatra.jpg"  ,Αντώνιος & Κλεοπάτρα (SKAItv μόνο)(2026-2027)
-SERIES$$hub://gvrod/skai/sires/antonios-kleopatra.txt
-#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-genre="ρομαντική, κοινωνική" tvg-description="hub://desc/Skai/antonios-kleopatra" tvg-logo="hub://logseries/skai/antonios_kleopatra.jpg"  ,Αντώνιος & Κλεοπάτρα (2026-2027)
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="ρομαντική, κοινωνική" tvg-description="hub://desc/Skai/antonios-kleopatra" tvg-logo="hub://logseries/skai/antonios_kleopatra.jpg"  ,Αντώνιος & Κλεοπάτρα (2026-2027)
 SERIES$$hub://gvrod/skai/sires/antonios-kleopatra.2026
-#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Skai/mple-ores" tvg-logo="hub://logseries/skai/ble_wres_landscape1.jpg"  ,Μπλε Ώρες (SKAItv μόνο)(2026-2027)
-SERIES$$hub://gvrod/skai/sires/mple-ores.txt
-#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Skai/mple-ores" tvg-logo="hub://logseries/skai/ble_wres_landscape1.jpg"  ,Μπλε Ώρες (2026-2027)
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="δράμα" tvg-description="hub://desc/Skai/mple-ores" tvg-logo="hub://logseries/skai/ble_wres_landscape1.jpg"  ,Μπλε Ώρες (2026-2027)
 SERIES$$hub://gvrod/skai/sires/mple-ores.2026
-#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Skai/nomoi-tis-kardias" tvg-logo="hub://logseries/skai/nomoi_kardias.jpg"  ,Νόμοι της Καρδιάς (SKAItv μόνο)(2025-2026)
-SERIES$$hub://gvrod/skai/sires/nomoi-tis-kardias.txt
-#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Skai/tote-vs-tora" tvg-logo="hub://logseries/skai/tote_kai_twra_landscape.jpg"  ,Τότε και Τώρα (SKAItv μόνο)(2025-2026)
-SERIES$$hub://gvrod/skai/sires/tote-vs-tora.txt
-#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Skai/tote-vs-tora" tvg-logo="hub://logseries/skai/tote_kai_twra_landscape.jpg"  ,Τότε και Τώρα (2025-2026)
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="κωμωδία" tvg-description="hub://desc/Skai/tote-vs-tora" tvg-logo="hub://logseries/skai/tote_kai_twra_landscape.jpg"  ,Τότε και Τώρα (2025-2026)
 SERIES$$hub://gvrod/skai/sires/Τότε.και.τώρα.(2025)
-#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Skai/Bahar" tvg-logo="hub://logseries/skai/bl_landscape.jpg"  ,Bahar - Καινούργια Αρχή (2023-2024)
-SERIES$$hub://gvrod/skai/sires_arxio/Bahar.txt
-#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Skai/8.λέξεις.(2019-2021)" tvg-logo="hub://logseries/skai/8λέξεις2019.jpg" ,8 λέξεις (2019-2021)
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="δράμα" tvg-description="hub://desc/Skai/8.λέξεις.(2019-2021)" tvg-logo="hub://logseries/skai/8λέξεις2019.jpg" ,8 λέξεις (2019-2021)
 SERIES$$hub://gvrod/skai/sires_arxio/8.λέξεις.(2019-2021)
-#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-genre="δράμα, οικογενειακή, μιούζικαλ" tvg-description="hub://desc/Skai/Violetta.(2014-2015)" tvg-logo="hub://logseries/skai/Violetta2014.jpg" ,Violetta (2014-2015)
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="δράμα, οικογενειακή, μιούζικαλ" tvg-description="hub://desc/Skai/Violetta.(2014-2015)" tvg-logo="hub://logseries/skai/Violetta2014.jpg" ,Violetta (2014-2015)
 SERIES$$hub://gvrod/skai/sires_arxio/Violetta.(2014-2015)
-#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Skai/Άγρια.γη.(2022-2023)" tvg-logo="hub://logseries/skai/Άγριαγη2022.jpg" ,Άγρια γη (2022-2023)
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="δράμα" tvg-description="hub://desc/Skai/Άγρια.γη.(2022-2023)" tvg-logo="hub://logseries/skai/Άγριαγη2022.jpg" ,Άγρια γη (2022-2023)
 SERIES$$hub://gvrod/skai/sires_arxio/Άγρια.γη.(2022-2023)
-#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Skai/Γλυκάνισος.(2022-2023)" tvg-logo="hub://logseries/skai/Γλυκάνισος2022.jpg" ,Γλυκάνισος (2022-2023)
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Skai/Γλυκάνισος.(2022-2023)" tvg-logo="hub://logseries/skai/Γλυκάνισος2022.jpg" ,Γλυκάνισος (2022-2023)
 SERIES$$hub://gvrod/skai/sires_arxio/Γλυκάνισος.(2022-2023)
-#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-genre="δράση, έγκλημα, μυστηρίου" tvg-description="hub://desc/Skai/Επιθεωρητής.Ρεξ.(1994-2009)" tvg-logo="hub://logseries/skai/kommissarrex.jpg" ,Επιθεωρητής Ρεξ (1994-2009)
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="δράση, έγκλημα, μυστηρίου" tvg-description="hub://desc/Skai/Επιθεωρητής.Ρεξ.(1994-2009)" tvg-logo="hub://logseries/skai/kommissarrex.jpg" ,Επιθεωρητής Ρεξ (1994-2009)
 SERIES$$hub://gvrod/skai/sires_arxio/Επιθεωρητής.Ρεξ.(1994-2009)
-#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Skai/Εσμεράλδα.(1997-1999)" tvg-logo="hub://logseries/skai/Εσμεράλδα1997.jpg" ,Εσμεράλδα (1997-1999)
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Skai/Εσμεράλδα.(1997-1999)" tvg-logo="hub://logseries/skai/Εσμεράλδα1997.jpg" ,Εσμεράλδα (1997-1999)
 SERIES$$hub://gvrod/skai/sires_arxio/Εσμεράλδα.(1997-1999)
-#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Skai/Ευτυχίας.22.(2014)" tvg-logo="hub://logseries/skai/Ευτυχίας222014.jpg" ,Ευτυχίας 22 (2014)
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="κωμωδία" tvg-description="hub://desc/Skai/Ευτυχίας.22.(2014)" tvg-logo="hub://logseries/skai/Ευτυχίας222014.jpg" ,Ευτυχίας 22 (2014)
 SERIES$$hub://gvrod/skai/sires_arxio/Ευτυχίας.22.(2014)
-#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-genre="δράμα, δράση, έγκλημα" tvg-description="hub://desc/Skai/Η.οργή.των.Θεών.(1994-1995)" tvg-logo="hub://logseries/skai/ΗοργήτωνΘεών1994.jpg" ,Η οργή των Θεών (1994-1995)
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="δράμα, δράση, έγκλημα" tvg-description="hub://desc/Skai/Η.οργή.των.Θεών.(1994-1995)" tvg-logo="hub://logseries/skai/ΗοργήτωνΘεών1994.jpg" ,Η οργή των Θεών (1994-1995)
 SERIES$$hub://gvrod/skai/sires_arxio/Η.οργή.των.Θεών.(1994-1995)
-#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Skai/Θα.γίνει.της.πολυκατοικίας.(2019-2020)" tvg-logo="hub://logseries/skai/Θαγίνειτηςπολυκατοικίας2019.jpg" ,Θα γίνει της πολυκατοικίας (2019-2020)
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="κωμωδία" tvg-description="hub://desc/Skai/Θα.γίνει.της.πολυκατοικίας.(2019-2020)" tvg-logo="hub://logseries/skai/Θαγίνειτηςπολυκατοικίας2019.jpg" ,Θα γίνει της πολυκατοικίας (2019-2020)
 SERIES$$hub://gvrod/skai/sires_arxio/Θα.γίνει.της.πολυκατοικίας.(2019-2020)
-#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-genre="κωμωδία, ρομαντική" tvg-description="hub://desc/Skai/Κάποιος.να.τη.φυλάει.(1994-1995)" tvg-logo="hub://logseries/skai/Κάποιοςνατηφυλάει1994.jpg" ,Κάποιος να τη φυλάει (1994-1995)
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="κωμωδία, ρομαντική" tvg-description="hub://desc/Skai/Κάποιος.να.τη.φυλάει.(1994-1995)" tvg-logo="hub://logseries/skai/Κάποιοςνατηφυλάει1994.jpg" ,Κάποιος να τη φυλάει (1994-1995)
 SERIES$$hub://gvrod/skai/sires_arxio/Κάποιος.να.τη.φυλάει.(1994-1995)
-#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Skai/Λόγω.Τιμής.(1996-2019)" tvg-logo="hub://logseries/skai/logwtimis.jpg" ,Λόγω Τιμής (1996-2019)
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Skai/Λόγω.Τιμής.(1996-2019)" tvg-logo="hub://logseries/skai/logwtimis.jpg" ,Λόγω Τιμής (1996-2019)
 SERIES$$hub://gvrod/skai/sires_arxio/Λόγω.Τιμής.(1996-2019)
-#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-genre="κωμωδία, ρομαντική" tvg-description="hub://desc/Skai/Μόλις.χθες.(2021-2022)" tvg-logo="hub://logseries/skai/Μόλιςχθες2021.jpg" ,Μόλις χθες (2021-2022)
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="κωμωδία, ρομαντική" tvg-description="hub://desc/Skai/Μόλις.χθες.(2021-2022)" tvg-logo="hub://logseries/skai/Μόλιςχθες2021.jpg" ,Μόλις χθες (2021-2022)
 SERIES$$hub://gvrod/skai/sires_arxio/Μόλις.χθες.(2021-2022)
-#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-genre="δράμα, κοινωνική" tvg-description="hub://desc/Skai/Οι.Πανθέοι.(2023-2024)" tvg-logo="hub://logseries/skai/ΟιΠανθέοι2023.jpg" ,Οι Πανθέοι (2023-2024)
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="δράμα, κοινωνική" tvg-description="hub://desc/Skai/Οι.Πανθέοι.(2023-2024)" tvg-logo="hub://logseries/skai/ΟιΠανθέοι2023.jpg" ,Οι Πανθέοι (2023-2024)
 SERIES$$hub://gvrod/skai/sires_arxio/Οι.Πανθέοι.(2023-2024)
-#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Skai/Όσο.έχω.εσένα.(2018-2019)" tvg-logo="hub://logseries/skai/Όσοέχωεσένα2018.jpg" ,Όσο έχω εσένα (2018-2019)
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="κωμωδία" tvg-description="hub://desc/Skai/Όσο.έχω.εσένα.(2018-2019)" tvg-logo="hub://logseries/skai/Όσοέχωεσένα2018.jpg" ,Όσο έχω εσένα (2018-2019)
 SERIES$$hub://gvrod/skai/sires_arxio/Όσο.έχω.εσένα.(2018-2019)
-#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Skai/Παολίνα.η.σφετερίστρια.(1999-2000)" tvg-logo="hub://logseries/skai/Παολίνα1998.jpg" ,Παολίνα η σφετερίστρια (1999-2000)
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Skai/Παολίνα.η.σφετερίστρια.(1999-2000)" tvg-logo="hub://logseries/skai/Παολίνα1998.jpg" ,Παολίνα η σφετερίστρια (1999-2000)
 SERIES$$hub://gvrod/skai/sires_arxio/Παολίνα.η.σφετερίστρια.(1999-2000)
-#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-genre="δράμα, κοινωνική" tvg-description="hub://desc/Skai/Στοργή.(2022-2023)" tvg-logo="hub://logseries/skai/Στοργή2022.jpg" ,Στοργή (2022-2023)
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="δράμα, κοινωνική" tvg-description="hub://desc/Skai/Στοργή.(2022-2023)" tvg-logo="hub://logseries/skai/Στοργή2022.jpg" ,Στοργή (2022-2023)
 SERIES$$hub://gvrod/skai/sires_arxio/Στοργή.(2022-2023)
-#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ" tvg-genre="κωμωδία, ρομαντική" tvg-description="hub://desc/Skai/Το.μεζεδοπωλείο.(2013-2014)" tvg-logo="hub://logseries/skai/Τομεζεδοπωλείο2013.jpg" ,Το μεζεδοπωλείο (2013-2014)
+#EXTINF:-1 group-title="SKAI ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="κωμωδία, ρομαντική" tvg-description="hub://desc/Skai/Το.μεζεδοπωλείο.(2013-2014)" tvg-logo="hub://logseries/skai/Τομεζεδοπωλείο2013.jpg" ,Το μεζεδοπωλείο (2013-2014)
 SERIES$$hub://gvrod/skai/sires_arxio/Το.μεζεδοπωλείο.(2013-2014)
+
+
+
+
 
 
 
