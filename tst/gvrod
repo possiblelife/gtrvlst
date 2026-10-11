@@ -432,15 +432,15 @@ https://www.megatv.com/shows|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ (MEGA TV ΜΟΝΟ)" tvg-logo="hub://logs/hbb.png" ,Hybrid TV (TV Μόνο)
 http://mega.smart-tv-data.com/|webvod zoom=150 scroll=0,0
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ (MEGA TV ΜΟΝΟ)" tvg-genre="δράμα" tvg-description="hub://desc/Mega/dyo-mayra-poukamisa" tvg-logo="hub://logseries/mega/2mavrapoukamisa.png" ,Δυο Μαύρα Πουκάμισα (2026) (Megatv μόνο)
-SERIES$$hub://gvrod/mega/sires_mega/dyo-mayra-poukamisa.txt
+SERIES$$hub://gvrod/mega/sires/dyo-mayra-poukamisa.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ (MEGA TV ΜΟΝΟ)" tvg-genre="κωμωδία" tvg-description="hub://desc/Mega/kampingk" tvg-logo="hub://logseries/mega/Camping.png" ,Κάμπινγκ (2026) (Megatv μόνο)
-SERIES$$hub://gvrod/mega/sires_mega/kampingk.txt
+SERIES$$hub://gvrod/mega/sires/kampingk.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ (MEGA TV ΜΟΝΟ)" tvg-genre="δράμα" tvg-description="hub://desc/Mega/Οι.αθώοι.(2026)" tvg-logo="hub://logseries/mega/Οιαθώοι2026.jpg" ,Οι Αθώοι (2026) (Megatv μόνο)
-SERIES$$hub://gvrod/mega/sires_mega/oi-athooi.txt
+SERIES$$hub://gvrod/mega/sires/oi-athooi.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ (MEGA TV ΜΟΝΟ)" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Mega/mia-nyxta-mono" tvg-logo="hub://logseries/mega/Μιανύχταμόνο2025.jpg" ,Μια Νύχτα Μόνο (2025-2026) (Megatv μόνο)
-SERIES$$hub://gvrod/mega/sires_mega/mia-nyxta-mono.txt
+SERIES$$hub://gvrod/mega/sires/mia-nyxta-mono.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ (MEGA TV ΜΟΝΟ)" tvg-genre="κωμωδία, οικογενειακή" tvg-description="hub://desc/Mega/Έχω.παιδιά.(2024-2025)" tvg-logo="hub://logseries/mega/Έχωπαιδιά2024.jpg" ,Έχω Παιδιά (2024-2026) (Megatv μόνο)
-SERIES$$hub://gvrod/mega/sires_mega/exo-paidia.txt
+SERIES$$hub://gvrod/mega/sires/exo-paidia.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ (MEGA TV ΜΟΝΟ)" tvg-genre="δράμα" tvg-description="hub://desc/Mega/Famagusta.(2024)" tvg-logo="hub://logseries/mega/Famagusta2024.jpg" ,Famagusta (2024-2025) (Megatv μόνο)
 SERIES$$hub://gvrod/mega/sires_mega/famagusta.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ (MEGA TV ΜΟΝΟ)" tvg-genre="κωμωδία" tvg-description="hub://desc/Mega/hotel.elvira" tvg-logo="hub://logseries/mega/HotelElvira2025.jpg" ,HOTEΛ EΛVIRA (2025) (Megatv μόνο)
