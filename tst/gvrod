@@ -445,12 +445,6 @@ SERIES$$hub://gvrod/mega/sires/exo-paidia.txt
 SERIES$$hub://gvrod/mega/sires_mega/famagusta.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ (MEGA TV ΜΟΝΟ)" tvg-genre="κωμωδία" tvg-description="hub://desc/Mega/hotel.elvira" tvg-logo="hub://logseries/mega/HotelElvira2025.jpg" ,HOTEΛ EΛVIRA (2025) (Megatv μόνο)
 SERIES$$hub://gvrod/mega/sires_mega/hotel-elvira.txt
-#EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ (MEGA TV ΜΟΝΟ)" tvg-genre="δράμα" tvg-description="hub://desc/Mega/Maestro.(2022-2024)" tvg-logo="hub://logseries/mega/Maestro2022.jpg" ,Maestro (2022-2024) (Megatv μόνο)
-SERIES$$hub://gvrod/mega/sires_mega/maestro.txt
-#EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ (MEGA TV ΜΟΝΟ)" tvg-genre="δράμα" tvg-description="hub://desc/Mega/Milky.way.(2023)" tvg-logo="hub://logseries/mega/Milkyway2023.jpg" ,Milky Way (2023) (Megatv μόνο)
-SERIES$$hub://gvrod/mega/sires_mega/milky-way.txt
-#EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ (MEGA TV ΜΟΝΟ)" tvg-genre="βιογραφία, ιστορική" tvg-description="hub://desc/Mega/Άγιος.Παΐσιος.από.τα.Φάρασα.στον.ουρανό.(2022-2025)" tvg-logo="hub://logseries/mega/ΆγιοςΠαΐσιοςαπόταΦάρασαστονουρανό2022.jpg" ,Άγιος Παΐσιος, Από τα Φάρασα στον Ουρανό (2022-2025) (Megatv μόνο)
-SERIES$$hub://gvrod/mega/sires_mega/agios-paisios-apo-ta-farasa-ston-ourano.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ (MEGA TV ΜΟΝΟ)" tvg-genre="δράμα, μυστηρίου" tvg-description="hub://desc/Mega/Έξαψη.(2021)" tvg-logo="hub://logseries/mega/Έξαψη2020.jpg" ,Εξαψη (2021) (Megatv μόνο)
 SERIES$$hub://gvrod/mega/sires_mega/eksapsi-nea-seira.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ (MEGA TV ΜΟΝΟ)" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Mega/Η.γη.της.ελιάς.(2021-2025)" tvg-logo="hub://logseries/mega/Ηγητηςελιάς2021.jpg" ,Η Γη της Ελιάς (2021-2025) (Megatv μόνο)
@@ -463,16 +457,12 @@ SERIES$$hub://gvrod/mega/sires_mega/mairi-mairi-mairi.txt
 SERIES$$hub://gvrod/mega/sires_mega/mayro-rodo.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ (MEGA TV ΜΟΝΟ)" tvg-genre="έγκλημα, μυστηρίου" tvg-description="hub://desc/Mega/Σιωπηλός.δρόμος.(2021)" tvg-logo="hub://logseries/mega/Σιωπηλόςδρόμος2021.jpg" ,Σιωπηλός δρόμος (2021) (Megatv μόνο)
 SERIES$$hub://gvrod/mega/sires_mega/siopilos-dromos.txt
-#EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ (MEGA TV ΜΟΝΟ)" tvg-genre="δράμα, έγκλημα, κοινωνική" tvg-description="hub://desc/Mega/Σκοτεινή.θάλασσα.(2022)" tvg-logo="hub://logseries/mega/Σκοτεινήθάλασσα2022.jpg" ,Σκοτεινή θάλασσα (2022) (Megatv μόνο)
-SERIES$$hub://gvrod/mega/sires_mega/skoteini-thalassa.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ (MEGA TV ΜΟΝΟ)" tvg-genre="κωμωδία" tvg-description="hub://desc/Mega/Συμπέθεροι.απ'.τα.Τίρανα.(2021-2022)" tvg-logo="hub://logseries/mega/ΣυμπέθεροιαπταΤίρανα2021.jpg" ,Συμπέθεροι Απ'τα Τίρανα (2021-2022) (Megatv μόνο)
 SERIES$$hub://gvrod/mega/sires_mega/sympetheroi-ap-ta-tirana.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ (MEGA TV ΜΟΝΟ)" tvg-genre="κωμωδία" tvg-description="hub://desc/Mega/Σχεδόν.ενήλικες.(2021)" tvg-logo="hub://logseries/mega/Σχεδόνενήλικες2020.jpg" ,Σχεδόν ενήλικες (2021) (Megatv μόνο)
 SERIES$$hub://gvrod/mega/sires_mega/sxedon-enilikes.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ (MEGA TV ΜΟΝΟ)" tvg-genre="δράμα, κοινωνική" tvg-description="hub://desc/Mega/Ταμπού.(2024-2025)" tvg-logo="hub://logseries/mega/Ταμπού2024.jpg" ,Ταμπού (2024) (Megatv μόνο)
 SERIES$$hub://gvrod/mega/sires_mega/tampou.txt
-#EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ (MEGA TV ΜΟΝΟ)" tvg-genre="δράμα" tvg-description="hub://desc/Mega/Το.αύριο.μας.ανήκει.(2021)" tvg-logo="hub://logseries/mega/Τοαύριομαςανήκει2021.jpg" ,Το αύριο μας ανήκει (2021) (Megatv μόνο)
-SERIES$$hub://gvrod/mega/sires_mega/to-ayrio-mas-anikei.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ (MEGA TV ΜΟΝΟ)" tvg-genre="δράμα" tvg-description="hub://desc/Mega/Το.ναυάγιο.(2023-2024)" tvg-logo="hub://logseries/mega/Τοναυάγιο2023.jpg" ,Το ναυάγιο (2023-2024) (Megatv μόνο)
 SERIES$$hub://gvrod/mega/sires_mega/to-nayagio.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ (MEGA TV ΜΟΝΟ)" tvg-genre="κωμωδία, δράμα, δράση" tvg-description="hub://desc/Mega/L.A.P.D..(2008-2010)" tvg-logo="hub://logseries/mega/lapd.jpg" ,L.A.P.D. (2008-2010) (Megatv μόνο)
