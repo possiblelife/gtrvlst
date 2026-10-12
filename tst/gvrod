@@ -1542,7 +1542,7 @@ SERIES$$hub://gvrod/star/sires_star/arena.txt
 SERIES$$hub://gvrod/star/sires_star/zoi-mou.txt
 #EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ (STAR TV ΜΟΝΟ)" tvg-genre="κωμωδία" tvg-description="hub://desc/Star/Το.μπέρδεμα.(2000-2001)" tvg-logo="hub://logseries/star/Τομπέρδεμα2001.jpg" ,Το μπέρδεμα (2000-2001)
 SERIES$$hub://gvrod/star/sires_star/to-berdema.txt
-#EXTINF:-1 group-title="STAR" tvg-genre="μυστηρίου, κωμωδία, δράμα" tvg-description="hub://desc/Star/detektiv-monk-monk" tvg-logo="hub://logseries/star/monk.jpg" ,ΝΤΕΤΕΚΤΙΒ ΜΟΝΚ (MONK)
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ (STAR TV ΜΟΝΟ)" tvg-genre="μυστηρίου, κωμωδία, δράμα" tvg-description="hub://desc/Star/detektiv-monk-monk" tvg-logo="hub://logseries/star/monk.jpg" ,ΝΤΕΤΕΚΤΙΒ ΜΟΝΚ (MONK)
 SERIES$$hub://gvrod/star/sires_star/detektiv-monk-monk.txt
 
 
