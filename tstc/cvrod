@@ -791,7 +791,8 @@ http://.....
 
 #EXTINF:-1 group-title="RIK ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/rik/rik-logo.png" ,ΟΛΕΣ ΟΙ ΕΚΠΟΜΠΕΣ
 https://tv.rik.cy/category/psukhagogia/|webvod zoom=100 scroll=0,0
-
+#EXTINF:-1 group-title="RIK ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/rik/konsolos.webp" ,Πιάτο με πιάτο
+SERIES$$hub://cvyod/rik/ekpompes/piato-me-piato.txt
 #EXTINF:-1 group-title="RIK ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/rik/S_EKTOS_DIADROMHS.2e16d0ba.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/ektos-diadromes/" ,Εκτος Διαδρομης
 SERIES$$hub://cvyod/rik/ekpompes/ektos-diadromes.txt
 #EXTINF:-1 group-title="RIK ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/rik/MHN_KAPSEIS_KOUZINA_S.2e16d0ba.fill-350x500.jpg" tvg-website="https://tv.rik.cy/show/men-kapseis-ten-kouzina/" ,Μην Καψεις την Κουζινα
