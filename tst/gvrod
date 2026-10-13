@@ -401,6 +401,10 @@ SERIES$$hub://gvrod/skai/sires_arxio/Το.μεζεδοπωλείο.(2013-2014)
 https://www.skai.gr/tv/shows/psuchagogia|webvod zoom=100 scroll=0,0
 
 
+#EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/skai/kithen_lab.jpg"  ,Kitchen Lab (2026-2027)
+SERIES$$hub://gvrod/skai/ekpompes/kitchen-lab-2.txt
+#EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/skai/voice.jpg"  ,the-voice-of-greece.txt (2026)
+SERIES$$hub://gvrod/skai/ekpompes/the-voice-of-greece.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/skai/fanis_landscape2.jpg"  ,Στην Αγκαλιά του Φάνη (2024-2026)
 SERIES$$hub://gvrod/skai/ekpompes/stin-agkalia-tou-fani.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/skai/ellada_psifizei_new_landscape.jpg"  ,Η Ελλάδα Ψηφίζει (2024-2026)
@@ -2878,6 +2882,8 @@ SERIES$$hub://cvyod/rik/sires_arxio/sta-oria.txt
 #EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/rik/rik-logo.png" ,ΟΛΕΣ ΟΙ ΕΚΠΟΜΠΕΣ
 https://tv.rik.cy/category/psukhagogia/|webvod zoom=100 scroll=0,0
 
+#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/rik/konsolos.webp" ,Πιάτο με πιάτο
+SERIES$$hub://cvyod/rik/ekpompes/piato-me-piato.txt
 #EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/rik/S_EKTOS_DIADROMHS.2e16d0ba.fill-350x500.jpg"  ,Εκτος Διαδρομης
 SERIES$$hub://cvyod/rik/ekpompes/ektos-diadromes.txt
 #EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/rik/MHN_KAPSEIS_KOUZINA_S.2e16d0ba.fill-350x500.jpg"  ,Μην Καψεις την Κουζινα
