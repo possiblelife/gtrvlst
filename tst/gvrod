@@ -403,7 +403,7 @@ https://www.skai.gr/tv/shows/psuchagogia|webvod zoom=100 scroll=0,0
 
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/skai/kithen_lab.jpg"  ,Kitchen Lab (2026-2027)
 SERIES$$hub://gvrod/skai/ekpompes/kitchen-lab-2.txt
-#EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/skai/voice.jpg"  ,the-voice-of-greece.txt (2026)
+#EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/skai/voice.jpg"  ,The voice of Greece (2026)
 SERIES$$hub://gvrod/skai/ekpompes/the-voice-of-greece.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/skai/fanis_landscape2.jpg"  ,Στην Αγκαλιά του Φάνη (2024-2026)
 SERIES$$hub://gvrod/skai/ekpompes/stin-agkalia-tou-fani.txt
