@@ -302,6 +302,8 @@ https://v6.cloudskep.com/rikvod/perikliserietta/perikliserietta180525.mp4?attach
 https://v6.cloudskep.com/rikvod/perikliserietta/perikliserietta240525.mp4?attachment=true
 #EXTINF:-1 group-title="Season 2",Περικλής τζαι Εριέττα 25/05/25
 https://v6.cloudskep.com/rikvod/perikliserietta/perikliserietta250525.mp4?attachment=true
+#EXTINF:-1 group-title="Season 3",Περικλής τζαι Εριέττα 12/10/25
+https://v6.cloudskep.com/rikvod/perikliserietta2/perikliserietta121025.mp4?attachment=true
 #EXTINF:-1 group-title="Season 3",Περικλής τζαι Εριέττα 18/10/25
 https://v6.cloudskep.com/rikvod/perikliserietta2/perikliserietta181025.mp4?attachment=true
 #EXTINF:-1 group-title="Season 3",Περικλής τζαι Εριέττα 19/10/25
@@ -432,3 +434,11 @@ https://v6.cloudskep.com/rikvod/perikliserietta2/perikliserietta230526.mp4?attac
 https://v6.cloudskep.com/rikvod/perikliserietta2/perikliserietta300526.mp4?attachment=true
 #EXTINF:-1 group-title="Season 3",Περικλής τζαι Εριέττα 31/05/26
 https://v6.cloudskep.com/rikvod/perikliserietta2/perikliserietta310526.mp4?attachment=true
+#EXTINF:-1 group-title="Season 4",Περικλής τζαι Εριέττα 03/10/26
+https://v6.cloudskep.com/rikvod/perikliserietta2/perikliserietta031026.mp4?attachment=true
+#EXTINF:-1 group-title="Season 4",Περικλής τζαι Εριέττα 04/10/26
+https://v6.cloudskep.com/rikvod/perikliserietta2/perikliserietta041026.mp4?attachment=true
+#EXTINF:-1 group-title="Season 4",Περικλής τζαι Εριέττα 10/10/26
+https://v6.cloudskep.com/rikvod/perikliserietta2/perikliserietta101026.mp4?attachment=true
+#EXTINF:-1 group-title="Season 4",Περικλής τζαι Εριέττα 11/10/26
+https://v6.cloudskep.com/rikvod/perikliserietta2/perikliserietta111026.mp4?attachment=true
