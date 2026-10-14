@@ -1668,7 +1668,7 @@ SERIES$$hub://gvrod/star/ekpompes/lingo.txt
 SERIES$$hub://gvrod/star/ekpompes/1-club.txt
 #EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/star/route360-287x382.webp"  ,ROUTE 360
 SERIES$$hub://gvrod/star/ekpompes/route-360.txt
-#EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/star/farma-2024-25-287x382-koutsopoulos-temp.jpeg"  ,ΦΑΡΜΑ
+#EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/star/farma-2024-25-287x382-koutsopoulos-temp.webp"  ,ΦΑΡΜΑ
 SERIES$$hub://gvrod/star/ekpompes/farma.txt
 #EXTINF:-1 group-title="STAR ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/star/first_dates-287x382.webp"  ,FIRST DATES
 SERIES$$hub://gvrod/star/ekpompes/first-dates.txt
@@ -2234,7 +2234,7 @@ SERIES$$hub://cvyod/ant1/sires_arxio/Το.χάρτινο.κουτί.(2021)
 https://www.ant1live.com/webtv/psyhagogia|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/ant1cy/CasaDeMikel 6 Poster.webp"  ,Casa de Mikel
 SERIES$$hub://cvyod/ant1/ekpompes/casa-de-mikel.txt
-#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/ant1cy/IMG_1867.jpeg"  ,αλλάΖΟΥΜΕ by XM
+#EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/ant1cy/IMG_1867.webp"  ,αλλάΖΟΥΜΕ by XM
 SERIES$$hub://cvyod/ant1/ekpompes/allazoumexm.txt
 #EXTINF:-1 group-title="ANT1 ΚΥΠΡΟΥ ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/ant1cy/Passenger 24-25 poster.webp"  ,Passenger
 SERIES$$hub://cvyod/ant1/ekpompes/passenger.txt

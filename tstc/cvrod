@@ -100,7 +100,7 @@ http://.....
 https://www.ant1live.com/webtv/psyhagogia|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/ant1cy/CasaDeMikel 6 Poster.webp" tvg-website="https://www.ant1live.com/webtv/psyhagogia/casa-de-mikel" ,Casa de Mikel
 SERIES$$hub://cvyod/ant1/ekpompes/casa-de-mikel.txt
-#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/ant1cy/IMG_1867.jpeg" tvg-website="https://www.ant1live.com/webtv/psyhagogia/allazoyme-xm" ,αλλάΖΟΥΜΕ by XM
+#EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/ant1cy/IMG_1867.webp" tvg-website="https://www.ant1live.com/webtv/psyhagogia/allazoyme-xm" ,αλλάΖΟΥΜΕ by XM
 SERIES$$hub://cvyod/ant1/ekpompes/allazoumexm.txt
 #EXTINF:-1 group-title="ANT1 ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/ant1cy/Passenger 24-25 poster.webp" tvg-website="https://www.ant1live.com/webtv/psyhagogia/passenger" ,Passenger
 SERIES$$hub://cvyod/ant1/ekpompes/passenger.txt
