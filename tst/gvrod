@@ -2968,7 +2968,7 @@ http://.....
 
 #EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΑΡΧΕΙΟ ΣΕΙΡΕΣ" tvg-logo="hub://logseries/rik/rik-logo.webp" ,ΟΛΟ ΤΟ ΑΡΧΕΙΟ
 https://digital-herodotus.eu/archive/video/categories/|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΑΡΧΕΙΟ ΣΕΙΡΕΣ" tvg-logo="hub://logseries/rik/1528511355640.webp"  ,ΚΑΤΩΘΚΙΟΝ ΤΗΣ ΜΑΔΑΡΗΣ (1967) (ΣΕΙΡΑ)
+#EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΑΡΧΕΙΟ ΣΕΙΡΕΣ" tvg-logo="hub://logseries/rik/1528511355.webp"  ,ΚΑΤΩΘΚΙΟΝ ΤΗΣ ΜΑΔΑΡΗΣ (1967) (ΣΕΙΡΑ)
 SERIES$$hub://cvyod/rik/arxio/katothkion-tes-madares.txt
 #EXTINF:-1 group-title="RIK ΚΥΠΡΟΣ ΑΡΧΕΙΟ ΣΕΙΡΕΣ" tvg-description="hub://desc/RIK/Η.Φροσού.(1977)" tvg-logo="hub://logseries/rik/760847306.webp"  ,Η ΦΡΟΣΟΥ (1977) (ΣΕΙΡΑ)
 SERIES$$hub://cvyod/rik/arxio/e-phrosou.txt
