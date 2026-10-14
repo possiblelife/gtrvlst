@@ -1085,9 +1085,9 @@ SERIES$$hub://gvrod/mega/ekpompes_arxio/mega-stories.txt
 https://www.antenna.gr/shows|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ (ΑΝΤ1 TV ΜΟΝΟ)" tvg-logo="hub://logs/hbb.png" ,Hybrid TV (TV Μόνο)
 http://ant1.smart-tv-data.com/|webvod zoom=150 scroll=0,0
-#EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ (ΑΝΤ1 TV ΜΟΝΟ)" tvg-genre="δράμα" tvg-description="hub://desc/Ant1/krinokaiagkathi" tvg-logo="hub://logseries/ant1/krinokaiagkathi.jpg" ,Κρίνο & Αγκάθι (Ant1 μόνο) (2026)
+#EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ (ΑΝΤ1 TV ΜΟΝΟ)" tvg-genre="δράμα" tvg-description="hub://desc/Ant1/krinokaiagkathi" tvg-logo="hub://logseries/ant1/krinokaiagkathi.jpg" ,Κρίνο & Αγκάθι (2026) (Ant1 μόνο)
 SERIES$$hub://gvrod/ant1/sires/krinokaiagkathi.txt
-#EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ (ΑΝΤ1 TV ΜΟΝΟ)" tvg-genre="δράμα" tvg-description="hub://desc/Ant1/nterti" tvg-logo="hub://logseries/ant1/Nterti.png" ,Ντέρτι (Ant1 μόνο) (2026)
+#EXTINF:-1 group-title="ΑΝΤ1 ΣΕΙΡΕΣ (ΑΝΤ1 TV ΜΟΝΟ)" tvg-genre="δράμα" tvg-description="hub://desc/Ant1/nterti" tvg-logo="hub://logseries/ant1/Nterti.png" ,Ντέρτι (2026) (Ant1 μόνο)
 SERIES$$hub://gvrod/ant1/sires/nterti.txt
 
 
@@ -1474,17 +1474,17 @@ SERIES$$hub://gvrod/open/sires_open/giapantapaidia.txt
 SERIES$$hub://gvrod/open/sires_open/sagapaomenalla.txt
 #EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="κωμωδία" tvg-description="hub://desc/Open/anyphrxesthasexoriza" tvg-logo="hub://logseries/open/an_ipirxes.jpg" ,Αν υπήρχες θα σε χώριζα (2007)
 SERIES$$hub://gvrod/open/sires_open/anyphrxesthasexoriza.txt
-#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="κωμωδία" tvg-description="hub://desc/Open/aristotelhsoaristos" tvg-logo="hub://desc/Open/aristotelis.jpg" ,Αριστοτέλης ο άριστος (1999)
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="κωμωδία" tvg-description="hub://desc/Open/aristotelhsoaristos" tvg-logo="hub://logseries/Open/aristotelis.jpg" ,Αριστοτέλης ο άριστος (1999)
 SERIES$$hub://gvrod/open/sires_open/aristotelhsoaristos.txt
-#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="κωμωδία" tvg-description="hub://desc/Open/haplhmethodostontrion" tvg-logo="hub://desc/Open/i_apli_methodos.jpg" ,Η απλή μέθοδος των τριών (2004)
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="κωμωδία" tvg-description="hub://desc/Open/haplhmethodostontrion" tvg-logo="hub://logseries/Open/i_apli_methodos.jpg" ,Η απλή μέθοδος των τριών (2004)
 SERIES$$hub://gvrod/open/sires_open/haplhmethodostontrion.txt
 #EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="δράμα" tvg-description="hub://desc/Open/Πρίγκιπας.της.φωτιάς.(2018-2019)" tvg-logo="hub://logseries/open/Πρίγκιπαςτηςφωτιάς2018.jpg" ,Πρίγκιπας της φωτιάς (2018-2019)
 SERIES$$hub://gvrod/open/sires_open/oprigkipasthsfotias.txt
 #EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="δράμα, ρομαντική, μυστηρίου" tvg-description="hub://desc/Open/Η.τελευταία.ώρα.(2021-2022)" tvg-logo="hub://logseries/open/Ητελευταίαώρα2021.jpg" ,Η τελευταία ώρα (2021-2022)
 SERIES$$hub://gvrod/open/sires_open/hteleytaiaora.txt
-#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="έγκλημα" tvg-description="hub://desc/Open/kaiomosalhthino" tvg-logo="hub://desc/Open/kai_omws.jpg" ,Και όμως Αληθινό! (2026)
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="έγκλημα" tvg-description="hub://desc/Open/kaiomosalhthino" tvg-logo="hub://logseries/Open/kai_omws.jpg" ,Και όμως Αληθινό! (2026)
 SERIES$$hub://gvrod/open/sires_open/kaiomosalhthino.txt
-#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="έγκλημα, μυστηρίου, δράμα" tvg-description="hub://desc/Open/realdetective" tvg-logo="hub://desc/Open/real_detective.jpg" ,REAL DETECTIVE (2016–2018)
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="έγκλημα, μυστηρίου, δράμα" tvg-description="hub://desc/Open/realdetective" tvg-logo="hub://logseries/Open/real_detective.jpg" ,REAL DETECTIVE (2016–2018)
 SERIES$$hub://gvrod/open/sires_open/realdetective.txt
 
 
