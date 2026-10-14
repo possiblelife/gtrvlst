@@ -1458,55 +1458,55 @@ SERIES$$hub://gvrod/ant1/ekpompes/bravenewgreece.txt
 
 #EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-logo="hub://logs/open.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.tvopen.gr/shows|webvod zoom=100 scroll=0,0
-#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="κωμωδία" tvg-description="hub://desc/Open/tokarethsntamas" tvg-logo="hub://logseries/οpen/kare_dama.jpg"  ,Το καρέ της ντάμας (1997)
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="κωμωδία" tvg-description="hub://desc/Open/tokarethsntamas" tvg-logo="hub://logseries/open/kare_dama.jpg"  ,Το καρέ της ντάμας (1997)
 SERIES$$hub://gvrod/open/sires_open/tokarethsntamas.txt
-#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="δράμα" tvg-description="hub://desc/Open/Το.κόκκινο.ποτάμι.(2019-2023)" tvg-logo="hub://logseries/οpen/Τοκόκκινοποτάμι2019.jpg" ,Το κόκκινο ποτάμι (2019-2023)
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="δράμα" tvg-description="hub://desc/Open/Το.κόκκινο.ποτάμι.(2019-2023)" tvg-logo="hub://logseries/open/Τοκόκκινοποτάμι2019.jpg" ,Το κόκκινο ποτάμι (2019-2023)
 SERIES$$hub://gvrod/open/sires_open/tokokkinopotami.txt
-#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="ρομαντική" tvg-description="hub://desc/Open/Σαν.ψέμα.(2024)" tvg-logo="hub://logseries/οpen/Σανψέμα2024.jpg" ,Σαν ψέμα (2024)
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="ρομαντική" tvg-description="hub://desc/Open/Σαν.ψέμα.(2024)" tvg-logo="hub://logseries/open/Σανψέμα2024.jpg" ,Σαν ψέμα (2024)
 SERIES$$hub://gvrod/open/sires_open/sanpsema.txt
-#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="έγκλημα" tvg-description="hub://desc/Open/Ου.φονεύσεις.(2018-2019)" tvg-logo="hub://logseries/οpen/Ουφονεύσεις2018.jpg" ,Ου φονεύσεις (2018-2019)
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="έγκλημα" tvg-description="hub://desc/Open/Ου.φονεύσεις.(2018-2019)" tvg-logo="hub://logseries/open/Ουφονεύσεις2018.jpg" ,Ου φονεύσεις (2018-2019)
 SERIES$$hub://gvrod/open/sires_open/oyfoneyseis.txt
-#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="οικογενειακή" tvg-description="hub://desc/Open/Η.δική.μας.οικογένεια.(2022-2023)" tvg-logo="hub://logseries/οpen/Ηδικήμαςοικογένεια2022.jpg" ,Η δική μας οικογένεια (2022-2023)
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="οικογενειακή" tvg-description="hub://desc/Open/Η.δική.μας.οικογένεια.(2022-2023)" tvg-logo="hub://logseries/open/Ηδικήμαςοικογένεια2022.jpg" ,Η δική μας οικογένεια (2022-2023)
 SERIES$$hub://gvrod/open/sires_open/hdikhmasoikogeneia.txt
-#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="κωμωδία" tvg-description="hub://desc/Open/Για.πάντα.παιδιά.(2018-2019)" tvg-logo="hub://logseries/οpen/Γιαπάνταπαιδιά2018.jpg" ,Για πάντα παιδιά (2018-2019)
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="κωμωδία" tvg-description="hub://desc/Open/Για.πάντα.παιδιά.(2018-2019)" tvg-logo="hub://logseries/open/Γιαπάνταπαιδιά2018.jpg" ,Για πάντα παιδιά (2018-2019)
 SERIES$$hub://gvrod/open/sires_open/giapantapaidia.txt
-#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="ρομαντική" tvg-description="hub://desc/Open/Σ.αγαπάω.μεν....αλλά.(2021-2022)" tvg-logo="hub://logseries/οpen/Σαγαπάωμεναλλά2021.jpg" ,Σ αγαπάω μεν... αλλά (2021-2022)
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="ρομαντική" tvg-description="hub://desc/Open/Σ.αγαπάω.μεν....αλλά.(2021-2022)" tvg-logo="hub://logseries/open/Σαγαπάωμεναλλά2021.jpg" ,Σ αγαπάω μεν... αλλά (2021-2022)
 SERIES$$hub://gvrod/open/sires_open/sagapaomenalla.txt
-#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="κωμωδία" tvg-description="hub://desc/Open/anyphrxesthasexoriza" tvg-logo="hub://logseries/οpen/an_ipirxes.jpg" ,Αν υπήρχες θα σε χώριζα (2007)
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="κωμωδία" tvg-description="hub://desc/Open/anyphrxesthasexoriza" tvg-logo="hub://logseries/open/an_ipirxes.jpg" ,Αν υπήρχες θα σε χώριζα (2007)
 SERIES$$hub://gvrod/open/sires_open/anyphrxesthasexoriza.txt
-#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="κωμωδία" tvg-description="hub://desc/Open/aristotelhsoaristos" tvg-logo="hub://logseries/οpen/aristotelis.jpg" ,Αριστοτέλης ο άριστος (1999)
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="κωμωδία" tvg-description="hub://desc/Open/aristotelhsoaristos" tvg-logo="hub://logseries/open/aristotelis.jpg" ,Αριστοτέλης ο άριστος (1999)
 SERIES$$hub://gvrod/open/sires_open/aristotelhsoaristos.txt
-#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="κωμωδία" tvg-description="hub://desc/Open/haplhmethodostontrion" tvg-logo="hub://logseries/οpen/i_apli_methodos.jpg" ,Η απλή μέθοδος των τριών (2004)
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="κωμωδία" tvg-description="hub://desc/Open/haplhmethodostontrion" tvg-logo="hub://logseries/open/i_apli_methodos.jpg" ,Η απλή μέθοδος των τριών (2004)
 SERIES$$hub://gvrod/open/sires_open/haplhmethodostontrion.txt
-#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="δράμα" tvg-description="hub://desc/Open/Πρίγκιπας.της.φωτιάς.(2018-2019)" tvg-logo="hub://logseries/οpen/Πρίγκιπαςτηςφωτιάς2018.jpg" ,Πρίγκιπας της φωτιάς (2018-2019)
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="δράμα" tvg-description="hub://desc/Open/Πρίγκιπας.της.φωτιάς.(2018-2019)" tvg-logo="hub://logseries/open/Πρίγκιπαςτηςφωτιάς2018.jpg" ,Πρίγκιπας της φωτιάς (2018-2019)
 SERIES$$hub://gvrod/open/sires_open/oprigkipasthsfotias.txt
-#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="δράμα, ρομαντική, μυστηρίου" tvg-description="hub://desc/Open/Η.τελευταία.ώρα.(2021-2022)" tvg-logo="hub://logseries/οpen/Ητελευταίαώρα2021.jpg" ,Η τελευταία ώρα (2021-2022)
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="δράμα, ρομαντική, μυστηρίου" tvg-description="hub://desc/Open/Η.τελευταία.ώρα.(2021-2022)" tvg-logo="hub://logseries/open/Ητελευταίαώρα2021.jpg" ,Η τελευταία ώρα (2021-2022)
 SERIES$$hub://gvrod/open/sires_open/hteleytaiaora.txt
-#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="έγκλημα" tvg-description="hub://desc/Open/kaiomosalhthino" tvg-logo="hub://logseries/οpen/kai_omws.jpg" ,Και όμως Αληθινό! (2026)
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="έγκλημα" tvg-description="hub://desc/Open/kaiomosalhthino" tvg-logo="hub://logseries/open/kai_omws.jpg" ,Και όμως Αληθινό! (2026)
 SERIES$$hub://gvrod/open/sires_open/kaiomosalhthino.txt
-#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="έγκλημα, μυστηρίου, δράμα" tvg-description="hub://desc/Open/realdetective" tvg-logo="hub://logseries/οpen/real_detective.jpg" ,REAL DETECTIVE (2016–2018)
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (OPEN TV ΜΟΝΟ)" tvg-genre="έγκλημα, μυστηρίου, δράμα" tvg-description="hub://desc/Open/realdetective" tvg-logo="hub://logseries/open/real_detective.jpg" ,REAL DETECTIVE (2016–2018)
 SERIES$$hub://gvrod/open/sires_open/realdetective.txt
 
 
 
 
-#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="κωμωδία" tvg-description="hub://desc/Open/Για.πάντα.παιδιά.(2018-2019)" tvg-logo="hub://logseries/οpen/Γιαπάνταπαιδιά2018.jpg" ,Για πάντα παιδιά (2018-2019)
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="κωμωδία" tvg-description="hub://desc/Open/Για.πάντα.παιδιά.(2018-2019)" tvg-logo="hub://logseries/open/Γιαπάνταπαιδιά2018.jpg" ,Για πάντα παιδιά (2018-2019)
 SERIES$$hub://gvrod/open/sires_arxio/Για.πάντα.παιδιά.(2018-2019)
-#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="κωμωδία" tvg-description="hub://desc/Open/Ελεύθερη.σχέση.(2018-2019)" tvg-logo="hub://logseries/οpen/Ελεύθερησχέση2018.jpg" ,Ελεύθερη σχέση (2018-2019)
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="κωμωδία" tvg-description="hub://desc/Open/Ελεύθερη.σχέση.(2018-2019)" tvg-logo="hub://logseries/open/Ελεύθερησχέση2018.jpg" ,Ελεύθερη σχέση (2018-2019)
 SERIES$$hub://gvrod/open/sires_arxio/Ελεύθερη.σχέση.(2018-2019)
-#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="οικογενειακή" tvg-description="hub://desc/Open/Η.δική.μας.οικογένεια.(2022-2023)" tvg-logo="hub://logseries/οpen/Ηδικήμαςοικογένεια2022.jpg" ,Η δική μας οικογένεια (2022-2023)
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="οικογενειακή" tvg-description="hub://desc/Open/Η.δική.μας.οικογένεια.(2022-2023)" tvg-logo="hub://logseries/open/Ηδικήμαςοικογένεια2022.jpg" ,Η δική μας οικογένεια (2022-2023)
 SERIES$$hub://gvrod/open/sires_arxio/Η.δική.μας.οικογένεια.(2022-2023)
-#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="δράμα, ρομαντική, μυστηρίου" tvg-description="hub://desc/Open/Η.τελευταία.ώρα.(2021-2022)" tvg-logo="hub://logseries/οpen/Ητελευταίαώρα2021.jpg" ,Η τελευταία ώρα (2021-2022)
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="δράμα, ρομαντική, μυστηρίου" tvg-description="hub://desc/Open/Η.τελευταία.ώρα.(2021-2022)" tvg-logo="hub://logseries/open/Ητελευταίαώρα2021.jpg" ,Η τελευταία ώρα (2021-2022)
 SERIES$$hub://gvrod/open/sires_arxio/Η.τελευταία.ώρα.(2021-2022)
-#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="έγκλημα" tvg-description="hub://desc/Open/Ου.φονεύσεις.(2018-2019)" tvg-logo="hub://logseries/οpen/Ουφονεύσεις2018.jpg" ,Ου φονεύσεις (2018-2019)
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="έγκλημα" tvg-description="hub://desc/Open/Ου.φονεύσεις.(2018-2019)" tvg-logo="hub://logseries/open/Ουφονεύσεις2018.jpg" ,Ου φονεύσεις (2018-2019)
 SERIES$$hub://gvrod/open/sires_arxio/Ου.φονεύσεις.(2018-2019)
-#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="δράμα" tvg-description="hub://desc/Open/Πρίγκιπας.της.φωτιάς.(2018-2019)" tvg-logo="hub://logseries/οpen/Πρίγκιπαςτηςφωτιάς2018.jpg" ,Πρίγκιπας της φωτιάς (2018-2019)
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="δράμα" tvg-description="hub://desc/Open/Πρίγκιπας.της.φωτιάς.(2018-2019)" tvg-logo="hub://logseries/open/Πρίγκιπαςτηςφωτιάς2018.jpg" ,Πρίγκιπας της φωτιάς (2018-2019)
 SERIES$$hub://gvrod/open/sires_arxio/Πρίγκιπας.της.φωτιάς.(2018-2019)
-#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="ρομαντική" tvg-description="hub://desc/Open/Σ.αγαπάω.μεν....αλλά.(2021-2022)" tvg-logo="hub://logseries/οpen/Σαγαπάωμεναλλά2021.jpg" ,Σ αγαπάω μεν... αλλά (2021-2022)
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="ρομαντική" tvg-description="hub://desc/Open/Σ.αγαπάω.μεν....αλλά.(2021-2022)" tvg-logo="hub://logseries/open/Σαγαπάωμεναλλά2021.jpg" ,Σ αγαπάω μεν... αλλά (2021-2022)
 SERIES$$hub://gvrod/open/sires_arxio/Σ'.αγαπάω.μεν....αλλά.(2021-2022)
-#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="ρομαντική" tvg-description="hub://desc/Open/Σαν.ψέμα.(2024)" tvg-logo="hub://logseries/οpen/Σανψέμα2024.jpg" ,Σαν ψέμα (2024)
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="ρομαντική" tvg-description="hub://desc/Open/Σαν.ψέμα.(2024)" tvg-logo="hub://logseries/open/Σανψέμα2024.jpg" ,Σαν ψέμα (2024)
 SERIES$$hub://gvrod/open/sires_arxio/Σαν.ψέμα.(2024)
-#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="δράμα" tvg-description="hub://desc/Open/Το.κόκκινο.ποτάμι.(2019-2023)" tvg-logo="hub://logseries/οpen/Τοκόκκινοποτάμι2019.jpg" ,Το κόκκινο ποτάμι (2019-2023)
+#EXTINF:-1 group-title="OPEN ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="δράμα" tvg-description="hub://desc/Open/Το.κόκκινο.ποτάμι.(2019-2023)" tvg-logo="hub://logseries/open/Τοκόκκινοποτάμι2019.jpg" ,Το κόκκινο ποτάμι (2019-2023)
 SERIES$$hub://gvrod/open/sires_arxio/Το.κόκκινο.ποτάμι.(2019-2023)
 
 
@@ -1516,39 +1516,39 @@ SERIES$$hub://gvrod/open/sires_arxio/Το.κόκκινο.ποτάμι.(2019-2023
 #EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logs/open.png" ,ΟΛΕΣ ΟΙ ΕΚΠΟΜΠΕΣ
 https://www.tvopen.gr/shows|webvod zoom=100 scroll=0,0
 
-#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/οpen/776a2c8d-0aa7-410d-9d50-fc719fb2a5e5.jpg"  ,Ο Πιο Αδύναμος Κρίκος
+#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/open/776a2c8d-0aa7-410d-9d50-fc719fb2a5e5.jpg"  ,Ο Πιο Αδύναμος Κρίκος
 SERIES$$hub://gvrod/open/ekpompes/opioadynamoskrikos.txt
-#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/οpen/061c0a90-42d7-4021-b207-a5390a7cc3df.jpg"  ,After dark
+#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/open/061c0a90-42d7-4021-b207-a5390a7cc3df.jpg"  ,After dark
 SERIES$$hub://gvrod/open/ekpompes/afterdark.txt
-#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/οpen/e56f0023-9427-43ca-8849-3a63384c4993.jpg"  ,The Life Manifesto
+#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/open/e56f0023-9427-43ca-8849-3a63384c4993.jpg"  ,The Life Manifesto
 SERIES$$hub://gvrod/open/ekpompes/thelifemanifesto.txt
-#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/οpen/09eba744-d62c-4e48-ae85-d96fcfac3dc8.jpg"  ,Εικόνες με τον Τάσο Δούση
+#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/open/09eba744-d62c-4e48-ae85-d96fcfac3dc8.jpg"  ,Εικόνες με τον Τάσο Δούση
 SERIES$$hub://gvrod/open/ekpompes/eikonesmetontasodoysh.txt
-#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/οpen/ac7d0402-b4df-43e4-8e90-95944688dc0a.jpg"  ,Υποθέσεις
+#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/open/ac7d0402-b4df-43e4-8e90-95944688dc0a.jpg"  ,Υποθέσεις
 SERIES$$hub://gvrod/open/ekpompes/ypotheseis.txt
-#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/οpen/ab603085-59b3-48eb-ae1f-e386e019901e.jpg"  ,Κάθε μέρα chef με τον Βαγγέλη Δρίσκα
+#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/open/ab603085-59b3-48eb-ae1f-e386e019901e.jpg"  ,Κάθε μέρα chef με τον Βαγγέλη Δρίσκα
 SERIES$$hub://gvrod/open/ekpompes_arxio/kathemerachefmetonbaggelhdriska.txt
-#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/οpen/3200cf29-f62d-4adb-b5d1-83c0b38b7bb9.jpg"  ,OPEN Kitchen
+#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/open/3200cf29-f62d-4adb-b5d1-83c0b38b7bb9.jpg"  ,OPEN Kitchen
 SERIES$$hub://gvrod/open/ekpompes/openkitchen.txt
-#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/οpen/e002ac44-9151-4166-b5f9-1282b87539a4.jpg"  ,Chef στην κουζίνα σας
+#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/open/e002ac44-9151-4166-b5f9-1282b87539a4.jpg"  ,Chef στην κουζίνα σας
 SERIES$$hub://gvrod/open/ekpompes/chefsthnkoyzinasasmetonbaggelhdriska.txt
-#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/οpen/c986f91a-c9d7-456c-bc2b-7b9497558c50.jpg"  ,Ανοιχτά
+#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/open/c986f91a-c9d7-456c-bc2b-7b9497558c50.jpg"  ,Ανοιχτά
 SERIES$$hub://gvrod/open/ekpompes_arxio/anoixta.txt
-#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/οpen/20668195-66ad-4a4d-b66d-b11a856c323e.jpg"  ,Αννίτα Κοίτα
+#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/open/20668195-66ad-4a4d-b66d-b11a856c323e.jpg"  ,Αννίτα Κοίτα
 SERIES$$hub://gvrod/open/ekpompes_arxio/annitakoita.txt
-#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/οpen/ba6d633b-1b48-406b-b9c9-e1d07145bba4.jpg"  ,Γλυκές αλχημείες
+#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/open/ba6d633b-1b48-406b-b9c9-e1d07145bba4.jpg"  ,Γλυκές αλχημείες
 SERIES$$hub://gvrod/open/ekpompes_arxio/glykesalxhmeies.txt
-#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/οpen/d80572b9-0fb1-4238-a69f-604184d6537c.jpg"  ,Κουζίνα για δύο
+#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/open/d80572b9-0fb1-4238-a69f-604184d6537c.jpg"  ,Κουζίνα για δύο
 SERIES$$hub://gvrod/open/ekpompes_arxio/koyzinagiadyo.txt
-#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/οpen/38f27ac0-ba73-4a39-9f80-9ae277962ffc.jpg"  ,Λάβα
+#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/open/38f27ac0-ba73-4a39-9f80-9ae277962ffc.jpg"  ,Λάβα
 SERIES$$hub://gvrod/open/ekpompes_arxio/laba.txt
-#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/οpen/73eef00e-08cf-4162-b6ae-88067d2be3f0.jpg"  ,Όσα (δε) λέμε
+#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/open/73eef00e-08cf-4162-b6ae-88067d2be3f0.jpg"  ,Όσα (δε) λέμε
 SERIES$$hub://gvrod/open/ekpompes_arxio/osadeleme.txt
-#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/οpen/8ea7587a-13f1-4a2c-9556-e61619fade76.jpg"  ,Οδός Ζαρίφη
+#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/open/8ea7587a-13f1-4a2c-9556-e61619fade76.jpg"  ,Οδός Ζαρίφη
 SERIES$$hub://gvrod/open/ekpompes_arxio/odoszarifh.txt
-#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/οpen/eabf83e3-a331-49a6-95aa-fc322740251e.jpg"  ,Ό,τι αγαπώ
+#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/open/eabf83e3-a331-49a6-95aa-fc322740251e.jpg"  ,Ό,τι αγαπώ
 SERIES$$hub://gvrod/open/ekpompes_arxio/otiagapo.txt
-#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/οpen/529b4c27-3f60-43b5-9f8e-0dfdeece4280.jpg"  ,Ράδιο αρβύλα
+#EXTINF:-1 group-title="OPEN ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/open/529b4c27-3f60-43b5-9f8e-0dfdeece4280.jpg"  ,Ράδιο αρβύλα
 SERIES$$hub://gvrod/open/ekpompes_arxio/radioarbyla.txt
 
 
