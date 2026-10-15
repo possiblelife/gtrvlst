@@ -454,3 +454,7 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=226240&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=226344&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 2",09/10/2026 ΠΑΜΕ ΠΑΡΕΑ
 https://www.omegatv.com.cy/cgibin/hweb?-A=226347&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",12/10/2026 ΠΑΜΕ ΠΑΡΕΑ
+https://www.omegatv.com.cy/cgibin/hweb?-A=226354&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 2",13/10/2026 ΠΑΜΕ ΠΑΡΕΑ
+https://www.omegatv.com.cy/cgibin/hweb?-A=226358&-V=vod|webfulldig
