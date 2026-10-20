@@ -216,7 +216,7 @@ https://livetv.streams.ovh:8081/kriti/index.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="LYCHNOS" tvg-logo="hub://logs/LYXNOC.webp" tvg-name="ΛΥΧΝΟC (ΠΕΛΟΠΟΝΝΗΣΟΥ)" tvg-website="http://i-m-patron.gr/lychnostv/" ,ΛΥΧΝΟC (ΠΕΛΟΠΟΝΝΗΣΟΥ)
 https://thor.mental-media.gr:19360/imp/imp.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="LYCHNOS" tvg-logo="hub://logs/LYXNOC.webp" tvg-name="ΛΥΧΝΟC (ΠΕΛΟΠΟΝΝΗΣΟΥ)" tvg-website="http://i-m-patron.gr/lychnostv/" ,ΛΥΧΝΟC Youtube (ΠΕΛΟΠΟΝΝΗΣΟΥ) (ΕΝΑΛΛΑΚΤΙΚΟ)
-https://www.youtube.com/c/%CE%9B%CE%A5%CE%A7%CE%9D%CE%9F%CE%A3%CE%A4%CE%B7%CE%BB%CE%B5%CF%8C%CF%81%CE%B1%CF%83%CE%B7/live
+https://www.youtube.com/watch?v=CvMdzzETCfQ
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="LEPANTO" tvg-logo="hub://logs/lepanto.webp" tvg-website="https://lepantortv.gr/" ,Lepanto TV (ΠΕΛΟΠΟΝΝΗΣΟΥ)
 https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="MESOGEIOS TV" tvg-logo="hub://logs/mesogios.webp" tvg-name="ΜΕΣΟΓΕΙΟΣ TV (ΠΕΛΟΠΟΝΝΗΣΟΥ)" tvg-website="https://www.mesogeiostv.gr/" ,ΜΕΣΟΓΕΙΟΣ TV (ΠΕΛΟΠΟΝΝΗΣΟΥ)
@@ -569,7 +569,7 @@ https://mcv.streams.gr/stream/agiosioannistheologoslivetv/index.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-id="LYCHNOS" tvg-logo="hub://logs/LYXNOC.webp" tvg-name="ΛΥΧΝΟC (ΠΕΛΟΠΟΝΝΗΣΟΥ)" tvg-website="http://i-m-patron.gr/lychnostv/" ,ΛΥΧΝΟC (ΠΕΛΟΠΟΝΝΗΣΟΥ)
 https://thor.mental-media.gr:19360/imp/imp.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-id="LYCHNOS" tvg-logo="hub://logs/LYXNOC.webp" tvg-name="ΛΥΧΝΟC (ΠΕΛΟΠΟΝΝΗΣΟΥ)" tvg-website="http://i-m-patron.gr/lychnostv/" ,ΛΥΧΝΟC Youtube (ΠΕΛΟΠΟΝΝΗΣΟΥ) (ΕΝΑΛΛΑΚΤΙΚΟ)
-https://www.youtube.com/c/%CE%9B%CE%A5%CE%A7%CE%9D%CE%9F%CE%A3%CE%A4%CE%B7%CE%BB%CE%B5%CF%8C%CF%81%CE%B1%CF%83%CE%B7/live
+https://www.youtube.com/watch?v=CvMdzzETCfQ
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-logo="hub://logs/ekkisia_tv.webp" ,Εκκλησία tv HD
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-logo="hub://logs/ecclesiatv.webp" tvg-website="https://ecclesiatv.gr/" ,ecclesiaTV.gr
