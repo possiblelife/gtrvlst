@@ -1562,6 +1562,8 @@ https://www.star.gr/tv/seires|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ (STAR TV ΜΟΝΟ)" tvg-logo="hub://logs/hbb.webp" ,Hybrid TV (TV Μόνο)
 http://star.smart-tv-data.com/|webvod zoom=150 scroll=0,0
 
+#EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ (STAR TV ΜΟΝΟ)"  tvg-genre="κωμωδία" tvg-description="hub://desc/Star/IQ.160.(2023-2024)" tvg-logo="hub://logseries/star/IQ1602023.webp" ,IQ 160 (2023-2026)
+SERIES$$hub://gvrod/star/sires/iq-160.txt
 #EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ (STAR TV ΜΟΝΟ)"  tvg-genre="κωμωδία" tvg-description="hub://desc/Star/Τα.φαντάσματα.(2025)" tvg-logo="hub://logseries/star/Ταφαντάσματα2025.webp" ,Τα Φαντάσματα (2025-2026)
 SERIES$$hub://gvrod/star/sires/ta-fadasmata.txt
 #EXTINF:-1 group-title="STAR ΣΕΙΡΕΣ (STAR TV ΜΟΝΟ)" tvg-genre="κωμωδία" tvg-description="hub://desc/Star/Στα.σύνορα.(2023-2024)" tvg-logo="hub://logseries/star/Στασύνορα2023.webp" ,Στα σύνορα (2023-2024)
