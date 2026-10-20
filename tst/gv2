@@ -213,8 +213,10 @@ https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
 https://cdn5.smart-tv-data.com/regio/CreteTV/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="KPHTH1" tvg-logo="hub://logs/kriti1.webp" ,ΚΡΗΤΗ1 (ΚΡΗΤΗΣ)
 https://livetv.streams.ovh:8081/kriti/index.m3u8
-#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="LYCHNOS" tvg-logo="hub://logs/LYXNOC.webp" tvg-website="http://i-m-patron.gr/lychnostv/" ,ΛΥΧΝΟC (ΠΕΛΟΠΟΝΝΗΣΟΥ)
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="LYCHNOS" tvg-logo="hub://logs/LYXNOC.webp" tvg-name="ΛΥΧΝΟC (ΠΕΛΟΠΟΝΝΗΣΟΥ)" tvg-website="http://i-m-patron.gr/lychnostv/" ,ΛΥΧΝΟC (ΠΕΛΟΠΟΝΝΗΣΟΥ)
 https://thor.mental-media.gr:19360/imp/imp.m3u8
+#EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="LYCHNOS" tvg-logo="hub://logs/LYXNOC.webp" tvg-name="ΛΥΧΝΟC (ΠΕΛΟΠΟΝΝΗΣΟΥ)" tvg-website="http://i-m-patron.gr/lychnostv/" ,ΛΥΧΝΟC Youtube (ΠΕΛΟΠΟΝΝΗΣΟΥ) (ΕΝΑΛΛΑΚΤΙΚΟ)
+https://www.youtube.com/c/%CE%9B%CE%A5%CE%A7%CE%9D%CE%9F%CE%A3%CE%A4%CE%B7%CE%BB%CE%B5%CF%8C%CF%81%CE%B1%CF%83%CE%B7/live
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="LEPANTO" tvg-logo="hub://logs/lepanto.webp" tvg-website="https://lepantortv.gr/" ,Lepanto TV (ΠΕΛΟΠΟΝΝΗΣΟΥ)
 https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="MESOGEIOS TV" tvg-logo="hub://logs/mesogios.webp" tvg-name="ΜΕΣΟΓΕΙΟΣ TV (ΠΕΛΟΠΟΝΝΗΣΟΥ)" tvg-website="https://www.mesogeiostv.gr/" ,ΜΕΣΟΓΕΙΟΣ TV (ΠΕΛΟΠΟΝΝΗΣΟΥ)
@@ -564,8 +566,10 @@ https://www.youtube.com/@Oddbods/videos|webepg zoom=100 scroll=0,0
 http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"   tvg-logo="hub://logs/agios_ioannis.webp" tvg-website="https://agiosioannistheologosmantoudiou.blogspot.com/" ,Άγιος Ιωάννης στο Μαντούδι Ευβοίας
 https://mcv.streams.gr/stream/agiosioannistheologoslivetv/index.m3u8
-#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-id="LYCHNOS" tvg-logo="hub://logs/LYXNOC.webp" tvg-website="http://i-m-patron.gr/lychnostv/" ,ΛΥΧΝΟC (ΠΕΛΟΠΟΝΝΗΣΟΥ)
+#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-id="LYCHNOS" tvg-logo="hub://logs/LYXNOC.webp" tvg-name="ΛΥΧΝΟC (ΠΕΛΟΠΟΝΝΗΣΟΥ)" tvg-website="http://i-m-patron.gr/lychnostv/" ,ΛΥΧΝΟC (ΠΕΛΟΠΟΝΝΗΣΟΥ)
 https://thor.mental-media.gr:19360/imp/imp.m3u8
+#EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-id="LYCHNOS" tvg-logo="hub://logs/LYXNOC.webp" tvg-name="ΛΥΧΝΟC (ΠΕΛΟΠΟΝΝΗΣΟΥ)" tvg-website="http://i-m-patron.gr/lychnostv/" ,ΛΥΧΝΟC Youtube (ΠΕΛΟΠΟΝΝΗΣΟΥ) (ΕΝΑΛΛΑΚΤΙΚΟ)
+https://www.youtube.com/c/%CE%9B%CE%A5%CE%A7%CE%9D%CE%9F%CE%A3%CE%A4%CE%B7%CE%BB%CE%B5%CF%8C%CF%81%CE%B1%CF%83%CE%B7/live
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-logo="hub://logs/ekkisia_tv.webp" ,Εκκλησία tv HD
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-logo="hub://logs/ecclesiatv.webp" tvg-website="https://ecclesiatv.gr/" ,ecclesiaTV.gr
