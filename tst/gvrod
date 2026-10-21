@@ -1714,23 +1714,23 @@ SERIES$$hub://gvrod/star/ekpompes_arxio/globetrotters.txt
 
 
 
-#EXTINF:-1 group-title="ERT ΣΕΙΡΕΣ (ERTFLIX ΜΟΝΟ)" tvg-logo="hub://logseries/ert/flixert.webp" ,Σειρές (ΕΡΤFLIX)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ (ERTFLIX ΜΟΝΟ)" tvg-logo="hub://logseries/ert/flixert.webp" ,Σειρές (ΕΡΤFLIX)
 https://www.ertflix.gr/#/show/SeriesXP|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ERT ΣΕΙΡΕΣ (ERTFLIX ΜΟΝΟ)" tvg-logo="hub://logseries/ert/flixert.webp" ,Ταινίες (ΕΡΤFLIX)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ (ERTFLIX ΜΟΝΟ)" tvg-logo="hub://logseries/ert/flixert.webp" ,Ταινίες (ΕΡΤFLIX)
 https://www.ertflix.gr/#/show/MoviesXP|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ERT ΣΕΙΡΕΣ (ERTFLIX ΜΟΝΟ)" tvg-logo="hub://logseries/ert/flixert.webp" ,Κινούμενα Σχέδια (ΕΡΤFLIX)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ (ERTFLIX ΜΟΝΟ)" tvg-logo="hub://logseries/ert/flixert.webp" ,Κινούμενα Σχέδια (ΕΡΤFLIX)
 https://www.ertflix.gr/#/show/KidsXP|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ERT ΣΕΙΡΕΣ (ERTFLIX ΜΟΝΟ)" tvg-logo="hub://logseries/ert/flixert.webp" ,ΕΛΛΗΝΙΚΑ ΝΤΟΚΙΜΑΝΤΕΡ (ΕΡΤFLIX)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ (ERTFLIX ΜΟΝΟ)" tvg-logo="hub://logseries/ert/flixert.webp" ,ΕΛΛΗΝΙΚΑ ΝΤΟΚΙΜΑΝΤΕΡ (ΕΡΤFLIX)
 https://www.ertflix.gr/#/show/DocumentariesXP|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ERT ΣΕΙΡΕΣ (ERTFLIX ΜΟΝΟ)" tvg-logo="hub://logseries/ert/flixert.webp" ,ΕΚΠΟΜΠΕΣ (ΕΡΤFLIX)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ (ERTFLIX ΜΟΝΟ)" tvg-logo="hub://logseries/ert/flixert.webp" ,ΕΚΠΟΜΠΕΣ (ΕΡΤFLIX)
 https://www.ertflix.gr/#/show/ShowsXP|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ERT ΣΕΙΡΕΣ (ERTFLIX ΜΟΝΟ)" tvg-logo="hub://logseries/ert/flixert.webp" ,ΕΝΗΜΕΡΩΣΗ (ΕΡΤFLIX)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ (ERTFLIX ΜΟΝΟ)" tvg-logo="hub://logseries/ert/flixert.webp" ,ΕΝΗΜΕΡΩΣΗ (ΕΡΤFLIX)
 https://www.ertflix.gr/#/show/NewsXP|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ERT ΣΕΙΡΕΣ (ERTFLIX ΜΟΝΟ)" tvg-logo="hub://logseries/ert/flixert.webp" ,ΑΘΛΗΤΙΚΑ (ΕΡΤFLIX)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ (ERTFLIX ΜΟΝΟ)" tvg-logo="hub://logseries/ert/flixert.webp" ,ΑΘΛΗΤΙΚΑ (ΕΡΤFLIX)
 https://www.ertflix.gr/#/show/SportsXP|webmulti zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ERT ΣΕΙΡΕΣ (ERTFLIX ΜΟΝΟ)" tvg-genre="κωμωδία" tvg-description="hub://desc/ert/Κουτσουπιές" tvg-logo="hub://logseries/ert/koutsoupies.webp" ,Κουτσουπιές (2026-2027) (ERTFLIX ΜΟΝΟ)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ (ERTFLIX ΜΟΝΟ)" tvg-genre="κωμωδία" tvg-description="hub://desc/ert/Κουτσουπιές" tvg-logo="hub://logseries/ert/koutsoupies.webp" ,Κουτσουπιές (2026-2027) (ERTFLIX ΜΟΝΟ)
 SERIES$$hub://gvrod/ert/sires/Κουτσουπιές.txt
-#EXTINF:-1 group-title="ERT ΣΕΙΡΕΣ (ERTFLIX ΜΟΝΟ)" tvg-genre="κωμωδία" tvg-description="hub://desc/ert/TV_Land" tvg-logo="hub://logseries/ert/tvland.webp" ,TV Land (2026-2027) (ERTFLIX ΜΟΝΟ)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ (ERTFLIX ΜΟΝΟ)" tvg-genre="κωμωδία" tvg-description="hub://desc/ert/TV_Land" tvg-logo="hub://logseries/ert/tvland.webp" ,TV Land (2026-2027) (ERTFLIX ΜΟΝΟ)
 SERIES$$hub://gvrod/ert/sires/TV.Land.txt
 #EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ (ERTFLIX ΜΟΝΟ)" tvg-genre="δράμα, δράση" tvg-description="hub://desc/ert/Αύριο.(2026)" tvg-logo="hub://logseries/ert/Αύριο2026.webp" ,Αύριο (2026) (ERTFLIX ΜΟΝΟ)
 SERIES$$hub://gvrod/ert/sires_ert/Αύριο.txt
@@ -1830,9 +1830,9 @@ SERIES$$hub://gvrod/ert/sires_ert/Ακυβέρνητες.Πολιτείες.txt
 SERIES$$hub://gvrod/ert/sires_ert/Ασθενείς.και.Οδοιπόροι.txt
 #EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ (ERTFLIX ΜΟΝΟ)" tvg-genre="δράμα" tvg-description="hub://desc/ert/Η.αγάπη.άργησε.μια.μέρα.(1997-1998)" tvg-logo="hub://logseries/ert/Ηαγάπηάργησεμιαμέρα.webp" ,Η αγάπη άργησε μια μέρα (1997-1998) (ERTFLIX ΜΟΝΟ)
 SERIES$$hub://gvrod/ert/sires_ert/Η.Αγάπη.Άργησε.μια.Μέρα.txt
-#EXTINF:-1 group-title="ERT ΣΕΙΡΕΣ (ERTFLIX ΜΟΝΟ)" tvg-genre="ιστορική" tvg-description="hub://desc/ert/Βραδιά_Επιθεώρησης" tvg-logo="hub://logseries/ert/vradiaepith.webp" ,Βραδιά Επιθεώρησης (1984) (ERTFLIX ΜΟΝΟ)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ (ERTFLIX ΜΟΝΟ)" tvg-genre="ιστορική" tvg-description="hub://desc/ert/Βραδιά_Επιθεώρησης" tvg-logo="hub://logseries/ert/vradiaepith.webp" ,Βραδιά Επιθεώρησης (1984) (ERTFLIX ΜΟΝΟ)
 SERIES$$hub://gvrod/ert/sires_ert/Βραδιά.Επιθεώρησης.txt
-#EXTINF:-1 group-title="ERT ΣΕΙΡΕΣ (ERTFLIX ΜΟΝΟ)" tvg-genre="ιστορική" tvg-description="hub://desc/ert/Εκπομπές_που_Αγάπησα" tvg-logo="hub://logseries/ert/ekpompesagapisa.webp" ,Εκπομπές που Αγάπησα (1993) (ERTFLIX ΜΟΝΟ)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ (ERTFLIX ΜΟΝΟ)" tvg-genre="ιστορική" tvg-description="hub://desc/ert/Εκπομπές_που_Αγάπησα" tvg-logo="hub://logseries/ert/ekpompesagapisa.webp" ,Εκπομπές που Αγάπησα (1993) (ERTFLIX ΜΟΝΟ)
 SERIES$$hub://gvrod/ert/sires_ert/Εκπομπές.που.Αγάπησα.txt
 #EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ (ERTFLIX ΜΟΝΟ)" tvg-genre="δράμα" tvg-description="hub://desc/ert/Καρυωτάκης.(2009)" tvg-logo="hub://logseries/ert/karuwtakis.webp" ,Καρυωτάκης (2009) (ERTFLIX ΜΟΝΟ)
 SERIES$$hub://gvrod/ert/sires_ert/Καρυωτάκης.txt
@@ -1840,7 +1840,7 @@ SERIES$$hub://gvrod/ert/sires_ert/Καρυωτάκης.txt
 SERIES$$hub://gvrod/ert/sires_ert/Ο.Χριστός.Ξανασταυρώνεται.txt
 #EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ (ERTFLIX ΜΟΝΟ)" tvg-genre="κωμωδία, κοινωνική" tvg-description="hub://desc/ert/Στο.κάμπινγκ.(1989)" tvg-logo="hub://logseries/ert/stokampingk.webp" ,Στο κάμπινγκ (1989) (ERTFLIX ΜΟΝΟ)
 SERIES$$hub://gvrod/ert/sires_ert/Στο.Κάμπινγκ.txt
-#EXTINF:-1 group-title="ERT ΣΕΙΡΕΣ (ERTFLIX ΜΟΝΟ)" tvg-genre="ιστορική" tvg-description="hub://desc/ert/Ζήτω_το_Ελληνικό_Τραγούδι" tvg-logo="hub://logseries/ert/zitomousiko.webp" ,Ζήτω το Ελληνικό Τραγούδι (1980) (ERTFLIX ΜΟΝΟ)
+#EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ (ERTFLIX ΜΟΝΟ)" tvg-genre="ιστορική" tvg-description="hub://desc/ert/Ζήτω_το_Ελληνικό_Τραγούδι" tvg-logo="hub://logseries/ert/zitomousiko.webp" ,Ζήτω το Ελληνικό Τραγούδι (1980) (ERTFLIX ΜΟΝΟ)
 SERIES$$hub://gvrod/ert/sires_ert/Ζήτω.το.Ελληνικό.Τραγούδι.txt
 #EXTINF:-1 group-title="ΕΡΤ ΣΕΙΡΕΣ (ERTFLIX ΜΟΝΟ)" tvg-genre="κωμωδία, δράμα" tvg-description="hub://desc/ert/Μαντάμ.Σουσού.(1982-1983)" tvg-logo="hub://logseries/ert/mantamsousou.webp" ,Μαντάμ Σουσού (1982-1983) (ERTFLIX ΜΟΝΟ)
 SERIES$$hub://gvrod/ert/sires_ert/Μαντάμ.Σουσού.txt
