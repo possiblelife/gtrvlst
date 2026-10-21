@@ -1,0 +1,64 @@
+#EXTINF:-1 group-title="Season 1",Ε1 ‧ Το Πεπρωμένο
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-2-s01-ep01-to-peprwmeno/o-orkos-2-s01-ep01-to-peprwmeno/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε2 ‧ Η Βοήθεια
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-2-s01-ep02-i-voitheia/o-orkos-2-s01-ep02-i-voitheia/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε3 ‧ Ο Χρόνος και το Φως
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-2-s01-ep03-o-xronos-kai-to-fws/o-orkos-2-s01-ep03-o-xronos-kai-to-fws/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε4 ‧ Η Απουσία
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-2-s01-ep04-i-apousia/o-orkos-2-s01-ep04-i-apousia/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε5 ‧ Η Άκρη του Νήματος
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-2-s01-ep05-i-akri-tou-nimatos/o-orkos-2-s01-ep05-i-akri-tou-nimatos/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε6 ‧ Αγριότητα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-2-s01-ep06-agriotita/o-orkos-2-s01-ep06-agriotita/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε7 ‧ Αυτοκαταστροφή
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-2-s01-ep07-aftokatastrofi/o-orkos-2-s01-ep07-aftokatastrofi/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε8 ‧ Το Κακό
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-2-s01-ep08-to-kako/o-orkos-2-s01-ep08-to-kako/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε9 ‧ Το Φαίνεσθαι
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-2-s01-ep09-to-fainesthai/o-orkos-2-s01-ep09-to-fainesthai/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε10 ‧ Ο Όρκος
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-2-s01-ep10/o-orkos-2-s01-ep10/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε11 ‧ Η Πτώση
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-II-s02-ep01-i-ptwsi/o-orkos-II-s02-ep01-i-ptwsi/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε12 ‧ Το Φως
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-II-s02-ep02-to-fws-n/o-orkos-II-s02-ep02-to-fws-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε13 ‧ Αδυναμίες
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-II-s02-ep03-adynamies/o-orkos-II-s02-ep03-adynamies/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε14 ‧ Ο Κατάλληλος Χρόνος
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-II-s02-ep04-o-katallhlos-xronos/o-orkos-II-s02-ep04-o-katallhlos-xronos/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε15 ‧ Αγάπη
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-II-s02-ep05-agapi-n/o-orkos-II-s02-ep05-agapi-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε16 ‧ Η Γέννηση
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-II-s02-ep06-gennhsh-n/o-orkos-II-s02-ep06-gennhsh-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε17 ‧ Η 'Ηττα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-II-s02-ep07-h-htta/o-orkos-II-s02-ep07-h-htta/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε18 ‧ Το Γράμμα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-II-s02-ep08-to-gramma/o-orkos-II-s02-ep08-to-gramma/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε19 ‧ Η Απαγωγή
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-II-s02-ep09-h-apagwgh/o-orkos-II-s02-ep09-h-apagwgh/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε20 ‧ Προστασία
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-II-s03-ep01-fulakas-aggelos/o-orkos-II-s03-ep01-fulakas-aggelos/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε21 ‧ Απόσταση
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-II-s03-ep02-apostasi/o-orkos-II-s03-ep02-apostasi/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε22 ‧ Προσωπείο
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-II-s03-ep03-prosopeio/o-orkos-II-s03-ep03-prosopeio/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε23 ‧ Παγίδα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-II-s03-ep04-pagida/o-orkos-II-s03-ep04-pagida/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε24 ‧ Επιλογές
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-II-s03-ep05-epiloges/o-orkos-II-s03-ep05-epiloges/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε25 ‧ Απογοήτευση
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-II-s03-ep06-apogoitefsh/o-orkos-II-s03-ep06-apogoitefsh/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε26 ‧ Λερναία 'Υδρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-II-s03-ep07-lernea-ydra/o-orkos-II-s03-ep07-lernea-ydra/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε27 ‧ Προδοσία
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-II-s03-ep08-prodosia/o-orkos-II-s03-ep08-prodosia/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε28 ‧ Στο Στόμα του Λύκου
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-II-s03-ep09-sto-stoma-toy-lukou/o-orkos-II-s03-ep09-sto-stoma-toy-lukou/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε29 ‧ Η δύναμη
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-II-s03-ep10-dynami/o-orkos-II-s03-ep10-dynami/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε30 ‧ Συμφωνία
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-II-s03-ep11-symfwnia/o-orkos-II-s03-ep11-symfwnia/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε31 ‧ Πριν το Τέλος
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-II-s03-ep12-prin-to-telos/o-orkos-II-s03-ep12-prin-to-telos/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε32 ‧ Η Ειμαρμένη
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-II-s03-ep13-eimarmeni/o-orkos-II-s03-ep13-eimarmeni/index.m3u8

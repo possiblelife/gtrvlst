@@ -1,0 +1,16 @@
+#EXTINF:-1 group-title="Season 1",Ε1 ‧ Η Επιστροφή
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/aparaitito-fos-s01-ep01-clean-n/aparaitito-fos-s01-ep01-clean-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε2 ‧ Η Φωτογραφία
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/aparaitito-fos-s01-ep02-clean-n/aparaitito-fos-s01-ep02-clean-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε3 ‧ Ο Σκωτσέζος
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/aparaitito-fos-s01-ep03-clean-n/aparaitito-fos-s01-ep03-clean-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε4 ‧ Αίγινα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/aparaitito-fos-s01-ep04-clean-n/aparaitito-fos-s01-ep04-clean-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε5 ‧ Αίγυπτος
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/aparaitito-fos-s01-ep05-clean-n/aparaitito-fos-s01-ep05-clean-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε6 ‧ Αλέξης
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/aparaitito-fos-s01-ep06-clean-n/aparaitito-fos-s01-ep06-clean-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε7 ‧ Δεκεμβριανά
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/aparaitito-fos-s01-ep07-clean-n/aparaitito-fos-s01-ep07-clean-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε8 ‧ Το Απαραίτητο Φως
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/aparaitito-fos-s01-ep08-clean-n/aparaitito-fos-s01-ep08-clean-n/index.m3u8

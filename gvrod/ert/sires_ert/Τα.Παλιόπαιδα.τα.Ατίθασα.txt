@@ -1,0 +1,26 @@
+#EXTINF:-1 group-title="Season 1",Ε1 ‧ Μπενβενούτο Τσελίνι
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ta-paliopaida-ta-atithasa-ep01-benvenouto-tsellini/ta-paliopaida-ta-atithasa-ep01-benvenouto-tsellini/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε2 ‧ Ιστορία με Προίκα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ta-paliopaida-ta-atithasa-ep02-istoria-me-proika/ta-paliopaida-ta-atithasa-ep02-istoria-me-proika/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε3 ‧ Πρόσκληση σε Γεύμα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ta-paliopaida-ta-atithasa-ep03-prosklisi-se-gevma/ta-paliopaida-ta-atithasa-ep03-prosklisi-se-gevma/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε4 ‧ Καταπράσινα Δολάρια
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ta-paliopaida-ta-atithasa-ep04-kataprasina-dollaria/ta-paliopaida-ta-atithasa-ep04-kataprasina-dollaria/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε5 ‧ Αγαπάτε τα Ζώα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ta-paliopaida-ta-atithasa-ep05-agapate-ta-zwa/ta-paliopaida-ta-atithasa-ep05-agapate-ta-zwa/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε6 ‧ Χαλί Περσικόν
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ta-paliopaida-ta-atithasa-ep06-hali-persikon/ta-paliopaida-ta-atithasa-ep06-hali-persikon/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε7 ‧ Το Κανονάκι
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ta-paliopaida-ta-atithasa-ep07-to-kanonaki/ta-paliopaida-ta-atithasa-ep07-to-kanonaki/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε8 ‧ Ο Κος Υφηγητής
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ta-paliopaida-ta-atithasa-ep08-o-kos-yfigitis/ta-paliopaida-ta-atithasa-ep08-o-kos-yfigitis/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε9 ‧ Κοιλάρα 24ων Ατμοσφαιρών
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ta-paliopaida-ta-atithasa-ep09-koilara-34wn-atmosfairwn/ta-paliopaida-ta-atithasa-ep09-koilara-34wn-atmosfairwn/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε10 ‧ Ο Μαγικός Άνθρωπος
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ta-paliopaida-ta-atithasa-ep10-o-magikos-anthrwpos/ta-paliopaida-ta-atithasa-ep10-o-magikos-anthrwpos/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε11 ‧ Μόλις Εκυκλοφόρησεν
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ta-paliopaida-ta-atithasa-ep11-molis-ekykloforisen/ta-paliopaida-ta-atithasa-ep11-molis-ekykloforisen/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε12 ‧ Τα Γυναικάκια
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ta-paliopaida-ta-atithasa-ep12-ta-gynaikakia/ta-paliopaida-ta-atithasa-ep12-ta-gynaikakia/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε13 ‧ Στάχτη και Μπούρμπερη
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ta-paliopaida-ta-atithasa-ep13-staxti-kai-mpourmperi/ta-paliopaida-ta-atithasa-ep13-staxti-kai-mpourmperi/index.m3u8

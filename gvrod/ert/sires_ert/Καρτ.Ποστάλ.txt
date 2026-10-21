@@ -1,0 +1,24 @@
+#EXTINF:-1 group-title="Season 1",Ε1 ‧ Το Αγόρι με το Ασημί Κοστούμι
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/cartes-postales-ep01-to-agori-me-to-ashmi-koustoumi-subs/cartes-postales-ep01-to-agori-me-to-ashmi-koustoumi-subs/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε2 ‧ Από Έρωτα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/cartes-postales-ep02-apo-erota-gia-ton-erota-subs/cartes-postales-ep02-apo-erota-gia-ton-erota-subs/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε3 ‧ Ποτέ την Τρίτη
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/cartes-postales-ep03-pote-tin-trith-subs-new/cartes-postales-ep03-pote-tin-trith-subs-new/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε4 ‧ Άρια στη Χορδή του Σολ
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/cartes-postales-ep04-aria-sti-xordi-tou-sol-subs/cartes-postales-ep04-aria-sti-xordi-tou-sol-subs/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε5 ‧ Ο Παπάς και ο Παπαγάλος
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/cartes-postales-ep05-o-papas-kai-o-papagalos-n-subs/cartes-postales-ep05-o-papas-kai-o-papagalos-n-subs/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε6 ‧ Ο Μέγας Αγιασμός
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/cartes-postales-ep06-o-megas-agiasmos-subs/cartes-postales-ep06-o-megas-agiasmos-subs/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε7 ‧ Το Ζαχαροπλαστείο
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/cartes-postales-ep07-to-zaxaroplasteio-new-subs/cartes-postales-ep07-to-zaxaroplasteio-new-subs/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε8 ‧ Το Περίπτερο
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/cartes-postales-ep08-to-periptero-subs/cartes-postales-ep08-to-periptero-subs/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε9 ‧ Je Reviens
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/cartes-postales-ep09-je-reviens-subs/cartes-postales-ep09-je-reviens-subs/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε10 ‧ Μοναχική Σύζυγος
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/cartes-postales-ep10-h-monaxikh-syzygos-subs/cartes-postales-ep10-h-monaxikh-syzygos-subs/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε11 ‧ Γνώθι σε Αυτόν
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/cartes-postales-ep11-gnwthi-se-auton-subs/cartes-postales-ep11-gnwthi-se-auton-subs/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε12 ‧ Ποια Είσαι;
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/cartes-postales-ep12-poia-eisai-subs/cartes-postales-ep12-poia-eisai-subs/index.m3u8

@@ -1,0 +1,48 @@
+#EXTINF:-1 group-title="Season 1",Ε1 ‧ Ζητάτε να σας Πω
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ta-noumera-s01-ep01-n/ta-noumera-s01-ep01-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε2 ‧ Εν Λευκώ
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ta-noumera-s01-ep02-en-leykw-mpofillioy/ta-noumera-s01-ep02-en-leykw-mpofillioy/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε3 ‧ Ένα Θαύμα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ta-noumera-s01-ep03-ena-thauma-mazonakhs-n/ta-noumera-s01-ep03-ena-thauma-mazonakhs-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε4 ‧ Τρελό από Χαρά
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ta-noumera-s01-ep04-kwstis-maravegias/ta-noumera-s01-ep04-kwstis-maravegias/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε5 ‧ Φούμα-Φούμα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ta-noumera-s01-ep05-fouma-fouma-new/ta-noumera-s01-ep05-fouma-fouma-new/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε6 ‧ Το Μέλλον απ' το Παρελθόν
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ta-noumera-s01-ep06-to-melon-apo-ton-parelthon-new/ta-noumera-s01-ep06-to-melon-apo-ton-parelthon-new/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε7 ‧ Ξέρω που Πάω
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ta-noumera-s01-ep07-xerw-pou-paw/ta-noumera-s01-ep07-xerw-pou-paw/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε8 ‧ Όταν σου Χορεύω
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ta-noumera-s01-ep08-otan-sou-horevo/ta-noumera-s01-ep08-otan-sou-horevo/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε9 ‧ Με Σημαία μου μια Φούστα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ta-noumera-s01-ep09-me-shmaia-mou-mia-foysta-new/ta-noumera-s01-ep09-me-shmaia-mou-mia-foysta-new/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε10 ‧ Ο Φύλακας ο Άγγελος σου
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ta-noumera-s01-ep10-o-fylakas-o-aggelos-sou-n/ta-noumera-s01-ep10-o-fylakas-o-aggelos-sou-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε11 ‧ Σαν Ποίημα Σουρεάλ
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ta-noumera-s01-ep11-san-poiima-soureal/ta-noumera-s01-ep11-san-poiima-soureal/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε12 ‧ Εγώ δεν Ειμ' Εγώ
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ta-noumera-s01-ep12-taraxi-n/ta-noumera-s01-ep12-taraxi-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε13 ‧ «Το Xρυσόμαλλο Kριάρι» Εορταστικό επεισόδιο
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ta-noumera-s01-ep13-to-xrysomallo-kriari/ta-noumera-s01-ep13-to-xrysomallo-kriari/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε14 ‧ «With a Little Help from my Friends» Εορταστικό επεισόδιο
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ta-noumera-s01-ep14-with-a-little-help-from-my-friends/ta-noumera-s01-ep14-with-a-little-help-from-my-friends/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε15 ‧ Έπαθα Αγάπη
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ta-noumera-s01-ep15-epatha-agaph/ta-noumera-s01-ep15-epatha-agaph/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε16 ‧ Είναι Μικρή η Ζωή
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ta-noumera-s01-ep16-einai-mikrh-h-zwh-n/ta-noumera-s01-ep16-einai-mikrh-h-zwh-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε17 ‧ Σπίρτο και Βενζίνη
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ta-noumera-s01-ep17-spirto-kai-venzinh/ta-noumera-s01-ep17-spirto-kai-venzinh/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε18 ‧ Κακές Συνήθειες
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ta-noumera-s01-ep18-kakes-synitheies-n/ta-noumera-s01-ep18-kakes-synitheies-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε19 ‧ Μάθημα Σολφέζ
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ta-noumera-s01-ep19-mathima-solfez/ta-noumera-s01-ep19-mathima-solfez/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε20 ‧ Ο Κόσμος σου
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ta-noumera-s01-ep20-o-kosmos-sou-neo/ta-noumera-s01-ep20-o-kosmos-sou-neo/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε21 ‧ Εδώ Είναι το Ταξίδι
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ta-noumera-s01-ep21-edw-einai-to-taxidi-n/ta-noumera-s01-ep21-edw-einai-to-taxidi-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε22 ‧ Με τα Μάτια Κλειστά
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ta-noumera-s01-ep22-me-ta-matia-kleista-n/ta-noumera-s01-ep22-me-ta-matia-kleista-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε23 ‧ Λάθη Μετράω
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ta-noumera-s01-ep23-lathi-metraw/ta-noumera-s01-ep23-lathi-metraw/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε24 ‧ Ο Κύκλος
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ta-noumera-s01-ep24-o-kyklos-teleftaio-neo/ta-noumera-s01-ep24-o-kyklos-teleftaio-neo/index.m3u8

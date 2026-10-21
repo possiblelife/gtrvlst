@@ -1,0 +1,72 @@
+#EXTINF:-1 group-title="Season 1",Ε1 ‧ Η Επιστροφή
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-ep01-i-epistrofi-subs-en/o-orkos-ep01-i-epistrofi-subs-en/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε2 ‧ Η Ανθρωπιά
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-ep02-i-anthropia-subs/o-orkos-ep02-i-anthropia-subs/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε3 ‧ Το Σπίτι
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-ep03-to-spiti-subs/o-orkos-ep03-to-spiti-subs/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε4 ‧ Η Ομάδα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-ep04-i-omada-subs/o-orkos-ep04-i-omada-subs/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε5 ‧ Δεύτερη Ευκαιρία
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-ep05-deuteri-eukairia-subs/o-orkos-ep05-deuteri-eukairia-subs/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε6 ‧ Το Λάθος
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-ep06-to-lathos-subs/o-orkos-ep06-to-lathos-subs/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε7 ‧ Το Καινούριο
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-ep07-kati-neo-subs-r/o-orkos-ep07-kati-neo-subs-r/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε8 ‧ Εντάσεις
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-ep08-entaseis-subs-new/o-orkos-ep08-entaseis-subs-new/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε9 ‧ Εμπόδια
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-ep09-empodia-subs-n/o-orkos-ep09-empodia-subs-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε10 ‧ Η Απώλεια
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-ep10-apoleia-subs/o-orkos-ep10-apoleia-subs/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε11 ‧ Ματαιότης
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-ep11-mataioths-subs/o-orkos-ep11-mataioths-subs/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε12 ‧ Επανεκκίνηση
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-ep12-epanekkinisi/o-orkos-ep12-epanekkinisi/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε13 ‧ Η Αποκάλυψη
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-ep13-apokalipsi/o-orkos-ep13-apokalipsi/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε14 ‧ Αντέχεις την Πραγματικότητα;
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-ep14-antexeistinpragmatikotita/o-orkos-ep14-antexeistinpragmatikotita/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε15 ‧ Πόσα Ψέματα Χωράει μια Αλήθεια;
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-ep15-posa-psemata-xoraei-mia-alitheia/o-orkos-ep15-posa-psemata-xoraei-mia-alitheia/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε16 ‧ Παγωνιά
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-ep16/o-orkos-ep16/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε17 ‧ Τρεις Μέρες Καλοσύνης
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-ep17-treis-meres-kalosinis/o-orkos-ep17-treis-meres-kalosinis/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε18 ‧ Μεταμόρφωση
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-ep18-metamorfosi/o-orkos-ep18-metamorfosi/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε19 ‧ Το Παζλ
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-ep19-to-pazl-n/o-orkos-ep19-to-pazl-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε20 ‧ Ο Φόβος
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-ep20-o-fovos/o-orkos-ep20-o-fovos/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε21 ‧ Ποιος Φταίει;
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-ep21-poios-ftaiei/o-orkos-ep21-poios-ftaiei/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε22 ‧ Ιδανικοί και Ανάξιοι
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-ep22-idanikoi-kai-anaxioi/o-orkos-ep22-idanikoi-kai-anaxioi/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε23 ‧ Η Διάλυση
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-ep23-dialisi/o-orkos-ep23-dialisi/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε24 ‧ Καραντίνα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-ep24-karantina/o-orkos-ep24-karantina/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε25 ‧ Εγκλωβισμός
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-ep25-egklwvismos/o-orkos-ep25-egklwvismos/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε26 ‧ Άφωνοι
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-ep26-afwnoi/o-orkos-ep26-afwnoi/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε27 ‧ Η Αγάπη
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-ep27-agapi/o-orkos-ep27-agapi/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε28 ‧ Το Χέρι
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-ep28-to-xeri/o-orkos-ep28-to-xeri/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε29 ‧ Μίλα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-ep29-mila/o-orkos-ep29-mila/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε30 ‧ Το Φορτίο
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-ep30-to-fortio/o-orkos-ep30-to-fortio/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε31 ‧ Επιφάνεια
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-ep31-epifaneia/o-orkos-ep31-epifaneia/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε32 ‧ Το Μυστήριο
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-ep32-to-mystirio/o-orkos-ep32-to-mystirio/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε33 ‧ Καλύτερα να Μην Ξέρεις
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-ep33-kalytera-na-min-ksereis/o-orkos-ep33-kalytera-na-min-ksereis/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε34 ‧ Απαντήσεις
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-ep34-apantiseis-n/o-orkos-ep34-apantiseis-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε35 ‧ Ο Όρκος
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-ep35-o-orkos/o-orkos-ep35-o-orkos/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε36 ‧ Το Τέλος
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/o-orkos-ep36-to-telos-n/o-orkos-ep36-to-telos-n/index.m3u8

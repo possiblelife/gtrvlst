@@ -1,0 +1,8 @@
+#EXTINF:-1 group-title="Season 1",Ε1 ‧ Καλώς Ήρθες Αλίκη
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS048824-tvland-ep01/PS048824-tvland-ep01/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε2 ‧ Στη Χώρα των Τεράτων
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS048825-tvland-ep02/PS048825-tvland-ep02/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε3 ‧ Όλος ο Κόσμος Είναι Μια Σκηνή
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS048826-tvland-ep03/PS048826-tvland-ep03/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε4 ‧ Δεν Ήταν Πολύ Ευγενικό εκ Μέρους σου
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS048827-tvland-ep04/PS048827-tvland-ep04/index.m3u8

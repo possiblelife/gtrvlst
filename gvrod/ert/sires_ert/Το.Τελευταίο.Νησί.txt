@@ -1,0 +1,60 @@
+#EXTINF:-1 group-title="Season 1",Ε1 ‧ Η Επέτειος
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS049821_to-teleutaio-nisi-i-epeteios-ep01-new1/PS049821_to-teleutaio-nisi-i-epeteios-ep01-new1/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε2 ‧ Η Άφιξη
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS049822_to-teleutaio-nisi-i-afixi-ep02-new1/PS049822_to-teleutaio-nisi-i-afixi-ep02-new1/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε3 ‧ Η Αναμέτρηση
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS049823_to_teleutaio-nisi-i-anametrisi-ep03-n/PS049823_to_teleutaio-nisi-i-anametrisi-ep03-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε4 ‧ Η Απόδραση
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS049824_to-teleutaio-nisi-i-apodrasi-ep04-n/PS049824_to-teleutaio-nisi-i-apodrasi-ep04-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε5 ‧ Η Δεύτερη Ευκαιρία
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS049825_to_teleytaio_nisi_deyteres_eykairies-n/PS049825_to_teleytaio_nisi_deyteres_eykairies-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε6 ‧ Η Χριστίνα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS049826_to_teleytaio_nisi_h_xristina-n/PS049826_to_teleytaio_nisi_h_xristina-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε7 ‧ H Κακοκαιρία
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS049827_to_teleytaio_nisi_h-kakokairia/PS049827_to_teleytaio_nisi_h-kakokairia/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε8 ‧ Το Σκάφανδρο
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS049828_to_teleutaio-nisi-to-skafandro/PS049828_to_teleutaio-nisi-to-skafandro/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε9 ‧ Τα Γενέθλια
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS049829_to_teleytaio_nisi_ta-genethlia/PS049829_to_teleytaio_nisi_ta-genethlia/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε10 ‧ Η Ανταλλαγή
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS049830_to_teleytaio_nisi_i-antallagi/PS049830_to_teleytaio_nisi_i-antallagi/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε11 ‧ Ο Χορός του Μηχανικού
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS049831_to-teleutaio-nisi-ep11-o-xoros-tou-mixanikou/PS049831_to-teleutaio-nisi-ep11-o-xoros-tou-mixanikou/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε12 ‧ Η Εγκυμοσύνη
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS049832_to-teleutaio-nisi-ep12-h-egimosini/PS049832_to-teleutaio-nisi-ep12-h-egimosini/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε13 ‧ Οι Αποχαιρετισμοί
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS056147_0013-to-teleutaio-nisi-s01-ep13-oi-apoxeraitismoi/PS056147_0013-to-teleutaio-nisi-s01-ep13-oi-apoxeraitismoi/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε14 ‧ Η Επιστροφή του Ben
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS056147-0014-to-teleutaio-nisi-s01-ep14-h-epistrofi-tou-ben-n/PS056147-0014-to-teleutaio-nisi-s01-ep14-h-epistrofi-tou-ben-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε15 ‧ Αναχωρήσεις
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS056147-0015-to-teleutaio-nisi-s01-ep15-anaxoriseis/PS056147-0015-to-teleutaio-nisi-s01-ep15-anaxoriseis/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε16 ‧ Το Φιλί
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS056147-0016-to-teleutaio-nisi-s01-ep16-to-fili/PS056147-0016-to-teleutaio-nisi-s01-ep16-to-fili/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε17 ‧ Συναντήσεις
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS056147-0017-to-teleutaio-nisi-e01-ep17-synantiseis-n/PS056147-0017-to-teleutaio-nisi-e01-ep17-synantiseis-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε18 ‧ Το Σπίτι
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS056147-0018/PS056147-0018/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε19 ‧ Η Πρώτη Φορά
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS056147-0019/PS056147-0019/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε20 ‧ Η Βουτιά
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS056147-0020/PS056147-0020/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε21 ‧ Η Τελευταία Δουλειά
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS056147-0021-to-teleutaio-nisi-n/PS056147-0021-to-teleutaio-nisi-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε22 ‧ Δύσκολοι Αποχαιρετισμοί
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS056147-0022_to-teleutaio-nisi-n/PS056147-0022_to-teleutaio-nisi-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε23 ‧ Η Αθήνα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS056147-0023_to-teleutaio-nisi-n/PS056147-0023_to-teleutaio-nisi-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε24 ‧ Το Ευάκι
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS056147-0024_to-teleutaio-nisi-n/PS056147-0024_to-teleutaio-nisi-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε25 ‧ Τα Συμπτώματα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS056147-0025_to-teleutaio-nisi-n/PS056147-0025_to-teleutaio-nisi-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε26 ‧ Τα Αποτελέσματα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS056147-0026_to-teleutaio-nisi-n/PS056147-0026_to-teleutaio-nisi-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε27 ‧ Οι Απέναντι
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS056147-0027_to-teleutaio-nisi-n/PS056147-0027_to-teleutaio-nisi-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε28 ‧ Η Σύγκρουση
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS056147-0028_to-teleutaio-nisi-n/PS056147-0028_to-teleutaio-nisi-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε29 ‧ Η Απόφαση
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS056147-0029_to-teleutaio-nisi-n/PS056147-0029_to-teleutaio-nisi-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε30 ‧ Το Τελευταίο Νησί
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS056147-0030_to-teleutaio-nisi-n/PS056147-0030_to-teleutaio-nisi-n/index.m3u8

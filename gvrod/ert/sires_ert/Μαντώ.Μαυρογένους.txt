@@ -1,0 +1,24 @@
+#EXTINF:-1 group-title="Season 1",Ε1 ‧ Μαντώ Μαυρογένους
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/manto-mavrogenous-ep01-new/manto-mavrogenous-ep01-new/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε2 ‧ Μαντώ Μαυρογένους
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/manto-mavrogenous-ep02-n/manto-mavrogenous-ep02-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε3 ‧ Μαντώ Μαυρογένους
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/manto-mavrogenous-ep03-n/manto-mavrogenous-ep03-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε4 ‧ Μαντώ Μαυρογένους
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/manto-mavrogenous-ep04-n/manto-mavrogenous-ep04-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε5 ‧ Μαντώ Μαυρογένους
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/manto-mavrogenous-ep05-n/manto-mavrogenous-ep05-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε6 ‧ Μαντώ Μαυρογένους
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/manto-mavrogenous-ep06-n/manto-mavrogenous-ep06-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε7 ‧ Μαντώ Μαυρογένους
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/manto-mavrogenous-ep07-n/manto-mavrogenous-ep07-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε8 ‧ Μαντώ Μαυρογένους
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/manto-mavrogenous-ep08-n/manto-mavrogenous-ep08-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε9 ‧ Μαντώ Μαυρογένους
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/manto-mavrogenous-ep09-n/manto-mavrogenous-ep09-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε10 ‧ Μαντώ Μαυρογένους
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/manto-mavrogenous-ep10-n/manto-mavrogenous-ep10-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε11 ‧ Μαντώ Μαυρογένους
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/manto-mavrogenous-ep11-n/manto-mavrogenous-ep11-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε12 ‧ Μαντώ Μαυρογένους
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/manto-mavrogenous-ep12-n/manto-mavrogenous-ep12-n/index.m3u8

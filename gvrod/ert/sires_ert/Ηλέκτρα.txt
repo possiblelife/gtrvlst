@@ -1,0 +1,980 @@
+#EXTINF:-1 group-title="Season 1",Ε1 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep01-oti-grafei-h-moira-n-melano-n/hlektra-s01-ep01-oti-grafei-h-moira-n-melano-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε2 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep02-h-mnhmh-opou-kai-na-thn-aggikseis-ponei-n/hlektra-s01-ep02-h-mnhmh-opou-kai-na-thn-aggikseis-ponei-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε3 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep03-pare-apo-tous-vomous-tou-parelthontos-thn-fwtia-oxi-thn-staxth-n-n/hlektra-s01-ep03-pare-apo-tous-vomous-tou-parelthontos-thn-fwtia-oxi-thn-staxth-n-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε4 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep04-mporeis-na-xehaseis-to-parelthon-afto-den-simaini-pws-tha-to-xeperaseis-n/hlektra-s01-ep04-mporeis-na-xehaseis-to-parelthon-afto-den-simaini-pws-tha-to-xeperaseis-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε5 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep05-h-sphlia-poy-fovasai-na-beis-kruvei-to-thisavro-poy-psaxneis-n-n/hlektra-s01-ep05-h-sphlia-poy-fovasai-na-beis-kruvei-to-thisavro-poy-psaxneis-n-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε6 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep06-na-exeis-to-kouragio-na-energeis-anti-na-antidras-n-n/hlektra-s01-ep06-na-exeis-to-kouragio-na-energeis-anti-na-antidras-n-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε7 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep07-to-teleftaio-pragma-pou-xehna-i-mnimi-einai-oi-enoxes-n-n/hlektra-s01-ep07-to-teleftaio-pragma-pou-xehna-i-mnimi-einai-oi-enoxes-n-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε8 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep08-afto-pou-kryvoume-einai-afto-pou-piotero-mas-fanerwnei-n-n/hlektra-s01-ep08-afto-pou-kryvoume-einai-afto-pou-piotero-mas-fanerwnei-n-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε9 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep09-ageras-kai-gynaika-den-kleidwnontai-n-n/hlektra-s01-ep09-ageras-kai-gynaika-den-kleidwnontai-n-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε10 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep10-pote-min-apologeisai-protou-katigoritheis-n/hlektra-s01-ep10-pote-min-apologeisai-protou-katigoritheis-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε11 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep11-n/hlektra-s01-ep11-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε12 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep12-n/hlektra-s01-ep12-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε13 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep13-n/hlektra-s01-ep13-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε14 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep14-n/hlektra-s01-ep14-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε15 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep15-n/hlektra-s01-ep15-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε16 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep16-n/hlektra-s01-ep16-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε17 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep17/hlektra-s01-ep17/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε18 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep18/hlektra-s01-ep18/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε19 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep19/hlektra-s01-ep19/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε20 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep20-n/hlektra-s01-ep20-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε21 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep21-n/hlektra-s01-ep21-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε22 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep22-n/hlektra-s01-ep22-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε23 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep23-n/hlektra-s01-ep23-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε24 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep24-n/hlektra-s01-ep24-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε25 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep25-n/hlektra-s01-ep25-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε26 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep26-n/hlektra-s01-ep26-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε27 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep27/hlektra-s01-ep27/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε28 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep28-n/hlektra-s01-ep28-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε29 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep29/hlektra-s01-ep29/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε30 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep30/hlektra-s01-ep30/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε31 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep31/hlektra-s01-ep31/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε32 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep32/hlektra-s01-ep32/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε33 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep33/hlektra-s01-ep33/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε34 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep34/hlektra-s01-ep34/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε35 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep35/hlektra-s01-ep35/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε36 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep36/hlektra-s01-ep36/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε37 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep37-n/hlektra-s01-ep37-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε38 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep38-new/hlektra-s01-ep38-new/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε39 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep39-new1/hlektra-s01-ep39-new1/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε40 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep40-n/hlektra-s01-ep40-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε41 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep41-new/hlektra-s01-ep41-new/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε42 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep42-n/hlektra-s01-ep42-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε43 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep43-n/hlektra-s01-ep43-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε44 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep44-n/hlektra-s01-ep44-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε45 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep45-new/hlektra-s01-ep45-new/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε46 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep46-n/hlektra-s01-ep46-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε47 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep47-n/hlektra-s01-ep47-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε48 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep48-new/hlektra-s01-ep48-new/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε49 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep49-new1/hlektra-s01-ep49-new1/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε50 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep50/hlektra-s01-ep50/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε51 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep51/hlektra-s01-ep51/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε52 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep52-n-n/hlektra-s01-ep52-n-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε53 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep53-n-1/hlektra-s01-ep53-n-1/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε54 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep54-n/hlektra-s01-ep54-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε55 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep55/hlektra-s01-ep55/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε56 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep56-new-n/hlektra-s01-ep56-new-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε57 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep57-n/hlektra-s01-ep57-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε58 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep58-n/hlektra-s01-ep58-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε59 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep59-new/hlektra-s01-ep59-new/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε60 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep60/hlektra-s01-ep60/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε61 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep61/hlektra-s01-ep61/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε62 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep62/hlektra-s01-ep62/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε63 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep63/hlektra-s01-ep63/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε64 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep64-new/hlektra-s01-ep64-new/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε65 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep65/hlektra-s01-ep65/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε66 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep66/hlektra-s01-ep66/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε67 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep67/hlektra-s01-ep67/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε68 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep68/hlektra-s01-ep68/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε69 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep69-n/hlektra-s01-ep69-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε70 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep70/hlektra-s01-ep70/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε71 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep71-n/hlektra-s01-ep71-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε72 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep72/hlektra-s01-ep72/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε73 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep73-n/hlektra-s01-ep73-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε74 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep74/hlektra-s01-ep74/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε75 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep75/hlektra-s01-ep75/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε76 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep76-n/hlektra-s01-ep76-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε77 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep77/hlektra-s01-ep77/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε78 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep78/hlektra-s01-ep78/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε79 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep79/hlektra-s01-ep79/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε80 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep80/hlektra-s01-ep80/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε81 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep81/hlektra-s01-ep81/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε82 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep82/hlektra-s01-ep82/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε83 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep83/hlektra-s01-ep83/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε84 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep84/hlektra-s01-ep84/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε85 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep85-n/hlektra-s01-ep85-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε86 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep86-n/hlektra-s01-ep86-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε87 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep87-n/hlektra-s01-ep87-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε88 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep88-n/hlektra-s01-ep88-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε89 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep89-n/hlektra-s01-ep89-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε90 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep90/hlektra-s01-ep90/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε91 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep91/hlektra-s01-ep91/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε92 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep92/hlektra-s01-ep92/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε93 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep93/hlektra-s01-ep93/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε94 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep94/hlektra-s01-ep94/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε95 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep95-n/hlektra-s01-ep95-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε96 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep96/hlektra-s01-ep96/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε97 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep97-n/hlektra-s01-ep97-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε98 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep98-n/hlektra-s01-ep98-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε99 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep99-new/hlektra-s01-ep99-new/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε100 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep100-new-n/hlektra-s01-ep100-new-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε101 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep101/hlektra-s01-ep101/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε102 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep102/hlektra-s01-ep102/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε103 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep103/hlektra-s01-ep103/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε104 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep104/hlektra-s01-ep104/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε105 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep105/hlektra-s01-ep105/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε106 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep106/hlektra-s01-ep106/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε107 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep107/hlektra-s01-ep107/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε108 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep108/hlektra-s01-ep108/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε109 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep109/hlektra-s01-ep109/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε110 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep110/hlektra-s01-ep110/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε111 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep111-n/hlektra-s01-ep111-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε112 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep112-n/hlektra-s01-ep112-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε113 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep113-n/hlektra-s01-ep113-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε114 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep114/hlektra-s01-ep114/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε115 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep115/hlektra-s01-ep115/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε116 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep116-n/hlektra-s01-ep116-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε117 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep117/hlektra-s01-ep117/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε118 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep118/hlektra-s01-ep118/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε119 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep119/hlektra-s01-ep119/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε120 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep120/hlektra-s01-ep120/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε121 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep121/hlektra-s01-ep121/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε122 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep122/hlektra-s01-ep122/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε123 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep123/hlektra-s01-ep123/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε124 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep124-n/hlektra-s01-ep124-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε125 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep125-n/hlektra-s01-ep125-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε126 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep126/hlektra-s01-ep126/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε127 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep127/hlektra-s01-ep127/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε128 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep128-n/hlektra-s01-ep128-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε129 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep129-n/hlektra-s01-ep129-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε130 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep130-n/hlektra-s01-ep130-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε131 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep131/hlektra-s01-ep131/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε132 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep132-n/hlektra-s01-ep132-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε133 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep133/hlektra-s01-ep133/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε134 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep134/hlektra-s01-ep134/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε135 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep135/hlektra-s01-ep135/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε136 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep136/hlektra-s01-ep136/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε137 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep137-n/hlektra-s01-ep137-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε138 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep138/hlektra-s01-ep138/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε139 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep139/hlektra-s01-ep139/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε140 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep140-n/hlektra-s01-ep140-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε141 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep141-n3/hlektra-s01-ep141-n3/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε142 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep142/hlektra-s01-ep142/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε143 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep143/hlektra-s01-ep143/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε144 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep144-n/hlektra-s01-ep144-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε145 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep145-n/hlektra-s01-ep145-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε146 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep146/hlektra-s01-ep146/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε147 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep147/hlektra-s01-ep147/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε148 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep148/hlektra-s01-ep148/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε149 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep149/hlektra-s01-ep149/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε150 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s01-ep150/hlektra-s01-ep150/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε1 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep01-subs/hlektra-s02-ep01-subs/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε2 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep02-n-n-n/hlektra-s02-ep02-n-n-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε3 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep03-n/hlektra-s02-ep03-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε4 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep04-subs/hlektra-s02-ep04-subs/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε5 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep05-subs/hlektra-s02-ep05-subs/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε6 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep06-subs/hlektra-s02-ep06-subs/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε7 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep07/hlektra-s02-ep07/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε8 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep08/hlektra-s02-ep08/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε9 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep09/hlektra-s02-ep09/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε10 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep10/hlektra-s02-ep10/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε11 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep11/hlektra-s02-ep11/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε12 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep12/hlektra-s02-ep12/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε13 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep13/hlektra-s02-ep13/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε14 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep14/hlektra-s02-ep14/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε15 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep15/hlektra-s02-ep15/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε16 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep16/hlektra-s02-ep16/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε17 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep17/hlektra-s02-ep17/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε18 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep18/hlektra-s02-ep18/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε19 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep19/hlektra-s02-ep19/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε20 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep20/hlektra-s02-ep20/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε21 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep21/hlektra-s02-ep21/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε22 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep22/hlektra-s02-ep22/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε23 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep23/hlektra-s02-ep23/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε24 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep24/hlektra-s02-ep24/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε25 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep25/hlektra-s02-ep25/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε26 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep26/hlektra-s02-ep26/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε27 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep27/hlektra-s02-ep27/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε28 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep28/hlektra-s02-ep28/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε29 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep29/hlektra-s02-ep29/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε30 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep30/hlektra-s02-ep30/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε31 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep31/hlektra-s02-ep31/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε32 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep32/hlektra-s02-ep32/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε33 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep33/hlektra-s02-ep33/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε34 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep34/hlektra-s02-ep34/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε35 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep35/hlektra-s02-ep35/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε36 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep36/hlektra-s02-ep36/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε37 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep37/hlektra-s02-ep37/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε38 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep38/hlektra-s02-ep38/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε39 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep39/hlektra-s02-ep39/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε40 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep40/hlektra-s02-ep40/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε41 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep41-n/hlektra-s02-ep41-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε42 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep42/hlektra-s02-ep42/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε43 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep43/hlektra-s02-ep43/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε44 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep44/hlektra-s02-ep44/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε45 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep45/hlektra-s02-ep45/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε46 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep46/hlektra-s02-ep46/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε47 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep47/hlektra-s02-ep47/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε48 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep48/hlektra-s02-ep48/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε49 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep49/hlektra-s02-ep49/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε50 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep50/hlektra-s02-ep50/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε51 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep51-n/hlektra-s02-ep51-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε52 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep52/hlektra-s02-ep52/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε53 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep53/hlektra-s02-ep53/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε54 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep54_n/hlektra-s02-ep54_n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε55 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep55-n/hlektra-s02-ep55-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε56 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep56/hlektra-s02-ep56/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε57 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep57/hlektra-s02-ep57/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε58 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep58/hlektra-s02-ep58/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε59 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep59/hlektra-s02-ep59/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε60 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep60-n/hlektra-s02-ep60-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε61 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep61-n/hlektra-s02-ep61-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε62 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep62-n/hlektra-s02-ep62-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε63 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep63/hlektra-s02-ep63/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε64 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep64-new/hlektra-s02-ep64-new/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε65 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep65-new/hlektra-s02-ep65-new/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε66 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep66-n/hlektra-s02-ep66-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε67 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep67-n/hlektra-s02-ep67-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε68 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep68/hlektra-s02-ep68/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε69 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep69/hlektra-s02-ep69/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε70 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep70/hlektra-s02-ep70/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε71 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep71-n/hlektra-s02-ep71-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε72 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep72-n/hlektra-s02-ep72-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε73 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep73-n/hlektra-s02-ep73-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε74 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep74/hlektra-s02-ep74/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε75 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep75/hlektra-s02-ep75/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε76 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep76-new1/hlektra-s02-ep76-new1/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε77 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep77-new1/hlektra-s02-ep77-new1/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε78 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep78-n/hlektra-s02-ep78-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε79 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep79-new1/hlektra-s02-ep79-new1/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε80 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep80-new1/hlektra-s02-ep80-new1/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε81 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep81-n/hlektra-s02-ep81-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε82 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep82-n/hlektra-s02-ep82-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε83 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep83-new-n/hlektra-s02-ep83-new-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε84 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep84-nn/hlektra-s02-ep84-nn/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε85 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep85-nn/hlektra-s02-ep85-nn/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε86 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep86-new1/hlektra-s02-ep86-new1/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε87 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep87-nn/hlektra-s02-ep87-nn/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε88 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep88-nn/hlektra-s02-ep88-nn/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε89 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep89-new/hlektra-s02-ep89-new/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε90 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep90-new/hlektra-s02-ep90-new/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε91 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep91-n/hlektra-s02-ep91-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε92 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep92-nn/hlektra-s02-ep92-nn/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε93 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep93-n/hlektra-s02-ep93-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε94 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep94-n/hlektra-s02-ep94-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε95 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep95-n/hlektra-s02-ep95-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε96 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep96-n/hlektra-s02-ep96-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε97 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep97-n/hlektra-s02-ep97-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε98 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep98-n/hlektra-s02-ep98-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε99 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep99-n/hlektra-s02-ep99-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε100 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep100-nn/hlektra-s02-ep100-nn/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε101 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep101-n/hlektra-s02-ep101-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε102 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep102-n/hlektra-s02-ep102-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε103 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep103-n/hlektra-s02-ep103-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε104 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep104-n/hlektra-s02-ep104-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε105 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep105-n/hlektra-s02-ep105-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε106 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep106-n/hlektra-s02-ep106-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε107 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep107-n/hlektra-s02-ep107-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε108 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep108/hlektra-s02-ep108/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε109 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep109-n/hlektra-s02-ep109-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε110 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep110-n/hlektra-s02-ep110-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε111 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep111-new/hlektra-s02-ep111-new/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε112 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep112-new/hlektra-s02-ep112-new/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε113 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep113/hlektra-s02-ep113/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε114 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep114-new/hlektra-s02-ep114-new/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε115 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep115-n/hlektra-s02-ep115-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε116 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep116-new/hlektra-s02-ep116-new/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε117 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep117-n/hlektra-s02-ep117-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε118 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep118/hlektra-s02-ep118/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε119 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep119-n/hlektra-s02-ep119-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε120 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep120-new/hlektra-s02-ep120-new/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε121 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep121-n/hlektra-s02-ep121-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε122 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep122-n/hlektra-s02-ep122-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε123 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep123-new/hlektra-s02-ep123-new/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε124 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep124-n/hlektra-s02-ep124-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε125 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep125-new/hlektra-s02-ep125-new/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε126 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep126-n/hlektra-s02-ep126-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε127 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep127-new1/hlektra-s02-ep127-new1/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε128 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep128-new/hlektra-s02-ep128-new/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε129 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep129-n/hlektra-s02-ep129-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε130 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep130-n/hlektra-s02-ep130-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε131 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep131-n/hlektra-s02-ep131-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε132 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep132-nn/hlektra-s02-ep132-nn/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε133 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep133-n/hlektra-s02-ep133-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε134 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep134-new1/hlektra-s02-ep134-new1/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε135 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep135-new1/hlektra-s02-ep135-new1/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε136 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep136-new/hlektra-s02-ep136-new/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε137 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep137-new/hlektra-s02-ep137-new/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε138 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep138-new/hlektra-s02-ep138-new/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε139 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep139-n/hlektra-s02-ep139-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε140 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep140-n/hlektra-s02-ep140-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε141 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep141/hlektra-s02-ep141/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε142 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep142-n/hlektra-s02-ep142-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε143 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep143-n/hlektra-s02-ep143-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε144 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep144-new/hlektra-s02-ep144-new/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε145 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep145-new/hlektra-s02-ep145-new/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε146 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep146-new/hlektra-s02-ep146-new/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε147 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep147-n/hlektra-s02-ep147-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε148 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep148-n/hlektra-s02-ep148-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε149 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep149-new/hlektra-s02-ep149-new/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε150 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep150-n/hlektra-s02-ep150-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε151 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep151-n/hlektra-s02-ep151-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε152 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep152-n/hlektra-s02-ep152-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε153 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep153-n/hlektra-s02-ep153-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε154 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep154-new1/hlektra-s02-ep154-new1/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε155 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep155-new2/hlektra-s02-ep155-new2/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε156 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep156-n/hlektra-s02-ep156-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε157 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep157-n/hlektra-s02-ep157-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε158 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep158-nn/hlektra-s02-ep158-nn/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε159 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep159-new/hlektra-s02-ep159-new/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε160 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep160-nn/hlektra-s02-ep160-nn/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε161 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep161-n/hlektra-s02-ep161-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε162 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep162-new/hlektra-s02-ep162-new/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε163 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep163-n/hlektra-s02-ep163-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε164 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep164-n/hlektra-s02-ep164-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε165 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep165-n/hlektra-s02-ep165-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε166 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep166-n/hlektra-s02-ep166-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε167 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep167-n/hlektra-s02-ep167-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε168 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep168-n/hlektra-s02-ep168-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε169 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep169-n/hlektra-s02-ep169-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε170 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s02-ep170-n/hlektra-s02-ep170-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε1 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS045735_hlektra-s03-ep01/PS045735_hlektra-s03-ep01/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε2 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s03-ep02-new/hlektra-s03-ep02-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε3 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s03-ep03-new/hlektra-s03-ep03-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε4 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s03-ep04-new/hlektra-s03-ep04-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε5 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s03-ep05-new/hlektra-s03-ep05-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε6 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s03-ep06-new/hlektra-s03-ep06-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε7 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s03-ep07-new1/hlektra-s03-ep07-new1/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε8 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s03-ep08-new/hlektra-s03-ep08-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε9 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s03-ep09-new/hlektra-s03-ep09-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε10 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s03-ep10-new/hlektra-s03-ep10-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε11 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s03-ep11-new/hlektra-s03-ep11-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε12 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s03-ep12-new/hlektra-s03-ep12-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε13 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s03-ep13-new/hlektra-s03-ep13-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε14 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s03-ep14-new/hlektra-s03-ep14-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε15 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s03-ep15-new/hlektra-s03-ep15-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε16 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s03-ep16-new/hlektra-s03-ep16-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε17 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s03-ep17-new/hlektra-s03-ep17-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε18 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s03-ep18-new/hlektra-s03-ep18-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε19 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s03-ep19-new/hlektra-s03-ep19-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε20 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s03-ep20-new/hlektra-s03-ep20-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε21 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/hlektra-s03-ep21-new/hlektra-s03-ep21-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε22 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046039-hlektra-s03-ep22-new/PS046039-hlektra-s03-ep22-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε23 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046040_hlektra-s03-ep23-new/PS046040_hlektra-s03-ep23-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε24 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046041_hlektra-s03-ep24-new-1/PS046041_hlektra-s03-ep24-new-1/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε25 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046042_hlektra-s03-ep25-new/PS046042_hlektra-s03-ep25-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε26 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046043_hlektra-s03-ep26-new/PS046043_hlektra-s03-ep26-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε27 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046044_hlektra-s03-ep27-new/PS046044_hlektra-s03-ep27-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε28 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046045_hlektra-s03-ep28-new/PS046045_hlektra-s03-ep28-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε29 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046046_hlektra-s03-ep29-new/PS046046_hlektra-s03-ep29-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε30 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046047_hlektra_s03_ep30-new/PS046047_hlektra_s03_ep30-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε31 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046048_hlektra_s03_ep31-new/PS046048_hlektra_s03_ep31-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε32 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046049_hlektra_s03_ep32-new/PS046049_hlektra_s03_ep32-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε33 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046050_hlektra-s03-ep33-new/PS046050_hlektra-s03-ep33-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε34 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046051_hlektra-s03-ep34-new/PS046051_hlektra-s03-ep34-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε35 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046052_hlektra-s03-ep35-n/PS046052_hlektra-s03-ep35-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε36 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046053_hlektra-s03-ep36-new/PS046053_hlektra-s03-ep36-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε37 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046054_hlektra-s03-ep37-new/PS046054_hlektra-s03-ep37-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε38 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046055_hlektra-s03-ep38-new/PS046055_hlektra-s03-ep38-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε39 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046056_hlektra-s03-ep39-new/PS046056_hlektra-s03-ep39-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε40 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046057_hlektra-s03-ep40/PS046057_hlektra-s03-ep40/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε41 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046058_hlektra-s03-ep41-new/PS046058_hlektra-s03-ep41-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε42 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046059_hlektra-s03-ep42-new/PS046059_hlektra-s03-ep42-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε43 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046060_hlektra-s03-ep43-new/PS046060_hlektra-s03-ep43-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε44 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046061_hlektra-s03-ep44-new/PS046061_hlektra-s03-ep44-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε45 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046062_hlektra-s03-ep45-new/PS046062_hlektra-s03-ep45-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε46 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046063_hlektra-s03-ep46-new/PS046063_hlektra-s03-ep46-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε47 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046064_hlektra-s03-ep47-new/PS046064_hlektra-s03-ep47-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε48 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046065_hlektra-s03-ep48-new-n/PS046065_hlektra-s03-ep48-new-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε49 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046066_hlektra-s03-ep49-new-n/PS046066_hlektra-s03-ep49-new-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε50 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046067_hlektra-s03-ep50-n/PS046067_hlektra-s03-ep50-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε51 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046068_hlektra-s03-ep51-new1/PS046068_hlektra-s03-ep51-new1/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε52 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046069_hlektra_s03-ep52-new1/PS046069_hlektra_s03-ep52-new1/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε53 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046070_hlektra_s03-ep53-new/PS046070_hlektra_s03-ep53-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε54 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046071_hlektra_s03-ep54-new/PS046071_hlektra_s03-ep54-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε55 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046072_hlektra-s03-ep-55-new/PS046072_hlektra-s03-ep-55-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε56 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046073_hlektra-s03-ep-56-new/PS046073_hlektra-s03-ep-56-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε57 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046074_hlektra-s03-ep-57-n/PS046074_hlektra-s03-ep-57-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε58 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046075_hlektra-s03-ep-58-n/PS046075_hlektra-s03-ep-58-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε59 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046076_hlektra-s03-ep-59-n/PS046076_hlektra-s03-ep-59-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε60 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046077_hlektra-s03-ep-60-new/PS046077_hlektra-s03-ep-60-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε61 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046078_hlektra-s03-ep-61-n/PS046078_hlektra-s03-ep-61-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε62 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046079_hlektra-s03-ep-62-new/PS046079_hlektra-s03-ep-62-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε63 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046080_hlektra-s03-ep-63-n/PS046080_hlektra-s03-ep-63-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε64 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046081_hlektra-s03-ep-64-n/PS046081_hlektra-s03-ep-64-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε65 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046082_hlektra-s03-ep-65-n/PS046082_hlektra-s03-ep-65-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε66 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046083_hlektra_s03-ep66-n/PS046083_hlektra_s03-ep66-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε67 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046084_hlektra_s03-ep67-n/PS046084_hlektra_s03-ep67-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε68 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046085_hlektra_s03-ep68-n/PS046085_hlektra_s03-ep68-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε69 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046086_hlektra_s03-ep69-n/PS046086_hlektra_s03-ep69-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε70 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046087_hlektra_s03-ep70-n/PS046087_hlektra_s03-ep70-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε71 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046088_hlektra_s03-ep71-n/PS046088_hlektra_s03-ep71-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε72 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046089_hlektra_s03-ep72-n/PS046089_hlektra_s03-ep72-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε73 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046090_hlektra-s03-ep73-n/PS046090_hlektra-s03-ep73-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε74 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046091_hlektra-s03-ep74-n/PS046091_hlektra-s03-ep74-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε75 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046092_hlektra-s03-ep75-n/PS046092_hlektra-s03-ep75-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε76 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046093_hlektra-s03-ep76-n/PS046093_hlektra-s03-ep76-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε77 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046094_hlektra-s03-ep77-n/PS046094_hlektra-s03-ep77-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε78 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046095_hlektra-s03-ep78-n/PS046095_hlektra-s03-ep78-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε79 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046096_hlektra-s03-ep79-n/PS046096_hlektra-s03-ep79-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε80 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046097_hlektra-s03-ep80-n/PS046097_hlektra-s03-ep80-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε81 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046098_hlektra-s03-ep81-n/PS046098_hlektra-s03-ep81-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε82 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046099_hlektra-s03-ep82-n/PS046099_hlektra-s03-ep82-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε83 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046100_hlektra_s03-ep83-n/PS046100_hlektra_s03-ep83-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε84 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046101_hlektra_s03_ep84-n/PS046101_hlektra_s03_ep84-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε85 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046102_hlektra_s03-ep85-n/PS046102_hlektra_s03-ep85-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε86 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046103_hlektra_s03-ep86-n/PS046103_hlektra_s03-ep86-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε87 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046104_hlektra_s03-ep87-n/PS046104_hlektra_s03-ep87-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε88 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046105_hlektra_s03-ep88-new/PS046105_hlektra_s03-ep88-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε89 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046106_hlektra_s03_ep89-n/PS046106_hlektra_s03_ep89-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε90 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046107_hlektra_s03_ep90-n/PS046107_hlektra_s03_ep90-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε91 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046108_hlektra_s03_ep91-new/PS046108_hlektra_s03_ep91-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε92 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046109_hlektra_s03_ep92-n/PS046109_hlektra_s03_ep92-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε93 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046110_hlektra_s03_ep93-new/PS046110_hlektra_s03_ep93-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε94 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046111_hlektra_s03_ep94-n/PS046111_hlektra_s03_ep94-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε95 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046112_hlektra_s03_ep95-n/PS046112_hlektra_s03_ep95-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε96 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046113_hlektra_s03_ep96-n/PS046113_hlektra_s03_ep96-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε97 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046114_hlektra_s03_ep97-n/PS046114_hlektra_s03_ep97-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε98 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046115_hlektra_s03_ep98-n/PS046115_hlektra_s03_ep98-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε99 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046116_hlektra_s03_ep99-n/PS046116_hlektra_s03_ep99-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε100 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046117_hlektra_s03_ep100-n/PS046117_hlektra_s03_ep100-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε101 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046118_hlektra_s03_ep101-n/PS046118_hlektra_s03_ep101-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε102 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046119_hlektra_s03_ep102-new/PS046119_hlektra_s03_ep102-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε103 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046120_hlektra_s03_ep103-n/PS046120_hlektra_s03_ep103-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε104 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046121_hlektra_s03_ep104-n/PS046121_hlektra_s03_ep104-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε105 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046122_hlektra_s03_ep105-n/PS046122_hlektra_s03_ep105-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε106 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046123_hlektra_s03-ep106-n/PS046123_hlektra_s03-ep106-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε107 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046124_hlektra_s03-ep107-n/PS046124_hlektra_s03-ep107-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε108 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046125-hlektra_s03-ep108-n/PS046125-hlektra_s03-ep108-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε109 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046126-hlektra_s03-ep109-n/PS046126-hlektra_s03-ep109-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε110 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS046127-hlektra_s03-ep110-n/PS046127-hlektra_s03-ep110-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε111 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0111-hlektra_s03-ep111-n/PS052066-0111-hlektra_s03-ep111-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε112 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0112-hlektra_s03-ep112-n/PS052066-0112-hlektra_s03-ep112-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε113 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0113-hlektra_s03-ep113-n/PS052066-0113-hlektra_s03-ep113-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε114 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0114-hlektra_s03-ep114-n/PS052066-0114-hlektra_s03-ep114-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε115 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0115-hlektra_s03-ep115-n/PS052066-0115-hlektra_s03-ep115-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε116 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0116-hlektra_s03-ep116-n/PS052066-0116-hlektra_s03-ep116-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε117 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0117-hlektra_s03-ep117-n/PS052066-0117-hlektra_s03-ep117-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε118 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0118-hlektra_s03-ep118-n/PS052066-0118-hlektra_s03-ep118-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε119 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0119-hlektra_s03-ep119-n/PS052066-0119-hlektra_s03-ep119-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε120 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0120-hlektra_s03-ep120-n/PS052066-0120-hlektra_s03-ep120-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε121 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0121-hlektra_s03-ep121-n/PS052066-0121-hlektra_s03-ep121-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε122 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0122_hlektra_s03-ep122-n/PS052066-0122_hlektra_s03-ep122-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε123 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0123-hlektra_s03-ep123-n/PS052066-0123-hlektra_s03-ep123-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε124 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0124-hlektra_s03-ep124-new/PS052066-0124-hlektra_s03-ep124-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε125 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0125-hlektra_s03-ep125-n/PS052066-0125-hlektra_s03-ep125-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε126 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0126-hlektra_s03-ep126-n/PS052066-0126-hlektra_s03-ep126-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε127 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0127-hlektra_s03-ep127-n/PS052066-0127-hlektra_s03-ep127-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε128 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0128-hlektra_s03-ep128-n/PS052066-0128-hlektra_s03-ep128-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε129 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0129-hlektra_s03-ep129-n/PS052066-0129-hlektra_s03-ep129-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε130 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0130-hlektra_s03-ep130-n/PS052066-0130-hlektra_s03-ep130-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε131 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0131-hlektra_s03-ep131-n/PS052066-0131-hlektra_s03-ep131-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε132 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0132-hlektra_s03-ep132-n/PS052066-0132-hlektra_s03-ep132-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε133 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0133-hlektra_s03-ep133-n/PS052066-0133-hlektra_s03-ep133-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε134 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0134-hlektra_s03-ep134-2n-n/PS052066-0134-hlektra_s03-ep134-2n-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε135 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0135-hlektra_s03-ep135-new/PS052066-0135-hlektra_s03-ep135-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε136 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0136-hlektra_s03-ep136-n/PS052066-0136-hlektra_s03-ep136-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε137 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0137-hlektra_s03-ep137-n/PS052066-0137-hlektra_s03-ep137-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε138 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0138-hlektra_s03-ep138-n/PS052066-0138-hlektra_s03-ep138-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε139 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0139-hlektra_s03-ep139-new/PS052066-0139-hlektra_s03-ep139-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε140 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0140-hlektra_s03-ep140-n/PS052066-0140-hlektra_s03-ep140-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε141 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0141-hlektra_s03-ep141-n/PS052066-0141-hlektra_s03-ep141-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε142 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0142-hlektra_s03-ep142-new/PS052066-0142-hlektra_s03-ep142-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε143 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0143-hlektra_s03-ep143-new/PS052066-0143-hlektra_s03-ep143-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε144 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0144-hlektra-s03-ep144-n/PS052066-0144-hlektra-s03-ep144-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε145 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0145-hlektra-s03-ep145-new/PS052066-0145-hlektra-s03-ep145-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε146 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0146-hlektra-s03-ep146-new/PS052066-0146-hlektra-s03-ep146-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε147 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0147-hlektra-s03-ep147-n/PS052066-0147-hlektra-s03-ep147-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε148 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0148-hlektra-s03-ep148-n/PS052066-0148-hlektra-s03-ep148-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε149 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0149-hlektra-s03-ep149-n/PS052066-0149-hlektra-s03-ep149-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε150 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0150-hlektra-s03-ep150-n/PS052066-0150-hlektra-s03-ep150-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε151 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0151-hlektra-s03-ep151-n/PS052066-0151-hlektra-s03-ep151-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε152 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0152-hlektra-s03-ep152-n/PS052066-0152-hlektra-s03-ep152-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε153 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0153-hlektra-s03-ep153-n/PS052066-0153-hlektra-s03-ep153-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε154 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0154-hlektra-s03-ep154-new/PS052066-0154-hlektra-s03-ep154-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε155 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0155-hlektra-s03-ep155/PS052066-0155-hlektra-s03-ep155/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε156 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0156-hlektra-s03-ep156/PS052066-0156-hlektra-s03-ep156/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε157 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0157-hlektra-s03-ep157/PS052066-0157-hlektra-s03-ep157/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε158 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0158-hlektra-s03-ep158/PS052066-0158-hlektra-s03-ep158/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε159 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0159-hlektra-s03-ep159/PS052066-0159-hlektra-s03-ep159/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε160 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0160-hlektra-s03-ep160/PS052066-0160-hlektra-s03-ep160/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε161 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0161-new/PS052066-0161-new/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε162 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0162-n/PS052066-0162-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε163 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0163-hlektra-s03-ep163-n/PS052066-0163-hlektra-s03-ep163-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε164 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0164-hlektra-s03-ep164-n/PS052066-0164-hlektra-s03-ep164-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε165 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0165-hlektra-s03-ep165-n/PS052066-0165-hlektra-s03-ep165-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε166 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0166-hlektra-s03-ep166-n/PS052066-0166-hlektra-s03-ep166-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε167 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0167-hlektra-s03-ep167-n/PS052066-0167-hlektra-s03-ep167-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε168 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0168-hlektra-s03-ep-168-new1/PS052066-0168-hlektra-s03-ep-168-new1/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε169 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0169-hlektra-s03-ep-169-n/PS052066-0169-hlektra-s03-ep-169-n/index.m3u8
+#EXTINF:-1 group-title="Season 3",Ε170 ‧ Ηλέκτρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS052066-0170-hlektra-s03-ep-170-n/PS052066-0170-hlektra-s03-ep-170-n/index.m3u8

@@ -1,0 +1,36 @@
+#EXTINF:-1 group-title="Season 1",Επεισόδιο 1
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/zito-to-elliniko-tragoudi-ep01-n/zito-to-elliniko-tragoudi-ep01-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Επεισόδιο 2
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/zito-to-elliniko-tragoudi-ep02-n/zito-to-elliniko-tragoudi-ep02-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Επεισόδιο 3
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/zito-to-elliniko-tragoudi-ep03-n/zito-to-elliniko-tragoudi-ep03-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Επεισόδιο 4
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/zito-to-elliniko-tragoudi-ep04-n/zito-to-elliniko-tragoudi-ep04-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Επεισόδιο 5
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/zito-to-elliniko-tragoudi-ep05-n/zito-to-elliniko-tragoudi-ep05-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Επεισόδιο 6
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/zito-to-elliniko-tragoudi-ep06-n/zito-to-elliniko-tragoudi-ep06-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Επεισόδιο 7
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/zito-to-elliniko-tragoudi-ep07-n/zito-to-elliniko-tragoudi-ep07-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Επεισόδιο 8
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/zito-to-elliniko-tragoudi-ep08-n/zito-to-elliniko-tragoudi-ep08-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Επεισόδιο 9
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/zito-to-elliniko-tragoudi-ep09-n/zito-to-elliniko-tragoudi-ep09-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Επεισόδιο 10
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/zito-to-elliniko-tragoudi-ep10-n/zito-to-elliniko-tragoudi-ep10-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Επεισόδιο 11
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/zito-to-elliniko-tragoudi-ep11-n/zito-to-elliniko-tragoudi-ep11-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Επεισόδιο 12
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/zito-to-elliniko-tragoudi-ep12-n/zito-to-elliniko-tragoudi-ep12-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Επεισόδιο 13
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/zito-to-elliniko-tragoudi-ep13-n/zito-to-elliniko-tragoudi-ep13-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Επεισόδιο 14
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/zito-to-elliniko-tragoudi-ep14-n/zito-to-elliniko-tragoudi-ep14-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Επεισόδιο 15
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/zito-to-elliniko-tragoudi-ep15-n/zito-to-elliniko-tragoudi-ep15-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Επεισόδιο 16
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/zito-to-elliniko-tragoudi-ep16-n/zito-to-elliniko-tragoudi-ep16-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Επεισόδιο 17
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/zito-to-elliniko-tragoudi-ep17-n/zito-to-elliniko-tragoudi-ep17-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Επεισόδιο 18
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/zito-to-elliniko-tragoudi-ep18-n/zito-to-elliniko-tragoudi-ep18-n/index.m3u8

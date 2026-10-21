@@ -1,0 +1,24 @@
+#EXTINF:-1 group-title="Season 1",Ε1 ‧ Η Λέσχη
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/akybernhtes_politeies-01/akybernhtes_politeies-01/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε2 ‧ Η Λέσχη
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/akybernhtes_politeies-02/akybernhtes_politeies-02/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε3 ‧ Η Λέσχη
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/akybernhtes_politeies-03/akybernhtes_politeies-03/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε4 ‧ Η Λέσχη
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/akybernhtes_politeies-04/akybernhtes_politeies-04/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε5 ‧ Η Λέσχη
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/akybernhtes_politeies-05/akybernhtes_politeies-05/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε6 ‧ Η Λέσχη
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/akybernhtes_politeies-06/akybernhtes_politeies-06/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε7 ‧ Η Λέσχη
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/akybernhtes_politeies-07/akybernhtes_politeies-07/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε8 ‧ Η Λέσχη
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/akybernhtes_politeies-08/akybernhtes_politeies-08/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε9 ‧ Η Λέσχη
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/akybernhtes_politeies-09/akybernhtes_politeies-09/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε10 ‧ Η Λέσχη
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/akybernhtes_politeies-10/akybernhtes_politeies-10/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε11 ‧ Η Λέσχη
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/akybernhtes_politeies-11/akybernhtes_politeies-11/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε12 ‧ Η Λέσχη
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/72257_akybernhtes_politeies_ep12-new/72257_akybernhtes_politeies_ep12-new/index.m3u8

@@ -1,0 +1,16 @@
+#EXTINF:-1 group-title="Season 1",Ε1 ‧ Το Βραχιόλι της Φωτιάς
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-vrachioli-tis-fwtias-ep01-clean/to-vrachioli-tis-fwtias-ep01-clean/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε2 ‧ Το Βραχιόλι της Φωτιάς
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-vrachioli-tis-fwtias-ep02-clean/to-vrachioli-tis-fwtias-ep02-clean/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε3 ‧ Το Βραχιόλι της Φωτιάς
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-vrachioli-tis-fwtias-ep03-clean/to-vrachioli-tis-fwtias-ep03-clean/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε4 ‧ Το Βραχιόλι της Φωτιάς
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-vrachioli-tis-fwtias-ep04-clean/to-vrachioli-tis-fwtias-ep04-clean/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε5 ‧ Το Βραχιόλι της Φωτιάς
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-vrachioli-tis-fwtias-ep05-clean/to-vrachioli-tis-fwtias-ep05-clean/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε6 ‧ Το Βραχιόλι της Φωτιάς
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-vrachioli-tis-fwtias-ep06-clean/to-vrachioli-tis-fwtias-ep06-clean/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε7 ‧ Το Βραχιόλι της Φωτιάς
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-vrachioli-tis-fwtias-ep07-clean/to-vrachioli-tis-fwtias-ep07-clean/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε8 ‧ Το Βραχιόλι της Φωτιάς
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-vrachioli-tis-fwtias-ep08-clean/to-vrachioli-tis-fwtias-ep08-clean/index.m3u8

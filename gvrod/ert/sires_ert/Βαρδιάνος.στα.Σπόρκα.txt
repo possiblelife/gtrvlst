@@ -1,0 +1,8 @@
+#EXTINF:-1 group-title="Season 1",Ε1 ‧ Βαρδιάνος στα Σπόρκα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/vardianos-sta-sporka-s01e01-neo/vardianos-sta-sporka-s01e01-neo/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε2 ‧ Βαρδιάνος στα Σπόρκα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/vardianos-sta-sporka-s01e02-subs-n/vardianos-sta-sporka-s01e02-subs-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε3 ‧ Βαρδιάνος στα Σπόρκα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/vardianos-sta-sporka-s01e03-subs-new/vardianos-sta-sporka-s01e03-subs-new/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε4 ‧ Βαρδιάνος στα Σπόρκα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/vardianos-sta-sporka-s01-ep04-new/vardianos-sta-sporka-s01-ep04-new/index.m3u8

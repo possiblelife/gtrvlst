@@ -1,0 +1,26 @@
+#EXTINF:-1 group-title="Season 1",Ε1 ‧ Το Κυνήγι
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/mia-nyxta-toy-aygoystoy-s01-ep01-n/mia-nyxta-toy-aygoystoy-s01-ep01-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε2 ‧ Κάποιες Κυριακές
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/mia-nyxta-toy-aygoystoy-s01-ep02/mia-nyxta-toy-aygoystoy-s01-ep02/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε3 ‧ Η Καλοσύνη των Ξένων
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/mia-nyxta-toy-aygoystoy-s01-ep03/mia-nyxta-toy-aygoystoy-s01-ep03/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε4 ‧ Εύρον το Απολωλός
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/mia-nyxta-toy-aygoystoy-s01-ep04/mia-nyxta-toy-aygoystoy-s01-ep04/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε5 ‧ Της μιας Δραχμής τα Γιασεμιά
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/mia-nyxta-toy-aygoystoy-s01-ep05/mia-nyxta-toy-aygoystoy-s01-ep05/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε6 ‧ Μικρά Θαύματα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/mia-nyxta-toy-aygoystoy-s01-ep06-n/mia-nyxta-toy-aygoystoy-s01-ep06-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε7 ‧ Κάπου Μακριά, Όσο πιο Μακριά
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/mia-nyxta-toy-aygoystoy-s01-ep07/mia-nyxta-toy-aygoystoy-s01-ep07/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε8 ‧ Κονφετί
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/mia-nyxta-toy-aygoystoy-s01-ep08/mia-nyxta-toy-aygoystoy-s01-ep08/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε9 ‧ Μια Ευκαιρία Ακόμα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/mia-nyxta-toy-aygoystoy-s01-ep09-neo/mia-nyxta-toy-aygoystoy-s01-ep09-neo/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε10 ‧ Τα Ραγισμένα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/mia-nyxta-toy-aygoystoy-s01-ep10-n/mia-nyxta-toy-aygoystoy-s01-ep10-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε11 ‧ Ζωή Χαρισάμενη
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/mia-nyxta-toy-aygoystoy-s01-ep11-n/mia-nyxta-toy-aygoystoy-s01-ep11-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε12 ‧ Ισόβια Δεσμά
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/mia-nyxta-toy-aygoystoy-s01-ep12/mia-nyxta-toy-aygoystoy-s01-ep12/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε13 ‧ Διπλό Επεισόδιο: Ο Κόσμος από την Αρχή / Φεγγαρόφως
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/mia-nyxta-toy-aygoystoy-s01-ep13-ep14/mia-nyxta-toy-aygoystoy-s01-ep13-ep14/index.m3u8

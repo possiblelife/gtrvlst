@@ -1,0 +1,26 @@
+#EXTINF:-1 group-title="Season 1",Ε1 ‧ Η Κυρία Ντορεμί
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/i-kyria-doremi-ep01/i-kyria-doremi-ep01/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε2 ‧ Η Κυρία Ντορεμί
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/i-kyria-doremi-ep02/i-kyria-doremi-ep02/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε3 ‧ Η Κυρία Ντορεμί
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/i-kyria-doremi-ep03/i-kyria-doremi-ep03/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε4 ‧ Η Κυρία Ντορεμί
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/i-kyria-doremi-ep04/i-kyria-doremi-ep04/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε5 ‧ Η Κυρία Ντορεμί
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/i-kyria-doremi-ep05/i-kyria-doremi-ep05/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε6 ‧ Η Κυρία Ντορεμί
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/i-kyria-doremi-ep06/i-kyria-doremi-ep06/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε7 ‧ Η Κυρία Ντορεμί
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/i-kyria-doremi-ep07/i-kyria-doremi-ep07/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε8 ‧ Η Κυρία Ντορεμί
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/i-kyria-doremi-ep08/i-kyria-doremi-ep08/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε9 ‧ Η Κυρία Ντορεμί
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/i-kyria-doremi-ep09-n/i-kyria-doremi-ep09-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε10 ‧ Η Κυρία Ντορεμί
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/i-kyria-doremi-ep10/i-kyria-doremi-ep10/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε11 ‧ Η Κυρία Ντορεμί
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/i-kyria-doremi-ep11/i-kyria-doremi-ep11/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε12 ‧ Η Κυρία Ντορεμί
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/i-kyria-doremi-ep12/i-kyria-doremi-ep12/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε13 ‧ Η Κυρία Ντορεμί
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/i-kyria-doremi-ep13/i-kyria-doremi-ep13/index.m3u8

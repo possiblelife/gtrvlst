@@ -1,0 +1,32 @@
+#EXTINF:-1 group-title="Season 1",Ε1 ‧ Σταυροδρόμια
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/erimi-xwra-s01-ep01/erimi-xwra-s01-ep01/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε2 ‧ Πουθενά
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/erimi-xwra-s01-ep02/erimi-xwra-s01-ep02/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε3 ‧ Η Καρδιά του Φωτός
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/erimi-xwra-s01-ep03/erimi-xwra-s01-ep03/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε4 ‧ Καινούργια Ζωή
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/erimi-xwra-s01-ep04/erimi-xwra-s01-ep04/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε5 ‧ Χημικές Ενώσεις
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/erimi-xwra-s01-ep05-n/erimi-xwra-s01-ep05-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε6 ‧ Όλα Λάθος
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/erimi-xwra-s01-ep06-neo/erimi-xwra-s01-ep06-neo/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε7 ‧ Το Παρελθόν
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/erimi-xwra-s01-ep07-neo/erimi-xwra-s01-ep07-neo/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε8 ‧ Το Χρέος
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/erimi-xwra-s01-ep08/erimi-xwra-s01-ep08/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε1 ‧ Σημείο Μηδέν
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/erimi-xwra-s02-ep01/erimi-xwra-s02-ep01/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε2 ‧ Κρυφτό
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/erimi-xwra-s02-ep02/erimi-xwra-s02-ep02/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε3 ‧ Τα Μάτια του Γερακιού
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/erimi-xwra-s02-ep03/erimi-xwra-s02-ep03/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε4 ‧ Η Τύχη της Εύας
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/erimi-xwra-s02-ep04-n/erimi-xwra-s02-ep04-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε5 ‧ Brothers
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/erimi-xwra-s02-ep05-n/erimi-xwra-s02-ep05-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε6 ‧ Αυτά που Αφήνεις Πίσω
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/erimi-xwra-s02-ep06-n/erimi-xwra-s02-ep06-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε7 ‧ Ο Θυμός
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/erimi-xwra-s02-ep07-n1/erimi-xwra-s02-ep07-n1/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε8 ‧ Ιερός Πόλεμος
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/erimi-xwra-s02-ep08-n1/erimi-xwra-s02-ep08-n1/index.m3u8

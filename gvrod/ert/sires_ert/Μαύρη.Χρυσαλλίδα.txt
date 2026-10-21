@@ -1,0 +1,24 @@
+#EXTINF:-1 group-title="Season 1",Ε1 ‧ Μαύρη Χρυσαλλίδα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/mavri-xrysalida-ep01-new/mavri-xrysalida-ep01-new/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε2 ‧ Μαύρη Χρυσαλλίδα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/mavri-xrysalida-ep02-new/mavri-xrysalida-ep02-new/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε3 ‧ Μαύρη Χρυσαλλίδα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/mavri-xrysalida-ep03-new/mavri-xrysalida-ep03-new/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε4 ‧ Μαύρη Χρυσαλλίδα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/mavri-xrysalida-ep04-new/mavri-xrysalida-ep04-new/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε5 ‧ Μαύρη Χρυσαλλίδα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/mavri-xrysalida-ep05-new/mavri-xrysalida-ep05-new/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε6 ‧ Μαύρη Χρυσαλλίδα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/mavri-xrysalida-ep06-new/mavri-xrysalida-ep06-new/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε7 ‧ Μαύρη Χρυσαλλίδα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/mavri-xrysalida-ep07-new/mavri-xrysalida-ep07-new/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε8 ‧ Μαύρη Χρυσαλλίδα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/mavri-xrysalida-ep08-new/mavri-xrysalida-ep08-new/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε9 ‧ Μαύρη Χρυσαλλίδα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/mavri-xrysalida-ep09-new/mavri-xrysalida-ep09-new/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε10 ‧ Μαύρη Χρυσαλλίδα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/mavri-xrysalida-ep10-new/mavri-xrysalida-ep10-new/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε11 ‧ Μαύρη Χρυσαλλίδα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/mavri-xrysalida-ep11-new/mavri-xrysalida-ep11-new/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε12 ‧ Μαύρη Χρυσαλλίδα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/mavri-xrysalida-ep12-new/mavri-xrysalida-ep12-new/index.m3u8

@@ -1,0 +1,24 @@
+#EXTINF:-1 group-title="Season 1",Ε1 ‧ Κουτσουπιές
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS058511-0001_koutsoupies-n/PS058511-0001_koutsoupies-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε2 ‧ Κουτσουπιές
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS058511-0002-koutsoupies/PS058511-0002-koutsoupies/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε3 ‧ Κουτσουπιές
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS058511-0003-koutsoupies_n/PS058511-0003-koutsoupies_n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε4 ‧ Κουτσουπιές
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS058511-0004-koutsoupies/PS058511-0004-koutsoupies/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε5 ‧ Κουτσουπιές
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS058511-0005-koutsoupies/PS058511-0005-koutsoupies/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε6 ‧ Κουτσουπιές
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS058511-0006_koutsoupies/PS058511-0006_koutsoupies/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε7 ‧ Κουτσουπιές
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS058511-0007-koutsoupies/PS058511-0007-koutsoupies/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε8 ‧ Κουτσουπιές
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS058511-0008-koutsoupies/PS058511-0008-koutsoupies/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε9 ‧ Κουτσουπιές
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS058511-0009-koutsoupies/PS058511-0009-koutsoupies/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε10 ‧ Κουτσουπιές
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS058511-0010-koutsoupies/PS058511-0010-koutsoupies/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε11 ‧ Κουτσουπιές
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS058511-0011/PS058511-0011/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε12 ‧ Κουτσουπιές
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS058511-0012-koutsoupies/PS058511-0012-koutsoupies/index.m3u8

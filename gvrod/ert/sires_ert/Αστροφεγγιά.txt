@@ -1,0 +1,52 @@
+#EXTINF:-1 group-title="Season 1",Ε1 ‧ Αστροφεγγιά
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/astrofeggia-ep01-n/astrofeggia-ep01-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε2 ‧ Αστροφεγγιά
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/astrofeggia-ep02-n/astrofeggia-ep02-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε3 ‧ Αστροφεγγιά
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/astrofeggia-ep03-n/astrofeggia-ep03-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε4 ‧ Αστροφεγγιά
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/astrofeggia-ep04-n/astrofeggia-ep04-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε5 ‧ Αστροφεγγιά
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/astrofeggia-ep05-n/astrofeggia-ep05-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε6 ‧ Αστροφεγγιά
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/astrofeggia-ep06-new/astrofeggia-ep06-new/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε7 ‧ Αστροφεγγιά
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/astrofeggia-ep07-new/astrofeggia-ep07-new/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε8 ‧ Αστροφεγγιά
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/astrofeggia-ep08-new/astrofeggia-ep08-new/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε9 ‧ Αστροφεγγιά
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/astrofeggia-ep09-new/astrofeggia-ep09-new/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε10 ‧ Αστροφεγγιά
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/astrofeggia-ep10-new/astrofeggia-ep10-new/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε11 ‧ Αστροφεγγιά
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/astrofeggia-ep11-n/astrofeggia-ep11-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Επεισόδιο 12
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/astrofeggia-ep12-n/astrofeggia-ep12-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε13 ‧ Αστροφεγγιά
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/astrofeggia-ep13-n/astrofeggia-ep13-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε14 ‧ Αστροφεγγιά
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/astrofeggia-ep14-n/astrofeggia-ep14-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε15 ‧ Αστροφεγγιά
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/astrofeggia-ep15-n/astrofeggia-ep15-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε16 ‧ Αστροφεγγιά
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/astrofeggia-ep16-n/astrofeggia-ep16-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε17 ‧ Αστροφεγγιά
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/astrofeggia-ep17-n/astrofeggia-ep17-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε18 ‧ Αστροφεγγιά
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/astrofeggia-ep18-n/astrofeggia-ep18-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε19 ‧ Αστροφεγγιά
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/astrofeggia-ep19-n/astrofeggia-ep19-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε20 ‧ Αστροφεγγιά
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/astrofeggia-ep20-n/astrofeggia-ep20-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε21 ‧ Αστροφεγγιά
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/astrofeggia-ep21-n/astrofeggia-ep21-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε22 ‧ Αστροφεγγιά
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/astrofeggia-ep22-n/astrofeggia-ep22-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε23 ‧ Αστροφεγγιά
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/astrofeggia-ep23-n/astrofeggia-ep23-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε24 ‧ Αστροφεγγιά
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/astrofeggia-ep24-n/astrofeggia-ep24-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε25 ‧ Αστροφεγγιά
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/astrofeggia-ep25-n/astrofeggia-ep25-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε26 ‧ Αστροφεγγιά
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/astrofeggia-ep26-n/astrofeggia-ep26-n/index.m3u8

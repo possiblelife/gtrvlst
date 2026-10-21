@@ -1,0 +1,24 @@
+#EXTINF:-1 group-title="Season 1",Ε1 ‧ Άλμα στο Κενό
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-dixty-ep01-alma-sto-keno-2-n/to-dixty-ep01-alma-sto-keno-2-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε2 ‧ Τυχαίο Θύμα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-dixty-ep02-tyxaio-thyma/to-dixty-ep02-tyxaio-thyma/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε3 ‧ Απόγνωση
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-dixty-ep03-apognosi/to-dixty-ep03-apognosi/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε4 ‧ Η Χείρα της Περσεφόνης
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-dixty-ep04-i-xeira-tis-persefonis/to-dixty-ep04-i-xeira-tis-persefonis/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε5 ‧ Δεκαεννέα Μαχαιριές
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-dixty-ep05-dekaenea-maxairies/to-dixty-ep05-dekaenea-maxairies/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε6 ‧ Κρυμμένοι στο Σκοτάδι
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-dixty-ep06-krymmenoi-sto-skotadi/to-dixty-ep06-krymmenoi-sto-skotadi/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε1 ‧ Στημένο Παιχνίδι
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-dixty-stimeno-paixnidi-s02-ep01/to-dixty-stimeno-paixnidi-s02-ep01/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε2 ‧ Τζόναθαν
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-dixty-jonathan-s02-ep02/to-dixty-jonathan-s02-ep02/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε3 ‧ Η Τελευταία Ένοικος
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-dixty-h-teleftea-enikos-s02-ep03/to-dixty-h-teleftea-enikos-s02-ep03/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε4 ‧ Ο Μποξέρ
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-dixty-o-boxer-s02-ep04-n/to-dixty-o-boxer-s02-ep04-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε5 ‧ Θεωρίες Συνωμοσίας
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-dixty-theories-synomosias-s02-ep05/to-dixty-theories-synomosias-s02-ep05/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε6 ‧ Αγνοούμενη
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS036503_to-dixty-agnooumenh-s02-ep06-n/PS036503_to-dixty-agnooumenh-s02-ep06-n/index.m3u8

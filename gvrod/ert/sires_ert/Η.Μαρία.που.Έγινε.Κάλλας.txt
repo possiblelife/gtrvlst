@@ -1,0 +1,20 @@
+#EXTINF:-1 group-title="Season 1",Ε1 ‧ La Paloma
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/i-maria-pou-egine-callas-ep01-4new/i-maria-pou-egine-callas-ep01-4new/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε2 ‧ Το Μολυβένιο Στρατιωτάκι
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/i-maria-pou-egine-callas-ep02-new4/i-maria-pou-egine-callas-ep02-new4/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε3 ‧ Ο Έρωτας είναι Ατίθασο Πουλί
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/i-maria-pou-egine-callas-ep03-new4/i-maria-pou-egine-callas-ep03-new4/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε4 ‧ Vissi d’ Arte, Vissi d’ Amore
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/i-maria-pou-egine-callas-ep04-new4/i-maria-pou-egine-callas-ep04-new4/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε5 ‧ Από Μηχανής Θεός
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/i-maria-pou-egine-callas-ep05-new4/i-maria-pou-egine-callas-ep05-new4/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε6 ‧ Βάλε Φωτιά
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/i-maria-pou-egine-callas-ep06-new4/i-maria-pou-egine-callas-ep06-new4/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε7 ‧ Χελιδόνια
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/i-maria-pou-egine-callas-ep07-new4/i-maria-pou-egine-callas-ep07-new4/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε8 ‧ Προς την Ελευθερία
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/i-maria-pou-egine-callas-ep08-new4/i-maria-pou-egine-callas-ep08-new4/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε9 ‧ Λικέρ Μπανάνα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/i-maria-pou-egine-callas-ep09-new4/i-maria-pou-egine-callas-ep09-new4/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε10 ‧ Μέχρι την Άκρη της Γης
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/i-maria-pou-egine-callas-ep10-new4/i-maria-pou-egine-callas-ep10-new4/index.m3u8

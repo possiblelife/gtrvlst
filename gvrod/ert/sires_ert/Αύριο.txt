@@ -1,0 +1,4 @@
+#EXTINF:-1 group-title="Season 1",Ε1 ‧ Αύριο
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS048873_aurio-s01-ep01-clean/PS048873_aurio-s01-ep01-clean/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε2 ‧ Αύριο
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS048874_aurio-s01-ep02-clean/PS048874_aurio-s01-ep02-clean/index.m3u8

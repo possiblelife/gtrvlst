@@ -1,0 +1,54 @@
+#EXTINF:-1 group-title="Season 1",Ε1 ‧ Το Μινόρε της Αυγής
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-minore-tis-avgis-s01-ep01-n/to-minore-tis-avgis-s01-ep01-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε2 ‧ Το Μινόρε της Αυγής
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-minore-tis-avgis-s01-ep02-n/to-minore-tis-avgis-s01-ep02-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε3 ‧ Το Μινόρε της Αυγής
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-minore-tis-avgis-s01-ep03-n/to-minore-tis-avgis-s01-ep03-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε4 ‧ Το Μινόρε της Αυγής
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-minore-tis-avgis-s01-ep04-n/to-minore-tis-avgis-s01-ep04-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε5 ‧ Το Μινόρε της Αυγής
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-minore-tis-avgis-s01-ep05-n/to-minore-tis-avgis-s01-ep05-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε6 ‧ Το Μινόρε της Αυγής
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-minore-tis-avgis-s01-ep06-n/to-minore-tis-avgis-s01-ep06-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε7 ‧ Το Μινόρε της Αυγής
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-minore-tis-avgis-s01-ep07-n/to-minore-tis-avgis-s01-ep07-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε8 ‧ Το Μινόρε της Αυγής
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-minore-tis-avgis-s01-ep08-n/to-minore-tis-avgis-s01-ep08-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε9 ‧ Το Μινόρε της Αυγής
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-minore-tis-avgis-s01-ep09-n/to-minore-tis-avgis-s01-ep09-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε10 ‧ Το Μινόρε της Αυγής
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-minore-tis-avgis-s01-ep10-nn/to-minore-tis-avgis-s01-ep10-nn/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε11 ‧ Το Μινόρε της Αυγής
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-minore-tis-avgis-s01-ep11-n/to-minore-tis-avgis-s01-ep11-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε12 ‧ Το Μινόρε της Αυγής
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-minore-tis-avgis-s01-ep12-n/to-minore-tis-avgis-s01-ep12-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε13 ‧ Το Μινόρε της Αυγής
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-minore-tis-avgis-s01-ep13-n/to-minore-tis-avgis-s01-ep13-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε14 ‧ Το Μινόρε της Αυγής
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-minore-tis-avgis-s01-ep14-n/to-minore-tis-avgis-s01-ep14-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε1 ‧ Το Μινόρε της Αυγής
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-minore-tis-avgis-s02-ep01-n/to-minore-tis-avgis-s02-ep01-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε2 ‧ Το Μινόρε της Αυγής
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-minore-tis-avgis-s02-ep02-n/to-minore-tis-avgis-s02-ep02-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε3 ‧ Το Μινόρε της Αυγής
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-minore-tis-avgis-s02-ep03-n/to-minore-tis-avgis-s02-ep03-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε4 ‧ Το Μινόρε της Αυγής
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-minore-tis-avgis-s02-ep04-n/to-minore-tis-avgis-s02-ep04-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε5 ‧ Το Μινόρε της Αυγής
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-minore-tis-avgis-s02-ep05-n/to-minore-tis-avgis-s02-ep05-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε6 ‧ Το Μινόρε της Αυγής
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-minore-tis-avgis-s02-ep06-n/to-minore-tis-avgis-s02-ep06-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε7 ‧ Το Μινόρε της Αυγής
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-minore-tis-avgis-s02-ep07-n/to-minore-tis-avgis-s02-ep07-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε8 ‧ Το Μινόρε της Αυγής
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-minore-tis-avgis-s02-ep08-n/to-minore-tis-avgis-s02-ep08-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε9 ‧ Το Μινόρε της Αυγής
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-minore-tis-avgis-s02-ep09-n/to-minore-tis-avgis-s02-ep09-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε10 ‧ Το Μινόρε της Αυγής
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-minore-tis-avgis-s02-ep10-n/to-minore-tis-avgis-s02-ep10-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε11 ‧ Το Μινόρε της Αυγής
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-minore-tis-avgis-s02-ep11-n/to-minore-tis-avgis-s02-ep11-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε12 ‧ Το Μινόρε της Αυγής
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-minore-tis-avgis-s02-ep12-n/to-minore-tis-avgis-s02-ep12-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε13 ‧ Το Μινόρε της Αυγής
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/to-minore-tis-avgis-s02-ep13-n/to-minore-tis-avgis-s02-ep13-n/index.m3u8

@@ -1,0 +1,12 @@
+#EXTINF:-1 group-title="Season 1",Ε1 ‧ Η Μεγάλη Χίμαιρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/i-megali-ximaira-ep01-n-new/i-megali-ximaira-ep01-n-new/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε2 ‧ Η Μεγάλη Χίμαιρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/i-megali-ximaira-ep02-new1/i-megali-ximaira-ep02-new1/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε3 ‧ Η Μεγάλη Χίμαιρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/i-megali-ximaira-ep03-new/i-megali-ximaira-ep03-new/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε4 ‧ Η Μεγάλη Χίμαιρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS047867_i_megali-ximaira-ep04-clean-n/PS047867_i_megali-ximaira-ep04-clean-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε5 ‧ Η Μεγάλη Χίμαιρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS047868_i_megali_ximaira_ep05/PS047868_i_megali_ximaira_ep05/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε6 ‧ Η Μεγάλη Χίμαιρα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS047869_i_megali-ximaira-ep06-n/PS047869_i_megali-ximaira-ep06-n/index.m3u8

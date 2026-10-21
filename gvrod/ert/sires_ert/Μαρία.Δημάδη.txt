@@ -1,0 +1,14 @@
+#EXTINF:-1 group-title="Season 1",Επεισόδιο 1
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/maria-dimadi-ep01-n/maria-dimadi-ep01-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Επεισόδιο 2
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/maria-dimadi-ep02-n/maria-dimadi-ep02-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Επεισόδιο 3
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/maria-dimadi-ep03-n/maria-dimadi-ep03-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Επεισόδιο 4
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/maria-dimadi-ep04-n/maria-dimadi-ep04-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Επεισόδιο 5
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/maria-dimadi-ep05-n/maria-dimadi-ep05-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Επεισόδιο 6
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/maria-dimadi-ep06-n/maria-dimadi-ep06-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Επεισόδιο 7
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/maria-dimadi-ep07-n/maria-dimadi-ep07-n/index.m3u8

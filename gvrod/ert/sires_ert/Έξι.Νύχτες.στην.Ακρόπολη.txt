@@ -1,0 +1,12 @@
+#EXTINF:-1 group-title="Season 1",Ε1 ‧ Έξι Νύχτες στην Ακρόπολη
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/eksi-nyxtes-stin-akropoli-ep01/eksi-nyxtes-stin-akropoli-ep01/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε2 ‧ Έξι Νύχτες στην Ακρόπολη
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/eksi-nyxtes-stin-akropoli-ep02/eksi-nyxtes-stin-akropoli-ep02/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε3 ‧ Έξι Νύχτες στην Ακρόπολη
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/eksi-nyxtes-stin-akropoli-ep03/eksi-nyxtes-stin-akropoli-ep03/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε4 ‧ Έξι Νύχτες στην Ακρόπολη
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/eksi-nyxtes-stin-akropoli-ep04/eksi-nyxtes-stin-akropoli-ep04/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε5 ‧ Έξι Νύχτες στην Ακρόπολη
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/eksi-nyxtes-stin-akropoli-ep05/eksi-nyxtes-stin-akropoli-ep05/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε6 ‧ Έξι Νύχτες στην Ακρόπολη
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/eksi-nyxtes-stin-akropoli-ep06/eksi-nyxtes-stin-akropoli-ep06/index.m3u8

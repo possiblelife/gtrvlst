@@ -1,0 +1,40 @@
+#EXTINF:-1 group-title="Season 1",Ε1 ‧ Η Εκτέλεση του Ίωνα Δραγούμη
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ekpompes-pou-agapisa-ionas-dragoumis-n/ekpompes-pou-agapisa-ionas-dragoumis-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε3 ‧ Σοφία Βέμπο
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ekpompes-pou-agapisa-sophia-vebo-n/ekpompes-pou-agapisa-sophia-vebo-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε4 ‧ Zυλ Ντάσεν
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ekpompes-pou-agapisa-zil-dassen-n/ekpompes-pou-agapisa-zil-dassen-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε7 ‧ Τζίμης ο Τίγρης και Κατεπάν Γιώργης Αργυρίου
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ekpompes-pou-agapisa-jimis-o-tigris-n/ekpompes-pou-agapisa-jimis-o-tigris-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε9 ‧ Μανώλης Γλέζος – Λάκης Σάντας
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ekpompes-pou-agapisa-manolis-glezos-apostolos-santas-n/ekpompes-pou-agapisa-manolis-glezos-apostolos-santas-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε11 ‧ Από το 1977 με Χαμόγελο [Πρωτοχρονιάτικο]
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ekpompes-pou-agapisa-apo-to-1977-me-xamogelo-n/ekpompes-pou-agapisa-apo-to-1977-me-xamogelo-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε17 ‧ Η Ανατίναξη της ΕΣΠΟ
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ekpompes-pou-agapisa-i-anatinaxi-tis-espo-n/ekpompes-pou-agapisa-i-anatinaxi-tis-espo-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε21 ‧ Ιωάννης Καποδίστριας
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ekpompes-pou-agapisa-ioannis-kapodistrias-n/ekpompes-pou-agapisa-ioannis-kapodistrias-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε22 ‧ Τζο Ντασέν
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ekpompes-pou-agapisa-joe-dassin-n/ekpompes-pou-agapisa-joe-dassin-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε26 ‧ Έλλη Λαμπέτη (Α’ Μέρος)
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ekpompes-pou-agapisa-elli-lampeti-a-n/ekpompes-pou-agapisa-elli-lampeti-a-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε27 ‧ Έλλη Λαμπέτη (Β’ Μέρος)
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ekpompes-pou-agapisa-elli-lampeti-b-n/ekpompes-pou-agapisa-elli-lampeti-b-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε28 ‧ Αλίκη Διπλαράκου
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ekpompes-pou-agapisa-aliki-diplarakou-n/ekpompes-pou-agapisa-aliki-diplarakou-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε30 ‧ Κύπρος
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ekpompes-pou-agapisa-cyprus-n/ekpompes-pou-agapisa-cyprus-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε34 ‧ Αιμίλιος Βεάκης
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ekpompes-pou-agapisa-aimilos-veakis-n/ekpompes-pou-agapisa-aimilos-veakis-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε37 ‧ Μαρίκα Νέζερ
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ekpompes-pou-agapisa-marika-nezer-n/ekpompes-pou-agapisa-marika-nezer-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε39 ‧ Ντίνος Ηλιόπουλος - Γιάννης Γκιωνάκης
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ekpompes-pou-agapisa-ntinos-iliopoulos-giannis-gkionakis-n/ekpompes-pou-agapisa-ntinos-iliopoulos-giannis-gkionakis-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε41 ‧ Διονύσης Παπαγιαννόπουλος
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ekpompes-pou-agapisa-dionisis-papagiannopoulos-n/ekpompes-pou-agapisa-dionisis-papagiannopoulos-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε43 ‧ Μενέλαος Λουντέμης - Νίκος Καζαντζάκης
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ekpompes-pou-agapisa-menelaos-lountemis-nikos-kazantzakis-n/ekpompes-pou-agapisa-menelaos-lountemis-nikos-kazantzakis-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε44 ‧ Η Κυρά της Ρω
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ekpompes-pou-agapisa-kira-tis-ro-despoina-axladioti-n/ekpompes-pou-agapisa-kira-tis-ro-despoina-axladioti-n/index.m3u8
+#EXTINF:-1 group-title="Season 2",Ε47 ‧ Αντώνης Σαμαράκης
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/ekpompes-pou-agapisa-antonis-samarakis-n/ekpompes-pou-agapisa-antonis-samarakis-n/index.m3u8

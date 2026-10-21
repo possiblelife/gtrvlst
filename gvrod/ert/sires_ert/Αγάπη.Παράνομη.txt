@@ -1,0 +1,12 @@
+#EXTINF:-1 group-title="Season 1",Ε1 ‧ Ο Αρραβώνας
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/agapi-paranomi-s01-ep01-o-aravonas_eng_gr-n/agapi-paranomi-s01-ep01-o-aravonas_eng_gr-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε2 ‧ Ο Γάμος
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/agapi-paranomi-s01-ep02-o-gamos_eng_gr-n/agapi-paranomi-s01-ep02-o-gamos_eng_gr-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε3 ‧ Ο Πειρασμός
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/agapi-paranomi-s01-ep03-o-peirasmos-1-gr/agapi-paranomi-s01-ep03-o-peirasmos-1-gr/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε4 ‧ Η Αποκάλυψη
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/agapi-paranomi-s01-ep04-i-apokalipsi-1-gr-n/agapi-paranomi-s01-ep04-i-apokalipsi-1-gr-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε5 ‧ Ο Κλήρος
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/agapi-paranomi-s01-ep05-o-kliros-gr-n/agapi-paranomi-s01-ep05-o-kliros-gr-n/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε6 ‧ Η Κάθαρση
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/agapi-paranomi-s01-ep06-i-katharsi-gr-n/agapi-paranomi-s01-ep06-i-katharsi-gr-n/index.m3u8
