@@ -1,127 +1,115 @@
-#EXTM3U
-#EXTINF:-1  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81D4bhLep5L._SY355_.png" ,===ΡΑΔΙΟΦΩΝΟ===
-https://is4-ssl.mzstatic.com/image/thumb/Purple62/v4/db/ac/4a/dbac4afa-8e38-3ae6-910c-2d695049873b/mzl.inrolmnl.png/1200x630wa.png|webview zoom=100 scroll=0,0
- 
-#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΛΕΥΚΩΣΙΑ ====
-http://.....
-
-#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK-RADIO4.png" ,ΡΙΚ4 88.2
-http://r1.cloudskep.com/cybcr/cybc4/icecast.audio
-#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/kiss.png" ,Kiss 89.0
-http://phileradio.com:8193/89FM
-#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK-RADIO2.png" ,ΡΙΚ2 91.1
-http://r1.cloudskep.com/cybcr/cybc2/icecast.audio
-#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/astracy.png" ,ΑΣΤΡΑ 92.8
-http://radio.dialogos.com.cy:8000/stream
-#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/agdim933.png" ,Αγιος Δημήτριος Ακροπόλεως 93.3
-http://eco.onestreaming.com:8474/;
-#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/Alithinos_Logos.jpg" ,Ο Αληθινός Λόγος93.3
-http://r1.cloudskep.com/radio/agiosdemetrios/icecast.audio
-#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/deejaycyprus.png" ,Deejay 93.5
-http://eradio.networksolutions.com.cy:1935/DeeJay/DeeJay.stream/playlist.m3u8
-#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/riktrito.png" ,ΡΙΚ3 (ΤΡΙΤΟ) 94.8
-http://r1.cloudskep.com/cybcr/cybc3/icecast.audio
-#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/sportfm95.png" ,Sport Fm 95.0
-http://eradio.networksolutions.com.cy:1935/SportFM/SportFM.stream/playlist.m3u8
-#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/zenith.png" ,ΖΕΝΙΘ 96.4
-http://live3.istoikona.net:9836/stream
-#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/sfera.png" ,ΣΦΑΙΡΑ 96.8
-http://phileradio.com:8193/sfera
-#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/rikproto.png" ,ΡΙΚ1 97.2
-http://r1.cloudskep.com/cybcr/cybc1/icecast.audio
-#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/RadioCy.png" ,Radio Cyprus 97.3
-http://116.202.246.196:8000/streamRadioCy
-#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/nrjenergy.png" ,NRJ Cyprus 99.0
-https://stream.radiojar.com/ke923q0hhf9uv
-#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="https://i.ibb.co/WDwVJ3K/new-logo-radio-proto-black-1200-x-1200.jpg" ,ΡΑΔΙΟ ΠΡΩΤΟ 99.3
-https://live3.istoikona.net:18191/stream
-#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/njoy995.png" ,NJOY 99.5
+#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="hub://logsrad/2757.webp" ,==== ΛΕΥΚΩΣΙΑ ΚΥΠΡΟΣ ====
+https://live3.istoikona.net/proxy/radiodeejay/stream
+#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-genre="Sophisticated" tvg-logo="hub://logsrad/rik4.webp",RIK Radio 4 88,2 (Λευκωσία)
+https://r1.cloudskep.com/cybcr/cybc4/icecast.audio
+#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-genre="Ξένη & Dance" tvg-logo="hub://logsrad/kiss.webp",Kiss 89 (Λευκωσία)
+https://securestreams3.autopo.st:1417/89FM
+#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-genre="Διάφορα" tvg-logo="hub://logsrad/rik2.webp",RIK Radio 2 91,2 (Λευκωσία)
+https://r1.cloudskep.com/cybcr/cybc2/icecast.audio
+#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-genre="Ειδήσεις" tvg-logo="hub://logsrad/astracy.webp",Astra 92,8 (Λευκωσία)
+https://securestreams2.autopo.st:1106/stream
+#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-genre="Θρησκευτικά" tvg-logo="hub://logsrad/agdim933.webp",Αγ. Δημήτριος Ακροπόλεως 93,3 (Λευκωσία)
+https://eco.onestreaming.com/proxy/agdim933/stream
+#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-genre="Θρησκευτικά" tvg-logo="hub://logsrad/Alithinos_Logos.webp",Ο Αληθινός Λόγος 93,3 (Λευκωσία)
+https://r1.cloudskep.com/radio/agiosdemetrios/icecast.audio
+#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-genre="Ξένη & Dance" tvg-logo="hub://logsrad/deejaycy.webp",Deejay 93,5 (Λευκωσία)
+https://live3.istoikona.net/proxy/radiodeejay/stream
+#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-genre="Ελληνικά Λαϊκά" tvg-logo="hub://logsrad/riktrito.webp",RIK Τρίτο 94,8 (Λευκωσία)
+https://r1.cloudskep.com/cybcr/cybc3/icecast.audio
+#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-genre="Αθλητικά" tvg-logo="hub://logsrad/sportfmcyprus.webp",Sport Fm 95 (Λευκωσία)
+https://live3.istoikona.net/proxy/sportfm/stream
+#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-genre="Ελληνικά Επιτυχίες" tvg-logo="hub://logsrad/zenith.webp",Ζενίθ 96,4 (Λευκωσία)
+https://live3.istoikona.net/proxy/zenithice/stream
+#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-genre="Ελληνικά Επιτυχίες" tvg-logo="hub://logsrad/sfera.webp",Sfera 96,8 (Λευκωσία)
+https://securestreams3.autopo.st:1417/sfera
+#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-genre="Ειδήσεις" tvg-logo="hub://logsrad/rikproto.webp",RIK Πρώτο 97,2 (Λευκωσία)
+https://r1.cloudskep.com/cybcr/cybc1/icecast.audio
+#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-genre="Ελληνικά Επιτυχίες" tvg-logo="hub://logsrad/protoradio.webp",Ράδιο Πρώτο 99,3 (Λευκωσία)
+https://live3.istoikona.net/proxy/radioproto/stream
+#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-genre="Ξένη & Dance" tvg-logo="hub://logsrad/njoyradio-cyprus.webp",NJOY 99,5 (Λευκωσία)
 https://stream.radiojar.com/mg7kftnzka3vv
-#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/lovefmcyprus.png" ,Love Fm 100.7
-http://eradio.networksolutions.com.cy:1935/LoveRadio/Loveradio.stream/playlist.m3u8
-#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/diesi-cyprus.png" ,ΔΙΕΣΗ 101.1
-http://r1.cloudskep.com/radio/diesi/icecast.audio
-#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/mixfmcyprus2.png" ,MixFm 102.3
-http://eco.onestreaming.com:8127/;
-#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/ant1radiocy.png" ,Ant1 Radio 102.7 
-http://r1.cloudskep.com/radio2/ant1fm/icecast.audio
-#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/sportfm.png" ,Super ΣΠΟΡΤ FM 104.0
-http://sportfm-cyprus.live24.gr/sportfm-cyprus
-#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/super.png" ,Super FM 104.8
-http://eco.onestreaming.com:8175/;
-#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/klikfmcy.png" ,ΚΛΙΚ FM 105.5
-http://eco.onestreaming.com:8310/;
-#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/dromosfmcy.png" ,ΔΡΟΜΟΣ 106.7
-http://dromoscyprus.live24.gr/dromoscyprus
-#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/activeradio.png" ,Active 107.4
-http://r2.phileradio.com:8193/active
-#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/politistadio.png" ,ΠΟΛΙΤΗΣ 107.6
-http://eco.onestreaming.com:8199/;
+#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-genre="Ξένη & Dance" tvg-logo="hub://logsrad/topradiocyprus.webp",Top Radio 99,9 (Λευκωσία)
+https://stream.radiojar.com/70b8eh1k3dpwv
+#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-genre="Εντεχνη & Ballads" tvg-logo="hub://logsrad/lovefmcyprus.webp",Love Fm 100,7 (Λευκωσία)
+https://live3.istoikona.net:18948/stream
+#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-genre="Εντεχνη & Ballads" tvg-logo="hub://logsrad/diesi-cyprus.webp",Δίεση 101,1 (Λευκωσία)
+https://r1.cloudskep.com/radio/diesi/icecast.audio
+#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-genre="Ειδήσεις" tvg-logo="hub://logsrad/alpharadiocy.webp",Alpha Radio Cyprus 101,4 (Λευκωσία)
+https://n01.radiojar.com/91zzzhrsf72vv
+#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-genre="Ξένη & Dance" tvg-logo="hub://logsrad/mixfmcyprus2.webp",MixFm 102,3 (Λευκωσία)
+https://live3.istoikona.net/proxy/dino1/stream
+#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-genre="Ελληνικά Επιτυχίες" tvg-logo="hub://logsrad/ant1radiocy.webp",Ant1 Radio 102,7 (Λευκωσία)
+https://r1.cloudskep.com/radio2/ant1fm/icecast.audio
+#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-genre="Αθλητικά" tvg-logo="hub://logsrad/supersport104.webp",SuperSport 104 (Λευκωσία)
+https://sportfm-cyprus.live24.gr/sportfm-cyprus
+#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-genre="Ελληνικά Επιτυχίες" tvg-logo="hub://logsrad/super.webp",Super FM 104,8 (Λευκωσία)
+https://live3.istoikona.net/proxy/superfm/stream
+#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-genre="Ελληνικά Επιτυχίες" tvg-logo="hub://logsrad/klikfmcy.webp",Klik FM 105,5 (Λευκωσία)
+https://eco.onestreaming.com/proxy/klikfmcy/stream
+#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-genre="Ελληνικά Επιτυχίες" tvg-logo="hub://logsrad/dromosfmcy.webp",Δρόμος 106,7 (Λευκωσία)
+https://dromoscyprus.live24.gr/dromoscyprus
+#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-genre="Ειδήσεις" tvg-logo="hub://logsrad/activecy23.webp",Active 107,4 (Λευκωσία)
+https://securestreams3.autopo.st:1417/active
+#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-genre="Ειδήσεις" tvg-logo="hub://logsrad/politistadio.webp",Πολίτης 107,6 (Λευκωσία)
+https://eco.onestreaming.com/proxy/politis/stream
 
 
-#EXTINF:-1 group-title="ΛΕΜΕΣΟΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΛΕΜΕΣΟΣ ====
-http://.....
 
-#EXTINF:-1 group-title="ΛΕΜΕΣΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/greekchoice.png" ,Greek Choice 91.4
+#EXTINF:-1 group-title="ΛΕΜΕΣΟΣ" tvg-logo="hub://logsrad/2757.webp" ,==== ΛΕΜΕΣΟΣ ΚΥΠΡΟΣ ====
 https://live3.istoikona.net/proxy/choice/stream
-#EXTINF:-1 group-title="ΛΕΜΕΣΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/coolradio916.jpg" ,Cool Radio 91.6
-http://eco.onestreaming.com:8169/;
-#EXTINF:-1 group-title="ΛΕΜΕΣΟΣ" tvg-logo="http://new.kanali7.com/wp-content/uploads/2016/03/kanali-7-logo-low-1.png" ,ΚΑΝΑΛΙ7 91.8
-http://live.kanali7.com:4012/;stream.nsv
-#EXTINF:-1 group-title="ΛΕΜΕΣΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/imlemesou.png" ,Ιερά Μητρόπολη Λεμεσού 94.5
-http://93.109.209.123:9080/stream.mp3
-#EXTINF:-1 group-title="ΛΕΜΕΣΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/capitalcy.png" ,ΚΑΠΙΤΑΛ 96.1
-https://live.webhosting4u.gr/capitalradiocy
-#EXTINF:-1 group-title="ΛΕΜΕΣΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/choiceradio.png" ,Choice 104.3
+#EXTINF:-1 group-title="ΛΕΜΕΣΟΣ" tvg-genre="Ξένη & Dance" tvg-logo="hub://logsrad/choicefm2026.webp",Choice 104,3 (Λεμεσός)
 https://live3.istoikona.net/proxy/choice/stream
-#EXTINF:-1 group-title="ΛΕΜΕΣΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/russianradio.jpg" ,Russian Radio 105.7
-https://stream.veblot.net/proxy/russianradio/stream/
-#EXTINF:-1 group-title="ΛΕΜΕΣΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/kanali6.png" ,ΚΑΝΑΛΙ 6 106.0
-http://eco.onestreaming.com:8802/kanali
+#EXTINF:-1 group-title="ΛΕΜΕΣΟΣ" tvg-genre="Εντεχνη & Ballads" tvg-logo="hub://logsrad/kanali6.webp",Κανάλι Εξι 106 (Λεμεσός)
+https://live3.istoikona.net/proxy/kanali6ice/kanali
+#EXTINF:-1 group-title="ΛΕΜΕΣΟΣ" tvg-genre="Ελληνικά Επιτυχίες" tvg-logo="hub://logsrad/greekchoice.webp",Greek Choice 91,4 (Λεμεσός)
+https://live3.istoikona.net/proxy/choice/stream
+#EXTINF:-1 group-title="ΛΕΜΕΣΟΣ" tvg-genre="Ξένη & Dance" tvg-logo="hub://logsrad/coolradio916.webp",Cool Radio 91,6 (Λεμεσός)
+https://eco.onestreaming.com/proxy/cooleradio/stream
+#EXTINF:-1 group-title="ΛΕΜΕΣΟΣ" tvg-genre="" tvg-logo="hub://logsrad/cutradiocy.webp",Cut Radio 95,2 (Λεμεσός)
+https://stream.radiojar.com/1myzry1mbbuvv
+#EXTINF:-1 group-title="ΛΕΜΕΣΟΣ" tvg-genre="" tvg-logo="hub://logsrad/rockfmcy.webp",Rock fm 89,2 (Λεμεσός)
+https://live3.istoikona.net/proxy/rockfm/stream
+#EXTINF:-1 group-title="ΛΕΜΕΣΟΣ" tvg-genre="Ξένη & Dance" tvg-logo="hub://logsrad/russianradio.webp",Russian Radio 105,7 (Λεμεσός)
+https://live.vblcast.com/proxy/russianradio/stream
+#EXTINF:-1 group-title="ΛΕΜΕΣΟΣ" tvg-genre="Θρησκευτικά" tvg-logo="hub://logsrad/imlemesou.webp",Ραδιόφωνο Ιεράς Μητροπόλεως Λεμεσού 94.5 94,5 (Λεμεσός)
+https://free.rcast.net/69963/
 
+#EXTINF:-1 group-title="ΠΑΦΟΣ" tvg-logo="hub://logsrad/2757.webp" ,==== ΠΑΦΟΣ ΚΥΠΡΟΣ ====
+http://23.29.119.99:8157/stream
+#EXTINF:-1 group-title="ΠΑΦΟΣ" tvg-genre="Ροκ" tvg-logo="hub://logsrad/rockfmcy.webp",Rock FM 98,5 (Πάφος)
+https://live3.istoikona.net/proxy/rockfm/stream
+#EXTINF:-1 group-title="ΠΑΦΟΣ" tvg-genre="Ειδήσεις" tvg-logo="hub://logsrad/pafosfm.webp",Πάφος Ράδιο 93,7 (Πάφος)
+https://stream.radiojar.com/qyhsg46zcccwv
 
-
-
-#EXTINF:-1 group-title="ΛΑΡΝΑΚΑ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΛΑΡΝΑΚΑ ====
-http://.....
-
-#EXTINF:-1 group-title="ΛΑΡΝΑΚΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/lrgcyprus.png" ,LGR Cyprus 93.0
+#EXTINF:-1 group-title="ΛΑΡΝΑΚΑ" tvg-logo="hub://logsrad/2757.webp" ,==== ΛΑΡΝΑΚΑ ΚΥΠΡΟΣ ====
+https://live3.istoikona.net/proxy/ola97/stream
+#EXTINF:-1 group-title="ΛΑΡΝΑΚΑ" tvg-genre="Ειδήσεις" tvg-logo="hub://logsrad/lrgcyprus.webp",LGR Cyprus (Λάρνακα)
 https://live3.istoikona.net/proxy/lgr93/stream
-#EXTINF:-1 group-title="ΛΑΡΝΑΚΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/ola97.jpg" ,ΟΛΑ 97.0
-http://eco.onestreaming.com:8164/stream
+#EXTINF:-1 group-title="ΛΑΡΝΑΚΑ" tvg-genre="Ελληνικά Επιτυχίες" tvg-logo="hub://logsrad/ola97.webp",OlA 97 (Λάρνακα)
+https://live3.istoikona.net/proxy/ola97/stream
+#EXTINF:-1 group-title="ΛΑΡΝΑΚΑ" tvg-genre="Ελληνικά Λαϊκά" tvg-logo="hub://logsrad/star937.webp",Star FM 93,7 (Λάρνακα)
+https://live3.istoikona.net/proxy/starfmcy/stream
 
-
-#EXTINF:-1 group-title="ΠΑΦΟΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΠΑΦΟΣ ====
-http://.....
-
-#EXTINF:-1 group-title="ΠΑΦΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/pafosfm.png" ,ΚΥΠΡΟΣ Fm 93.7
-http://live.iteam4media.com:1818/;
-#EXTINF:-1 group-title="ΠΑΦΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/rockfmcy.png" ,Rock FM 98.5
-http://eco.onestreaming.com:8278/;
-
-
-
-#EXTINF:-1 group-title="ΑΜΜΟΧΩΣΤΟΣ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΑΜΜΟΧΩΣΤΟΣ ====
-http://.....
-#EXTINF:-1 group-title="ΑΜΜΟΧΩΣΤΟΣ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/politiafamagusta.png" ,Πολιτία FM 106.7
-http://108.178.13.122:8157/stream
-
+#EXTINF:-1 group-title="ΑΜΜΟΧΩΣΤΟΣ" tvg-logo="hub://logsrad/2757.webp" ,==== ΑΜΜΟΧΩΣΤΟΣ ΚΥΠΡΟΣ ====
+http://23.29.119.99:8157/stream
+#EXTINF:-1 group-title="ΑΜΜΟΧΩΣΤΟΣ" tvg-genre="Ελληνικά Επιτυχίες" tvg-logo="hub://logsrad/politiafamagusta.webp",Politia FM 106,7 (Famagusta)
+https://radio.shoutcheap.com/proxy/skyriaco/stream
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΔΙΑΔΙΚΤΥΑΚΑ ====
 http://.....
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/ccncyprus.png" ,Cyprus Chinese Radio
+#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-genre="Ελληνικά Επιτυχίες" tvg-logo="hub://logsrad/mixgreek.webp",Mix Greek (Λευκωσία)
+https://eco.onestreaming.com/proxy/mixfmgreek/stream
+#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-genre="Ξένη & Dance" tvg-logo="hub://logsrad/guabaRadio.webp",Guaba Beach Bar Radio (Λευκωσία)
+https://live3.istoikona.net/proxy/guaba/stream
+#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-genre="Ξένη & Dance" tvg-logo="hub://logsrad/ojoradio.webp",OJO Radio (Λευκωσία)
+https://live3.istoikona.net/proxy/ojo/stream
+#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-genre="Ξένη & Dance" tvg-logo="hub://logsrad/habitsradio.webp",Habits Radio (Λευκωσία)
+https://live.vblcast.com/proxy/habitsradio/stream
+#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-genre="Ξένη & Dance" tvg-logo="hub://logsrad/lstnradio.webp",LSTN radio (Λευκωσία)
+https://stream.radiojar.com/9wedvt0c1quvv
+#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-genre="Ροκ" tvg-logo="hub://logsrad/moondogs.webp",Moondog's Radio (Λευκωσία)
+https://n09.radiojar.com/gz6uqvnzanuvv
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logsrad/ccncyprus.webp" ,Cyprus Chinese Radio
 http://eco.onestreaming.com:8820/stream
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/noisecy.png" ,Noise Radio
-http://198.178.121.76:8359/stream
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/ojoradio.png" ,OJO Radio
-http://eco.onestreaming.com:8642/;
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/mixgreek.png" ,Mix Greek
-http://eco.onestreaming.com:8644/;
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/radiocherry.png" ,Radio Cherry
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logsrad/radiocherry.webp" ,Radio Cherry
 http://eco.onestreaming.com:8101/;
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/easycyprus.png" ,Easy Radio
-http://eco.onestreaming.com:8472/;
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/guabaRadio.png" ,Guaba Beach Bar Radio
-http://eco.onestreaming.com:8830/stream
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://cdn.e-radio.gr/logos/cy/big/kanali6laiko.png" ,Kanali6 Laiko
-https://eco.onestreaming.com:8856/stream
