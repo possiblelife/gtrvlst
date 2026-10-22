@@ -97,17 +97,17 @@ https://radio.shoutcheap.com/proxy/skyriaco/stream
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΔΙΑΔΙΚΤΥΑΚΑ ====
 http://.....
-#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-genre="Ελληνικά Επιτυχίες" tvg-logo="hub://logsrad/mixgreek.webp",Mix Greek (Λευκωσία)
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-genre="Ελληνικά Επιτυχίες" tvg-logo="hub://logsrad/mixgreek.webp",Mix Greek (Λευκωσία)
 https://eco.onestreaming.com/proxy/mixfmgreek/stream
-#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-genre="Ξένη & Dance" tvg-logo="hub://logsrad/guabaRadio.webp",Guaba Beach Bar Radio (Λευκωσία)
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-genre="Ξένη & Dance" tvg-logo="hub://logsrad/guabaRadio.webp",Guaba Beach Bar Radio (Λευκωσία)
 https://live3.istoikona.net/proxy/guaba/stream
-#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-genre="Ξένη & Dance" tvg-logo="hub://logsrad/ojoradio.webp",OJO Radio (Λευκωσία)
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-genre="Ξένη & Dance" tvg-logo="hub://logsrad/ojoradio.webp",OJO Radio (Λευκωσία)
 https://live3.istoikona.net/proxy/ojo/stream
-#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-genre="Ξένη & Dance" tvg-logo="hub://logsrad/habitsradio.webp",Habits Radio (Λευκωσία)
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-genre="Ξένη & Dance" tvg-logo="hub://logsrad/habitsradio.webp",Habits Radio (Λευκωσία)
 https://live.vblcast.com/proxy/habitsradio/stream
-#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-genre="Ξένη & Dance" tvg-logo="hub://logsrad/lstnradio.webp",LSTN radio (Λευκωσία)
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-genre="Ξένη & Dance" tvg-logo="hub://logsrad/lstnradio.webp",LSTN radio (Λευκωσία)
 https://stream.radiojar.com/9wedvt0c1quvv
-#EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-genre="Ροκ" tvg-logo="hub://logsrad/moondogs.webp",Moondog's Radio (Λευκωσία)
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-genre="Ροκ" tvg-logo="hub://logsrad/moondogs.webp",Moondog's Radio (Λευκωσία)
 https://n09.radiojar.com/gz6uqvnzanuvv
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="hub://logsrad/ccncyprus.webp" ,Cyprus Chinese Radio
 http://eco.onestreaming.com:8820/stream
