@@ -400,7 +400,8 @@ SERIES$$hub://gvrod/skai/sires_arxio/Το.μεζεδοπωλείο.(2013-2014)
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logs/skai.webp" ,ΟΛΕΣ ΟΙ  ΕΚΠΟΜΠΕΣ
 https://www.skai.gr/tv/shows/psuchagogia|webvod zoom=100 scroll=0,0
 
-
+#EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/skai/dragongen.webp" ,Dragons’ Den (2026-2027)
+SERIES$$hub://gvrod/skai/ekpompes/dragons-den.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/skai/kithen_lab.webp"  ,Kitchen Lab (2026-2027)
 SERIES$$hub://gvrod/skai/ekpompes/kitchen-lab-2.txt
 #EXTINF:-1 group-title="SKAI ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logseries/skai/voice.webp"  ,The voice of Greece (2026)
