@@ -854,3 +854,7 @@ https://www.megatv.com/gtvshows/2537128/19-10-2026/|webfulldig
 https://www.megatv.com/gtvshows/2538022/20-10-2026/|webfulldig
 #EXTINF:-1 group-title="Season 5",21/10/2026
 https://www.megatv.com/gtvshows/2539081/21-10-2026/|webfulldig
+#EXTINF:-1 group-title="Season 5",22/10/2026
+https://www.megatv.com/gtvshows/2540371/22-10-2026/|webfulldig
+#EXTINF:-1 group-title="Season 5",23/10/2026
+https://www.megatv.com/gtvshows/2541448/23-10-2026/|webfulldig

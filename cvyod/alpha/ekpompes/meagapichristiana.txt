@@ -126,3 +126,13 @@ https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/19102
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/201026|webvidfulldig
 #EXTINF:-1 group-title="2026-2027",Ειρήνη Κωνσταντίνου
 https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/eirini-konstantinoy|webvidfulldig
+#EXTINF:-1 group-title="2026-2027",21/10/26
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/211026|webvidfulldig
+#EXTINF:-1 group-title="2026-2027",ΤΑΛΙΑΤΕΛΕΣ ΜΕ ΣΟΛΟΜΟ
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/taliateles-me-solomo|webvidfulldig
+#EXTINF:-1 group-title="2026-2027",22/10/26
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/221026|webvidfulldig
+#EXTINF:-1 group-title="2026-2027",Χαμπής Δαμιανού
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/hampis-damianoy|webvidfulldig
+#EXTINF:-1 group-title="2026-2027",ΣΟΚΟΛΑΤΕΝΙΑ ΜΟΥΣ
+https://www.alphacyprus.com.cy/shows/entertainment/meagapichristiana/webtv/sokolatenia-moys|webvidfulldig
