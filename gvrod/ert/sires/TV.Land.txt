@@ -6,3 +6,7 @@ https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS048825-tvland-ep0
 https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS048826-tvland-ep03/PS048826-tvland-ep03/index.m3u8
 #EXTINF:-1 group-title="Season 1",Ε4 ‧ Δεν Ήταν Πολύ Ευγενικό εκ Μέρους σου
 https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS048827-tvland-ep04/PS048827-tvland-ep04/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε5 ‧ Πίσω απ' την Κουρτίνα
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS048828-tvland-ep05/PS048828-tvland-ep05/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε6 ‧ Συν-τονισμένες Eνέργειες
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS048829-tvland-ep06/PS048829-tvland-ep06/index.m3u8
