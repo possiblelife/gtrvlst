@@ -26,3 +26,7 @@ https://www.megatv.com/tvshows/2525074/epeisodio-12-115/|webfulldig
 https://www.megatv.com/tvshows/2533654/epeisodio-13-115/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 14
 https://www.megatv.com/tvshows/2533660/epeisodio-14-110/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 15
+https://www.megatv.com/tvshows/2541754/epeisodio-15-107/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 16
+https://www.megatv.com/tvshows/2541757/epeisodio-16-107/|webfulldig

@@ -3002,3 +3002,5 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=226587&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=226595&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 8",23/10/2026 ΑΙΧΜΕΣ
 https://www.omegatv.com.cy/cgibin/hweb?-A=226605&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 8",26/10/2026 ΑΙΧΜΕΣ
+https://www.omegatv.com.cy/cgibin/hweb?-A=226620&-V=vod|webfulldig
