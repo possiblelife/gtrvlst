@@ -147,13 +147,13 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=126870&-V=vod|webfulldig||||https://ww
 #EXTINF:-1 group-title="Όλα τα επεισόδια",074
 https://www.omegatv.com.cy/cgibin/hweb?-A=126882&-V=vod|webfulldig||||https://www.youtube.com/watch?v=J-NC8V3KgQg||||https://www.youtube.com/watch?v=DMIDHnzR7-w||||https://voe.sx/lzw7478w237l|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",075
-https://www.omegatv.com.cy/cgibin/hweb?-A=127039&-V=vod|webfulldig||||https://www.youtube.com/watch?v=oc9jgBGd1v4||||https://www.dailymotion.com/video/x57s9zb|webdelayfulldig$$delay=4
+https://www.omegatv.com.cy/cgibin/hweb?-A=127039&-V=vod|webfulldig||||https://www.youtube.com/watch?v=oc9jgBGd1v4||||https://www.dailymotion.com/video/x57s9zb?/embed/video/|webdelaydig$$delay=2
 #EXTINF:-1 group-title="Όλα τα επεισόδια",076
 https://www.omegatv.com.cy/cgibin/hweb?-A=127046&-V=vod|webfulldig||||https://www.youtube.com/watch?v=EQwC8neMNLg||||https://voe.sx/lpgznig2j3ix|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",077
 https://www.omegatv.com.cy/cgibin/hweb?-A=127052&-V=vod|webfulldig||||https://www.youtube.com/watch?v=RiuD_HNpHTM
 #EXTINF:-1 group-title="Όλα τα επεισόδια",078
-https://www.omegatv.com.cy/cgibin/hweb?-A=127087&-V=vod|webfulldig||||https://www.youtube.com/watch?v=dOLZtukRfLE||||https://www.dailymotion.com/video/x58o5zf|webdelayfulldig$$delay=4
+https://www.omegatv.com.cy/cgibin/hweb?-A=127087&-V=vod|webfulldig||||https://www.youtube.com/watch?v=dOLZtukRfLE||||https://www.dailymotion.com/video/x58o5zf?/embed/video/|webdelaydig$$delay=2
 #EXTINF:-1 group-title="Όλα τα επεισόδια",079
 https://www.omegatv.com.cy/cgibin/hweb?-A=127102&-V=vod|webfulldig||||https://www.youtube.com/watch?v=TdwgZ7jbE20||||https://voe.sx/etkderbyiomv|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",080
