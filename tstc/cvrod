@@ -50,10 +50,6 @@ SERIES$$hub://cvyod/ant1/sires_arxio/frento-kapoytsino.txt
 SERIES$$hub://cvyod/ant1/sires_arxio/horis-esena.txt
 #EXTINF:-1 group-title="ANT1 ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Ant1CY/Γραφείο.ταξί.(2000-2001)" tvg-logo="hub://logseries/ant1cy/γραφείοταξί.webp" ,Γραφείο ταξί (2000-2001)
 SERIES$$hub://cvyod/ant1/sires_arxio/Γραφείο.ταξί.(2000-2001)
-#EXTINF:-1 group-title="ANT1 ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Ant1CY/Δεν.σε.συγχωρώ.(2016)" tvg-logo="hub://logseries/ant1cy/Δενσεσυγχωρώ2016.webp" ,Δεν σε συγχωρώ (2016)
-SERIES$$hub://cvyod/ant1/sires_arxio/Δεν.σε.συγχωρώ.(2016)
-#EXTINF:-1 group-title="ANT1 ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Ant1CY/Κλεμμένη.ζωή.(2015)" tvg-logo="hub://logseries/ant1cy/Κλεμμένηζωή2015.webp" ,Κλεμμένη ζωή (2015)
-SERIES$$hub://cvyod/ant1/sires_arxio/Κλεμμένη.ζωή.(2015)
 #EXTINF:-1 group-title="ANT1 ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Ant1CY/Λύκε.λύκε.είσαι.εδώ;.(2011-2012)" tvg-logo="hub://logseries/ant1cy/Λύκελύκεείσαιεδώ.webp" ,Λύκε λύκε είσαι εδώ; (2011-2012)
 SERIES$$hub://cvyod/ant1/sires_arxio/Λύκε.λύκε.είσαι.εδώ;.(2011-2012)
 #EXTINF:-1 group-title="ANT1 ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Ant1CY/Μαρίνα.(2014)" tvg-logo="hub://logseries/ant1cy/Marina-Latembestad2014.webp" ,Μαρίνα (2014)
@@ -76,8 +72,6 @@ SERIES$$hub://cvyod/ant1/sires_arxio/Ρουά.ματ.(2014-2015)
 SERIES$$hub://cvyod/ant1/sires_arxio/Τα.μαύρα.μάθκια.(2016-2017)
 #EXTINF:-1 group-title="ANT1 ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική, θρίλερ" tvg-description="hub://desc/Ant1CY/Τα.πέντε.κλειδιά.(2016-2017)" tvg-logo="hub://logseries/ant1cy/Ταπέντεκλειδιά2016.webp" ,Τα πέντε κλειδιά (2016-2017)
 SERIES$$hub://cvyod/ant1/sires_arxio/Τα.πέντε.κλειδιά.(2016-2017)
-#EXTINF:-1 group-title="ANT1 ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Ant1CY/Τα.τρία.πρόσωπα.της.Άννας.(2017)" tvg-logo="hub://logseries/ant1cy/ΤατρίαπρόσωπατηςΆννας2017.webp" ,Τα τρία πρόσωπα της Άννας (2017)
-SERIES$$hub://cvyod/ant1/sires_arxio/Τα.τρία.πρόσωπα.της.Άννας.(2017)
 #EXTINF:-1 group-title="ANT1 ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Ant1CY/Το.αλλαντοπωλείο.Γρηγορίου.(2013)" tvg-logo="hub://logseries/ant1cy/ΤοαλλαντοπωλείοΓρηγορίου2013.webp" ,Το αλλαντοπωλείο Γρηγορίου (2013)
 SERIES$$hub://cvyod/ant1/sires_arxio/Το.αλλαντοπωλείο.Γρηγορίου.(2013)
 #EXTINF:-1 group-title="ANT1 ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Ant1CY/Το.καφενείο.(1999)" tvg-logo="hub://logseries/ant1cy/τοκαφενείο.webp" ,Το καφενείο (1999)
@@ -219,8 +213,7 @@ SERIES$$hub://cvyod/alpha/sires_arxio/asemasremama.txt
 SERIES$$hub://cvyod/alpha/sires_arxio/sanoikogeneia.txt
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="δράμα, κοινωνική" tvg-description="hub://desc/Ant1CY/Τα.μαύρα.μάθκια.(2016-2017)" tvg-logo="hub://logseries/alphacy/mavra_mathkia.webp" tvg-website="https://www.alphacyprus.com.cy/shows/ellinikes-seires/tamavramathkia/webtv" ,ΤΑ ΜΑΥΡΑ ΜΑΘΚΙΑ (2016-2017)
 SERIES$$hub://cvyod/alpha/sires_arxio/tamavramathkia.txt
-#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Alphacy/Σμύρνη.μου.αγαπημένη.(2022)" tvg-logo="hub://logseries/alphacy/Σμύρνημουαγαπημένη2022.webp" ,Σμύρνη μου αγαπημένη (2022)
-SERIES$$hub://cvyod/alpha/sires_arxio/Σμύρνη.μου.αγαπημένη.(2022)
+
 
 
 #EXTINF:-1 group-title="ALPHA ΕΚΠΟΜΠΕΣ" tvg-logo="hub://logs/red.webp" ,==== ALPHA ΚΥΠΡΟΥ ====
@@ -445,9 +438,6 @@ SERIES$$hub://cvyod/sigma/sires_arxio/Προδοσίες.(2016-2017)
 SERIES$$hub://cvyod/sigma/sires_arxio/Σ'.αγαπώ.(2003-2004)
 #EXTINF:-1 group-title="SIGMA ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Sigma/Τα.κοπέλια.(2001-2003)" tvg-logo="hub://logseries/sigma/Τακοπέλια2001.webp" ,Τα κοπέλια (2001-2003)
 SERIES$$hub://cvyod/sigma/sires_arxio/Τα.κοπέλια.(2001-2003)
-#EXTINF:-1 group-title="SIGMA ΣΕΙΡΕΣ" tvg-genre="δράμα, ρομαντική" tvg-description="hub://desc/Sigma/Τερέζα.(2016)" tvg-logo="hub://logseries/sigma/Τερέζα2016.webp" ,Τερέζα (2016)
-SERIES$$hub://cvyod/sigma/sires_arxio/Τερέζα.(2016)
-
 
 
 
@@ -640,10 +630,6 @@ SERIES$$hub://cvyod/omega/sires_arxio/20181108_gata.txt
 SERIES$$hub://cvyod/omega/sires_arxio/20180202_perasmenes_mou_agapes.txt
 #EXTINF:-1 group-title="OMEGA ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Omega/9.μήνες.(2015-2017)" tvg-logo="hub://logseries/omega/9μήνες2015.webp" ,9 μήνες (2015-2017)
 SERIES$$hub://cvyod/omega/sires_arxio/9.μήνες.(2015-2017)
-#EXTINF:-1 group-title="OMEGA ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/Daddy.cool.(2012)" tvg-logo="hub://logseries/omega/Daddycool2012.webp" ,Daddy cool (2012)
-SERIES$$hub://cvyod/omega/sires_arxio/Daddy.cool.(2012)
-#EXTINF:-1 group-title="OMEGA ΣΕΙΡΕΣ" tvg-genre="κωμωδία" tvg-description="hub://desc/Omega/Dr_.Ιπποκράτης.(2015)" tvg-logo="hub://logseries/omega/DrΙπποκράτης2015.webp" ,Dr Ιπποκράτης (2015)
-SERIES$$hub://cvyod/omega/sires_arxio/Dr.Ιπποκράτης.(2015)
 #EXTINF:-1 group-title="OMEGA ΣΕΙΡΕΣ" tvg-genre="δράμα, ιστορική" tvg-description="hub://desc/Omega/Ανήσυχα.χρόνια.(1999-2000)" tvg-logo="hub://logseries/omega/Ανήσυχαχρόνια1999.webp" ,Ανήσυχα χρόνια (1999-2000)
 SERIES$$hub://cvyod/omega/sires_arxio/Ανήσυχα.χρόνια.(1999-2000)
 #EXTINF:-1 group-title="OMEGA ΣΕΙΡΕΣ" tvg-genre="δράμα" tvg-description="hub://desc/Omega/Ένοχα.μυστικά.(2012)" tvg-logo="hub://logseries/omega/Ένοχαμυστικά2012.webp" ,Ένοχα μυστικά (2012)

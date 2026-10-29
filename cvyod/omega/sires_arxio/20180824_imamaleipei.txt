@@ -17,15 +17,15 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=126168&-V=vod|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",09. Η θεία μου η χίπισσα (β)
 https://www.omegatv.com.cy/cgibin/hweb?-A=126316&-V=vod|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",10. Ο γάμος της καλύτερης μου φίλης
-https://www.omegatv.com.cy/cgibin/hweb?-A=126490&-V=vod|webfulldig||||https://www.dailymotion.com/video/x55sg09?/embed/video/|webdelaydig$$delay=2
+https://www.omegatv.com.cy/cgibin/hweb?-A=126490&-V=vod|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",11. Στου Αγίου Μάρκου
 https://www.omegatv.com.cy/cgibin/hweb?-A=126499&-V=vod|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",12. Του γιατρού
-https://www.omegatv.com.cy/cgibin/hweb?-A=126529&-V=vod|webfulldig||||https://www.dailymotion.com/video/x56rr6j?/embed/video/|webdelaydig$$delay=2
+https://www.omegatv.com.cy/cgibin/hweb?-A=126529&-V=vod|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",13
 https://www.omegatv.com.cy/cgibin/hweb?-A=126688&-V=vod|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",14. Δωρητής οργάνων
-https://www.omegatv.com.cy/cgibin/hweb?-A=126718&-V=vod|webfulldig||||https://www.dailymotion.com/video/x5789qs?/embed/video/|webdelaydig$$delay=2
+https://www.omegatv.com.cy/cgibin/hweb?-A=126718&-V=vod|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",15
 https://www.omegatv.com.cy/cgibin/hweb?-A=126783&-V=vod|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",16. Επιστροφή στη Φύση
@@ -57,4 +57,4 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=128085&-V=vod|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",29. Μαθήματα διαχείρισης θυμού
 https://www.omegatv.com.cy/cgibin/hweb?-A=128102&-V=vod|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",30. Θα πεις κι ένα τραγούδι
-https://www.omegatv.com.cy/cgibin/hweb?-A=128103&-V=vod|webfulldig||||https://www.dailymotion.com/video/x5ljcdm?/embed/video/|webdelaydig$$delay=2
+https://www.omegatv.com.cy/cgibin/hweb?-A=128103&-V=vod|webfulldig

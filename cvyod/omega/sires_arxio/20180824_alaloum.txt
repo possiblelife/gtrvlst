@@ -17,19 +17,19 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=140918&-V=vod|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",09
 https://www.omegatv.com.cy/cgibin/hweb?-A=140942&-V=vod|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",10
-https://www.omegatv.com.cy/cgibin/hweb?-A=141131&-V=vod|webfulldig||||https://www.dailymotion.com/video/x6l8d0d?/embed/video/|webdelaydig$$delay=2
+https://www.omegatv.com.cy/cgibin/hweb?-A=141131&-V=vod|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",11
-https://www.omegatv.com.cy/cgibin/hweb?-A=141132&-V=vod|webfulldig||||https://www.dailymotion.com/video/x6l8d0x?/embed/video/|webdelaydig$$delay=2
+https://www.omegatv.com.cy/cgibin/hweb?-A=141132&-V=vod|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",12
-https://www.omegatv.com.cy/cgibin/hweb?-A=141133&-V=vod|webfulldig||||https://www.dailymotion.com/video/x6llxcw?/embed/video/|webdelaydig$$delay=2
+https://www.omegatv.com.cy/cgibin/hweb?-A=141133&-V=vod|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",13
-https://www.omegatv.com.cy/cgibin/hweb?-A=141556&-V=vod|webfulldig||||https://www.dailymotion.com/video/x6mcyxo?/embed/video/|webdelaydig$$delay=2
+https://www.omegatv.com.cy/cgibin/hweb?-A=141556&-V=vod|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",14
-https://www.omegatv.com.cy/cgibin/hweb?-A=141567&-V=vod|webfulldig||||https://www.dailymotion.com/video/x6mcz4d?/embed/video/|webdelaydig$$delay=2
+https://www.omegatv.com.cy/cgibin/hweb?-A=141567&-V=vod|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",15
-https://www.omegatv.com.cy/cgibin/hweb?-A=141571&-V=vod|webfulldig||||https://www.dailymotion.com/video/x6mcz6m?/embed/video/|webdelaydig$$delay=2
+https://www.omegatv.com.cy/cgibin/hweb?-A=141571&-V=vod|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",16
-https://www.omegatv.com.cy/cgibin/hweb?-A=141572&-V=vod|webfulldig||||https://www.dailymotion.com/video/x6mczr3?/embed/video/|webdelaydig$$delay=2
+https://www.omegatv.com.cy/cgibin/hweb?-A=141572&-V=vod|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",17
 https://www.omegatv.com.cy/cgibin/hweb?-A=142204&-V=vod|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",18
