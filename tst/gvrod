@@ -444,6 +444,8 @@ https://www.skai.gr/tv/episode/psuchagogia/souleimark-o-megaloprepis/2023-12-22-
 https://www.megatv.com/shows|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ (MEGA TV ΜΟΝΟ)" tvg-logo="hub://logs/hbb.webp" ,Hybrid TV (TV Μόνο)
 http://mega.smart-tv-data.com/|webvod zoom=150 scroll=0,0
+#EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ (MEGA TV ΜΟΝΟ)" tvg-genre="κωμωδία, οικογενειακή" tvg-description="hub://desc/Mega/ntanta-tis-geitonias" tvg-logo="hub://logseries/mega/Ntanta_ths_geitonias.webp" ,Νταντα της Γειτονιας (2026) (Megatv μόνο)
+SERIES$$hub://gvrod/mega/sires/ntanta-tis-geitonias-erxetai.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ (MEGA TV ΜΟΝΟ)" tvg-genre="δράμα" tvg-description="hub://desc/Mega/dyo-mayra-poukamisa" tvg-logo="hub://logseries/mega/2mavrapoukamisa.webp" ,Δυο Μαύρα Πουκάμισα (2026) (Megatv μόνο)
 SERIES$$hub://gvrod/mega/sires/dyo-mayra-poukamisa.txt
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ (MEGA TV ΜΟΝΟ)" tvg-genre="κωμωδία" tvg-description="hub://desc/Mega/kampingk" tvg-logo="hub://logseries/mega/Camping.webp" ,Κάμπινγκ (2026) (Megatv μόνο)
@@ -666,6 +668,8 @@ SERIES$$hub://gvrod/mega/sires_mega/xara-agnoeitai-2.txt
 SERIES$$hub://gvrod/mega/sires_mega/ithuroi-kardias-kokkino-san-ti-fti.txt
 
 
+#EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="κωμωδία, οικογενειακή" tvg-description="hub://desc/Mega/ntanta-tis-geitonias" tvg-logo="hub://logseries/mega/Ntanta_ths_geitonias.webp" ,Νταντα της Γειτονιας (2026)
+SERIES$$hub://gvrod/mega/sires/ntanta-tis-geitonias.2026
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="δράμα" tvg-description="hub://desc/Mega/dyo-mayra-poukamisa" tvg-logo="hub://logseries/mega/2mavrapoukamisa.webp" ,Δυο Μαυρα Πουκαμισα (2026)
 SERIES$$hub://gvrod/mega/sires/dyo-mayra-poukamisa.2026
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="κωμωδία" tvg-description="hub://desc/Mega/kampingk" tvg-logo="hub://logseries/mega/Camping.webp" ,Κάμπινγκ (2026)
