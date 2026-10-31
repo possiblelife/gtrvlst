@@ -1,7 +1,3 @@
-#EXTINF:-1 group-title="Σεζόν 10",Σ9 - ΕΠΕΙΣΟΔΙΟ 175
-https://www.alphatv.gr/show/deal/show-episode/755676-s9-epeisodio-175/|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 10",Σ9 - ΕΠΕΙΣΟΔΙΟ 176
-https://www.alphatv.gr/show/deal/show-episode/759903-s9-epeisodio-176/|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 10",Σ9 - ΕΠΕΙΣΟΔΙΟ 177
 https://www.alphatv.gr/show/deal/show-episode/759907-s9-epeisodio-177/|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 10",Σ9 - ΕΠΕΙΣΟΔΙΟ 178
@@ -34,3 +30,7 @@ https://www.alphatv.gr/show/deal/show-episode/768102-s9-epeisodio-190/|webvidful
 https://www.alphatv.gr/show/deal/show-episode/772264-s10-epeisodio-1/|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 10",Σ10 - ΕΠΕΙΣΟΔΙΟ 2
 https://www.alphatv.gr/show/deal/show-episode/772267-s10-epeisodio-2/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 10",Σ10 - ΕΠΕΙΣΟΔΙΟ 3
+https://www.alphatv.gr/show/deal/show-episode/772270-s10-epeisodio-3/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 10",Σ10 - ΕΠΕΙΣΟΔΙΟ 4
+https://www.alphatv.gr/show/deal/show-episode/772273-s10-epeisodio-4/|webvidfulldig
