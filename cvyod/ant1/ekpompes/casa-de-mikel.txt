@@ -560,3 +560,7 @@ https://www.ant1live.com/webtv/podcasts/psyhagogia/casa-de-mikel/epeisodio-03/10
 https://www.ant1live.com/webtv/podcasts/psyhagogia/casa-de-mikel/epeisodio-10/10/2026|webfulldig
 #EXTINF:-1 group-title="Season8",ΕΠΕΙΣΟΔΙΟ 05 (17/10/2026)
 https://www.ant1live.com/webtv/podcasts/psyhagogia/casa-de-mikel/epeisodio-17/10/2026|webfulldig
+#EXTINF:-1 group-title="Season8",ΕΠΕΙΣΟΔΙΟ 06 (24/10/2026)
+https://www.ant1live.com/webtv/podcasts/psyhagogia/casa-de-mikel/epeisodio-24/10/2026|webfulldig
+#EXTINF:-1 group-title="Season8",ΕΠΕΙΣΟΔΙΟ 07 (31/10/2026)
+https://www.ant1live.com/webtv/podcasts/psyhagogia/casa-de-mikel/epeisodio-31/10/2026|webfulldig

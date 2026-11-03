@@ -536,3 +536,5 @@ https://www.omegatv.com.cy/cgibin/hweb?-A=225679&-V=vod|webfulldig
 https://www.omegatv.com.cy/cgibin/hweb?-A=225907&-V=vod|webfulldig
 #EXTINF:-1 group-title="Season 7",Σεζόν 07 Επεισόδιο 003 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - ΓΑΡΙΔΕΣ ΜΕ ΣΚΟΡΔΟ ΚΑΙ ΒΟΥΤΥΡΟ, CHEESECAKE ΛΕΜΟΝΙ
 https://www.omegatv.com.cy/cgibin/hweb?-A=226597&-V=vod|webfulldig
+#EXTINF:-1 group-title="Season 7",Σεζόν 07 Επεισόδιο 004 ΕΠΙΠΛΟΓΚΟΥΡΜΕΔΙΕΣ - ΓΙΟΥΒΕΤΣΙ ΜΕ ΜΟΣΧΑΡΙ, LINGUINE CARBONARA, ΒΑΣΚΙΚΟ CHEESECAKE
+https://www.omegatv.com.cy/cgibin/hweb?-A=226952&-V=vod|webfulldig
