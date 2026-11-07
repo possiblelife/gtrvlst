@@ -671,6 +671,8 @@ SERIES$$hub://gvrod/mega/sires_mega/xara-agnoeitai-2.txt
 SERIES$$hub://gvrod/mega/sires_mega/ithuroi-kardias-kokkino-san-ti-fti.txt
 
 
+#EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ (MEGA TV ΜΟΝΟ)" tvg-genre="θρίλερ" tvg-description="hub://desc/Mega/sygkrousi" tvg-logo="hub://logseries/mega/sygkrousi.webp" ,Σύγκρουση (2026)
+SERIES$$hub://gvrod/mega/sires/sygkrousi.2026
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="κωμωδία, οικογενειακή" tvg-description="hub://desc/Mega/ntanta-tis-geitonias" tvg-logo="hub://logseries/mega/Ntanta_ths_geitonias.webp" ,Νταντα της Γειτονιας (2026)
 SERIES$$hub://gvrod/mega/sires/ntanta-tis-geitonias.2026
 #EXTINF:-1 group-title="MEGA ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="δράμα" tvg-description="hub://desc/Mega/dyo-mayra-poukamisa" tvg-logo="hub://logseries/mega/2mavrapoukamisa.webp" ,Δυο Μαυρα Πουκαμισα (2026)

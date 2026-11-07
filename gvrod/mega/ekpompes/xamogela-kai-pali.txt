@@ -830,6 +830,10 @@ https://www.megatv.com/gtvshows/2515723/01-10-2026/|webfulldig
 https://www.megatv.com/gtvshows/2517202/02-10-2026/|webfulldig
 #EXTINF:-1 group-title="Season 5",05/10/2026
 https://www.megatv.com/gtvshows/2520046/05-10-2026/|webfulldig
+#EXTINF:-1 group-title="Season 5",02/10/2026
+https://www.megatv.com/gtvshows/2517202/02-10-2026/|webfulldig
+#EXTINF:-1 group-title="Season 5",05/10/2026
+https://www.megatv.com/gtvshows/2520046/05-10-2026/|webfulldig
 #EXTINF:-1 group-title="Season 5",06/10/2026
 https://www.megatv.com/gtvshows/2521258/06-10-2026/|webfulldig
 #EXTINF:-1 group-title="Season 5",07/10/2026
@@ -870,3 +874,7 @@ https://www.megatv.com/gtvshows/2548129/29-10-2026/|webfulldig
 https://www.megatv.com/gtvshows/2548945/30-10-2026/|webfulldig
 #EXTINF:-1 group-title="Season 5",31/10/2026
 https://www.megatv.com/gtvshows/2552377/31-10-2026/|webfulldig
+#EXTINF:-1 group-title="Season 5",03/11/2026
+https://www.megatv.com/gtvshows/2553577/03-11-2026/|webfulldig
+#EXTINF:-1 group-title="Season 5",04/11/2026
+https://www.megatv.com/gtvshows/2554663/04-11-2026/|webfulldig
