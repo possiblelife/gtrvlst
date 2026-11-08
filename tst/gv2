@@ -409,6 +409,8 @@ https://mcdn.antennaplus.gr/live/media0/Drama/HLS/Drama.m3u8
 sec:ch24
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-id="classictv" tvg-logo="hub://logs/classic_tv.webp" ,Classic TV
 sec:ch23
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/Dipolo.webp" ,Dipolo TV HD 
+https://mcv3.streams.gr/stream/dipolotv/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/nettv_to.webp" ,NETV TORONTO
 https://eu1.streams.gr:8081/netvtoronto/index.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/sierra.webp" tvg-name="Sierra Channel" ,Sierra Channel
