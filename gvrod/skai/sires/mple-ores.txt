@@ -22,6 +22,8 @@ https://www.skai.gr/tv/episode/seires/mple-ores/2026-09-22-21|webvidfulldig
 https://www.skai.gr/tv/episode/seires/mple-ores/2026-09-22-22|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2026-2027",Μπλε Ώρες | Επεισόδιο 12 23/09/2026 
 https://www.skai.gr/tv/episode/seires/mple-ores/2026-09-23-21|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 2026-2027",Μπλε Ώρες | Επεισόδιο 12 23/09/2026 
+https://www.skai.gr/tv/episode/seires/mple-ores/2026-09-23-21|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2026-2027",Μπλε Ώρες | Επεισόδιο 13 23/09/2026 
 https://www.skai.gr/tv/episode/seires/mple-ores/2026-09-23-22|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2026-2027",Μπλε Ώρες | Επεισόδιο 14 24/09/2026 
@@ -44,8 +46,6 @@ https://www.skai.gr/tv/episode/seires/mple-ores/2026-10-02-21|webvidfulldig
 https://www.skai.gr/tv/episode/seires/mple-ores/2026-10-05-21|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2026-2027",Μπλε Ώρες | Επεισόδιο 23 06/10/2026 
 https://www.skai.gr/tv/episode/seires/mple-ores/2026-10-06-21|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2026-2027",Μπλε Ώρες | Επεισόδιο 24 07/10/2026 
-https://www.skai.gr/tv/episode/seires/mple-ores/2026-10-07-21|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2026-2027",Μπλε Ώρες | Επεισόδιο 25 08/10/2026 
 https://www.skai.gr/tv/episode/seires/mple-ores/2026-10-08-21|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2026-2027",Μπλε Ώρες | Επεισόδιο 26 09/10/2026 
@@ -90,3 +90,7 @@ https://www.skai.gr/tv/episode/seires/mple-ores/2026-11-05-21|webvidfulldig
 https://www.skai.gr/tv/episode/seires/mple-ores/2026-11-06-21|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2026-2027",Μπλε Ώρες | Επεισόδιο 46 09/11/2026 
 https://www.skai.gr/tv/episode/seires/mple-ores/2026-11-09-21|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 2026-2027",Μπλε Ώρες | Επεισόδιο 47 10/11/2026 
+https://www.skai.gr/tv/episode/seires/mple-ores/2026-11-10-21|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 2026-2027",Μπλε Ώρες | Επεισόδιο 48 11/11/2026 
+https://www.skai.gr/tv/episode/seires/mple-ores/2026-11-11-21|webvidfulldig

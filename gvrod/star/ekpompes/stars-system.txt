@@ -250,3 +250,7 @@ https://www.star.gr/tv/psychagogia/stars-system/6112026-stars-system|webfulldig
 https://www.star.gr/tv/psychagogia/stars-system/9112026-stars-system|webfulldig
 #EXTINF:-1 group-title="2026-2027",10.11.2026 - Stars System
 https://www.star.gr/tv/psychagogia/stars-system/10112026-stars-system|webfulldig
+#EXTINF:-1 group-title="2026-2027",11.11.2026 - Stars System
+https://www.star.gr/tv/psychagogia/stars-system/11112026-stars-system|webfulldig
+#EXTINF:-1 group-title="2026-2027",12.11.2026 - Stars System
+https://www.star.gr/tv/psychagogia/stars-system/12112026-stars-system|webfulldig
