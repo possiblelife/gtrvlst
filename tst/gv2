@@ -421,6 +421,8 @@ https://sierrachannel.com/live-stream/|weballdig
 https://183.giatvcdn.com/ssh101/ssh101/diavatatvweb/chunks.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/DIAVATA.webp" tvg-name="DiavataTV",DiavataTV - Εναλλακτικό
 https://ssh101.com/live/diavatatvweb|weballdig
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/freeangel.webp" ,Free Angels
+https://kali.vdopanel.com:3722/live/freeangeltvlive.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/Groovy.webp" ,Groovy
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ"  tvg-logo="hub://logs/netmax.webp" ,Netmax TV
