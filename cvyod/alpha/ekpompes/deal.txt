@@ -3412,3 +3412,7 @@ https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv/91126|webvidfulldi
 https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv/101126|webvidfulldig
 #EXTINF:-1 group-title="Season 9",11/11/26
 https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv/111126|webvidfulldig
+#EXTINF:-1 group-title="Season 9",12/11/26
+https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv/121126|webvidfulldig
+#EXTINF:-1 group-title="Season 9",13/11/26
+https://www.alphacyprus.com.cy/shows/entertainment/deal/webtv/131126|webvidfulldig

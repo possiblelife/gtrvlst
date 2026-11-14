@@ -12,8 +12,6 @@ https://www.megatv.com/tvshows/2504905/epeisodio-5-119/|webfulldig
 https://www.megatv.com/tvshows/2509477/epeisodio-6-122/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 7
 https://www.megatv.com/tvshows/2509498/epeisodio-7-120/|webfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 8
-https://www.megatv.com/tvshows/2509510/epeisodio-8-119/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 9
 https://www.megatv.com/tvshows/2517235/epeisodio-9-119/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 10
@@ -58,3 +56,7 @@ https://www.megatv.com/tvshows/2549569/epeisodio-28-72/|webfulldig
 https://www.megatv.com/tvshows/2556484/epeisodio-29-69/|webfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 30
 https://www.megatv.com/tvshows/2556487/epeisodio-30-67/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 31
+https://www.megatv.com/tvshows/2556562/epeisodio-31-59/|webfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Επεισόδιο 32
+https://www.megatv.com/tvshows/2556565/epeisodio-32-57/|webfulldig
