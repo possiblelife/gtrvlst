@@ -2,8 +2,6 @@
 https://www.skai.gr/tv/episode/seires/mple-ores/2026-09-14-21|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2026-2027",Μπλε Ώρες | Επεισόδιο 2 14/09/2026 
 https://www.skai.gr/tv/episode/seires/mple-ores/2026-09-14-22|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2026-2027",Μπλε Ώρες | Επεισόδιο 3 15/09/2026 
-https://www.skai.gr/tv/episode/seires/mple-ores/2026-09-15-21|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2026-2027",Μπλε Ώρες | Επεισόδιο 4 16/09/2026 
 https://www.skai.gr/tv/episode/seires/mple-ores/2026-09-16-21|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2026-2027",Μπλε Ώρες | Επεισόδιο 5 17/09/2026 
@@ -74,6 +72,8 @@ https://www.skai.gr/tv/episode/seires/mple-ores/2026-10-23-21|webvidfulldig
 https://www.skai.gr/tv/episode/seires/mple-ores/2026-10-26-21|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2026-2027",Μπλε Ώρες | Επεισόδιο 38 27/10/2026 
 https://www.skai.gr/tv/episode/seires/mple-ores/2026-10-27-21|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 2026-2027",Μπλε Ώρες | Επεισόδιο 39 29/10/2026 
+https://www.skai.gr/tv/episode/seires/mple-ores/2026-10-29-21|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2026-2027",Μπλε Ώρες | Επεισόδιο 39 29/10/2026 
 https://www.skai.gr/tv/episode/seires/mple-ores/2026-10-29-21|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2026-2027",Μπλε Ώρες | Επεισόδιο 40 30/10/2026 

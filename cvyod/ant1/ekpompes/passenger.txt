@@ -74,3 +74,5 @@ https://www.ant1live.com/webtv/podcasts/psyhagogia/passenger/epeisodio-4-0|webfu
 https://www.ant1live.com/webtv/podcasts/psyhagogia/passenger/epeisodio-5-0|webfulldig
 #EXTINF:-1 group-title="Season4",ΕΠΕΙΣΟΔΙΟ 6
 https://www.ant1live.com/webtv/podcasts/psyhagogia/passenger/epeisodio-6-0|webfulldig
+#EXTINF:-1 group-title="Season4",ΕΠΕΙΣΟΔΙΟ 7
+https://www.ant1live.com/webtv/podcasts/psyhagogia/passenger/epeisodio-7-0|webfulldig

@@ -740,3 +740,7 @@ https://www.alphacyprus.com.cy/shows/ellinikes-seires/tosoisou/webtv/s6-epeisodi
 https://www.alphacyprus.com.cy/shows/ellinikes-seires/tosoisou/webtv/s6-epeisodio-69|webvidfulldig
 #EXTINF:-1 group-title="Season 6",Σ6 - Επεισόδιο 70
 https://www.alphacyprus.com.cy/shows/ellinikes-seires/tosoisou/webtv/s6-epeisodio-70|webvidfulldig
+#EXTINF:-1 group-title="Season 7",Σ7 - Επεισόδιο 1
+https://www.alphacyprus.com.cy/shows/ellinikes-seires/tosoisou/webtv/s7-epeisodio-1|webvidfulldig
+#EXTINF:-1 group-title="Season 7",Σ7 - Επεισόδιο 2
+https://www.alphacyprus.com.cy/shows/ellinikes-seires/tosoisou/webtv/s7-epeisodio-2|webvidfulldig
