@@ -58,3 +58,9 @@ https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS058511-0028-kouts
 https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS058511-0029-koutsoupies/PS058511-0029-koutsoupies/index.m3u8
 #EXTINF:-1 group-title="Season 1",Ε30 ‧ Κουτσουπιές
 https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS058511-0030-koutsoupies/PS058511-0030-koutsoupies/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε31 ‧ Κουτσουπιές
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS058511-0031-koutsoupies/PS058511-0031-koutsoupies/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε32 ‧ Κουτσουπιές
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS058511-0032-koutsoupies/PS058511-0032-koutsoupies/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε33 ‧ Κουτσουπιές
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS058511-0033-koutsoupies/PS058511-0033-koutsoupies/index.m3u8
