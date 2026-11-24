@@ -87,6 +87,8 @@ SERIES$$hub://gvrod/alpha/sires_alpha/to-proxenio-tis-ioulias.txt
 SERIES$$hub://gvrod/alpha/sires_alpha/o-skaravaios.txt
 
 
+#EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="κοινωνική,δράμα" tvg-logo="hub://logseries/alpha/mia-ginaika.webp" tvg-description="hub://desc/Alpha/mia-ginaika" ,Μια Γυναίκα (2026)
+SERIES$$hub://gvrod/alpha/sires/Μια Γυναίκα (2026)
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="κοινωνική" tvg-logo="hub://logseries/alpha/oi-kores-tis-aretis.webp" tvg-description="hub://desc/Alpha/oi-kores-tis-aretis" ,Οι Κόρες της Αρετής (2026)
 SERIES$$hub://gvrod/alpha/sires/oi-kores-tis-aretis.(2026)
 #EXTINF:-1 group-title="ALPHA ΣΕΙΡΕΣ (Άλλες Πηγές)" tvg-genre="κωμωδία" tvg-logo="hub://logseries/alpha/Φόνοιστοκαμπαναριό2023.webp"  tvg-description="hub://desc/Alpha/Φόνοι.στο.καμπαναριό.(2023)" ,ΦΟΝΟΙ ΣΤΟ ΚΑΜΠΑΝΑΡΙΟ (2023/2026)
