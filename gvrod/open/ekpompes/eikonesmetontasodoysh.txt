@@ -22,8 +22,6 @@ https://www.tvopen.gr/watch/16130/entyposiakeseikonesapotoparadosiakosooyfantasi
 https://www.tvopen.gr/watch/16555/eikonesmetontasodoysh7cmarokoboltastastenathsmentina|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Ταϊλάνδη: Bangla Road, το πιο hot σημείο του νησιού
 https://www.tvopen.gr/watch/17275/eikonesmetontasodoysh7ctailandhbanglaroadtopiohotshmeiotoynhsioy|webvidfulldig
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Ταϊλάνδη: Σε ένα κινηματογραφικό σκηνικό στα νησιά James Bond
-https://www.tvopen.gr/watch/17810/eikonesmetontasodoysh7ctailandhseenakinhmatografikoskhnikostanhsiajamesbond|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Μπανγκόκ: Βόλτα στα χρυσά κτίρια των Βασιλικών Ανακτόρων
 https://www.tvopen.gr/watch/18314/eikonesmetontasodoysh7cmpangkokboltastaxrysaktiriatonbasilikonanaktoron|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Μπανγκόκ: Σε μία αληθινά ασυνήθιστη Αγορά Τρένου
@@ -44,6 +42,8 @@ https://www.tvopen.gr/watch/22613/ahgiorghstoshmeioopoysynantietaihparadoshhisto
 https://www.tvopen.gr/watch/32781/spetsesooneirikoskolposthszogerias|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Σπέτσες: Βόλτα στην «κινηματογραφική» σπηλιά του Μπεκίρη
 https://www.tvopen.gr/watch/32915/spetsesboltasthnkinhmatografikhsphliatoympekirh|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση | Ταϊλάνδη: Σε ένα κινηματογραφικό σκηνικό στα νησιά James Bond
+https://www.tvopen.gr/watch/17810/eikonesmetontasodoysh7ctailandhseenakinhmatografikoskhnikostanhsiajamesbond|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Ύδρα: Μια απίστευτη εμπειρία πάνω σε γαϊδουράκια
 https://www.tvopen.gr/watch/33485/ydramiaapisteythempeiriapanosegaidoyrakia|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Νησί Δοκός: Ένας επίγειος παράδεισος δίπλα στην Ύδρα
@@ -1780,3 +1780,5 @@ https://www.tvopen.gr/watch/282267/eikonesmetontasodoyshsardhniameros1o|webvidfu
 https://www.tvopen.gr/watch/282891/eikonesmetontasodoyshsardhniameros2o|webvidfulldig
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση- Σαρδηνία  Μέρος 3ο
 https://www.tvopen.gr/watch/283665/eikonesmetontasodoyshsardhniameros3o|webvidfulldig
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Εικόνες με τον Τάσο Δούση - Κορσική
+https://www.tvopen.gr/watch/284141/eikonesmetontasodoyshkorsikh|webvidfulldig

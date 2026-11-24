@@ -1,7 +1,3 @@
-#EXTINF:-1 group-title="Σεζόν 10",Σ10 - ΕΠΕΙΣΟΔΙΟ 2
-https://www.alphatv.gr/show/deal/show-episode/772267-s10-epeisodio-2/|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 10",Σ10 - ΕΠΕΙΣΟΔΙΟ 3
-https://www.alphatv.gr/show/deal/show-episode/772270-s10-epeisodio-3/|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 10",Σ10 - ΕΠΕΙΣΟΔΙΟ 4
 https://www.alphatv.gr/show/deal/show-episode/772273-s10-epeisodio-4/|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 10",Σ10 - ΕΠΕΙΣΟΔΙΟ 5
@@ -34,3 +30,7 @@ https://www.alphatv.gr/show/deal/show-episode/785090-s10-epeisodio-17/|webvidful
 https://www.alphatv.gr/show/deal/show-episode/785093-s10-epeisodio-18/|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 10",Σ10 - ΕΠΕΙΣΟΔΙΟ 19
 https://www.alphatv.gr/show/deal/show-episode/785097-s10-epeisodio-19/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 10",Σ10 - ΕΠΕΙΣΟΔΙΟ 20
+https://www.alphatv.gr/show/deal/show-episode/785101-s10-epeisodio-20/|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 10",Σ10 - ΕΠΕΙΣΟΔΙΟ 21
+https://www.alphatv.gr/show/deal/show-episode/790318-s10-epeisodio-21/|webvidfulldig
