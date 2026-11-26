@@ -220,3 +220,7 @@ https://www.sigmatv.com/shows/poullaki/episodes/47409|webvidfulldig
 https://www.sigmatv.com/shows/poullaki/episodes/47767|webvidfulldig
 #EXTINF:-1 group-title="Season 2",Οικογένεια Πουλλάκη (2ος κύκλος) επ. 21
 https://www.sigmatv.com/shows/poullaki/episodes/47770|webvidfulldig
+#EXTINF:-1 group-title="Season 2",Οικογένεια Πουλλάκη (2ος κύκλος) επ. 22
+https://www.sigmatv.com/shows/poullaki/episodes/47773|webvidfulldig
+#EXTINF:-1 group-title="Season 2",Οικογένεια Πουλλάκη (2ος κύκλος) επ. 23
+https://www.sigmatv.com/shows/poullaki/episodes/47776|webvidfulldig

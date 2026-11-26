@@ -16,10 +16,6 @@ https://www.skai.gr/tv/episode/seires/antonios-kleopatra/2026-09-29-18|webvidful
 https://www.skai.gr/tv/episode/seires/antonios-kleopatra/2026-09-30-18|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2026-2027",Αντώνιος & Κλεοπάτρα | Επεισόδιο 9 01/10/2026 
 https://www.skai.gr/tv/episode/seires/antonios-kleopatra/2026-10-01-18|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2026-2027",Αντώνιος & Κλεοπάτρα | Επεισόδιο 10 02/10/2026 
-https://www.skai.gr/tv/episode/seires/antonios-kleopatra/2026-10-02-18|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2026-2027",Αντώνιος & Κλεοπάτρα | Επεισόδιο 11 05/10/2026 
-https://www.skai.gr/tv/episode/seires/antonios-kleopatra/2026-10-05-18|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2026-2027",Αντώνιος & Κλεοπάτρα | Επεισόδιο 12 06/10/2026 
 https://www.skai.gr/tv/episode/seires/antonios-kleopatra/2026-10-06-18|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2026-2027",Αντώνιος & Κλεοπάτρα | Επεισόδιο 13 07/10/2026 
@@ -38,6 +34,8 @@ https://www.skai.gr/tv/episode/seires/antonios-kleopatra/2026-10-14-18|webvidful
 https://www.skai.gr/tv/episode/seires/antonios-kleopatra/2026-10-15-18|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2026-2027",Αντώνιος & Κλεοπάτρα | Επεισόδιο 20 16/10/2026 
 https://www.skai.gr/tv/episode/seires/antonios-kleopatra/2026-10-16-18|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 2026-2027",Αντώνιος & Κλεοπάτρα | Επεισόδιο 21 19/10/2026 
+https://www.skai.gr/tv/episode/seires/antonios-kleopatra/2026-10-19-18|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2026-2027",Αντώνιος & Κλεοπάτρα | Επεισόδιο 22 20/10/2026 
 https://www.skai.gr/tv/episode/seires/antonios-kleopatra/2026-10-20-18|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2026-2027",Αντώνιος & Κλεοπάτρα | Επεισόδιο 23 21/10/2026 
@@ -62,8 +60,6 @@ https://www.skai.gr/tv/episode/seires/antonios-kleopatra/2026-11-03-18|webvidful
 https://www.skai.gr/tv/episode/seires/antonios-kleopatra/2026-11-04-18|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2026-2027",Αντώνιος & Κλεοπάτρα | Επεισόδιο 33 05/11/2026 
 https://www.skai.gr/tv/episode/seires/antonios-kleopatra/2026-11-05-18|webvidfulldig
-#EXTINF:-1 group-title="Σεζόν 2026-2027",Αντώνιος & Κλεοπάτρα | Επεισόδιο 33 05/11/2026 
-https://www.skai.gr/tv/episode/seires/antonios-kleopatra/2026-11-05-18|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2026-2027",Αντώνιος & Κλεοπάτρα | Επεισόδιο 34 06/11/2026 
 https://www.skai.gr/tv/episode/seires/antonios-kleopatra/2026-11-06-18|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2026-2027",Αντώνιος & Κλεοπάτρα | Επεισόδιο 35 09/11/2026 
@@ -86,3 +82,9 @@ https://www.skai.gr/tv/episode/seires/antonios-kleopatra/2026-11-18-18|webvidful
 https://www.skai.gr/tv/episode/seires/antonios-kleopatra/2026-11-19-18|webvidfulldig
 #EXTINF:-1 group-title="Σεζόν 2026-2027",Αντώνιος & Κλεοπάτρα | Επεισόδιο 44 20/11/2026 
 https://www.skai.gr/tv/episode/seires/antonios-kleopatra/2026-11-20-18|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 2026-2027",Αντώνιος & Κλεοπάτρα | Επεισόδιο 45 23/11/2026 
+https://www.skai.gr/tv/episode/seires/antonios-kleopatra/2026-11-23-18|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 2026-2027",Αντώνιος & Κλεοπάτρα | Επεισόδιο 46 24/11/2026 
+https://www.skai.gr/tv/episode/seires/antonios-kleopatra/2026-11-24-18|webvidfulldig
+#EXTINF:-1 group-title="Σεζόν 2026-2027",Αντώνιος & Κλεοπάτρα | Επεισόδιο 47 25/11/2026 
+https://www.skai.gr/tv/episode/seires/antonios-kleopatra/2026-11-25-18|webvidfulldig

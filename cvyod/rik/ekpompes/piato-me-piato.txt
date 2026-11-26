@@ -1,7 +1,3 @@
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Πιάτο με πιάτο 12/10/26
-https://v6.cloudskep.com/rikvod/piatomepiato/piato121026.mp4?attachment=true
-#EXTINF:-1 group-title="Όλα τα επεισόδια",Πιάτο με Πιάτο 13/10/26
-https://v6.cloudskep.com/rikvod/piatomepiato/piato131026.mp4?attachment=true
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Πιάτο με Πιάτο 14/10/26
 https://v6.cloudskep.com/rikvod/piatomepiato/piato141026.mp4?attachment=true
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Πιάτο με Πιάτο 16/10/26
@@ -58,3 +54,7 @@ https://v6.cloudskep.com/rikvod/piatomepiato/piato191126.mp4?attachment=true
 https://v6.cloudskep.com/rikvod/piatomepiato/piato201126.mp4?attachment=true
 #EXTINF:-1 group-title="Όλα τα επεισόδια",Πιάτο με πιάτο 23/11/26
 https://v6.cloudskep.com/rikvod/piatomepiato/piato231126.mp4?attachment=true
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Πιάτο με Πιάτο 24/11/26
+https://v6.cloudskep.com/rikvod/piatomepiato/piato241126.mp4?attachment=true
+#EXTINF:-1 group-title="Όλα τα επεισόδια",Πιάτο με Πιάτο 25/11/26
+https://v6.cloudskep.com/rikvod/piatomepiato/piato251126.mp4?attachment=true
