@@ -26,3 +26,5 @@ https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS048835-tvland-ep1
 https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS048836-tvland-ep13/PS048836-tvland-ep13/index.m3u8
 #EXTINF:-1 group-title="Season 1",Ε14
 https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS048837-tvland-ep14/PS048837-tvland-ep14/index.m3u8
+#EXTINF:-1 group-title="Season 1",Ε15
+https://ert-ucdn.broadpeak-aas.com/bpk-vod/vod-nodrm/default/PS048838-tvland-ep15/PS048838-tvland-ep15/index.m3u8
